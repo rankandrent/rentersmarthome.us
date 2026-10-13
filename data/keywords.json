@@ -1,0 +1,578 @@
+[
+  {
+    "keyword": "apartment security system",
+    "category": "security",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "secondaryKeywords": [
+      "best apartment security system",
+      "renter security system",
+      "wireless security system for apartment",
+      "no drill alarm system",
+      "best security system for apartment",
+      "security system for apartment",
+      "apartment security devices"
+    ],
+    "questions": [
+      "what is the best security system for an apartment",
+      "can renters install a security system",
+      "do apartment security systems need a contract"
+    ],
+    "workingTitle": "Best Apartment Security Systems for Renters (No Drilling, No Contract)",
+    "cluster": "apartment security",
+    "priority": 9,
+    "rationale": "1.6k/mo, KD 15, traffic potential 4.6k (Ahrefs)",
+    "slug": "apartment-security-system",
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-13T00:00:00.000Z",
+    "ahrefs": {
+      "volume": 1600,
+      "kd": 15,
+      "trafficPotential": 4600
+    }
+  },
+  {
+    "keyword": "alexa vs google home",
+    "category": "hubs-voice",
+    "articleType": "comparison",
+    "intent": "commercial",
+    "secondaryKeywords": [
+      "amazon echo vs google nest",
+      "alexa or google home for apartment",
+      "best smart speaker ecosystem"
+    ],
+    "questions": [
+      "is alexa or google home better",
+      "which works with more smart devices",
+      "does alexa or google home work better with matter"
+    ],
+    "workingTitle": "Alexa vs Google Home: Which Is Better for a Rental?",
+    "cluster": "voice assistants",
+    "priority": 9,
+    "rationale": "1.3k/mo, KD 2 (Ahrefs)",
+    "slug": "alexa-vs-google-home",
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-13T00:00:00.000Z",
+    "ahrefs": {
+      "volume": 1300,
+      "kd": 2,
+      "trafficPotential": 800
+    }
+  },
+  {
+    "keyword": "indoor security camera no subscription",
+    "category": "security",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "secondaryKeywords": [
+      "best indoor camera without subscription",
+      "security camera with local storage",
+      "no monthly fee security camera"
+    ],
+    "questions": [
+      "are there security cameras without a monthly fee",
+      "do wyze cameras need a subscription",
+      "which cameras record to an sd card"
+    ],
+    "workingTitle": "Best Indoor Security Cameras With No Subscription",
+    "cluster": "apartment security",
+    "priority": 8,
+    "rationale": "TP 1.1k, KD 7 (Ahrefs)",
+    "slug": "indoor-security-camera-no-subscription",
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-13T00:00:00.000Z",
+    "ahrefs": {
+      "volume": 70,
+      "kd": 7,
+      "trafficPotential": 1100
+    }
+  },
+  {
+    "keyword": "switchbot lock pro review",
+    "category": "smart-locks",
+    "articleType": "review",
+    "intent": "commercial",
+    "secondaryKeywords": [
+      "switchbot lock",
+      "switchbot lock pro",
+      "switchbot lock renters"
+    ],
+    "questions": [
+      "does switchbot lock work with existing deadbolt",
+      "does switchbot lock need a hub",
+      "is switchbot lock pro secure"
+    ],
+    "workingTitle": "SwitchBot Lock Pro Review: The Stick-On Smart Lock for Renters",
+    "cluster": "smart locks",
+    "priority": 8,
+    "rationale": "switchbot lock 600/mo, KD 8 (Ahrefs)",
+    "slug": "switchbot-lock-pro-review",
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-13T00:00:00.000Z",
+    "ahrefs": {
+      "volume": 600,
+      "kd": 8,
+      "trafficPotential": 600
+    }
+  },
+  {
+    "keyword": "door camera for apartment",
+    "category": "security",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "secondaryKeywords": [
+      "apartment door camera",
+      "apartment doorbell camera",
+      "front door camera for apartment",
+      "camera for apartment door",
+      "doorbell camera for apartment"
+    ],
+    "questions": [
+      "can you put a ring doorbell on an apartment",
+      "what doorbell camera works without wiring",
+      "do apartment doorbell cameras need landlord permission"
+    ],
+    "workingTitle": "Best Door Cameras for Apartments (No Drilling, No Wiring)",
+    "cluster": "apartment security",
+    "priority": 9,
+    "rationale": "900/mo, KD 0, cluster TP 1.3k (Ahrefs)",
+    "slug": "door-camera-for-apartment",
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-13T00:00:00.000Z",
+    "ahrefs": {
+      "volume": 900,
+      "kd": 0,
+      "trafficPotential": 500
+    }
+  },
+  {
+    "keyword": "smart space heater",
+    "category": "climate",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "secondaryKeywords": [
+      "wifi space heater",
+      "alexa space heater",
+      "smart heater for apartment",
+      "space heater with app"
+    ],
+    "questions": [
+      "are smart space heaters safe",
+      "can you plug a space heater into a smart plug",
+      "what is the best smart space heater"
+    ],
+    "workingTitle": "Best Smart Space Heaters for Apartments",
+    "cluster": "climate",
+    "priority": 7,
+    "rationale": "1k/mo, KD 0 (Ahrefs)",
+    "slug": "smart-space-heater",
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-13T00:00:00.000Z",
+    "ahrefs": {
+      "volume": 1000,
+      "kd": 0,
+      "trafficPotential": 20
+    }
+  },
+  {
+    "keyword": "smart home starter kit",
+    "category": "guides",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "secondaryKeywords": [
+      "smart home starter kit for apartment",
+      "beginner smart home devices",
+      "smart home bundle"
+    ],
+    "questions": [
+      "what should i buy first for a smart home",
+      "how much does a smart home starter kit cost",
+      "do i need a hub to start a smart home"
+    ],
+    "workingTitle": "The Best Smart Home Starter Kit for Renters",
+    "cluster": "renter smart home",
+    "priority": 7,
+    "rationale": "200/mo, KD 4 (Ahrefs)",
+    "slug": "smart-home-starter-kit",
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-13T00:00:00.000Z",
+    "ahrefs": {
+      "volume": 200,
+      "kd": 4,
+      "trafficPotential": 70
+    }
+  },
+  {
+    "keyword": "mini split smart controller",
+    "category": "climate",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "secondaryKeywords": [
+      "smart mini split controller",
+      "sensibo vs cielo",
+      "wifi mini split controller",
+      "smart ac controller"
+    ],
+    "questions": [
+      "how do i make my mini split smart",
+      "does sensibo work with mini splits",
+      "is cielo better than sensibo"
+    ],
+    "workingTitle": "Best Smart Mini-Split & AC Controllers for Renters",
+    "cluster": "climate",
+    "priority": 7,
+    "rationale": "KD 0 (Ahrefs)",
+    "slug": "mini-split-smart-controller",
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-13T00:00:00.000Z",
+    "ahrefs": {
+      "volume": 30,
+      "kd": 0,
+      "trafficPotential": 60
+    }
+  },
+  {
+    "keyword": "smart light switch no wiring",
+    "category": "lighting",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "secondaryKeywords": [
+      "wireless smart light switch",
+      "stick on smart switch",
+      "smart switch without neutral wire for renters",
+      "switchbot bot light switch"
+    ],
+    "questions": [
+      "how can i make my light switch smart without wiring",
+      "do stick on smart switches work",
+      "can renters replace light switches"
+    ],
+    "workingTitle": "Best Smart Light Switches With No Wiring (Renter-Safe)",
+    "cluster": "lighting",
+    "priority": 6,
+    "rationale": "KD 1 (Ahrefs)",
+    "slug": "smart-light-switch-no-wiring",
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-13T00:00:00.000Z",
+    "ahrefs": {
+      "volume": 20,
+      "kd": 1,
+      "trafficPotential": 60
+    }
+  },
+  {
+    "keyword": "smart bulbs for apartment",
+    "category": "lighting",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "secondaryKeywords": [
+      "best smart bulbs for renters",
+      "wifi smart bulbs",
+      "matter smart bulbs",
+      "hue vs wiz"
+    ],
+    "questions": [
+      "do smart bulbs need a hub",
+      "are smart bulbs worth it in an apartment",
+      "do smart bulbs work with regular switches"
+    ],
+    "workingTitle": "Best Smart Bulbs for Apartments in 2026",
+    "cluster": "lighting",
+    "priority": 6,
+    "rationale": "renter lighting cluster",
+    "slug": "smart-bulbs-for-apartment",
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-13T00:00:00.000Z"
+  },
+  {
+    "keyword": "can i install a smart thermostat in my apartment",
+    "category": "climate",
+    "articleType": "guide",
+    "intent": "commercial",
+    "secondaryKeywords": [
+      "apartment thermostat",
+      "smart thermostat for renters",
+      "smart thermostat apartment",
+      "ecobee for renters"
+    ],
+    "questions": [
+      "can i install a smart thermostat in my apartment",
+      "do i need landlord permission for a thermostat",
+      "what if my apartment has no c-wire"
+    ],
+    "workingTitle": "Smart Thermostats for Renters: What You Can Install (and What to Ask First)",
+    "cluster": "climate",
+    "priority": 7,
+    "rationale": "parent topic of 'apartment thermostat' (200/mo, KD 0, Ahrefs)",
+    "slug": "can-i-install-a-smart-thermostat-in-my-apartment",
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-13T00:00:00.000Z",
+    "ahrefs": {
+      "volume": 200,
+      "kd": 0,
+      "trafficPotential": 200
+    }
+  },
+  {
+    "keyword": "how to install a smart lock in an apartment",
+    "category": "smart-locks",
+    "articleType": "how-to",
+    "intent": "informational",
+    "secondaryKeywords": [
+      "install smart lock renters",
+      "smart lock installation apartment",
+      "keep original deadbolt"
+    ],
+    "questions": [
+      "do i need landlord permission to install a smart lock",
+      "how long does smart lock installation take",
+      "how do i restore the original lock when i move"
+    ],
+    "workingTitle": "How to Install a Smart Lock in an Apartment (and Undo It on Move-Out)",
+    "cluster": "smart locks",
+    "priority": 6,
+    "rationale": "supports smart lock pillar",
+    "slug": "how-to-install-a-smart-lock-in-an-apartment",
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-13T00:00:00.000Z"
+  },
+  {
+    "keyword": "smart blinds for renters",
+    "category": "lighting",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "secondaryKeywords": [
+      "no drill smart blinds",
+      "smart curtain opener",
+      "switchbot curtain"
+    ],
+    "questions": [
+      "can renters install smart blinds",
+      "how do smart curtain robots work",
+      "are smart blinds worth it"
+    ],
+    "workingTitle": "Best Smart Blinds & Curtain Openers for Renters",
+    "cluster": "lighting",
+    "priority": 5,
+    "rationale": "renter lighting cluster",
+    "slug": "smart-blinds-for-renters",
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-13T00:00:00.000Z"
+  },
+  {
+    "keyword": "how to move your smart home to a new apartment",
+    "category": "guides",
+    "articleType": "how-to",
+    "intent": "informational",
+    "secondaryKeywords": [
+      "moving smart home devices",
+      "reset smart devices before moving",
+      "smart home moving checklist"
+    ],
+    "questions": [
+      "do smart devices need to be reset when you move",
+      "how to change wifi on smart plugs",
+      "should i leave smart devices for the next tenant"
+    ],
+    "workingTitle": "How to Move Your Smart Home to a New Apartment (Checklist)",
+    "cluster": "renter smart home",
+    "priority": 5,
+    "rationale": "information gain topic",
+    "slug": "how-to-move-your-smart-home-to-a-new-apartment",
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-13T00:00:00.000Z"
+  },
+  {
+    "keyword": "apartment security camera",
+    "category": "security",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "secondaryKeywords": [
+      "security camera for apartment",
+      "camera for apartment",
+      "apartment video security",
+      "best camera for apartment"
+    ],
+    "questions": [
+      "can i put a security camera in my apartment",
+      "what is the best camera for an apartment",
+      "do apartment cameras need wifi"
+    ],
+    "workingTitle": "Best Security Cameras for Apartments (Renter-Safe Picks)",
+    "cluster": "apartment security",
+    "priority": 8,
+    "rationale": "350/mo, KD 1 (Ahrefs)",
+    "slug": "apartment-security-camera",
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-13T00:00:00.000Z",
+    "ahrefs": {
+      "volume": 350,
+      "kd": 1,
+      "trafficPotential": 500
+    }
+  },
+  {
+    "keyword": "locked out of apartment",
+    "category": "smart-locks",
+    "articleType": "how-to",
+    "intent": "informational",
+    "secondaryKeywords": [
+      "locked out of apartment how to get in",
+      "locked out of apartment after hours",
+      "locked out of my apartment what to do"
+    ],
+    "questions": [
+      "what to do if locked out of apartment",
+      "will my landlord let me in if im locked out",
+      "how can a smart lock prevent lockouts"
+    ],
+    "workingTitle": "Locked Out of Your Apartment? What to Do Now (and Never Again)",
+    "cluster": "smart locks",
+    "priority": 8,
+    "rationale": "800/mo, KD 1 (Ahrefs)",
+    "slug": "locked-out-of-apartment",
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-13T00:00:00.000Z",
+    "ahrefs": {
+      "volume": 800,
+      "kd": 1,
+      "trafficPotential": 350
+    }
+  },
+  {
+    "keyword": "apartment door security",
+    "category": "smart-locks",
+    "articleType": "guide",
+    "intent": "commercial",
+    "secondaryKeywords": [
+      "apartment security devices",
+      "extra lock for apartment door",
+      "apartment door lock",
+      "renter friendly door lock",
+      "how to secure apartment door"
+    ],
+    "questions": [
+      "how can i make my apartment door more secure",
+      "can i add a lock to my apartment door",
+      "what is a portable door lock"
+    ],
+    "workingTitle": "Apartment Door Security: 9 Renter-Safe Upgrades",
+    "cluster": "apartment security",
+    "priority": 8,
+    "rationale": "700/mo, KD 0 (Ahrefs)",
+    "slug": "apartment-door-security",
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-13T00:00:00.000Z",
+    "ahrefs": {
+      "volume": 700,
+      "kd": 0,
+      "trafficPotential": 250
+    }
+  },
+  {
+    "keyword": "dorm room lights",
+    "category": "lighting",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "secondaryKeywords": [
+      "dorm lights",
+      "dorm room lighting",
+      "college dorm lights",
+      "dorm lighting"
+    ],
+    "questions": [
+      "what lights are allowed in dorms",
+      "are led strip lights allowed in dorms",
+      "best smart lights for dorm room"
+    ],
+    "workingTitle": "Best Dorm Room Lights (Dorm-Approved & Smart)",
+    "cluster": "lighting",
+    "priority": 7,
+    "rationale": "300/mo, KD 0 (Ahrefs)",
+    "slug": "dorm-room-lights",
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-13T00:00:00.000Z",
+    "ahrefs": {
+      "volume": 300,
+      "kd": 0,
+      "trafficPotential": 800
+    }
+  },
+  {
+    "keyword": "apartment lighting ideas",
+    "category": "lighting",
+    "articleType": "guide",
+    "intent": "informational",
+    "secondaryKeywords": [
+      "renter friendly ceiling lights",
+      "apartment lighting",
+      "apartment lights",
+      "renter friendly light fixtures"
+    ],
+    "questions": [
+      "how can i improve lighting in my apartment",
+      "how do i light a dark apartment without overhead lights",
+      "can i change light fixtures in my apartment"
+    ],
+    "workingTitle": "Apartment Lighting Ideas: 15 Renter-Friendly Upgrades",
+    "cluster": "renter lighting",
+    "priority": 7,
+    "rationale": "200/mo, KD 0 (Ahrefs)",
+    "slug": "apartment-lighting-ideas",
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-13T00:00:00.000Z",
+    "ahrefs": {
+      "volume": 200,
+      "kd": 0,
+      "trafficPotential": 250
+    }
+  },
+  {
+    "keyword": "apartment security camera laws for tenants",
+    "category": "security",
+    "articleType": "guide",
+    "intent": "informational",
+    "secondaryKeywords": [
+      "is it legal to put a camera outside your apartment",
+      "can tenants install security cameras",
+      "apartment camera rules"
+    ],
+    "questions": [
+      "can my landlord stop me from installing a camera",
+      "can i put a camera in the hallway of my apartment",
+      "can tenants record audio"
+    ],
+    "workingTitle": "Apartment Security Camera Laws for Tenants (Plain-English Guide)",
+    "cluster": "apartment security",
+    "priority": 6,
+    "rationale": "300/mo, KD 0 (Ahrefs)",
+    "slug": "apartment-security-camera-laws-for-tenants",
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-13T00:00:00.000Z",
+    "ahrefs": {
+      "volume": 300,
+      "kd": 0,
+      "trafficPotential": 50
+    }
+  }
+]

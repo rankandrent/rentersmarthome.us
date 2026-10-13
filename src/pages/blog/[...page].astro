@@ -1,0 +1,27 @@
+---
+import type { GetStaticPaths } from 'astro';
+import Base from '../../layouts/Base.astro';
+import PostItem from '../../components/PostItem.astro';
+import { getPublishedPosts } from '../../lib/posts';
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const posts = await getPublishedPosts();
+  return paginate(posts, { pageSize: 18 });
+}) satisfies GetStaticPaths;
+
+const { page } = Astro.props;
+const title = page.currentPage === 1 ? 'All renter smart home guides' : `All guides (page ${page.currentPage})`;
+---
+<Base title={title} description="Every RenterSmartHome guide, newest first: smart locks, cameras, thermostats, lighting, plugs and renter how-tos.">
+  <div class="wrap">
+    <header class="page-head">
+      <h1>{title}</h1>
+      <p class="dek">Renter-first advice on smart home gear that installs without drilling and leaves without a trace.</p>
+    </header>
+    {page.data.length ? <div class="posts">{page.data.map((p) => <PostItem post={p} />)}</div> : <p class="empty">No guides yet. Check back soon.</p>}
+    <nav class="pager" aria-label="Pagination">
+      {page.url.prev ? <a class="btn btn-ghost btn-sm" href={page.url.prev}>Newer guides</a> : <span></span>}
+      {page.url.next ? <a class="btn btn-ghost btn-sm" href={page.url.next}>Older guides</a> : <span></span>}
+    </nav>
+  </div>
+</Base>

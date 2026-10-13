@@ -1,0 +1,32 @@
+---
+import Base from '../../layouts/Base.astro';
+import PostItem from '../../components/PostItem.astro';
+import { getPublishedPosts } from '../../lib/posts';
+import { SITE, absUrl } from '../../lib/site';
+
+export async function getStaticPaths() {
+  const posts = await getPublishedPosts();
+  return SITE.categories.map((c) => ({
+    params: { cat: c.slug },
+    props: { category: c, posts: posts.filter((p) => p.data.category === c.slug) },
+  }));
+}
+const { category, posts } = Astro.props;
+const jsonLd = [{
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: category.name,
+  description: category.blurb,
+  url: absUrl(`/category/${category.slug}/`),
+}];
+---
+<Base title={`${category.name} for Renters`} description={`${category.blurb} Renter-friendly ${category.name.toLowerCase()} guides, picks and how-tos.`} jsonLd={jsonLd} noindex={posts.length === 0}>
+  <div class="wrap">
+    <header class="page-head">
+      <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span><span>{category.name}</span></nav>
+      <h1>{category.name} for renters</h1>
+      <p class="dek">{category.blurb}</p>
+    </header>
+    {posts.length ? <div class="posts">{posts.map((p) => <PostItem post={p} />)}</div> : <p class="empty">Guides for this category are being researched right now.</p>}
+  </div>
+</Base>

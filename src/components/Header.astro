@@ -1,0 +1,29 @@
+---
+import Logo from './Logo.astro';
+const path = Astro.url.pathname;
+const links = [
+  { href: '/category/smart-locks/', label: 'Locks' },
+  { href: '/category/security/', label: 'Cameras' },
+  { href: '/category/climate/', label: 'Climate' },
+  { href: '/category/lighting/', label: 'Lighting' },
+  { href: '/category/plugs-power/', label: 'Plugs' },
+  { href: '/category/guides/', label: 'Renter guides' },
+];
+---
+<header class="site-header">
+  <div class="wrap">
+    <Logo />
+    <nav class="nav" aria-label="Main">
+      {links.map((l) => <a href={l.href} aria-current={path.startsWith(l.href) ? 'page' : undefined}>{l.label}</a>)}
+    </nav>
+    <details class="menu">
+      <summary>Menu</summary>
+      <div class="menu-panel">
+        {links.map((l) => <a href={l.href}>{l.label}</a>)}
+        <a href="/category/hubs-voice/">Hubs and voice assistants</a>
+        <a href="/blog/">All guides</a>
+        <a href="/about/">About us</a>
+      </div>
+    </details>
+  </div>
+</header>

@@ -1,0 +1,12 @@
+{
+  "modifiers": ["for apartment", "for renters", "no drill", "without landlord", "vs", "best"],
+  "categories": {
+    "smart-locks": ["smart lock for apartment", "smart lock renters", "keyless entry apartment", "smart lock over existing deadbolt", "smart lock no installation"],
+    "security": ["apartment security camera", "peephole camera", "renter security system", "doorbell camera for apartment", "indoor camera no subscription"],
+    "climate": ["smart thermostat for renters", "window ac smart controller", "smart space heater", "smart thermostat apartment", "mini split smart controller"],
+    "lighting": ["smart bulbs for apartment", "smart light switch no wiring", "led strip lights apartment", "smart lighting renters", "stick on smart switch"],
+    "plugs-power": ["smart plug", "smart power strip", "energy monitoring plug", "outdoor smart plug", "matter smart plug"],
+    "hubs-voice": ["matter hub", "smart home hub for apartment", "alexa vs google home apartment", "homekit apartment", "thread border router"],
+    "guides": ["smart home for renters", "can renters install smart home", "apartment smart home ideas", "landlord smart home rules", "move smart home to new apartment"]
+  }
+}

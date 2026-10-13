@@ -1,0 +1,28 @@
+{
+  "name": "rentersmarthome",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RenterSmartHome.us - renter-friendly smart home guides, built with Astro and an agentic content pipeline.",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check:content": "node scripts/check-content.mjs",
+    "agents:run": "node agents/orchestrator.mjs",
+    "agents:dry": "node agents/orchestrator.mjs --dry-run",
+    "agents:keywords": "node agents/keyword-agent.mjs",
+    "agents:schedule": "node agents/lib/schedule.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.133.0",
+    "@astrojs/rss": "^4.0.19",
+    "@astrojs/sitemap": "^3.7.4",
+    "astro": "^5.18.2",
+    "gray-matter": "^4.0.3",
+    "zod": "^3.25.76"
+  }
+}

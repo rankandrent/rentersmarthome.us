@@ -1,0 +1,13 @@
+---
+import Page from '../layouts/Page.astro';
+import { SITE } from '../lib/site';
+---
+<Page title="About RenterSmartHome" description="RenterSmartHome helps apartment and house renters build a smart home that is lease-friendly, deposit-safe and portable.">
+  <p>{SITE.name} exists for the roughly 44 million U.S. households that rent. Most smart home advice assumes you own the walls: rewire the switches, swap the deadbolt, mount a doorbell with four screws. Renters can't do most of that without risking a security deposit or breaking a lease.</p>
+  <h2>What we cover</h2>
+  <p>We research smart locks, cameras, thermostats, lighting, plugs and voice assistants through one lens: <strong>can a renter install it without permanent changes, and take it with them when they move?</strong> Every guide flags installation method, what to ask your landlord, and how to restore the original hardware.</p>
+  <h2>How we stay independent</h2>
+  <p>We are reader-supported. When you buy through our links we may earn an affiliate commission, which never changes the price you pay. Brands cannot pay for placement, and recommendations are based on published specifications, manufacturer documentation, hands-on owner feedback and our renter-specific criteria. Read our <a href="/how-we-research/">research process</a> and <a href="/affiliate-disclosure/">affiliate disclosure</a>.</p>
+  <h2>Get in touch</h2>
+  <p>Questions, corrections or product suggestions are welcome at <a href={`mailto:${SITE.contactEmail}`}>{SITE.contactEmail}</a>.</p>
+</Page>

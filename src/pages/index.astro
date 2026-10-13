@@ -1,0 +1,100 @@
+---
+import Base from '../layouts/Base.astro';
+import PostItem from '../components/PostItem.astro';
+import Icon from '../components/Icon.astro';
+import { getPublishedPosts } from '../lib/posts';
+import { SITE, CATEGORY_ICON, absUrl } from '../lib/site';
+
+const posts = await getPublishedPosts();
+const [leadPost, ...rest] = posts;
+const counts = Object.fromEntries(SITE.categories.map((c) => [c.slug, posts.filter((p) => p.data.category === c.slug).length]));
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    '@id': absUrl('/#website'),
+    name: SITE.name,
+    url: SITE.url,
+    description: SITE.description,
+    publisher: { '@id': absUrl('/#organization') },
+  },
+];
+---
+<Base title={`${SITE.name}: Smart Home Gear Your Lease Allows`} description={SITE.description} jsonLd={jsonLd}>
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <h1>Smart home gear your lease already allows.</h1>
+        <p class="lead">We research smart locks, cameras, lighting, plugs and climate controls that install without drilling or rewiring, and come off clean on move-out day.</p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="/blog/">Browse the guides</a>
+          <a class="btn btn-quiet" href="/blog/smart-home-for-renters/">Start with the basics</a>
+        </div>
+      </div>
+
+      <figure class="lease" aria-label="An apartment lease alterations clause, annotated">
+        <div class="doc"><span>Residential lease</span><span>Page 6 of 11</span></div>
+        <h2>14. Alterations</h2>
+        <p>Tenant shall not <s>drill holes in walls or doors</s>, <s>alter electrical wiring</s>, or <s>change or re-key any lock</s> without the prior written consent of Landlord.</p>
+        <p>Tenant shall return the premises in the condition received, normal wear excepted.</p>
+        <div class="notes">
+          <span class="tape">Plug-in</span>
+          <span class="tape alt">Stick-on</span>
+          <span class="tape">Swap &amp; restore</span>
+        </div>
+      </figure>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <h2>Find gear by room</h2>
+          <p>Every category is filtered for renters: removable, adhesive, plug-in, or approved with one short email to your landlord.</p>
+        </div>
+      </div>
+      <div class="rooms">
+        {SITE.categories.map((c) => (
+          <a class="room" href={`/category/${c.slug}/`}>
+            <Icon name={CATEGORY_ICON[c.slug] ?? 'home'} />
+            <span><strong>{c.name}</strong><span class="blurb">{c.blurb}</span></span>
+            <span class="count">{counts[c.slug] ? `${counts[c.slug]} guide${counts[c.slug] === 1 ? '' : 's'}` : 'Coming soon'}</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head">
+        <div><h2>Latest guides</h2></div>
+        <a class="btn btn-quiet btn-sm" href="/blog/">See all guides</a>
+      </div>
+      {leadPost ? (
+        <div class="posts">
+          <PostItem post={leadPost} lead />
+          {rest.slice(0, 9).map((p) => <PostItem post={p} />)}
+        </div>
+      ) : <p class="empty">The first guides publish this week.</p>}
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <h2>Our three rules</h2>
+          <p>Every product on this site passes these before we recommend it. <a href="/how-we-research/">Read the full research process</a>.</p>
+        </div>
+      </div>
+      <div class="clauses">
+        <div class="clause"><h3>Nothing permanent</h3><p>Plug-in, battery, adhesive or swap-and-restore installs only. Anything that touches wiring, locks or HVAC is flagged so you can ask first.</p></div>
+        <div class="clause"><h3>It moves with you</h3><p>It works in the next apartment, on the next Wi-Fi network, without a contractor. We favor Matter so you are never locked to one app.</p></div>
+        <div class="clause"><h3>Honest about costs</h3><p>We say which features need a subscription, what a landlord might object to, and where a cheaper option does the job.</p></div>
+      </div>
+    </div>
+  </section>
+</Base>

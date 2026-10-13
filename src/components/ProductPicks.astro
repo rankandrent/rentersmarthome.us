@@ -1,0 +1,52 @@
+---
+import { amazonUrl, AFFILIATE_REL } from '../lib/affiliate.mjs';
+interface Product {
+  name: string; brand?: string; query: string; asin?: string; badge: string;
+  summary: string; renterNote: string; pros: string[]; cons: string[];
+}
+interface Props { products: Product[] }
+const { products } = Astro.props;
+const heading = products.length > 1 ? 'Our picks' : 'Our pick';
+---
+{products.length > 0 && (
+  <section class="picks" aria-labelledby="top-picks">
+    <h2 id="top-picks">{heading}</h2>
+    {products.map((p) => (
+      <div class="pick">
+        <span class="tape">{p.badge}</span>
+        <div>
+          <h3>{p.name}</h3>
+          <p>{p.summary}</p>
+          <div class="renter"><b>How it installs:</b>{' '}{p.renterNote}</div>
+          {(p.pros.length > 0 || p.cons.length > 0) && (
+            <div class="pc">
+              <div class="pros"><h4>Good</h4><ul>{p.pros.map((x) => <li>{x}</li>)}</ul></div>
+              <div class="cons"><h4>Watch for</h4><ul>{p.cons.map((x) => <li>{x}</li>)}</ul></div>
+            </div>
+          )}
+        </div>
+        <div class="buy">
+          <a class="btn btn-buy" href={amazonUrl({ asin: p.asin, query: p.query })} rel={AFFILIATE_REL} target="_blank">Check price on Amazon</a>
+          <small>Affiliate link. Prices change often.</small>
+        </div>
+      </div>
+    ))}
+    {products.length > 2 && (
+      <div class="compare-wrap">
+        <table class="compare">
+          <caption class="muted" style="text-align:left;padding-bottom:8px;font-size:.92rem">Side-by-side summary</caption>
+          <thead><tr><th scope="col">Product</th><th scope="col">Best for</th><th scope="col">How it installs</th></tr></thead>
+          <tbody>
+            {products.map((p) => (
+              <tr>
+                <td><a href={amazonUrl({ asin: p.asin, query: p.query })} rel={AFFILIATE_REL} target="_blank"><strong>{p.name}</strong></a></td>
+                <td>{p.badge}</td>
+                <td>{p.renterNote}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    )}
+  </section>
+)}

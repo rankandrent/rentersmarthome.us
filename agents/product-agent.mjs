@@ -1,0 +1,62 @@
+// AGENT 2 — Product Research
+// Uses live web search to find real, currently-sold products for a keyword,
+// judged on renter criteria (install footprint, reversibility, portability,
+// subscriptions, Matter support). Output feeds the "Top picks" boxes and the
+// writer. Links are built from the product name + your Amazon tag; an ASIN is
+// only used when the agent saw it in an amazon.com/dp/ URL in its sources.
+import { z } from 'zod';
+import { askJson } from './lib/claude.mjs';
+import { SITE } from './lib/config.mjs';
+
+const AGENT = 'product-agent';
+
+export const ProductSchema = z.object({
+  name: z.string().min(3),
+  brand: z.string(),
+  query: z.string().min(3),
+  asin: z
+    .string()
+    .regex(/^B0[A-Z0-9]{8}$/)
+    .or(z.literal(''))
+    .optional(),
+  badge: z.string().max(40),
+  summary: z.string(),
+  renterNote: z.string(),
+  pros: z.array(z.string()).min(2).max(5),
+  cons: z.array(z.string()).min(1).max(4),
+  facts: z.array(z.string()).max(12),
+  sources: z.array(z.string()).max(8),
+});
+
+const COUNT = { roundup: '5 to 7', comparison: 'exactly the 2 or 3 products being compared', review: '1 (the reviewed product) plus 2 alternatives', 'how-to': '2 to 4', guide: '2 to 4' };
+
+const SYSTEM = `You are the Product Research Agent for ${SITE.domain}. You find REAL products currently sold on Amazon US and evaluate them for renters.
+
+Hard rules:
+- Only include products you verified exist and are currently sold, using web_search (manufacturer pages, Amazon listings, reputable reviews from the last 18 months). Never invent model names, specs, prices or ratings.
+- "query" must be the exact product name a shopper would type into Amazon search to land on that listing (brand + model + generation).
+- "asin": only fill it if you saw the ASIN in an amazon.com/dp/ or /gp/product/ URL in your search results; otherwise use an empty string.
+- Do NOT state prices (they change). Do NOT invent star ratings or review counts.
+- "renterNote": one sentence on how it installs without permanent changes (adhesive, over-the-deadbolt, plug-in, swap and keep the original) or the exact caveat (e.g. "replaces the thermostat; keep the old one and ask your landlord").
+- "facts": verifiable specs/claims (connectivity, Matter/Thread, battery life, subscription needs, dimensions) the writer may cite.
+- "badge": short role label like "Best overall", "Best budget", "Best for HomeKit", "Best no-Wi-Fi option".
+- Rank by renter suitability, then quality, then value.`;
+
+export async function runProductAgent(item) {
+  const { products } = await askJson({
+    agent: AGENT,
+    system: SYSTEM,
+    effort: 'medium',
+    webSearch: 10,
+    schema: z.object({ products: z.array(ProductSchema).min(1).max(8) }),
+    prompt: `Keyword: "${item.keyword}"
+Article type: ${item.articleType}
+Working title: ${item.workingTitle}
+Secondary keywords: ${item.secondaryKeywords.join(', ')}
+
+Research and return ${COUNT[item.articleType] ?? '3 to 5'} products that best serve someone searching this keyword who RENTS their home.
+
+Return ONLY a \`\`\`json block: {"products":[{"name":"","brand":"","query":"","asin":"","badge":"","summary":"2 sentences on who it is for and why","renterNote":"","pros":[""],"cons":[""],"facts":[""],"sources":["urls"]}]}`,
+  });
+  return products.map((p) => ({ ...p, asin: p.asin || undefined }));
+}

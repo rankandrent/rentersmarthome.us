@@ -1,0 +1,109 @@
+{
+  "name": "RenterSmartHome",
+  "domain": "rentersmarthome.us",
+  "url": "https://rentersmarthome.us",
+  "tagline": "Smart home upgrades that never cost you your deposit.",
+  "description": "Renter-friendly smart home guides: no-drill smart locks, thermostats, cameras, lighting and plugs that install in minutes and leave with you when you move.",
+  "contactEmail": "hello@rentersmarthome.us",
+  "affiliate": {
+    "amazonTag": "REPLACE-WITH-YOUR-TAG-20",
+    "amazonDomain": "www.amazon.com"
+  },
+  "categories": [
+    {
+      "slug": "smart-locks",
+      "name": "Smart Locks & Entry",
+      "blurb": "Keyless entry that keeps your landlord's deadbolt intact."
+    },
+    {
+      "slug": "security",
+      "name": "Cameras & Security",
+      "blurb": "Peephole cams, indoor cameras and alarm kits with zero holes."
+    },
+    {
+      "slug": "climate",
+      "name": "Heating & Cooling",
+      "blurb": "Cut energy bills with smart thermostats, AC controllers and fans."
+    },
+    {
+      "slug": "lighting",
+      "name": "Smart Lighting",
+      "blurb": "Bulbs, strips and stick-on switches that transform rented rooms."
+    },
+    {
+      "slug": "plugs-power",
+      "name": "Plugs & Power",
+      "blurb": "Smart plugs, power strips and energy monitors for any outlet."
+    },
+    {
+      "slug": "hubs-voice",
+      "name": "Hubs & Voice Assistants",
+      "blurb": "Matter, Alexa, Google and HomeKit setups that move with you."
+    },
+    {
+      "slug": "guides",
+      "name": "Renter Guides",
+      "blurb": "Lease rules, landlord conversations and starter kits."
+    }
+  ],
+  "schedule": {
+    "startDate": null,
+    "timezone": "America/New_York",
+    "weeklyPostsPerDay": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      7
+    ],
+    "randomPhase": {
+      "min": 0,
+      "max": 6,
+      "weights": [
+        1,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1
+      ]
+    },
+    "maxPostsPerRun": 2,
+    "publishHoursLocal": [
+      7,
+      9,
+      11,
+      13,
+      15,
+      17,
+      19,
+      21
+    ]
+  },
+  "organization": {
+    "legalName": "RenterSmartHome",
+    "foundingDate": "2026",
+    "sameAs": [],
+    "editorialPolicyUrl": "/editorial-policy/"
+  },
+  "authors": [
+    {
+      "slug": "editorial-team",
+      "type": "Organization",
+      "name": "RenterSmartHome Editorial Team",
+      "role": "Research & editorial",
+      "bio": "We research smart home gear specifically for apartments and rentals: how it installs, whether it is reversible, what it needs from your landlord, and whether it moves with you. Every guide follows our published research process and editorial policy.",
+      "expertise": [
+        "Renter-friendly smart home",
+        "Smart locks",
+        "Home security cameras",
+        "Matter and Thread"
+      ],
+      "image": null,
+      "sameAs": []
+    }
+  ]
+}
