@@ -114,6 +114,16 @@ jobs:
               --data "{\"name\":\"$d\"}" | head -c 400; echo
           done
           echo "Site: https://$PROJECT.pages.dev"
+          # Ask Cloudflare to re-check any domain that is still pending.
+          for d in "$DOMAIN" "www.$DOMAIN"; do
+            curl -s -X PATCH "https://api.cloudflare.com/client/v4/accounts/$CLOUDFLARE_ACCOUNT_ID/pages/projects/$PROJECT/domains/$d" \
+              -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" | python3 -c 'import json,sys; d=json.load(sys.stdin); r=d.get("result") or {}; print("retry", r.get("name"), r.get("status"), d.get("errors") or "")' || true
+          done
+          echo "Zone SSL/edge certificate status:"
+          curl -s "https://api.cloudflare.com/client/v4/zones/$CLOUDFLARE_ZONE_ID/ssl/certificate_packs?status=all" -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" \
+            | python3 -c 'import json,sys; d=json.load(sys.stdin); [print("  ", c.get("type"), c.get("status"), c.get("hosts")) for c in (d.get("result") or [])] if d.get("success") else print("  (token cannot read SSL:", d.get("errors"), ")")'
+          curl -s "https://api.cloudflare.com/client/v4/zones/$CLOUDFLARE_ZONE_ID" -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" \
+            | python3 -c 'import json,sys; d=json.load(sys.stdin); r=d.get("result") or {}; print("Zone status:", r.get("status"), "| nameservers:", r.get("name_servers"))'
           echo "Custom domain status:"
           curl -s "https://api.cloudflare.com/client/v4/accounts/$CLOUDFLARE_ACCOUNT_ID/pages/projects/$PROJECT/domains" -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" \
             | python3 -c 'import json,sys; d=json.load(sys.stdin); [print("  ", x["name"], "status:", x.get("status"), "| validation:", (x.get("validation_data") or {}).get("status"), (x.get("validation_data") or {}).get("error_message") or "", "| verification:", (x.get("verification_data") or {}).get("status")) for x in d.get("result") or []] if d.get("success") else print(d)'
