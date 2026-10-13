@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     env:
-      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      RAW_CF_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
       # The account ID is an identifier, not a secret; the API token is the secret.
       CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID || '62f912a0c185f2042615da812a6e62e6' }}
       PROJECT: rentersmarthome
@@ -28,7 +28,14 @@ jobs:
       - name: Check Cloudflare credentials
         id: creds
         run: |
-          if [ -z "$CLOUDFLARE_API_TOKEN" ]; then
+          # Tolerate tokens pasted as "CLOUDFLARE_API_TOKEN=...", with quotes, spaces or newlines.
+          TOKEN=$(printf '%s' "$RAW_CF_TOKEN" | tr -d '[:space:]"'"'" | sed 's/^CLOUDFLARE_API_TOKEN=//')
+          if [ -n "$TOKEN" ]; then
+            echo "::add-mask::$TOKEN"
+            echo "CLOUDFLARE_API_TOKEN=$TOKEN" >> "$GITHUB_ENV"
+            echo "Token length after cleanup: ${#TOKEN}"
+          fi
+          if [ -z "$TOKEN" ]; then
             echo "CLOUDFLARE_API_TOKEN secret not set; skipping deploy."
             echo "ok=false" >> "$GITHUB_OUTPUT"
           else
@@ -63,7 +70,7 @@ jobs:
 
       - name: Create Pages project (first run only)
         if: steps.creds.outputs.ok == 'true'
-        run: npx --yes wrangler@4.150.0 pages project create "$PROJECT" --production-branch="$BRANCH" || echo "Project already exists."
+        run: npx --yes wrangler@4.150.0 pages project create "$PROJECT" --production-branch="$BRANCH" || echo "Project create skipped (it may already exist; see the error above if not)."
 
       - name: Deploy
         if: steps.creds.outputs.ok == 'true'
