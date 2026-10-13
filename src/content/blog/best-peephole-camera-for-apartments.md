@@ -158,7 +158,7 @@ This guide covers the best peephole camera for apartments, plus no-drill alterna
 
 ## How does a peephole camera work?
 
-A peephole camera has two halves joined through your existing door viewer hole. The outside half holds the camera lens and motion sensor, sitting where the old peephole lens was. The inside half holds the battery, Wi-Fi radio and, on the Ring Peephole Cam, a small flip-up viewer so you can still look through the door the old-fashioned way.
+**A peephole camera has two halves joined through your existing door viewer hole.** The outside half holds the camera lens and motion sensor, sitting where the old peephole lens was. The inside half holds the battery, Wi-Fi radio and, on the Ring Peephole Cam, a small flip-up viewer so you can still look through the door the old-fashioned way.
 
 When the peephole camera detects motion or a knock, it sends an alert to your phone, and you can see and speak to the visitor from anywhere. Because the peephole camera uses the existing hole, removing it and reinstalling the original door viewer leaves no trace.
 
@@ -224,4 +224,4 @@ If you want broader coverage, read our guide to building a [smart home as a rent
 
 ## The bottom line on peephole cameras
 
-The Ring Peephole Cam is the best peephole camera for apartments because it installs through your existing door viewer, keeps a manual peephole inside and comes off in minutes. If your door has no peephole, an indoor camera like the Wyze Cam v4 or Blink Mini 2 pointed at the entry is the simplest renter-safe alternative.
+**The Ring Peephole Cam is the best peephole camera for apartments because it installs through your existing door viewer, keeps a manual peephole inside and comes off in minutes.** If your door has no peephole, an indoor camera like the Wyze Cam v4 or Blink Mini 2 pointed at the entry is the simplest renter-safe alternative.

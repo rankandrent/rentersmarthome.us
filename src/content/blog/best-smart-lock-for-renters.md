@@ -167,7 +167,7 @@ Below we break down the four smart locks that fit that renter brief, how to chec
 
 ## What makes a smart lock renter-friendly?
 
-A renter-friendly smart lock leaves the landlord-owned deadbolt hardware in place and is fully reversible in under 15 minutes. That rules out most full-replacement smart deadbolts, which swap the exterior keyed cylinder and lock out the landlord's master key.
+**A renter-friendly smart lock leaves the landlord-owned deadbolt hardware in place and is fully reversible in under 15 minutes.** That rules out most full-replacement smart deadbolts, which swap the exterior keyed cylinder and lock out the landlord's master key.
 
 There are two renter-safe smart lock designs:
 
@@ -210,7 +210,7 @@ Thread requires a Thread border router, which many renters already own in the fo
 
 ## How to check if a smart lock fits your deadbolt
 
-Smart lock compatibility comes down to your deadbolt's brand, its tailpiece and the space around the thumbturn. Check it in five minutes before you buy:
+**Smart lock compatibility comes down to your deadbolt's brand, its tailpiece and the space around the thumbturn.** Check it in five minutes before you buy:
 
 1. **Confirm a single-cylinder deadbolt.** You should see a keyhole outside and a thumbturn inside. Double-cylinder deadbolts (keyholes on both sides) are not supported by retrofit smart locks.
 2. **Find the deadbolt brand.** It is usually stamped on the latch faceplate on the edge of the door (Kwikset, Schlage, Baldwin, Weiser and so on).
@@ -220,7 +220,7 @@ Smart lock compatibility comes down to your deadbolt's brand, its tailpiece and 
 
 ## Talking to your landlord about a smart lock
 
-Most leases include a clause like "tenant shall not change or add locks without written consent." A retrofit smart lock arguably doesn't change the lock, but written approval protects your deposit. A short, specific request works best:
+**Most leases include a clause like "tenant shall not change or add locks without written consent." A retrofit smart lock arguably doesn't change the lock, but written approval protects your deposit.** A short, specific request works best:
 
 > "I'd like to install a retrofit smart lock on the inside of my front door. It replaces only the interior thumbturn, the existing deadbolt and exterior keyhole stay the same, and your key will continue to work. I'll reinstall the original part when I move out."
 
@@ -240,7 +240,7 @@ Uninstalling the smart lock is the same process in reverse. Reinstall the origin
 
 ## Smart lock security and privacy tips
 
-A smart lock is only as secure as the account that controls it. Protect your smart lock with these habits:
+**A smart lock is only as secure as the account that controls it.** Protect your smart lock with these habits:
 
 - Turn on two-factor authentication in the lock's app.
 - Give guests time-limited codes or access instead of sharing your account.
@@ -250,4 +250,4 @@ A smart lock is only as secure as the account that controls it. Protect your sma
 
 ## Which smart lock should you buy?
 
-For most renters, the August Wi-Fi Smart Lock is the best smart lock because it combines a true retrofit install with built-in Wi-Fi and support for every major assistant. Choose the SwitchBot Lock Pro if your lease forbids touching the lock, the Yale Approach if keypad entry matters most, and the Aqara U200 if you're building a Matter and Apple Home setup that will follow you to every future apartment.
+**For most renters, the August Wi-Fi Smart Lock is the best smart lock because it combines a true retrofit install with built-in Wi-Fi and support for every major assistant.** Choose the SwitchBot Lock Pro if your lease forbids touching the lock, the Yale Approach if keypad entry matters most, and the Aqara U200 if you're building a Matter and Apple Home setup that will follow you to every future apartment.

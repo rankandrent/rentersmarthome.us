@@ -93,7 +93,7 @@ if (d.products.length > 1) {
           {d.readingTime && <span>{d.readingTime}-minute read</span>}
         </div>
       </div>
-      {hero && <img class="hero-img" src={hero} alt={d.heroAlt ?? d.title} width="1200" height="630" fetchpriority="high" decoding="async" />}
+      {hero && <figure class="hero-fig"><img class="hero-img" src={hero} alt={d.heroAlt ?? d.title} width="1200" height="630" fetchpriority="high" decoding="async" /></figure>}
     </header>
 
     <div class="article-layout">

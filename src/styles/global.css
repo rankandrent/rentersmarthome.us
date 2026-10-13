@@ -303,3 +303,11 @@ h3 { font-size: var(--s1); letter-spacing: -.01em; }
   .pick.has-img { grid-template-columns: 1fr; }
   .pick-img img { max-height: 200px; }
 }
+
+/* Layout blocks */
+.hero-fig { margin: 0; }
+.prose section.block + section.block { margin-top: .4em; }
+.product-figure { margin: .4em 0 1.2em; padding: 16px; background: var(--paper); border: 1px solid var(--rule); border-radius: var(--r-box); display: grid; grid-template-columns: 140px 1fr; gap: 18px; align-items: center; }
+.product-figure img { max-width: 140px; max-height: 150px; width: auto; height: auto; object-fit: contain; margin: 0 auto; }
+.product-figure figcaption { font-family: var(--display); font-size: .92rem; line-height: 1.45; color: var(--slate); }
+@media (max-width: 560px) { .product-figure { grid-template-columns: 1fr; } }

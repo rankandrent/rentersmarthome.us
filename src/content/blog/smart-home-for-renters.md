@@ -171,7 +171,7 @@ These renter smart home rules quickly eliminate in-wall switches, hardwired door
 
 ## Step 1: Start with smart plugs
 
-A smart plug is the easiest smart home device for renters because it needs only an outlet. Plug a lamp, fan, coffee maker or holiday lights into a smart plug and you can schedule it, control it by voice, or switch it off from your phone.
+**A smart plug is the easiest smart home device for renters because it needs only an outlet.** Plug a lamp, fan, coffee maker or holiday lights into a smart plug and you can schedule it, control it by voice, or switch it off from your phone.
 
 The [Kasa Smart Plug Mini with Matter](amzn:Kasa+Smart+Plug+Mini+Matter+KP125M) is our favorite first smart plug: it's compact, supports Matter, and reports energy use so you can find power-hungry devices. Our roundup of the [best Matter smart plugs](/blog/best-matter-smart-plugs/) compares more options, including Thread models.
 
@@ -179,7 +179,7 @@ The [Kasa Smart Plug Mini with Matter](amzn:Kasa+Smart+Plug+Mini+Matter+KP125M) 
 
 ## Step 2: Swap in smart bulbs
 
-Smart bulbs turn existing light fixtures into dimmable, color-tunable, schedulable lights. Unscrew the landlord's bulbs, keep them in a labeled drawer, and screw in smart bulbs. When you move, swap them back.
+**Smart bulbs turn existing light fixtures into dimmable, color-tunable, schedulable lights.** Unscrew the landlord's bulbs, keep them in a labeled drawer, and screw in smart bulbs. When you move, swap them back.
 
 The [Philips Hue starter kit](amzn:Philips+Hue+White+and+Color+Ambiance+Starter+Kit) is the most reliable smart lighting system thanks to the Hue Bridge, and Hue's battery-powered dimmer switches stick to the wall with adhesive. For a cheaper Wi-Fi option, look at Matter-compatible bulbs from brands like WiZ or Govee.
 
@@ -195,13 +195,13 @@ The front door is where renter-friendly smart home tech pays off most:
 
 ## Step 4: Control heating and cooling
 
-Many rentals have window units, portable ACs or ductless mini-splits controlled by an infrared remote. A smart AC controller like the [Sensibo Air](amzn:Sensibo+Air+smart+AC+controller) learns that remote and adds schedules, geofencing and voice control, without opening the air conditioner.
+**Many rentals have window units, portable ACs or ductless mini-splits controlled by an infrared remote.** A smart AC controller like the [Sensibo Air](amzn:Sensibo+Air+smart+AC+controller) learns that remote and adds schedules, geofencing and voice control, without opening the air conditioner.
 
 Replacing a wall thermostat is different: it touches HVAC wiring, so ask your landlord first, keep the original thermostat, and photograph the wiring before you disconnect anything.
 
 ## Choosing an ecosystem that moves with you
 
-The ecosystem decision matters more for renters than for homeowners because you'll reconnect everything after each move.
+**The ecosystem decision matters more for renters than for homeowners because you'll reconnect everything after each move.**
 
 | Ecosystem | Best if you… | Renter advantage |
 | --- | --- | --- |
@@ -213,7 +213,7 @@ Whichever voice assistant you choose, prioritize **Matter** devices. Matter is t
 
 ## What to ask your landlord (and what you can skip)
 
-Most renters never need to ask about smart plugs, bulbs, speakers or indoor cameras because those devices don't alter the property. Ask in writing before you:
+**Most renters never need to ask about smart plugs, bulbs, speakers or indoor cameras because those devices don't alter the property.** Ask in writing before you:
 
 - Install any smart lock or keypad.
 - Replace a thermostat or light switch.
@@ -232,4 +232,4 @@ Frame the request around reversibility: describe the device, explain that origin
 
 ## Start small, then build
 
-The best smart home for renters starts with one smart plug and a set of smart bulbs, then grows to a retrofit smart lock, a peephole camera and an AC controller. Stick to Matter-compatible, no-drill devices and your apartment smart home will be just as smart in the next place you rent.
+**The best smart home for renters starts with one smart plug and a set of smart bulbs, then grows to a retrofit smart lock, a peephole camera and an AC controller.** Stick to Matter-compatible, no-drill devices and your apartment smart home will be just as smart in the next place you rent.

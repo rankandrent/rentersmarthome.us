@@ -54,6 +54,26 @@ export function audit({ item, brief, meta, body, products }) {
   if (skipRatio < 0.5) penalize(4, `Skip-gram coverage ${(skipRatio * 100) | 0}%. Bring these word pairs close together naturally: ${brief.skipgrams.filter((s) => !skipPresent.includes(s)).join(', ')}`);
   if (salience.score < 0.6) penalize(Math.round((0.6 - salience.score) * 30), `Central entity "${brief.centralEntity}" salience proxy is ${salience.score} (<0.6). Make it the grammatical subject of more topic sentences (${salience.subjectPosition} now), and include it in more H2s (${salience.headingsWithEntity}/${h2s.length}).`);
 
+  // Layout-aware block checks.
+  const lines = body.split('\n');
+  const tableStarts = lines.map((l, i) => (/^\s*\|.*\|\s*$/.test(l) && !/^\s*\|.*\|\s*$/.test(lines[i - 1] ?? '') ? i : -1)).filter((i) => i >= 0);
+  const hasList = /^\s*(?:[-*]|\d+\.)\s+\S/m.test(body);
+  if (!hasList) penalize(3, 'Add at least one bulleted or numbered list (mixed block types help page understanding).');
+  if (['roundup', 'comparison'].includes(item.articleType) && tableStarts.length === 0) penalize(4, 'Add a comparison table for this roundup/comparison.');
+  for (const i of tableStarts) {
+    const prev = lines.slice(0, i).reverse().find((l) => l.trim());
+    if (!prev || /^#/.test(prev.trim())) {
+      penalize(2, 'Introduce every table with a sentence directly above it that says what it compares.');
+      break;
+    }
+  }
+  const sections = body.split(/^##\s+.+$/m).slice(1);
+  const boldLead = sections.filter((sec) => {
+    const firstPara = sec.split(/\n\s*\n/).map((p) => p.trim()).find((p) => p && !p.startsWith('#'));
+    return firstPara && /\*\*[^*]+\*\*/.test(firstPara);
+  }).length;
+  if (sections.length && boldLead / sections.length < 0.6) penalize(3, `Only ${boldLead}/${sections.length} H2 sections open with a bold direct answer; bold the key answer sentence of each section.`);
+
   const amzn = (body.match(/\]\(amzn:/g) || []).length;
   if (products.length && amzn < Math.min(products.length, 3)) penalize(4, `Only ${amzn} product links in the body; link each recommended product once with amzn: links.`);
   const internal = (body.match(/\]\(\/blog\/[a-z0-9-]+\/\)/g) || []).length;
@@ -69,7 +89,7 @@ export function audit({ item, brief, meta, body, products }) {
     score: Math.max(0, score),
     issues,
     metrics: {
-      words, h2: h2s.length, amazonLinks: amzn, internalLinks: internal, keywordDensity: Number((density * 100).toFixed(2)),
+      words, h2: h2s.length, tables: tableStarts.length, hasList, boldLeadSections: boldLead, amazonLinks: amzn, internalLinks: internal, keywordDensity: Number((density * 100).toFixed(2)),
       entityCoverage: Number(entityCov.ratio.toFixed(2)), ngramCoverage: Number(ngramCov.ratio.toFixed(2)),
       nlpCoverage: Number(nlpCov.ratio.toFixed(2)), skipgramCoverage: Number(skipRatio.toFixed(2)), salience,
       topBigrams: topNgrams(body, 2, 10), topTrigrams: topNgrams(body, 3, 8),

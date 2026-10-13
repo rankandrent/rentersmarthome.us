@@ -156,7 +156,7 @@ Below are the best Matter smart plugs for apartments, the difference between Wi-
 
 ## Why renters should buy Matter smart plugs
 
-Matter smart plugs solve the renter's biggest smart home headache: starting over. Older smart plugs only worked with the apps and assistants their maker supported. A Matter smart plug pairs with any Matter controller by scanning a setup code, and Matter's multi-admin feature lets roommates on different ecosystems control the same plug.
+**Matter smart plugs solve the renter's biggest smart home headache: starting over.** Older smart plugs only worked with the apps and assistants their maker supported. A Matter smart plug pairs with any Matter controller by scanning a setup code, and Matter's multi-admin feature lets roommates on different ecosystems control the same plug.
 
 Matter smart plugs come in two network flavors:
 
@@ -214,4 +214,4 @@ Smart plugs pair naturally with the other renter-safe upgrades in our [smart hom
 
 ## Which Matter smart plug should you buy?
 
-The Kasa Smart Plug Mini KP125M is the best Matter smart plug for most renters: compact, energy-aware and compatible with everything. Choose the Tapo P125M for the lowest cost, the Meross mini for multi-room value, and Eve Energy if you run Apple Home and want a Thread smart plug that makes the rest of your network stronger.
+**The Kasa Smart Plug Mini KP125M is the best Matter smart plug for most renters: compact, energy-aware and compatible with everything.** Choose the Tapo P125M for the lowest cost, the Meross mini for multi-room value, and Eve Energy if you run Apple Home and want a Thread smart plug that makes the rest of your network stronger.

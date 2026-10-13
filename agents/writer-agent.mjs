@@ -53,6 +53,14 @@ SEMANTIC SEO RULES (follow all):
 - Information gain: include renter-specific details others miss: lease language to look for, how to ask a landlord, restoring the original hardware, what to do on move-out day.
 - Use a short comparison table where it helps. Use numbered steps for processes.
 
+LAYOUT-AWARE RULES (how search systems read a page as blocks: headers, paragraphs, lists, tables, images, and how neighbouring blocks relate):
+- Logical block order: definition/answer → picks → how to choose → install/setup → landlord & move-out → verdict. Each block should only make sense in that position.
+- Every ## section opens with a 1-2 sentence direct answer in **bold** (bold marks the most important sentence of the block). Use bold sparingly elsewhere.
+- Mix block types: at least one bulleted or numbered list, and for roundups/comparisons at least one comparison table.
+- Every table is introduced by a sentence directly above it that says what the table compares; every list follows a lead-in sentence.
+- For roundups, give each product its own "### <exact product name>: <role>" heading using the exact product name from the research (the site places the product photo under that heading), followed by text that describes that product only.
+- Keep each paragraph about one idea (3-4 sentences max) so blocks stay coherent.
+
 E-E-A-T RULES (Experience, Expertise, Authoritativeness, Trust):
 - Experience: write like someone who has lived in rentals. Include concrete, practical detail a real renter would know: what the install actually involves step by step, where things go wrong (sticky deadbolts, thick doors, 2.4 GHz-only Wi-Fi, no C-wire), a ready-to-send landlord email, and what to do on move-out day. Never invent personal anecdotes or claim hands-on testing.
 - Expertise: explain the "why" (how Matter/Thread, retrofit locks, IR controllers etc. actually work) in plain language; correct common misconceptions.
