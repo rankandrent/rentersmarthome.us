@@ -4,7 +4,7 @@ seoTitle: 'Smart Home for Renters: The Complete No-Drill Guide'
 description: >-
   How to build a smart home in a rental: renter-safe smart plugs, bulbs, locks,
   cameras and climate control that install without drilling and move with you.
-pubDate: 2026-10-12T14:00:00.000Z
+pubDate: '2026-10-12T14:00:00.000Z'
 category: guides
 keyword: smart home for renters
 secondaryKeywords:
@@ -58,6 +58,11 @@ products:
     cons:
       - 2.4 GHz Wi-Fi only
       - Not for heaters or high-draw appliances
+    asin: B0BYGRLRS1
+    image:
+      url: 'https://m.media-amazon.com/images/I/41iBcrtCyvL._SL500_.jpg'
+      width: 500
+      height: 500
   - name: Philips Hue White and Color Ambiance Starter Kit
     brand: Philips Hue
     query: Philips Hue White and Color Ambiance Starter Kit
@@ -75,6 +80,11 @@ products:
     cons:
       - Premium pricing
       - Bridge needs a spot near your router
+    asin: B0DBM4538Y
+    image:
+      url: 'https://m.media-amazon.com/images/I/31xoXcJlSUL._SL500_.jpg'
+      width: 500
+      height: 500
   - name: SwitchBot Bot
     brand: SwitchBot
     query: SwitchBot Bot
@@ -107,6 +117,11 @@ products:
     cons:
       - Only works with IR-remote air conditioners
       - Some advanced features need a subscription
+    asin: B07MTGD3D9
+    image:
+      url: 'https://m.media-amazon.com/images/I/41G9RH0NQlL._SL500_.jpg'
+      width: 500
+      height: 500
 sources:
   - title: 'Matter standard overview, Connectivity Standards Alliance'
     url: 'https://csa-iot.org/all-solutions/matter/'
@@ -118,7 +133,7 @@ sources:
     url: 'https://sensibo.com/'
   - title: Kasa Smart
     url: 'https://www.kasasmart.com/'
-reviewedDate: 2026-10-13T00:00:00.000Z
+reviewedDate: '2026-10-13T00:00:00.000Z'
 faqs:
   - q: Can renters have a smart home?
     a: >-

@@ -4,7 +4,7 @@ seoTitle: Best Peephole Camera for Apartments (No Drilling)
 description: >-
   A peephole camera turns your apartment door viewer into a video doorbell. Here
   are the best renter-safe peephole cameras and no-drill alternatives.
-pubDate: 2026-10-11T14:00:00.000Z
+pubDate: '2026-10-11T14:00:00.000Z'
 category: security
 keyword: peephole camera
 secondaryKeywords:
@@ -60,6 +60,11 @@ products:
     cons:
       - Video history needs a Ring Home subscription
       - Battery needs periodic recharging
+    asin: B0GLJ8NM1W
+    image:
+      url: 'https://m.media-amazon.com/images/I/31gbU4nZpHL._SL500_.jpg'
+      width: 313
+      height: 500
   - name: Ring Battery Doorbell
     brand: Ring
     query: Ring Battery Doorbell
@@ -77,6 +82,11 @@ products:
     cons:
       - No-drill mount sold separately
       - Visible from the hallway (some buildings restrict this)
+    asin: B0FHJ7TKZM
+    image:
+      url: 'https://m.media-amazon.com/images/I/21lc6l7V1ZL._SL500_.jpg'
+      width: 313
+      height: 500
   - name: Blink Mini 2
     brand: Blink
     query: Blink Mini 2 indoor camera
@@ -94,6 +104,11 @@ products:
     cons:
       - 'Sees inside the door, not the hallway'
       - Needs an outlet nearby
+    asin: B0F3BJJ9DJ
+    image:
+      url: 'https://m.media-amazon.com/images/I/21aX8NdoPlL._SL500_.jpg'
+      width: 313
+      height: 500
   - name: Wyze Cam v4
     brand: Wyze
     query: Wyze Cam v4
@@ -111,6 +126,11 @@ products:
     cons:
       - Indoor view only
       - Smart alerts work best with a Cam Plus plan
+    asin: B0CWPB9CZV
+    image:
+      url: 'https://m.media-amazon.com/images/I/31rKS-JhXAL._SL500_.jpg'
+      width: 500
+      height: 500
 sources:
   - title: Ring (manufacturer)
     url: 'https://ring.com/'
@@ -118,7 +138,7 @@ sources:
     url: 'https://blinkforhome.com/'
   - title: Wyze (manufacturer)
     url: 'https://www.wyze.com/'
-reviewedDate: 2026-10-13T00:00:00.000Z
+reviewedDate: '2026-10-13T00:00:00.000Z'
 faqs:
   - q: Are peephole cameras legal in apartments?
     a: >-

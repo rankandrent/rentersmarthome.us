@@ -4,7 +4,7 @@ seoTitle: 'Best Matter Smart Plugs (2026): Wi-Fi & Thread Picks'
 description: >-
   The best Matter smart plugs work with Alexa, Google Home and Apple Home at
   once. Compare Wi-Fi and Thread picks with energy monitoring for renters.
-pubDate: 2026-10-13T12:00:00.000Z
+pubDate: '2026-10-13T12:00:00.000Z'
 category: plugs-power
 keyword: matter smart plug
 secondaryKeywords:
@@ -57,6 +57,11 @@ products:
     cons:
       - 2.4 GHz Wi-Fi only
       - 'Energy data lives in the Kasa app, not every platform'
+    asin: B0BYGRLRS1
+    image:
+      url: 'https://m.media-amazon.com/images/I/41iBcrtCyvL._SL500_.jpg'
+      width: 500
+      height: 500
   - name: Tapo Mini Smart Wi-Fi Plug with Matter (P125M)
     brand: Tapo (TP-Link)
     query: Tapo P125M Matter smart plug
@@ -72,6 +77,11 @@ products:
     cons:
       - No energy monitoring on this model
       - 2.4 GHz Wi-Fi only
+    asin: B0BXMNJDW3
+    image:
+      url: 'https://m.media-amazon.com/images/I/411QHB8RnuL._SL500_.jpg'
+      width: 500
+      height: 500
   - name: Eve Energy (Matter)
     brand: Eve
     query: Eve Energy Matter smart plug
@@ -87,6 +97,11 @@ products:
     cons:
       - Needs a Thread border router
       - Pricier than Wi-Fi plugs
+    asin: B0C1CL2MV3
+    image:
+      url: 'https://m.media-amazon.com/images/I/21mweapzbxL._SL500_.jpg'
+      width: 500
+      height: 500
   - name: Meross Smart Plug Mini with Matter
     brand: Meross
     query: Meross Matter smart plug mini
@@ -102,6 +117,11 @@ products:
     cons:
       - No energy monitoring on the basic model
       - 2.4 GHz Wi-Fi only
+    asin: B0GWD5RPRF
+    image:
+      url: 'https://m.media-amazon.com/images/I/31OiUJ43OFL._SL500_.jpg'
+      width: 500
+      height: 500
 sources:
   - title: 'Matter standard overview, Connectivity Standards Alliance'
     url: 'https://csa-iot.org/all-solutions/matter/'
@@ -115,7 +135,7 @@ sources:
     url: 'https://www.evehome.com/'
   - title: Meross
     url: 'https://www.meross.com/'
-reviewedDate: 2026-10-13T00:00:00.000Z
+reviewedDate: '2026-10-13T00:00:00.000Z'
 faqs:
   - q: What is a Matter smart plug?
     a: >-
