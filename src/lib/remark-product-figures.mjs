@@ -2,6 +2,18 @@ import { amazonUrl, AFFILIATE_REL } from './affiliate.mjs';
 
 const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 const textOf = (node) => (node.value ?? '') + (node.children ?? []).map(textOf).join('');
+const tokens = (s) => new Set(s.toLowerCase().replace(/[^a-z0-9]+/g, ' ').split(' ').filter(Boolean));
+
+/** A heading matches a product if it contains the full name, or if every word of
+ *  its subject (the part before ":") appears in the product name, e.g.
+ *  "Tapo P125M: best budget" → "Tapo Mini Smart Wi-Fi Plug with Matter (P125M)". */
+function matches(headingText, name) {
+  const h = headingText.toLowerCase();
+  if (h.includes(name.toLowerCase())) return true;
+  const subject = [...tokens(h.split(':')[0])];
+  const nameTokens = tokens(name);
+  return subject.length >= 2 && subject.every((t) => nameTokens.has(t));
+}
 
 /**
  * Image–text alignment: when a "### Product name" heading in the body matches a
@@ -18,8 +30,8 @@ export function remarkProductFigures() {
     for (let i = 0; i < tree.children.length; i++) {
       const node = tree.children[i];
       if (node.type !== 'heading' || node.depth !== 3) continue;
-      const heading = textOf(node).toLowerCase();
-      const p = withImg.find((x) => !used.has(x.name) && heading.includes(x.name.toLowerCase()));
+      const heading = textOf(node);
+      const p = withImg.find((x) => !used.has(x.name) && matches(heading, x.name));
       if (!p) continue;
       used.add(p.name);
       const href = amazonUrl({ asin: p.asin, query: p.query });

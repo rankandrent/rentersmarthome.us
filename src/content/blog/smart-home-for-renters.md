@@ -85,9 +85,9 @@ products:
       url: 'https://m.media-amazon.com/images/I/31xoXcJlSUL._SL500_.jpg'
       width: 500
       height: 500
-  - name: SwitchBot Bot
+  - name: SwitchBot Bot Smart Switch Button Pusher
     brand: SwitchBot
-    query: SwitchBot Bot
+    query: SwitchBot Bot Smart Switch Button Pusher
     badge: Best for "dumb" switches
     summary: >-
       A tiny adhesive robot that physically presses a light switch or button,
