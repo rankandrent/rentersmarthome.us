@@ -44,8 +44,11 @@ on the first real run. Preview the calendar: `npm run agents:schedule`.
      (default `3.1`). Product photos only appear once these and the Amazon tag are set.
 3. **Default branch** – the workflow in `.github/workflows/publish.yml` runs on the
    default branch every hour; merge this branch into `main`.
-4. **Cloudflare Pages** – connect the repo, build command `npm run build`, output
-   directory `dist`, env `NODE_VERSION=22`, add custom domain `rentersmarthome.us`.
+4. **Cloudflare Pages (automatic)** – add secrets `CLOUDFLARE_API_TOKEN` (permissions:
+   Account › Cloudflare Pages › Edit, plus Zone › DNS › Edit for rentersmarthome.us)
+   and `CLOUDFLARE_ACCOUNT_ID`. `.github/workflows/deploy.yml` then builds and deploys
+   to the `rentersmarthome` Pages project on every push and after every publish, and
+   attaches `rentersmarthome.us` + `www`. Point the domain's nameservers to Cloudflare.
 5. **E-E-A-T** – replace the placeholder author in `site.config.json → authors`
    with a real person (name, photo in `/public`, bio, LinkedIn/X in `sameAs`) and
    add social profiles to `organization.sameAs`. Never invent credentials.

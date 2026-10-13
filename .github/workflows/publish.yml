@@ -23,6 +23,8 @@ concurrency:
 jobs:
   publish:
     runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
     timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
@@ -61,10 +63,18 @@ jobs:
           npm run build
 
       - name: Commit and push
+        id: commit
         run: |
-          if [ -z "$(git status --porcelain)" ]; then echo "Nothing new to publish."; exit 0; fi
+          if [ -z "$(git status --porcelain)" ]; then echo "Nothing new to publish."; echo "changed=false" >> "$GITHUB_OUTPUT"; exit 0; fi
           git config user.name "rentersmarthome-agents"
           git config user.email "agents@users.noreply.github.com"
           git add src/content data public/images
           git commit -m "content: agentic publish $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+  deploy:
+    needs: publish
+    if: needs.publish.outputs.changed == 'true'
+    uses: ./.github/workflows/deploy.yml
+    secrets: inherit

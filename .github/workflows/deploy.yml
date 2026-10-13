@@ -1,0 +1,79 @@
+name: Deploy to Cloudflare Pages
+
+# Builds the site and deploys it to Cloudflare Pages (project "rentersmarthome"),
+# then attaches the custom domain. Runs on every push to the default branch, on
+# demand, and after each agent publish / Amazon refresh (pushes made by the
+# workflow token don't trigger other workflows, so those call this one directly).
+on:
+  push:
+  workflow_dispatch:
+  workflow_call:
+
+concurrency:
+  group: deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    if: github.event_name != 'push' || github.ref_name == github.event.repository.default_branch
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      PROJECT: rentersmarthome
+      DOMAIN: rentersmarthome.us
+    steps:
+      - name: Check Cloudflare credentials
+        id: creds
+        run: |
+          if [ -z "$CLOUDFLARE_API_TOKEN" ] || [ -z "$CLOUDFLARE_ACCOUNT_ID" ]; then
+            echo "CLOUDFLARE_API_TOKEN / CLOUDFLARE_ACCOUNT_ID secrets not set; skipping deploy."
+            echo "ok=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "ok=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.creds.outputs.ok == 'true'
+
+      - name: Check out the latest default branch
+        if: steps.creds.outputs.ok == 'true'
+        run: |
+          BRANCH=$(git ls-remote --symref origin HEAD | awk '/^ref:/ {sub("refs/heads/", "", $2); print $2}')
+          git fetch --depth=1 origin "$BRANCH"
+          git checkout -q FETCH_HEAD
+          echo "BRANCH=$BRANCH" >> "$GITHUB_ENV"
+          echo "Deploying $BRANCH @ $(git rev-parse --short HEAD)"
+
+      - uses: actions/setup-node@v4
+        if: steps.creds.outputs.ok == 'true'
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Build
+        if: steps.creds.outputs.ok == 'true'
+        env:
+          AMAZON_TAG: ${{ vars.AMAZON_TAG }}
+        run: |
+          npm ci
+          npm run build
+
+      - name: Create Pages project (first run only)
+        if: steps.creds.outputs.ok == 'true'
+        run: npx --yes wrangler@4.150.0 pages project create "$PROJECT" --production-branch="$BRANCH" || echo "Project already exists."
+
+      - name: Deploy
+        if: steps.creds.outputs.ok == 'true'
+        run: npx --yes wrangler@4.150.0 pages deploy dist --project-name="$PROJECT" --branch="$BRANCH" --commit-dirty=true
+
+      - name: Attach custom domains
+        if: steps.creds.outputs.ok == 'true'
+        run: |
+          for d in "$DOMAIN" "www.$DOMAIN"; do
+            curl -s -X POST "https://api.cloudflare.com/client/v4/accounts/$CLOUDFLARE_ACCOUNT_ID/pages/projects/$PROJECT/domains" \
+              -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" -H "Content-Type: application/json" \
+              --data "{\"name\":\"$d\"}" | head -c 400; echo
+          done
+          echo "Site: https://$PROJECT.pages.dev  (custom domain goes live once DNS/nameservers point to Cloudflare)"

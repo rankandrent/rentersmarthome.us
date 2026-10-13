@@ -113,7 +113,7 @@ export async function main(argv = process.argv.slice(2)) {
   if (!state.startDate) {
     state.startDate = now.date;
     log(AGENT, `schedule starts today: ${state.startDate}`);
-    if (!args.dryRun) saveState(state);
+    if (!args.dryRun && process.env.ANTHROPIC_API_KEY) saveState(state);
   }
 
   const plan = dueNow(now, state.startDate);
@@ -122,6 +122,10 @@ export async function main(argv = process.argv.slice(2)) {
   const toPublish = args.force ?? Math.max(0, Math.min(plan.due - publishedToday, maxPerRun));
   log(AGENT, `day ${plan.day + 1} (week ${plan.week}, ${plan.phase}): quota ${plan.quota}, due by ${now.hour}:00 → ${plan.due}, already ${publishedToday}, publishing ${toPublish}`);
   if (args.dryRun || toPublish <= 0) return;
+  if (!process.env.ANTHROPIC_API_KEY) {
+    log(AGENT, 'ANTHROPIC_API_KEY is not set; add it as a GitHub secret to start publishing. Skipping.');
+    return;
+  }
 
   let queue = loadQueue();
   if (queue.filter((q) => q.status === 'pending').length < MIN_QUEUE) {
