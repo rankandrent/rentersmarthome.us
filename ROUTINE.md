@@ -5,6 +5,9 @@ the four agents in `agents/` itself (no Anthropic API key needed), then pushes,
 which triggers the Cloudflare deploy and the Amazon image refresh.
 
 **Rules that always apply**
+- Long-tail only: target keywords with ≤ 250 searches/month (Ahrefs). Never target short-tail head terms.
+- No keyword cannibalization: before writing, run `node scripts/routine.mjs cannibal "<keyword>"`. If it reports
+  a conflict, do not write a new post; add the keyword to that post's `secondaryKeywords` instead.
 - Never invent product names, specs, prices, star ratings, review counts or testing
   claims. Only state what your web research supports. No prices at all.
 - Never write secrets, API keys or tokens into any file.
@@ -42,7 +45,8 @@ Follow the rules in the `SYSTEM` prompt of `agents/keyword-agent.mjs`.
 - If Ahrefs is unavailable, use web search for keyword ideas instead.
 
 ## 2. Pick the keyword
-`node scripts/routine.mjs next` → use this item. Its `slug` is the post slug. It already balances the
+`node scripts/routine.mjs next` → use this item (it automatically parks keywords over 250 searches/month
+and merges any keyword that would cannibalize an existing post). Its `slug` is the post slug. It already balances the
 funnel (≈30% TOFU, 30% MOFU, 40% BOFU); follow the FUNNEL RULES in `WRITE_SYSTEM` for its `funnel` stage
 and put `funnel: <stage>` in the frontmatter.
 

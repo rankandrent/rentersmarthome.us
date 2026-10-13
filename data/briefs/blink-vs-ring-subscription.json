@@ -1,0 +1,206 @@
+{
+  "centralEntity": "Blink vs Ring subscription",
+  "entityVariants": [
+    "Blink vs Ring",
+    "Ring vs Blink",
+    "Ring Home subscription",
+    "Blink subscription",
+    "Blink",
+    "Ring"
+  ],
+  "entities": [
+    {
+      "name": "Ring",
+      "type": "brand",
+      "relation": "Amazon-owned security camera and doorbell brand"
+    },
+    {
+      "name": "Blink",
+      "type": "brand",
+      "relation": "Amazon-owned budget camera brand"
+    },
+    {
+      "name": "Amazon",
+      "type": "company",
+      "relation": "owns both Ring and Blink"
+    },
+    {
+      "name": "Ring Home subscription",
+      "type": "subscription",
+      "relation": "needed to save and review Ring recordings"
+    },
+    {
+      "name": "Blink subscription plan",
+      "type": "subscription",
+      "relation": "cloud storage and smart alerts for Blink"
+    },
+    {
+      "name": "Blink Sync Module 2",
+      "type": "accessory",
+      "relation": "enables local USB storage for Blink"
+    },
+    {
+      "name": "local storage",
+      "type": "feature",
+      "relation": "saves clips without a monthly fee"
+    },
+    {
+      "name": "Ring Alarm",
+      "type": "product line",
+      "relation": "Ring's alarm system with optional professional monitoring"
+    },
+    {
+      "name": "Ring Indoor Cam",
+      "type": "product",
+      "relation": "Ring's plug-in indoor camera"
+    },
+    {
+      "name": "Blink Mini 2",
+      "type": "product",
+      "relation": "Blink's plug-in indoor camera"
+    },
+    {
+      "name": "Alexa",
+      "type": "voice assistant",
+      "relation": "both brands work with Alexa"
+    },
+    {
+      "name": "motion detection",
+      "type": "feature",
+      "relation": "triggers alerts and recordings"
+    },
+    {
+      "name": "night vision",
+      "type": "feature",
+      "relation": "low-light recording"
+    },
+    {
+      "name": "battery life",
+      "type": "attribute",
+      "relation": "how long wire-free cameras run"
+    },
+    {
+      "name": "privacy cover",
+      "type": "feature",
+      "relation": "physically blocks the lens"
+    },
+    {
+      "name": "lease",
+      "type": "renter concept",
+      "relation": "limits mounting outside your unit"
+    }
+  ],
+  "attributes": [
+    "subscription cost",
+    "local storage",
+    "video quality",
+    "battery life",
+    "installation",
+    "smart alerts",
+    "alarm integration",
+    "privacy"
+  ],
+  "ngrams": [
+    "local storage",
+    "sync module",
+    "subscription plan",
+    "indoor camera",
+    "battery life",
+    "motion alerts",
+    "live view",
+    "security camera",
+    "monthly fee",
+    "ring alarm",
+    "no subscription",
+    "blink vs ring subscription"
+  ],
+  "skipgrams": [
+    "ring\u2026subscription",
+    "blink\u2026storage",
+    "camera\u2026renters",
+    "battery\u2026years",
+    "alerts\u2026free"
+  ],
+  "nlpTerms": [
+    "renters",
+    "apartment",
+    "landlord",
+    "lease",
+    "camera",
+    "doorbell",
+    "subscription",
+    "cloud",
+    "USB",
+    "clips",
+    "recordings",
+    "Alexa",
+    "privacy",
+    "motion",
+    "night vision",
+    "Wi-Fi",
+    "plug-in",
+    "battery",
+    "app",
+    "alerts"
+  ],
+  "questions": [
+    "Is Ring or Blink better?",
+    "Does Blink need a subscription?",
+    "Can you use Ring without a subscription?",
+    "Which is better for renters, Ring or Blink?",
+    "Are Ring and Blink the same company?"
+  ],
+  "contentGaps": [
+    "what renters can mount without landlord approval",
+    "moving cameras to a new apartment",
+    "roommate privacy",
+    "cost of ownership over time"
+  ],
+  "outline": [
+    {
+      "h2": "Ring vs Blink: the short answer",
+      "intent": "verdict",
+      "h3": []
+    },
+    {
+      "h2": "Ring vs Blink side by side",
+      "intent": "comparison",
+      "h3": []
+    },
+    {
+      "h2": "Subscriptions and local storage",
+      "intent": "cost",
+      "h3": []
+    },
+    {
+      "h2": "Our picks for renters",
+      "intent": "products",
+      "h3": [
+        "Ring Indoor Cam (2nd Gen)",
+        "Blink Mini 2",
+        "Blink Sync Module 2"
+      ]
+    },
+    {
+      "h2": "Which is better for an apartment?",
+      "intent": "renter angle",
+      "h3": []
+    },
+    {
+      "h2": "Privacy with roommates and neighbors",
+      "intent": "privacy",
+      "h3": []
+    },
+    {
+      "h2": "Moving your cameras to a new place",
+      "intent": "renter gap",
+      "h3": []
+    },
+    {
+      "h2": "Our verdict",
+      "intent": "verdict",
+      "h3": []
+    }
+  ],
+  "targetWords": 1200
+}

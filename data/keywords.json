@@ -23,7 +23,7 @@
     "priority": 9,
     "rationale": "1.6k/mo, KD 15, traffic potential 4.6k (Ahrefs)",
     "slug": "apartment-security-system",
-    "status": "pending",
+    "status": "parked",
     "attempts": 0,
     "addedAt": "2026-10-13T00:00:00.000Z",
     "ahrefs": {
@@ -31,7 +31,8 @@
       "kd": 15,
       "trafficPotential": 4600
     },
-    "funnel": "bofu"
+    "funnel": "bofu",
+    "lastError": "volume 1600 > 250 cap (long-tail rule)"
   },
   {
     "keyword": "alexa vs google home",
@@ -114,7 +115,7 @@
     "priority": 8,
     "rationale": "switchbot lock 600/mo, KD 8 (Ahrefs)",
     "slug": "switchbot-lock-pro-review",
-    "status": "pending",
+    "status": "parked",
     "attempts": 0,
     "addedAt": "2026-10-13T00:00:00.000Z",
     "ahrefs": {
@@ -122,7 +123,8 @@
       "kd": 8,
       "trafficPotential": 600
     },
-    "funnel": "bofu"
+    "funnel": "bofu",
+    "lastError": "volume 600 > 250 cap (long-tail rule)"
   },
   {
     "keyword": "door camera for apartment",
@@ -146,7 +148,7 @@
     "priority": 9,
     "rationale": "900/mo, KD 0, cluster TP 1.3k (Ahrefs)",
     "slug": "door-camera-for-apartment",
-    "status": "pending",
+    "status": "parked",
     "attempts": 0,
     "addedAt": "2026-10-13T00:00:00.000Z",
     "ahrefs": {
@@ -154,7 +156,8 @@
       "kd": 0,
       "trafficPotential": 500
     },
-    "funnel": "bofu"
+    "funnel": "bofu",
+    "lastError": "volume 900 > 250 cap (long-tail rule)"
   },
   {
     "keyword": "smart space heater",
@@ -177,7 +180,7 @@
     "priority": 7,
     "rationale": "1k/mo, KD 0 (Ahrefs)",
     "slug": "smart-space-heater",
-    "status": "pending",
+    "status": "parked",
     "attempts": 0,
     "addedAt": "2026-10-13T00:00:00.000Z",
     "ahrefs": {
@@ -185,7 +188,8 @@
       "kd": 0,
       "trafficPotential": 20
     },
-    "funnel": "bofu"
+    "funnel": "bofu",
+    "lastError": "volume 1000 > 250 cap (long-tail rule)"
   },
   {
     "keyword": "smart home starter kit",
@@ -238,7 +242,7 @@
     "priority": 7,
     "rationale": "KD 0 (Ahrefs)",
     "slug": "mini-split-smart-controller",
-    "status": "pending",
+    "status": "merged",
     "attempts": 0,
     "addedAt": "2026-10-13T00:00:00.000Z",
     "ahrefs": {
@@ -246,7 +250,8 @@
       "kd": 0,
       "trafficPotential": 60
     },
-    "funnel": "bofu"
+    "funnel": "bofu",
+    "mergedInto": "smart ac controller (queued)"
   },
   {
     "keyword": "smart light switch no wiring",
@@ -440,7 +445,7 @@
     "priority": 8,
     "rationale": "350/mo, KD 1 (Ahrefs)",
     "slug": "apartment-security-camera",
-    "status": "pending",
+    "status": "parked",
     "attempts": 0,
     "addedAt": "2026-10-13T00:00:00.000Z",
     "ahrefs": {
@@ -448,7 +453,8 @@
       "kd": 1,
       "trafficPotential": 500
     },
-    "funnel": "bofu"
+    "funnel": "bofu",
+    "lastError": "volume 350 > 250 cap (long-tail rule)"
   },
   {
     "keyword": "locked out of apartment",
@@ -470,7 +476,7 @@
     "priority": 8,
     "rationale": "800/mo, KD 1 (Ahrefs)",
     "slug": "locked-out-of-apartment",
-    "status": "pending",
+    "status": "parked",
     "attempts": 0,
     "addedAt": "2026-10-13T00:00:00.000Z",
     "ahrefs": {
@@ -478,7 +484,8 @@
       "kd": 1,
       "trafficPotential": 350
     },
-    "funnel": "tofu"
+    "funnel": "tofu",
+    "lastError": "volume 800 > 250 cap (long-tail rule)"
   },
   {
     "keyword": "apartment door security",
@@ -502,7 +509,7 @@
     "priority": 8,
     "rationale": "700/mo, KD 0 (Ahrefs)",
     "slug": "apartment-door-security",
-    "status": "pending",
+    "status": "parked",
     "attempts": 0,
     "addedAt": "2026-10-13T00:00:00.000Z",
     "ahrefs": {
@@ -510,7 +517,8 @@
       "kd": 0,
       "trafficPotential": 250
     },
-    "funnel": "mofu"
+    "funnel": "mofu",
+    "lastError": "volume 700 > 250 cap (long-tail rule)"
   },
   {
     "keyword": "dorm room lights",
@@ -533,7 +541,7 @@
     "priority": 7,
     "rationale": "300/mo, KD 0 (Ahrefs)",
     "slug": "dorm-room-lights",
-    "status": "pending",
+    "status": "parked",
     "attempts": 0,
     "addedAt": "2026-10-13T00:00:00.000Z",
     "ahrefs": {
@@ -541,7 +549,8 @@
       "kd": 0,
       "trafficPotential": 800
     },
-    "funnel": "bofu"
+    "funnel": "bofu",
+    "lastError": "volume 300 > 250 cap (long-tail rule)"
   },
   {
     "keyword": "apartment lighting ideas",
@@ -594,7 +603,7 @@
     "priority": 6,
     "rationale": "300/mo, KD 0 (Ahrefs)",
     "slug": "apartment-security-camera-laws-for-tenants",
-    "status": "pending",
+    "status": "parked",
     "attempts": 0,
     "addedAt": "2026-10-13T00:00:00.000Z",
     "ahrefs": {
@@ -602,16 +611,18 @@
       "kd": 0,
       "trafficPotential": 50
     },
-    "funnel": "tofu"
+    "funnel": "tofu",
+    "lastError": "volume 300 > 250 cap (long-tail rule)"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-13T20:00:47.950Z",
     "secondaryKeywords": [
-      "blink vs ring",
-      "ring or blink for apartment",
-      "ring vs blink subscription"
+      "ring vs blink",
+      "ring vs blink subscription",
+      "blink vs ring indoor camera",
+      "does blink need a subscription"
     ],
     "questions": [
       "is ring or blink better",
@@ -619,23 +630,24 @@
       "which is better for renters ring or blink"
     ],
     "priority": 10,
-    "keyword": "ring vs blink",
+    "keyword": "blink vs ring subscription",
     "category": "security",
     "articleType": "comparison",
     "intent": "commercial",
     "funnel": "mofu",
     "workingTitle": "Ring vs Blink for Renters: Which Camera System Should You Choose?",
     "cluster": "apartment security",
-    "rationale": "4.9k/mo, KD 1, TP 1.5k (Ahrefs)",
+    "rationale": "150/mo, KD 0, TP 1.7k (Ahrefs); ≤250 long-tail rule",
     "ahrefs": {
-      "volume": 4900,
-      "kd": 1,
-      "trafficPotential": 1500
+      "volume": 150,
+      "kd": 0,
+      "trafficPotential": 1700
     },
-    "slug": "ring-vs-blink"
+    "slug": "blink-vs-ring-subscription",
+    "publishedAt": "2026-10-13T20:19:05.274Z"
   },
   {
-    "status": "pending",
+    "status": "skipped",
     "attempts": 0,
     "addedAt": "2026-10-13T20:00:47.951Z",
     "secondaryKeywords": [
@@ -661,10 +673,11 @@
       "kd": 0,
       "trafficPotential": 300
     },
-    "slug": "kasa-vs-tapo"
+    "slug": "kasa-vs-tapo",
+    "lastError": "volume 400 > 250 cap; variants only 10-20/mo"
   },
   {
-    "status": "pending",
+    "status": "parked",
     "attempts": 0,
     "addedAt": "2026-10-13T20:00:47.951Z",
     "secondaryKeywords": [
@@ -690,10 +703,11 @@
       "kd": 0,
       "trafficPotential": 250
     },
-    "slug": "matter-vs-zigbee"
+    "slug": "matter-vs-zigbee",
+    "lastError": "volume 400 > 250 cap (long-tail rule)"
   },
   {
-    "status": "pending",
+    "status": "parked",
     "attempts": 0,
     "addedAt": "2026-10-13T20:00:47.951Z",
     "secondaryKeywords": [
@@ -718,10 +732,11 @@
       "kd": 3,
       "trafficPotential": 1900
     },
-    "slug": "ring-vs-nest-doorbell"
+    "slug": "ring-vs-nest-doorbell",
+    "lastError": "volume 400 > 250 cap (long-tail rule)"
   },
   {
-    "status": "pending",
+    "status": "parked",
     "attempts": 0,
     "addedAt": "2026-10-13T20:00:47.951Z",
     "secondaryKeywords": [
@@ -746,7 +761,8 @@
       "kd": 1,
       "trafficPotential": 400
     },
-    "slug": "wyze-vs-blink"
+    "slug": "wyze-vs-blink",
+    "lastError": "volume 350 > 250 cap (long-tail rule)"
   },
   {
     "status": "pending",
@@ -775,5 +791,128 @@
       "trafficPotential": 200
     },
     "slug": "philips-hue-vs-wiz"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-13T20:18:50.429Z",
+    "secondaryKeywords": [
+      "ring doorbell for apartment",
+      "are ring doorbells allowed in apartments",
+      "can i install a ring doorbell in my apartment"
+    ],
+    "questions": [
+      "do i need landlord permission for a ring doorbell",
+      "can a landlord remove my ring doorbell",
+      "how do i mount a ring doorbell without drilling"
+    ],
+    "priority": 9,
+    "keyword": "can you put ring doorbell on apartment",
+    "category": "security",
+    "articleType": "guide",
+    "intent": "informational",
+    "funnel": "tofu",
+    "workingTitle": "Can You Put a Ring Doorbell on an Apartment? (Rules + No-Drill Setup)",
+    "cluster": "apartment security",
+    "rationale": "150/mo, KD 0; SERP dominated by Reddit/forums (Ahrefs)",
+    "ahrefs": {
+      "volume": 150,
+      "kd": 0,
+      "trafficPotential": 100,
+      "parentTopic": "are ring cameras allowed in apartments"
+    },
+    "slug": "can-you-put-ring-doorbell-on-apartment"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-13T20:18:50.430Z",
+    "secondaryKeywords": [
+      "mini split smart controller",
+      "smart mini split controller",
+      "sensibo vs cielo",
+      "wifi ac controller"
+    ],
+    "questions": [
+      "how does a smart ac controller work",
+      "do smart ac controllers work with window units",
+      "sensibo or cielo"
+    ],
+    "priority": 9,
+    "keyword": "smart ac controller",
+    "category": "climate",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Smart AC Controllers for Renters (Window, Portable & Mini-Split)",
+    "cluster": "climate",
+    "rationale": "250/mo, KD 0 (Ahrefs); merges mini split controller (30/mo)",
+    "ahrefs": {
+      "volume": 250,
+      "kd": 0,
+      "trafficPotential": 350,
+      "parentTopic": "smart ac controller"
+    },
+    "slug": "smart-ac-controller"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-13T20:18:50.430Z",
+    "secondaryKeywords": [
+      "renter friendly security system",
+      "apartment alarm system no drilling",
+      "wireless alarm for apartment"
+    ],
+    "questions": [
+      "can renters install an alarm system",
+      "do apartment alarm systems need a contract",
+      "what is the best alarm for an apartment"
+    ],
+    "priority": 7,
+    "keyword": "alarm system for apartment renters",
+    "category": "security",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Alarm Systems for Apartment Renters (No Drilling, No Contract)",
+    "cluster": "apartment security",
+    "rationale": "200/mo, KD 1 (Ahrefs); merges renter friendly security system (150/mo)",
+    "ahrefs": {
+      "volume": 200,
+      "kd": 1,
+      "trafficPotential": 5800,
+      "parentTopic": "apartment security"
+    },
+    "slug": "alarm-system-for-apartment-renters"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-13T20:18:50.430Z",
+    "secondaryKeywords": [
+      "can my landlord have cameras outside my house",
+      "landlord security cameras tenant rights"
+    ],
+    "questions": [
+      "can a landlord record tenants",
+      "where can landlords put cameras"
+    ],
+    "priority": 6,
+    "keyword": "can a landlord put cameras outside the house",
+    "category": "guides",
+    "articleType": "guide",
+    "intent": "informational",
+    "funnel": "tofu",
+    "workingTitle": "Can a Landlord Put Cameras Outside the House? Tenant Rights Explained",
+    "cluster": "renter rights",
+    "rationale": "150/mo, KD 0 (Ahrefs)",
+    "ahrefs": {
+      "volume": 150,
+      "kd": 0,
+      "trafficPotential": 100,
+      "parentTopic": "can my landlord have cameras outside my house"
+    },
+    "slug": "can-a-landlord-put-cameras-outside-the-house"
   }
 ]

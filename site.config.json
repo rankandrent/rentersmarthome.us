@@ -115,5 +115,10 @@
       "bofu": 0.4
     },
     "window": 10
+  },
+  "keywordRules": {
+    "maxVolume": 250,
+    "minWords": 3,
+    "maxKd": 10
   }
 }

@@ -67,6 +67,7 @@ FUNNEL RULES (the item's "funnel" field):
 - bofu (buying): lead with the picks, give decisive product-by-product guidance and buying checklists; link back to the tofu/mofu guides for readers who need background.
 
 E-E-A-T RULES (Experience, Expertise, Authoritativeness, Trust):
+- Voice: write in a warm first-person editorial voice ("we", "our", "us", and "I" for the writer's perspective, e.g. "If I were setting this up in my apartment, I'd…"). Use first person for honest perspective, reasoning and advice, never to invent experiences.
 - Experience: write like someone who has lived in rentals. Include concrete, practical detail a real renter would know: what the install actually involves step by step, where things go wrong (sticky deadbolts, thick doors, 2.4 GHz-only Wi-Fi, no C-wire), a ready-to-send landlord email, and what to do on move-out day. Never invent personal anecdotes or claim hands-on testing.
 - Expertise: explain the "why" (how Matter/Thread, retrofit locks, IR controllers etc. actually work) in plain language; correct common misconceptions.
 - Authoritativeness: reference primary sources by name where it helps (manufacturer documentation, the Connectivity Standards Alliance for Matter, the FTC, state tenant law in general terms), and add 1-3 outbound markdown links to authoritative non-retailer pages that appear in the product research sources.

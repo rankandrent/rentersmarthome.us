@@ -12,6 +12,7 @@ import { loadQueue, saveQueue, loadState, saveState, listPosts, postExists, writ
 import { localNow, dueNow } from './lib/schedule.mjs';
 import { readingTime } from './lib/nlp.mjs';
 import { funnelOf, neededStage } from './lib/funnel.mjs';
+import { findCannibal } from './lib/cannibal.mjs';
 import { runKeywordAgent } from './keyword-agent.mjs';
 import { runProductAgent } from './product-agent.mjs';
 import { buildBrief, writeDraft } from './writer-agent.mjs';
@@ -55,6 +56,13 @@ export function nextKeyword(queue, state) {
   const recent = state.published.slice(-6).map((p) => p.category);
   const window = SITE.funnel?.window ?? 10;
   const recentStages = state.published.slice(-window).map((p) => p.funnel ?? 'bofu');
+  const posts = listPosts();
+  const cap = SITE.keywordRules?.maxVolume ?? 250;
+  for (const q of queue.filter((k) => k.status === 'pending')) {
+    const clash = findCannibal(q, posts);
+    if (q.ahrefs?.volume > cap) Object.assign(q, { status: 'parked', lastError: `volume ${q.ahrefs.volume} > ${cap} cap` });
+    else if (clash) Object.assign(q, { status: 'merged', mergedInto: clash.slug, lastError: `cannibalization: ${clash.reason}` });
+  }
   const pending = queue.filter((q) => q.status === 'pending');
   const want = neededStage(recentStages);
   const score = (k) =>

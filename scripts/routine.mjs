@@ -3,14 +3,15 @@
 // that the API-driven agents would otherwise do.
 //
 //   node scripts/routine.mjs status                 today's quota, queue size
-//   node scripts/routine.mjs next                   next keyword to write (JSON)
+//   node scripts/routine.mjs next                   next keyword to write (skips over-cap / cannibalizing ones)
+//   node scripts/routine.mjs cannibal "<keyword>"   check a keyword against existing posts
 //   node scripts/routine.mjs links <slug>           internal-link candidates
 //   node scripts/routine.mjs add-keywords <file>    merge researched keywords into the queue
 //   node scripts/routine.mjs audit <slug>           SEO audit (needs data/briefs/<slug>.json)
 //   node scripts/routine.mjs finalize <slug>        featured image, backlinks, queue/state, report
 import fs from 'node:fs';
 import path from 'node:path';
-import { DATA_DIR } from '../agents/lib/config.mjs';
+import { DATA_DIR, SITE } from '../agents/lib/config.mjs';
 import { loadQueue, saveQueue, loadState, saveState, listPosts, saveReport } from '../agents/lib/store.mjs';
 import { localNow, quotaFor } from '../agents/lib/schedule.mjs';
 import { slugify } from '../agents/lib/nlp.mjs';
@@ -18,6 +19,7 @@ import { audit, pickLinkTargets, addBacklinks } from '../agents/seo-agent.mjs';
 import { nextKeyword, collectSources } from '../agents/orchestrator.mjs';
 import { ensureFeatured } from './featured-images.mjs';
 import { funnelOf } from '../agents/lib/funnel.mjs';
+import { findCannibal } from '../agents/lib/cannibal.mjs';
 
 const BRIEFS = path.join(DATA_DIR, 'briefs');
 const [cmd, arg] = process.argv.slice(2);
@@ -47,8 +49,28 @@ if (cmd === 'status') {
     pendingKeywords: loadQueue().filter((k) => k.status === 'pending').length,
   });
 } else if (cmd === 'next') {
-  const item = nextKeyword(loadQueue(), loadState());
-  out(item ?? { error: 'queue empty: research keywords first (see ROUTINE.md step 2)' });
+  // Skip (and park) keywords over the volume cap or that would cannibalize a post.
+  const queue = loadQueue();
+  const posts = listPosts();
+  const cap = SITE.keywordRules?.maxVolume ?? 250;
+  let item;
+  for (;;) {
+    item = nextKeyword(queue, loadState());
+    if (!item) break;
+    const clash = findCannibal(item, posts);
+    if (item.ahrefs?.volume > cap) {
+      item.status = 'parked';
+      item.lastError = `volume ${item.ahrefs.volume} > ${cap} cap`;
+    } else if (clash) {
+      item.status = 'merged';
+      item.mergedInto = clash.slug;
+      item.lastError = `cannibalization: ${clash.reason}`;
+    } else break;
+  }
+  saveQueue(queue);
+  out(item ?? { error: 'queue empty: research keywords first (see ROUTINE.md step 1)' });
+} else if (cmd === 'cannibal') {
+  out(findCannibal({ keyword: arg }, listPosts()) ?? { ok: true, message: `no existing post targets "${arg}"` });
 } else if (cmd === 'links') {
   const { item, post } = itemFor(arg);
   const probe = item ?? { keyword: arg.replace(/-/g, ' '), secondaryKeywords: [], workingTitle: '', cluster: '', category: post?.data.category };
