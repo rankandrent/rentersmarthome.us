@@ -27,6 +27,7 @@ tags:
   - matter
   - energy saving
 articleType: roundup
+funnel: bofu
 readingTime: 8
 tldr:
   - >-

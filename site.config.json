@@ -107,5 +107,13 @@
     "indexNowKey": "0080298031939cabe24c1db0b179f360",
     "gscSiteUrl": "sc-domain:rentersmarthome.us",
     "recentDays": 2
+  },
+  "funnel": {
+    "targetMix": {
+      "tofu": 0.3,
+      "mofu": 0.3,
+      "bofu": 0.4
+    },
+    "window": 10
   }
 }

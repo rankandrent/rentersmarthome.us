@@ -30,7 +30,8 @@
       "volume": 1600,
       "kd": 15,
       "trafficPotential": 4600
-    }
+    },
+    "funnel": "bofu"
   },
   {
     "keyword": "alexa vs google home",
@@ -60,7 +61,8 @@
       "kd": 2,
       "trafficPotential": 800
     },
-    "publishedAt": "2026-10-13T19:59:22.757Z"
+    "publishedAt": "2026-10-13T19:59:22.757Z",
+    "funnel": "mofu"
   },
   {
     "keyword": "indoor security camera no subscription",
@@ -89,7 +91,8 @@
       "volume": 70,
       "kd": 7,
       "trafficPotential": 1100
-    }
+    },
+    "funnel": "bofu"
   },
   {
     "keyword": "switchbot lock pro review",
@@ -118,7 +121,8 @@
       "volume": 600,
       "kd": 8,
       "trafficPotential": 600
-    }
+    },
+    "funnel": "bofu"
   },
   {
     "keyword": "door camera for apartment",
@@ -149,7 +153,8 @@
       "volume": 900,
       "kd": 0,
       "trafficPotential": 500
-    }
+    },
+    "funnel": "bofu"
   },
   {
     "keyword": "smart space heater",
@@ -179,7 +184,8 @@
       "volume": 1000,
       "kd": 0,
       "trafficPotential": 20
-    }
+    },
+    "funnel": "bofu"
   },
   {
     "keyword": "smart home starter kit",
@@ -208,7 +214,8 @@
       "volume": 200,
       "kd": 4,
       "trafficPotential": 70
-    }
+    },
+    "funnel": "bofu"
   },
   {
     "keyword": "mini split smart controller",
@@ -238,7 +245,8 @@
       "volume": 30,
       "kd": 0,
       "trafficPotential": 60
-    }
+    },
+    "funnel": "bofu"
   },
   {
     "keyword": "smart light switch no wiring",
@@ -268,7 +276,8 @@
       "volume": 20,
       "kd": 1,
       "trafficPotential": 60
-    }
+    },
+    "funnel": "bofu"
   },
   {
     "keyword": "smart bulbs for apartment",
@@ -293,7 +302,8 @@
     "slug": "smart-bulbs-for-apartment",
     "status": "pending",
     "attempts": 0,
-    "addedAt": "2026-10-13T00:00:00.000Z"
+    "addedAt": "2026-10-13T00:00:00.000Z",
+    "funnel": "bofu"
   },
   {
     "keyword": "can i install a smart thermostat in my apartment",
@@ -323,7 +333,8 @@
       "volume": 200,
       "kd": 0,
       "trafficPotential": 200
-    }
+    },
+    "funnel": "tofu"
   },
   {
     "keyword": "how to install a smart lock in an apartment",
@@ -347,7 +358,8 @@
     "slug": "how-to-install-a-smart-lock-in-an-apartment",
     "status": "pending",
     "attempts": 0,
-    "addedAt": "2026-10-13T00:00:00.000Z"
+    "addedAt": "2026-10-13T00:00:00.000Z",
+    "funnel": "tofu"
   },
   {
     "keyword": "smart blinds for renters",
@@ -371,7 +383,8 @@
     "slug": "smart-blinds-for-renters",
     "status": "pending",
     "attempts": 0,
-    "addedAt": "2026-10-13T00:00:00.000Z"
+    "addedAt": "2026-10-13T00:00:00.000Z",
+    "funnel": "bofu"
   },
   {
     "keyword": "how to move your smart home to a new apartment",
@@ -395,7 +408,8 @@
     "slug": "how-to-move-your-smart-home-to-a-new-apartment",
     "status": "pending",
     "attempts": 0,
-    "addedAt": "2026-10-13T00:00:00.000Z"
+    "addedAt": "2026-10-13T00:00:00.000Z",
+    "funnel": "tofu"
   },
   {
     "keyword": "apartment security camera",
@@ -425,7 +439,8 @@
       "volume": 350,
       "kd": 1,
       "trafficPotential": 500
-    }
+    },
+    "funnel": "bofu"
   },
   {
     "keyword": "locked out of apartment",
@@ -454,7 +469,8 @@
       "volume": 800,
       "kd": 1,
       "trafficPotential": 350
-    }
+    },
+    "funnel": "tofu"
   },
   {
     "keyword": "apartment door security",
@@ -485,7 +501,8 @@
       "volume": 700,
       "kd": 0,
       "trafficPotential": 250
-    }
+    },
+    "funnel": "mofu"
   },
   {
     "keyword": "dorm room lights",
@@ -515,7 +532,8 @@
       "volume": 300,
       "kd": 0,
       "trafficPotential": 800
-    }
+    },
+    "funnel": "bofu"
   },
   {
     "keyword": "apartment lighting ideas",
@@ -545,7 +563,8 @@
       "volume": 200,
       "kd": 0,
       "trafficPotential": 250
-    }
+    },
+    "funnel": "tofu"
   },
   {
     "keyword": "apartment security camera laws for tenants",
@@ -574,6 +593,179 @@
       "volume": 300,
       "kd": 0,
       "trafficPotential": 50
-    }
+    },
+    "funnel": "tofu"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-13T20:00:47.950Z",
+    "secondaryKeywords": [
+      "blink vs ring",
+      "ring or blink for apartment",
+      "ring vs blink subscription"
+    ],
+    "questions": [
+      "is ring or blink better",
+      "does blink need a subscription",
+      "which is better for renters ring or blink"
+    ],
+    "priority": 10,
+    "keyword": "ring vs blink",
+    "category": "security",
+    "articleType": "comparison",
+    "intent": "commercial",
+    "funnel": "mofu",
+    "workingTitle": "Ring vs Blink for Renters: Which Camera System Should You Choose?",
+    "cluster": "apartment security",
+    "rationale": "4.9k/mo, KD 1, TP 1.5k (Ahrefs)",
+    "ahrefs": {
+      "volume": 4900,
+      "kd": 1,
+      "trafficPotential": 1500
+    },
+    "slug": "ring-vs-blink"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-13T20:00:47.951Z",
+    "secondaryKeywords": [
+      "tapo vs kasa smart plug",
+      "kasa or tapo"
+    ],
+    "questions": [
+      "what is the difference between kasa and tapo",
+      "are kasa and tapo the same company",
+      "which tp-link app is better"
+    ],
+    "priority": 8,
+    "keyword": "kasa vs tapo",
+    "category": "plugs-power",
+    "articleType": "comparison",
+    "intent": "commercial",
+    "funnel": "mofu",
+    "workingTitle": "Kasa vs Tapo: Which TP-Link Smart Home Line Is Better for Renters?",
+    "cluster": "smart plugs",
+    "rationale": "400/mo, KD 0 (Ahrefs)",
+    "ahrefs": {
+      "volume": 400,
+      "kd": 0,
+      "trafficPotential": 300
+    },
+    "slug": "kasa-vs-tapo"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-13T20:00:47.951Z",
+    "secondaryKeywords": [
+      "zigbee vs matter",
+      "matter vs thread vs zigbee"
+    ],
+    "questions": [
+      "is matter better than zigbee",
+      "does matter replace zigbee",
+      "do i need a zigbee hub"
+    ],
+    "priority": 8,
+    "keyword": "matter vs zigbee",
+    "category": "hubs-voice",
+    "articleType": "comparison",
+    "intent": "informational",
+    "funnel": "mofu",
+    "workingTitle": "Matter vs Zigbee: What Renters Should Buy in 2026",
+    "cluster": "voice assistants",
+    "rationale": "400/mo, KD 0 (Ahrefs)",
+    "ahrefs": {
+      "volume": 400,
+      "kd": 0,
+      "trafficPotential": 250
+    },
+    "slug": "matter-vs-zigbee"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-13T20:00:47.951Z",
+    "secondaryKeywords": [
+      "ring vs nest",
+      "nest doorbell vs ring doorbell"
+    ],
+    "questions": [
+      "is ring or nest doorbell better",
+      "which doorbell works without wiring"
+    ],
+    "priority": 8,
+    "keyword": "ring vs nest doorbell",
+    "category": "security",
+    "articleType": "comparison",
+    "intent": "commercial",
+    "funnel": "mofu",
+    "workingTitle": "Ring vs Nest Doorbell for Apartments: Which One Fits a Rental?",
+    "cluster": "apartment security",
+    "rationale": "400/mo, KD 3, TP 1.9k (Ahrefs)",
+    "ahrefs": {
+      "volume": 400,
+      "kd": 3,
+      "trafficPotential": 1900
+    },
+    "slug": "ring-vs-nest-doorbell"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-13T20:00:47.951Z",
+    "secondaryKeywords": [
+      "blink vs wyze",
+      "wyze or blink indoor camera"
+    ],
+    "questions": [
+      "is wyze or blink better",
+      "which has cheaper subscription"
+    ],
+    "priority": 7,
+    "keyword": "wyze vs blink",
+    "category": "security",
+    "articleType": "comparison",
+    "intent": "commercial",
+    "funnel": "mofu",
+    "workingTitle": "Wyze vs Blink: Best Budget Cameras for Renters Compared",
+    "cluster": "apartment security",
+    "rationale": "350/mo, KD 1 (Ahrefs)",
+    "ahrefs": {
+      "volume": 350,
+      "kd": 1,
+      "trafficPotential": 400
+    },
+    "slug": "wyze-vs-blink"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-13T20:00:47.951Z",
+    "secondaryKeywords": [
+      "wiz vs hue",
+      "hue or wiz bulbs"
+    ],
+    "questions": [
+      "is wiz as good as philips hue",
+      "does wiz need a hub"
+    ],
+    "priority": 7,
+    "keyword": "philips hue vs wiz",
+    "category": "lighting",
+    "articleType": "comparison",
+    "intent": "commercial",
+    "funnel": "mofu",
+    "workingTitle": "Philips Hue vs WiZ: Which Smart Bulbs Are Better for Apartments?",
+    "cluster": "renter lighting",
+    "rationale": "200/mo, KD 0 (Ahrefs)",
+    "ahrefs": {
+      "volume": 200,
+      "kd": 0,
+      "trafficPotential": 200
+    },
+    "slug": "philips-hue-vs-wiz"
   }
 ]

@@ -29,6 +29,7 @@ tags:
   - smart speakers
   - matter
 articleType: comparison
+funnel: mofu
 readingTime: 8
 tldr:
   - >-

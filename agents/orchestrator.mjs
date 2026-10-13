@@ -11,6 +11,7 @@ import { SITE, log } from './lib/config.mjs';
 import { loadQueue, saveQueue, loadState, saveState, listPosts, postExists, writePost, saveReport } from './lib/store.mjs';
 import { localNow, dueNow } from './lib/schedule.mjs';
 import { readingTime } from './lib/nlp.mjs';
+import { funnelOf, neededStage } from './lib/funnel.mjs';
 import { runKeywordAgent } from './keyword-agent.mjs';
 import { runProductAgent } from './product-agent.mjs';
 import { buildBrief, writeDraft } from './writer-agent.mjs';
@@ -45,15 +46,22 @@ export function collectSources(products) {
   return out.slice(0, 8);
 }
 
-/** Highest priority first, but rotate categories so the site grows evenly. */
+/**
+ * Pick the next keyword: first the funnel stage (TOFU/MOFU/BOFU) that is most
+ * under its target share in recent posts, then highest priority with category
+ * rotation; Ahrefs volume/KD nudge the order.
+ */
 export function nextKeyword(queue, state) {
   const recent = state.published.slice(-6).map((p) => p.category);
+  const window = SITE.funnel?.window ?? 10;
+  const recentStages = state.published.slice(-window).map((p) => p.funnel ?? 'bofu');
   const pending = queue.filter((q) => q.status === 'pending');
-  // Ahrefs data nudges the order: more volume and lower KD rank higher.
+  const want = neededStage(recentStages);
   const score = (k) =>
     k.priority -
     recent.filter((c) => c === k.category).length * 1.5 +
-    (k.ahrefs ? Math.log10((k.ahrefs.volume || 0) + 1) - (k.ahrefs.kd ?? 20) / 20 : 0);
+    (k.ahrefs ? Math.log10((k.ahrefs.volume || 0) + 1) - (k.ahrefs.kd ?? 20) / 20 : 0) +
+    (funnelOf(k) === want ? 4 : 0);
   pending.sort((a, b) => score(b) - score(a));
   return pending[0];
 }
@@ -88,6 +96,7 @@ async function publishOne(item) {
       entities: meta.entities,
       tags: meta.tags,
       articleType: item.articleType,
+      funnel: funnelOf(item),
       readingTime: readingTime(body),
       tldr: meta.tldr,
       products: products.map(({ facts, sources, ...p }) => p),
@@ -150,7 +159,7 @@ export async function main(argv = process.argv.slice(2)) {
       item.status = 'published';
       item.slug = slug;
       item.publishedAt = new Date().toISOString();
-      state.published.push({ date: now.date, slug, keyword: item.keyword, category: item.category });
+      state.published.push({ date: now.date, slug, keyword: item.keyword, category: item.category, funnel: funnelOf(item) });
       done++;
     } catch (e) {
       item.attempts = (item.attempts || 0) + 1;

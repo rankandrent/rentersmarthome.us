@@ -27,6 +27,7 @@ tags:
   - apartment door
   - video doorbell
 articleType: roundup
+funnel: bofu
 readingTime: 8
 tldr:
   - >-

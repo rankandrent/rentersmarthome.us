@@ -44,6 +44,7 @@ const KeywordSchema = z.object({
   keyword: z.string().min(4),
   category: z.enum(SITE.categories.map((c) => c.slug)),
   articleType: z.enum(['roundup', 'review', 'comparison', 'how-to', 'guide']),
+  funnel: z.enum(['tofu', 'mofu', 'bofu']),
   intent: z.enum(['commercial', 'transactional', 'informational']),
   secondaryKeywords: z.array(z.string()).max(10),
   questions: z.array(z.string()).max(8),
@@ -61,7 +62,8 @@ Selection rules:
 - Mix: ~60% commercial (best X for apartments, X vs Y, X review for renters), ~40% informational how-to/guides that internally link to commercial pages. Build clusters: a pillar plus supporting posts.
 - Never pick a keyword that duplicates or cannibalizes an existing post or queued keyword (same search intent = duplicate even if worded differently).
 - Use the web_search tool to sanity-check intent and competition for your strongest candidates.
-- articleType: roundup = "best X"; comparison = "X vs Y"; review = single product; how-to = step-by-step task; guide = explainer.`;
+- articleType: roundup = "best X"; comparison = "X vs Y"; review = single product; how-to = step-by-step task; guide = explainer.
+- funnel: tofu = awareness/problem questions ("can renters install a smart lock", "how to…", "what is…"); mofu = evaluation ("X vs Y", "is X worth it", "X alternatives", "types of X"); bofu = ready to buy ("best X for apartments", "X review", "X deals"). Keep a healthy mix of roughly 30% tofu, 30% mofu, 40% bofu across the queue, and make tofu/mofu topics that can link down to bofu roundups in the same cluster.`;
 
 export async function runKeywordAgent({ target = 15 } = {}) {
   const queue = loadQueue();
@@ -120,7 +122,7 @@ ${taken.map((t) => `- ${t}`).join('\n') || '(none yet)'}
 Categories: ${SITE.categories.map((c) => `${c.slug} (${c.name})`).join(', ')}
 
 Return ONLY a \`\`\`json block shaped as:
-{"keywords":[{"keyword":"...","category":"<slug>","articleType":"roundup|review|comparison|how-to|guide","intent":"commercial|transactional|informational","secondaryKeywords":["close variants and synonyms people search"],"questions":["real People-Also-Ask style questions"],"workingTitle":"...","cluster":"pillar topic name","priority":1-10,"rationale":"one sentence on why it is winnable"}]}`,
+{"keywords":[{"keyword":"...","category":"<slug>","articleType":"roundup|review|comparison|how-to|guide","funnel":"tofu|mofu|bofu","intent":"commercial|transactional|informational","secondaryKeywords":["close variants and synonyms people search"],"questions":["real People-Also-Ask style questions"],"workingTitle":"...","cluster":"pillar topic name","priority":1-10,"rationale":"one sentence on why it is winnable"}]}`,
   });
 
   // Attach Ahrefs metrics (re-checking any keyword Claude proposed outside the list).

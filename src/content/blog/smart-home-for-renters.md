@@ -28,6 +28,7 @@ tags:
   - smart home basics
   - apartment
 articleType: guide
+funnel: tofu
 readingTime: 9
 tldr:
   - >-

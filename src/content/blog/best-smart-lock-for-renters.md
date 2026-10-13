@@ -28,6 +28,7 @@ tags:
   - keyless entry
   - apartment
 articleType: roundup
+funnel: bofu
 readingTime: 9
 tldr:
   - >-

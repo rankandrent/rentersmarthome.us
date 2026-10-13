@@ -28,16 +28,18 @@ Follow the rules in the `SYSTEM` prompt of `agents/keyword-agent.mjs`.
   `terms: all`, filter volume ≥ 30 and difficulty ≤ 20, order by volume) with 5–10
   seeds from `data/seeds.json` for categories that have the fewest posts.
   Read the Ahrefs `doc` tool first for the exact input schema.
-- Pick ~10 winnable, renter-relevant keywords that do not duplicate existing posts
+- Pick ~10 winnable, renter-relevant keywords, each tagged `funnel: tofu|mofu|bofu` (see the funnel rule in the keyword agent prompt), that do not duplicate existing posts
   or queued keywords (same intent = duplicate). Merge variants that share a parent
   topic into `secondaryKeywords`.
 - Write them to a temp JSON file as an array of
-  `{keyword, category, articleType, intent, secondaryKeywords, questions, workingTitle, cluster, priority, rationale, ahrefs:{volume, kd, trafficPotential}}`
+  `{keyword, category, articleType, intent, funnel, secondaryKeywords, questions, workingTitle, cluster, priority, rationale, ahrefs:{volume, kd, trafficPotential}}`
   and run `node scripts/routine.mjs add-keywords <file>`.
 - If Ahrefs is unavailable, use web search for keyword ideas instead.
 
 ## 2. Pick the keyword
-`node scripts/routine.mjs next` → use this item. Its `slug` is the post slug.
+`node scripts/routine.mjs next` → use this item. Its `slug` is the post slug. It already balances the
+funnel (≈30% TOFU, 30% MOFU, 40% BOFU); follow the FUNNEL RULES in `WRITE_SYSTEM` for its `funnel` stage
+and put `funnel: <stage>` in the frontmatter.
 
 ## 3. Product research
 Follow the `SYSTEM` prompt and `COUNT` table in `agents/product-agent.mjs`, using

@@ -29,6 +29,7 @@ const blog = defineCollection({
     entities: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
     articleType: z.enum(['roundup', 'review', 'comparison', 'how-to', 'guide']).default('guide'),
+    funnel: z.enum(['tofu', 'mofu', 'bofu']).optional(),
     readingTime: z.number().optional(),
     tldr: z.array(z.string()).default([]),
     products: z.array(product).default([]),

@@ -17,6 +17,7 @@ import { slugify } from '../agents/lib/nlp.mjs';
 import { audit, pickLinkTargets, addBacklinks } from '../agents/seo-agent.mjs';
 import { nextKeyword, collectSources } from '../agents/orchestrator.mjs';
 import { ensureFeatured } from './featured-images.mjs';
+import { funnelOf } from '../agents/lib/funnel.mjs';
 
 const BRIEFS = path.join(DATA_DIR, 'briefs');
 const [cmd, arg] = process.argv.slice(2);
@@ -90,7 +91,7 @@ if (cmd === 'status') {
   const state = loadState();
   const now = localNow();
   state.startDate ??= now.date;
-  if (!state.published.some((p) => p.slug === arg)) state.published.push({ date: now.date, slug: arg, keyword: it.keyword, category: post.data.category });
+  if (!state.published.some((p) => p.slug === arg)) state.published.push({ date: now.date, slug: arg, keyword: it.keyword, category: post.data.category, funnel: post.data.funnel ?? funnelOf({ ...it, articleType: post.data.articleType }) });
   saveState(state);
   if (item) {
     item.status = 'published';
