@@ -22,6 +22,7 @@ jobs:
       RAW_CF_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
       # The account ID is an identifier, not a secret; the API token is the secret.
       CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID || '62f912a0c185f2042615da812a6e62e6' }}
+      CLOUDFLARE_ZONE_ID: 2c67534475ee8385cc4bb2ff06c846f2
       PROJECT: rentersmarthome
       DOMAIN: rentersmarthome.us
     steps:
@@ -76,6 +77,27 @@ jobs:
         if: steps.creds.outputs.ok == 'true'
         run: npx --yes wrangler@4.150.0 pages deploy dist --project-name="$PROJECT" --branch="$BRANCH" --commit-dirty=true
 
+      - name: Point DNS at Pages (apex + www)
+        if: steps.creds.outputs.ok == 'true'
+        continue-on-error: true
+        run: |
+          api="https://api.cloudflare.com/client/v4/zones/$CLOUDFLARE_ZONE_ID/dns_records"
+          for name in "$DOMAIN" "www.$DOMAIN"; do
+            existing=$(curl -s "$api?name=$name" -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN")
+            if echo "$existing" | grep -q '"success":false'; then
+              echo "::warning::Token cannot read DNS for $name (needs Zone > DNS > Edit): $(echo "$existing" | head -c 300)"; continue
+            fi
+            count=$(echo "$existing" | python3 -c 'import json,sys; print(len(json.load(sys.stdin)["result"]))')
+            if [ "$count" != "0" ]; then
+              echo "$name already has $count DNS record(s):"
+              echo "$existing" | python3 -c 'import json,sys; [print("  ", r["type"], r["name"], "->", r["content"], "proxied" if r.get("proxied") else "") for r in json.load(sys.stdin)["result"]]'
+              continue
+            fi
+            echo "Creating CNAME $name -> $PROJECT.pages.dev"
+            curl -s -X POST "$api" -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" -H "Content-Type: application/json" \
+              --data "{\"type\":\"CNAME\",\"name\":\"$name\",\"content\":\"$PROJECT.pages.dev\",\"proxied\":true}" | head -c 300; echo
+          done
+
       - name: Attach custom domains
         if: steps.creds.outputs.ok == 'true'
         run: |
@@ -84,7 +106,10 @@ jobs:
               -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" -H "Content-Type: application/json" \
               --data "{\"name\":\"$d\"}" | head -c 400; echo
           done
-          echo "Site: https://$PROJECT.pages.dev  (custom domain goes live once DNS/nameservers point to Cloudflare)"
+          echo "Site: https://$PROJECT.pages.dev"
+          echo "Custom domain status:"
+          curl -s "https://api.cloudflare.com/client/v4/accounts/$CLOUDFLARE_ACCOUNT_ID/pages/projects/$PROJECT/domains" -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" \
+            | python3 -c 'import json,sys; d=json.load(sys.stdin); [print("  ", x["name"], "status:", x.get("status"), "| validation:", (x.get("validation_data") or {}).get("status"), (x.get("validation_data") or {}).get("error_message") or "", "| verification:", (x.get("verification_data") or {}).get("status")) for x in d.get("result") or []] if d.get("success") else print(d)'
 
       - name: Notify search engines (IndexNow + Search Console sitemap)
         if: steps.creds.outputs.ok == 'true'
