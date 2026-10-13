@@ -173,6 +173,8 @@ heroImage: /images/featured/smart-home-for-renters.png
 heroAlt: >-
   Smart Home for Renters: The Complete No-Drill Guide: RenterSmartHome renter
   guide
+related:
+  - alexa-vs-google-home
 ---
 
 A **smart home for renters** is built from devices that plug in, screw in, stick on or clamp over existing hardware, so the apartment itself never changes and your security deposit stays safe. Renters can automate lighting, locks, cameras and climate without drilling a single hole, and every device packs into a box when the lease ends.

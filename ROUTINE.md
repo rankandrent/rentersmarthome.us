@@ -63,7 +63,7 @@ Frontmatter (copy the shape of an existing post, e.g.
 `src/content/blog/best-matter-smart-plugs.md`):
 
 ```yaml
-title, seoTitle (≤60), description (140–160), pubDate (current ISO time),
+title, seoTitle (≤60), description (140–160), pubDate (current UTC time minus a few minutes — future dates are hidden until then),
 category, keyword, secondaryKeywords, entities, tags, articleType, readingTime,
 tldr (2–4), products [name, brand, query, badge, summary, renterNote, pros, cons],
 sources [{title, url}] (manufacturer/standards pages you used, no Amazon URLs),

@@ -1,1 +1,11 @@
-{ "startDate": null, "published": [] }
+{
+  "startDate": "2026-10-13",
+  "published": [
+    {
+      "date": "2026-10-13",
+      "slug": "alexa-vs-google-home",
+      "keyword": "alexa vs google home",
+      "category": "hubs-voice"
+    }
+  ]
+}

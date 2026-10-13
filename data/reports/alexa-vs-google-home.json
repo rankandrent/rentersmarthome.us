@@ -1,0 +1,241 @@
+{
+  "keyword": "alexa vs google home",
+  "createdAt": "2026-10-13T19:59:22.758Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "Alexa vs Google Home",
+    "entityVariants": [
+      "Alexa",
+      "Google Home",
+      "Alexa+",
+      "Gemini for Home",
+      "Amazon Alexa",
+      "Google Assistant"
+    ],
+    "entities": [
+      {
+        "name": "Alexa+",
+        "type": "AI assistant",
+        "relation": "Amazon's generative-AI upgrade of Alexa"
+      },
+      {
+        "name": "Gemini for Home",
+        "type": "AI assistant",
+        "relation": "Google's Gemini-based assistant replacing Google Assistant on Google Home devices"
+      },
+      {
+        "name": "Amazon Echo",
+        "type": "product line",
+        "relation": "Alexa smart speakers and displays"
+      },
+      {
+        "name": "Google Nest",
+        "type": "product line",
+        "relation": "Google Home speakers, displays and cameras"
+      },
+      {
+        "name": "Google Home Speaker",
+        "type": "product",
+        "relation": "Google's first speaker built for Gemini"
+      },
+      {
+        "name": "Echo Dot Max",
+        "type": "product",
+        "relation": "Alexa speaker with a built-in smart home hub"
+      },
+      {
+        "name": "Matter",
+        "type": "standard",
+        "relation": "cross-platform smart home standard both ecosystems support"
+      },
+      {
+        "name": "Thread",
+        "type": "protocol",
+        "relation": "low-power mesh network used by Matter devices"
+      },
+      {
+        "name": "Thread border router",
+        "type": "hardware role",
+        "relation": "connects Thread devices to the home network"
+      },
+      {
+        "name": "Zigbee",
+        "type": "protocol",
+        "relation": "mesh protocol supported by some Echo hubs"
+      },
+      {
+        "name": "Amazon Prime",
+        "type": "subscription",
+        "relation": "includes Alexa+"
+      },
+      {
+        "name": "Google Home Premium",
+        "type": "subscription",
+        "relation": "unlocks advanced Gemini features like camera history search"
+      },
+      {
+        "name": "Ring",
+        "type": "brand",
+        "relation": "Amazon-owned cameras that integrate with Alexa"
+      },
+      {
+        "name": "Nest Cam",
+        "type": "product",
+        "relation": "Google cameras that integrate with Google Home"
+      },
+      {
+        "name": "Android",
+        "type": "platform",
+        "relation": "phone platform that pairs naturally with Google Home"
+      },
+      {
+        "name": "lease",
+        "type": "renter concept",
+        "relation": "rental agreement that limits permanent changes"
+      },
+      {
+        "name": "smart plug",
+        "type": "device",
+        "relation": "common first device in either ecosystem"
+      },
+      {
+        "name": "multi-admin",
+        "type": "Matter feature",
+        "relation": "lets one device be controlled from Alexa and Google Home"
+      }
+    ],
+    "attributes": [
+      "device compatibility",
+      "conversation quality",
+      "multi-step routines",
+      "subscription cost",
+      "smart home hub",
+      "privacy controls",
+      "sound quality",
+      "camera integration",
+      "portability"
+    ],
+    "ngrams": [
+      "alexa vs google home",
+      "smart home ecosystem",
+      "smart speaker",
+      "google home speaker",
+      "echo dot max",
+      "thread border router",
+      "matter devices",
+      "compatible devices",
+      "gemini for home",
+      "voice assistant",
+      "amazon prime",
+      "smart home hub"
+    ],
+    "skipgrams": [
+      "alexa…routines",
+      "google…gemini",
+      "matter…devices",
+      "thread…router",
+      "echo…hub",
+      "renters…lease"
+    ],
+    "nlpTerms": [
+      "ecosystem",
+      "routines",
+      "compatibility",
+      "Matter",
+      "Thread",
+      "subscription",
+      "privacy",
+      "microphone",
+      "speaker",
+      "hub",
+      "apartment",
+      "renters",
+      "Prime",
+      "Gemini",
+      "Echo",
+      "Nest",
+      "cameras",
+      "Android",
+      "iPhone",
+      "smart plugs",
+      "multi-admin",
+      "portable"
+    ],
+    "questions": [
+      "Is Alexa or Google Home better?",
+      "Which works with more smart devices?",
+      "Do I need a subscription for Alexa+ or Gemini for Home?",
+      "Can I use both Alexa and Google Home?",
+      "Which is better for renters?"
+    ],
+    "contentGaps": [
+      "moving apartments with each ecosystem",
+      "using Matter multi-admin to avoid lock-in",
+      "which speakers double as Thread border routers",
+      "roommate households with mixed phones",
+      "landlord-provided smart devices"
+    ],
+    "outline": [
+      {
+        "h2": "Alexa vs Google Home: the quick verdict",
+        "intent": "direct answer",
+        "h3": []
+      },
+      {
+        "h2": "How Alexa+ and Gemini for Home compare in 2026",
+        "intent": "core comparison",
+        "h3": []
+      },
+      {
+        "h2": "Device compatibility and Matter support",
+        "intent": "ecosystem fit",
+        "h3": []
+      },
+      {
+        "h2": "Subscriptions and what's free",
+        "intent": "cost",
+        "h3": []
+      },
+      {
+        "h2": "The speakers to buy for each ecosystem",
+        "intent": "product picks",
+        "h3": [
+          "Echo Dot Max",
+          "Google Home Speaker",
+          "Echo Studio"
+        ]
+      },
+      {
+        "h2": "Which is better for renters?",
+        "intent": "renter angle",
+        "h3": []
+      },
+      {
+        "h2": "Moving apartments with Alexa or Google Home",
+        "intent": "information gain",
+        "h3": []
+      },
+      {
+        "h2": "Our recommendation",
+        "intent": "verdict",
+        "h3": []
+      }
+    ],
+    "targetWords": 1500
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "smart-home-for-renters",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-matter-smart-plugs",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-smart-lock-for-renters",
+      "mode": "related-box"
+    }
+  ]
+}

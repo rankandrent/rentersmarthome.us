@@ -52,14 +52,15 @@
     "priority": 9,
     "rationale": "1.3k/mo, KD 2 (Ahrefs)",
     "slug": "alexa-vs-google-home",
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-13T00:00:00.000Z",
     "ahrefs": {
       "volume": 1300,
       "kd": 2,
       "trafficPotential": 800
-    }
+    },
+    "publishedAt": "2026-10-13T19:59:22.757Z"
   },
   {
     "keyword": "indoor security camera no subscription",
