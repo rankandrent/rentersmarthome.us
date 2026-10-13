@@ -1,0 +1,149 @@
+{
+  "keyword": "philips hue vs wiz",
+  "createdAt": "2026-10-13T20:25:31.831Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "Philips Hue vs WiZ",
+    "entityVariants": [
+      "WiZ vs Philips Hue",
+      "Hue vs WiZ",
+      "Philips Hue",
+      "WiZ"
+    ],
+    "entities": [
+      {
+        "name": "Philips Hue",
+        "type": "brand",
+        "relation": "Signify's premium smart lighting system"
+      },
+      {
+        "name": "WiZ",
+        "type": "brand",
+        "relation": "Signify's Wi-Fi smart lighting brand"
+      },
+      {
+        "name": "Signify",
+        "type": "company",
+        "relation": "owns both Philips Hue and WiZ"
+      },
+      {
+        "name": "Philips Hue Bridge",
+        "type": "product",
+        "relation": "Zigbee hub for Hue lights and accessories"
+      },
+      {
+        "name": "Zigbee",
+        "type": "protocol",
+        "relation": "low-power mesh network Hue uses"
+      },
+      {
+        "name": "Wi-Fi",
+        "type": "protocol",
+        "relation": "how WiZ bulbs connect"
+      },
+      {
+        "name": "Bluetooth",
+        "type": "protocol",
+        "relation": "Hue bulbs can work without a bridge over Bluetooth"
+      },
+      {
+        "name": "Matter",
+        "type": "standard",
+        "relation": "smart home standard supported by the Hue Bridge and many WiZ products"
+      },
+      {
+        "name": "router",
+        "type": "device",
+        "relation": "every WiZ bulb adds a device to it"
+      }
+    ],
+    "attributes": [
+      "hub vs no hub",
+      "ecosystem size",
+      "accessories",
+      "router load",
+      "price",
+      "Matter support",
+      "portability"
+    ],
+    "ngrams": [
+      "philips hue",
+      "hue bridge",
+      "wiz bulbs",
+      "smart bulbs",
+      "wi-fi bulbs",
+      "smart lighting"
+    ],
+    "skipgrams": [
+      "hue…bridge",
+      "wiz…wi-fi",
+      "bulbs…router",
+      "hue…zigbee"
+    ],
+    "nlpTerms": [
+      "renters",
+      "apartment",
+      "lamp",
+      "color",
+      "app",
+      "Alexa",
+      "Google Home",
+      "dimmer switch",
+      "scenes"
+    ],
+    "questions": [
+      "Is Philips Hue better than WiZ?",
+      "Does WiZ need a hub?",
+      "Are Philips Hue and WiZ the same company?",
+      "Can WiZ work with Philips Hue?"
+    ],
+    "contentGaps": [
+      "router strain in small apartments",
+      "taking bulbs to the next apartment",
+      "rented ceiling fixtures and switches"
+    ],
+    "outline": [
+      {
+        "h2": "Philips Hue vs WiZ: the short answer",
+        "intent": "verdict",
+        "h3": []
+      },
+      {
+        "h2": "Side by side",
+        "intent": "comparison",
+        "h3": []
+      },
+      {
+        "h2": "Hub vs no hub",
+        "intent": "connectivity",
+        "h3": []
+      },
+      {
+        "h2": "Our picks",
+        "intent": "products",
+        "h3": []
+      },
+      {
+        "h2": "Which is better for an apartment?",
+        "intent": "decision",
+        "h3": []
+      }
+    ],
+    "targetWords": 1100
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "no-drill-motorized-blinds",
+      "mode": "related-box"
+    },
+    {
+      "slug": "alexa-vs-google-home",
+      "mode": "related-box"
+    },
+    {
+      "slug": "blink-vs-ring-subscription",
+      "mode": "related-box"
+    }
+  ]
+}

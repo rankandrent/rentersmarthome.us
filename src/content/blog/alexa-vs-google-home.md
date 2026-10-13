@@ -157,6 +157,7 @@ heroAlt: >-
   Alexa vs Google Home in 2026: Which Is Better for a Rental?: RenterSmartHome
   comparison
 related:
+  - philips-hue-vs-wiz
   - blink-vs-ring-subscription
 ---
 

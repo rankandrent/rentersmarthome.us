@@ -175,6 +175,7 @@ heroAlt: >-
   Smart Home for Renters: The Complete No-Drill Guide: RenterSmartHome renter
   guide
 related:
+  - smart-thermostat-in-apartment
   - no-drill-motorized-blinds
   - alexa-vs-google-home
 ---
@@ -219,7 +220,7 @@ The front door is where renter-friendly smart home tech pays off most:
 
 ## Step 4: Control heating and cooling
 
-**Many rentals have window units, portable ACs or ductless mini-splits controlled by an infrared remote.** A smart AC controller like the [Sensibo Air](amzn:Sensibo+Air+smart+AC+controller) learns that remote and adds schedules, geofencing and voice control, without opening the air conditioner.
+**Many rentals have window units, portable ACs or ductless mini-splits controlled by an infrared remote.** A [smart AC controller](/blog/smart-ac-controller/) like the [Sensibo Air](amzn:Sensibo+Air+smart+AC+controller) learns that remote and adds schedules, geofencing and voice control, without opening the air conditioner.
 
 Replacing a wall thermostat is different: it touches HVAC wiring, so ask your landlord first, keep the original thermostat, and photograph the wiring before you disconnect anything.
 

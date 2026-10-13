@@ -64,3 +64,21 @@ export function organizationSchema() {
     ...(siteConfig.organization.sameAs.length ? { sameAs: siteConfig.organization.sameAs } : {}),
   };
 }
+
+/** Site-wide WebSite node: brand name, alternate names and on-site search. */
+export function websiteSchema() {
+  return {
+    '@type': 'WebSite',
+    '@id': absUrl('/#website'),
+    name: siteConfig.name,
+    alternateName: ['Renter Smart Home', siteConfig.domain],
+    url: siteConfig.url,
+    description: siteConfig.description,
+    publisher: { '@id': absUrl('/#organization') },
+    potentialAction: {
+      '@type': 'SearchAction',
+      target: { '@type': 'EntryPoint', urlTemplate: absUrl('/search/') + '?q={search_term_string}' },
+      'query-input': 'required name=search_term_string',
+    },
+  };
+}

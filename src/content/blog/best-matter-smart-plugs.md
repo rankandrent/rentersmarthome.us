@@ -170,6 +170,8 @@ faqs:
 heroImage: /images/featured/best-matter-smart-plugs.png
 heroAlt: 'Best Matter Smart Plugs for Apartments in 2026: RenterSmartHome buying guide'
 related:
+  - smart-ac-controller
+  - smart-thermostat-in-apartment
   - no-drill-motorized-blinds
   - alexa-vs-google-home
 ---

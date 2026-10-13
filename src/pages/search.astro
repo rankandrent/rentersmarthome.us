@@ -1,0 +1,60 @@
+---
+import Base from '../layouts/Base.astro';
+---
+<Base title="Search renter smart home guides" description="Search every RenterSmartHome guide by product, brand or problem: smart locks, cameras, thermostats, lighting and more." noindex>
+  <div class="wrap">
+    <header class="page-head">
+      <h1 style="font-size:var(--s4)">Search RenterSmartHome</h1>
+      <p class="muted">Find a guide by product, brand or problem, like "no drill", "Ring" or "thermostat".</p>
+    </header>
+    <form class="search-form" role="search" action="/search/" method="get">
+      <label for="q" class="sr-only">Search guides</label>
+      <input id="q" name="q" type="search" placeholder="Search guides…" autocomplete="off" />
+      <button class="btn btn-primary" type="submit">Search</button>
+    </form>
+    <p id="search-status" class="muted" aria-live="polite"></p>
+    <ul id="search-results" class="search-results"></ul>
+  </div>
+</Base>
+
+<script>
+  const input = document.getElementById('q') as HTMLInputElement;
+  const list = document.getElementById('search-results')!;
+  const status = document.getElementById('search-status')!;
+  type Item = { url: string; title: string; description: string; category: string; terms: string };
+  let items: Item[] = [];
+
+  const esc = (s: string) => s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]!);
+
+  function score(item: Item, words: string[]) {
+    const title = item.title.toLowerCase();
+    const rest = `${item.description} ${item.category} ${item.terms}`.toLowerCase();
+    let s = 0;
+    for (const w of words) {
+      const re = new RegExp(`(^|[^a-z0-9])${w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}`);
+      if (re.test(title)) s += 3;
+      else if (re.test(rest)) s += 1;
+      else return 0;
+    }
+    return s;
+  }
+
+  function run() {
+    const q = input.value.trim().toLowerCase();
+    const words = q.split(/\s+/).filter(Boolean);
+    if (!words.length) { list.innerHTML = ''; status.textContent = ''; return; }
+    const hits = items.map((i) => ({ i, s: score(i, words) })).filter((h) => h.s > 0).sort((a, b) => b.s - a.s);
+    status.textContent = hits.length ? `${hits.length} guide${hits.length > 1 ? 's' : ''} found` : 'No guides match yet. Try a broader word, like "camera" or "lock".';
+    list.innerHTML = hits.map(({ i }) => `<li><a href="${i.url}"><span class="kicker">${esc(i.category)}</span><strong>${esc(i.title)}</strong><span>${esc(i.description)}</span></a></li>`).join('');
+  }
+
+  input.value = new URLSearchParams(location.search).get('q') ?? '';
+  fetch('/search-index.json').then((r) => r.json()).then((d) => { items = d; run(); });
+  input.addEventListener('input', () => {
+    run();
+    const u = new URL(location.href);
+    input.value ? u.searchParams.set('q', input.value) : u.searchParams.delete('q');
+    history.replaceState(null, '', u);
+  });
+  document.querySelector('.search-form')!.addEventListener('submit', (e) => { e.preventDefault(); run(); });
+</script>

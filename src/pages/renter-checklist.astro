@@ -1,0 +1,131 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE, absUrl } from '../lib/site';
+
+// The RenterSmartHome Checklist: a branded, reusable tool renters come back to
+// at move-in and move-out. Progress is kept in the visitor's own browser.
+const sections = [
+  {
+    id: 'before',
+    title: 'Before you buy anything',
+    items: [
+      ['Read your lease for rules on alterations, drilling, locks and cameras.', ''],
+      ['Email your landlord about anything that touches the door, wiring or thermostat, and save the reply.', ''],
+      ['Photograph doors, walls, the thermostat and its wiring on move-in day.', ''],
+      ['Check that your Wi-Fi router broadcasts 2.4GHz; most smart devices need it.', ''],
+      ['Pick one voice assistant so every device works together.', '/blog/alexa-vs-google-home/'],
+    ],
+  },
+  {
+    id: 'entry',
+    title: 'Entry and security',
+    items: [
+      ['Choose a smart lock that keeps your existing deadbolt and keys.', '/blog/best-smart-lock-for-renters/'],
+      ['Add a doorbell camera without drilling: peephole cam or no-drill mount.', '/blog/ring-doorbell-in-apartment/'],
+      ['Compare peephole cameras if your building bans exterior devices.', '/blog/best-peephole-camera-for-apartments/'],
+      ['Decide whether you need a camera subscription or free local storage.', '/blog/blink-vs-ring-subscription/'],
+      ['Set motion zones so cameras don\'t record neighbors\' doors.', ''],
+    ],
+  },
+  {
+    id: 'comfort',
+    title: 'Climate and comfort',
+    items: [
+      ['Check whether you\'re allowed and able to swap the thermostat.', '/blog/smart-thermostat-in-apartment/'],
+      ['No thermostat access? Add a smart AC controller to remote-controlled units.', '/blog/smart-ac-controller/'],
+      ['Automate blinds or shades with no-drill options.', '/blog/no-drill-motorized-blinds/'],
+    ],
+  },
+  {
+    id: 'light',
+    title: 'Lighting and power',
+    items: [
+      ['Start with smart bulbs in lamps you already own.', '/blog/philips-hue-vs-wiz/'],
+      ['Use Matter smart plugs for lamps, fans and coffee makers.', '/blog/best-matter-smart-plugs/'],
+      ['Use stick-on wireless switches instead of replacing wall switches.', ''],
+    ],
+  },
+  {
+    id: 'moveout',
+    title: 'Move-out day',
+    items: [
+      ['Reinstall the original deadbolt parts, peephole and thermostat.', ''],
+      ['Peel adhesive mounts slowly; warm stubborn tape with a hair dryer.', ''],
+      ['Wipe residue with rubbing alcohol and patch any small holes.', ''],
+      ['Factory-reset devices you leave behind and remove them from your apps.', ''],
+      ['Update your address in camera, lock and assistant apps at the new place.', '/blog/smart-home-for-renters/'],
+    ],
+  },
+];
+const total = sections.reduce((n, s) => n + s.items.length, 0);
+const jsonLd = [{
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: `The ${SITE.name} Checklist`,
+  url: absUrl('/renter-checklist/'),
+  description: 'A free move-in and move-out smart home checklist for renters.',
+  publisher: { '@id': absUrl('/#organization') },
+  isPartOf: { '@id': absUrl('/#website') },
+}];
+---
+<Base title={`The ${SITE.name} Checklist: Smart Home Setup for Renters`} description="The free RenterSmartHome Checklist: every step to set up a renter-friendly smart home on move-in day and take it with you on move-out day." jsonLd={jsonLd}>
+  <div class="wrap checklist">
+    <header class="page-head">
+      <p class="kicker">Free renter tool</p>
+      <h1 style="font-size:var(--s4)">The {SITE.name} Checklist</h1>
+      <p class="lead">Everything we check when setting up a smart home in a rental, from the lease to move-out day. Tick items off as you go; your progress stays in this browser.</p>
+      <div class="checklist-bar">
+        <div class="meter" aria-hidden="true"><span id="meter-fill"></span></div>
+        <p id="progress" aria-live="polite">0 of {total} done</p>
+        <button class="btn btn-quiet btn-sm" type="button" id="print">Print</button>
+        <button class="btn btn-quiet btn-sm" type="button" id="reset">Reset</button>
+      </div>
+    </header>
+
+    {sections.map((s) => (
+      <section class="check-group" aria-labelledby={s.id}>
+        <h2 id={s.id}>{s.title}</h2>
+        <ul>
+          {s.items.map(([text, href], i) => (
+            <li>
+              <label>
+                <input type="checkbox" data-key={`${s.id}-${i}`} />
+                <span>{text}{href && <> <a href={href}>Read the guide</a></>}</span>
+              </label>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+
+    <p class="muted" style="padding-bottom:40px">Bookmark this page or search "{SITE.name} checklist" to find it again before your next move.</p>
+  </div>
+</Base>
+
+<script define:vars={{ total }}>
+  const KEY = 'rsh-checklist-v1';
+  let done = {};
+  try { done = JSON.parse(localStorage.getItem(KEY) || '{}'); } catch {}
+  const boxes = [...document.querySelectorAll('.checklist input[type=checkbox]')];
+  const update = () => {
+    const n = boxes.filter((b) => b.checked).length;
+    document.getElementById('progress').textContent = `${n} of ${total} done`;
+    document.getElementById('meter-fill').style.width = `${(n / total) * 100}%`;
+  };
+  boxes.forEach((b) => {
+    b.checked = !!done[b.dataset.key];
+    b.addEventListener('change', () => {
+      done[b.dataset.key] = b.checked;
+      try { localStorage.setItem(KEY, JSON.stringify(done)); } catch {}
+      update();
+    });
+  });
+  document.getElementById('print').addEventListener('click', () => window.print());
+  document.getElementById('reset').addEventListener('click', () => {
+    boxes.forEach((b) => (b.checked = false));
+    done = {};
+    try { localStorage.removeItem(KEY); } catch {}
+    update();
+  });
+  update();
+</script>

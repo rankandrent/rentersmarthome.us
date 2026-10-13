@@ -15,6 +15,7 @@ const links = [
     <Logo />
     <nav class="nav" aria-label="Main">
       {links.map((l) => <a href={l.href} aria-current={path.startsWith(l.href) ? 'page' : undefined}>{l.label}</a>)}
+      <a href="/search/" class="nav-search" aria-label="Search guides">Search</a>
     </nav>
     <details class="menu">
       <summary>Menu</summary>
@@ -22,6 +23,8 @@ const links = [
         {links.map((l) => <a href={l.href}>{l.label}</a>)}
         <a href="/category/hubs-voice/">Hubs and voice assistants</a>
         <a href="/blog/">All guides</a>
+        <a href="/renter-checklist/">The renter checklist</a>
+        <a href="/search/">Search</a>
         <a href="/about/">About us</a>
       </div>
     </details>

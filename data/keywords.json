@@ -330,8 +330,8 @@
     "cluster": "climate",
     "priority": 7,
     "rationale": "parent topic of 'apartment thermostat' (200/mo, KD 0, Ahrefs)",
-    "slug": "can-i-install-a-smart-thermostat-in-my-apartment",
-    "status": "pending",
+    "slug": "smart-thermostat-in-apartment",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-13T00:00:00.000Z",
     "ahrefs": {
@@ -339,7 +339,8 @@
       "kd": 0,
       "trafficPotential": 200
     },
-    "funnel": "tofu"
+    "funnel": "tofu",
+    "publishedAt": "2026-10-13T20:25:30.539Z"
   },
   {
     "keyword": "how to install a smart lock in an apartment",
@@ -765,7 +766,7 @@
     "lastError": "volume 350 > 250 cap (long-tail rule)"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-13T20:00:47.951Z",
     "secondaryKeywords": [
@@ -790,10 +791,11 @@
       "kd": 0,
       "trafficPotential": 200
     },
-    "slug": "philips-hue-vs-wiz"
+    "slug": "philips-hue-vs-wiz",
+    "publishedAt": "2026-10-13T20:25:31.830Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-13T20:18:50.429Z",
     "secondaryKeywords": [
@@ -821,10 +823,11 @@
       "trafficPotential": 100,
       "parentTopic": "are ring cameras allowed in apartments"
     },
-    "slug": "can-you-put-ring-doorbell-on-apartment"
+    "slug": "ring-doorbell-in-apartment",
+    "publishedAt": "2026-10-13T20:25:29.876Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-13T20:18:50.430Z",
     "secondaryKeywords": [
@@ -853,7 +856,8 @@
       "trafficPotential": 350,
       "parentTopic": "smart ac controller"
     },
-    "slug": "smart-ac-controller"
+    "slug": "smart-ac-controller",
+    "publishedAt": "2026-10-13T20:25:31.190Z"
   },
   {
     "status": "pending",

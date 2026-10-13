@@ -4,7 +4,7 @@ import Base from '../../layouts/Base.astro';
 import ProductPicks from '../../components/ProductPicks.astro';
 import PostItem from '../../components/PostItem.astro';
 import { getPublishedPosts } from '../../lib/posts';
-import { categoryName, formatDate, absUrl, getAuthor, authorSchema, initials } from '../../lib/site';
+import { SITE, categoryName, formatDate, absUrl, getAuthor, authorSchema, initials } from '../../lib/site';
 import { amazonUrl, AFFILIATE_REL } from '../../lib/affiliate.mjs';
 
 export async function getStaticPaths() {
@@ -149,6 +149,12 @@ if (d.products.length > 1) {
           </ul>
           <p>Last reviewed <time datetime={reviewed.toISOString()}>{formatDate(reviewed)}</time>. Read our <a href="/how-we-research/">research process</a> and <a href="/editorial-policy/">editorial policy</a>, or <a href="/contact/">report an error</a>.</p>
         </section>
+
+        <aside class="brand-cta" aria-labelledby="brand-cta">
+          <h2 id="brand-cta">Setting up a rental? Use the {SITE.name} Checklist</h2>
+          <p>Every step we check, from the lease to move-out day, in one free list that saves your progress.</p>
+          <a class="btn btn-primary btn-sm" href="/renter-checklist/">Open the checklist</a>
+        </aside>
 
         {d.sources.length > 0 && (
           <section class="sources" aria-labelledby="sources">

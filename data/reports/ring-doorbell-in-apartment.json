@@ -1,0 +1,153 @@
+{
+  "keyword": "can you put ring doorbell on apartment",
+  "createdAt": "2026-10-13T20:25:29.880Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "Ring doorbell in an apartment",
+    "entityVariants": [
+      "can you put a Ring doorbell on an apartment",
+      "Ring doorbell for apartment",
+      "Ring doorbell on an apartment door",
+      "Ring doorbell",
+      "Ring Peephole Cam"
+    ],
+    "entities": [
+      {
+        "name": "Ring",
+        "type": "brand",
+        "relation": "Amazon-owned video doorbell brand"
+      },
+      {
+        "name": "Ring Peephole Cam",
+        "type": "product",
+        "relation": "replaces the door peephole, no drilling"
+      },
+      {
+        "name": "Ring Battery Doorbell",
+        "type": "product",
+        "relation": "wire-free doorbell that works with the No-Drill Mount"
+      },
+      {
+        "name": "Ring No-Drill Mount",
+        "type": "accessory",
+        "relation": "adhesive mount for battery doorbells"
+      },
+      {
+        "name": "lease",
+        "type": "document",
+        "relation": "decides whether alterations are allowed"
+      },
+      {
+        "name": "landlord",
+        "type": "person",
+        "relation": "grants permission for changes to the door"
+      },
+      {
+        "name": "security deposit",
+        "type": "concept",
+        "relation": "at risk if the door is damaged"
+      },
+      {
+        "name": "Ring Home subscription",
+        "type": "subscription",
+        "relation": "needed to save recordings"
+      },
+      {
+        "name": "privacy zones",
+        "type": "feature",
+        "relation": "limit what the camera records in shared hallways"
+      }
+    ],
+    "attributes": [
+      "no drilling",
+      "battery power",
+      "peephole size",
+      "door thickness",
+      "adhesive mount",
+      "landlord permission",
+      "privacy"
+    ],
+    "ngrams": [
+      "ring doorbell",
+      "apartment door",
+      "peephole cam",
+      "no-drill mount",
+      "battery doorbell",
+      "landlord permission"
+    ],
+    "skipgrams": [
+      "ring…apartment",
+      "doorbell…lease",
+      "peephole…drilling",
+      "mount…adhesive"
+    ],
+    "nlpTerms": [
+      "renters",
+      "lease",
+      "landlord",
+      "hallway",
+      "security deposit",
+      "motion alerts",
+      "live view",
+      "privacy"
+    ],
+    "questions": [
+      "Can you put a Ring doorbell on an apartment?",
+      "Do you need landlord permission for a Ring doorbell?",
+      "Does the Ring Peephole Cam need drilling?",
+      "Is it legal to record an apartment hallway?"
+    ],
+    "contentGaps": [
+      "what to say when asking the landlord",
+      "hallway privacy rules",
+      "taking the doorbell with you at move-out"
+    ],
+    "outline": [
+      {
+        "h2": "Can you put a Ring doorbell on an apartment?",
+        "intent": "direct answer",
+        "h3": []
+      },
+      {
+        "h2": "Check your lease and ask your landlord",
+        "intent": "permission",
+        "h3": []
+      },
+      {
+        "h2": "Three no-drill ways to add a Ring doorbell",
+        "intent": "options",
+        "h3": [
+          "Ring Peephole Cam",
+          "Ring Battery Doorbell",
+          "Ring No-Drill Mount"
+        ]
+      },
+      {
+        "h2": "Hallway privacy and neighbors",
+        "intent": "privacy",
+        "h3": []
+      },
+      {
+        "h2": "Taking it with you when you move",
+        "intent": "move-out",
+        "h3": []
+      }
+    ],
+    "targetWords": 1100
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-peephole-camera-for-apartments",
+      "mode": "related-box"
+    },
+    {
+      "slug": "blink-vs-ring-subscription",
+      "mode": "related-box"
+    },
+    {
+      "slug": "smart-thermostat-in-apartment",
+      "mode": "related-box"
+    }
+  ]
+}

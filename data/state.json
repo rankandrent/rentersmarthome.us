@@ -21,6 +21,34 @@
       "keyword": "blink vs ring subscription",
       "category": "security",
       "funnel": "mofu"
+    },
+    {
+      "date": "2026-10-13",
+      "slug": "ring-doorbell-in-apartment",
+      "keyword": "can you put ring doorbell on apartment",
+      "category": "security",
+      "funnel": "tofu"
+    },
+    {
+      "date": "2026-10-13",
+      "slug": "smart-thermostat-in-apartment",
+      "keyword": "can i install a smart thermostat in my apartment",
+      "category": "climate",
+      "funnel": "tofu"
+    },
+    {
+      "date": "2026-10-13",
+      "slug": "smart-ac-controller",
+      "keyword": "smart ac controller",
+      "category": "climate",
+      "funnel": "bofu"
+    },
+    {
+      "date": "2026-10-13",
+      "slug": "philips-hue-vs-wiz",
+      "keyword": "philips hue vs wiz",
+      "category": "lighting",
+      "funnel": "mofu"
     }
   ]
 }

@@ -12,7 +12,7 @@ export default defineConfig({
   build: { format: 'directory' },
   integrations: [
     sitemap({
-      filter: (page) => !page.includes('/404'),
+      filter: (page) => !page.includes('/404') && !page.includes('/search/'),
     }),
   ],
   markdown: {

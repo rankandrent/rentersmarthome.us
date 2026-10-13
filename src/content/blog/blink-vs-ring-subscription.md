@@ -143,6 +143,9 @@ heroImage: /images/featured/blink-vs-ring-subscription.png
 heroAlt: >-
   Blink vs Ring Subscription: Which Costs Renters Less?: RenterSmartHome
   comparison
+related:
+  - philips-hue-vs-wiz
+  - ring-doorbell-in-apartment
 ---
 
 The Blink vs Ring subscription question decides what a camera really costs you over a lease. **Blink is the better choice for most renters on a budget because a Blink camera can save clips locally with no subscription, while a Ring camera needs a Ring Home subscription to save any recordings.** Both brands are owned by Amazon, both work with Alexa, and both sell plug-in cameras that never need a drill.

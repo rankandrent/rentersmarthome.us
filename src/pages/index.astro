@@ -9,17 +9,7 @@ const posts = await getPublishedPosts();
 const [leadPost, ...rest] = posts;
 const counts = Object.fromEntries(SITE.categories.map((c) => [c.slug, posts.filter((p) => p.data.category === c.slug).length]));
 
-const jsonLd = [
-  {
-    '@context': 'https://schema.org',
-    '@type': 'WebSite',
-    '@id': absUrl('/#website'),
-    name: SITE.name,
-    url: SITE.url,
-    description: SITE.description,
-    publisher: { '@id': absUrl('/#organization') },
-  },
-];
+const jsonLd: object[] = [];
 ---
 <Base title={`${SITE.name}: Smart Home Gear Your Lease Allows`} description={SITE.description} jsonLd={jsonLd}>
   <section class="hero">
@@ -30,6 +20,7 @@ const jsonLd = [
         <div class="hero-actions">
           <a class="btn btn-primary" href="/blog/">Browse the guides</a>
           <a class="btn btn-quiet" href="/blog/smart-home-for-renters/">Start with the basics</a>
+          <a class="btn btn-quiet" href="/renter-checklist/">Get the renter checklist</a>
         </div>
       </div>
 

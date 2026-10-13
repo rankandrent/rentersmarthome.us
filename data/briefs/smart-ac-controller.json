@@ -1,0 +1,29 @@
+{
+  "centralEntity": "smart AC controller",
+  "entityVariants": ["smart AC controllers", "mini split smart controller", "smart air conditioner controller", "AC controller"],
+  "entities": [
+    {"name": "Cielo Breez Max", "type": "product", "relation": "IR smart AC controller with a touch display"},
+    {"name": "Sensibo Air Pro", "type": "product", "relation": "IR smart AC controller with an air quality sensor"},
+    {"name": "Cielo Breez Lite", "type": "product", "relation": "budget IR smart AC controller"},
+    {"name": "infrared remote", "type": "technology", "relation": "how a smart AC controller sends commands"},
+    {"name": "mini-split", "type": "appliance", "relation": "ductless AC common in apartments"},
+    {"name": "window air conditioner", "type": "appliance", "relation": "remote-controlled AC that works with controllers"},
+    {"name": "portable air conditioner", "type": "appliance", "relation": "remote-controlled AC that works with controllers"},
+    {"name": "Climate React", "type": "feature", "relation": "Sensibo automation that reacts to room temperature"},
+    {"name": "geofencing", "type": "feature", "relation": "turns the AC on or off based on your phone's location"},
+    {"name": "2.4GHz Wi-Fi", "type": "network", "relation": "network band the controllers use"}
+  ],
+  "attributes": ["IR remote compatibility", "scheduling", "geofencing", "voice assistant support", "no wiring", "temperature sensor"],
+  "ngrams": ["smart ac controller", "mini split", "window ac", "ir remote", "climate react", "portable ac"],
+  "skipgrams": ["controller…remote", "mini…controller", "ac…schedule", "sensor…temperature"],
+  "nlpTerms": ["renters", "apartment", "landlord", "energy bill", "humidity", "app", "Alexa", "Google Home", "HomeKit"],
+  "questions": ["What does a smart AC controller do?", "Do smart AC controllers work with mini splits?", "Do I need landlord permission?", "Do smart AC controllers need a subscription?"],
+  "contentGaps": ["line of sight to the AC", "landlord-owned mini splits", "units without a remote"],
+  "outline": [
+    {"h2": "What a smart AC controller does", "intent": "definition", "h3": []},
+    {"h2": "Will it work with your AC?", "intent": "compatibility", "h3": []},
+    {"h2": "The best smart AC controllers for renters", "intent": "products", "h3": ["Cielo Breez Max", "Sensibo Air Pro", "Cielo Breez Lite"]},
+    {"h2": "Setting it up in an apartment", "intent": "setup", "h3": []}
+  ],
+  "targetWords": 1100
+}
