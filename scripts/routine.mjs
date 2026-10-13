@@ -1,0 +1,108 @@
+// Helper for the daily Claude Routine (see ROUTINE.md). The routine session
+// does the research and writing itself; this script handles the bookkeeping
+// that the API-driven agents would otherwise do.
+//
+//   node scripts/routine.mjs status                 today's quota, queue size
+//   node scripts/routine.mjs next                   next keyword to write (JSON)
+//   node scripts/routine.mjs links <slug>           internal-link candidates
+//   node scripts/routine.mjs add-keywords <file>    merge researched keywords into the queue
+//   node scripts/routine.mjs audit <slug>           SEO audit (needs data/briefs/<slug>.json)
+//   node scripts/routine.mjs finalize <slug>        featured image, backlinks, queue/state, report
+import fs from 'node:fs';
+import path from 'node:path';
+import { DATA_DIR } from '../agents/lib/config.mjs';
+import { loadQueue, saveQueue, loadState, saveState, listPosts, saveReport } from '../agents/lib/store.mjs';
+import { localNow, quotaFor } from '../agents/lib/schedule.mjs';
+import { slugify } from '../agents/lib/nlp.mjs';
+import { audit, pickLinkTargets, addBacklinks } from '../agents/seo-agent.mjs';
+import { nextKeyword, collectSources } from '../agents/orchestrator.mjs';
+import { ensureFeatured } from './featured-images.mjs';
+
+const BRIEFS = path.join(DATA_DIR, 'briefs');
+const [cmd, arg] = process.argv.slice(2);
+const out = (o) => console.log(JSON.stringify(o, null, 2));
+
+function itemFor(slug) {
+  const queue = loadQueue();
+  const post = listPosts().find((p) => p.slug === slug);
+  const item = queue.find((q) => q.slug === slug) ?? (post && queue.find((q) => q.keyword === post.data.keyword));
+  return { queue, post, item };
+}
+
+if (cmd === 'status') {
+  const state = loadState();
+  const now = localNow();
+  const start = state.startDate ?? now.date;
+  const q = quotaFor(now.date, start);
+  const today = state.published.filter((p) => p.date === now.date).length;
+  out({
+    today: now.date,
+    scheduleStart: start,
+    week: q.week,
+    phase: q.phase,
+    quotaToday: q.quota,
+    publishedToday: today,
+    remainingToday: Math.max(0, q.quota - today),
+    pendingKeywords: loadQueue().filter((k) => k.status === 'pending').length,
+  });
+} else if (cmd === 'next') {
+  const item = nextKeyword(loadQueue(), loadState());
+  out(item ?? { error: 'queue empty: research keywords first (see ROUTINE.md step 2)' });
+} else if (cmd === 'links') {
+  const { item, post } = itemFor(arg);
+  const probe = item ?? { keyword: arg.replace(/-/g, ' '), secondaryKeywords: [], workingTitle: '', cluster: '', category: post?.data.category };
+  out(pickLinkTargets(probe, listPosts().filter((p) => p.slug !== arg)));
+} else if (cmd === 'add-keywords') {
+  const incoming = JSON.parse(fs.readFileSync(arg, 'utf8'));
+  const queue = loadQueue();
+  const taken = new Set([...queue.map((q) => q.keyword.toLowerCase()), ...listPosts().map((p) => String(p.data.keyword).toLowerCase())]);
+  let added = 0;
+  for (const k of incoming) {
+    const kw = k.keyword.toLowerCase().trim();
+    if (taken.has(kw)) continue;
+    taken.add(kw);
+    queue.push({ status: 'pending', attempts: 0, addedAt: new Date().toISOString(), secondaryKeywords: [], questions: [], priority: 5, ...k, keyword: kw, slug: slugify(kw) });
+    added++;
+  }
+  saveQueue(queue);
+  out({ added, pending: queue.filter((q) => q.status === 'pending').length });
+} else if (cmd === 'audit') {
+  const { item, post } = itemFor(arg);
+  if (!post) throw new Error(`No post src/content/blog/${arg}.md`);
+  const brief = JSON.parse(fs.readFileSync(path.join(BRIEFS, `${arg}.json`), 'utf8'));
+  const report = audit({
+    item: item ?? { keyword: post.data.keyword, secondaryKeywords: post.data.secondaryKeywords ?? [], articleType: post.data.articleType },
+    brief,
+    meta: { title: post.data.title, seoTitle: post.data.seoTitle ?? post.data.title, description: post.data.description },
+    body: post.content,
+    products: post.data.products ?? [],
+  });
+  out({ score: report.score, pass: report.score >= 85, issues: report.issues, metrics: report.metrics });
+} else if (cmd === 'finalize') {
+  const { queue, post, item } = itemFor(arg);
+  if (!post) throw new Error(`No post src/content/blog/${arg}.md`);
+  await ensureFeatured(post);
+  const fresh = listPosts();
+  const others = fresh.filter((p) => p.slug !== arg);
+  const it = item ?? { keyword: post.data.keyword, secondaryKeywords: post.data.secondaryKeywords ?? [], workingTitle: post.data.title, cluster: '', category: post.data.category };
+  const backlinks = addBacklinks({ newSlug: arg, item: it, meta: { entities: post.data.entities ?? [] }, posts: others });
+
+  const state = loadState();
+  const now = localNow();
+  state.startDate ??= now.date;
+  if (!state.published.some((p) => p.slug === arg)) state.published.push({ date: now.date, slug: arg, keyword: it.keyword, category: post.data.category });
+  saveState(state);
+  if (item) {
+    item.status = 'published';
+    item.slug = arg;
+    item.publishedAt = new Date().toISOString();
+    saveQueue(queue);
+  }
+  const briefFile = path.join(BRIEFS, `${arg}.json`);
+  const brief = fs.existsSync(briefFile) ? JSON.parse(fs.readFileSync(briefFile, 'utf8')) : null;
+  saveReport(arg, { keyword: it.keyword, createdAt: new Date().toISOString(), via: 'claude-routine', brief, sources: collectSources(post.data.products ?? []), backlinks });
+  out({ finalized: arg, backlinks });
+} else {
+  console.log('usage: node scripts/routine.mjs status|next|links <slug>|add-keywords <file>|audit <slug>|finalize <slug>');
+  process.exitCode = 1;
+}

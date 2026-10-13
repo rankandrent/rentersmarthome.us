@@ -6,6 +6,10 @@ on:
   schedule:
     - cron: '41 9 * * *'
   workflow_dispatch:
+  # New posts get their ASINs and product photos right after they are pushed.
+  push:
+    paths:
+      - 'src/content/blog/**'
 
 permissions:
   contents: write

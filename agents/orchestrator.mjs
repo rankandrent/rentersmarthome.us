@@ -28,7 +28,7 @@ function parseArgs(argv) {
 }
 
 /** Deduplicated citation list from the product agent's research (E-E-A-T). */
-function collectSources(products) {
+export function collectSources(products) {
   const seen = new Set();
   const out = [];
   for (const url of products.flatMap((p) => p.sources || [])) {
@@ -46,7 +46,7 @@ function collectSources(products) {
 }
 
 /** Highest priority first, but rotate categories so the site grows evenly. */
-function nextKeyword(queue, state) {
+export function nextKeyword(queue, state) {
   const recent = state.published.slice(-6).map((p) => p.category);
   const pending = queue.filter((q) => q.status === 'pending');
   // Ahrefs data nudges the order: more volume and lower KD rank higher.

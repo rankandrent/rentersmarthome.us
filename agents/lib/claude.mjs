@@ -1,7 +1,8 @@
 import Anthropic from '@anthropic-ai/sdk';
 import { MODEL, log } from './config.mjs';
 
-const client = new Anthropic({ maxRetries: 4, timeout: 15 * 60 * 1000 });
+let _client;
+const client = () => (_client ??= new Anthropic({ maxRetries: 4, timeout: 15 * 60 * 1000 }));
 
 const WEB_SEARCH = (maxUses) => ({ type: 'web_search_20260209', name: 'web_search', max_uses: maxUses });
 
@@ -15,7 +16,7 @@ export async function ask({ agent, system, prompt, webSearch = 0, effort = 'medi
   const tools = webSearch > 0 ? [WEB_SEARCH(webSearch)] : undefined;
 
   for (let turn = 0; turn < 6; turn++) {
-    const stream = client.beta.messages.stream({
+    const stream = client().beta.messages.stream({
       model: MODEL,
       max_tokens: maxTokens,
       betas: ['server-side-fallback-2026-07-01'],
