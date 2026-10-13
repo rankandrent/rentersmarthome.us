@@ -59,6 +59,11 @@ products:
     cons:
       - Only fits certain door thicknesses and peephole sizes
       - Battery needs regular recharging
+    asin: B0GLJ8NM1W
+    image:
+      url: 'https://m.media-amazon.com/images/I/31gbU4nZpHL._SL500_.jpg'
+      width: 313
+      height: 500
   - name: Ring Battery Doorbell
     brand: Ring
     query: Ring Battery Doorbell
@@ -74,6 +79,11 @@ products:
     cons:
       - Battery needs recharging
       - Saving recordings needs a Ring Home subscription
+    asin: B0FHJ7TKZM
+    image:
+      url: 'https://m.media-amazon.com/images/I/21lc6l7V1ZL._SL500_.jpg'
+      width: 313
+      height: 500
   - name: Ring No-Drill Mount
     brand: Ring
     query: Ring No-Drill Mount battery doorbell
@@ -89,6 +99,11 @@ products:
     cons:
       - Only fits specific Ring battery doorbells
       - Not for rough or textured surfaces
+    asin: B0FS3466XM
+    image:
+      url: 'https://m.media-amazon.com/images/I/21au3hGPKiL._SL500_.jpg'
+      width: 313
+      height: 500
 sources:
   - title: 'Ring: No-Drill Mount for Battery Doorbells'
     url: 'https://ring.com/ca/en/products/no-drill-mount-for-battery-doorbells'

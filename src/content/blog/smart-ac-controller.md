@@ -60,6 +60,11 @@ products:
     cons:
       - Needs line of sight to the AC
       - Your AC must have an infrared remote
+    asin: B0C7VMZ9FG
+    image:
+      url: 'https://m.media-amazon.com/images/I/41cotMZUGkL._SL500_.jpg'
+      width: 500
+      height: 500
   - name: Sensibo Air Pro
     brand: Sensibo
     query: Sensibo Air Pro smart AC controller
@@ -75,6 +80,11 @@ products:
     cons:
       - Uses 2.4GHz Wi-Fi only
       - Some advanced features may need a Sensibo plan
+    asin: B0B12ZBHLZ
+    image:
+      url: 'https://m.media-amazon.com/images/I/41aMbPd8AmL._SL500_.jpg'
+      width: 500
+      height: 500
   - name: Cielo Breez Lite
     brand: Cielo
     query: Cielo Breez Lite smart AC controller
@@ -90,6 +100,11 @@ products:
     cons:
       - Fewer features than the Breez Max
       - No on-device touch controls
+    asin: B0BMTT6FJL
+    image:
+      url: 'https://m.media-amazon.com/images/I/31eXbiLnwqL._SL500_.jpg'
+      width: 500
+      height: 500
 sources:
   - title: Cielo Breez Max submittal sheet
     url: >-

@@ -57,6 +57,11 @@ products:
     cons:
       - Costs more than WiZ to get started
       - Bridge needs a free Ethernet port on your router
+    asin: B0DBM4538Y
+    image:
+      url: 'https://m.media-amazon.com/images/I/31xoXcJlSUL._SL500_.jpg'
+      width: 500
+      height: 500
   - name: WiZ Color A19 Smart Bulb
     brand: WiZ
     query: WiZ Color A19 smart bulb
@@ -72,6 +77,11 @@ products:
     cons:
       - Every bulb adds a device to your router
       - Smaller accessory range than Hue
+    asin: B0F645ZQ51
+    image:
+      url: 'https://m.media-amazon.com/images/I/310IK16LQwL._SL500_.jpg'
+      width: 500
+      height: 291
   - name: Philips Hue Bridge
     brand: Philips Hue
     query: Philips Hue Bridge
@@ -87,6 +97,11 @@ products:
     cons:
       - Extra purchase if you start with Bluetooth bulbs
       - Needs a wired router connection
+    asin: B016H0QZ7I
+    image:
+      url: 'https://m.media-amazon.com/images/I/31622oLagxL._SL500_.jpg'
+      width: 500
+      height: 500
 sources:
   - title: 'TechRadar: Philips Hue vs WiZ'
     url: >-

@@ -56,6 +56,11 @@ products:
     cons:
       - Some systems still need a Nest Power Connector or C-wire
       - Not for line-voltage baseboard heat
+    asin: B08HRPDBFF
+    image:
+      url: 'https://m.media-amazon.com/images/I/31PoGXkf6kL._SL500_.jpg'
+      width: 500
+      height: 500
   - name: ecobee Smart Thermostat Essential
     brand: ecobee
     query: ecobee Smart Thermostat Essential
@@ -75,6 +80,11 @@ products:
         Kit installs near the HVAC equipment, which you may not be able to
         access
       - Not for line-voltage baseboard heat
+    asin: B0DT9MC2Z9
+    image:
+      url: 'https://m.media-amazon.com/images/I/31JTtJmb1zL._SL500_.jpg'
+      width: 500
+      height: 500
   - name: Mysa Smart Thermostat for Electric Baseboard Heaters
     brand: Mysa
     query: Mysa Smart Thermostat for Electric Baseboard Heaters
@@ -92,6 +102,11 @@ products:
     cons:
       - Needs an electrician in most rentals
       - Not for central forced-air systems
+    asin: B0F5BVD9FM
+    image:
+      url: 'https://m.media-amazon.com/images/I/11a3lFwXIZL._SL500_.jpg'
+      width: 500
+      height: 500
 sources:
   - title: 'GearBrain: Smart thermostats without a C-wire'
     url: >-
