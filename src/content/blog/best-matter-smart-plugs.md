@@ -170,6 +170,7 @@ faqs:
 heroImage: /images/featured/best-matter-smart-plugs.png
 heroAlt: 'Best Matter Smart Plugs for Apartments in 2026: RenterSmartHome buying guide'
 related:
+  - no-drill-motorized-blinds
   - alexa-vs-google-home
 ---
 

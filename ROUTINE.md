@@ -24,10 +24,15 @@ If `remainingToday` is 0, stop here (no commit). Otherwise publish that many pos
 
 ## 1. Keyword research (only if `pendingKeywords` < 10)
 Follow the rules in the `SYSTEM` prompt of `agents/keyword-agent.mjs`.
-- Use the **Ahrefs** connector: `keywords-explorer-matching-terms` (country `us`,
-  `terms: all`, filter volume ≥ 30 and difficulty ≤ 20, order by volume) with 5–10
-  seeds from `data/seeds.json` for categories that have the fewest posts.
-  Read the Ahrefs `doc` tool first for the exact input schema.
+- Use **KGR-style long-tail** research (Keyword Golden Ratio). With the **Ahrefs**
+  connector: `keywords-explorer-matching-terms` (country `us`, `terms: all`) with seeds
+  like apartment, renters, renter, dorm, no drill, landlord and a `where` filter of
+  `word_count ≥ 4`, `volume 10–250`, `difficulty ≤ 10`, `serp_domain_rating_top10_min ≤ 30`,
+  excluding "rental" and "near me". Read the Ahrefs `doc` tool first for the schema.
+- For the best 3–5 candidates run `serp-overview` (top 10 organic): count how many
+  titles contain the exact phrase and note the weakest DR. Prefer keywords where few
+  or no titles match exactly and low-DR sites, forums or Reddit rank (KGR-style win).
+  Skip keywords where every result is a DR 70+ publisher.
 - Pick ~10 winnable, renter-relevant keywords, each tagged `funnel: tofu|mofu|bofu` (see the funnel rule in the keyword agent prompt), that do not duplicate existing posts
   or queued keywords (same intent = duplicate). Merge variants that share a parent
   topic into `secondaryKeywords`.

@@ -362,29 +362,37 @@
     "funnel": "tofu"
   },
   {
-    "keyword": "smart blinds for renters",
+    "keyword": "no drill motorized blinds",
     "category": "lighting",
     "articleType": "roundup",
     "intent": "commercial",
     "secondaryKeywords": [
+      "smart blinds for renters",
       "no drill smart blinds",
-      "smart curtain opener",
-      "switchbot curtain"
+      "motorized blinds no drill",
+      "switchbot curtain",
+      "renter friendly motorized shades"
     ],
     "questions": [
       "can renters install smart blinds",
       "how do smart curtain robots work",
       "are smart blinds worth it"
     ],
-    "workingTitle": "Best Smart Blinds & Curtain Openers for Renters",
+    "workingTitle": "Best No-Drill Motorized Blinds for Renters (2026)",
     "cluster": "lighting",
-    "priority": 5,
-    "rationale": "renter lighting cluster",
-    "slug": "smart-blinds-for-renters",
-    "status": "pending",
+    "priority": 10,
+    "rationale": "KGR pick: 200/mo, KD 0; top 10 has only DR 6-23 product pages, no guide (Ahrefs SERP)",
+    "slug": "no-drill-motorized-blinds",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-13T00:00:00.000Z",
-    "funnel": "bofu"
+    "funnel": "bofu",
+    "ahrefs": {
+      "volume": 200,
+      "kd": 0,
+      "trafficPotential": 30
+    },
+    "publishedAt": "2026-10-13T20:05:36.376Z"
   },
   {
     "keyword": "how to move your smart home to a new apartment",

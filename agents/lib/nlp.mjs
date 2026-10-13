@@ -19,7 +19,7 @@ export function tokenize(text) {
   return text
     .toLowerCase()
     .replace(/[’']/g, "'")
-    .replace(/[^a-z0-9'\-\s]/g, ' ')
+    .replace(/[^a-z0-9'\s]/g, ' ') // hyphens split words: "no-drill" matches "no drill"
     .split(/\s+/)
     .map((t) => t.replace(/^['-]+|['-]+$/g, ''))
     .filter(Boolean);

@@ -175,6 +175,7 @@ heroAlt: >-
   Smart Home for Renters: The Complete No-Drill Guide: RenterSmartHome renter
   guide
 related:
+  - no-drill-motorized-blinds
   - alexa-vs-google-home
 ---
 

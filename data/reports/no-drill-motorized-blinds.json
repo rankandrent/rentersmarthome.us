@@ -1,0 +1,234 @@
+{
+  "keyword": "no drill motorized blinds",
+  "createdAt": "2026-10-13T20:05:36.377Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "no-drill motorized blinds",
+    "entityVariants": [
+      "no drill motorized blinds",
+      "motorized blinds",
+      "smart blinds",
+      "motorized shades",
+      "no-drill smart blinds"
+    ],
+    "entities": [
+      {
+        "name": "motorized roller shades",
+        "type": "product type",
+        "relation": "shades with a built-in motor"
+      },
+      {
+        "name": "tension mount",
+        "type": "installation method",
+        "relation": "spring brackets that press against the window frame"
+      },
+      {
+        "name": "inside mount",
+        "type": "installation method",
+        "relation": "shade sits inside the window recess"
+      },
+      {
+        "name": "adhesive mount",
+        "type": "installation method",
+        "relation": "device sticks on without screws"
+      },
+      {
+        "name": "Graywind",
+        "type": "brand",
+        "relation": "makes no-drill motorized roller shades"
+      },
+      {
+        "name": "SwitchBot Blind Tilt",
+        "type": "product",
+        "relation": "retrofit motor for venetian blinds"
+      },
+      {
+        "name": "SwitchBot Curtain 3",
+        "type": "product",
+        "relation": "robot that opens existing curtains"
+      },
+      {
+        "name": "venetian blinds",
+        "type": "product type",
+        "relation": "slatted blinds with a tilt wand"
+      },
+      {
+        "name": "blackout fabric",
+        "type": "material",
+        "relation": "blocks light for bedrooms"
+      },
+      {
+        "name": "solar panel",
+        "type": "power",
+        "relation": "keeps battery motors charged"
+      },
+      {
+        "name": "rechargeable battery",
+        "type": "power",
+        "relation": "powers wire-free motors"
+      },
+      {
+        "name": "Alexa",
+        "type": "voice assistant",
+        "relation": "voice control for smart blinds"
+      },
+      {
+        "name": "Google Home",
+        "type": "voice assistant",
+        "relation": "voice control for smart blinds"
+      },
+      {
+        "name": "Apple Home",
+        "type": "platform",
+        "relation": "control via Matter or hub"
+      },
+      {
+        "name": "SwitchBot Hub",
+        "type": "hub",
+        "relation": "adds remote and voice control to SwitchBot devices"
+      },
+      {
+        "name": "security deposit",
+        "type": "renter concept",
+        "relation": "at risk if you drill window frames"
+      },
+      {
+        "name": "window frame depth",
+        "type": "measurement",
+        "relation": "decides whether an inside mount fits"
+      },
+      {
+        "name": "lease",
+        "type": "renter concept",
+        "relation": "limits alterations to windows"
+      }
+    ],
+    "attributes": [
+      "installation method",
+      "window depth",
+      "light blocking",
+      "power source",
+      "voice assistant support",
+      "reversibility",
+      "noise",
+      "custom size"
+    ],
+    "ngrams": [
+      "no drill motorized blinds",
+      "motorized roller shades",
+      "smart blinds",
+      "tension mount",
+      "inside mount",
+      "window frame",
+      "blackout shades",
+      "existing blinds",
+      "existing curtain rod",
+      "rechargeable battery",
+      "solar panel",
+      "security deposit"
+    ],
+    "skipgrams": [
+      "blinds…drill",
+      "shades…tension",
+      "curtain…rod",
+      "battery…solar",
+      "window…depth",
+      "landlord…blinds"
+    ],
+    "nlpTerms": [
+      "renters",
+      "apartment",
+      "landlord",
+      "lease",
+      "deposit",
+      "brackets",
+      "screws",
+      "adhesive",
+      "spring",
+      "silicone",
+      "measure",
+      "recess",
+      "blackout",
+      "privacy",
+      "schedule",
+      "sunrise",
+      "Alexa",
+      "Google",
+      "hub",
+      "app",
+      "battery",
+      "solar",
+      "remote"
+    ],
+    "questions": [
+      "Can you install motorized blinds without drilling?",
+      "Do no-drill blinds fall down?",
+      "Can renters install smart blinds?",
+      "How do I make my existing blinds smart?",
+      "Do motorized blinds need wiring?"
+    ],
+    "contentGaps": [
+      "measuring window depth before buying",
+      "what happens on move-out day",
+      "making existing landlord blinds smart instead of replacing them",
+      "which windows tension mounts don't fit"
+    ],
+    "outline": [
+      {
+        "h2": "What are no-drill motorized blinds?",
+        "intent": "definition",
+        "h3": []
+      },
+      {
+        "h2": "Our picks",
+        "intent": "picks",
+        "h3": [
+          "Graywind No Drill Motorized Roller Shades",
+          "SwitchBot Blind Tilt",
+          "SwitchBot Curtain 3"
+        ]
+      },
+      {
+        "h2": "Replace or retrofit: which approach fits your rental?",
+        "intent": "choice",
+        "h3": []
+      },
+      {
+        "h2": "How to measure for a no-drill install",
+        "intent": "how-to",
+        "h3": []
+      },
+      {
+        "h2": "Voice control and automations",
+        "intent": "features",
+        "h3": []
+      },
+      {
+        "h2": "Move-out day: removing no-drill blinds",
+        "intent": "renter gap",
+        "h3": []
+      },
+      {
+        "h2": "Which no-drill motorized blinds should you buy?",
+        "intent": "verdict",
+        "h3": []
+      }
+    ],
+    "targetWords": 1300
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-smart-lock-for-renters",
+      "mode": "related-box"
+    },
+    {
+      "slug": "smart-home-for-renters",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-matter-smart-plugs",
+      "mode": "related-box"
+    }
+  ]
+}

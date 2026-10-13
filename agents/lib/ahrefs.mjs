@@ -30,8 +30,23 @@ const normalize = (rows = []) =>
  * Low-competition keyword ideas containing the seed terms, filtered to
  * winnable keywords (KD ≤ maxKd, volume ≥ minVolume), highest volume first.
  */
-export async function matchingTerms(seeds, { limit = 100, minVolume = 30, maxKd = 25, country = 'us' } = {}) {
-  const where = { and: [{ field: 'volume', is: ['gte', minVolume] }, { field: 'difficulty', is: ['lte', maxKd] }] };
+/**
+ * KGR-style long-tail filter (Keyword Golden Ratio): 4+ word queries with
+ * 10–250 searches/month, KD ≤ maxKd, and at least one weak site (DR ≤ maxWeakDr)
+ * already ranking in the top 10, i.e. big sites haven't locked the SERP.
+ */
+export async function matchingTerms(seeds, { limit = 100, minVolume = 10, maxVolume = 250, maxKd = 10, minWords = 4, maxWeakDr = 30, country = 'us' } = {}) {
+  const where = {
+    and: [
+      { field: 'word_count', is: ['gte', minWords] },
+      { field: 'volume', is: ['gte', minVolume] },
+      { field: 'volume', is: ['lte', maxVolume] },
+      { field: 'difficulty', is: ['lte', maxKd] },
+      { field: 'serp_domain_rating_top10_min', is: ['lte', maxWeakDr] },
+      { not: { field: 'keyword', is: ['isubstring', 'near me'] } },
+      { not: { field: 'keyword', is: ['isubstring', 'rental'] } },
+    ],
+  };
   const data = await get('keywords-explorer/matching-terms', {
     country,
     keywords: seeds.join(','),
@@ -44,6 +59,12 @@ export async function matchingTerms(seeds, { limit = 100, minVolume = 30, maxKd 
   const rows = normalize(data.keywords);
   log('ahrefs', `matching-terms: ${rows.length} keywords for ${seeds.length} seeds`);
   return rows;
+}
+
+/** Top-10 organic results for a keyword (titles + DR) for the KGR title check. */
+export async function serpTop10(keyword, { country = 'us' } = {}) {
+  const data = await get('serp-overview/serp-overview', { country, keyword, select: 'position,title,url,domain_rating', top_positions: '10', type: 'organic' });
+  return data.positions ?? [];
 }
 
 /** Volume / KD / traffic potential for an explicit keyword list. */

@@ -181,6 +181,7 @@ heroAlt: >-
   Best Smart Locks for Renters in 2026 (No Deadbolt Swap): RenterSmartHome
   buying guide
 related:
+  - no-drill-motorized-blinds
   - alexa-vs-google-home
 ---
 
