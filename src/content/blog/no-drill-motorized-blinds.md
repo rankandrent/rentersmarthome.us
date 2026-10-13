@@ -64,6 +64,11 @@ products:
     cons:
       - Needs an inside-mount recess at least 2 inches deep
       - 'Made to measure, so you must measure carefully'
+    asin: B0G8V37M61
+    image:
+      url: 'https://m.media-amazon.com/images/I/31eRLVa+f4L._SL500_.jpg'
+      width: 400
+      height: 500
   - name: SwitchBot Blind Tilt
     brand: SwitchBot
     query: SwitchBot Blind Tilt
@@ -81,6 +86,11 @@ products:
     cons:
       - Tilts slats only; it cannot raise or lower the blind
       - Only fits blinds that use a twisting tilt wand
+    asin: B0BMLFZ4CP
+    image:
+      url: 'https://m.media-amazon.com/images/I/41n+XhwUBUL._SL500_.jpg'
+      width: 500
+      height: 500
   - name: SwitchBot Curtain 3
     brand: SwitchBot
     query: SwitchBot Curtain 3
@@ -98,6 +108,11 @@ products:
     cons:
       - Voice and remote control need a SwitchBot hub
       - Not for roller shades or blinds
+    asin: B0F9W85LWF
+    image:
+      url: 'https://m.media-amazon.com/images/I/31SE-ig7ZfL._SL500_.jpg'
+      width: 500
+      height: 500
 sources:
   - title: 'Graywind: No Drill Motorized Roller Shades'
     url: 'https://www.graywind.com/products/no-drill-roller-shades'
