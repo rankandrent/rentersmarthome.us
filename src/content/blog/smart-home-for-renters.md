@@ -1,7 +1,9 @@
 ---
-title: "Smart Home for Renters: The Complete No-Drill Guide"
-seoTitle: "Smart Home for Renters: The Complete No-Drill Guide"
-description: "How to build a smart home in a rental: renter-safe smart plugs, bulbs, locks, cameras and climate control that install without drilling and move with you."
+title: 'Smart Home for Renters: The Complete No-Drill Guide'
+seoTitle: 'Smart Home for Renters: The Complete No-Drill Guide'
+description: >-
+  How to build a smart home in a rental: renter-safe smart plugs, bulbs, locks,
+  cameras and climate control that install without drilling and move with you.
 pubDate: 2026-10-12T14:00:00.000Z
 category: guides
 keyword: smart home for renters
@@ -28,19 +30,29 @@ tags:
 articleType: guide
 readingTime: 9
 tldr:
-  - A renter smart home uses plug-in, battery, adhesive and swap-and-restore devices so nothing permanent changes in the apartment.
-  - Start with smart plugs and smart bulbs, then add a retrofit smart lock, a peephole camera and an AC or heater controller.
-  - Choose Matter-compatible devices so your smart home works with Alexa, Google Home and Apple Home and survives a move.
-  - Keep every original part (thumbturns, bulbs, door viewers) in a labeled bin for move-out day.
+  - >-
+    A renter smart home uses plug-in, battery, adhesive and swap-and-restore
+    devices so nothing permanent changes in the apartment.
+  - >-
+    Start with smart plugs and smart bulbs, then add a retrofit smart lock, a
+    peephole camera and an AC or heater controller.
+  - >-
+    Choose Matter-compatible devices so your smart home works with Alexa, Google
+    Home and Apple Home and survives a move.
+  - >-
+    Keep every original part (thumbturns, bulbs, door viewers) in a labeled bin
+    for move-out day.
 products:
   - name: Kasa Smart Plug Mini with Matter (KP125M)
     brand: Kasa (TP-Link)
     query: Kasa Smart Plug Mini Matter KP125M
     badge: Best first device
-    summary: A compact Matter smart plug with energy monitoring that turns any lamp, fan or coffee maker into a scheduled smart device.
+    summary: >-
+      A compact Matter smart plug with energy monitoring that turns any lamp,
+      fan or coffee maker into a scheduled smart device.
     renterNote: Plugs into any outlet; zero installation.
     pros:
-      - Works with Alexa, Google Home and Apple Home via Matter
+      - 'Works with Alexa, Google Home and Apple Home via Matter'
       - Energy monitoring
       - Compact enough for duplex outlets
     cons:
@@ -50,11 +62,15 @@ products:
     brand: Philips Hue
     query: Philips Hue White and Color Ambiance Starter Kit
     badge: Best smart lighting
-    summary: The most reliable smart bulb system, with a Bridge that keeps lights responsive even when your Wi-Fi is busy.
-    renterNote: Screw in the bulbs, keep the originals in a drawer, and take the whole kit when you move.
+    summary: >-
+      The most reliable smart bulb system, with a Bridge that keeps lights
+      responsive even when your Wi-Fi is busy.
+    renterNote: >-
+      Screw in the bulbs, keep the originals in a drawer, and take the whole kit
+      when you move.
     pros:
       - Rock-solid Zigbee network via the Hue Bridge
-      - Huge accessory range, including stick-on switches
+      - 'Huge accessory range, including stick-on switches'
       - Matter support through the Bridge
     cons:
       - Premium pricing
@@ -63,11 +79,13 @@ products:
     brand: SwitchBot
     query: SwitchBot Bot
     badge: Best for "dumb" switches
-    summary: A tiny adhesive robot that physically presses a light switch or button, making old switches and appliances smart.
+    summary: >-
+      A tiny adhesive robot that physically presses a light switch or button,
+      making old switches and appliances smart.
     renterNote: Sticks next to a switch with removable adhesive; nothing is rewired.
     pros:
       - Works on rocker switches and buttons
-      - No wiring, no landlord involvement
+      - 'No wiring, no landlord involvement'
       - Battery-powered
     cons:
       - Remote control needs a SwitchBot hub
@@ -76,8 +94,12 @@ products:
     brand: Sensibo
     query: Sensibo Air smart AC controller
     badge: Best climate upgrade
-    summary: A smart controller for window, portable and mini-split air conditioners that use an infrared remote.
-    renterNote: Sits on a shelf or sticks to the wall and talks to your AC like its remote; the AC is never opened.
+    summary: >-
+      A smart controller for window, portable and mini-split air conditioners
+      that use an infrared remote.
+    renterNote: >-
+      Sits on a shelf or sticks to the wall and talks to your AC like its
+      remote; the AC is never opened.
     pros:
       - Schedules and geofencing for remote-controlled ACs
       - Works with major voice assistants
@@ -86,28 +108,51 @@ products:
       - Only works with IR-remote air conditioners
       - Some advanced features need a subscription
 sources:
-  - title: "Matter standard overview, Connectivity Standards Alliance"
-    url: https://csa-iot.org/all-solutions/matter/
-  - title: "Thread Group: what is Thread"
-    url: https://www.threadgroup.org/What-is-Thread
-  - title: "Philips Hue"
-    url: https://www.philips-hue.com/
-  - title: "Sensibo Air"
-    url: https://sensibo.com/
-  - title: "Kasa Smart"
-    url: https://www.kasasmart.com/
-reviewedDate: 2026-10-13
+  - title: 'Matter standard overview, Connectivity Standards Alliance'
+    url: 'https://csa-iot.org/all-solutions/matter/'
+  - title: 'Thread Group: what is Thread'
+    url: 'https://www.threadgroup.org/What-is-Thread'
+  - title: Philips Hue
+    url: 'https://www.philips-hue.com/'
+  - title: Sensibo Air
+    url: 'https://sensibo.com/'
+  - title: Kasa Smart
+    url: 'https://www.kasasmart.com/'
+reviewedDate: 2026-10-13T00:00:00.000Z
 faqs:
   - q: Can renters have a smart home?
-    a: Yes. Renters can build a full smart home with plug-in smart plugs, screw-in smart bulbs, retrofit smart locks, peephole cameras and infrared AC controllers. None of these require drilling or rewiring, and all of them move with you.
+    a: >-
+      Yes. Renters can build a full smart home with plug-in smart plugs,
+      screw-in smart bulbs, retrofit smart locks, peephole cameras and infrared
+      AC controllers. None of these require drilling or rewiring, and all of
+      them move with you.
   - q: What smart home devices do not need landlord permission?
-    a: Devices that plug in, screw into an existing socket or sit on a surface, such as smart plugs, smart bulbs, smart speakers and indoor cameras, typically do not alter the property. Anything that touches locks, thermostats or wiring should be approved in writing first.
-  - q: Should renters choose Alexa, Google Home or Apple Home?
-    a: Pick the assistant that matches your phone and the speakers you already own, but buy Matter-compatible devices. Matter lets the same smart plug or lock work across Alexa, Google Home and Apple Home, so you can switch ecosystems later.
+    a: >-
+      Devices that plug in, screw into an existing socket or sit on a surface,
+      such as smart plugs, smart bulbs, smart speakers and indoor cameras,
+      typically do not alter the property. Anything that touches locks,
+      thermostats or wiring should be approved in writing first.
+  - q: 'Should renters choose Alexa, Google Home or Apple Home?'
+    a: >-
+      Pick the assistant that matches your phone and the speakers you already
+      own, but buy Matter-compatible devices. Matter lets the same smart plug or
+      lock work across Alexa, Google Home and Apple Home, so you can switch
+      ecosystems later.
   - q: Do I need a smart home hub in an apartment?
-    a: Many Wi-Fi and Matter devices work without a separate hub. A hub or Thread border router becomes useful as you add battery sensors, Thread locks or Zigbee bulbs, and many smart speakers already include one.
+    a: >-
+      Many Wi-Fi and Matter devices work without a separate hub. A hub or Thread
+      border router becomes useful as you add battery sensors, Thread locks or
+      Zigbee bulbs, and many smart speakers already include one.
   - q: How do I move my smart home to a new apartment?
-    a: Reinstall original parts in the old unit, pack your devices, and in the new apartment update each device's Wi-Fi network. Matter devices can usually be re-added in minutes; keep a list of devices and their apps to speed it up.
+    a: >-
+      Reinstall original parts in the old unit, pack your devices, and in the
+      new apartment update each device's Wi-Fi network. Matter devices can
+      usually be re-added in minutes; keep a list of devices and their apps to
+      speed it up.
+heroImage: /images/featured/smart-home-for-renters.png
+heroAlt: >-
+  Smart Home for Renters: The Complete No-Drill Guide: RenterSmartHome renter
+  guide
 ---
 
 A **smart home for renters** is built from devices that plug in, screw in, stick on or clamp over existing hardware, so the apartment itself never changes and your security deposit stays safe. Renters can automate lighting, locks, cameras and climate without drilling a single hole, and every device packs into a box when the lease ends.

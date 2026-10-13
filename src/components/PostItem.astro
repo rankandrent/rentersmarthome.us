@@ -9,6 +9,7 @@ const href = `/blog/${post.id}/`;
 {lead ? (
   <article class="post-item lead-item">
     <div>
+      {d.heroImage && <a class="thumb" href={href} tabindex="-1" aria-hidden="true"><img src={d.heroImage} alt="" width="1200" height="630" loading="lazy" decoding="async" /></a>}
       <a class="cat" href={`/category/${d.category}/`}>{categoryName(d.category)}</a>
       <h3><a href={href}>{d.title}</a></h3>
     </div>
@@ -20,6 +21,7 @@ const href = `/blog/${post.id}/`;
   </article>
 ) : (
   <article class="post-item">
+    {d.heroImage && <a class="thumb" href={href} tabindex="-1" aria-hidden="true"><img src={d.heroImage} alt="" width="1200" height="630" loading="lazy" decoding="async" /></a>}
     <a class="cat" href={`/category/${d.category}/`}>{categoryName(d.category)}</a>
     <h3><a href={href}>{d.title}</a></h3>
     <p>{d.description}</p>

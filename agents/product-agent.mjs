@@ -6,7 +6,8 @@
 // only used when the agent saw it in an amazon.com/dp/ URL in its sources.
 import { z } from 'zod';
 import { askJson } from './lib/claude.mjs';
-import { SITE } from './lib/config.mjs';
+import { SITE, log } from './lib/config.mjs';
+import { hasAmazonApi, matchProduct } from './lib/amazon.mjs';
 
 const AGENT = 'product-agent';
 
@@ -58,5 +59,19 @@ Research and return ${COUNT[item.articleType] ?? '3 to 5'} products that best se
 
 Return ONLY a \`\`\`json block: {"products":[{"name":"","brand":"","query":"","asin":"","badge":"","summary":"2 sentences on who it is for and why","renterNote":"","pros":[""],"cons":[""],"facts":[""],"sources":["urls"]}]}`,
   });
-  return products.map((p) => ({ ...p, asin: p.asin || undefined }));
+  const out = products.map((p) => ({ ...p, asin: p.asin || undefined }));
+  if (!hasAmazonApi()) return out;
+  // Verify each product against the live Amazon catalog: real ASIN + product image.
+  for (const p of out) {
+    try {
+      const hit = await matchProduct(p.name, p.query);
+      if (hit) {
+        p.asin = hit.asin;
+        p.image = hit.image;
+      }
+    } catch (e) {
+      log(AGENT, `Amazon lookup failed for "${p.name}": ${e.message}`);
+    }
+  }
+  return out;
 }

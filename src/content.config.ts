@@ -12,6 +12,7 @@ const product = z.object({
   pros: z.array(z.string()).default([]),
   cons: z.array(z.string()).default([]),
   specs: z.record(z.string()).optional(),
+  image: z.object({ url: z.string().url(), width: z.number().optional(), height: z.number().optional() }).optional(),
 });
 
 const blog = defineCollection({
@@ -37,6 +38,8 @@ const blog = defineCollection({
     reviewedDate: z.coerce.date().optional(),
     sources: z.array(z.object({ title: z.string(), url: z.string().url() })).default([]),
     draft: z.boolean().default(false),
+    heroImage: z.string().optional(),
+    heroAlt: z.string().optional(),
   }),
 });
 

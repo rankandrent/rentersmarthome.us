@@ -15,6 +15,7 @@ import { runKeywordAgent } from './keyword-agent.mjs';
 import { runProductAgent } from './product-agent.mjs';
 import { buildBrief, writeDraft } from './writer-agent.mjs';
 import { runSeoAgent, pickLinkTargets, addBacklinks } from './seo-agent.mjs';
+import { ensureFeatured } from '../scripts/featured-images.mjs';
 
 const AGENT = 'orchestrator';
 const MIN_QUEUE = 10;
@@ -97,6 +98,8 @@ async function publishOne(item) {
     },
     body,
   );
+  const written = listPosts().find((p) => p.slug === slug);
+  await ensureFeatured(written);
   const backlinks = addBacklinks({ newSlug: slug, item, meta, posts });
   saveReport(slug, { keyword: item.keyword, createdAt: new Date().toISOString(), brief, products, seo: report, backlinks });
   log(AGENT, `✔ published /blog/${slug}/ (SEO score ${report.score})`);

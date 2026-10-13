@@ -1,7 +1,9 @@
 ---
-title: "Best Peephole Cameras for Apartments: No-Drill Door Security"
-seoTitle: "Best Peephole Camera for Apartments (No Drilling)"
-description: "A peephole camera turns your apartment door viewer into a video doorbell. Here are the best renter-safe peephole cameras and no-drill alternatives."
+title: 'Best Peephole Cameras for Apartments: No-Drill Door Security'
+seoTitle: Best Peephole Camera for Apartments (No Drilling)
+description: >-
+  A peephole camera turns your apartment door viewer into a video doorbell. Here
+  are the best renter-safe peephole cameras and no-drill alternatives.
 pubDate: 2026-10-11T14:00:00.000Z
 category: security
 keyword: peephole camera
@@ -27,17 +29,30 @@ tags:
 articleType: roundup
 readingTime: 8
 tldr:
-  - A peephole camera replaces your door's existing peephole (door viewer) and works like a video doorbell, with no drilling and no wiring.
-  - The Ring Peephole Cam is the best peephole camera for most apartments because it installs through the existing peephole hole and keeps a manual viewer inside.
-  - Save the original door viewer; reinstalling it takes about five minutes on move-out day.
-  - If your door has no peephole, an indoor camera facing the door is the next-best renter-safe option.
+  - >-
+    A peephole camera replaces your door's existing peephole (door viewer) and
+    works like a video doorbell, with no drilling and no wiring.
+  - >-
+    The Ring Peephole Cam is the best peephole camera for most apartments
+    because it installs through the existing peephole hole and keeps a manual
+    viewer inside.
+  - >-
+    Save the original door viewer; reinstalling it takes about five minutes on
+    move-out day.
+  - >-
+    If your door has no peephole, an indoor camera facing the door is the
+    next-best renter-safe option.
 products:
   - name: Ring Peephole Cam
     brand: Ring
     query: Ring Peephole Cam
     badge: Best overall
-    summary: The best-known peephole camera. It swaps in for your existing door viewer and adds HD video, two-way talk and knock detection.
-    renterNote: Installs through the existing peephole hole with no drilling or wiring; reinstall the original viewer when you leave.
+    summary: >-
+      The best-known peephole camera. It swaps in for your existing door viewer
+      and adds HD video, two-way talk and knock detection.
+    renterNote: >-
+      Installs through the existing peephole hole with no drilling or wiring;
+      reinstall the original viewer when you leave.
     pros:
       - Uses the hole that's already in the door
       - Knock detection alerts when someone taps the door
@@ -49,8 +64,12 @@ products:
     brand: Ring
     query: Ring Battery Doorbell
     badge: Best if you can mount outside
-    summary: A battery video doorbell with a head-to-toe view. A strong pick when your landlord allows a doorbell on the frame or you use a no-drill mount.
-    renterNote: Battery-powered, no wiring; pair it with a no-drill doorbell mount that clamps to the door instead of screwing into the frame.
+    summary: >-
+      A battery video doorbell with a head-to-toe view. A strong pick when your
+      landlord allows a doorbell on the frame or you use a no-drill mount.
+    renterNote: >-
+      Battery-powered, no wiring; pair it with a no-drill doorbell mount that
+      clamps to the door instead of screwing into the frame.
     pros:
       - Taller head-to-toe field of view
       - Removable rechargeable battery
@@ -62,21 +81,29 @@ products:
     brand: Blink
     query: Blink Mini 2 indoor camera
     badge: Best budget alternative
-    summary: A tiny plug-in camera you can point at the inside of your front door to see who comes and goes, with optional local storage.
-    renterNote: Sits on a shelf or sticks to the wall with adhesive; nothing touches the door.
+    summary: >-
+      A tiny plug-in camera you can point at the inside of your front door to
+      see who comes and goes, with optional local storage.
+    renterNote: >-
+      Sits on a shelf or sticks to the wall with adhesive; nothing touches the
+      door.
     pros:
       - Very affordable
       - Local storage option with a Blink Sync Module
       - Works with Alexa
     cons:
-      - Sees inside the door, not the hallway
+      - 'Sees inside the door, not the hallway'
       - Needs an outlet nearby
   - name: Wyze Cam v4
     brand: Wyze
     query: Wyze Cam v4
     badge: Best no-subscription option
-    summary: A low-cost indoor camera with microSD recording, so you can record door activity without a monthly plan.
-    renterNote: Freestanding magnetic base; place it on a shelf facing the entry with no mounting at all.
+    summary: >-
+      A low-cost indoor camera with microSD recording, so you can record door
+      activity without a monthly plan.
+    renterNote: >-
+      Freestanding magnetic base; place it on a shelf facing the entry with no
+      mounting at all.
     pros:
       - Records to a microSD card
       - Sharp night vision
@@ -85,24 +112,44 @@ products:
       - Indoor view only
       - Smart alerts work best with a Cam Plus plan
 sources:
-  - title: "Ring (manufacturer)"
-    url: https://ring.com/
-  - title: "Blink Mini 2"
-    url: https://blinkforhome.com/
-  - title: "Wyze (manufacturer)"
-    url: https://www.wyze.com/
-reviewedDate: 2026-10-13
+  - title: Ring (manufacturer)
+    url: 'https://ring.com/'
+  - title: Blink Mini 2
+    url: 'https://blinkforhome.com/'
+  - title: Wyze (manufacturer)
+    url: 'https://www.wyze.com/'
+reviewedDate: 2026-10-13T00:00:00.000Z
 faqs:
   - q: Are peephole cameras legal in apartments?
-    a: Peephole cameras are generally legal when they record your own doorway, but some buildings restrict devices that record shared hallways. Check your lease and building rules, and avoid angling any camera into a neighbor's unit.
+    a: >-
+      Peephole cameras are generally legal when they record your own doorway,
+      but some buildings restrict devices that record shared hallways. Check
+      your lease and building rules, and avoid angling any camera into a
+      neighbor's unit.
   - q: Do peephole cameras need drilling?
-    a: No. A peephole camera like the Ring Peephole Cam installs through the hole your existing door viewer already uses. You unscrew the old viewer, insert the camera, and tighten it in place.
+    a: >-
+      No. A peephole camera like the Ring Peephole Cam installs through the hole
+      your existing door viewer already uses. You unscrew the old viewer, insert
+      the camera, and tighten it in place.
   - q: Does the Ring Peephole Cam work without a subscription?
-    a: The Ring Peephole Cam sends live alerts and lets you view and talk in real time without a plan. Saving, reviewing and sharing recorded video requires a Ring Home subscription.
+    a: >-
+      The Ring Peephole Cam sends live alerts and lets you view and talk in real
+      time without a plan. Saving, reviewing and sharing recorded video requires
+      a Ring Home subscription.
   - q: What size peephole does a peephole camera fit?
-    a: Most peephole cameras fit standard door viewer holes and doors within a specific thickness range. Measure your door thickness and peephole diameter and compare them with the manufacturer's specs before buying.
+    a: >-
+      Most peephole cameras fit standard door viewer holes and doors within a
+      specific thickness range. Measure your door thickness and peephole
+      diameter and compare them with the manufacturer's specs before buying.
   - q: What if my apartment door has no peephole?
-    a: Without a peephole, use an indoor camera such as the Wyze Cam v4 or Blink Mini 2 pointed at the inside of the door, or ask your landlord about a battery video doorbell on a no-drill mount.
+    a: >-
+      Without a peephole, use an indoor camera such as the Wyze Cam v4 or Blink
+      Mini 2 pointed at the inside of the door, or ask your landlord about a
+      battery video doorbell on a no-drill mount.
+heroImage: /images/featured/best-peephole-camera-for-apartments.png
+heroAlt: >-
+  Best Peephole Cameras for Apartments: No-Drill Door Security: RenterSmartHome
+  buying guide
 ---
 
 A **peephole camera** is a battery-powered video camera that replaces the small door viewer (peephole) already built into most apartment doors. The peephole camera mounts through the same hole, so you get motion alerts, live video and two-way talk on your phone without drilling, wiring, or touching the door frame. That makes a peephole camera the most renter-friendly way to see who's at your door.

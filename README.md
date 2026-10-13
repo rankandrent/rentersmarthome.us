@@ -38,6 +38,10 @@ on the first real run. Preview the calendar: `npm run agents:schedule`.
 2. **GitHub secrets** (Settings → Secrets and variables → Actions):
    - `ANTHROPIC_API_KEY` – runs the agents (required)
    - `AHREFS_API_KEY` – keyword research (recommended; falls back to Google Autocomplete)
+   - `AMAZON_CREATORS_CREDENTIAL_ID` / `AMAZON_CREATORS_CREDENTIAL_SECRET` – Amazon
+     Creators API (real ASINs + product photos; refreshed daily by
+     `.github/workflows/amazon-refresh.yml`). Optional variable `AMAZON_CREATORS_VERSION`
+     (default `3.1`). Product photos only appear once these and the Amazon tag are set.
 3. **Default branch** – the workflow in `.github/workflows/publish.yml` runs on the
    default branch every hour; merge this branch into `main`.
 4. **Cloudflare Pages** – connect the repo, build command `npm run build`, output
@@ -58,6 +62,8 @@ npm run agents:run        # publish whatever is due (needs ANTHROPIC_API_KEY)
 node agents/orchestrator.mjs --force 1   # publish 1 post right now
 npm run agents:keywords   # refill the keyword queue
 npm run check:content     # validate internal + affiliate links
+npm run images            # generate missing featured images (public/images/featured)
+npm run amazon:refresh    # refresh ASINs + product photos from Amazon
 ```
 
 ## Files

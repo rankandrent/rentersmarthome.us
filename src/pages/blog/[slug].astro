@@ -20,6 +20,7 @@ const modified = d.updatedDate ?? d.pubDate;
 const reviewed = d.reviewedDate ?? modified;
 const author = getAuthor(d.author);
 const authorUrl = `/authors/${author.slug}/`;
+const hero = d.heroImage;
 
 const byId = new Map(all.map((p) => [p.id, p]));
 const seen = new Set([post.id]);
@@ -43,7 +44,7 @@ const jsonLd: object[] = [
     articleSection: categoryName(d.category),
     keywords: [d.keyword, ...d.secondaryKeywords].join(', '),
     about: d.entities.slice(0, 8).map((name) => ({ '@type': 'Thing', name })),
-    image: absUrl('/og-default.png'),
+    image: { '@type': 'ImageObject', url: absUrl(hero ?? '/og-default.png'), width: 1200, height: 630 },
     author: authorSchema(author),
     publisher: { '@id': absUrl('/#organization') },
     ...(d.sources.length ? { citation: d.sources.map((s) => ({ '@type': 'CreativeWork', name: s.title, url: s.url })) } : {}),
@@ -74,7 +75,7 @@ if (d.products.length > 1) {
   });
 }
 ---
-<Base title={d.seoTitle ?? d.title} description={d.description} type="article" jsonLd={jsonLd} publishedTime={d.pubDate.toISOString()} modifiedTime={modified.toISOString()}>
+<Base title={d.seoTitle ?? d.title} description={d.description} image={hero} type="article" jsonLd={jsonLd} publishedTime={d.pubDate.toISOString()} modifiedTime={modified.toISOString()}>
   <div class="wrap">
     <header class="article-head">
       <nav class="crumbs" aria-label="Breadcrumb">
@@ -92,6 +93,7 @@ if (d.products.length > 1) {
           {d.readingTime && <span>{d.readingTime}-minute read</span>}
         </div>
       </div>
+      {hero && <img class="hero-img" src={hero} alt={d.heroAlt ?? d.title} width="1200" height="630" fetchpriority="high" decoding="async" />}
     </header>
 
     <div class="article-layout">

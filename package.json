@@ -12,7 +12,9 @@
     "agents:run": "node agents/orchestrator.mjs",
     "agents:dry": "node agents/orchestrator.mjs --dry-run",
     "agents:keywords": "node agents/keyword-agent.mjs",
-    "agents:schedule": "node agents/lib/schedule.mjs"
+    "agents:schedule": "node agents/lib/schedule.mjs",
+    "images": "node scripts/featured-images.mjs",
+    "amazon:refresh": "node agents/refresh-amazon.mjs"
   },
   "engines": {
     "node": ">=20"
@@ -24,5 +26,11 @@
     "astro": "^5.18.2",
     "gray-matter": "^4.0.3",
     "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@fontsource/bricolage-grotesque": "^5.3.0",
+    "@fontsource/source-serif-4": "^5.3.1",
+    "@resvg/resvg-js": "^2.6.2",
+    "satori": "^0.56.1"
   }
 }

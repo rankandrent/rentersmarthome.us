@@ -42,8 +42,10 @@ export function postExists(slug) {
 
 /** Write a post. Removes undefined/empty optional keys so YAML stays clean. */
 export function writePost(slug, data, content) {
+  // JSON round-trip drops nested `undefined` values that YAML cannot serialize.
+  const plain = JSON.parse(JSON.stringify(data));
   const clean = Object.fromEntries(
-    Object.entries(data).filter(([, v]) => v !== undefined && v !== null && !(Array.isArray(v) && v.length === 0)),
+    Object.entries(plain).filter(([, v]) => v !== undefined && v !== null && !(Array.isArray(v) && v.length === 0)),
   );
   const file = path.join(BLOG_DIR, `${slug}.md`);
   fs.writeFileSync(file, matter.stringify(`\n${content.trim()}\n`, clean));
