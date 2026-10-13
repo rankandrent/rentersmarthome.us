@@ -81,21 +81,28 @@ jobs:
         if: steps.creds.outputs.ok == 'true'
         continue-on-error: true
         run: |
+          # Replace any leftover A/AAAA/CNAME records for the apex and www with a
+          # proxied CNAME to the Pages project. Removed records are printed so
+          # they can be restored by hand if ever needed.
           api="https://api.cloudflare.com/client/v4/zones/$CLOUDFLARE_ZONE_ID/dns_records"
+          auth="Authorization: Bearer $CLOUDFLARE_API_TOKEN"
+          target="$PROJECT.pages.dev"
           for name in "$DOMAIN" "www.$DOMAIN"; do
-            existing=$(curl -s "$api?name=$name" -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN")
+            existing=$(curl -s "$api?name=$name" -H "$auth")
             if echo "$existing" | grep -q '"success":false'; then
               echo "::warning::Token cannot read DNS for $name (needs Zone > DNS > Edit): $(echo "$existing" | head -c 300)"; continue
             fi
-            count=$(echo "$existing" | python3 -c 'import json,sys; print(len(json.load(sys.stdin)["result"]))')
-            if [ "$count" != "0" ]; then
-              echo "$name already has $count DNS record(s):"
-              echo "$existing" | python3 -c 'import json,sys; [print("  ", r["type"], r["name"], "->", r["content"], "proxied" if r.get("proxied") else "") for r in json.load(sys.stdin)["result"]]'
-              continue
+            if echo "$existing" | python3 -c "import json,sys; r=json.load(sys.stdin)['result']; sys.exit(0 if any(x['type']=='CNAME' and x['content']=='$target' for x in r) else 1)"; then
+              echo "$name already points to $target"; continue
             fi
-            echo "Creating CNAME $name -> $PROJECT.pages.dev"
-            curl -s -X POST "$api" -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" -H "Content-Type: application/json" \
-              --data "{\"type\":\"CNAME\",\"name\":\"$name\",\"content\":\"$PROJECT.pages.dev\",\"proxied\":true}" | head -c 300; echo
+            for row in $(echo "$existing" | python3 -c "import json,sys; [print(x['id']+'|'+x['type']+'|'+x['content']) for x in json.load(sys.stdin)['result'] if x['type'] in ('A','AAAA','CNAME')]"); do
+              id=${row%%|*}; rest=${row#*|}
+              echo "Removing old record for $name: ${rest/|/ -> }"
+              curl -s -X DELETE "$api/$id" -H "$auth" | head -c 200; echo
+            done
+            echo "Creating CNAME $name -> $target (proxied)"
+            curl -s -X POST "$api" -H "$auth" -H "Content-Type: application/json" \
+              --data "{\"type\":\"CNAME\",\"name\":\"$name\",\"content\":\"$target\",\"proxied\":true}" | head -c 300; echo
           done
 
       - name: Attach custom domains
