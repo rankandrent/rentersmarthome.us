@@ -57,6 +57,11 @@ products:
     cons:
       - Saving recordings needs a Ring Home subscription
       - Needs an outlet nearby
+    asin: B0GJCP9XXC
+    image:
+      url: 'https://m.media-amazon.com/images/I/21ULlhHVNwL._SL500_.jpg'
+      width: 313
+      height: 500
   - name: Blink Mini 2
     brand: Blink
     query: Blink Mini 2 indoor camera
@@ -72,6 +77,11 @@ products:
     cons:
       - Smart alerts and cloud clips need a Blink plan
       - Indoor view only unless you add Blink's weather adapter
+    asin: B0F3BJJ9DJ
+    image:
+      url: 'https://m.media-amazon.com/images/I/21aX8NdoPlL._SL500_.jpg'
+      width: 313
+      height: 500
   - name: Blink Sync Module 2
     brand: Blink
     query: Blink Sync Module 2
@@ -87,6 +97,11 @@ products:
     cons:
       - USB drive sold separately
       - Some smart features still need a Blink plan
+    asin: B084RQ6MHJ
+    image:
+      url: 'https://m.media-amazon.com/images/I/31jEg7XYKbL._SL500_.jpg'
+      width: 500
+      height: 500
 sources:
   - title: 'Security.org: Blink vs Ring'
     url: 'https://www.security.org/security-cameras/blink-vs-ring/'
