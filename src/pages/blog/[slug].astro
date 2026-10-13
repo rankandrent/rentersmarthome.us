@@ -5,6 +5,7 @@ import ProductPicks from '../../components/ProductPicks.astro';
 import PostItem from '../../components/PostItem.astro';
 import { getPublishedPosts } from '../../lib/posts';
 import { categoryName, formatDate, absUrl, getAuthor, authorSchema, initials } from '../../lib/site';
+import { amazonUrl, AFFILIATE_REL } from '../../lib/affiliate.mjs';
 
 export async function getStaticPaths() {
   const posts = await getPublishedPosts();
@@ -21,6 +22,7 @@ const reviewed = d.reviewedDate ?? modified;
 const author = getAuthor(d.author);
 const authorUrl = `/authors/${author.slug}/`;
 const hero = d.heroImage;
+const heroProducts = d.products.filter((p) => p.image?.url).slice(0, 5);
 
 const byId = new Map(all.map((p) => [p.id, p]));
 const seen = new Set([post.id]);
@@ -93,7 +95,23 @@ if (d.products.length > 1) {
           {d.readingTime && <span>{d.readingTime}-minute read</span>}
         </div>
       </div>
-      {hero && <figure class="hero-fig"><img class="hero-img" src={hero} alt={d.heroAlt ?? d.title} width="1200" height="630" fetchpriority="high" decoding="async" /></figure>}
+      {hero && (
+        <figure class="hero-fig">
+          <img class="hero-img" src={hero} alt={d.heroAlt ?? d.title} width="1200" height="630" fetchpriority="high" decoding="async" />
+          {heroProducts.length > 0 && (
+            <figcaption class="hero-products">
+              <span class="hp-label">Products in this guide</span>
+              <span class="hp-row">
+                {heroProducts.map((p) => (
+                  <a href={amazonUrl({ asin: p.asin, query: p.query })} rel={AFFILIATE_REL} target="_blank" title={p.name}>
+                    <img src={p.image!.url} alt={p.name} width="96" height="96" loading="eager" decoding="async" />
+                  </a>
+                ))}
+              </span>
+            </figcaption>
+          )}
+        </figure>
+      )}
     </header>
 
     <div class="article-layout">

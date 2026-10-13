@@ -311,3 +311,12 @@ h3 { font-size: var(--s1); letter-spacing: -.01em; }
 .product-figure img { max-width: 140px; max-height: 150px; width: auto; height: auto; object-fit: contain; margin: 0 auto; }
 .product-figure figcaption { font-family: var(--display); font-size: .92rem; line-height: 1.45; color: var(--slate); }
 @media (max-width: 560px) { .product-figure { grid-template-columns: 1fr; } }
+
+/* Live Amazon product photos under the featured image (hotlinked, not baked into the image) */
+.hero-products { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; background: var(--paper); border: 1px solid var(--rule); border-top: 0; padding: 12px 16px; }
+.hp-label { font-weight: 700; font-size: .92rem; }
+.hp-row { display: flex; gap: 10px; flex-wrap: wrap; }
+.hp-row a { display: grid; place-items: center; width: 72px; height: 72px; background: #fff; border: 1px solid var(--rule); border-radius: var(--r-box); padding: 6px; }
+.hp-row a:hover { border-color: var(--tape); }
+.hp-row img { max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; }
+.hero-fig .hero-img { display: block; }
