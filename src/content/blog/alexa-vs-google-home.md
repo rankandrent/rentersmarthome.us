@@ -5,7 +5,7 @@ description: >-
   Alexa vs Google Home for apartments in 2026: Alexa+ vs Gemini, device
   compatibility, Matter, subscriptions and the best speaker to start with as a
   renter.
-pubDate: 2026-10-13T19:56:00.000Z
+pubDate: '2026-10-13T19:56:00.000Z'
 category: hubs-voice
 keyword: alexa vs google home
 secondaryKeywords:
@@ -60,6 +60,11 @@ products:
     cons:
       - Alexa+ is included with Prime but costs extra without it
       - Not as full-sounding as Echo Studio
+    asin: B0D6SX8VLQ
+    image:
+      url: 'https://m.media-amazon.com/images/I/31JssKhhl0L._SL500_.jpg'
+      width: 313
+      height: 500
   - name: Google Home Speaker
     brand: Google
     query: Google Home Speaker Gemini
@@ -79,6 +84,11 @@ products:
         Advanced Gemini features like camera history search need Google Home
         Premium
       - Fewer compatible devices than Alexa overall
+    asin: B0HDLK5T8Y
+    image:
+      url: 'https://m.media-amazon.com/images/I/41FtMvwcGvL._SL500_.jpg'
+      width: 500
+      height: 500
   - name: Amazon Echo Studio (2nd Gen)
     brand: Amazon
     query: Amazon Echo Studio 2nd Gen
@@ -94,6 +104,11 @@ products:
     cons:
       - Larger and pricier than an Echo Dot
       - Overkill if you only want voice control
+    asin: B0DMQ1QMVV
+    image:
+      url: 'https://m.media-amazon.com/images/I/31BWso5blZL._SL500_.jpg'
+      width: 313
+      height: 500
 sources:
   - title: 'Google: Meet the new Google Home Speaker, built for Gemini'
     url: >-
