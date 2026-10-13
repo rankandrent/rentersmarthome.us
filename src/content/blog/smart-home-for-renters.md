@@ -100,6 +100,11 @@ products:
     cons:
       - Remote control needs a SwitchBot hub
       - Visible on the wall
+    asin: B07B7NXV4R
+    image:
+      url: 'https://m.media-amazon.com/images/I/316eAadOw2L._SL500_.jpg'
+      width: 500
+      height: 500
   - name: Sensibo Air
     brand: Sensibo
     query: Sensibo Air smart AC controller
