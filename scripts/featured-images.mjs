@@ -83,12 +83,12 @@ function layout({ title, category, articleType, slug, kicker, label, iconName, b
     // blankCard: an upright, empty card; the article page places the real
     // Amazon product photo (served from Amazon) over it at HERO_PHOTO_BOX.
     blankCard
-      ? h('div', { position: 'absolute', left: 760, top: 0, width: 440, height: 630, background: C.paper, borderLeft: `2px solid ${C.rule}` }, [])
+      ? h('div', { position: 'absolute', left: 1200, top: 0, width: 1, height: 1 }, [])
       : h('div', { position: 'absolute', left: 820, top: 110, width: 300, height: 400, background: C.paper, border: `2px solid ${C.rule}`, transform: `rotate(${tilt}deg)`, flexDirection: 'column', padding: '58px 26px 26px' }, [
           h('div', { justifyContent: 'space-between', fontFamily: 'Serif', fontSize: 17, color: C.slate, borderBottom: `2px solid ${C.rule}`, paddingBottom: 10, width: 248 }, [text('Renter-approved'), text('No drilling')]),
           h('div', { flexGrow: 1, alignItems: 'center', justifyContent: 'center' }, [img(svgUri(icon, C.ink, 1.3), 190, 190)]),
         ]),
-    text(label ?? TYPE_LABEL[articleType] ?? 'Guide', { position: 'absolute', left: blankCard ? 800 : 860, top: blankCard ? 52 : 86, background: C.tape, color: '#fff', fontSize: 26, fontWeight: 700, padding: '12px 26px', transform: `rotate(${blankCard ? -2 : -tilt - 1}deg)` }),
+    text(label ?? TYPE_LABEL[articleType] ?? 'Guide', { position: 'absolute', left: blankCard ? 860 : 860, top: blankCard ? 70 : 86, background: C.tape, color: '#fff', fontSize: 26, fontWeight: 700, padding: '12px 26px', transform: `rotate(${blankCard ? -2 : -tilt - 1}deg)` }),
   ]);
 }
 

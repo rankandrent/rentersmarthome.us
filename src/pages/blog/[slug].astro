@@ -7,6 +7,8 @@ import { getPublishedPosts } from '../../lib/posts';
 import { SITE, categoryName, formatDate, absUrl, getAuthor, authorSchema, initials } from '../../lib/site';
 import { amazonUrl, AFFILIATE_REL } from '../../lib/affiliate.mjs';
 import { imageCredit } from '../../lib/remark-product-figures.mjs';
+import fs from 'node:fs';
+import crypto from 'node:crypto';
 
 export async function getStaticPaths() {
   const posts = await getPublishedPosts();
@@ -25,6 +27,9 @@ const author = getAuthor(d.author);
 const authorUrl = `/authors/${author.slug}/`;
 const hero = d.heroImage;
 const heroPick = d.products.find((p) => p.image?.url);
+// Version the header graphic by its content so browsers never show a stale copy.
+const heroBaseFile = new URL(`../../../public/images/hero/${post.id}.png`, import.meta.url);
+const heroBaseVer = fs.existsSync(heroBaseFile) ? crypto.createHash('md5').update(fs.readFileSync(heroBaseFile)).digest('hex').slice(0, 8) : '0';
 
 const byId = new Map(all.map((p) => [p.id, p]));
 const seen = new Set([post.id]);
@@ -110,7 +115,7 @@ if (d.products.length > 1) {
       {heroPick ? (
         <figure class="hero-composite">
           <div class="hc-frame">
-            <img class="hc-base" src={`/images/hero/${post.id}.png`} alt={d.heroAlt ?? d.title} width="1200" height="630" fetchpriority="high" decoding="async" />
+            <img class="hc-base" src={`/images/hero/${post.id}.png?v=${heroBaseVer}`} alt={d.heroAlt ?? d.title} width="1200" height="630" fetchpriority="high" decoding="async" />
             <a class="hc-product" href={amazonUrl({ asin: heroPick.asin, query: heroPick.query })} rel={AFFILIATE_REL} target="_blank" tabindex="-1">
               <img src={heroPick.image!.url} alt={heroPick.name} width={heroPick.image!.width ?? 500} height={heroPick.image!.height ?? 500} decoding="async" />
             </a>
