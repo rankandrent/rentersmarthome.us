@@ -924,7 +924,7 @@
     "slug": "can-a-landlord-put-cameras-outside-the-house"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-14T08:48:40.164Z",
     "secondaryKeywords": [],
@@ -939,7 +939,8 @@
     "cluster": "security",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-video-doorbell-without-subscription-for-renters"
+    "slug": "best-video-doorbell-without-subscription-for-renters",
+    "publishedAt": "2026-10-14T12:41:24.526Z"
   },
   {
     "status": "pending",
@@ -1200,7 +1201,7 @@
     "slug": "how-to-secure-sliding-glass-door-in-rental"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-14T08:48:40.167Z",
     "secondaryKeywords": [],
@@ -1215,7 +1216,8 @@
     "cluster": "baby-proofing",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-pressure-mounted-baby-gate-for-renters"
+    "slug": "best-pressure-mounted-baby-gate-for-renters",
+    "publishedAt": "2026-10-14T12:41:25.169Z"
   },
   {
     "status": "pending",
@@ -1542,7 +1544,7 @@
     "slug": "best-humidifier-for-dry-apartment-air"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-14T08:48:40.167Z",
     "secondaryKeywords": [],
@@ -1557,7 +1559,8 @@
     "cluster": "climate",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "how-to-cool-apartment-without-ac"
+    "slug": "how-to-cool-apartment-without-ac",
+    "publishedAt": "2026-10-14T12:41:25.766Z"
   },
   {
     "status": "pending",
@@ -1902,7 +1905,7 @@
     "slug": "oxo-vs-simplehuman-shower-caddy-for-renters"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-14T08:48:40.167Z",
     "secondaryKeywords": [],
@@ -1917,7 +1920,8 @@
     "cluster": "storage-decor",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-heavy-duty-adhesive-hooks-for-renters"
+    "slug": "best-heavy-duty-adhesive-hooks-for-renters",
+    "publishedAt": "2026-10-14T12:41:26.364Z"
   },
   {
     "status": "pending",
@@ -2406,7 +2410,7 @@
     "slug": "best-floor-lamp-for-dark-apartment"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-14T08:48:40.168Z",
     "secondaryKeywords": [],
@@ -2421,7 +2425,8 @@
     "cluster": "lighting",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-led-strip-lights-for-renters"
+    "slug": "best-led-strip-lights-for-renters",
+    "publishedAt": "2026-10-14T12:41:26.938Z"
   },
   {
     "status": "pending",

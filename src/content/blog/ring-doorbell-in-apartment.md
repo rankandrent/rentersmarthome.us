@@ -141,6 +141,9 @@ heroImage: /images/featured/ring-doorbell-in-apartment.png
 heroAlt: >-
   Can You Put a Ring Doorbell on an Apartment? (Renter Guide): RenterSmartHome
   renter guide
+related:
+  - how-to-cool-apartment-without-ac
+  - best-video-doorbell-without-subscription-for-renters
 ---
 
 Can you put a Ring doorbell on an apartment? **Yes: most renters can add a Ring doorbell without drilling, using either the Ring Peephole Cam or a Ring Battery Doorbell on the Ring No-Drill Mount, as long as the lease allows it.** The catch is rarely the hardware. It's the lease, the door and your neighbors.

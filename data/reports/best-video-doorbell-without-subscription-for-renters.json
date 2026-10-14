@@ -1,0 +1,146 @@
+{
+  "keyword": "best video doorbell without subscription for renters",
+  "createdAt": "2026-10-14T12:41:24.535Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "video doorbell without subscription",
+    "entityVariants": [
+      "video doorbell without a subscription",
+      "doorbell camera no subscription",
+      "subscription-free video doorbell",
+      "video doorbell for renters"
+    ],
+    "entities": [
+      {
+        "name": "eufy Video Doorbell E340",
+        "type": "product",
+        "relation": "dual-camera doorbell with built-in local storage"
+      },
+      {
+        "name": "eufy Video Doorbell S220",
+        "type": "product",
+        "relation": "battery doorbell with local storage"
+      },
+      {
+        "name": "Tapo D210",
+        "type": "product",
+        "relation": "budget battery doorbell with microSD storage"
+      },
+      {
+        "name": "local storage",
+        "type": "feature",
+        "relation": "saves clips without a monthly fee"
+      },
+      {
+        "name": "microSD card",
+        "type": "accessory",
+        "relation": "local storage medium"
+      },
+      {
+        "name": "HomeBase",
+        "type": "accessory",
+        "relation": "eufy's local storage hub"
+      },
+      {
+        "name": "no-drill mount",
+        "type": "accessory",
+        "relation": "lets renters avoid screws"
+      },
+      {
+        "name": "Ring Home subscription",
+        "type": "subscription",
+        "relation": "what Ring needs to save clips"
+      },
+      {
+        "name": "landlord",
+        "type": "person",
+        "relation": "approves door changes"
+      }
+    ],
+    "attributes": [
+      "local storage",
+      "battery power",
+      "night vision",
+      "package detection",
+      "mounting",
+      "cloud backup"
+    ],
+    "ngrams": [
+      "video doorbell",
+      "local storage",
+      "no subscription",
+      "battery doorbell",
+      "microsd card",
+      "monthly fee"
+    ],
+    "skipgrams": [
+      "doorbell…subscription",
+      "clips…storage",
+      "battery…doorbell",
+      "renters…mount"
+    ],
+    "nlpTerms": [
+      "renters",
+      "apartment",
+      "landlord",
+      "lease",
+      "hallway",
+      "motion alerts",
+      "night vision",
+      "privacy"
+    ],
+    "questions": [
+      "Which video doorbell has no subscription?",
+      "Can renters install a video doorbell?",
+      "Is local storage safe?",
+      "Do eufy doorbells need a subscription?"
+    ],
+    "contentGaps": [
+      "mounting without drilling",
+      "what happens if the doorbell is stolen",
+      "backing up local clips"
+    ],
+    "outline": [
+      {
+        "h2": "The short answer",
+        "intent": "verdict",
+        "h3": []
+      },
+      {
+        "h2": "Our picks",
+        "intent": "products",
+        "h3": [
+          "eufy E340",
+          "eufy S220",
+          "Tapo D210"
+        ]
+      },
+      {
+        "h2": "Installing without drilling",
+        "intent": "renter install",
+        "h3": []
+      },
+      {
+        "h2": "Local storage tradeoffs",
+        "intent": "caveats",
+        "h3": []
+      }
+    ],
+    "targetWords": 1100
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "ring-doorbell-in-apartment",
+      "mode": "related-box"
+    },
+    {
+      "slug": "blink-vs-ring-subscription",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-peephole-camera-for-apartments",
+      "mode": "related-box"
+    }
+  ]
+}

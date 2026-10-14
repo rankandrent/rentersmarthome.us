@@ -1,0 +1,143 @@
+{
+  "keyword": "best led strip lights for renters",
+  "createdAt": "2026-10-14T12:41:26.940Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "LED strip lights for renters",
+    "entityVariants": [
+      "best led strip lights for renters",
+      "LED strip lights",
+      "LED light strips",
+      "smart light strips"
+    ],
+    "entities": [
+      {
+        "name": "Govee RGBIC LED Strip Lights",
+        "type": "product",
+        "relation": "multi-color Wi-Fi light strip"
+      },
+      {
+        "name": "Philips Hue Lightstrip Plus",
+        "type": "product",
+        "relation": "premium smart light strip"
+      },
+      {
+        "name": "Govee COB Strip Light Pro",
+        "type": "product",
+        "relation": "dot-free COB light strip"
+      },
+      {
+        "name": "adhesive backing",
+        "type": "feature",
+        "relation": "how strips attach"
+      },
+      {
+        "name": "mounting clips",
+        "type": "accessory",
+        "relation": "alternative to adhesive"
+      },
+      {
+        "name": "RGBIC",
+        "type": "technology",
+        "relation": "multiple colors on one strip"
+      },
+      {
+        "name": "COB LED",
+        "type": "technology",
+        "relation": "continuous, dot-free light"
+      },
+      {
+        "name": "Hue Bridge",
+        "type": "product",
+        "relation": "hub for Philips Hue"
+      },
+      {
+        "name": "painted walls",
+        "type": "surface",
+        "relation": "where adhesive can peel paint"
+      }
+    ],
+    "attributes": [
+      "adhesive",
+      "length",
+      "brightness",
+      "colors",
+      "app control",
+      "removal"
+    ],
+    "ngrams": [
+      "led strip lights",
+      "light strip",
+      "painted walls",
+      "adhesive backing",
+      "under cabinet",
+      "behind the tv"
+    ],
+    "skipgrams": [
+      "strip…adhesive",
+      "lights…renters",
+      "tape…paint",
+      "strip…cabinet"
+    ],
+    "nlpTerms": [
+      "renters",
+      "landlord",
+      "deposit",
+      "bedroom",
+      "kitchen",
+      "Alexa",
+      "Google Home",
+      "music sync",
+      "dental floss"
+    ],
+    "questions": [
+      "Do LED strip lights damage walls?",
+      "How do you remove LED strip lights without peeling paint?",
+      "Where should renters put LED strips?",
+      "Do LED strips need a hub?"
+    ],
+    "contentGaps": [
+      "protecting paint with painter's tape",
+      "placing strips on furniture instead of walls",
+      "removing residue"
+    ],
+    "outline": [
+      {
+        "h2": "Short answer",
+        "intent": "verdict",
+        "h3": []
+      },
+      {
+        "h2": "Picks",
+        "intent": "products",
+        "h3": []
+      },
+      {
+        "h2": "Install without damaging paint",
+        "intent": "how-to",
+        "h3": []
+      },
+      {
+        "h2": "Removal",
+        "intent": "how-to",
+        "h3": []
+      }
+    ],
+    "targetWords": 1000
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "no-drill-motorized-blinds",
+      "mode": "related-box"
+    },
+    {
+      "slug": "philips-hue-vs-wiz",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-heavy-duty-adhesive-hooks-for-renters",
+      "mode": "related-box"
+    }
+  ]
+}

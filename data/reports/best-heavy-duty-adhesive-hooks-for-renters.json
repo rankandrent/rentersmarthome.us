@@ -1,0 +1,142 @@
+{
+  "keyword": "best heavy duty adhesive hooks for renters",
+  "createdAt": "2026-10-14T12:41:26.369Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "heavy duty adhesive hooks",
+    "entityVariants": [
+      "heavy duty adhesive hooks for renters",
+      "adhesive hooks",
+      "heavy-duty adhesive hooks",
+      "damage-free hooks"
+    ],
+    "entities": [
+      {
+        "name": "Command Jumbo Utility Hook",
+        "type": "product",
+        "relation": "Command's large adhesive hook"
+      },
+      {
+        "name": "Command Heavyweight Hook",
+        "type": "product",
+        "relation": "Command's heavier-rated adhesive hook"
+      },
+      {
+        "name": "3M CLAW Drywall Picture Hanger",
+        "type": "product",
+        "relation": "tiny-hole drywall hanger for heavier items"
+      },
+      {
+        "name": "Command strips",
+        "type": "product",
+        "relation": "removable adhesive strips"
+      },
+      {
+        "name": "weight rating",
+        "type": "attribute",
+        "relation": "maximum load per hook"
+      },
+      {
+        "name": "painted drywall",
+        "type": "surface",
+        "relation": "best surface for adhesive"
+      },
+      {
+        "name": "wallpaper",
+        "type": "surface",
+        "relation": "surface to avoid"
+      },
+      {
+        "name": "rubbing alcohol",
+        "type": "material",
+        "relation": "cleans the surface before mounting"
+      },
+      {
+        "name": "security deposit",
+        "type": "concept",
+        "relation": "what damage-free hooks protect"
+      }
+    ],
+    "attributes": [
+      "weight rating",
+      "surface type",
+      "removal",
+      "reusability",
+      "cure time"
+    ],
+    "ngrams": [
+      "adhesive hooks",
+      "command hooks",
+      "weight rating",
+      "painted walls",
+      "pull tab",
+      "replacement strips"
+    ],
+    "skipgrams": [
+      "hooks…weight",
+      "strip…removal",
+      "wall…surface",
+      "hooks…renters"
+    ],
+    "nlpTerms": [
+      "renters",
+      "landlord",
+      "lease",
+      "drywall",
+      "tile",
+      "towels",
+      "coats",
+      "bags",
+      "humidity"
+    ],
+    "questions": [
+      "How much weight can adhesive hooks hold?",
+      "Do adhesive hooks damage walls?",
+      "How do you remove Command hooks?",
+      "Do adhesive hooks work in bathrooms?"
+    ],
+    "contentGaps": [
+      "textured walls",
+      "bathroom humidity",
+      "what to hang with a CLAW instead"
+    ],
+    "outline": [
+      {
+        "h2": "Short answer",
+        "intent": "verdict",
+        "h3": []
+      },
+      {
+        "h2": "Picks",
+        "intent": "products",
+        "h3": []
+      },
+      {
+        "h2": "How to install",
+        "intent": "how-to",
+        "h3": []
+      },
+      {
+        "h2": "How to remove",
+        "intent": "how-to",
+        "h3": []
+      }
+    ],
+    "targetWords": 1000
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-pressure-mounted-baby-gate-for-renters",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-smart-lock-for-renters",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-video-doorbell-without-subscription-for-renters",
+      "mode": "related-box"
+    }
+  ]
+}

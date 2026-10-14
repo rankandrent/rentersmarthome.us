@@ -146,6 +146,7 @@ faqs:
       heaters that are rated for them.
 author: editorial-team
 related:
+  - how-to-cool-apartment-without-ac
   - ring-doorbell-in-apartment
 heroImage: /images/featured/smart-thermostat-in-apartment.png
 heroAlt: >-

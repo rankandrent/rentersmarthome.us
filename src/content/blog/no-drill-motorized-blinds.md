@@ -157,6 +157,7 @@ heroAlt: >-
   Best No Drill Motorized Blinds for Renters (2026): RenterSmartHome buying
   guide
 related:
+  - best-led-strip-lights-for-renters
   - philips-hue-vs-wiz
 ---
 

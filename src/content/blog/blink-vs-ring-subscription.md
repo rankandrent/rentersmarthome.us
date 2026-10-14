@@ -144,6 +144,7 @@ heroAlt: >-
   Blink vs Ring Subscription: Which Costs Renters Less?: RenterSmartHome
   comparison
 related:
+  - best-video-doorbell-without-subscription-for-renters
   - philips-hue-vs-wiz
   - ring-doorbell-in-apartment
 ---

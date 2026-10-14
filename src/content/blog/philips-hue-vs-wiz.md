@@ -143,6 +143,8 @@ heroImage: /images/featured/philips-hue-vs-wiz.png
 heroAlt: >-
   Philips Hue vs WiZ: Which Smart Bulbs Should Renters Buy?: RenterSmartHome
   comparison
+related:
+  - best-led-strip-lights-for-renters
 ---
 
 Philips Hue vs WiZ is the first choice most renters face when they want smart lighting. **WiZ is the better pick for a few bulbs because it connects straight to Wi-Fi with no hub, while Philips Hue is the better pick for a whole apartment because the Hue Bridge makes a bigger system faster and more reliable.** Both are owned by Signify, both work with Alexa and Google Home, and both screw into the lamps you already own.

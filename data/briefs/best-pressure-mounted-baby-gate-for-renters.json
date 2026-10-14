@@ -1,0 +1,28 @@
+{
+  "centralEntity": "pressure mounted baby gate",
+  "entityVariants": ["pressure mounted baby gate for renters", "pressure-mounted baby gate", "baby gate for renters", "pressure gate"],
+  "entities": [
+    {"name": "Regalo Easy Step Walk Thru Gate", "type": "product", "relation": "popular pressure-mounted walk-through gate"},
+    {"name": "Summer Infant Multi-Use Deco Extra Tall Walk-Thru Gate", "type": "product", "relation": "taller pressure-mounted gate"},
+    {"name": "Cumbor Auto Close Baby Gate", "type": "product", "relation": "auto-close gate with pressure mounting"},
+    {"name": "hardware-mounted gate", "type": "product type", "relation": "screwed-in gate required at the top of stairs"},
+    {"name": "wall cups", "type": "accessory", "relation": "protect walls and add grip"},
+    {"name": "JPMA certification", "type": "standard", "relation": "juvenile product safety certification"},
+    {"name": "top of stairs", "type": "location", "relation": "where pressure gates must not be used"},
+    {"name": "doorway", "type": "location", "relation": "best place for a pressure gate"},
+    {"name": "security deposit", "type": "concept", "relation": "protected by no-drill gates"}
+  ],
+  "attributes": ["width range", "height", "walk-through door", "auto close", "wall protection", "extensions"],
+  "ngrams": ["baby gate", "pressure mounted", "top of stairs", "walk-through gate", "wall cups", "bottom of stairs"],
+  "skipgrams": ["gate…doorway", "pressure…walls", "stairs…hardware", "gate…renters"],
+  "nlpTerms": ["toddler", "renters", "landlord", "lease", "hallway", "kitchen", "pets", "drywall", "door frame"],
+  "questions": ["Are pressure mounted baby gates safe?", "Can you use a pressure gate at the top of stairs?", "Will a pressure gate damage walls?", "How do I measure for a baby gate?"],
+  "contentGaps": ["what renters do at the top of stairs", "protecting paint", "measuring openings"],
+  "outline": [
+    {"h2": "The short answer", "intent": "verdict", "h3": []},
+    {"h2": "Our picks", "intent": "products", "h3": ["Regalo", "Summer Infant", "Cumbor"]},
+    {"h2": "Never at the top of stairs", "intent": "safety", "h3": []},
+    {"h2": "Protecting walls", "intent": "renter", "h3": []}
+  ],
+  "targetWords": 1100
+}

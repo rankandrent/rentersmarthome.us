@@ -1,0 +1,28 @@
+{
+  "centralEntity": "cool an apartment without AC",
+  "entityVariants": ["how to cool apartment without ac", "keep apartment cool without ac", "cool apartment without air conditioning", "apartment without AC"],
+  "entities": [
+    {"name": "blackout curtains", "type": "product", "relation": "block solar heat through windows"},
+    {"name": "box fan", "type": "product", "relation": "pulls cool air in or pushes hot air out"},
+    {"name": "air circulator", "type": "product", "relation": "moves air across a room"},
+    {"name": "cross ventilation", "type": "technique", "relation": "air flow between opposite windows"},
+    {"name": "NICETOWN Thermal Insulated Blackout Curtains", "type": "product", "relation": "renter-friendly window covering"},
+    {"name": "Vornado 660", "type": "product", "relation": "air circulator fan"},
+    {"name": "Lasko Box Fan", "type": "product", "relation": "window-friendly box fan"},
+    {"name": "smart plug", "type": "product", "relation": "schedules fans"},
+    {"name": "heat-producing appliances", "type": "concept", "relation": "add heat to small apartments"}
+  ],
+  "attributes": ["window placement", "time of day", "airflow direction", "humidity", "lease limits"],
+  "ngrams": ["box fan", "blackout curtains", "cross ventilation", "cool air", "hot air", "window fan"],
+  "skipgrams": ["fan…window", "curtains…heat", "night…windows", "apartment…cool"],
+  "nlpTerms": ["renters", "landlord", "lease", "humidity", "sunlight", "bedroom", "top floor", "ceiling fan", "ice"],
+  "questions": ["How can I cool my apartment without AC?", "Which way should a window fan face?", "Do blackout curtains keep a room cool?", "Can my landlord stop me using a portable AC?"],
+  "contentGaps": ["top-floor apartments", "windows that only open a little", "sleeping cool at night"],
+  "outline": [
+    {"h2": "Block the heat", "intent": "how-to", "h3": []},
+    {"h2": "Move the air", "intent": "how-to", "h3": []},
+    {"h2": "Gear that helps", "intent": "products", "h3": []},
+    {"h2": "Sleeping cool", "intent": "how-to", "h3": []}
+  ],
+  "targetWords": 1100
+}

@@ -142,6 +142,8 @@ heroImage: /images/featured/smart-ac-controller.png
 heroAlt: >-
   Best Smart AC Controller for Renters: 3 Picks for Any Remote AC:
   RenterSmartHome buying guide
+related:
+  - how-to-cool-apartment-without-ac
 ---
 
 An AC remote that lives on Wi-Fi is the easiest climate upgrade a renter can make. **The best smart AC controller for most renters is the Cielo Breez Max, because it works with window, portable and mini split units that have an infrared remote, and it needs no wiring or landlord approval.** If your apartment has a remote-controlled AC, you can make it smart in about ten minutes.
