@@ -53,6 +53,11 @@ products:
     cons:
       - Bottom bar can be a trip hazard
       - Not for the top of stairs
+    asin: B001OC5UMQ
+    image:
+      url: 'https://m.media-amazon.com/images/I/41IaGgwTpvL._SL500_.jpg'
+      width: 500
+      height: 500
   - name: Summer Infant Multi-Use Deco Extra Tall Walk-Thru Gate
     brand: Summer Infant
     query: Summer Infant Extra Tall Walk-Thru Baby Gate pressure mounted
@@ -85,6 +90,11 @@ products:
     cons:
       - 'Mount options vary by kit, so read the instructions'
       - Not for the top of stairs when pressure mounted
+    asin: B07MLFKP1G
+    image:
+      url: 'https://m.media-amazon.com/images/I/41lkwK1pq3L._SL500_.jpg'
+      width: 400
+      height: 500
 sources:
   - title: 'Mommyhood101: Best baby gates'
     url: 'https://mommyhood101.com/best-baby-gates'

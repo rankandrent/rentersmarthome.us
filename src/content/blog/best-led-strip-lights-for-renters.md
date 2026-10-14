@@ -58,6 +58,11 @@ products:
     cons:
       - Adhesive can lift paint if removed carelessly
       - Cut sections usually can't be rejoined
+    asin: B0991Q94KP
+    image:
+      url: 'https://m.media-amazon.com/images/I/51x8uUsdLeL._SL500_.jpg'
+      width: 500
+      height: 500
   - name: Philips Hue Lightstrip Plus
     brand: Philips Hue
     query: Philips Hue Lightstrip Plus
@@ -73,6 +78,11 @@ products:
     cons:
       - Costs more than Govee
       - Best within the Hue ecosystem
+    asin: B08CKJWSFS
+    image:
+      url: 'https://m.media-amazon.com/images/I/41B1esPzi6L._SL500_.jpg'
+      width: 500
+      height: 470
   - name: Govee COB Strip Light Pro
     brand: Govee
     query: Govee COB Strip Light Pro
@@ -88,6 +98,11 @@ products:
     cons:
       - Costs more than standard strips
       - Shorter runs per kit
+    asin: B0D7LSRWRR
+    image:
+      url: 'https://m.media-amazon.com/images/I/41GpFFeBFwL._SL500_.jpg'
+      width: 500
+      height: 500
 sources:
   - title: 'Govee: Best LED strip lights'
     url: 'https://us.govee.com/blogs/led-strip-lights/best-led-strip-lights'

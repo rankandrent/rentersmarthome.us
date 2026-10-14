@@ -59,6 +59,11 @@ products:
     cons:
       - Room is dark while closed
       - Needs a rod that fits your window
+    asin: B087CG4NTV
+    image:
+      url: 'https://m.media-amazon.com/images/I/41i1Jr9edBL._SL500_.jpg'
+      width: 500
+      height: 500
   - name: Vornado 660
     brand: Vornado
     query: Vornado 660 air circulator fan
@@ -74,6 +79,11 @@ products:
     cons:
       - Bulky for small bedrooms
       - Circulates air rather than cooling it
+    asin: B00KF60O00
+    image:
+      url: 'https://m.media-amazon.com/images/I/41RlLLvlq-L._SL500_.jpg'
+      width: 500
+      height: 500
   - name: Lasko Box Fan
     brand: Lasko
     query: Lasko 20 inch box fan
@@ -89,6 +99,11 @@ products:
     cons:
       - Can be noisy on high
       - Not for windows that barely open
+    asin: B000BOCD1Y
+    image:
+      url: 'https://m.media-amazon.com/images/I/51-C0LLwLcL._SL500_.jpg'
+      width: 500
+      height: 500
 sources:
   - title: 'Apartment List: How to cool an apartment without air conditioning'
     url: >-

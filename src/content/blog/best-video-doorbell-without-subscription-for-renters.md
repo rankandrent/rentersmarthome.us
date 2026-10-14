@@ -54,6 +54,11 @@ products:
     cons:
       - Larger than single-camera doorbells
       - Built-in storage fills up on a busy door
+    asin: B0CD7NT4Y9
+    image:
+      url: 'https://m.media-amazon.com/images/I/31bPy4fJvOL._SL500_.jpg'
+      width: 500
+      height: 500
   - name: eufy Video Doorbell S220
     brand: eufy
     query: eufy Video Doorbell S220 battery
@@ -69,6 +74,11 @@ products:
     cons:
       - Single camera
       - Check whether your kit includes the HomeBase for storage
+    asin: B0FL7BJP5Q
+    image:
+      url: 'https://m.media-amazon.com/images/I/41n8USAcz9L._SL500_.jpg'
+      width: 500
+      height: 500
   - name: Tapo D210
     brand: TP-Link Tapo
     query: Tapo D210 video doorbell battery
@@ -84,6 +94,11 @@ products:
     cons:
       - microSD card sold separately
       - Fewer smart features than eufy
+    asin: B0D8M6GNP3
+    image:
+      url: 'https://m.media-amazon.com/images/I/21hioqzrZcL._SL500_.jpg'
+      width: 400
+      height: 500
 sources:
   - title: 'eufy: Doorbell camera with local storage'
     url: >-

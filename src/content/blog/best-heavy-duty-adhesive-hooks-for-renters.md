@@ -54,6 +54,11 @@ products:
     cons:
       - Lower weight limit than screwed hooks
       - Not for wallpaper or brick
+    asin: B09NQRD56L
+    image:
+      url: 'https://m.media-amazon.com/images/I/41vUWFStUoL._SL500_.jpg'
+      width: 364
+      height: 500
   - name: Command Heavyweight Hook
     brand: Command
     query: Command Heavyweight Hook
@@ -69,6 +74,11 @@ products:
     cons:
       - Wait time before hanging anything
       - 'Ratings vary by model, so read the label'
+    asin: B0CZS6BMD3
+    image:
+      url: 'https://m.media-amazon.com/images/I/41sCLj9lBWL._SL500_.jpg'
+      width: 500
+      height: 500
   - name: 3M CLAW Drywall Picture Hanger
     brand: 3M
     query: 3M CLAW Drywall Picture Hanger
@@ -84,6 +94,11 @@ products:
     cons:
       - Leaves a small hole
       - Drywall only
+    asin: B09FCHQ429
+    image:
+      url: 'https://m.media-amazon.com/images/I/510SMUre+BL._SL500_.jpg'
+      width: 500
+      height: 500
 sources:
   - title: 'Hook and Loop: How much weight can Command strips hold?'
     url: 'https://www.hookandloop.com/blog/how-much-weight-can-command-strips-hold'
