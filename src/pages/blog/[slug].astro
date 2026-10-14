@@ -6,6 +6,7 @@ import PostItem from '../../components/PostItem.astro';
 import { getPublishedPosts } from '../../lib/posts';
 import { SITE, categoryName, formatDate, absUrl, getAuthor, authorSchema, initials } from '../../lib/site';
 import { amazonUrl, AFFILIATE_REL } from '../../lib/affiliate.mjs';
+import { imageCredit } from '../../lib/remark-product-figures.mjs';
 
 export async function getStaticPaths() {
   const posts = await getPublishedPosts();
@@ -14,7 +15,8 @@ export async function getStaticPaths() {
 
 const { post, all } = Astro.props;
 const d = post.data;
-const { Content, headings } = await render(post);
+const { Content, headings, remarkPluginFrontmatter } = await render(post);
+const inBody: string[] = remarkPluginFrontmatter?.productsInBody ?? [];
 const toc = headings.filter((h) => h.depth === 2);
 const url = absUrl(`/blog/${post.id}/`);
 const modified = d.updatedDate ?? d.pubDate;
@@ -22,7 +24,7 @@ const reviewed = d.reviewedDate ?? modified;
 const author = getAuthor(d.author);
 const authorUrl = `/authors/${author.slug}/`;
 const hero = d.heroImage;
-const heroProducts = d.products.filter((p) => p.image?.url).slice(0, 5);
+const heroPick = d.products.find((p) => p.image?.url);
 
 const byId = new Map(all.map((p) => [p.id, p]));
 const seen = new Set([post.id]);
@@ -95,21 +97,16 @@ if (d.products.length > 1) {
           {d.readingTime && <span>{d.readingTime}-minute read</span>}
         </div>
       </div>
-      {hero && (
+      {heroPick ? (
+        <figure class="hero-photo">
+          <a href={amazonUrl({ asin: heroPick.asin, query: heroPick.query })} rel={AFFILIATE_REL} target="_blank">
+            <img src={heroPick.image!.url} alt={heroPick.name} width={heroPick.image!.width ?? 500} height={heroPick.image!.height ?? 500} fetchpriority="high" decoding="async" />
+          </a>
+          <figcaption><strong>{heroPick.badge}:</strong> {heroPick.name}. <span class="credit">{imageCredit(heroPick)}</span></figcaption>
+        </figure>
+      ) : hero && (
         <figure class="hero-fig">
           <img class="hero-img" src={hero} alt={d.heroAlt ?? d.title} width="1200" height="630" fetchpriority="high" decoding="async" />
-          {heroProducts.length > 0 && (
-            <figcaption class="hero-products">
-              <span class="hp-label">Products in this guide</span>
-              <span class="hp-row">
-                {heroProducts.map((p) => (
-                  <a href={amazonUrl({ asin: p.asin, query: p.query })} rel={AFFILIATE_REL} target="_blank" title={p.name}>
-                    <img src={p.image!.url} alt={p.name} width="96" height="96" loading="eager" decoding="async" />
-                  </a>
-                ))}
-              </span>
-            </figcaption>
-          )}
         </figure>
       )}
     </header>
@@ -117,13 +114,13 @@ if (d.products.length > 1) {
     <div class="article-layout">
       <article>
         <p class="disclosure">We earn a commission if you buy through links on this page, at no extra cost to you. It never changes what we recommend. <a href="/affiliate-disclosure/">How we make money</a>.</p>
+        <ProductPicks products={d.products} inBody={inBody} />
         {d.tldr.length > 0 && (
           <div class="answer">
             <h2>The short answer</h2>
             <ul>{d.tldr.map((t) => <li>{t}</li>)}</ul>
           </div>
         )}
-        <ProductPicks products={d.products} />
         <div class="prose">
           <Content />
         </div>
@@ -178,7 +175,7 @@ if (d.products.length > 1) {
           <nav class="toc" aria-label="Table of contents">
             <h2>In this guide</h2>
             <ol>
-              {d.products.length > 0 && <li><a href="#top-picks">Our picks</a></li>}
+              {d.products.length > 0 && <li><a href="#top-picks">Our top picks</a></li>}
               {toc.map((h) => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}
               {d.faqs.length > 0 && <li><a href="#faq">Questions renters ask</a></li>}
             </ol>
@@ -195,3 +192,16 @@ if (d.products.length > 1) {
     )}
   </div>
 </Base>
+
+<script>
+  // Product galleries: clicking a thumbnail swaps the main photo.
+  document.addEventListener('click', (e) => {
+    const btn = (e.target as HTMLElement).closest<HTMLButtonElement>('.pg-thumb');
+    if (!btn) return;
+    const fig = btn.closest('.pgallery');
+    const img = fig?.querySelector<HTMLImageElement>('.pg-main img');
+    if (!img || !btn.dataset.src) return;
+    img.src = btn.dataset.src;
+    fig!.querySelectorAll('.pg-thumb').forEach((b) => b.classList.toggle('is-on', b === btn));
+  });
+</script>

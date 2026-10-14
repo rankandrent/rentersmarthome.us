@@ -13,6 +13,8 @@ const product = z.object({
   cons: z.array(z.string()).default([]),
   specs: z.record(z.string()).optional(),
   image: z.object({ url: z.string().url(), width: z.number().optional(), height: z.number().optional() }).optional(),
+  // Extra official product photos from the Amazon Creators API (images.variants).
+  gallery: z.array(z.object({ url: z.string().url(), width: z.number().optional(), height: z.number().optional() })).default([]),
 });
 
 const blog = defineCollection({

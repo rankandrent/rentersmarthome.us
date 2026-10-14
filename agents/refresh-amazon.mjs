@@ -26,9 +26,10 @@ export async function refreshAmazon() {
     for (const p of post.data.products) {
       try {
         if (p.asin && live.has(p.asin)) {
-          const img = live.get(p.asin).image;
-          if (JSON.stringify(img) !== JSON.stringify(p.image)) {
-            p.image = img;
+          const { image, gallery } = live.get(p.asin);
+          if (JSON.stringify(image) !== JSON.stringify(p.image) || JSON.stringify(gallery ?? []) !== JSON.stringify(p.gallery ?? [])) {
+            p.image = image;
+            p.gallery = gallery ?? [];
             dirty = true;
           }
         } else if (!p.asin) {
@@ -36,11 +37,13 @@ export async function refreshAmazon() {
           if (hit) {
             p.asin = hit.asin;
             p.image = hit.image;
+            p.gallery = hit.gallery ?? [];
             dirty = true;
           }
         } else if (p.image) {
           // ASIN no longer returned (unavailable): stop showing a stale image.
           delete p.image;
+          delete p.gallery;
           dirty = true;
         }
       } catch (e) {

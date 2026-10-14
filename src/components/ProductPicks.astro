@@ -1,58 +1,46 @@
 ---
+// "Our top picks" summary (magazine buying-guide style) plus full product
+// blocks for any product the article body doesn't already cover with a
+// "### Product name" section (those get their block from remark-product-figures).
 import { amazonUrl, AFFILIATE_REL } from '../lib/affiliate.mjs';
+import { productBlockHtml } from '../lib/remark-product-figures.mjs';
+interface Img { url: string; width?: number; height?: number }
 interface Product {
   name: string; brand?: string; query: string; asin?: string; badge: string;
   summary: string; renterNote: string; pros: string[]; cons: string[];
-  image?: { url: string; width?: number; height?: number };
+  image?: Img; gallery?: Img[];
 }
-interface Props { products: Product[] }
-const { products } = Astro.props;
-const heading = products.length > 1 ? 'Our picks' : 'Our pick';
+interface Props { products: Product[]; inBody?: string[] }
+const { products, inBody = [] } = Astro.props;
+const rest = products.filter((p) => !inBody.includes(p.name));
+const slug = (s: string) => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 ---
 {products.length > 0 && (
-  <section class="picks" aria-labelledby="top-picks">
-    <h2 id="top-picks">{heading}</h2>
-    {products.map((p) => (
-      <div class:list={['pick', { 'has-img': p.image }]}>
-        <span class="tape">{p.badge}</span>
-        {p.image && (
-          <a class="pick-img" href={amazonUrl({ asin: p.asin, query: p.query })} rel={AFFILIATE_REL} target="_blank" tabindex="-1">
-            <img src={p.image.url} alt={p.name} width={p.image.width ?? 500} height={p.image.height ?? 500} loading="lazy" decoding="async" />
-          </a>
-        )}
-        <div>
-          <h3>{p.name}</h3>
-          <p>{p.summary}</p>
-          <div class="renter"><b>How it installs:</b>{' '}{p.renterNote}</div>
-          {(p.pros.length > 0 || p.cons.length > 0) && (
-            <div class="pc">
-              <div class="pros"><h4>Good</h4><ul>{p.pros.map((x) => <li>{x}</li>)}</ul></div>
-              <div class="cons"><h4>Watch for</h4><ul>{p.cons.map((x) => <li>{x}</li>)}</ul></div>
-            </div>
-          )}
-        </div>
-        <div class="buy">
-          <a class="btn btn-buy" href={amazonUrl({ asin: p.asin, query: p.query })} rel={AFFILIATE_REL} target="_blank">Check price on Amazon</a>
-          <small>Affiliate link. Prices change often.</small>
-        </div>
+  <section class="toppicks" aria-labelledby="top-picks">
+    <h2 id="top-picks">{products.length > 1 ? 'Our top picks' : 'Our top pick'}</h2>
+    <ol>
+      {products.map((p) => (
+        <li>
+          {p.image && <img src={p.image.url} alt="" width="64" height="64" loading="eager" decoding="async" />}
+          <div class="tp-text">
+            <span class="tp-badge">{p.badge}</span>
+            <a class="tp-name" href={amazonUrl({ asin: p.asin, query: p.query })} rel={AFFILIATE_REL} target="_blank">{p.name}</a>
+          </div>
+          <a class="btn btn-quiet btn-sm tp-go" href={inBody.includes(p.name) ? `#pick-${slug(p.name)}` : amazonUrl({ asin: p.asin, query: p.query })} {...(inBody.includes(p.name) ? {} : { rel: AFFILIATE_REL, target: '_blank' })}>{inBody.includes(p.name) ? 'Jump to review' : 'Check price'}</a>
+        </li>
+      ))}
+    </ol>
+  </section>
+)}
+{rest.length > 0 && (
+  <section class="picks-rest">
+    {rest.map((p) => (
+      <div class="pick-card">
+        <p class="pblock-badge">{p.badge}</p>
+        <h3>{p.name}</h3>
+        <p class="pick-summary">{p.summary}</p>
+        <Fragment set:html={productBlockHtml(p)} />
       </div>
     ))}
-    {products.length > 2 && (
-      <div class="compare-wrap">
-        <table class="compare">
-          <caption class="muted" style="text-align:left;padding-bottom:8px;font-size:.92rem">Side-by-side summary</caption>
-          <thead><tr><th scope="col">Product</th><th scope="col">Best for</th><th scope="col">How it installs</th></tr></thead>
-          <tbody>
-            {products.map((p) => (
-              <tr>
-                <td><a href={amazonUrl({ asin: p.asin, query: p.query })} rel={AFFILIATE_REL} target="_blank"><strong>{p.name}</strong></a></td>
-                <td>{p.badge}</td>
-                <td>{p.renterNote}</td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </div>
-    )}
   </section>
 )}

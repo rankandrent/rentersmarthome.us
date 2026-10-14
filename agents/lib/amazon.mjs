@@ -17,7 +17,8 @@ const TOKEN_ENDPOINTS = {
   '3.2': 'https://api.amazon.co.uk/auth/o2/token',
   '3.3': 'https://api.amazon.co.jp/auth/o2/token',
 };
-const RESOURCES = ['itemInfo.title', 'itemInfo.byLineInfo', 'images.primary.large', 'images.primary.medium'];
+const RESOURCES = ['itemInfo.title', 'itemInfo.byLineInfo', 'images.primary.large', 'images.primary.medium', 'images.variants.large'];
+const GALLERY_MAX = 4;
 
 const version = () => process.env.AMAZON_CREATORS_VERSION || '3.1';
 export const hasAmazonApi = () =>
@@ -77,6 +78,11 @@ function mapItem(it) {
     brand: it.itemInfo?.byLineInfo?.brand?.displayValue ?? '',
     url: it.detailPageURL,
     image: im?.url ? { url: im.url, width: im.width, height: im.height } : undefined,
+    gallery: (it.images?.variants ?? [])
+      .map((v) => v.large)
+      .filter((v) => v?.url && v.url !== im?.url)
+      .slice(0, GALLERY_MAX)
+      .map((v) => ({ url: v.url, width: v.width, height: v.height })),
   };
 }
 
