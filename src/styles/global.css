@@ -421,3 +421,11 @@ h3 { font-size: var(--s1); letter-spacing: -.01em; }
 .spec-table th, .spec-table td { padding: 9px 14px; border-bottom: 1px solid var(--rule); text-align: left; vertical-align: top; }
 .spec-table th { width: 40%; color: var(--slate); font-weight: 600; }
 .spec-table tr:last-child th, .spec-table tr:last-child td { border-bottom: 0; }
+
+/* Search autocomplete */
+.suggest-wrap { position: relative; flex: 1; min-width: 0; display: flex; }
+.suggest-wrap input { flex: 1; }
+.suggest { position: absolute; z-index: 20; top: calc(100% + 4px); left: 0; right: 0; margin: 0; padding: 4px 0; list-style: none; background: #fff; border: 1px solid var(--rule); border-radius: var(--r-box); box-shadow: 0 10px 24px rgba(27, 36, 48, .12); }
+.suggest li { padding: 9px 14px; cursor: pointer; font-family: var(--display); color: var(--slate); }
+.suggest li b { color: var(--ink); }
+.suggest li[aria-selected="true"], .suggest li:hover { background: var(--tape-soft); color: var(--ink); }

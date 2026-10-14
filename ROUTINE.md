@@ -75,6 +75,14 @@ and merges any keyword that would cannibalize an existing post). Its `slug` is t
 funnel (≈30% TOFU, 30% MOFU, 40% BOFU); follow the FUNNEL RULES in `WRITE_SYSTEM` for its `funnel` stage
 and put `funnel: <stage>` in the frontmatter.
 
+## 2b. Equivalent keywords from autocomplete
+Search engines group "equivalent keywords" for a prefix and rank them by how often people search them
+(the idea behind search-box autocomplete). Use that to make one post cover every way people phrase the
+same need: run Ahrefs `keywords-explorer-search-suggestions` (or web search autocomplete) on the keyword
+and on its first 2-3 words, keep suggestions with the SAME intent, and add the best 3-6 to
+`secondaryKeywords` (they become H2/H3 wording, FAQ questions and meta keywords). Suggestions with a
+different intent go to the queue as their own keywords instead, never into this post (no cannibalization).
+
 ## 3. Product research
 Feature exactly `productCount` products (from `next`; a random number per post: roundups 3-18,
 comparisons 2-6, guides 1-6), never the same count every day. Give every product its own
