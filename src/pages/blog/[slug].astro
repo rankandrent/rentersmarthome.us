@@ -108,22 +108,14 @@ if (d.products.length > 1) {
         </div>
       </div>
       {heroPick ? (
-        <figure class="hero-photo">
-          <div class="hp-text">
-            <p class="hp-kicker">{categoryName(d.category)}{d.products.length > 1 ? ` · ${d.products.length} picks` : ''}</p>
-            <p class="hp-badge">Our top pick</p>
-            <p class="hp-name">{heroPick.name}</p>
-            <p class="hp-role">{heroPick.badge}</p>
-            <p class="hp-summary">{heroPick.summary}</p>
-            <div class="hp-actions">
-              <a class="btn btn-buy btn-sm" href={amazonUrl({ asin: heroPick.asin, query: heroPick.query })} rel={AFFILIATE_REL} target="_blank">Check price on Amazon</a>
-              {d.products.length > 1 && <a class="btn btn-quiet btn-sm" href="#top-picks">See all {d.products.length} picks</a>}
-            </div>
+        <figure class="hero-composite">
+          <div class="hc-frame">
+            <img class="hc-base" src={`/images/hero/${post.id}.png`} alt={d.heroAlt ?? d.title} width="1200" height="630" fetchpriority="high" decoding="async" />
+            <a class="hc-product" href={amazonUrl({ asin: heroPick.asin, query: heroPick.query })} rel={AFFILIATE_REL} target="_blank" tabindex="-1">
+              <img src={heroPick.image!.url} alt={heroPick.name} width={heroPick.image!.width ?? 500} height={heroPick.image!.height ?? 500} decoding="async" />
+            </a>
           </div>
-          <a class="hp-img" href={amazonUrl({ asin: heroPick.asin, query: heroPick.query })} rel={AFFILIATE_REL} target="_blank" tabindex="-1">
-            <img src={heroPick.image!.url} alt={heroPick.name} width={heroPick.image!.width ?? 500} height={heroPick.image!.height ?? 500} fetchpriority="high" decoding="async" />
-          </a>
-          <figcaption>{heroPick.name}. <span class="credit">{imageCredit(heroPick)}</span></figcaption>
+          <figcaption>{heroPick.name}. <span class="credit">Product photo: {imageCredit(heroPick).replace(/^Image: /, '')}</span></figcaption>
         </figure>
       ) : hero && (
         <figure class="hero-fig">

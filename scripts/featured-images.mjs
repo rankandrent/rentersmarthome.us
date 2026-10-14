@@ -61,7 +61,7 @@ function hash(s) {
   return x;
 }
 
-function layout({ title, category, articleType, slug, kicker, label, iconName }) {
+function layout({ title, category, articleType, slug, kicker, label, iconName, blankCard = false }) {
   const catName = kicker ?? SITE.categories.find((c) => c.slug === category)?.name ?? 'Renter guides';
   const icon = ICONS[iconName ?? CATEGORY_ICON[category]] ?? ICONS.home;
   const tilt = (hash(slug) % 2 ? 1 : -1) * (2 + (hash(slug) % 3));
@@ -79,12 +79,18 @@ function layout({ title, category, articleType, slug, kicker, label, iconName })
         text(SITE.domain, { fontFamily: 'Serif', fontWeight: 400, color: C.slate, fontSize: 24, marginLeft: 16 }),
       ]),
     ]),
-    // Right: lease-paper card with the category drawing and a tape strip
-    h('div', { position: 'absolute', left: 820, top: 110, width: 300, height: 400, background: C.paper, border: `2px solid ${C.rule}`, transform: `rotate(${tilt}deg)`, flexDirection: 'column', padding: '58px 26px 26px' }, [
-      h('div', { justifyContent: 'space-between', fontFamily: 'Serif', fontSize: 17, color: C.slate, borderBottom: `2px solid ${C.rule}`, paddingBottom: 10, width: 248 }, [text('Renter-approved'), text('No drilling')]),
-      h('div', { flexGrow: 1, alignItems: 'center', justifyContent: 'center' }, [img(svgUri(icon, C.ink, 1.3), 190, 190)]),
-    ]),
-    text(label ?? TYPE_LABEL[articleType] ?? 'Guide', { position: 'absolute', left: 860, top: 86, background: C.tape, color: '#fff', fontSize: 26, fontWeight: 700, padding: '12px 26px', transform: `rotate(${-tilt - 1}deg)` }),
+    // Right: lease-paper card with the category drawing and a tape strip.
+    // blankCard: an upright, empty card; the article page places the real
+    // Amazon product photo (served from Amazon) over it at HERO_PHOTO_BOX.
+    blankCard
+      ? h('div', { position: 'absolute', left: 790, top: 96, width: 340, height: 450, boxSizing: 'border-box', background: C.paper, border: `2px solid ${C.rule}`, flexDirection: 'column', padding: '62px 26px 26px' }, [
+          h('div', { justifyContent: 'space-between', fontFamily: 'Serif', fontSize: 17, color: C.slate, borderBottom: `2px solid ${C.rule}`, paddingBottom: 10, width: 284 }, [text('Renter-approved'), text('No drilling')]),
+        ])
+      : h('div', { position: 'absolute', left: 820, top: 110, width: 300, height: 400, background: C.paper, border: `2px solid ${C.rule}`, transform: `rotate(${tilt}deg)`, flexDirection: 'column', padding: '58px 26px 26px' }, [
+          h('div', { justifyContent: 'space-between', fontFamily: 'Serif', fontSize: 17, color: C.slate, borderBottom: `2px solid ${C.rule}`, paddingBottom: 10, width: 248 }, [text('Renter-approved'), text('No drilling')]),
+          h('div', { flexGrow: 1, alignItems: 'center', justifyContent: 'center' }, [img(svgUri(icon, C.ink, 1.3), 190, 190)]),
+        ]),
+    text(label ?? TYPE_LABEL[articleType] ?? 'Guide', { position: 'absolute', left: blankCard ? 830 : 860, top: blankCard ? 72 : 86, background: C.tape, color: '#fff', fontSize: 26, fontWeight: 700, padding: '12px 26px', transform: `rotate(${blankCard ? -2 : -tilt - 1}deg)` }),
   ]);
 }
 
@@ -109,9 +115,14 @@ export async function renderPageImages() {
   return pages.length;
 }
 
-/** Generate (if missing) and attach the featured image to a post's frontmatter. */
+const HERO_DIR = path.join(ROOT, 'public/images/hero');
+
+/** Generate (if missing) and attach the featured image to a post's frontmatter.
+ *  Also renders the article-header base (same design, blank product card). */
 export async function ensureFeatured({ slug, file, data, content }, { force = false } = {}) {
   const target = path.join(OUT_DIR, `${slug}.png`);
+  const base = { slug, title: data.title, category: data.category, articleType: data.articleType, blankCard: true };
+  if (force || !fs.existsSync(path.join(HERO_DIR, `${slug}.png`))) await renderFeatured(base, { dir: HERO_DIR, urlBase: '/images/hero' });
   if (!force && fs.existsSync(target) && data.heroImage) return false;
   const url = await renderFeatured({ slug, title: data.title, category: data.category, articleType: data.articleType });
   writePost(slug, { ...data, heroImage: url, heroAlt: `${data.title}: RenterSmartHome ${TYPE_LABEL[data.articleType]?.toLowerCase() ?? 'guide'}` }, content);
