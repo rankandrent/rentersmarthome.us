@@ -128,6 +128,7 @@ export async function qaPost(post, { posts = listPosts(), online = false, live =
   if (/REPLACE/.test(amazonTag())) err('Amazon affiliate tag is not configured');
   const products = d.products ?? [];
   if (d.articleType === 'roundup' && products.length < 2) err('roundup with fewer than 2 products');
+  if (d.productCount && products.length !== d.productCount) warn(`features ${products.length} products; the plan for this post was ${d.productCount}`);
   const amznLinks = [...body.matchAll(/\]\(amzn:([^)]*)\)/g)].map((m) => decodeURIComponent(m[1].replace(/\+/g, ' ')));
   const h3s = [...body.matchAll(/^###\s+(.+)$/gm)].map((m) => m[1]);
   for (const p of products) {

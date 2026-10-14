@@ -43,6 +43,8 @@ const blog = defineCollection({
     reviewedDate: z.coerce.date().optional(),
     // true when the post retells a real story from data/stories.json
     ownerStory: z.boolean().optional(),
+    // planned number of products for this post (random per post)
+    productCount: z.number().optional(),
     sources: z.array(z.object({ title: z.string(), url: z.string().url() })).default([]),
     draft: z.boolean().default(false),
     heroImage: z.string().optional(),

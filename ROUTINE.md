@@ -76,7 +76,10 @@ funnel (≈30% TOFU, 30% MOFU, 40% BOFU); follow the FUNNEL RULES in `WRITE_SYST
 and put `funnel: <stage>` in the frontmatter.
 
 ## 3. Product research
-Follow the `SYSTEM` prompt and `COUNT` table in `agents/product-agent.mjs`, using
+Feature exactly `productCount` products (from `next`; a random number per post: roundups 3-18,
+comparisons 2-6, guides 1-6), never the same count every day. Give every product its own
+`### Product name: role` section (about 120-180 words each), so long lists make long, useful posts; set the
+brief's `targetWords` to roughly 700 + 150 x productCount. Follow the `SYSTEM` prompt in `agents/product-agent.mjs`, using
 web search. For each product: `name` (exact model), `brand`, `query` (what a
 shopper types on Amazon), `badge`, `summary`, `renterNote`, `pros`, `cons`, and
 the source URLs you used. Leave `asin` out: the Amazon refresh workflow adds the
@@ -101,7 +104,7 @@ Frontmatter (copy the shape of an existing post, e.g.
 ```yaml
 title, seoTitle (≤60), description (140–160), pubDate (take the next unused time from `node scripts/routine.mjs slots`; posts go live at random times and the hourly Scheduled release workflow publishes each one when its time comes),
 category, keyword, secondaryKeywords, entities, tags, articleType, readingTime,
-tldr (2–4), products [name, brand, query, badge, summary, renterNote, pros, cons],
+tldr (2–4), productCount (from `next`), products [exactly productCount items: name, brand, query, badge, summary, renterNote, pros, cons],
 sources [{title, url}] (manufacturer/standards pages you used, no Amazon URLs),
 reviewedDate (today), faqs [{q, a}] (4–6), author: editorial-team
 ```

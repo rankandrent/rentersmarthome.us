@@ -24,6 +24,7 @@ import { ensureFeatured } from './featured-images.mjs';
 import { funnelOf } from '../agents/lib/funnel.mjs';
 import { findCannibal } from '../agents/lib/cannibal.mjs';
 import { qaPost, recordFactCheck } from '../agents/qa-agent.mjs';
+import { productCountFor } from '../agents/lib/product-count.mjs';
 
 const BRIEFS = path.join(DATA_DIR, 'briefs');
 const [cmd, arg] = process.argv.slice(2);
@@ -82,6 +83,7 @@ if (cmd === 'status') {
       item.lastError = `cannibalization: ${clash.reason}`;
     } else break;
   }
+  if (item) item.productCount ??= productCountFor(item);
   saveQueue(queue);
   out(item ?? { error: 'queue empty: research keywords first (see ROUTINE.md step 1)' });
 } else if (cmd === 'cannibal') {

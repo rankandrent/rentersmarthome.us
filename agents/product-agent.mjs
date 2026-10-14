@@ -29,7 +29,10 @@ export const ProductSchema = z.object({
   sources: z.array(z.string()).max(8),
 });
 
-const COUNT = { roundup: '5 to 7', comparison: 'exactly the 2 or 3 products being compared', review: '1 (the reviewed product) plus 2 alternatives', 'how-to': '2 to 4', guide: '2 to 4' };
+import { productCountFor } from './lib/product-count.mjs';
+
+// The number of products varies per post (see lib/product-count.mjs).
+const COUNT_NOTE = { comparison: ' (the products being compared first, then alternatives)', review: ' (the reviewed product first, then alternatives)' };
 
 const SYSTEM = `You are the Product Research Agent for ${SITE.domain}. You find REAL products currently sold on Amazon US and evaluate them for renters.
 
@@ -55,7 +58,7 @@ Article type: ${item.articleType}
 Working title: ${item.workingTitle}
 Secondary keywords: ${item.secondaryKeywords.join(', ')}
 
-Research and return ${COUNT[item.articleType] ?? '3 to 5'} products that best serve someone searching this keyword who RENTS their home.
+Research and return exactly ${item.productCount ?? productCountFor(item)} products${COUNT_NOTE[item.articleType] ?? ''} that best serve someone searching this keyword who RENTS their home.
 
 Return ONLY a \`\`\`json block: {"products":[{"name":"","brand":"","query":"","asin":"","badge":"","summary":"2 sentences on who it is for and why","renterNote":"","pros":[""],"cons":[""],"facts":[""],"sources":["urls"]}]}`,
   });
