@@ -56,6 +56,11 @@ products:
     cons:
       - Best inside Amazon's ecosystem
       - Bass is limited compared with larger speakers
+    asin: B09B8V1LZ3
+    image:
+      url: 'https://m.media-amazon.com/images/I/315PBUzfZiL._SL500_.jpg'
+      width: 313
+      height: 500
   - name: Amazon Echo Pop
     brand: Amazon
     query: Amazon Echo Pop smart speaker
@@ -71,6 +76,11 @@ products:
     cons:
       - Fewer smart home extras than the Echo Dot
       - 'Sound is fine for voice and podcasts, thinner for music'
+    asin: B09B8V1LZ3
+    image:
+      url: 'https://m.media-amazon.com/images/I/315PBUzfZiL._SL500_.jpg'
+      width: 313
+      height: 500
   - name: Google Nest Mini
     brand: Google
     query: Google Nest Mini 2nd Gen
@@ -86,6 +96,11 @@ products:
     cons:
       - Modest bass
       - Best with Google services
+    asin: B0CGYFYY34
+    image:
+      url: 'https://m.media-amazon.com/images/I/41dUQ+eLjzL._SL500_.jpg'
+      width: 477
+      height: 500
   - name: Apple HomePod mini
     brand: Apple
     query: Apple HomePod mini
@@ -101,6 +116,11 @@ products:
     cons:
       - Best with an iPhone
       - Higher price than the Echo Dot or Nest Mini
+    asin: B0FK8JL74Q
+    image:
+      url: 'https://m.media-amazon.com/images/I/61o-DCbNtxL._SL500_.jpg'
+      width: 500
+      height: 461
 sources:
   - title: 'Apple: HomePod mini'
     url: 'https://www.apple.com/homepod-mini/'
