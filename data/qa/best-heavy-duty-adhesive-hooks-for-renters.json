@@ -1,10 +1,11 @@
 {
   "slug": "best-heavy-duty-adhesive-hooks-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-14T13:15:33.567Z",
+  "checkedAt": "2026-10-14T13:17:10.617Z",
   "errors": [],
   "warnings": [
-    "product \"Command Large Utility Hook\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "source didn't respond normally (403): https://www.hookandloop.com/blog/how-much-weight-can-command-strips-hold",
+    "source didn't respond normally (no response): https://www.command.com/"
   ],
   "factCheck": {
     "verified": true,

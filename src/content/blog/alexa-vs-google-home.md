@@ -103,6 +103,25 @@ products:
         Advanced Gemini features like camera history search need Google Home
         Premium
       - Fewer compatible devices than Alexa overall
+    asin: B0H6GS482L
+    image:
+      url: 'https://m.media-amazon.com/images/I/61+-yjpmN+L._SL500_.jpg'
+      width: 500
+      height: 400
+    amazonTitle: Google - Premium Audio Speaker- 360-Degree Sound (Porcelain)
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51hyv+EHysL._SL500_.jpg'
+        width: 500
+        height: 243
+      - url: 'https://m.media-amazon.com/images/I/41U-Es-NSwL._SL500_.jpg'
+        width: 334
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/61ezLYYjzHL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/71o+kgPcL0L._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Amazon Echo Studio (2nd Gen)
     brand: Amazon
     query: Amazon Echo Studio 2nd Gen

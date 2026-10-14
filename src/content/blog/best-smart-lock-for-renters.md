@@ -102,6 +102,28 @@ products:
     cons:
       - Remote access and Matter need a SwitchBot hub
       - Bulkier on the door than a retrofit lock
+    asin: B0GWZSS4VD
+    image:
+      url: 'https://m.media-amazon.com/images/I/31ZiaYDTDGL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      SwitchBot Lock Vision Pro Smart Lock, 3D Face Recognition + Palm Vein +
+      Fingerprint, Keyless Entry Deadbolt for Front Door, 12-Month Battery, WiFi
+      No Hub, Auto-Lock, Matter, Apple Home, Alexa, Google
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41LDWgU332L._SL500_.jpg'
+        width: 390
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41CvZAN6HZL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41y6wWg07PL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41uXkzhN-+L._SL500_.jpg'
+        width: 390
+        height: 500
   - name: Yale Approach Lock with Wi-Fi
     brand: Yale
     query: Yale Approach Lock with Wi-Fi

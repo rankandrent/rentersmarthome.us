@@ -1,10 +1,10 @@
 {
   "slug": "best-video-doorbell-without-subscription-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-14T13:15:33.606Z",
+  "checkedAt": "2026-10-14T13:17:21.618Z",
   "errors": [],
   "warnings": [
-    "product \"eufy Video Doorbell S220\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "source didn't respond normally (403): https://www.currys.co.uk/techtalk/smart-tech/smart-home/best-video-doorbell-cameras-without-a-subscription.html"
   ],
   "factCheck": {
     "verified": true,

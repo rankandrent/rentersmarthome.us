@@ -91,6 +91,27 @@ products:
     cons:
       - Single camera
       - Needs a eufy HomeBase; check whether your kit includes one
+    asin: B0HMR7JH89
+    image:
+      url: 'https://m.media-amazon.com/images/I/312ZqhdpAVL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Battery for Eufy SoloCam S220, Video Doorbell Camera C31 2K
+      FHD,T8210,T3814
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41CYcyonTwL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41WNQzLQ6PL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41NmB4Z6WdL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41-9iR4tlaL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Tapo D210
     brand: TP-Link Tapo
     query: Tapo D210 video doorbell battery

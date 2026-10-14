@@ -29,8 +29,9 @@ funnel: mofu
 readingTime: 6
 tldr:
   - >-
-    Command's Jumbo and Large utility hooks are the safest heavy duty adhesive hooks for renters
-    because their strips are designed to remove cleanly from painted walls.
+    Command's Jumbo and Large utility hooks are the safest heavy duty adhesive
+    hooks for renters because their strips are designed to remove cleanly from
+    painted walls.
   - Always check the weight rating on the package and stay under it.
   - >-
     For heavier things like mirrors and shelves, a 3M CLAW drywall hanger leaves
@@ -91,6 +92,28 @@ products:
     cons:
       - Wait time before hanging anything
       - Lower rating than the Jumbo hook
+    asin: B0FLYLG4K9
+    image:
+      url: 'https://m.media-amazon.com/images/I/41VGSLooJlL._SL500_.jpg'
+      width: 500
+      height: 314
+    amazonTitle: >-
+      Command 5 lb Large Utility Hooks,7 Hooks and 12 Strips,Damage-Free Hanging
+      Wall Hook with Adhesive Strips,No Tools Required,Great for Home Kitchen
+      Office Organization,(Pack of 2)
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41g0O3l+rUL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41oa+I9sh4L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51ApIgDyhNL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41wCYYl07RL._SL500_.jpg'
+        width: 500
+        height: 491
   - name: 3M CLAW Drywall Picture Hanger
     brand: 3M
     query: 3M CLAW Drywall Picture Hanger
@@ -148,8 +171,8 @@ faqs:
   - q: How do you remove Command hooks without damage?
     a: >-
       Hold the hook, then slowly stretch the strip's pull tab straight down
-      along the wall, as far as the package directs, until it releases. Never pull it
-      toward you.
+      along the wall, as far as the package directs, until it releases. Never
+      pull it toward you.
   - q: Do adhesive hooks work in bathrooms?
     a: >-
       Use hooks made for bathrooms or water-resistant strips, mount them on
