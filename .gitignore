@@ -3,3 +3,6 @@ dist/
 .astro/
 .env
 .DS_Store
+
+# generated at build time by scripts/redirects.mjs
+public/_redirects

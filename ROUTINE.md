@@ -4,6 +4,10 @@ A scheduled Claude Code session runs this playbook once a day. It does the work 
 the four agents in `agents/` itself (no Anthropic API key needed), then pushes,
 which triggers the Cloudflare deploy and the Amazon image refresh.
 
+**Old-URL recovery:** queue items with `restoresOldUrl` replace pages Google indexed on the old site.
+Keep their `slug` exactly as queued; `data/redirects.json` 301s the old URLs to `/blog/<slug>/` as soon as the
+post is live and passes QA (until then they 302 to the closest page).
+
 **Owner-supplied keywords:** queue items with `source: "user"` came from the site owner. Write them as given:
 they skip the volume cap and the cannibalization check, and `next` serves them first. Items marked
 `duplicateOf` share intent with a live post, so they're queued last; give them a distinct angle from that post.

@@ -2733,5 +2733,171 @@
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
     "slug": "best-washable-rug-for-renters-with-dogs"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-14T15:34:32.961Z",
+    "secondaryKeywords": [
+      "best budget stud finder",
+      "magnetic stud finder for renters"
+    ],
+    "questions": [
+      "Do magnetic stud finders work on plaster?",
+      "Are magnetic stud finders accurate?"
+    ],
+    "priority": 60,
+    "keyword": "best magnetic stud finder",
+    "category": "storage-decor",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Magnetic Stud Finder for Renters",
+    "cluster": "wall hanging",
+    "source": "user",
+    "restoresOldUrl": [
+      "/reviews/best-magnetic-stud-finder",
+      "/reviews/best-budget-stud-finder",
+      "/categories/stud-finders"
+    ],
+    "rationale": "restores an old indexed URL",
+    "slug": "best-magnetic-stud-finder"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-14T15:34:32.962Z",
+    "secondaryKeywords": [
+      "best stud finder with deep scan",
+      "stud finder for plaster walls"
+    ],
+    "questions": [
+      "Which stud finder works through thick walls?",
+      "What is deep scan mode?"
+    ],
+    "priority": 59,
+    "keyword": "best stud finder for thick walls",
+    "category": "storage-decor",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Stud Finder for Thick Walls (Deep Scan)",
+    "cluster": "wall hanging",
+    "source": "user",
+    "restoresOldUrl": [
+      "/reviews/best-stud-finder-for-thick-walls",
+      "/reviews/best-stud-finder-with-deep-scan"
+    ],
+    "rationale": "restores an old indexed URL",
+    "slug": "best-stud-finder-for-thick-walls"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-14T15:34:32.962Z",
+    "secondaryKeywords": [
+      "renter baby proofing guide",
+      "baby proofing an apartment"
+    ],
+    "questions": [
+      "Can you baby proof a rental without drilling?",
+      "What baby proofing needs landlord permission?"
+    ],
+    "priority": 58,
+    "keyword": "how to baby proof a rental without damage",
+    "category": "baby-proofing",
+    "articleType": "guide",
+    "intent": "informational",
+    "funnel": "tofu",
+    "workingTitle": "How to Baby Proof a Rental Without Damage (Complete Renter Guide)",
+    "cluster": "baby proofing",
+    "source": "user",
+    "restoresOldUrl": [
+      "/reviews/how-to-baby-proof-a-rental-without-damage",
+      "/reviews/complete-renter-baby-proofing-guide"
+    ],
+    "rationale": "restores an old indexed URL",
+    "slug": "how-to-baby-proof-a-rental-without-damage"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-14T15:34:32.962Z",
+    "secondaryKeywords": [
+      "adhesive magnetic cabinet locks",
+      "no drill cabinet locks"
+    ],
+    "questions": [
+      "Do magnetic cabinet locks damage cabinets?",
+      "How do adhesive magnetic locks come off?"
+    ],
+    "priority": 57,
+    "keyword": "best magnetic cabinet locks for renters",
+    "category": "baby-proofing",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Magnetic Cabinet Locks for Renters (No Drilling)",
+    "cluster": "baby proofing",
+    "source": "user",
+    "restoresOldUrl": [
+      "/reviews/best-magnetic-cabinet-locks-for-renters"
+    ],
+    "rationale": "restores an old indexed URL",
+    "slug": "best-magnetic-cabinet-locks-for-renters"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-14T15:34:32.962Z",
+    "secondaryKeywords": [
+      "wireless security camera for apartment",
+      "best security camera for apartment"
+    ],
+    "questions": [
+      "Can I put security cameras in my apartment?",
+      "Do wireless cameras need a subscription?"
+    ],
+    "priority": 56,
+    "keyword": "best wireless security cameras for apartments",
+    "category": "security",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Wireless Security Cameras for Apartments",
+    "cluster": "cameras",
+    "source": "user",
+    "restoresOldUrl": [
+      "/reviews/best-wireless-security-cameras-for-apartments"
+    ],
+    "rationale": "restores an old indexed URL",
+    "slug": "best-wireless-security-cameras-for-apartments"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-14T15:34:32.962Z",
+    "secondaryKeywords": [
+      "wyze vs ring vs eufy",
+      "eufy vs wyze vs ring"
+    ],
+    "questions": [
+      "Which is best for renters: Wyze, Ring or Eufy?",
+      "Which needs no subscription?"
+    ],
+    "priority": 55,
+    "keyword": "wyze vs ring vs eufy for renters",
+    "category": "security",
+    "articleType": "comparison",
+    "intent": "commercial",
+    "funnel": "mofu",
+    "workingTitle": "Wyze vs Ring vs Eufy for Renters",
+    "cluster": "cameras",
+    "source": "user",
+    "restoresOldUrl": [
+      "/reviews/wyze-vs-ring-vs-eufy-for-renters"
+    ],
+    "rationale": "restores an old indexed URL",
+    "slug": "wyze-vs-ring-vs-eufy-for-renters"
   }
 ]

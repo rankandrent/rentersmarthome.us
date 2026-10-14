@@ -1,0 +1,23 @@
+{
+  "_note": "Old-site URLs that Google indexed. 'to' is used until 'pendingSlug' is published (302); once that post is live the URL 301s to it. scripts/redirects.mjs writes public/_redirects at build time.",
+  "redirects": [
+    { "from": "/reviews", "to": "/blog/" },
+    { "from": "/authors/research-team", "to": "/authors/editorial-team/" },
+    { "from": "/categories/security-cameras", "to": "/category/security/" },
+    { "from": "/categories/video-doorbells", "to": "/category/security/" },
+    { "from": "/categories/smart-locks", "to": "/category/smart-locks/" },
+    { "from": "/categories/baby-child-safety", "to": "/category/baby-proofing/" },
+    { "from": "/categories/stud-finders", "to": "/category/storage-decor/", "pendingSlug": "best-magnetic-stud-finder" },
+    { "from": "/reviews/best-no-drill-video-doorbells-for-renters", "to": "/blog/best-video-doorbell-without-subscription-for-renters/" },
+    { "from": "/reviews/best-renter-friendly-smart-locks-no-drilling", "to": "/blog/best-smart-lock-for-renters/" },
+    { "from": "/reviews/best-magnetic-stud-finder", "to": "/category/storage-decor/", "pendingSlug": "best-magnetic-stud-finder" },
+    { "from": "/reviews/best-budget-stud-finder", "to": "/category/storage-decor/", "pendingSlug": "best-magnetic-stud-finder" },
+    { "from": "/reviews/best-stud-finder-for-thick-walls", "to": "/category/storage-decor/", "pendingSlug": "best-stud-finder-for-thick-walls" },
+    { "from": "/reviews/best-stud-finder-with-deep-scan", "to": "/category/storage-decor/", "pendingSlug": "best-stud-finder-for-thick-walls" },
+    { "from": "/reviews/best-magnetic-cabinet-locks-for-renters", "to": "/category/baby-proofing/", "pendingSlug": "best-magnetic-cabinet-locks-for-renters" },
+    { "from": "/reviews/complete-renter-baby-proofing-guide", "to": "/blog/best-pressure-mounted-baby-gate-for-renters/", "pendingSlug": "how-to-baby-proof-a-rental-without-damage" },
+    { "from": "/reviews/how-to-baby-proof-a-rental-without-damage", "to": "/blog/best-pressure-mounted-baby-gate-for-renters/", "pendingSlug": "how-to-baby-proof-a-rental-without-damage" },
+    { "from": "/reviews/best-wireless-security-cameras-for-apartments", "to": "/category/security/", "pendingSlug": "best-wireless-security-cameras-for-apartments" },
+    { "from": "/reviews/wyze-vs-ring-vs-eufy-for-renters", "to": "/blog/blink-vs-ring-subscription/", "pendingSlug": "wyze-vs-ring-vs-eufy-for-renters" }
+  ]
+}

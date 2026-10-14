@@ -6,6 +6,7 @@
   "description": "RenterSmartHome.us - renter-friendly smart home guides, built with Astro and an agentic content pipeline.",
   "scripts": {
     "dev": "astro dev",
+    "prebuild": "node scripts/redirects.mjs",
     "build": "astro build",
     "preview": "astro preview",
     "check:content": "node scripts/check-content.mjs",
