@@ -149,9 +149,6 @@ sources:
     url: 'https://ring.com/ca/en/products/no-drill-mount-for-battery-doorbells'
   - title: 'Ring Blog: The best Ring products for renters'
     url: 'https://blog.ring.com/home-security/the-best-ring-products-for-renters/'
-  - title: 'TechHive: Ring finally has a doorbell cam for renters'
-    url: >-
-      https://www.techhive.com/article/583575/ring-finally-has-a-doorbell-cam-for-renters-and-apartment-dwellers.html
 reviewedDate: '2026-10-13T00:00:00.000Z'
 faqs:
   - q: Can you put a Ring doorbell on an apartment door?

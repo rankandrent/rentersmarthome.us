@@ -1,10 +1,9 @@
 {
   "slug": "ring-doorbell-in-apartment",
   "pass": true,
-  "checkedAt": "2026-10-14T13:06:21.055Z",
+  "checkedAt": "2026-10-14T13:08:39.374Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: source returns 410: https://www.techhive.com/article/583575/ring-finally-has-a-doorbell-cam-for-renters-and-apartment-dwellers.html",
     "LIVE POST, FIX: facts not verified yet: check every product spec and claim against the sources, then run `node scripts/routine.mjs factcheck <slug> \"<notes>\"`"
   ],
   "factCheck": {
