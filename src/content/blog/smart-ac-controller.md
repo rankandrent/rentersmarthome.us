@@ -65,6 +65,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/41cotMZUGkL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41gFtQyyeaL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/310msOGohTL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41kiHDTaRkL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41W3em7hZLL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Sensibo Air Pro
     brand: Sensibo
     query: Sensibo Air Pro smart AC controller
@@ -85,6 +98,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/41aMbPd8AmL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41kmNiU-ymL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41Fa1-D--FL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41BJaO9lo2L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41wWqI7wF9L._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Cielo Breez Lite
     brand: Cielo
     query: Cielo Breez Lite smart AC controller
@@ -105,6 +131,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/31eXbiLnwqL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41vqVpF-g3L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41++BHaG6NL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41cW1v-TRLL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41Ty2s9q0GL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: Cielo Breez Max submittal sheet
     url: >-

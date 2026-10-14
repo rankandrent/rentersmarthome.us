@@ -63,6 +63,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/51x8uUsdLeL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/416p94UwOmL._SL500_.jpg'
+        width: 391
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41sUkVHMIaL._SL500_.jpg'
+        width: 383
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51WqkSvK9jL._SL500_.jpg'
+        width: 383
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41fxwYLv7lL._SL500_.jpg'
+        width: 383
+        height: 500
   - name: Philips Hue Lightstrip Plus
     brand: Philips Hue
     query: Philips Hue Lightstrip Plus
@@ -83,6 +96,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/41B1esPzi6L._SL500_.jpg'
       width: 500
       height: 470
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41aShRpfJNL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/31Owmjgf9DL._SL500_.jpg'
+        width: 500
+        height: 343
+      - url: 'https://m.media-amazon.com/images/I/21nf51nL3kL._SL500_.jpg'
+        width: 500
+        height: 211
+      - url: 'https://m.media-amazon.com/images/I/41v1j3B7-+L._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Govee COB Strip Light Pro
     brand: Govee
     query: Govee COB Strip Light Pro
@@ -103,6 +129,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/41GpFFeBFwL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/414ekNSGbHL._SL500_.jpg'
+        width: 383
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41V1noKYlQL._SL500_.jpg'
+        width: 383
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41gk+2nJg+L._SL500_.jpg'
+        width: 383
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41-jKQJR2QL._SL500_.jpg'
+        width: 383
+        height: 500
 sources:
   - title: 'Govee: Best LED strip lights'
     url: 'https://us.govee.com/blogs/led-strip-lights/best-led-strip-lights'

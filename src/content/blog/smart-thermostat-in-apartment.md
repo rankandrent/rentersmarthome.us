@@ -61,6 +61,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/31PoGXkf6kL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41+-CTTZK+S._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41VeTdFENjS._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41UPA2ZUmLL._SL500_.jpg'
+        width: 480
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41fg61zT9KL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: ecobee Smart Thermostat Essential
     brand: ecobee
     query: ecobee Smart Thermostat Essential
@@ -85,6 +98,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/31JTtJmb1zL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41wazwFiTDL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41t205INKPL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41FlGdADAlL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41QOGV7NqzL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Mysa Smart Thermostat for Electric Baseboard Heaters
     brand: Mysa
     query: Mysa Smart Thermostat for Electric Baseboard Heaters
@@ -107,6 +133,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/11a3lFwXIZL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/21ySbMuuprL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41eer8uw6jL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/31fSS66IvcL._SL500_.jpg'
+        width: 500
+        height: 375
+      - url: 'https://m.media-amazon.com/images/I/41gMFiJxOsL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: 'GearBrain: Smart thermostats without a C-wire'
     url: >-

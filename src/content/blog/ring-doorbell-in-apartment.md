@@ -64,6 +64,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/31gbU4nZpHL._SL500_.jpg'
       width: 313
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41A0CqGnYhL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41IC1G7G+OL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41lbHuVMRmL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/419w3TzXRML._SL500_.jpg'
+        width: 313
+        height: 500
   - name: Ring Battery Doorbell
     brand: Ring
     query: Ring Battery Doorbell
@@ -84,6 +97,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/21lc6l7V1ZL._SL500_.jpg'
       width: 313
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/314PqGk2KCL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51wDFPyV0HL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41fw3395XBL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51zWje4O0IL._SL500_.jpg'
+        width: 313
+        height: 500
   - name: Ring No-Drill Mount
     brand: Ring
     query: Ring No-Drill Mount battery doorbell
@@ -104,6 +130,10 @@ products:
       url: 'https://m.media-amazon.com/images/I/21au3hGPKiL._SL500_.jpg'
       width: 313
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/218PEGbgBhL._SL500_.jpg'
+        width: 313
+        height: 500
 sources:
   - title: 'Ring: No-Drill Mount for Battery Doorbells'
     url: 'https://ring.com/ca/en/products/no-drill-mount-for-battery-doorbells'

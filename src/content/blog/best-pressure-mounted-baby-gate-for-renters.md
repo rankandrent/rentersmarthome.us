@@ -58,6 +58,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/41IaGgwTpvL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41DavdkE9IL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51p+NxhdYDL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51gbn5quzvL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41dtWn3lsgL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Summer Infant Multi-Use Deco Extra Tall Walk-Thru Gate
     brand: Summer Infant
     query: Summer Infant Extra Tall Walk-Thru Baby Gate pressure mounted
@@ -95,6 +108,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/41lkwK1pq3L._SL500_.jpg'
       width: 400
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51U49tcZbbL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51FSjG2ZMqL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41x5gaUNdFL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51Av62ryTyL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: 'Mommyhood101: Best baby gates'
     url: 'https://mommyhood101.com/best-baby-gates'

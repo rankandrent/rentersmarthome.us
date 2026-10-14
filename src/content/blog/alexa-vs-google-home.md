@@ -66,6 +66,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/31JssKhhl0L._SL500_.jpg'
       width: 313
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41DAUA+IE7L._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41NkdsdZ3OL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41HejaFZcsL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41xwpxqT4+L._SL500_.jpg'
+        width: 313
+        height: 500
   - name: Google Home Speaker
     brand: Google
     query: Google Home Speaker Gemini
@@ -90,6 +103,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/41FtMvwcGvL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51+4PBbvJML._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41leaCWOTDL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51hzru4fJ+L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/5171xMckCvL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Amazon Echo Studio (2nd Gen)
     brand: Amazon
     query: Amazon Echo Studio 2nd Gen
@@ -110,6 +136,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/31BWso5blZL._SL500_.jpg'
       width: 313
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/413PltVla1L._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41NkdsdZ3OL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41HejaFZcsL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41sIEiaTlsL._SL500_.jpg'
+        width: 313
+        height: 500
 sources:
   - title: 'Google: Meet the new Google Home Speaker, built for Gemini'
     url: >-

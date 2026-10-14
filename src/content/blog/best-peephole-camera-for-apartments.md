@@ -66,6 +66,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/31gbU4nZpHL._SL500_.jpg'
       width: 313
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41A0CqGnYhL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41IC1G7G+OL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41lbHuVMRmL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/419w3TzXRML._SL500_.jpg'
+        width: 313
+        height: 500
   - name: Ring Battery Doorbell
     brand: Ring
     query: Ring Battery Doorbell
@@ -88,6 +101,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/21lc6l7V1ZL._SL500_.jpg'
       width: 313
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/314PqGk2KCL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51wDFPyV0HL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41fw3395XBL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51zWje4O0IL._SL500_.jpg'
+        width: 313
+        height: 500
   - name: Blink Mini 2
     brand: Blink
     query: Blink Mini 2 indoor camera
@@ -110,6 +136,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/21aX8NdoPlL._SL500_.jpg'
       width: 313
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31+6KY5zR8L._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41JSrAz4JHL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/31FOIDxE+ML._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/4183b6a2ePL._SL500_.jpg'
+        width: 313
+        height: 500
   - name: Wyze Cam v4
     brand: Wyze
     query: Wyze Cam v4
@@ -132,6 +171,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/31rKS-JhXAL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41BFtlN61gL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/61NQZmRQ1DL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/511csxnAGaL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51unvg0xIPL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: Ring (manufacturer)
     url: 'https://ring.com/'

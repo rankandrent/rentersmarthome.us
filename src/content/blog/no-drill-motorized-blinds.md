@@ -69,6 +69,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/31eRLVa+f4L._SL500_.jpg'
       width: 400
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/415Ykbz1HmL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41u4+Uv-xeL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41isso5hE-L._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41eS04zpdGL._SL500_.jpg'
+        width: 400
+        height: 500
   - name: SwitchBot Blind Tilt
     brand: SwitchBot
     query: SwitchBot Blind Tilt
@@ -91,6 +104,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/41n+XhwUBUL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41bIjXzZWML._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41xvbHcESzL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41V53aAUUPL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/513vdOU6evL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: SwitchBot Curtain 3
     brand: SwitchBot
     query: SwitchBot Curtain 3
@@ -113,6 +139,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/31SE-ig7ZfL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/4109kJOtKbL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41g3V5ddozL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41ZduRTnmPL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41JX8rvylmL._SL500_.jpg'
+        width: 400
+        height: 500
 sources:
   - title: 'Graywind: No Drill Motorized Roller Shades'
     url: 'https://www.graywind.com/products/no-drill-roller-shades'

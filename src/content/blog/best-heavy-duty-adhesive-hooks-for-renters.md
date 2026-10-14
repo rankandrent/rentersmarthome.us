@@ -59,6 +59,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/41vUWFStUoL._SL500_.jpg'
       width: 364
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/21t6xb9iRAL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41sVS8nu4qL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41cwEjrQC-L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41ibO-UVTcL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Command Heavyweight Hook
     brand: Command
     query: Command Heavyweight Hook
@@ -79,6 +92,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/41sCLj9lBWL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51qoKJuRW9L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51w-CO4D4BL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41sYLlxdwXL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41bI59opO-L._SL500_.jpg'
+        width: 500
+        height: 500
   - name: 3M CLAW Drywall Picture Hanger
     brand: 3M
     query: 3M CLAW Drywall Picture Hanger
@@ -99,6 +125,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/510SMUre+BL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41PXb2CJihL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51FSIOQ5RZL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/510Dqrmt9-L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/5175Ms34afL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: 'Hook and Loop: How much weight can Command strips hold?'
     url: 'https://www.hookandloop.com/blog/how-much-weight-can-command-strips-hold'

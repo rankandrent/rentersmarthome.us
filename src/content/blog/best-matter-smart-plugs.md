@@ -63,6 +63,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/41iBcrtCyvL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41pEdpeq4gL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51l4vcfWTPL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/4118QNztjmL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51j+PBbWeHL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Tapo Mini Smart Wi-Fi Plug with Matter (P125M)
     brand: Tapo (TP-Link)
     query: Tapo P125M Matter smart plug
@@ -83,6 +96,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/411QHB8RnuL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/414Pew+cFgL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41p6tdGHz3L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51ihDHR51LL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41q9XtxDzLL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Eve Energy (Matter)
     brand: Eve
     query: Eve Energy Matter smart plug
@@ -103,6 +129,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/21mweapzbxL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31yaIBRCl4L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/417K4AZZlIL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/416B5ARutsL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41ttJOFubuL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Meross Smart Plug Mini with Matter
     brand: Meross
     query: Meross Matter smart plug mini
@@ -123,6 +162,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/31OiUJ43OFL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41JeolOfYrL._SL500_.jpg'
+        width: 383
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41F5bc7TIlL._SL500_.jpg'
+        width: 383
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51M7kUhCi4L._SL500_.jpg'
+        width: 383
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41ye6mnNOpL._SL500_.jpg'
+        width: 383
+        height: 500
 sources:
   - title: 'Matter standard overview, Connectivity Standards Alliance'
     url: 'https://csa-iot.org/all-solutions/matter/'

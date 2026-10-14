@@ -64,6 +64,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/41iBcrtCyvL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41pEdpeq4gL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51l4vcfWTPL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/4118QNztjmL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51j+PBbWeHL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Philips Hue White and Color Ambiance Starter Kit
     brand: Philips Hue
     query: Philips Hue White and Color Ambiance Starter Kit
@@ -86,6 +99,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/31xoXcJlSUL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31g25JP0XJS._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/316to6x8QCL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41D6Y8ZXQiL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41--NCfKRYL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: SwitchBot Bot Smart Switch Button Pusher
     brand: SwitchBot
     query: SwitchBot Bot Smart Switch Button Pusher
@@ -106,6 +132,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/316eAadOw2L._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41SRs62EvpL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41hromcG4eS._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41YrgPWINhL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/418Q60OqbjL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Sensibo Air
     brand: Sensibo
     query: Sensibo Air smart AC controller
@@ -128,6 +167,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/41G9RH0NQlL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/310Dwg91ZNL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41+AyLnRnZL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41QhQ5RE0TL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41HB-deSHVL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: 'Matter standard overview, Connectivity Standards Alliance'
     url: 'https://csa-iot.org/all-solutions/matter/'

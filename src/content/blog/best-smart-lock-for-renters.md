@@ -68,6 +68,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/4120PG5xbhL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41G5tNCzsCL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51XzWyN4erL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51pNaGPJnmL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41SXQ6LB3WL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: SwitchBot Lock Pro
     brand: SwitchBot
     query: SwitchBot Lock Pro
@@ -90,6 +103,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/31ZiaYDTDGL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41LDWgU332L._SL500_.jpg'
+        width: 390
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41CvZAN6HZL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41y6wWg07PL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41uXkzhN-+L._SL500_.jpg'
+        width: 390
+        height: 500
   - name: Yale Approach Lock with Wi-Fi
     brand: Yale
     query: Yale Approach Lock with Wi-Fi
@@ -112,6 +138,10 @@ products:
       url: 'https://m.media-amazon.com/images/I/31MSy2yL9IL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41GhUqJ29zL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Aqara Smart Lock U200
     brand: Aqara
     query: Aqara Smart Lock U200
@@ -136,6 +166,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/31Pzef9VbeL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51kyMOpz6UL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41AC7JxFlkL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/418Y1zA5RUL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/419xD0G4uwL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: August Home (manufacturer)
     url: 'https://august.com/'

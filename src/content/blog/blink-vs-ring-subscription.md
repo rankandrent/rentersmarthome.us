@@ -62,6 +62,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/21ULlhHVNwL._SL500_.jpg'
       width: 313
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/316Ywmrv-2L._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/31+uTyQahwL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41DuVQfx9qL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/31TSb9f4bdL._SL500_.jpg'
+        width: 313
+        height: 500
   - name: Blink Mini 2
     brand: Blink
     query: Blink Mini 2 indoor camera
@@ -82,6 +95,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/21aX8NdoPlL._SL500_.jpg'
       width: 313
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31+6KY5zR8L._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41JSrAz4JHL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/31FOIDxE+ML._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/4183b6a2ePL._SL500_.jpg'
+        width: 313
+        height: 500
   - name: Blink Sync Module 2
     brand: Blink
     query: Blink Sync Module 2
@@ -102,6 +128,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/31jEg7XYKbL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51UWzMrMNBL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/410ZdIvLj7L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41kUzlsSJcL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41cp7qimC4L._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: 'Security.org: Blink vs Ring'
     url: 'https://www.security.org/security-cameras/blink-vs-ring/'

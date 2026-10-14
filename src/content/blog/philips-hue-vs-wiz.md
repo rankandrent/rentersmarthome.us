@@ -62,6 +62,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/31xoXcJlSUL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31g25JP0XJS._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/316to6x8QCL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41D6Y8ZXQiL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41--NCfKRYL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: WiZ Color A19 Smart Bulb
     brand: WiZ
     query: WiZ Color A19 smart bulb
@@ -82,6 +95,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/310IK16LQwL._SL500_.jpg'
       width: 500
       height: 291
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31YR3X9GRFL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41ZyyBiQujL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/418YJlK6JrL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41s-S8GdrNL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Philips Hue Bridge
     brand: Philips Hue
     query: Philips Hue Bridge
@@ -102,6 +128,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/31622oLagxL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41hEsUqMVsL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51bG+Nb32WL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51TxIb2JQxL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/21vKFJOUYpL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: 'TechRadar: Philips Hue vs WiZ'
     url: >-

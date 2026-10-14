@@ -64,6 +64,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/41i1Jr9edBL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51e4LWYhm2S._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41sT3MhtzlL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51PGX4zxwaL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41y4kpPBiUL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Vornado 660
     brand: Vornado
     query: Vornado 660 air circulator fan
@@ -84,6 +97,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/41RlLLvlq-L._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41ndgolx+kL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51qKzSZU8PL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41yAZCWTCAL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41gtkWYAuEL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Lasko Box Fan
     brand: Lasko
     query: Lasko 20 inch box fan
@@ -104,6 +130,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/51-C0LLwLcL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51HteJnxDeL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51uMvO4PlAL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41h1152XYnL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51vFG8yfIDL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: 'Apartment List: How to cool an apartment without air conditioning'
     url: >-

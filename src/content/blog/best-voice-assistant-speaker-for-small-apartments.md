@@ -61,6 +61,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/315PBUzfZiL._SL500_.jpg'
       width: 313
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31vkCUuIWCL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41NkdsdZ3OL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41zlK85Vc4L._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41B464fZINL._SL500_.jpg'
+        width: 313
+        height: 500
   - name: Amazon Echo Pop
     brand: Amazon
     query: Amazon Echo Pop smart speaker
@@ -81,6 +94,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/315PBUzfZiL._SL500_.jpg'
       width: 313
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31vkCUuIWCL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41NkdsdZ3OL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41zlK85Vc4L._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41B464fZINL._SL500_.jpg'
+        width: 313
+        height: 500
   - name: Google Nest Mini
     brand: Google
     query: Google Nest Mini 2nd Gen
@@ -101,6 +127,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/41dUQ+eLjzL._SL500_.jpg'
       width: 477
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41cfCL7GlVL._SL500_.jpg'
+        width: 499
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/31neRpyAElL._SL500_.jpg'
+        width: 500
+        height: 249
+      - url: 'https://m.media-amazon.com/images/I/31uuWe5vDhL._SL500_.jpg'
+        width: 500
+        height: 249
+      - url: 'https://m.media-amazon.com/images/I/419KnSPo35L._SL500_.jpg'
+        width: 477
+        height: 500
   - name: Apple HomePod mini
     brand: Apple
     query: Apple HomePod mini
@@ -121,6 +160,10 @@ products:
       url: 'https://m.media-amazon.com/images/I/61o-DCbNtxL._SL500_.jpg'
       width: 500
       height: 461
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51T-nyvfBBL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: 'Apple: HomePod mini'
     url: 'https://www.apple.com/homepod-mini/'

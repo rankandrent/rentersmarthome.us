@@ -59,6 +59,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/31bPy4fJvOL._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41kKAqJnvJL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41e591NHWIL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41tstr05QzL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41v5jdJzg+L._SL500_.jpg'
+        width: 500
+        height: 500
   - name: eufy Video Doorbell S220
     brand: eufy
     query: eufy Video Doorbell S220 battery
@@ -79,6 +92,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/41n8USAcz9L._SL500_.jpg'
       width: 500
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/5165jfSvnbL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/31GnIwJDMJL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41CjTu3ECdL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41f0kyhVs5L._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Tapo D210
     brand: TP-Link Tapo
     query: Tapo D210 video doorbell battery
@@ -99,6 +125,19 @@ products:
       url: 'https://m.media-amazon.com/images/I/21hioqzrZcL._SL500_.jpg'
       width: 400
       height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/4174o17X51L._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41053p588PL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41ADZKtx8TL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41PugtZoLJL._SL500_.jpg'
+        width: 400
+        height: 500
 sources:
   - title: 'eufy: Doorbell camera with local storage'
     url: >-
