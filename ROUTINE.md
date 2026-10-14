@@ -9,6 +9,8 @@ they skip the volume cap and the cannibalization check, and `next` serves them f
 `duplicateOf` share intent with a live post, so they're queued last; give them a distinct angle from that post.
 
 **Rules that always apply**
+- Never publish more than the day's quota (`remainingToday`, at most 2 posts per day). The site owner does not want
+  batches of posts going live at once, so never publish 5 (or several) posts in one go, even if asked by a scheduled prompt.
 - Long-tail only: target keywords with ≤ 250 searches/month (Ahrefs). Never target short-tail head terms.
 - No keyword cannibalization: before writing, run `node scripts/routine.mjs cannibal "<keyword>"`. If it reports
   a conflict, do not write a new post; add the keyword to that post's `secondaryKeywords` instead.
