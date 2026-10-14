@@ -70,7 +70,7 @@ function layout({ title, category, articleType, slug, kicker, label, iconName, b
 
   return h('div', { width: 1200, height: 630, background: C.drywall, fontFamily: 'Bricolage', position: 'relative' }, [
     // Left: text column
-    h('div', { position: 'absolute', left: 72, top: 60, width: 660, height: 510, flexDirection: 'column', justifyContent: 'space-between' }, [
+    h('div', { position: 'absolute', left: 72, top: 60, width: blankCard ? 640 : 660, height: 510, flexDirection: 'column', justifyContent: 'space-between' }, [
       h('div', { alignItems: 'center', color: C.tapeInk, fontSize: 26, fontWeight: 700 }, [img(svgUri(icon, C.tapeInk, 2), 34, 34, { marginRight: 12 }), text(catName)]),
       text(title, { fontSize: size, fontWeight: 800, color: C.ink, lineHeight: 1.06, letterSpacing: '-0.03em' }),
       h('div', { alignItems: 'center', fontSize: 26, fontWeight: 700, color: C.ink }, [
@@ -83,14 +83,12 @@ function layout({ title, category, articleType, slug, kicker, label, iconName, b
     // blankCard: an upright, empty card; the article page places the real
     // Amazon product photo (served from Amazon) over it at HERO_PHOTO_BOX.
     blankCard
-      ? h('div', { position: 'absolute', left: 790, top: 96, width: 340, height: 450, boxSizing: 'border-box', background: C.paper, border: `2px solid ${C.rule}`, flexDirection: 'column', padding: '62px 26px 26px' }, [
-          h('div', { justifyContent: 'space-between', fontFamily: 'Serif', fontSize: 17, color: C.slate, borderBottom: `2px solid ${C.rule}`, paddingBottom: 10, width: 284 }, [text('Renter-approved'), text('No drilling')]),
-        ])
+      ? h('div', { position: 'absolute', left: 760, top: 0, width: 440, height: 630, background: C.paper, borderLeft: `2px solid ${C.rule}` }, [])
       : h('div', { position: 'absolute', left: 820, top: 110, width: 300, height: 400, background: C.paper, border: `2px solid ${C.rule}`, transform: `rotate(${tilt}deg)`, flexDirection: 'column', padding: '58px 26px 26px' }, [
           h('div', { justifyContent: 'space-between', fontFamily: 'Serif', fontSize: 17, color: C.slate, borderBottom: `2px solid ${C.rule}`, paddingBottom: 10, width: 248 }, [text('Renter-approved'), text('No drilling')]),
           h('div', { flexGrow: 1, alignItems: 'center', justifyContent: 'center' }, [img(svgUri(icon, C.ink, 1.3), 190, 190)]),
         ]),
-    text(label ?? TYPE_LABEL[articleType] ?? 'Guide', { position: 'absolute', left: blankCard ? 830 : 860, top: blankCard ? 72 : 86, background: C.tape, color: '#fff', fontSize: 26, fontWeight: 700, padding: '12px 26px', transform: `rotate(${blankCard ? -2 : -tilt - 1}deg)` }),
+    text(label ?? TYPE_LABEL[articleType] ?? 'Guide', { position: 'absolute', left: blankCard ? 800 : 860, top: blankCard ? 52 : 86, background: C.tape, color: '#fff', fontSize: 26, fontWeight: 700, padding: '12px 26px', transform: `rotate(${blankCard ? -2 : -tilt - 1}deg)` }),
   ]);
 }
 
