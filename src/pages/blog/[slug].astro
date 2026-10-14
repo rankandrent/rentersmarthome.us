@@ -109,10 +109,21 @@ if (d.products.length > 1) {
       </div>
       {heroPick ? (
         <figure class="hero-photo">
-          <a href={amazonUrl({ asin: heroPick.asin, query: heroPick.query })} rel={AFFILIATE_REL} target="_blank">
+          <div class="hp-text">
+            <p class="hp-kicker">{categoryName(d.category)}{d.products.length > 1 ? ` · ${d.products.length} picks` : ''}</p>
+            <p class="hp-badge">Our top pick</p>
+            <p class="hp-name">{heroPick.name}</p>
+            <p class="hp-role">{heroPick.badge}</p>
+            <p class="hp-summary">{heroPick.summary}</p>
+            <div class="hp-actions">
+              <a class="btn btn-buy btn-sm" href={amazonUrl({ asin: heroPick.asin, query: heroPick.query })} rel={AFFILIATE_REL} target="_blank">Check price on Amazon</a>
+              {d.products.length > 1 && <a class="btn btn-quiet btn-sm" href="#top-picks">See all {d.products.length} picks</a>}
+            </div>
+          </div>
+          <a class="hp-img" href={amazonUrl({ asin: heroPick.asin, query: heroPick.query })} rel={AFFILIATE_REL} target="_blank" tabindex="-1">
             <img src={heroPick.image!.url} alt={heroPick.name} width={heroPick.image!.width ?? 500} height={heroPick.image!.height ?? 500} fetchpriority="high" decoding="async" />
           </a>
-          <figcaption><strong>{heroPick.badge}:</strong> {heroPick.name}. <span class="credit">{imageCredit(heroPick)}</span></figcaption>
+          <figcaption>{heroPick.name}. <span class="credit">{imageCredit(heroPick)}</span></figcaption>
         </figure>
       ) : hero && (
         <figure class="hero-fig">
