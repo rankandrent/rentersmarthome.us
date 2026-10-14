@@ -1,0 +1,13 @@
+{
+  "slug": "best-matter-smart-plugs",
+  "pass": true,
+  "checkedAt": "2026-10-14T13:04:30.520Z",
+  "errors": [],
+  "warnings": [
+    "LIVE POST, FIX: facts not verified yet: check every product spec and claim against the sources, then run `node scripts/routine.mjs factcheck <slug> \"<notes>\"`",
+    "no semantic brief (data/briefs), SEO audit skipped"
+  ],
+  "factCheck": {
+    "verified": false
+  }
+}

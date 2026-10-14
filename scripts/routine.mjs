@@ -9,6 +9,8 @@
 //   node scripts/routine.mjs links <slug>           internal-link candidates
 //   node scripts/routine.mjs add-keywords <file>    merge researched keywords into the queue
 //   node scripts/routine.mjs audit <slug>           SEO audit (needs data/briefs/<slug>.json)
+//   node scripts/routine.mjs qa <slug>              QA agent review (must PASS before the post can go live)
+//   node scripts/routine.mjs factcheck <slug> "notes"  record that every claim was verified against sources
 //   node scripts/routine.mjs finalize <slug>        featured image, backlinks, queue/state, report
 import fs from 'node:fs';
 import path from 'node:path';
@@ -21,6 +23,7 @@ import { nextKeyword, collectSources } from '../agents/orchestrator.mjs';
 import { ensureFeatured } from './featured-images.mjs';
 import { funnelOf } from '../agents/lib/funnel.mjs';
 import { findCannibal } from '../agents/lib/cannibal.mjs';
+import { qaPost, recordFactCheck } from '../agents/qa-agent.mjs';
 
 const BRIEFS = path.join(DATA_DIR, 'briefs');
 const [cmd, arg] = process.argv.slice(2);
@@ -113,6 +116,14 @@ if (cmd === 'status') {
     products: post.data.products ?? [],
   });
   out({ score: report.score, pass: report.score >= 85, issues: report.issues, metrics: report.metrics });
+} else if (cmd === 'qa') {
+  const post = listPosts().find((p) => p.slug === arg);
+  if (!post) throw new Error(`No post src/content/blog/${arg}.md`);
+  out(await qaPost(post));
+} else if (cmd === 'factcheck') {
+  const notes = process.argv.slice(4).join(' ').trim();
+  if (notes.length < 20) throw new Error('Describe what you verified (which specs, against which sources).');
+  out(recordFactCheck(arg, notes));
 } else if (cmd === 'finalize') {
   const { queue, post, item } = itemFor(arg);
   if (!post) throw new Error(`No post src/content/blog/${arg}.md`);

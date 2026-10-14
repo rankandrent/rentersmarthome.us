@@ -150,5 +150,9 @@
     "maxVolume": 250,
     "minWords": 3,
     "maxKd": 10
+  },
+  "qa": {
+    "requiredFrom": "2026-10-14T13:30:00Z",
+    "note": "Posts published before this date predate the QA agent; their QA problems are warnings to fix, not blockers."
   }
 }

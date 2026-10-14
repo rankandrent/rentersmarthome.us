@@ -1,0 +1,13 @@
+{
+  "slug": "best-pressure-mounted-baby-gate-for-renters",
+  "pass": true,
+  "checkedAt": "2026-10-14T13:04:30.532Z",
+  "errors": [],
+  "warnings": [
+    "LIVE POST, FIX: facts not verified yet: check every product spec and claim against the sources, then run `node scripts/routine.mjs factcheck <slug> \"<notes>\"`",
+    "product \"Summer Infant Multi-Use Deco Extra Tall Walk-Thru Gate\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": false
+  }
+}

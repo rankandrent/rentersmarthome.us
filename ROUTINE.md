@@ -28,7 +28,11 @@ DEFAULT=$(git remote show origin | sed -n 's/.*HEAD branch: //p')
 git fetch origin "$DEFAULT" && git checkout -B "$DEFAULT" "origin/$DEFAULT"
 npm ci
 node scripts/routine.mjs status
+node scripts/qa.mjs --failing
 ```
+If `--failing` lists posts, fix them first (they are blocked from going live). Then, as
+QA backlog work, fact-check **one** older post whose QA report has a `LIVE POST, FIX` or
+`facts not verified` warning: verify it against its sources, fix it, and run `factcheck` and `qa` for it.
 If `remainingToday` is 0, stop here (no commit). Otherwise publish that many posts
 (steps 2–8 per post).
 
@@ -97,6 +101,20 @@ No H1 and no FAQ section in the body.
 `node scripts/routine.mjs audit <slug>` → fix every issue it lists and re-run until
 `score` ≥ 85 (at most 3 rounds).
 
+## 7b. QA agent (must pass before the post can go live)
+The site only publishes posts with a passing QA report (`data/qa/<slug>.json`).
+1. **Fact check (you do this):** open every source and the manufacturer pages and verify each
+   product name, model, spec, compatibility claim and safety statement in the post. Fix or
+   remove anything you can't confirm. Then record it:
+   `node scripts/routine.mjs factcheck <slug> "<what you verified, against which sources>"`
+2. **Automatic checks:** `node scripts/routine.mjs qa <slug>` → it checks prices/star
+   ratings/review counts/testing claims, required fields and lengths, FAQs, Amazon links for
+   every product, product photo vs Amazon listing, internal links (must already be live),
+   sources (https, not Amazon), SEO audit ≥ 85 and cannibalization.
+   Fix every error (`✗`) and re-run until it says `"pass": true`. Warnings (`!`) are advisory.
+   "No Amazon photo yet" is expected before the push; the Amazon refresh adds it and CI re-runs QA.
+If QA can't pass after fixes, don't publish that post: leave it out of the commit.
+
 ## 8. Finalize
 ```bash
 node scripts/routine.mjs finalize <slug>   # featured image, backlinks, queue/state, report
@@ -105,7 +123,7 @@ node scripts/routine.mjs finalize <slug>   # featured image, backlinks, queue/st
 ## 9. Validate and publish
 ```bash
 npm run check:content && npm run build
-git add -A src/content data public/images
+git add -A src/content data public/images  # includes data/qa
 git commit -m "content: <post title>"
 git push origin HEAD:"$DEFAULT"
 ```

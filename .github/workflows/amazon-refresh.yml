@@ -38,6 +38,13 @@ jobs:
           AMAZON_CREATORS_CREDENTIAL_SECRET: ${{ secrets.AMAZON_CREATORS_CREDENTIAL_SECRET }}
           AMAZON_CREATORS_VERSION: ${{ vars.AMAZON_CREATORS_VERSION }}
         run: npm run amazon:refresh
+      - name: QA agent (all posts, with online checks)
+        env:
+          AMAZON_TAG: ${{ vars.AMAZON_TAG }}
+          AMAZON_CREATORS_CREDENTIAL_ID: ${{ secrets.AMAZON_CREATORS_CREDENTIAL_ID }}
+          AMAZON_CREATORS_CREDENTIAL_SECRET: ${{ secrets.AMAZON_CREATORS_CREDENTIAL_SECRET }}
+          AMAZON_CREATORS_VERSION: ${{ vars.AMAZON_CREATORS_VERSION }}
+        run: node scripts/qa.mjs --all --online
       - name: Validate and build
         run: |
           npm run check:content
@@ -48,7 +55,7 @@ jobs:
           if [ -z "$(git status --porcelain)" ]; then echo "No changes."; echo "changed=false" >> "$GITHUB_OUTPUT"; exit 0; fi
           git config user.name "rentersmarthome-agents"
           git config user.email "agents@users.noreply.github.com"
-          git add src/content
+          git add src/content data/qa
           git commit -m "content: daily Amazon product refresh"
           git push
           echo "changed=true" >> "$GITHUB_OUTPUT"

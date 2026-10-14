@@ -1,0 +1,12 @@
+{
+  "slug": "best-voice-assistant-speaker-for-small-apartments",
+  "pass": true,
+  "checkedAt": "2026-10-14T13:04:30.561Z",
+  "errors": [],
+  "warnings": [
+    "LIVE POST, FIX: facts not verified yet: check every product spec and claim against the sources, then run `node scripts/routine.mjs factcheck <slug> \"<notes>\"`"
+  ],
+  "factCheck": {
+    "verified": false
+  }
+}

@@ -26,9 +26,10 @@ export async function refreshAmazon() {
     for (const p of post.data.products) {
       try {
         if (p.asin && live.has(p.asin)) {
-          const { image, gallery } = live.get(p.asin);
-          if (JSON.stringify(image) !== JSON.stringify(p.image) || JSON.stringify(gallery ?? []) !== JSON.stringify(p.gallery ?? [])) {
+          const { image, gallery, title } = live.get(p.asin);
+          if (JSON.stringify(image) !== JSON.stringify(p.image) || JSON.stringify(gallery ?? []) !== JSON.stringify(p.gallery ?? []) || (title && title !== p.amazonTitle)) {
             p.image = image;
+            if (title) p.amazonTitle = title;
             p.gallery = gallery ?? [];
             dirty = true;
           }
@@ -37,6 +38,7 @@ export async function refreshAmazon() {
           if (hit) {
             p.asin = hit.asin;
             p.image = hit.image;
+            if (hit.title) p.amazonTitle = hit.title;
             p.gallery = hit.gallery ?? [];
             dirty = true;
           }

@@ -7,7 +7,7 @@ const tokens = (s) => new Set(s.toLowerCase().replace(/[^a-z0-9]+/g, ' ').split(
 /** A heading matches a product if it contains the full name, or if every word of
  *  its subject (the part before ":") appears in the product name, e.g.
  *  "Tapo P125M: best budget" → "Tapo Mini Smart Wi-Fi Plug with Matter (P125M)". */
-function matches(headingText, name) {
+export function matches(headingText, name) {
   const h = headingText.toLowerCase();
   if (h.includes(name.toLowerCase())) return true;
   const subject = [...tokens(h.split(':')[0])];
