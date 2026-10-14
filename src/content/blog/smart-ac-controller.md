@@ -161,7 +161,7 @@ sources:
       https://oldsupport.sensibo.com/en-US/sensibo-air-pro-technical-specs-606505
   - title: 'Tom''s Guide: Sensibo Sky review'
     url: 'https://www.tomsguide.com/us/sensibo-sky%2Creview-5683.html'
-reviewedDate: '2026-10-13T00:00:00.000Z'
+reviewedDate: '2026-10-14T00:00:00.000Z'
 faqs:
   - q: What does a smart AC controller do?
     a: >-

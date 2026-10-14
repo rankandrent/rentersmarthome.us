@@ -64,7 +64,7 @@ Return ONLY a \`\`\`json block: {"products":[{"name":"","brand":"","query":"","a
   // Verify each product against the live Amazon catalog: real ASIN + product image.
   for (const p of out) {
     try {
-      const hit = await matchProduct(p.name, p.query);
+      const hit = await matchProduct(p.name, p.query, p.brand);
       if (hit) {
         p.asin = hit.asin;
         p.image = hit.image;

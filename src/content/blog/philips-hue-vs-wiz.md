@@ -165,7 +165,7 @@ sources:
   - title: 'Matter-smarthome: Philips Hue and WiZ will support Matter'
     url: >-
       https://matter-smarthome.de/en/news-en/philips-hue-and-wiz-will-support-matter/
-reviewedDate: '2026-10-13T00:00:00.000Z'
+reviewedDate: '2026-10-14T00:00:00.000Z'
 faqs:
   - q: Is Philips Hue better than WiZ?
     a: >-

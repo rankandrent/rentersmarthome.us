@@ -1,10 +1,9 @@
 {
   "slug": "smart-home-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-14T13:04:30.640Z",
+  "checkedAt": "2026-10-14T13:15:33.725Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: facts not verified yet: check every product spec and claim against the sources, then run `node scripts/routine.mjs factcheck <slug> \"<notes>\"`",
     "product \"Kasa Smart Plug Mini with Matter (KP125M)\" has no \"### Kasa Smart Plug Mini with Matter (KP125M): ...\" section, so it gets a card instead",
     "product \"Philips Hue White and Color Ambiance Starter Kit\" has no \"### Philips Hue White and Color Ambiance Starter Kit: ...\" section, so it gets a card instead",
     "product \"SwitchBot Bot Smart Switch Button Pusher\" has no \"### SwitchBot Bot Smart Switch Button Pusher: ...\" section, so it gets a card instead",
@@ -12,6 +11,8 @@
     "no semantic brief (data/briefs), SEO audit skipped"
   ],
   "factCheck": {
-    "verified": false
+    "verified": true,
+    "notes": "2026-10-14: Kasa KP125M Matter + energy monitoring; Philips Hue Bridge Zigbee with Matter support; SwitchBot Bot presses rocker switches/buttons, battery powered, remote needs hub; Sensibo Air works with IR-remote ACs, Sensibo Plus subscription for advanced features; Matter backed by Amazon, Google, Apple, Samsung. Cross-checked against manufacturer pages and the posts' sources.",
+    "at": "2026-10-14T13:15:28.889Z"
   }
 }

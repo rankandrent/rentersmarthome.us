@@ -81,8 +81,8 @@ products:
     query: eufy Video Doorbell S220 battery
     badge: Best battery value
     summary: >-
-      A battery video doorbell from eufy's line that saves clips locally, a good
-      fit for renters who want no wiring and no subscription.
+      A battery video doorbell that saves clips locally on eufy's HomeBase, a
+      good fit for renters who want no wiring and no subscription.
     renterNote: Battery powered; pair it with a no-drill mount where your frame allows.
     pros:
       - Local storage with no monthly fee
@@ -90,26 +90,7 @@ products:
       - Simple eufy app
     cons:
       - Single camera
-      - Check whether your kit includes the HomeBase for storage
-    asin: B0FL7BJP5Q
-    image:
-      url: 'https://m.media-amazon.com/images/I/41n8USAcz9L._SL500_.jpg'
-      width: 500
-      height: 500
-    gallery:
-      - url: 'https://m.media-amazon.com/images/I/5165jfSvnbL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/31GnIwJDMJL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/41CjTu3ECdL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/41f0kyhVs5L._SL500_.jpg'
-        width: 500
-        height: 500
-    amazonTitle: REACELL E340 Battery Compatible with eufy Video Doorbell E340
+      - Needs a eufy HomeBase; check whether your kit includes one
   - name: Tapo D210
     brand: TP-Link Tapo
     query: Tapo D210 video doorbell battery
@@ -205,7 +186,7 @@ The [eufy Video Doorbell E340](amzn:eufy+Video+Doorbell+E340+dual+camera) is the
 
 ### eufy Video Doorbell S220: best battery value
 
-The [eufy Video Doorbell S220](amzn:eufy+Video+Doorbell+S220+battery) is a simpler battery doorbell from eufy with local storage and no monthly fee. Before you buy, check whether the bundle includes eufy's HomeBase, since some eufy doorbells store clips on that indoor hub rather than the doorbell itself.
+The [eufy Video Doorbell S220](amzn:eufy+Video+Doorbell+S220+battery) is a simpler battery doorbell from eufy with local storage and no monthly fee. It stores clips on eufy's HomeBase, an indoor hub, rather than on the doorbell itself, so check whether your bundle includes one.
 
 ### Tapo D210: best budget pick
 

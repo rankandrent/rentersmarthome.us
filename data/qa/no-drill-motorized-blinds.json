@@ -1,12 +1,14 @@
 {
   "slug": "no-drill-motorized-blinds",
   "pass": true,
-  "checkedAt": "2026-10-14T13:04:30.609Z",
+  "checkedAt": "2026-10-14T13:15:33.685Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: facts not verified yet: check every product spec and claim against the sources, then run `node scripts/routine.mjs factcheck <slug> \"<notes>\"`"
+    "product \"Graywind No Drill Motorized Roller Shades\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
-    "verified": false
+    "verified": true,
+    "notes": "2026-10-14: SwitchBot Blind Tilt fits tilt wands, rechargeable with optional solar panel, Matter/voice via SwitchBot hub; SwitchBot Curtain 3 rides rods/tracks, hub for remote/voice (switch-bot.com). Graywind 2-inch depth, silicone pad and voice-assistant claims could not be verified, so they were removed or replaced with check-the-listing guidance. Wrong Amazon listing (LICHTDIM24) cleared.",
+    "at": "2026-10-14T13:15:28.489Z"
   }
 }

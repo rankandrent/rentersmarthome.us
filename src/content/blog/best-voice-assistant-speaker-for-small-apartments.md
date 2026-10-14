@@ -92,27 +92,6 @@ products:
     cons:
       - Fewer smart home extras than the Echo Dot
       - 'Sound is fine for voice and podcasts, thinner for music'
-    asin: B09B8V1LZ3
-    image:
-      url: 'https://m.media-amazon.com/images/I/315PBUzfZiL._SL500_.jpg'
-      width: 313
-      height: 500
-    gallery:
-      - url: 'https://m.media-amazon.com/images/I/31vkCUuIWCL._SL500_.jpg'
-        width: 313
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/41NkdsdZ3OL._SL500_.jpg'
-        width: 313
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/41zlK85Vc4L._SL500_.jpg'
-        width: 313
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/41B464fZINL._SL500_.jpg'
-        width: 313
-        height: 500
-    amazonTitle: >-
-      Amazon Echo Dot (newest model) - Vibrant sounding speaker, Designed for
-      Alexa+, Great for bedrooms, dining rooms and offices, Charcoal
   - name: Google Nest Mini
     brand: Google
     query: Google Nest Mini 2nd Gen

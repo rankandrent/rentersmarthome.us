@@ -1,13 +1,15 @@
 {
   "slug": "best-peephole-camera-for-apartments",
   "pass": true,
-  "checkedAt": "2026-10-14T13:04:30.521Z",
+  "checkedAt": "2026-10-14T13:15:33.583Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: facts not verified yet: check every product spec and claim against the sources, then run `node scripts/routine.mjs factcheck <slug> \"<notes>\"`",
+    "product \"Blink Mini 2\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "no semantic brief (data/briefs), SEO audit skipped"
   ],
   "factCheck": {
-    "verified": false
+    "verified": true,
+    "notes": "2026-10-14: Ring Peephole Cam knock detection, rechargeable Quick Release battery, original replaced by Peephole Cam 2K (Ring support, security.org); battery wording softened; Ring Battery Doorbell removable-battery claim removed; Wyze Cam v4 microSD up to 256GB and magnetic base, Cam Plus for AI detection (wyze.com); Blink Mini 2 local storage via Sync Module 2 + USB (Blink support). Blink Mini 2K+ listing cleared for re-match.",
+    "at": "2026-10-14T13:15:27.710Z"
   }
 }

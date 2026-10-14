@@ -165,7 +165,7 @@ sources:
     url: 'https://getmysa.com/blogs/all/best-smart-thermostat-without-c-wire'
   - title: 'Brinks Home: Smart thermostats for renters'
     url: 'https://brinkshome.com/smartcenter/smart-thermostats-for-renters'
-reviewedDate: '2026-10-13T00:00:00.000Z'
+reviewedDate: '2026-10-14T00:00:00.000Z'
 faqs:
   - q: Can I install a smart thermostat in my apartment?
     a: >-

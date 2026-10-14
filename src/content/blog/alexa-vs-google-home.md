@@ -6,6 +6,7 @@ description: >-
   compatibility, Matter, subscriptions and the best speaker to start with as a
   renter.
 pubDate: '2026-10-13T19:56:00.000Z'
+updatedDate: '2026-10-14T13:16:00.000Z'
 category: hubs-voice
 keyword: alexa vs google home
 secondaryKeywords:
@@ -102,27 +103,6 @@ products:
         Advanced Gemini features like camera history search need Google Home
         Premium
       - Fewer compatible devices than Alexa overall
-    asin: B0HDLK5T8Y
-    image:
-      url: 'https://m.media-amazon.com/images/I/41FtMvwcGvL._SL500_.jpg'
-      width: 500
-      height: 500
-    gallery:
-      - url: 'https://m.media-amazon.com/images/I/51+4PBbvJML._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/41leaCWOTDL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/51hzru4fJ+L._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/5171xMckCvL._SL500_.jpg'
-        width: 500
-        height: 500
-    amazonTitle: >-
-      Real Wood Stand for Google Premium Audio Speaker/Home Speaker
-      2026,(Walnut)
   - name: Amazon Echo Studio (2nd Gen)
     brand: Amazon
     query: Amazon Echo Studio 2nd Gen
@@ -171,7 +151,7 @@ sources:
     url: 'https://www.the-ambient.com/versus/alexa-plus-vs-gemini/'
   - title: 'Matter Alpha: Echo Dot Max specifications'
     url: 'https://www.matteralpha.com/amazon/echo-dot-max-p3468'
-reviewedDate: '2026-10-13T00:00:00.000Z'
+reviewedDate: '2026-10-14T00:00:00.000Z'
 faqs:
   - q: Is Alexa or Google Home better in 2026?
     a: >-
@@ -223,7 +203,7 @@ This comparison covers how Alexa+ and Gemini for Home differ in 2026, which smar
 | --- | --- | --- |
 | AI assistant | Alexa+ | Gemini for Home |
 | Strength | Multi-step tasks and routines | Natural conversation and answers |
-| Compatible devices | Largest catalog (Amazon cites 140,000+) | Smaller catalog (roughly 50,000 per comparison sites) |
+| Compatible devices | Largest catalog of compatible devices | Smaller catalog, narrowed by Matter |
 | Subscription | Included with Amazon Prime; paid plan without it | Core features free; Google Home Premium for advanced AI |
 | Matter and Thread | Supported on hub-equipped Echo devices | Supported on Google Home Speaker and Nest hubs |
 | Best for | Prime, Ring and Fire TV households | Android, Gmail and Nest camera households |
@@ -238,7 +218,7 @@ Gemini for Home is Google's Gemini-based assistant for Google Home devices. Gemi
 
 ## Device compatibility and Matter support
 
-**Alexa works with more smart home devices, but Matter has narrowed the gap for the products renters actually buy.** Amazon says Alexa works with more than 140,000 devices, while comparison sites put Google Home at roughly 50,000. For older Wi-Fi gadgets that is a real difference.
+**Alexa works with more smart home devices, but Matter has narrowed the gap for the products renters actually buy.** Alexa has long had the bigger catalog of compatible gadgets, and for older Wi-Fi devices that is still a real difference.
 
 Matter changes the picture. Matter is the shared standard from Amazon, Google, Apple and Samsung, and a Matter device works with any Matter controller. That means a [Matter smart plug](/blog/best-matter-smart-plugs/) or a Matter-compatible smart lock works with Alexa and Google Home alike.
 

@@ -1,13 +1,16 @@
 {
   "slug": "best-smart-lock-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-14T13:04:30.534Z",
+  "checkedAt": "2026-10-14T13:15:33.595Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: facts not verified yet: check every product spec and claim against the sources, then run `node scripts/routine.mjs factcheck <slug> \"<notes>\"`",
+    "product \"SwitchBot Lock Pro\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Aqara Smart Lock U200\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "no semantic brief (data/briefs), SEO audit skipped"
   ],
   "factCheck": {
-    "verified": false
+    "verified": true,
+    "notes": "2026-10-14: Yale Approach retrofit, auto-unlock, Yale Keypad (Yale store, CEPro, Nasdaq release); SwitchBot Lock Pro AA batteries, Matter via Hub 2/Hub Mini Matter, Keypad Touch sold separately (switch-bot.com); Aqara U200 retrofit, Matter over Thread, Apple Home Key, keypad included (MacRumors, homekitnews); August Wi-Fi 4th Gen built-in Wi-Fi, DoorSense, CR123. Wrong Amazon listings (Lock Vision Pro, U400) cleared for re-match.",
+    "at": "2026-10-14T13:15:27.379Z"
   }
 }

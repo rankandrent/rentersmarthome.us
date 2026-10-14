@@ -1,13 +1,14 @@
 {
   "slug": "best-matter-smart-plugs",
   "pass": true,
-  "checkedAt": "2026-10-14T13:04:30.520Z",
+  "checkedAt": "2026-10-14T13:15:33.581Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: facts not verified yet: check every product spec and claim against the sources, then run `node scripts/routine.mjs factcheck <slug> \"<notes>\"`",
     "no semantic brief (data/briefs), SEO audit skipped"
   ],
   "factCheck": {
-    "verified": false
+    "verified": true,
+    "notes": "2026-10-14: Kasa KP125M Matter with energy monitoring (Amazon listing title KP125MP2 with Energy Monitoring, TP-Link); Tapo P125M Matter, no energy monitoring; Eve Energy Matter over Thread with energy metering; Meross Matter Smart Plug Mini Wi-Fi; Thread border routers in Apple TV/HomePod, Echo hubs, Nest hubs. All claims are general platform facts; no prices or ratings.",
+    "at": "2026-10-14T13:15:28.143Z"
   }
 }

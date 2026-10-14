@@ -198,7 +198,7 @@ sources:
     url: 'https://www.evehome.com/'
   - title: Meross
     url: 'https://www.meross.com/'
-reviewedDate: '2026-10-13T00:00:00.000Z'
+reviewedDate: '2026-10-14T00:00:00.000Z'
 faqs:
   - q: What is a Matter smart plug?
     a: >-

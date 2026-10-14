@@ -18,6 +18,7 @@ import { listPosts } from './lib/store.mjs';
 import { findCannibal } from './lib/cannibal.mjs';
 import { audit } from './seo-agent.mjs';
 import { matches } from '../src/lib/remark-product-figures.mjs';
+import { productMatches } from './lib/product-match.mjs';
 import { amazonTag } from '../src/lib/affiliate.mjs';
 
 export const QA_DIR = path.join(DATA_DIR, 'qa');
@@ -127,8 +128,9 @@ export async function qaPost(post, { posts = listPosts(), online = false, live =
     if (!amznLinks.some((q) => linkMatches(q, p))) err(`${label} has no Amazon link in the body`);
     if (!h3s.some((h) => matches(h, p.name))) warn(`${label} has no "### ${p.name}: ..." section, so it gets a card instead`);
     if (!p.image?.url) warn(`${label} has no Amazon photo yet (the Amazon refresh adds it after push)`);
-    if (p.image?.url && p.amazonTitle && overlap(p.name, p.amazonTitle) < 0.5) {
-      err(`${label} may show the wrong product: Amazon listing is "${p.amazonTitle.slice(0, 90)}"`);
+    if (p.asin && p.amazonTitle) {
+      const m = productMatches(p.name, p.amazonTitle, p.brand);
+      if (!m.ok) err(`${label} is linked to a different Amazon listing ("${p.amazonTitle.slice(0, 80)}"${m.accessory ? `, an accessory` : `, missing ${m.missing.join(', ')}`}); clear its asin so the refresh re-matches it`);
     }
   }
   for (const q of amznLinks) {

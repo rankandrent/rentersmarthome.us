@@ -204,7 +204,7 @@ sources:
     url: 'https://sensibo.com/'
   - title: Kasa Smart
     url: 'https://www.kasasmart.com/'
-reviewedDate: '2026-10-13T00:00:00.000Z'
+reviewedDate: '2026-10-14T00:00:00.000Z'
 faqs:
   - q: Can renters have a smart home?
     a: >-

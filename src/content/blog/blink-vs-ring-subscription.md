@@ -93,28 +93,6 @@ products:
     cons:
       - Smart alerts and cloud clips need a Blink plan
       - Indoor view only unless you add Blink's weather adapter
-    asin: B0F3BJJ9DJ
-    image:
-      url: 'https://m.media-amazon.com/images/I/21aX8NdoPlL._SL500_.jpg'
-      width: 313
-      height: 500
-    gallery:
-      - url: 'https://m.media-amazon.com/images/I/31+6KY5zR8L._SL500_.jpg'
-        width: 313
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/41JSrAz4JHL._SL500_.jpg'
-        width: 313
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/31FOIDxE+ML._SL500_.jpg'
-        width: 313
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/4183b6a2ePL._SL500_.jpg'
-        width: 313
-        height: 500
-    amazonTitle: >-
-      Blink Mini 2K+ (newest model) – Plug-in Home & Pet Indoor Security Camera
-      with 2K video resolution, night vision, enhanced audio, motion detection –
-      2 cameras (White)
   - name: Blink Sync Module 2
     brand: Blink
     query: Blink Sync Module 2
@@ -158,7 +136,7 @@ sources:
     url: 'https://ring.com/'
   - title: Blink (manufacturer)
     url: 'https://blinkforhome.com/'
-reviewedDate: '2026-10-13T00:00:00.000Z'
+reviewedDate: '2026-10-14T00:00:00.000Z'
 faqs:
   - q: Is Ring or Blink better?
     a: >-

@@ -6,6 +6,7 @@
 // Partner tag = your Associates tracking ID (AMAZON_TAG / site.config.json).
 import { log } from './config.mjs';
 import { amazonTag } from '../../src/lib/affiliate.mjs';
+import { productMatches } from './product-match.mjs';
 
 const API = 'https://creatorsapi.amazon/catalog/v1';
 const MARKETPLACE = 'www.amazon.com';
@@ -102,17 +103,12 @@ export async function getItems(asins) {
 
 const words = (s) => new Set(s.toLowerCase().replace(/[^a-z0-9 ]/g, ' ').split(/\s+/).filter((w) => w.length > 1));
 
-/** Find the listing that best matches a researched product name (token overlap). */
-export async function matchProduct(name, query) {
+/** Find the listing for a researched product: the most relevant search result
+ *  whose title passes the strict product match (brand, model, no accessories). */
+export async function matchProduct(name, query, brand = '') {
   const items = await searchItems(query);
-  const target = words(name);
-  let best = null;
-  for (const it of items) {
-    const t = words(`${it.brand} ${it.title}`);
-    const overlap = [...target].filter((w) => t.has(w)).length / Math.max(1, target.size);
-    if (!best || overlap > best.overlap) best = { ...it, overlap };
-  }
-  if (best && best.overlap >= 0.6) return best;
-  log('amazon', `no confident match for "${name}" (best ${best?.overlap?.toFixed(2) ?? 'none'})`);
+  const hit = items.find((it) => productMatches(name, it.title, brand).ok);
+  if (hit) return hit;
+  log('amazon', `no exact listing for "${name}" (top result: "${items[0]?.title?.slice(0, 80) ?? 'none'}")`);
   return null;
 }

@@ -14,7 +14,7 @@ secondaryKeywords:
 entities:
   - heavy duty adhesive hooks
   - Command Jumbo Utility Hook
-  - Command Heavyweight Hook
+  - Command Large Utility Hook
   - 3M CLAW Drywall Picture Hanger
   - Command strips
   - weight rating
@@ -29,7 +29,7 @@ funnel: mofu
 readingTime: 6
 tldr:
   - >-
-    Command's large hooks are the safest heavy duty adhesive hooks for renters
+    Command's Jumbo and Large utility hooks are the safest heavy duty adhesive hooks for renters
     because their strips are designed to remove cleanly from painted walls.
   - Always check the weight rating on the package and stay under it.
   - >-
@@ -76,43 +76,21 @@ products:
       Command 7.5 lb Jumbo Utility Hook, 2 Hooks and 4 Strips, Damage Free
       Hanging Wall Hooks with Adhesive Strips, No Tools Adhesive Hooks for
       Hanging, Organization and Storage
-  - name: Command Heavyweight Hook
+  - name: Command Large Utility Hook
     brand: Command
-    query: Command Heavyweight Hook
-    badge: Best for heavier loads
+    query: Command Large Utility Hooks
+    badge: Best everyday hook
     summary: >-
-      One of Command's highest-rated hooks for heavier everyday items; check the
-      package for its exact weight rating.
+      Command's large utility hook, rated for 5 lb, sold in multi-packs for
+      towels, bags and everyday items around the apartment.
     renterNote: 'Best on smooth, painted walls; let the strip set before loading.'
     pros:
-      - Higher weight rating than standard hooks
+      - 5 lb rating per hook
       - Removable strips
-      - Reusable hook with new strips
+      - Value multi-packs
     cons:
       - Wait time before hanging anything
-      - 'Ratings vary by model, so read the label'
-    asin: B0CZS6BMD3
-    image:
-      url: 'https://m.media-amazon.com/images/I/41sCLj9lBWL._SL500_.jpg'
-      width: 500
-      height: 500
-    gallery:
-      - url: 'https://m.media-amazon.com/images/I/51qoKJuRW9L._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/51w-CO4D4BL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/41sYLlxdwXL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/41bI59opO-L._SL500_.jpg'
-        width: 500
-        height: 500
-    amazonTitle: >-
-      Command X-Large Black Triple Hooks, 1 Hook, 3 Strips | Heavy Duty,
-      Damage-Free Hanging with Adhesive Strips, No Tools Wall Hook for Hanging
-      Decorations, Holds up to 10 lb
+      - Lower rating than the Jumbo hook
   - name: 3M CLAW Drywall Picture Hanger
     brand: 3M
     query: 3M CLAW Drywall Picture Hanger
@@ -170,7 +148,7 @@ faqs:
   - q: How do you remove Command hooks without damage?
     a: >-
       Hold the hook, then slowly stretch the strip's pull tab straight down
-      along the wall, at least 12 inches, until it releases. Never pull it
+      along the wall, as far as the package directs, until it releases. Never pull it
       toward you.
   - q: Do adhesive hooks work in bathrooms?
     a: >-
@@ -187,7 +165,7 @@ heroAlt: >-
   buying guide
 ---
 
-Heavy duty adhesive hooks are the renter's version of a hammer and nails. **The best heavy duty adhesive hooks for renters are Command's large hooks, like the Command Jumbo Utility Hook and the Command Heavyweight Hook, because their strips are designed to come off painted walls cleanly.** For anything heavier, the 3M CLAW Drywall Picture Hanger leaves only a pinhole.
+Heavy duty adhesive hooks are the renter's version of a hammer and nails. **The best heavy duty adhesive hooks for renters are Command's large hooks, like the Command Jumbo Utility Hook (7.5 lb) and the Command Large Utility Hook (5 lb), because their strips are designed to come off painted walls cleanly.** For anything heavier, the 3M CLAW Drywall Picture Hanger leaves only a pinhole.
 
 Nail holes are one of the most common deposit deductions renters face. In this guide I'll cover the hooks we'd use, the weight limits that matter, and the exact way to remove them so the paint stays put. Our [renter checklist](/renter-checklist/) covers the rest of the move-in list.
 
@@ -198,18 +176,18 @@ Nail holes are one of the most common deposit deductions renters face. In this g
 | Hook | Best for | Leaves a hole? | Surfaces |
 | --- | --- | --- | --- |
 | Command Jumbo Utility Hook | Coats, bags, backpacks | No | Smooth painted walls, tile |
-| Command Heavyweight Hook | Heavier everyday items | No | Smooth painted walls |
+| Command Large Utility Hook | Towels, bags, everyday items | No | Smooth painted walls, tile |
 | 3M CLAW Drywall Picture Hanger | Mirrors and heavy art | Pinhole | Drywall only |
 
 ## Our heavy duty adhesive hook picks
 
 ### Command Jumbo Utility Hook: best overall
 
-The [Command Jumbo Utility Hook](amzn:Command+Jumbo+Utility+Hook) is the hook we'd put by the front door. It's big enough for a winter coat or a bag, and the strip releases when you stretch its tab down. Keep spare strips; the hook is reusable but each strip is single-use.
+The [Command Jumbo Utility Hook](amzn:Command+Jumbo+Utility+Hook) is the hook we'd put by the front door. It is rated for 7.5 lb, enough for a winter coat or a bag, and the strip releases when you stretch its tab down. Keep spare strips; the hook is reusable but each strip is single-use.
 
-### Command Heavyweight Hook: best for heavier loads
+### Command Large Utility Hook: best everyday hook
 
-The [Command Heavyweight Hook](amzn:Command+Heavyweight+Hook) is for heavier everyday items. Command's ratings vary by model, so read the weight rating on the package and stay comfortably below it.
+The [Command Large Utility Hook](amzn:Command+Large+Utility+Hooks) is rated for 5 lb, which covers towels, tote bags and most everyday items. Multi-packs make it easy to outfit a whole apartment, and the hooks can be reused with replacement strips.
 
 ### 3M CLAW Drywall Picture Hanger: best for mirrors and art
 
@@ -222,17 +200,17 @@ The [3M CLAW Drywall Picture Hanger](amzn:3M+CLAW+Drywall+Picture+Hanger) is wha
 1. **Check the surface:** smooth painted drywall, tile, glass or wood work best.
 2. **Clean with rubbing alcohol**, not household cleaners, and let it dry.
 3. **Press the hook firmly** for about 30 seconds.
-4. **Wait before loading:** Command recommends waiting about an hour before hanging anything.
+4. **Wait before loading:** check the package for how long the strip needs to bond before you hang anything.
 5. **Stay under the weight rating** printed on the package.
 
-Avoid wallpaper, fresh paint (wait about a week), brick, and heavily textured walls. In a steamy bathroom, use bathroom-specific strips and keep hooks out of direct spray.
+Avoid wallpaper, fresh paint (wait about seven days for paint to cure), brick, and heavily textured walls, and mount in rooms between about 50 and 105°F. In a steamy bathroom, use bathroom-specific strips and keep hooks out of direct spray.
 
 ## How to remove adhesive hooks without damage
 
 **Stretch the pull tab slowly and straight down along the wall, never outward.** Pulling toward you is what tears paint.
 
 - Hold the hook lightly with one hand.
-- Pull the tab down, parallel to the wall, at least 12 inches.
+- Pull the tab down, parallel to the wall, as far as the package directs.
 - If the tab snaps, slide dental floss behind the strip and saw gently, or warm it with a hair dryer.
 - Wipe any residue with rubbing alcohol.
 

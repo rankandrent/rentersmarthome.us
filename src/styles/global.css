@@ -403,3 +403,7 @@ h3 { font-size: var(--s1); letter-spacing: -.01em; }
 .section-photo img { max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; }
 .section-photo figcaption { padding: 10px 16px; border-top: 1px solid var(--rule); font-size: .9rem; line-height: 1.45; background: var(--paper); }
 @media (max-width: 640px) { .section-photo a { height: 260px; } }
+.updated-list { list-style: none; margin: 0; padding: 0; max-width: 860px; }
+.updated-list li { display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; padding: 12px 0; border-top: 1px solid var(--rule); }
+.updated-list a { font-family: var(--display); font-weight: 700; color: var(--ink); text-decoration: none; }
+.updated-list a:hover { text-decoration: underline; }

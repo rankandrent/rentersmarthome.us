@@ -7,6 +7,11 @@ import { SITE, CATEGORY_ICON, absUrl } from '../lib/site';
 
 const posts = await getPublishedPosts();
 const [leadPost, ...rest] = posts;
+// Older guides we re-checked and actually changed recently (real updates only).
+const recentlyUpdated = posts
+  .filter((p) => p.data.updatedDate && p.data.updatedDate.getTime() > Date.now() - 30 * 86400000)
+  .sort((a, b) => b.data.updatedDate!.getTime() - a.data.updatedDate!.getTime())
+  .slice(0, 5);
 const counts = Object.fromEntries(SITE.categories.map((c) => [c.slug, posts.filter((p) => p.data.category === c.slug).length]));
 
 const jsonLd: object[] = [];
@@ -72,6 +77,24 @@ const jsonLd: object[] = [];
       ) : <p class="empty">The first guides publish this week.</p>}
     </div>
   </section>
+
+  {recentlyUpdated.length > 0 && (
+    <section class="section">
+      <div class="wrap">
+        <div class="section-head">
+          <div><h2>Recently re-checked</h2><p class="muted">Guides we re-verified against their sources and updated.</p></div>
+        </div>
+        <ul class="updated-list">
+          {recentlyUpdated.map((p) => (
+            <li>
+              <a href={`/blog/${p.id}/`}>{p.data.title}</a>
+              <span class="muted">Updated <time datetime={p.data.updatedDate!.toISOString()}>{p.data.updatedDate!.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'UTC' })}</time></span>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  )}
 
   <section class="section">
     <div class="wrap">

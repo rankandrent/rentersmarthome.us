@@ -34,7 +34,7 @@ export async function refreshAmazon() {
             dirty = true;
           }
         } else if (!p.asin) {
-          const hit = await matchProduct(p.name, p.query);
+          const hit = await matchProduct(p.name, p.query, p.brand);
           if (hit) {
             p.asin = hit.asin;
             p.image = hit.image;

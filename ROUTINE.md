@@ -9,6 +9,10 @@ they skip the volume cap and the cannibalization check, and `next` serves them f
 `duplicateOf` share intent with a live post, so they're queued last; give them a distinct angle from that post.
 
 **Rules that always apply**
+- Keep it natural, with something genuinely new for crawlers every day: a new post on most days
+  (random times, quota 0-2), plus the daily QA backlog re-check of one older post. When the re-check
+  changes the post's content, set `updatedDate` to now and `reviewedDate` to today; if nothing changed,
+  set only `reviewedDate`. Never bump dates, reorder text or make cosmetic edits just to look fresh.
 - Posts go live at random times of day: always use the `slots` times as pubDate, never the current time.
 - Never publish more than the day's quota (`remainingToday`, at most 2 posts per day). The site owner does not want
   batches of posts going live at once, so never publish 5 (or several) posts in one go, even if asked by a scheduled prompt.
