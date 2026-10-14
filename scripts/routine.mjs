@@ -3,6 +3,7 @@
 // that the API-driven agents would otherwise do.
 //
 //   node scripts/routine.mjs status                 today's quota, queue size
+//   node scripts/routine.mjs slots                  random go-live times (pubDate) for today's remaining posts
 //   node scripts/routine.mjs next                   next keyword to write (skips over-cap / cannibalizing ones)
 //   node scripts/routine.mjs cannibal "<keyword>"   check a keyword against existing posts
 //   node scripts/routine.mjs links <slug>           internal-link candidates
@@ -13,7 +14,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { DATA_DIR, SITE } from '../agents/lib/config.mjs';
 import { loadQueue, saveQueue, loadState, saveState, listPosts, saveReport } from '../agents/lib/store.mjs';
-import { localNow, quotaFor } from '../agents/lib/schedule.mjs';
+import { localNow, quotaFor, releaseTimes } from '../agents/lib/schedule.mjs';
 import { slugify } from '../agents/lib/nlp.mjs';
 import { audit, pickLinkTargets, addBacklinks } from '../agents/seo-agent.mjs';
 import { nextKeyword, collectSources } from '../agents/orchestrator.mjs';
@@ -48,6 +49,17 @@ if (cmd === 'status') {
     remainingToday: Math.max(0, q.quota - today),
     pendingKeywords: loadQueue().filter((k) => k.status === 'pending').length,
   });
+} else if (cmd === 'slots') {
+  // Today's posts go live at random times; use these as pubDate. The hourly
+  // "Scheduled release" workflow rebuilds the site when each one comes due.
+  const state = loadState();
+  const now = localNow();
+  const q = quotaFor(now.date, state.startDate ?? now.date);
+  const done = state.published.filter((p) => p.date === now.date).length;
+  const times = releaseTimes(now.date, q.quota).slice(done);
+  // A slot that has already passed is replaced by "a few minutes from now".
+  const soon = Date.now() + 10 * 60000;
+  out({ quotaToday: q.quota, publishedToday: done, pubDates: times.map((t) => new Date(Math.max(t.getTime(), soon)).toISOString()) });
 } else if (cmd === 'next') {
   // Skip (and park) keywords over the volume cap or that would cannibalize a post.
   const queue = loadQueue();

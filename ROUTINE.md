@@ -9,6 +9,7 @@ they skip the volume cap and the cannibalization check, and `next` serves them f
 `duplicateOf` share intent with a live post, so they're queued last; give them a distinct angle from that post.
 
 **Rules that always apply**
+- Posts go live at random times of day: always use the `slots` times as pubDate, never the current time.
 - Never publish more than the day's quota (`remainingToday`, at most 2 posts per day). The site owner does not want
   batches of posts going live at once, so never publish 5 (or several) posts in one go, even if asked by a scheduled prompt.
 - Long-tail only: target keywords with ≤ 250 searches/month (Ahrefs). Never target short-tail head terms.
@@ -80,7 +81,7 @@ Frontmatter (copy the shape of an existing post, e.g.
 `src/content/blog/best-matter-smart-plugs.md`):
 
 ```yaml
-title, seoTitle (≤60), description (140–160), pubDate (current UTC time minus a few minutes — future dates are hidden until then),
+title, seoTitle (≤60), description (140–160), pubDate (take the next unused time from `node scripts/routine.mjs slots`; posts go live at random times and the hourly Scheduled release workflow publishes each one when its time comes),
 category, keyword, secondaryKeywords, entities, tags, articleType, readingTime,
 tldr (2–4), products [name, brand, query, badge, summary, renterNote, pros, cons],
 sources [{title, url}] (manufacturer/standards pages you used, no Amazon URLs),

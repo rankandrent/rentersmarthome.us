@@ -103,7 +103,12 @@
       17,
       19,
       21
-    ]
+    ],
+    "releaseWindowLocal": {
+      "startHour": 9.5,
+      "endHour": 21.5,
+      "minGapMinutes": 90
+    }
   },
   "organization": {
     "legalName": "RenterSmartHome",

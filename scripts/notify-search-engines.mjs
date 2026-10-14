@@ -16,6 +16,7 @@ const host = new URL(SITE.url).host;
 function recentUrls() {
   const cutoff = Date.now() - recentDays * 86400000;
   const urls = listPosts()
+    .filter((p) => !p.data.draft && Date.parse(p.data.pubDate) <= Date.now())
     .filter((p) => Math.max(Date.parse(p.data.pubDate), Date.parse(p.data.updatedDate ?? 0) || 0, Date.parse(p.data.reviewedDate ?? 0) || 0) >= cutoff)
     .map((p) => `${SITE.url}/blog/${p.slug}/`);
   return [...new Set([`${SITE.url}/`, `${SITE.url}/blog/`, ...urls])];

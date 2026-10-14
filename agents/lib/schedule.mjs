@@ -56,6 +56,39 @@ export function slotsFor(quota) {
   return Array.from({ length: quota }, (_, i) => hours[Math.floor((i * hours.length) / quota)]);
 }
 
+/** UTC instant for a wall-clock time in the site timezone. */
+function zonedToUtc(date, hour, minute) {
+  const guess = Date.parse(`${date}T${String(hour).padStart(2, '0')}:${String(minute).padStart(2, '0')}:00Z`);
+  const p = Object.fromEntries(
+    new Intl.DateTimeFormat('en-CA', { timeZone: S.timezone, year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', hourCycle: 'h23' })
+      .formatToParts(new Date(guess))
+      .map((x) => [x.type, x.value]),
+  );
+  const shown = Date.parse(`${p.year}-${p.month}-${p.day}T${p.hour}:${p.minute}:00Z`);
+  return new Date(guess - (shown - guess));
+}
+
+/**
+ * Random publish times for a day's posts, so posts don't go live at the same
+ * clock time every day. Seeded by the date (every run on that day agrees),
+ * inside `releaseWindowLocal` and at least `minGapMinutes` apart.
+ */
+export function releaseTimes(date, count) {
+  const { startHour = 9.5, endHour = 21.5, minGapMinutes = 90 } = S.releaseWindowLocal ?? {};
+  const span = (endHour - startHour) * 60;
+  const out = [];
+  for (let n = 0, tries = 0; out.length < count && tries < 500; tries++, n++) {
+    const m = Math.floor(seededRandom(`${date}:${SITE.domain}:release:${n}`) * span);
+    if (out.every((x) => Math.abs(x - m) >= minGapMinutes)) out.push(m);
+  }
+  return out
+    .sort((a, b) => a - b)
+    .map((m) => {
+      const total = startHour * 60 + m;
+      return zonedToUtc(date, Math.floor(total / 60), Math.floor(total % 60));
+    });
+}
+
 export function dueNow({ date, hour }, startDate) {
   const q = quotaFor(date, startDate);
   const due = slotsFor(q.quota).filter((h) => h <= hour).length;
