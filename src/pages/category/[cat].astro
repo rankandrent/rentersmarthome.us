@@ -18,9 +18,21 @@ const jsonLd = [{
   name: category.name,
   description: category.blurb,
   url: absUrl(`/category/${category.slug}/`),
+  isPartOf: { '@id': absUrl('/#website') },
+  mainEntity: {
+    '@type': 'ItemList',
+    itemListElement: posts.map((p, i) => ({ '@type': 'ListItem', position: i + 1, url: absUrl(`/blog/${p.id}/`), name: p.data.title })),
+  },
+}, {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: absUrl('/') },
+    { '@type': 'ListItem', position: 2, name: category.name, item: absUrl(`/category/${category.slug}/`) },
+  ],
 }];
 ---
-<Base title={`${category.name} for Renters`} description={`${category.blurb} Renter-friendly ${category.name.toLowerCase()} guides, picks and how-tos.`} jsonLd={jsonLd} noindex={posts.length === 0}>
+<Base title={`${category.name} for Renters`} description={`${category.blurb} Renter-friendly ${category.name.toLowerCase()} guides, picks and how-tos.`} jsonLd={jsonLd} noindex={posts.length === 0} image={`/images/og/category-${category.slug}.png`} imageAlt={`${category.name} for renters: RenterSmartHome`} keywords={[`${category.name.toLowerCase()} for renters`, ...posts.slice(0, 4).map((p) => p.data.keyword)]}>
   <div class="wrap">
     <header class="page-head">
       <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span><span>{category.name}</span></nav>

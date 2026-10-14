@@ -13,11 +13,19 @@ interface Props {
   publishedTime?: string;
   modifiedTime?: string;
   image?: string;
+  imageAlt?: string;
+  keywords?: string[];
+  section?: string;
+  tags?: string[];
+  authorUrl?: string;
 }
-const { title, description, type = 'website', jsonLd = [], noindex = false, publishedTime, modifiedTime, image } = Astro.props;
+const { title, description, type = 'website', jsonLd = [], noindex = false, publishedTime, modifiedTime, image, imageAlt, keywords = [], section, tags = [], authorUrl } = Astro.props;
+// A handful of the page's real target phrases (no stuffing).
+const keywordList = [...new Set(keywords.map((k) => k.trim().toLowerCase()).filter(Boolean))].slice(0, 6).join(', ');
+const ogAlt = imageAlt ?? title;
 const canonical = absUrl(Astro.url.pathname);
 const fullTitle = title.includes(SITE.name) ? title : `${title} | ${SITE.name}`;
-const ogImage = absUrl(image ?? '/og-default.png');
+const ogImage = absUrl(image ?? '/images/og/home.png');
 const graph = [{ '@context': 'https://schema.org', ...organizationSchema() }, { '@context': 'https://schema.org', ...websiteSchema() }, ...jsonLd];
 ---
 <!doctype html>
@@ -27,6 +35,7 @@ const graph = [{ '@context': 'https://schema.org', ...organizationSchema() }, { 
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
+    {keywordList && <meta name="keywords" content={keywordList} />}
     <link rel="canonical" href={canonical} />
     <meta name="robots" content={noindex ? 'noindex, follow' : 'index, follow, max-image-preview:large, max-snippet:-1'} />
     <meta name="theme-color" content="#1b2430" />
@@ -42,13 +51,20 @@ const graph = [{ '@context': 'https://schema.org', ...organizationSchema() }, { 
     <meta property="og:image" content={ogImage} />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content={ogAlt} />
+    <meta property="og:image:type" content="image/png" />
     <meta property="og:locale" content="en_US" />
     {publishedTime && <meta property="article:published_time" content={publishedTime} />}
     {modifiedTime && <meta property="article:modified_time" content={modifiedTime} />}
+    {section && <meta property="article:section" content={section} />}
+    {tags.map((t) => <meta property="article:tag" content={t} />)}
+    {authorUrl && <meta property="article:author" content={authorUrl} />}
+    {type === 'article' && <meta property="article:publisher" content={SITE.url} />}
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={ogImage} />
+    <meta name="twitter:image:alt" content={ogAlt} />
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />

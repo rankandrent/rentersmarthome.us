@@ -46,6 +46,10 @@ const jsonLd: object[] = [
     datePublished: d.pubDate.toISOString(),
     dateModified: modified.toISOString(),
     articleSection: categoryName(d.category),
+    inLanguage: 'en-US',
+    isPartOf: { '@id': absUrl('/#website') },
+    wordCount: post.body?.split(/\s+/).length,
+    ...(d.reviewedDate ? { lastReviewed: d.reviewedDate.toISOString() } : {}),
     keywords: [d.keyword, ...d.secondaryKeywords].join(', '),
     about: d.entities.slice(0, 8).map((name) => ({ '@type': 'Thing', name })),
     image: { '@type': 'ImageObject', url: absUrl(hero ?? '/og-default.png'), width: 1200, height: 630 },
@@ -75,11 +79,17 @@ if (d.products.length > 1) {
     '@context': 'https://schema.org',
     '@type': 'ItemList',
     name: d.title,
-    itemListElement: d.products.map((p, i) => ({ '@type': 'ListItem', position: i + 1, name: p.name })),
+    itemListElement: d.products.map((p, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: p.name,
+      url: `${url}#pick-${p.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}`,
+      ...(p.image?.url ? { image: p.image.url } : {}),
+    })),
   });
 }
 ---
-<Base title={d.seoTitle ?? d.title} description={d.description} image={hero} type="article" jsonLd={jsonLd} publishedTime={d.pubDate.toISOString()} modifiedTime={modified.toISOString()}>
+<Base title={d.seoTitle ?? d.title} description={d.description} image={hero} imageAlt={d.heroAlt ?? d.title} keywords={[d.keyword, ...d.secondaryKeywords]} section={categoryName(d.category)} tags={d.tags} authorUrl={absUrl(authorUrl)} type="article" jsonLd={jsonLd} publishedTime={d.pubDate.toISOString()} modifiedTime={modified.toISOString()}>
   <div class="wrap">
     <header class="article-head">
       <nav class="crumbs" aria-label="Breadcrumb">

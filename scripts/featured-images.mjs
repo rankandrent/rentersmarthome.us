@@ -31,8 +31,17 @@ const ICONS = {
   plug: '<path d="M9 2v5M15 2v5"/><path d="M6 7h12v4a6 6 0 0 1-12 0V7z"/><path d="M12 17v5"/>',
   hub: '<circle cx="12" cy="12" r="3"/><path d="M6.3 6.3a8 8 0 0 0 0 11.4M17.7 6.3a8 8 0 0 1 0 11.4M3.5 3.5a12 12 0 0 0 0 17M20.5 3.5a12 12 0 0 1 0 17"/>',
   home: '<path d="M3 11l9-7 9 7"/><path d="M5 10v10h14V10"/><path d="M10 20v-5h4v5"/>',
+  shield: '<path d="M12 3l8 3v6c0 5-3.5 8-8 9-4.5-1-8-4-8-9V6l8-3z"/><path d="M9 12l2 2 4-4"/>',
+  drop: '<path d="M12 3s6 6.5 6 11a6 6 0 0 1-12 0c0-4.5 6-11 6-11z"/>',
+  box: '<path d="M3 7l9-4 9 4v10l-9 4-9-4V7z"/><path d="M3 7l9 4 9-4M12 11v10"/>',
+  desk: '<rect x="3" y="4" width="18" height="11" rx="1.5"/><path d="M8 20h8M12 15v5"/>',
+  paw: '<circle cx="7" cy="10" r="1.8"/><circle cx="11" cy="6.5" r="1.8"/><circle cx="16" cy="7.5" r="1.8"/><circle cx="18.5" cy="12" r="1.8"/><path d="M8 17.5c0-2.5 2-4.5 4.5-4.5s4 2 4 4c0 1.7-1.3 2.5-2.8 2.5-1 0-1.4-.5-2.2-.5s-1.3.5-2.3.5C9.2 19.5 8 18.8 8 17.5z"/>',
+  check: '<path d="M20 6L9 17l-5-5"/>',
 };
-const CATEGORY_ICON = { 'smart-locks': 'lock', security: 'camera', climate: 'thermo', lighting: 'bulb', 'plugs-power': 'plug', 'hubs-voice': 'hub', guides: 'home' };
+const CATEGORY_ICON = {
+  'smart-locks': 'lock', security: 'camera', climate: 'thermo', lighting: 'bulb', 'plugs-power': 'plug', 'hubs-voice': 'hub', guides: 'home',
+  'baby-proofing': 'shield', 'kitchen-bath': 'drop', 'storage-decor': 'box', 'home-office': 'desk', pets: 'paw',
+};
 const TYPE_LABEL = { roundup: 'Buying guide', review: 'Review', comparison: 'Comparison', 'how-to': 'How-to', guide: 'Renter guide' };
 
 const svgUri = (inner, color, stroke = 1.6) =>
@@ -52,9 +61,9 @@ function hash(s) {
   return x;
 }
 
-function layout({ title, category, articleType, slug }) {
-  const catName = SITE.categories.find((c) => c.slug === category)?.name ?? 'Renter guides';
-  const icon = ICONS[CATEGORY_ICON[category]] ?? ICONS.home;
+function layout({ title, category, articleType, slug, kicker, label, iconName }) {
+  const catName = kicker ?? SITE.categories.find((c) => c.slug === category)?.name ?? 'Renter guides';
+  const icon = ICONS[iconName ?? CATEGORY_ICON[category]] ?? ICONS.home;
   const tilt = (hash(slug) % 2 ? 1 : -1) * (2 + (hash(slug) % 3));
   const size = title.length > 64 ? 52 : title.length > 46 ? 58 : 66;
   const text = (t, style = {}) => h('div', style, t);
@@ -75,17 +84,29 @@ function layout({ title, category, articleType, slug }) {
       h('div', { justifyContent: 'space-between', fontFamily: 'Serif', fontSize: 17, color: C.slate, borderBottom: `2px solid ${C.rule}`, paddingBottom: 10, width: 248 }, [text('Renter-approved'), text('No drilling')]),
       h('div', { flexGrow: 1, alignItems: 'center', justifyContent: 'center' }, [img(svgUri(icon, C.ink, 1.3), 190, 190)]),
     ]),
-    text(TYPE_LABEL[articleType] ?? 'Guide', { position: 'absolute', left: 860, top: 86, background: C.tape, color: '#fff', fontSize: 26, fontWeight: 700, padding: '12px 26px', transform: `rotate(${-tilt - 1}deg)` }),
+    text(label ?? TYPE_LABEL[articleType] ?? 'Guide', { position: 'absolute', left: 860, top: 86, background: C.tape, color: '#fff', fontSize: 26, fontWeight: 700, padding: '12px 26px', transform: `rotate(${-tilt - 1}deg)` }),
   ]);
 }
 
-export async function renderFeatured(post) {
+export async function renderFeatured(post, { dir = OUT_DIR, urlBase = '/images/featured' } = {}) {
   const svg = await satori(layout(post), { width: 1200, height: 630, fonts: FONTS });
   const png = new Resvg(svg, { fitTo: { mode: 'width', value: 1200 } }).render().asPng();
-  fs.mkdirSync(OUT_DIR, { recursive: true });
-  const file = path.join(OUT_DIR, `${post.slug}.png`);
-  fs.writeFileSync(file, png);
-  return `/images/featured/${post.slug}.png`;
+  fs.mkdirSync(dir, { recursive: true });
+  fs.writeFileSync(path.join(dir, `${post.slug}.png`), png);
+  return `${urlBase}/${post.slug}.png`;
+}
+
+/** Share images for non-article pages (home, categories, tools). */
+export async function renderPageImages() {
+  const dir = path.join(ROOT, 'public/images/og');
+  const pages = [
+    { slug: 'home', title: 'Smart home gear your lease already allows', kicker: SITE.tagline ? 'Renter-friendly smart home' : 'RenterSmartHome', label: 'No drilling', iconName: 'home' },
+    { slug: 'renter-checklist', title: `The ${SITE.name} Checklist: smart home setup for renters`, kicker: 'Free renter tool', label: 'Checklist', iconName: 'check' },
+    { slug: 'blog', title: 'Every renter-friendly smart home guide', kicker: 'All guides', label: 'Guides', iconName: 'home' },
+    ...SITE.categories.map((c) => ({ slug: `category-${c.slug}`, title: `${c.name} for renters`, kicker: c.name, category: c.slug, label: 'Category' })),
+  ];
+  for (const p of pages) await renderFeatured(p, { dir, urlBase: '/images/og' });
+  return pages.length;
 }
 
 /** Generate (if missing) and attach the featured image to a post's frontmatter. */
@@ -102,4 +123,5 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
   let n = 0;
   for (const post of listPosts()) if (await ensureFeatured(post, { force })) n++;
   console.log(`featured images: ${n} generated`);
+  if (process.argv.includes('--pages')) console.log(`page share images: ${await renderPageImages()}`);
 }

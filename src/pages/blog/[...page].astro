@@ -12,7 +12,7 @@ export const getStaticPaths = (async ({ paginate }) => {
 const { page } = Astro.props;
 const title = page.currentPage === 1 ? 'All renter smart home guides' : `All guides (page ${page.currentPage})`;
 ---
-<Base title={title} description="Every RenterSmartHome guide, newest first: smart locks, cameras, thermostats, lighting, plugs and renter how-tos.">
+<Base title={title} description="Every RenterSmartHome guide, newest first: smart locks, cameras, thermostats, lighting, plugs and renter how-tos." image="/images/og/blog.png" imageAlt="All RenterSmartHome guides">
   <div class="wrap">
     <header class="page-head">
       <h1>{title}</h1>
