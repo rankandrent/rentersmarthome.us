@@ -79,6 +79,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41xwpxqT4+L._SL500_.jpg'
         width: 313
         height: 500
+    amazonTitle: >-
+      Amazon Echo Dot Max (newest model), Alexa speaker with room-filling sound
+      and nearly 3x bass, Great for living rooms and medium-sized spaces,
+      Designed for Alexa+, Graphite
   - name: Google Home Speaker
     brand: Google
     query: Google Home Speaker Gemini
@@ -116,6 +120,9 @@ products:
       - url: 'https://m.media-amazon.com/images/I/5171xMckCvL._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: >-
+      Real Wood Stand for Google Premium Audio Speaker/Home Speaker
+      2026,(Walnut)
   - name: Amazon Echo Studio (2nd Gen)
     brand: Amazon
     query: Amazon Echo Studio 2nd Gen
@@ -149,6 +156,9 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41sIEiaTlsL._SL500_.jpg'
         width: 313
         height: 500
+    amazonTitle: >-
+      Amazon Echo Studio (newest model), Immersive spatial audio and Dolby
+      Atmos, Designed for Alexa+, Graphite
 sources:
   - title: 'Google: Meet the new Google Home Speaker, built for Gemini'
     url: >-

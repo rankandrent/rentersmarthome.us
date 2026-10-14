@@ -76,6 +76,7 @@ products:
       - url: 'https://m.media-amazon.com/images/I/51j+PBbWeHL._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: 'Kasa Matter Smart Plug with Energy Monitoring, KP125MP2, 15A/1800W Max'
   - name: Tapo Mini Smart Wi-Fi Plug with Matter (P125M)
     brand: Tapo (TP-Link)
     query: Tapo P125M Matter smart plug
@@ -109,6 +110,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41q9XtxDzLL._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: >-
+      TP-Link Tapo Matter Supported Smart Plug Mini, Compact Design, 15A/1800W
+      Max, Super Easy Setup, Works with Apple Home, Alexa & Google Home, UL
+      Certified, 2.4G Wi-Fi Only, White, Tapo P125M(3-Pack)
   - name: Eve Energy (Matter)
     brand: Eve
     query: Eve Energy Matter smart plug
@@ -142,6 +147,7 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41ttJOFubuL._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: Eve Energy (Matter) 2-Pack - Smart Plug & Power Meter
   - name: Meross Smart Plug Mini with Matter
     brand: Meross
     query: Meross Matter smart plug mini
@@ -175,6 +181,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41ye6mnNOpL._SL500_.jpg'
         width: 383
         height: 500
+    amazonTitle: >-
+      meross Matter Smart Plug Mini, Compact Size,100% Privacy Wi-Fi Smart
+      Outlet | FFS Easy Setup, Supports Apple Home, Alexa, Google Home with
+      Schedule & Timer, App & Voice Control, 2.4G Wi-Fi Only (2 Pack)
 sources:
   - title: 'Matter standard overview, Connectivity Standards Alliance'
     url: 'https://csa-iot.org/all-solutions/matter/'

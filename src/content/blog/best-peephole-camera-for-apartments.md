@@ -79,6 +79,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/419w3TzXRML._SL500_.jpg'
         width: 313
         height: 500
+    amazonTitle: >-
+      Ring Peephole Cam 2K (Newest Model), replaces physical peephole viewing
+      with Retinal 2K and wide-angle video, renter-friendly installation,
+      Speckled Gray
   - name: Ring Battery Doorbell
     brand: Ring
     query: Ring Battery Doorbell
@@ -114,6 +118,9 @@ products:
       - url: 'https://m.media-amazon.com/images/I/51zWje4O0IL._SL500_.jpg'
         width: 313
         height: 500
+    amazonTitle: >-
+      Ring Battery Doorbell 2K (newest model) Retinal 2K with wide-angle video,
+      up to 6x Enhanced Zoom, Two-Way Talk, and Built-In Battery, Speckled Gray
   - name: Blink Mini 2
     brand: Blink
     query: Blink Mini 2 indoor camera
@@ -149,6 +156,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/4183b6a2ePL._SL500_.jpg'
         width: 313
         height: 500
+    amazonTitle: >-
+      Blink Mini 2K+ (newest model) – Plug-in Home & Pet Indoor Security Camera
+      with 2K video resolution, night vision, enhanced audio, motion detection –
+      2 cameras (White)
   - name: Wyze Cam v4
     brand: Wyze
     query: Wyze Cam v4
@@ -184,6 +195,7 @@ products:
       - url: 'https://m.media-amazon.com/images/I/51unvg0xIPL._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: 'WYZE Cam v4, 2.5K Indoor/Outdoor Security Camera, Color Night Vision'
 sources:
   - title: Ring (manufacturer)
     url: 'https://ring.com/'

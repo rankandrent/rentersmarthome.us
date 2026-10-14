@@ -71,6 +71,7 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41dtWn3lsgL._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: 'Regalo Safety 29"-38.5" Easy Step Baby Gate, Bottom of Stairs & Doorways'
   - name: Summer Infant Multi-Use Deco Extra Tall Walk-Thru Gate
     brand: Summer Infant
     query: Summer Infant Extra Tall Walk-Thru Baby Gate pressure mounted
@@ -121,6 +122,7 @@ products:
       - url: 'https://m.media-amazon.com/images/I/51Av62ryTyL._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: 'Cumbor 30-46" Baby Gate for Stairs, Auto Close Dog Gate for Doorways White'
 sources:
   - title: 'Mommyhood101: Best baby gates'
     url: 'https://mommyhood101.com/best-baby-gates'

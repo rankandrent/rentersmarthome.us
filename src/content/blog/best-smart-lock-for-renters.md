@@ -81,6 +81,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41SXQ6LB3WL._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: >-
+      August Home, Silver Wi-Fi Connected Smart Keyless Entry Door Lock,
+      Electronic Door Lock Fits Your Existing Deadbolt in Minutes, ‎
+      ‎AUG-SL05-M01-S01
   - name: SwitchBot Lock Pro
     brand: SwitchBot
     query: SwitchBot Lock Pro
@@ -116,6 +120,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41uXkzhN-+L._SL500_.jpg'
         width: 390
         height: 500
+    amazonTitle: >-
+      SwitchBot Lock Vision Pro Smart Lock, 3D Face Recognition + Palm Vein +
+      Fingerprint, Keyless Entry Deadbolt for Front Door, 12-Month Battery, WiFi
+      No Hub, Auto-Lock, Matter, Apple Home, Alexa, Google
   - name: Yale Approach Lock with Wi-Fi
     brand: Yale
     query: Yale Approach Lock with Wi-Fi
@@ -142,6 +150,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41GhUqJ29zL._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: >-
+      Yale Approach™ Lock Deadbolt, Silver Key-Free Smart Entry Door Lock with
+      Wi-Fi Connected Touchscreen Keypad and Biometric Fingerprint Scanner for
+      Code Entry and Remove Access, B-YRR110-F-WF1-N-BSP
   - name: Aqara Smart Lock U200
     brand: Aqara
     query: Aqara Smart Lock U200
@@ -179,6 +191,7 @@ products:
       - url: 'https://m.media-amazon.com/images/I/419xD0G4uwL._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: 'Aqara UWB Smart Lock U400, Apple Home Key, Fingerprint Deadbolt, Black'
 sources:
   - title: August Home (manufacturer)
     url: 'https://august.com/'

@@ -74,6 +74,9 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41B464fZINL._SL500_.jpg'
         width: 313
         height: 500
+    amazonTitle: >-
+      Amazon Echo Dot (newest model) - Vibrant sounding speaker, Designed for
+      Alexa+, Great for bedrooms, dining rooms and offices, Charcoal
   - name: Amazon Echo Pop
     brand: Amazon
     query: Amazon Echo Pop smart speaker
@@ -107,6 +110,9 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41B464fZINL._SL500_.jpg'
         width: 313
         height: 500
+    amazonTitle: >-
+      Amazon Echo Dot (newest model) - Vibrant sounding speaker, Designed for
+      Alexa+, Great for bedrooms, dining rooms and offices, Charcoal
   - name: Google Nest Mini
     brand: Google
     query: Google Nest Mini 2nd Gen
@@ -140,6 +146,9 @@ products:
       - url: 'https://m.media-amazon.com/images/I/419KnSPo35L._SL500_.jpg'
         width: 477
         height: 500
+    amazonTitle: >-
+      Google Nest Mini 2nd Generation Smart Speaker with Google Assistant -
+      Charcoal
   - name: Apple HomePod mini
     brand: Apple
     query: Apple HomePod mini
@@ -164,6 +173,7 @@ products:
       - url: 'https://m.media-amazon.com/images/I/51T-nyvfBBL._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: Apple - HomePod mini - Black
 sources:
   - title: 'Apple: HomePod mini'
     url: 'https://www.apple.com/homepod-mini/'

@@ -76,6 +76,7 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41fxwYLv7lL._SL500_.jpg'
         width: 383
         height: 500
+    amazonTitle: 'Govee 16.4ft RGBIC LED Strip Lights, LED Lights for Bedroom, APP Control'
   - name: Philips Hue Lightstrip Plus
     brand: Philips Hue
     query: Philips Hue Lightstrip Plus
@@ -109,6 +110,9 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41v1j3B7-+L._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: >-
+      Philips Hue Bluetooth Smart Lightstrip Plus 2m/6ft Base Kit with Plug,
+      (Voice Compatible with Amazon Alexa, Apple Homekit and Google Home), White
   - name: Govee COB Strip Light Pro
     brand: Govee
     query: Govee COB Strip Light Pro
@@ -142,6 +146,7 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41-jKQJR2QL._SL500_.jpg'
         width: 383
         height: 500
+    amazonTitle: 'Govee 16.4ft COB LED Strip Light Pro, RGBICW Light with Warm White, WiFi'
 sources:
   - title: 'Govee: Best LED strip lights'
     url: 'https://us.govee.com/blogs/led-strip-lights/best-led-strip-lights'

@@ -77,6 +77,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41y4kpPBiUL._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: >-
+      NICETOWN Black Full Blackout Curtains for Dining Room 52"W x 84"L 2 Panels
+      | Soundproof Thermal Insulated Drapes, Noise Reducing, Light Blocking,
+      Room Darkening Decor for Hall Room Window Treatments
   - name: Vornado 660
     brand: Vornado
     query: Vornado 660 air circulator fan
@@ -110,6 +114,9 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41gtkWYAuEL._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: >-
+      Vornado 660 Large Whole Room Air Circulator Fan with 4 Speeds and
+      90-Degree Tilt, 660-Large, White
   - name: Lasko Box Fan
     brand: Lasko
     query: Lasko 20 inch box fan
@@ -143,6 +150,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/51vFG8yfIDL._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: >-
+      Lasko Weather-Shield Performance Box Fan, 3 Speeds, Innovative Wind Ring
+      System for Up to 30% More Air, Carry Handle for Bedroom, Office, Home, 20
+      Inch, White, 3720
 sources:
   - title: 'Apartment List: How to cool an apartment without air conditioning'
     url: >-

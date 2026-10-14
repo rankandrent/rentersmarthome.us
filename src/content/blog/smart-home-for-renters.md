@@ -77,6 +77,7 @@ products:
       - url: 'https://m.media-amazon.com/images/I/51j+PBbWeHL._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: 'Kasa Matter Smart Plug with Energy Monitoring, KP125MP2, 15A/1800W Max'
   - name: Philips Hue White and Color Ambiance Starter Kit
     brand: Philips Hue
     query: Philips Hue White and Color Ambiance Starter Kit
@@ -112,6 +113,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41--NCfKRYL._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: >-
+      Philips Hue Smart Light Bulbs Starter Kit, Includes (1) Bridge, (2) 75W
+      A19 Bulbs, White and Color Ambiance LED Color Changing Lights, 1100LM,
+      E26, Control with App or Voice Assistant
   - name: SwitchBot Bot Smart Switch Button Pusher
     brand: SwitchBot
     query: SwitchBot Bot Smart Switch Button Pusher
@@ -145,6 +150,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/418Q60OqbjL._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: >-
+      Switchbot Smart Switch Button Pusher (Bluetooth) – Fingerbot for Rocker
+      Switch/One-Way Buttons, App Timer Control, No Wiring, Optional Hub
+      Required for Voice/Remote, White
   - name: Sensibo Air
     brand: Sensibo
     query: Sensibo Air smart AC controller
@@ -180,6 +189,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41HB-deSHVL._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: >-
+      Sensibo Sky, Smart Wireless Air Conditioner Controller. Quick & Easy DIY
+      Installation. Maintains Comfort with Energy Efficient. Automatic Wifi
+      Thermostat Control App. Google, Alexa and Siri Compatible
 sources:
   - title: 'Matter standard overview, Connectivity Standards Alliance'
     url: 'https://csa-iot.org/all-solutions/matter/'

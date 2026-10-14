@@ -72,6 +72,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41ibO-UVTcL._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: >-
+      Command 7.5 lb Jumbo Utility Hook, 2 Hooks and 4 Strips, Damage Free
+      Hanging Wall Hooks with Adhesive Strips, No Tools Adhesive Hooks for
+      Hanging, Organization and Storage
   - name: Command Heavyweight Hook
     brand: Command
     query: Command Heavyweight Hook
@@ -105,6 +109,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41bI59opO-L._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: >-
+      Command X-Large Black Triple Hooks, 1 Hook, 3 Strips | Heavy Duty,
+      Damage-Free Hanging with Adhesive Strips, No Tools Wall Hook for Hanging
+      Decorations, Holds up to 10 lb
   - name: 3M CLAW Drywall Picture Hanger
     brand: 3M
     query: 3M CLAW Drywall Picture Hanger
@@ -138,6 +146,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/5175Ms34afL._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: >-
+      3M Claw 25 lb. Drywall Picture Hanger with Spot Markers, Heavyweight
+      Hanging Solution for Room Decor and Office Decor, Including Mirrors or
+      Large Art – 4 Pack
 sources:
   - title: 'Hook and Loop: How much weight can Command strips hold?'
     url: 'https://www.hookandloop.com/blog/how-much-weight-can-command-strips-hold'

@@ -77,6 +77,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/419w3TzXRML._SL500_.jpg'
         width: 313
         height: 500
+    amazonTitle: >-
+      Ring Peephole Cam 2K (Newest Model), replaces physical peephole viewing
+      with Retinal 2K and wide-angle video, renter-friendly installation,
+      Speckled Gray
   - name: Ring Battery Doorbell
     brand: Ring
     query: Ring Battery Doorbell
@@ -110,6 +114,9 @@ products:
       - url: 'https://m.media-amazon.com/images/I/51zWje4O0IL._SL500_.jpg'
         width: 313
         height: 500
+    amazonTitle: >-
+      Ring Battery Doorbell 2K (newest model) Retinal 2K with wide-angle video,
+      up to 6x Enhanced Zoom, Two-Way Talk, and Built-In Battery, Speckled Gray
   - name: Ring No-Drill Mount
     brand: Ring
     query: Ring No-Drill Mount battery doorbell
@@ -134,6 +141,9 @@ products:
       - url: 'https://m.media-amazon.com/images/I/218PEGbgBhL._SL500_.jpg'
         width: 313
         height: 500
+    amazonTitle: >-
+      All -New No Drill Mount for Ring Battery Doorbell (newest model), Battery
+      Doorbell Plus (newest model), Battery Doorbell Pro (newest model)
 sources:
   - title: 'Ring: No-Drill Mount for Battery Doorbells'
     url: 'https://ring.com/ca/en/products/no-drill-mount-for-battery-doorbells'

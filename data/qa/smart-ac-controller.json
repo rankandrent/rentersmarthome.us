@@ -1,10 +1,11 @@
 {
   "slug": "smart-ac-controller",
   "pass": true,
-  "checkedAt": "2026-10-14T13:04:30.639Z",
+  "checkedAt": "2026-10-14T13:06:21.806Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: facts not verified yet: check every product spec and claim against the sources, then run `node scripts/routine.mjs factcheck <slug> \"<notes>\"`"
+    "LIVE POST, FIX: facts not verified yet: check every product spec and claim against the sources, then run `node scripts/routine.mjs factcheck <slug> \"<notes>\"`",
+    "source didn't respond normally (no response): https://oldsupport.sensibo.com/en-US/sensibo-air-pro-technical-specs-606505"
   ],
   "factCheck": {
     "verified": false

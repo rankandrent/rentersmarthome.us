@@ -74,6 +74,9 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41fg61zT9KL._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: >-
+      Google Nest Thermostat - Smart Thermostat for Home - Programmable Wifi
+      Thermostat - Charcoal
   - name: ecobee Smart Thermostat Essential
     brand: ecobee
     query: ecobee Smart Thermostat Essential
@@ -111,6 +114,7 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41QOGV7NqzL._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: 'ecobee Smart Thermostat Essential - WiFi Thermostat, Energy Star Certified'
   - name: Mysa Smart Thermostat for Electric Baseboard Heaters
     brand: Mysa
     query: Mysa Smart Thermostat for Electric Baseboard Heaters
@@ -146,6 +150,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41gMFiJxOsL._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: >-
+      Mysa Smart Thermostat LITE for Electric Baseboard Heaters | Save Up to 26%
+      on Heating | WiFi Programmable | 7-Day Scheduling | HomeKit, Alexa, Google
+      | 120V-240V
 sources:
   - title: 'GearBrain: Smart thermostats without a C-wire'
     url: >-

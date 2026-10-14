@@ -75,6 +75,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41--NCfKRYL._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: >-
+      Philips Hue Smart Light Bulbs Starter Kit, Includes (1) Bridge, (2) 75W
+      A19 Bulbs, White and Color Ambiance LED Color Changing Lights, 1100LM,
+      E26, Control with App or Voice Assistant
   - name: WiZ Color A19 Smart Bulb
     brand: WiZ
     query: WiZ Color A19 smart bulb
@@ -108,6 +112,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41s-S8GdrNL._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: >-
+      WiZ Connected 100W A19 LED Smart Light Bulbs Color - Connects to Your
+      Wi-Fi - E26 Smart Bulb - Control with Voice or App + Activate with Motion
+      - Matter Compatible
   - name: Philips Hue Bridge
     brand: Philips Hue
     query: Philips Hue Bridge
@@ -141,6 +149,9 @@ products:
       - url: 'https://m.media-amazon.com/images/I/21vKFJOUYpL._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: >-
+      Philips Hue Bridge Smart Lighting Hub (Compatible with Amazon Alexa, Apple
+      HomeKit and Google Assistant) - White
 sources:
   - title: 'TechRadar: Philips Hue vs WiZ'
     url: >-

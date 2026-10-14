@@ -75,6 +75,9 @@ products:
       - url: 'https://m.media-amazon.com/images/I/31TSb9f4bdL._SL500_.jpg'
         width: 313
         height: 500
+    amazonTitle: >-
+      Ring Indoor Cam (2nd Gen), White with Window and Door Sensor (newest
+      model)
   - name: Blink Mini 2
     brand: Blink
     query: Blink Mini 2 indoor camera
@@ -108,6 +111,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/4183b6a2ePL._SL500_.jpg'
         width: 313
         height: 500
+    amazonTitle: >-
+      Blink Mini 2K+ (newest model) – Plug-in Home & Pet Indoor Security Camera
+      with 2K video resolution, night vision, enhanced audio, motion detection –
+      2 cameras (White)
   - name: Blink Sync Module 2
     brand: Blink
     query: Blink Sync Module 2
@@ -141,6 +148,7 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41cp7qimC4L._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: Blink Add-On Sync Module 2
 sources:
   - title: 'Security.org: Blink vs Ring'
     url: 'https://www.security.org/security-cameras/blink-vs-ring/'

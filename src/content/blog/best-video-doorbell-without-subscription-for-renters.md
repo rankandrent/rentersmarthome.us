@@ -72,6 +72,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41v5jdJzg+L._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: >-
+      eufy Security Video Doorbell E340, Dual Cameras, 2K FHD, 8GB Local Storage
+      | No Subscription,Head-to-Toe view,Wireless or Wired,Color night
+      vision,Two-way talk,AI motion/package detection, 2.4 GHz Wi-Fi
   - name: eufy Video Doorbell S220
     brand: eufy
     query: eufy Video Doorbell S220 battery
@@ -105,6 +109,7 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41f0kyhVs5L._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: REACELL E340 Battery Compatible with eufy Video Doorbell E340
   - name: Tapo D210
     brand: TP-Link Tapo
     query: Tapo D210 video doorbell battery
@@ -138,6 +143,7 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41PugtZoLJL._SL500_.jpg'
         width: 400
         height: 500
+    amazonTitle: 'Tapo 2K Wireless Smart Video Doorbell w/Chime, 160° Ultra-Wide View, D210'
 sources:
   - title: 'eufy: Doorbell camera with local storage'
     url: >-

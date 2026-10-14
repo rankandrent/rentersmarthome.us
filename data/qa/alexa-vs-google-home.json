@@ -1,10 +1,11 @@
 {
   "slug": "alexa-vs-google-home",
   "pass": true,
-  "checkedAt": "2026-10-14T13:04:30.489Z",
+  "checkedAt": "2026-10-14T13:05:43.791Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: facts not verified yet: check every product spec and claim against the sources, then run `node scripts/routine.mjs factcheck <slug> \"<notes>\"`"
+    "LIVE POST, FIX: facts not verified yet: check every product spec and claim against the sources, then run `node scripts/routine.mjs factcheck <slug> \"<notes>\"`",
+    "source didn't respond normally (403): https://www.the-ambient.com/versus/alexa-plus-vs-gemini/"
   ],
   "factCheck": {
     "verified": false

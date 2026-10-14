@@ -1,10 +1,12 @@
 {
   "slug": "best-heavy-duty-adhesive-hooks-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-14T13:04:30.507Z",
+  "checkedAt": "2026-10-14T13:05:59.138Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: facts not verified yet: check every product spec and claim against the sources, then run `node scripts/routine.mjs factcheck <slug> \"<notes>\"`"
+    "LIVE POST, FIX: facts not verified yet: check every product spec and claim against the sources, then run `node scripts/routine.mjs factcheck <slug> \"<notes>\"`",
+    "source didn't respond normally (403): https://www.hookandloop.com/blog/how-much-weight-can-command-strips-hold",
+    "source didn't respond normally (no response): https://www.command.com/"
   ],
   "factCheck": {
     "verified": false

@@ -82,6 +82,7 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41eS04zpdGL._SL500_.jpg'
         width: 400
         height: 500
+    amazonTitle: 'LICHTDIM24 No-Drill Motorized Blinds with Remote, Blackout Roller Shades'
   - name: SwitchBot Blind Tilt
     brand: SwitchBot
     query: SwitchBot Blind Tilt
@@ -117,6 +118,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/513vdOU6evL._SL500_.jpg'
         width: 500
         height: 500
+    amazonTitle: >-
+      SwitchBot Blind Tilt Motorized Blinds - Smart Electric Blinds, Automatic
+      Blind Opener and Closer, Solar Powered, Light Sensing Control, Add Hub
+      Mini to Make it Compatible with Alexa & Google Home
   - name: SwitchBot Curtain 3
     brand: SwitchBot
     query: SwitchBot Curtain 3
@@ -152,6 +157,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41JX8rvylmL._SL500_.jpg'
         width: 400
         height: 500
+    amazonTitle: >-
+      SwitchBot 2025 Automatic Curtain Opener 3 Rod-Bluetooth Remote Control,
+      WiFi&APP Control, Upgraded High-Performance, Add Hub to Work with Alexa,
+      Google Home, HomeKit via Matter(2025 Curtain Opener*2)
 sources:
   - title: 'Graywind: No Drill Motorized Roller Shades'
     url: 'https://www.graywind.com/products/no-drill-roller-shades'
