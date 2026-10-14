@@ -41,6 +41,8 @@ const blog = defineCollection({
     related: z.array(z.string()).default([]),
     author: z.string().default('editorial-team'),
     reviewedDate: z.coerce.date().optional(),
+    // true when the post retells a real story from data/stories.json
+    ownerStory: z.boolean().optional(),
     sources: z.array(z.object({ title: z.string(), url: z.string().url() })).default([]),
     draft: z.boolean().default(false),
     heroImage: z.string().optional(),

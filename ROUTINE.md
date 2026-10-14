@@ -4,6 +4,12 @@ A scheduled Claude Code session runs this playbook once a day. It does the work 
 the four agents in `agents/` itself (no Anthropic API key needed), then pushes,
 which triggers the Cloudflare deploy and the Amazon image refresh.
 
+**Voice and personal story (every post):** first person throughout (I, my, me, we, our, us; at least 10 uses),
+plus one `> **From our notes:**` story block (60-120 words). Use a real owner story from `data/stories.json` if one
+fits, otherwise a true research story (how we compared the products, what stood out in the manuals and specs), or a
+clearly framed scenario ("Picture a renter who…"). Never claim we bought, owned, installed or tested a product unless
+`data/stories.json` says so (then set `ownerStory: true` in the frontmatter). The QA agent checks both.
+
 **Old-URL recovery:** queue items with `restoresOldUrl` replace pages Google indexed on the old site.
 Keep their `slug` exactly as queued; `data/redirects.json` 301s the old URLs to `/blog/<slug>/` as soon as the
 post is live and passes QA (until then they 302 to the closest page).

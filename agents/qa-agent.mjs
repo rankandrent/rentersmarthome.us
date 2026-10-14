@@ -38,6 +38,7 @@ const BANNED = [
   [/\b(we|i)\s+(have\s+)?(tested|hands-on tested|bench-?tested|lab-tested)\b/i, 'claims hands-on testing'],
   [/\bin our (tests|testing|lab)\b/i, 'claims hands-on testing'],
   [/\b(after|during)\s+(weeks|months)\s+of\s+(use|testing)\b/i, 'claims long-term use'],
+  [/\b(I|we)\s+(bought|purchased|ordered|have been using|installed (it|this|ours|mine) in (my|our))\b/i, 'claims personal ownership (only allowed for stories in data/stories.json)'],
   [/\b(TODO|TBD|lorem ipsum|REPLACE|PUBDATE)\b/, 'placeholder text left in'],
 ];
 
@@ -98,10 +99,19 @@ export async function qaPost(post, { posts = listPosts(), online = false, live =
   if (/^# /m.test(body)) err('body has an H1; the title is the only H1');
   if (/^##\s+(faq|frequently asked)/im.test(body)) err('body has its own FAQ section; FAQs belong in frontmatter');
 
+  // --- Voice: first person and a personal story block (posts written after the rule existed)
+  if (pub >= Date.parse(SITE.qa?.voiceRequiredFrom ?? '2100-01-01')) {
+    const firstPerson = (body.match(/\b(I|I'd|I'm|I've|my|me|we|we'd|we're|we've|our|us)\b/g) ?? []).length;
+    if (firstPerson < 10) err(`only ${firstPerson} first-person words (I, my, me, we, our, us); use at least 10`);
+    if (!/^>\s*\*\*From our notes:\*\*/m.test(body)) err('missing the "> **From our notes:**" personal story block');
+  }
+
   // --- Facts and claims
   const text = [d.title, d.description, ...(d.tldr ?? []), body, ...faqs.flatMap((f) => [f.q, f.a]),
     ...(d.products ?? []).flatMap((p) => [p.summary, p.renterNote, ...(p.pros ?? []), ...(p.cons ?? [])])].join('\n');
   for (const [re, why] of BANNED) {
+    // Ownership wording is fine when the post tells a real owner story (data/stories.json).
+    if (d.ownerStory && /personal ownership/.test(why)) continue;
     const m = text.match(re);
     if (m) err(`${why}: "${m[0]}"`);
   }

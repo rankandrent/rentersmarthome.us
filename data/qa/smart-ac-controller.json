@@ -1,11 +1,9 @@
 {
   "slug": "smart-ac-controller",
   "pass": true,
-  "checkedAt": "2026-10-14T14:39:57.616Z",
+  "checkedAt": "2026-10-14T16:52:57.873Z",
   "errors": [],
-  "warnings": [
-    "source didn't respond normally (no response): https://oldsupport.sensibo.com/en-US/sensibo-air-pro-technical-specs-606505"
-  ],
+  "warnings": [],
   "factCheck": {
     "verified": true,
     "notes": "2026-10-14: Cielo Breez Max works with IR-remote mini-split/window/portable ACs, 7-day schedules, geofencing, groups (Cielo submittal sheet); Sensibo Air Pro Climate React, air quality sensor, window/split/portable/remote ACs, 2.4GHz Wi-Fi (Sensibo spec sheet); Cielo Breez Lite budget model. No subscription claims beyond 'check plans'.",
