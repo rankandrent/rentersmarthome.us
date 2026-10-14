@@ -132,28 +132,6 @@ products:
     cons:
       - Needs an electrician in most rentals
       - Not for central forced-air systems
-    asin: B0F5BVD9FM
-    image:
-      url: 'https://m.media-amazon.com/images/I/11a3lFwXIZL._SL500_.jpg'
-      width: 500
-      height: 500
-    gallery:
-      - url: 'https://m.media-amazon.com/images/I/21ySbMuuprL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/41eer8uw6jL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/31fSS66IvcL._SL500_.jpg'
-        width: 500
-        height: 375
-      - url: 'https://m.media-amazon.com/images/I/41gMFiJxOsL._SL500_.jpg'
-        width: 500
-        height: 500
-    amazonTitle: >-
-      Mysa Smart Thermostat LITE for Electric Baseboard Heaters | Save Up to 26%
-      on Heating | WiFi Programmable | 7-Day Scheduling | HomeKit, Alexa, Google
-      | 120V-240V
 sources:
   - title: 'GearBrain: Smart thermostats without a C-wire'
     url: >-

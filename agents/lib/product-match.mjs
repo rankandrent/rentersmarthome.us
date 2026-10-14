@@ -7,7 +7,7 @@
 const GENERIC = new Set(`a an and the for with of in to by smart wifi wi fi gen generation 1st 2nd 3rd 4th 5th 6th newest model
   pack kit set mini plus pro edition version new home alexa google assistant matter compatible works
   walk thru through baby`.split(/\s+/));
-const ACCESSORY = /\b(stand for|mount for|bracket for|case for|cover for|skin for|sleeve for|replacement|battery compatible|compatible battery|holder for|protector for|charger for|decal|sticker)\b/i;
+const ACCESSORY = /\b(battery for|stand for|mount for|bracket for|case for|cover for|skin for|sleeve for|replacement|battery compatible|compatible battery|holder for|protector for|charger for|decal|sticker)\b/i;
 
 const norm = (s) => String(s).toLowerCase().replace(/wi-fi/g, 'wifi').replace(/[^a-z0-9]+/g, ' ').trim();
 const tokens = (s) => norm(s).split(' ').filter(Boolean);
@@ -25,6 +25,10 @@ export function productMatches(name, title, brand = '') {
   const missing = distinctive.filter((w) => !found(w));
   const accessoryWord = title.match(ACCESSORY)?.[0];
   const accessory = Boolean(accessoryWord) && !new RegExp(`\\b${accessoryWord.split(' ')[0]}`, 'i').test(name);
-  const variant = /\bmini 2k\+|\b2k\+/i.test(title) && !/2k/i.test(name);
+  // Model words in the listing's name part (before the first comma/dash/bracket)
+  // that our product doesn't have mean a different model ("Lock Vision Pro" vs "Lock Pro").
+  const head = tokens(title.split(/,|\s[-–|]\s|\(|\sfor\s/i)[0]);
+  const VARIANT = new Set(['vision', 'ultra', 'max', 'lite', 'plus', 'pro', 'mini', 'xl', 'se', 'studio', 'show', 'kids']);
+  const variant = (/\b2k\+/i.test(title) && !/2k/i.test(name)) || head.some((w) => VARIANT.has(w) && !nameTokens.includes(w));
   return { ok: missing.length === 0 && !accessory && !variant, missing, accessory: accessory ? accessoryWord : variant ? 'newer variant' : null };
 }

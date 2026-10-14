@@ -106,7 +106,7 @@ const words = (s) => new Set(s.toLowerCase().replace(/[^a-z0-9 ]/g, ' ').split(/
 /** Find the listing for a researched product: the most relevant search result
  *  whose title passes the strict product match (brand, model, no accessories). */
 export async function matchProduct(name, query, brand = '') {
-  const items = await searchItems(query);
+  const items = await searchItems(query, { itemCount: 10 });
   const hit = items.find((it) => productMatches(name, it.title, brand).ok);
   if (hit) return hit;
   log('amazon', `no exact listing for "${name}" (top result: "${items[0]?.title?.slice(0, 80) ?? 'none'}")`);

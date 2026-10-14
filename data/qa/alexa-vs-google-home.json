@@ -1,11 +1,9 @@
 {
   "slug": "alexa-vs-google-home",
   "pass": true,
-  "checkedAt": "2026-10-14T13:16:55.437Z",
+  "checkedAt": "2026-10-14T13:20:21.198Z",
   "errors": [],
-  "warnings": [
-    "source didn't respond normally (403): https://www.the-ambient.com/versus/alexa-plus-vs-gemini/"
-  ],
+  "warnings": [],
   "factCheck": {
     "verified": true,
     "notes": "2026-10-14: Echo Dot Max and Echo Studio (2nd Gen) built-in Zigbee/Thread/Matter hub (matteralpha, 91mobiles review); Google Home Speaker launched Jun 25 2026, Thread 1.3 border router + Matter hub, 360-degree audio, Gemini Live/Ask Home need Google Home Premium (Thurrott, 9to5Google); Alexa+ free with Prime, paid without (PCWorld). Removed unverified 140,000/50,000 device counts. Google Home Speaker Amazon listing was a wood stand: cleared for re-match.",

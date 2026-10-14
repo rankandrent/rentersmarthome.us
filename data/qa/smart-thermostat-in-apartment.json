@@ -1,9 +1,11 @@
 {
   "slug": "smart-thermostat-in-apartment",
   "pass": true,
-  "checkedAt": "2026-10-14T13:15:33.743Z",
+  "checkedAt": "2026-10-14T13:20:21.381Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "product \"Mysa Smart Thermostat for Electric Baseboard Heaters\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "2026-10-14: Nest Thermostat designed to work without a C-wire in many systems, Nest Power Connector (GearBrain, Google); ecobee Power Extender Kit for Essential/Lite, installs at the furnace within ~24 in, 24V systems (ecobee PEK sheet); 24V thermostats cannot switch 120/240V baseboard heat, Mysa line-voltage thermostats; landlord permission guidance.",
