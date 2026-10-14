@@ -45,6 +45,8 @@ const blog = defineCollection({
     ownerStory: z.boolean().optional(),
     // planned number of products for this post (random per post)
     productCount: z.number().optional(),
+    // how products are presented, chosen from the top search results
+    productStyle: z.enum(['pros-cons', 'paragraph', 'specs']).default('pros-cons'),
     sources: z.array(z.object({ title: z.string(), url: z.string().url() })).default([]),
     draft: z.boolean().default(false),
     heroImage: z.string().optional(),

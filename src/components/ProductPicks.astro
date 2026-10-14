@@ -8,10 +8,10 @@ interface Img { url: string; width?: number; height?: number }
 interface Product {
   name: string; brand?: string; query: string; asin?: string; badge: string;
   summary: string; renterNote: string; pros: string[]; cons: string[];
-  image?: Img; gallery?: Img[];
+  image?: Img; gallery?: Img[]; specs?: Record<string, string>;
 }
-interface Props { products: Product[]; inBody?: string[] }
-const { products, inBody = [] } = Astro.props;
+interface Props { products: Product[]; inBody?: string[]; style?: 'pros-cons' | 'paragraph' | 'specs' }
+const { products, inBody = [], style = 'pros-cons' } = Astro.props;
 const rest = products.filter((p) => !inBody.includes(p.name));
 const slug = (s: string) => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 ---
@@ -39,7 +39,7 @@ const slug = (s: string) => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(
         <p class="pblock-badge">{p.badge}</p>
         <h3>{p.name}</h3>
         <p class="pick-summary">{p.summary}</p>
-        <Fragment set:html={productBlockHtml(p)} />
+        <Fragment set:html={productBlockHtml(p, { style })} />
       </div>
     ))}
   </section>

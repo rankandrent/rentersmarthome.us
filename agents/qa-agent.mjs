@@ -106,6 +106,21 @@ export async function qaPost(post, { posts = listPosts(), online = false, live =
     if (!/^>\s*\*\*From our notes:\*\*/m.test(body)) err('missing the "> **From our notes:**" personal story block');
   }
 
+  // --- Structure follows the top search results (posts written after the rule existed)
+  if (pub >= Date.parse(SITE.qa?.voiceRequiredFrom ?? '2100-01-01')) {
+    let brief = null;
+    try { brief = JSON.parse(fs.readFileSync(path.join(BRIEFS, `${post.slug}.json`), 'utf8')); } catch {}
+    const serp = brief?.serpStructure;
+    if (!serp || (serp.analyzedUrls ?? []).length < 3) err('brief has no serpStructure from at least 3 top results (see ROUTINE.md step 4)');
+    else if (d.productStyle !== serp.productStyle) err(`productStyle "${d.productStyle ?? 'pros-cons'}" doesn't match the top results ("${serp.productStyle}")`);
+    const sections = body.split(/^### /m).slice(1);
+    for (const p of d.products ?? []) {
+      const sec = sections.find((x) => matches(x.split('\n')[0], p.name));
+      if (d.productStyle === 'paragraph' && sec && sec.split(/\s+/).length < 110) err(`paragraph style: the review of "${p.name}" is under ~100 words`);
+      if (d.productStyle === 'specs' && Object.keys(p.specs ?? {}).length < 4) err(`specs style: "${p.name}" needs at least 4 spec rows`);
+    }
+  }
+
   // --- Facts and claims
   const text = [d.title, d.description, ...(d.tldr ?? []), body, ...faqs.flatMap((f) => [f.q, f.a]),
     ...(d.products ?? []).flatMap((p) => [p.summary, p.renterNote, ...(p.pros ?? []), ...(p.cons ?? [])])].join('\n');

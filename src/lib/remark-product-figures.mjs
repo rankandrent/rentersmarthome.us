@@ -23,7 +23,7 @@ export function imageCredit(p) {
 
 /** Product block in the style of a magazine buying guide: gallery of official
  *  Amazon photos with a credit line, a buy button, and what we like / don't like. */
-export function productBlockHtml(p, { badge = false } = {}) {
+export function productBlockHtml(p, { badge = false, style = 'pros-cons' } = {}) {
   const href = esc(amazonUrl({ asin: p.asin, query: p.query }));
   const imgs = [p.image, ...(p.gallery ?? [])].filter((x) => x?.url);
   const main = imgs[0];
@@ -44,9 +44,14 @@ export function productBlockHtml(p, { badge = false } = {}) {
         `<figcaption>${esc(p.name)}. <span class="credit">${esc(imageCredit(p))}</span></figcaption></figure>`
       : '') +
     `<a class="btn btn-buy pblock-cta" href="${href}" rel="${AFFILIATE_REL}" target="_blank">Check price on Amazon</a>` +
-    ((like || dislike)
+    (style === 'pros-cons' && (like || dislike)
       ? `<div class="likes"><div class="like"><p class="likes-h">What we like</p><ul>${like}</ul></div>` +
         `<div class="dislike"><p class="likes-h">What we don't like</p><ul>${dislike}</ul></div></div>`
+      : '') +
+    (style === 'specs' && p.specs && Object.keys(p.specs).length
+      ? `<table class="spec-table"><caption>Key specs</caption><tbody>${Object.entries(p.specs)
+          .map(([k, v]) => `<tr><th scope="row">${esc(k)}</th><td>${esc(v)}</td></tr>`)
+          .join('')}</tbody></table>`
       : '') +
     `<p class="pblock-renter"><b>Renter note:</b> ${esc(p.renterNote)}</p>` +
     `</div>`
@@ -73,7 +78,7 @@ export function remarkProductFigures() {
       if (!p) continue;
       used.add(p.name);
       node.data = { ...node.data, hProperties: { ...(node.data?.hProperties ?? {}), id: `pick-${p.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}` } };
-      tree.children.splice(i + 1, 0, { type: 'html', value: productBlockHtml(p) });
+      tree.children.splice(i + 1, 0, { type: 'html', value: productBlockHtml(p, { style: fm?.productStyle ?? 'pros-cons' }) });
       i++;
     }
     if (fm) fm.productsInBody = [...used];

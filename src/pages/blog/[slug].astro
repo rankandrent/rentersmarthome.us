@@ -132,7 +132,7 @@ if (d.products.length > 1) {
     <div class="article-layout">
       <article>
         <p class="disclosure">We earn a commission if you buy through links on this page, at no extra cost to you. It never changes what we recommend. <a href="/affiliate-disclosure/">How we make money</a>.</p>
-        <ProductPicks products={d.products} inBody={inBody} />
+        <ProductPicks products={d.products} inBody={inBody} style={d.productStyle} />
         {d.tldr.length > 0 && (
           <div class="answer">
             <h2>The short answer</h2>

@@ -415,3 +415,9 @@ h3 { font-size: var(--s1); letter-spacing: -.01em; }
 
 /* "From our notes" personal story block */
 .prose blockquote:has(> p:first-child > strong:first-child) { font-style: normal; background: var(--tape-soft); border-left: 4px solid var(--tape); border-radius: 0 var(--r-box) var(--r-box) 0; padding: 16px 20px; }
+
+.spec-table { width: 100%; border-collapse: collapse; margin: 0 0 14px; background: #fff; border: 1px solid var(--rule); border-radius: var(--r-box); font-family: var(--display); font-size: .95rem; display: table !important; }
+.spec-table caption { text-align: left; font-weight: 800; padding: 0 0 6px; }
+.spec-table th, .spec-table td { padding: 9px 14px; border-bottom: 1px solid var(--rule); text-align: left; vertical-align: top; }
+.spec-table th { width: 40%; color: var(--slate); font-weight: 600; }
+.spec-table tr:last-child th, .spec-table tr:last-child td { border-bottom: 0; }

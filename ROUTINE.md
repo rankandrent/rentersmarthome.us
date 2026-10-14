@@ -90,7 +90,19 @@ Follow `BRIEF_SYSTEM` in `agents/writer-agent.mjs` (search the live SERP for the
 keyword). Save it as `data/briefs/<slug>.json` with exactly these fields:
 `centralEntity, entityVariants[], entities[{name,type,relation}], attributes[],
 ngrams[], skipgrams[] ("word1…word2"), nlpTerms[], questions[], contentGaps[],
-outline[{h2,intent,h3[]}], targetWords`.
+outline[{h2,intent,h3[]}], targetWords, serpStructure`.
+
+**Structure follows the top results.** Open the top 5-10 organic results for the keyword and fill
+`serpStructure`: `analyzedUrls`, `productStyle` ("pros-cons", "paragraph" or "specs": how most of them
+present each product) with `productStyleReason`, `avgWords`, `avgProducts`, `commonSections`,
+`usesComparisonTable`, `usesFaq`, `usesBuyingGuide`. Then build the outline from the sections most of
+them share, in a similar order, plus the content gaps; set `targetWords` 10-20% above `avgWords`; and set
+`productStyle` in the post's frontmatter to the same value:
+- `pros-cons`: each product shows What we like / What we don't like lists (fill `pros` and `cons`).
+- `paragraph`: no lists are shown; write a 120-200 word review paragraph per product covering strengths
+  and drawbacks (still fill `pros`/`cons` for the data, they just aren't displayed).
+- `specs`: each product shows a spec table from `specs` (4-8 verified rows, e.g. "Battery": "4 AA").
+The product count stays the random `productCount`.
 
 ## 5. Internal links
 `node scripts/routine.mjs links <slug>` → choose the 3–5 that genuinely fit.

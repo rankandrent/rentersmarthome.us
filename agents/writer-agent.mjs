@@ -27,6 +27,20 @@ export const BriefSchema = z.object({
   contentGaps: z.array(z.string()).max(10),
   outline: z.array(z.object({ h2: z.string(), intent: z.string(), h3: z.array(z.string()).max(8) })).min(4).max(14),
   targetWords: z.number().min(900).max(4500),
+  // How the current top results present the topic; the post mirrors it, then adds the gaps.
+  serpStructure: z
+    .object({
+      analyzedUrls: z.array(z.string()).min(3).max(10),
+      productStyle: z.enum(['pros-cons', 'paragraph', 'specs']),
+      productStyleReason: z.string(),
+      avgWords: z.number(),
+      avgProducts: z.number(),
+      commonSections: z.array(z.string()).max(15),
+      usesComparisonTable: z.boolean(),
+      usesFaq: z.boolean(),
+      usesBuyingGuide: z.boolean(),
+    })
+    .optional(),
 });
 
 const BRIEF_SYSTEM = `You are the semantic SEO strategist for ${SITE.domain} (renter-friendly smart home). You build content briefs grounded in what currently ranks, using entity-based SEO (Koray-style topical maps / semantic content networks).
@@ -41,7 +55,8 @@ Method:
 7. nlpTerms: single words and short terms an NLP model expects in a complete document on this topic.
 8. contentGaps: things top pages miss that a RENTER needs (lease clauses, landlord approval, restoring originals, moving out).
 9. outline: H2s that each satisfy a distinct sub-intent, ordered by search-journey logic; H3s beneath.
-10. targetWords: 10-20% more than the average top result, capped by usefulness (roundups 2000-3500, how-tos 1300-2200).`;
+10. targetWords: 10-20% more than the average top result, capped by usefulness (roundups 2000-3500, how-tos 1300-2200).
+11. serpStructure: open the top 5-10 organic results and record how they are built: the URLs you read; productStyle = how most of them present each product ("pros-cons" = a pros and cons list per product, "paragraph" = a written review paragraph per product, "specs" = a spec table per product) with a one-line reason; their average word count and number of products; the sections most of them share (e.g. "how we chose", "buying guide", "FAQ"); and whether most use a comparison table, an FAQ and a buying guide. The outline must cover those common sections in a similar order, then add the content gaps.`;
 
 const WRITE_SYSTEM = `You are the senior writer for ${SITE.domain}. Voice: a knowledgeable friend who rents too. Practical, specific, confident, never fluffy. US English.
 
@@ -59,6 +74,7 @@ LAYOUT-AWARE RULES (how search systems read a page as blocks: headers, paragraph
 - Mix block types: at least one bulleted or numbered list, and for roundups/comparisons at least one comparison table.
 - Every table is introduced by a sentence directly above it that says what the table compares; every list follows a lead-in sentence.
 - For roundups, give each product its own "### <exact product name>: <role>" heading using the exact product name from the research (the site places the product photo under that heading), followed by text that describes that product only.
+- Match the brief's serpStructure.productStyle and set productStyle in the frontmatter to the same value: "pros-cons" = the site shows What we like / What we don't like lists, so the text adds context; "paragraph" = no lists are shown, so write a full review paragraph (120-200 words) per product that covers its strengths and drawbacks in prose; "specs" = the site shows a spec table from each product's specs, so fill specs (4-8 verified rows) and keep the text focused on who it suits.
 - Keep each paragraph about one idea (3-4 sentences max) so blocks stay coherent.
 
 FUNNEL RULES (the item's "funnel" field):
@@ -97,7 +113,7 @@ Article type: ${item.articleType} · Intent: ${item.intent}
 Secondary keywords: ${item.secondaryKeywords.join(', ')}
 Seed questions: ${item.questions.join(' | ')}
 
-Return ONLY a \`\`\`json block with: centralEntity, entityVariants[], entities[{name,type,relation}], attributes[], ngrams[], skipgrams[], nlpTerms[], questions[], contentGaps[], outline[{h2,intent,h3[]}], targetWords (number).`,
+Return ONLY a \`\`\`json block with: centralEntity, entityVariants[], entities[{name,type,relation}], attributes[], ngrams[], skipgrams[], nlpTerms[], questions[], contentGaps[], outline[{h2,intent,h3[]}], targetWords (number), serpStructure{analyzedUrls[], productStyle, productStyleReason, avgWords, avgProducts, commonSections[], usesComparisonTable, usesFaq, usesBuyingGuide}.`,
   });
 }
 
