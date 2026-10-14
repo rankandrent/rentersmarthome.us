@@ -44,6 +44,31 @@
       "slug": "guides",
       "name": "Renter Guides",
       "blurb": "Lease rules, landlord conversations and starter kits."
+    },
+    {
+      "slug": "baby-proofing",
+      "name": "Baby & Child Proofing",
+      "blurb": "Pressure-mounted gates, locks and guards that childproof a rental without drilling."
+    },
+    {
+      "slug": "kitchen-bath",
+      "name": "Kitchen & Bath",
+      "blurb": "Adhesive, suction and over-the-door upgrades for rented kitchens and bathrooms."
+    },
+    {
+      "slug": "storage-decor",
+      "name": "Storage & Decor",
+      "blurb": "Hang, shelve and organize without nails, screws or a lost deposit."
+    },
+    {
+      "slug": "home-office",
+      "name": "Home Office",
+      "blurb": "Desks, chairs and gear that fit a small rental workspace."
+    },
+    {
+      "slug": "pets",
+      "name": "Pets",
+      "blurb": "Pet gear that protects your rental and your security deposit."
     }
   ],
   "schedule": {

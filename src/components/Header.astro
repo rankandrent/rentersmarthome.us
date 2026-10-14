@@ -1,5 +1,9 @@
 ---
 import Logo from './Logo.astro';
+import { SITE } from '../lib/site';
+import { getPublishedPosts } from '../lib/posts';
+const used = new Set((await getPublishedPosts()).map((p) => p.data.category));
+const extra = SITE.categories.filter((c) => ['baby-proofing', 'kitchen-bath', 'storage-decor', 'home-office', 'pets'].includes(c.slug) && used.has(c.slug));
 const path = Astro.url.pathname;
 const links = [
   { href: '/category/smart-locks/', label: 'Locks' },
@@ -22,6 +26,7 @@ const links = [
       <div class="menu-panel">
         {links.map((l) => <a href={l.href}>{l.label}</a>)}
         <a href="/category/hubs-voice/">Hubs and voice assistants</a>
+        {extra.map((c) => <a href={`/category/${c.slug}/`}>{c.name}</a>)}
         <a href="/blog/">All guides</a>
         <a href="/renter-checklist/">The renter checklist</a>
         <a href="/search/">Search</a>

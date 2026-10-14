@@ -13,6 +13,11 @@ export const CATEGORY_ICON: Record<string, string> = {
   'plugs-power': 'plug',
   'hubs-voice': 'hub',
   guides: 'home',
+  'baby-proofing': 'shield',
+  'kitchen-bath': 'drop',
+  'storage-decor': 'box',
+  'home-office': 'desk',
+  pets: 'paw',
 };
 
 export function getCategory(slug: string): Category | undefined {

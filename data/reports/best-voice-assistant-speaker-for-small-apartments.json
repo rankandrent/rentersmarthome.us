@@ -1,0 +1,148 @@
+{
+  "keyword": "best voice assistant speaker for small apartments",
+  "createdAt": "2026-10-14T08:49:59.061Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "voice assistant speaker for small apartments",
+    "entityVariants": [
+      "smart speaker for a small apartment",
+      "voice assistant speaker",
+      "smart speaker",
+      "best smart speaker for apartments"
+    ],
+    "entities": [
+      {
+        "name": "Amazon Echo Dot (5th Gen)",
+        "type": "product",
+        "relation": "compact Alexa speaker with a temperature sensor"
+      },
+      {
+        "name": "Amazon Echo Pop",
+        "type": "product",
+        "relation": "budget compact Alexa speaker"
+      },
+      {
+        "name": "Google Nest Mini",
+        "type": "product",
+        "relation": "compact Google speaker with a wall-mount slot"
+      },
+      {
+        "name": "Apple HomePod mini",
+        "type": "product",
+        "relation": "compact Siri speaker and Apple Home hub"
+      },
+      {
+        "name": "Alexa",
+        "type": "voice assistant",
+        "relation": "Amazon's assistant"
+      },
+      {
+        "name": "Google Assistant",
+        "type": "voice assistant",
+        "relation": "Google's assistant"
+      },
+      {
+        "name": "Siri",
+        "type": "voice assistant",
+        "relation": "Apple's assistant"
+      },
+      {
+        "name": "Matter",
+        "type": "standard",
+        "relation": "smart home standard many speakers can control"
+      },
+      {
+        "name": "thin walls",
+        "type": "concept",
+        "relation": "apartment noise concern"
+      }
+    ],
+    "attributes": [
+      "size",
+      "sound",
+      "smart home hub features",
+      "privacy controls",
+      "ecosystem",
+      "placement"
+    ],
+    "ngrams": [
+      "smart speaker",
+      "echo dot",
+      "nest mini",
+      "homepod mini",
+      "small apartment",
+      "voice assistant"
+    ],
+    "skipgrams": [
+      "speaker…apartment",
+      "alexa…echo",
+      "siri…homepod",
+      "volume…walls"
+    ],
+    "nlpTerms": [
+      "renters",
+      "studio",
+      "bedroom",
+      "neighbors",
+      "microphone",
+      "mute button",
+      "Wi-Fi",
+      "routines",
+      "smart plugs"
+    ],
+    "questions": [
+      "What is the best smart speaker for a small apartment?",
+      "Should I choose Alexa, Google or Siri?",
+      "Will a smart speaker bother my neighbors?",
+      "Can a smart speaker control my lights?"
+    ],
+    "contentGaps": [
+      "placing a speaker against shared walls",
+      "privacy with roommates",
+      "using one speaker as a hub"
+    ],
+    "outline": [
+      {
+        "h2": "The short answer",
+        "intent": "verdict",
+        "h3": []
+      },
+      {
+        "h2": "Our picks",
+        "intent": "products",
+        "h3": [
+          "Echo Dot",
+          "Echo Pop",
+          "Nest Mini",
+          "HomePod mini"
+        ]
+      },
+      {
+        "h2": "How to choose",
+        "intent": "criteria",
+        "h3": []
+      },
+      {
+        "h2": "Thin walls and neighbors",
+        "intent": "apartment concerns",
+        "h3": []
+      }
+    ],
+    "targetWords": 1100
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "alexa-vs-google-home",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-matter-smart-plugs",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-smart-lock-for-renters",
+      "mode": "related-box"
+    }
+  ]
+}

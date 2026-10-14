@@ -1,6 +1,8 @@
 ---
 import Logo from './Logo.astro';
 import { SITE } from '../lib/site';
+import { getPublishedPosts } from '../lib/posts';
+const used = new Set((await getPublishedPosts()).map((p) => p.data.category));
 const year = new Date().getFullYear();
 ---
 <footer class="site-footer">
@@ -12,7 +14,7 @@ const year = new Date().getFullYear();
       </div>
       <div>
         <h3>Categories</h3>
-        <ul>{SITE.categories.map((c) => <li><a href={`/category/${c.slug}/`}>{c.name}</a></li>)}</ul>
+        <ul>{SITE.categories.filter((c) => used.has(c.slug)).map((c) => <li><a href={`/category/${c.slug}/`}>{c.name}</a></li>)}</ul>
       </div>
       <div>
         <h3>How we work</h3>

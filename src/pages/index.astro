@@ -47,7 +47,7 @@ const jsonLd: object[] = [];
         </div>
       </div>
       <div class="rooms">
-        {SITE.categories.map((c) => (
+        {SITE.categories.filter((c) => counts[c.slug] > 0).map((c) => (
           <a class="room" href={`/category/${c.slug}/`}>
             <Icon name={CATEGORY_ICON[c.slug] ?? 'home'} />
             <span><strong>{c.name}</strong><span class="blurb">{c.blurb}</span></span>

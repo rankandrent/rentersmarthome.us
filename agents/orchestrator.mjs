@@ -58,7 +58,8 @@ export function nextKeyword(queue, state) {
   const recentStages = state.published.slice(-window).map((p) => p.funnel ?? 'bofu');
   const posts = listPosts();
   const cap = SITE.keywordRules?.maxVolume ?? 250;
-  for (const q of queue.filter((k) => k.status === 'pending')) {
+  // Keywords the site owner supplied (source: 'user') skip the volume cap and cannibalization guard.
+  for (const q of queue.filter((k) => k.status === 'pending' && k.source !== 'user')) {
     const clash = findCannibal(q, posts);
     if (q.ahrefs?.volume > cap) Object.assign(q, { status: 'parked', lastError: `volume ${q.ahrefs.volume} > ${cap} cap` });
     else if (clash) Object.assign(q, { status: 'merged', mergedInto: clash.slug, lastError: `cannibalization: ${clash.reason}` });
@@ -69,7 +70,8 @@ export function nextKeyword(queue, state) {
     k.priority -
     recent.filter((c) => c === k.category).length * 1.5 +
     (k.ahrefs ? Math.log10((k.ahrefs.volume || 0) + 1) - (k.ahrefs.kd ?? 20) / 20 : 0) +
-    (funnelOf(k) === want ? 4 : 0);
+    (funnelOf(k) === want ? 4 : 0) +
+    (k.source === 'user' ? 100 : 0);
   pending.sort((a, b) => score(b) - score(a));
   return pending[0];
 }

@@ -170,10 +170,10 @@ faqs:
 heroImage: /images/featured/best-matter-smart-plugs.png
 heroAlt: 'Best Matter Smart Plugs for Apartments in 2026: RenterSmartHome buying guide'
 related:
+  - best-voice-assistant-speaker-for-small-apartments
   - smart-ac-controller
   - smart-thermostat-in-apartment
   - no-drill-motorized-blinds
-  - alexa-vs-google-home
 ---
 
 A **Matter smart plug** is a smart plug certified for Matter, the shared smart home standard from Amazon, Google, Apple and Samsung. Plug a lamp, fan or coffee maker into a Matter smart plug and you can control it from Alexa, Google Home, Apple Home or SmartThings, all at once, with no brand lock-in. For renters, that matters: a Matter smart plug keeps working when you move, change phones or switch voice assistants.

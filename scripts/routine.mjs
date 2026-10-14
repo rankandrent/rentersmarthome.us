@@ -56,7 +56,7 @@ if (cmd === 'status') {
   let item;
   for (;;) {
     item = nextKeyword(queue, loadState());
-    if (!item) break;
+    if (!item || item.source === 'user') break;
     const clash = findCannibal(item, posts);
     if (item.ahrefs?.volume > cap) {
       item.status = 'parked';
