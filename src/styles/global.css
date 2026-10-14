@@ -398,3 +398,8 @@ h3 { font-size: var(--s1); letter-spacing: -.01em; }
 /* Listing thumbnails: real product photo on white */
 .post-item .thumb.product-thumb { border: 1px solid var(--rule); background: #fff; display: flex; align-items: center; justify-content: center; aspect-ratio: 1200 / 630; }
 .post-item .thumb.product-thumb img { width: auto; height: 82%; max-width: 90%; border: 0; object-fit: contain; }
+.section-photo { margin: 1.4em 0 1.6em; background: #fff; border: 1px solid var(--rule); border-radius: var(--r-box); overflow: hidden; }
+.section-photo a { display: flex; align-items: center; justify-content: center; height: 340px; padding: 18px; background: #fff; }
+.section-photo img { max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; }
+.section-photo figcaption { padding: 10px 16px; border-top: 1px solid var(--rule); font-size: .9rem; line-height: 1.45; background: var(--paper); }
+@media (max-width: 640px) { .section-photo a { height: 260px; } }

@@ -77,5 +77,50 @@ export function remarkProductFigures() {
       i++;
     }
     if (fm) fm.productsInBody = [...used];
+    addSectionPhotos(tree, products, used);
   };
+}
+
+const MAX_SECTION_PHOTOS = 4;
+
+/**
+ * Body photos: sections that don't already hold a product block get one of
+ * the products' extra official Amazon photos (gallery) after their opening
+ * paragraph, with a credit line, cycling through the products so the
+ * article reads like a photo-led buying guide.
+ */
+function addSectionPhotos(tree, products, inBody) {
+  const pool = [];
+  const maxLen = Math.max(0, ...products.map((p) => (p.gallery ?? []).length));
+  for (let n = 0; n < maxLen; n++) {
+    for (const p of products) {
+      const g = p.gallery ?? [];
+      // Products with their own block already show gallery[0] as a thumbnail; start later for them.
+      const idx = inBody.has(p.name) ? n + 1 : n;
+      if (g[idx]?.url) pool.push({ p, im: g[idx] });
+    }
+  }
+  if (!pool.length) return;
+  const isProductBlock = (node) => node.type === 'html' && node.value.startsWith('<div class="pblock">');
+  let placed = 0;
+  for (let i = 0; i < tree.children.length && placed < MAX_SECTION_PHOTOS && pool.length; i++) {
+    const node = tree.children[i];
+    if (node.type !== 'heading' || node.depth !== 2) continue;
+    let end = i + 1;
+    while (end < tree.children.length && !(tree.children[end].type === 'heading' && tree.children[end].depth === 2)) end++;
+    const section = tree.children.slice(i + 1, end);
+    if (section.some(isProductBlock)) continue;
+    const firstPara = section.findIndex((x) => x.type === 'paragraph');
+    if (firstPara < 0) continue;
+    const { p, im } = pool.shift();
+    const href = esc(amazonUrl({ asin: p.asin, query: p.query }));
+    tree.children.splice(i + 1 + firstPara + 1, 0, {
+      type: 'html',
+      value:
+        `<figure class="section-photo"><a href="${href}" rel="${AFFILIATE_REL}" target="_blank">` +
+        `<img src="${esc(im.url)}" alt="${esc(p.name)}" width="${im.width ?? 500}" height="${im.height ?? 500}" loading="lazy" decoding="async" /></a>` +
+        `<figcaption>${esc(p.name)}. <span class="credit">${esc(imageCredit(p))}</span></figcaption></figure>`,
+    });
+    placed++;
+  }
 }
