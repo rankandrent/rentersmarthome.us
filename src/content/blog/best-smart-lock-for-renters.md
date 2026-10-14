@@ -102,6 +102,25 @@ products:
     cons:
       - Remote access and Matter need a SwitchBot hub
       - Bulkier on the door than a retrofit lock
+    asin: B0F9FQ7NT3
+    image:
+      url: 'https://m.media-amazon.com/images/I/41AnpEoJ8cL._SL500_.jpg'
+      width: 441
+      height: 500
+    amazonTitle: SwitchBot Smart Lock Pro Electronic Door Lock Black
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41O8bRNKQEL._SL500_.jpg'
+        width: 500
+        height: 375
+      - url: 'https://m.media-amazon.com/images/I/41seSQCBnIL._SL500_.jpg'
+        width: 500
+        height: 375
+      - url: 'https://m.media-amazon.com/images/I/51bB2HCwO-L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51wl7x8tl0L._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Yale Approach Lock with Wi-Fi
     brand: Yale
     query: Yale Approach Lock with Wi-Fi

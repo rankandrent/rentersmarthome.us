@@ -1,11 +1,9 @@
 {
   "slug": "blink-vs-ring-subscription",
   "pass": true,
-  "checkedAt": "2026-10-14T13:15:33.635Z",
+  "checkedAt": "2026-10-14T13:21:17.525Z",
   "errors": [],
-  "warnings": [
-    "product \"Blink Mini 2\" has no Amazon photo yet (the Amazon refresh adds it after push)"
-  ],
+  "warnings": [],
   "factCheck": {
     "verified": true,
     "notes": "2026-10-14: Ring needs Ring Home to save/review/share recordings, live view and alerts free; Blink local storage via Sync Module 2 + USB drive works with Mini 2 (Blink support); Ring Indoor Cam (2nd Gen) manual privacy cover; both Amazon-owned, Alexa. Blink Mini 2K+ listing cleared for re-match.",

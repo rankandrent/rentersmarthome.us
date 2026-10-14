@@ -132,6 +132,28 @@ products:
     cons:
       - Needs an electrician in most rentals
       - Not for central forced-air systems
+    asin: B09FQ9L3Q6
+    image:
+      url: 'https://m.media-amazon.com/images/I/21lvxeELwKL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Mysa Smart Thermostat V2 for Electric Baseboard Heaters | No Subscription
+      | Humidity Sensor + Touchscreen | WiFi Programmable | Scheduling |
+      Geofencing | Apple Home, Alexa, Google | 120V-240V
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/21b0oPeBFXL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41jzetdF4fL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/31hcXFgNaQL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/31Ihi8qmR8L._SL500_.jpg'
+        width: 500
+        height: 375
 sources:
   - title: 'GearBrain: Smart thermostats without a C-wire'
     url: >-

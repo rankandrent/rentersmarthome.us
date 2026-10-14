@@ -52,18 +52,39 @@ products:
     badge: Best no-drill replacement shade
     summary: >-
       Custom-size motorized roller shades that install inside the window frame
-      with tension brackets, so you get full up-and-down
-      automation with no screws.
+      with tension brackets, so you get full up-and-down automation with no
+      screws.
     renterNote: >-
       Sits in the window recess and is held by tension; no drilling, and it
       comes out the same way.
     pros:
       - 'Full raise and lower automation, including blackout fabric options'
-      - Tension-mount brackets, no screws in the frame
+      - 'Tension-mount brackets, no screws in the frame'
       - Remote control included; check the listing for voice-assistant support
     cons:
       - Needs enough inside-mount depth; check the listing for the minimum
       - 'Made to measure, so you must measure carefully'
+    asin: B0DNYKLSMZ
+    image:
+      url: 'https://m.media-amazon.com/images/I/41p2OaTZe7L._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Motorized Blinds No Drill Automatic Blinds for Windows Cordless Roller
+      Shades Electric Blinds with Remote Control Smart Blinds (White, 34.5 x 72)
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41p96m1Bj9L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41JOVwDPFVL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41mFPwc0dNL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41rU-RBetZL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: SwitchBot Blind Tilt
     brand: SwitchBot
     query: SwitchBot Blind Tilt
@@ -162,9 +183,9 @@ faqs:
   - q: Do no-drill blinds fall down?
     a: >-
       A correctly sized tension mount stays put because tension presses it
-      against the window frame. Problems usually come from frames
-      that are too shallow, uneven or tiled, so measure the recess depth and
-      width before ordering.
+      against the window frame. Problems usually come from frames that are too
+      shallow, uneven or tiled, so measure the recess depth and width before
+      ordering.
   - q: Can renters install smart blinds without landlord permission?
     a: >-
       No-drill options leave the window frame untouched, so most renters can use

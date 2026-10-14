@@ -93,6 +93,28 @@ products:
     cons:
       - Smart alerts and cloud clips need a Blink plan
       - Indoor view only unless you add Blink's weather adapter
+    asin: B09N6YCT3Y
+    image:
+      url: 'https://m.media-amazon.com/images/I/31nxY9mlVwL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Blink Mini Pan-Tilt Camera (newest model), Rotating indoor plug-in smart
+      security camera, two-way audio, HD video, motion detection, Works with
+      Alexa (White)
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41r-9p2z70L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41yDiq-ecwL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41yy2h6EqHL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41ftxbKFhBL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Blink Sync Module 2
     brand: Blink
     query: Blink Sync Module 2

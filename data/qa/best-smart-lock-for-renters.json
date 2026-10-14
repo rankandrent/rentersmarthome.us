@@ -1,10 +1,9 @@
 {
   "slug": "best-smart-lock-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-14T13:20:21.254Z",
+  "checkedAt": "2026-10-14T13:21:13.580Z",
   "errors": [],
   "warnings": [
-    "product \"SwitchBot Lock Pro\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Aqara Smart Lock U200\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "no semantic brief (data/briefs), SEO audit skipped"
   ],
