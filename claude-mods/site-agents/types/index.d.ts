@@ -2,8 +2,12 @@ export type AgentRun = {
   id: string
   type: string
   description: string
+  post: string
   model: string
   startedAt: number
+  endedAt?: number
+  isError?: boolean
+  note?: string
 }
 export type SiteStatus = {
   site: string

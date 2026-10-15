@@ -39,6 +39,11 @@ productCount and slot time it needs, and act on what it returns:
 | 6-7 write + audit | `writer-agent` | opus |
 | 7b fact check + QA, backlog re-check | `qa-agent` | sonnet |
 | 8-9 finalize, build, push | `publisher-agent` | haiku |
+**Live dashboard:** the owner watches runs at https://claude.ai/artifact/PZPgFBgSVi37DphrWH2nDJ. With the
+ArtifactData tool, keep collection `runs` (doc id = slug: site, slug, title, url, pubDate, status
+running|scheduled|live|failed, updatedAt ms, steps.{keyword,product,brief,writer,qa,publisher} = {state
+running|done|failed, model, ms, note}) and `sites/<domain>` (quotaToday, publishedToday, pendingKeywords,
+nextRun) up to date as each agent starts and finishes. Skip silently if the tool isn't available.
 Run products and brief in parallel. You (the main session) only check status, pick the keyword and slot,
 pass results between agents and write the final summary. If an agent fails, retry it once, then skip the post.
 

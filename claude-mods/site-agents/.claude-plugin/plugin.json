@@ -1,1 +1,1 @@
-{ "name": "site-agents", "version": "0.1.0", "description": "Live panel of the affiliate-site agents (keyword, product, brief, writer, QA, publisher), their models, and today's posting status per site; plus /sites.", "types": "./types/index.d.ts" }
+{ "name": "site-agents", "version": "0.1.1", "description": "Live panel of the affiliate-site agents (keyword, product, brief, writer, QA, publisher), their models, and today's posting status per site; plus /sites.", "types": "./types/index.d.ts" }

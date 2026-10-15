@@ -5,7 +5,16 @@ import type { AgentRun, SiteStatus } from '../types'
 
 const PANE = 'site-agents'
 const SITE_DIRS = ['/home/user/rentersmarthome.us', '/home/user/best-tripod.com']
-const ROSTER = ['keyword-agent', 'product-agent', 'brief-agent', 'writer-agent', 'qa-agent', 'publisher-agent']
+// The pipeline, left to right, like an n8n workflow. product and brief run side by side.
+const FLOW = ['keyword-agent', 'product-agent', 'brief-agent', 'writer-agent', 'qa-agent', 'publisher-agent']
+const SHORT: Record<string, string> = {
+  'keyword-agent': 'Keyword',
+  'product-agent': 'Products',
+  'brief-agent': 'Brief',
+  'writer-agent': 'Writer',
+  'qa-agent': 'QA',
+  'publisher-agent': 'Publish',
+}
 
 const runs = atom({ plugin: 'site-agents', key: 'runs' } as const, [] as AgentRun[])
 const sites = atom({ plugin: 'site-agents', key: 'sites' } as const, [] as SiteStatus[])
@@ -29,7 +38,7 @@ async function refresh($: EngineInterface) {
       found.push({ site, quotaToday: 0, publishedToday: 0, remainingToday: 0, pendingKeywords: 0, error: (r.stderr || 'status failed').slice(0, 80) })
     }
     const g = await $.process
-      .run(['grep', '-H', '^model:', ...ROSTER.map(n => `${dir}/.claude/agents/${n}.md`)])
+      .run(['grep', '-H', '^model:', ...FLOW.map(n => `${dir}/.claude/agents/${n}.md`)])
       .catch(() => ({ stdout: '' }))
     for (const line of String(g.stdout).split('\n')) {
       const m = line.match(/\/([\w-]+)\.md:model:\s*(\S+)/)
@@ -41,40 +50,58 @@ async function refresh($: EngineInterface) {
   await update($, checkedAt, () => Date.now())
 }
 
-function ago(ms: number) {
-  const s = Math.max(0, Math.round((Date.now() - ms) / 1000))
-  return s < 60 ? `${s}s` : `${Math.round(s / 60)}m`
+/** "Products: baby proof rental guide" → "baby proof rental guide" (the post a run belongs to). */
+function postOf(description: string) {
+  const i = description.indexOf(':')
+  return (i >= 0 ? description.slice(i + 1) : description).trim().toLowerCase() || 'post'
 }
+
+function dur(ms: number) {
+  const s = Math.max(0, Math.round(ms / 1000))
+  return s < 60 ? `${s}s` : `${Math.floor(s / 60)}m${String(s % 60).padStart(2, '0')}s`
+}
+
+type NodeState = 'idle' | 'running' | 'done' | 'failed'
+const COLOR: Record<NodeState, string> = { idle: 'gray', running: 'yellow', done: 'green', failed: 'red' }
+const ICON: Record<NodeState, string> = { idle: '○', running: '◐', done: '✓', failed: '✗' }
 
 export const register: Register = on => {
   on('session.start', async ($, e, next) => {
-    await $.command.register({ name: 'sites', description: "Today's posting status per site and the agents working on it" })
-    void $.ui.open({ id: PANE, title: 'Site agents' })
+    await $.command.register({ name: 'sites', description: "Today's posting status per site and the agent workflow" })
+    void $.ui.open({ id: PANE, title: 'Agent workflow' })
     void refresh($)
     return next(e)
   })
 
   on('command.run', { command: 'sites' }, async $ => {
     await refresh($)
-    await $.ui.open({ id: PANE, title: 'Site agents' })
+    await $.ui.open({ id: PANE, title: 'Agent workflow' })
     const list = await read($, sites)
-    const live = (await $.agent.list().catch(() => [])).filter(a => ROSTER.includes(a.type) && ['pending', 'running', 'waiting'].includes(a.status))
+    const history = await read($, runs)
     const lines = list.map(s =>
       s.error
         ? `${s.site}: status error (${s.error})`
         : `${s.site}: ${s.publishedToday}/${s.quotaToday} posts today, ${s.remainingToday} left, ${s.pendingKeywords} keywords queued`,
     )
-    lines.push(live.length ? `Working now: ${live.map(a => `${a.type} (${a.description})`).join(', ')}` : 'No site agent is running right now.')
+    const live = history.filter(r => !r.endedAt)
+    lines.push(live.length ? `Working now: ${live.map(r => `${SHORT[r.type] ?? r.type} (${r.post})`).join(', ')}` : 'No site agent is running right now.')
     return { text: lines.join('\n') || 'No site repos found.' }
   })
 
   on('agent.spawn', async ($, e, next) => {
     const res = await next(e)
     try {
-      if (ROSTER.includes(e.subagentType) && 'agentId' in res && res.agentId) {
-        const run: AgentRun = { id: res.agentId, type: e.subagentType, description: e.description, model: res.model, startedAt: Date.now() }
-        await update($, runs, list => [...list, run].slice(-30))
-        await $.ui.status(`${e.subagentType} started (${res.model})`)
+      if (FLOW.includes(e.subagentType) && 'agentId' in res && res.agentId) {
+        const run: AgentRun = {
+          id: res.agentId,
+          type: e.subagentType,
+          description: e.description,
+          post: postOf(e.description),
+          model: res.model,
+          startedAt: Date.now(),
+        }
+        await update($, runs, list => [...list, run].slice(-60))
+        await $.ui.status(`${SHORT[e.subagentType]} started · ${run.post}`)
       }
     } catch {
       // bookkeeping only; never block a spawn
@@ -84,11 +111,27 @@ export const register: Register = on => {
 
   on('turn.complete', async ($, e, next) => {
     const res = await next(e)
-    const id = (e as { agentId?: string }).agentId
-    if (id && (await read($, runs)).some(r => r.id === id)) {
-      const run = (await read($, runs)).find(r => r.id === id)
-      await $.ui.status(undefined)
-      if (run?.type === 'publisher-agent') void refresh($)
+    try {
+      const id = e.agentId
+      if (id && (await read($, runs)).some(r => r.id === id && !r.endedAt)) {
+        const failed = e.isAborted || e.reason === 'error'
+        const score = e.answer.match(/(?:audit|score)[^\d]{0,20}(\d{2,3})/i)?.[1]
+        const pass = /"?pass"?\s*[:=]?\s*true|\bQA PASS\b/i.test(e.answer)
+        const note = score ? `score ${score}` : pass ? 'pass' : undefined
+        let type = ''
+        await update($, runs, list =>
+          list.map(r => {
+            if (r.id !== id) return r
+            type = r.type
+            return { ...r, endedAt: Date.now(), isError: failed, note }
+          }),
+        )
+        await $.ui.status(undefined)
+        await $.ui.toast(`${SHORT[type] ?? 'Agent'} ${failed ? 'failed' : 'done'}${note ? ` (${note})` : ''}`)
+        if (type === 'publisher-agent') void refresh($)
+      }
+    } catch {
+      // bookkeeping only
     }
     return res
   })
@@ -98,10 +141,29 @@ export const register: Register = on => {
     const list = await read($, sites)
     const modelMap = await read($, models)
     const history = await read($, runs)
-    const at = await read($, checkedAt)
-    const agents = await $.agent.list().catch(() => [])
-    const statusOf = (id: string) => agents.find(a => a.id === id)?.status ?? 'completed'
-    const busy = new Set(history.filter(r => ['pending', 'running', 'waiting'].includes(statusOf(r.id))).map(r => r.type))
+    const wide = (e.props.bodyColumns ?? 80) >= 96
+
+    // One workflow lane per post, newest first.
+    const posts: string[] = []
+    for (const r of [...history].reverse()) if (!posts.includes(r.post)) posts.push(r.post)
+
+    const node = (post: string, type: string) => {
+      const mine = history.filter(r => r.post === post && r.type === type)
+      const last = mine.at(-1)
+      const state: NodeState = !last ? 'idle' : !last.endedAt ? 'running' : last.isError ? 'failed' : 'done'
+      const time = last ? dur((last.endedAt ?? Date.now()) - last.startedAt) : ''
+      return (
+        <Box borderStyle="round" borderColor={COLOR[state]} flexDirection="column" paddingX={1} minWidth={13}>
+          <Text bold color={COLOR[state]}>
+            {ICON[state]} {SHORT[type]}
+          </Text>
+          <Text dimColor>{last?.model ?? modelMap[type] ?? '?'}</Text>
+          <Text dimColor>{state === 'idle' ? '—' : `${time}${last?.note ? ` · ${last.note}` : ''}`}</Text>
+        </Box>
+      )
+    }
+
+    const arrow = <Text dimColor>{wide ? ' → ' : '  ↓'}</Text>
 
     return (
       <Box flexDirection="column">
@@ -114,21 +176,39 @@ export const register: Register = on => {
               : `${s.site}  ${s.publishedToday}/${s.quotaToday} posts · ${s.remainingToday} left · ${s.pendingKeywords} keywords`}
           </Text>
         ))}
-        {at > 0 && <Text dimColor>checked {ago(at)} ago · /sites to refresh</Text>}
         <Text> </Text>
-        <Text bold>Agents</Text>
-        {ROSTER.map(name => (
-          <Text color={busy.has(name) ? 'green' : undefined} dimColor={!busy.has(name)}>
-            {busy.has(name) ? '● working ' : '○ idle    '} {name} · {modelMap[name] ?? '?'}
-          </Text>
-        ))}
-        <Text> </Text>
-        <Text bold>Recent runs</Text>
-        {history.length === 0 && <Text dimColor>No agent runs yet this session.</Text>}
-        {history.slice(-8).reverse().map(r => (
-          <Text dimColor={statusOf(r.id) !== 'running'}>
-            {statusOf(r.id)} {r.type} ({r.model}) {r.description} · {ago(r.startedAt)} ago
-          </Text>
+        {posts.length === 0 && (
+          <Box flexDirection="column">
+            <Text bold>Workflow</Text>
+            <Box flexDirection={wide ? 'row' : 'column'} alignItems={wide ? 'center' : 'flex-start'}>
+              {FLOW.map((t, i) => (
+                <Box flexDirection={wide ? 'row' : 'column'} alignItems={wide ? 'center' : 'flex-start'}>
+                  {i > 0 && arrow}
+                  {node('', t)}
+                </Box>
+              ))}
+            </Box>
+            <Text dimColor>No agent runs yet this session.</Text>
+          </Box>
+        )}
+        {posts.slice(0, 4).map(post => (
+          <Box flexDirection="column" marginBottom={1}>
+            <Text bold>▸ {post}</Text>
+            <Box flexDirection={wide ? 'row' : 'column'} alignItems={wide ? 'center' : 'flex-start'}>
+              {node(post, 'keyword-agent')}
+              {arrow}
+              <Box flexDirection="column">
+                {node(post, 'product-agent')}
+                {node(post, 'brief-agent')}
+              </Box>
+              {arrow}
+              {node(post, 'writer-agent')}
+              {arrow}
+              {node(post, 'qa-agent')}
+              {arrow}
+              {node(post, 'publisher-agent')}
+            </Box>
+          </Box>
         ))}
       </Box>
     )
