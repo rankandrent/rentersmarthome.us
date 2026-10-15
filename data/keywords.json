@@ -2766,7 +2766,7 @@
     "publishedAt": "2026-10-15T12:48:55.728Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-14T15:34:32.962Z",
     "secondaryKeywords": [
@@ -2791,7 +2791,9 @@
       "/reviews/best-stud-finder-with-deep-scan"
     ],
     "rationale": "restores an old indexed URL",
-    "slug": "best-stud-finder-for-thick-walls"
+    "slug": "best-stud-finder-for-thick-walls",
+    "productCount": 6,
+    "publishedAt": "2026-10-15T19:14:18.888Z"
   },
   {
     "status": "pending",

@@ -1,0 +1,69 @@
+{
+  "centralEntity": "stud finder for thick walls",
+  "entityVariants": ["best stud finder for thick walls", "deep scan stud finder", "stud finder for plaster walls", "electronic stud finder", "stud sensor"],
+  "entities": [
+    {"name": "Franklin Sensors ProSensor MAX", "type": "product", "relation": "multi-sensor stud finder with a deep mode for thick plaster and lath"},
+    {"name": "Franklin Sensors ProSensor M210", "type": "product", "relation": "13-sensor stud finder with 1.7-inch deep scan for double-layer drywall"},
+    {"name": "Zircon GMS120", "type": "product", "relation": "advanced stud finder with metal and live wire detection for complex walls"},
+    {"name": "DEWALT DW0150", "type": "product", "relation": "budget stud finder rated for materials up to 1.5 inches thick"},
+    {"name": "Tavool TH250", "type": "product", "relation": "inexpensive electronic stud finder that performs well on drywall"},
+    {"name": "Bosch GMS 120", "type": "product", "relation": "multi-scanner that detects wood, metal and live AC wiring"},
+    {"name": "deep scan mode", "type": "feature", "relation": "setting that increases detection depth for thick drywall or plaster"},
+    {"name": "lath and plaster", "type": "wall type", "relation": "dense, uneven older wall that confuses density-based stud finders"},
+    {"name": "metal lath", "type": "material", "relation": "wire mesh behind plaster that triggers false readings"},
+    {"name": "double-layer drywall", "type": "wall type", "relation": "two stacked sheets, common in fire-rated apartment walls"},
+    {"name": "wood stud", "type": "framing", "relation": "framing member, usually 16 inches on center"},
+    {"name": "steel stud", "type": "framing", "relation": "metal framing common in apartment buildings"},
+    {"name": "AC wire detection", "type": "feature", "relation": "warns of live electrical wiring before drilling"},
+    {"name": "magnetic stud finder", "type": "product category", "relation": "battery-free alternative that finds screws and nails instead of density"},
+    {"name": "security deposit", "type": "concept", "relation": "why renters want fewer test holes and easier move-out patching"}
+  ],
+  "attributes": ["detection depth", "deep scan mode", "plaster performance", "accuracy", "stud edge vs center", "AC wire detection", "metal detection", "price", "ease of calibration", "display type"],
+  "ngrams": ["stud finder", "deep scan mode", "thick walls", "plaster walls", "lath and plaster", "detection depth", "live AC wire", "stud center", "2 inches deep", "16 inches on center"],
+  "skipgrams": ["stud…plaster", "deep…scan", "finder…thick", "scan…depth", "plaster…lath", "renters…holes", "calibrate…wall"],
+  "nlpTerms": ["plaster", "lath", "drywall", "calibrate", "capacitance", "density", "sensor", "false reading", "joist", "wiring", "landlord", "lease", "spackle", "anchor", "TV mount", "older building", "move-out", "magnet"],
+  "questions": [
+    "Which stud finder works through thick walls?",
+    "What is deep scan mode?",
+    "Can a stud finder work on plaster walls?",
+    "How deep can a stud finder detect?",
+    "Why does my stud finder give false readings on plaster?",
+    "Is a magnetic stud finder better for old plaster walls?"
+  ],
+  "contentGaps": [
+    "Renter angle: older apartment buildings with plaster and lath, and how to scan without leaving test holes to patch at move-out",
+    "How to confirm a stud on plaster with a tiny finish nail or magnet backup instead of repeated drilling",
+    "Realistic expectations: very thick or metal-lath plaster may defeat any electronic stud finder",
+    "What to tell the landlord before mounting a heavy TV or shelf, and when to use toggle anchors instead of studs",
+    "Cheap vs pro stud finders: whether paying more is worth it for a renter who scans a few times a year"
+  ],
+  "outline": [
+    {"h2": "Our picks for the best stud finder for thick walls", "intent": "verdict", "h3": []},
+    {"h2": "The best stud finders for thick walls, reviewed", "intent": "products", "h3": []},
+    {"h2": "What deep scan mode is and how stud finders work", "intent": "explain", "h3": []},
+    {"h2": "Can a stud finder work on plaster walls?", "intent": "informational", "h3": []},
+    {"h2": "How to choose a stud finder for thick walls", "intent": "buying guide", "h3": []},
+    {"h2": "How to find a stud in a thick or plaster wall", "intent": "how-to", "h3": []},
+    {"h2": "Renter tips: scan without extra holes, patch easily at move-out", "intent": "renter", "h3": []},
+    {"h2": "Stud finder for thick walls FAQ", "intent": "faq", "h3": []},
+    {"h2": "Our verdict", "intent": "verdict", "h3": []}
+  ],
+  "targetWords": 2300,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.hgtv.com/shopping/product-reviews/best-stud-finder",
+      "https://reviewed.com/home-outdoors/best-right-now/best-stud-finder",
+      "https://www.slashgear.com/1523854/best-stud-finders-for-any-job/",
+      "https://shopsavvy.com/best-picks/best-stud-finder",
+      "https://www.talkofthehouse.com/?p=17543"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "Top roundups (HGTV, Reviewed, SlashGear) give each stud finder a short tested write-up with pros and cons, plus a price and key spec.",
+    "avgWords": 1900,
+    "avgProducts": 6,
+    "commonSections": ["product picks", "how we tested", "how stud finders work", "buying guide", "FAQ"],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true
+  }
+}
