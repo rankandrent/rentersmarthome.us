@@ -114,7 +114,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41QOGV7NqzL._SL500_.jpg'
         width: 500
         height: 500
-    amazonTitle: 'ecobee Smart Thermostat Essential - WiFi Thermostat, Energy Star Certified'
+    amazonTitle: >-
+      ecobee Smart Thermostat Essential - WiFi Thermostat, Energy Star Certified
+      | Programmable Wi-Fi Thermostat - Works with Siri, Alexa, and Google
+      Assistant. energy saving thermostat.
   - name: Mysa Smart Thermostat for Electric Baseboard Heaters
     brand: Mysa
     query: Mysa Smart Thermostat for Electric Baseboard Heaters

@@ -76,7 +76,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/51j+PBbWeHL._SL500_.jpg'
         width: 500
         height: 500
-    amazonTitle: 'Kasa Matter Smart Plug with Energy Monitoring, KP125MP2, 15A/1800W Max'
+    amazonTitle: >-
+      Kasa Matter Smart Plug with Energy Monitoring, KP125MP2, 15A/1800W Max |
+      Compact Design, Easy Setup, Works with Apple Home, Alexa & Google Home, UL
+      Certified, 2.4GHz Wi-Fi, White, 2-Pack
   - name: Tapo Mini Smart Wi-Fi Plug with Matter (P125M)
     brand: Tapo (TP-Link)
     query: Tapo P125M Matter smart plug

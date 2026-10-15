@@ -76,7 +76,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41fxwYLv7lL._SL500_.jpg'
         width: 383
         height: 500
-    amazonTitle: 'Govee 16.4ft RGBIC LED Strip Lights, LED Lights for Bedroom, APP Control'
+    amazonTitle: >-
+      Govee 16.4ft RGBIC LED Strip Lights, LED Lights for Bedroom, APP Control |
+      DIY Multiple Colors on One Line, Color Changing Lights for Home Decor,
+      Bluetooth Strip Lights with APP Control
   - name: Philips Hue Lightstrip Plus
     brand: Philips Hue
     query: Philips Hue Lightstrip Plus
@@ -146,7 +149,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41-jKQJR2QL._SL500_.jpg'
         width: 383
         height: 500
-    amazonTitle: 'Govee 16.4ft COB LED Strip Light Pro, RGBICW Light with Warm White, WiFi'
+    amazonTitle: >-
+      Govee 16.4ft COB LED Strip Light Pro, RGBICW Light with Warm White, WiFi |
+      Work with Alexa, Google Assistant and Matter, Smart Strip Light, LED
+      Lights for Bedroom, Color Changing
 sources:
   - title: 'Govee: Best LED strip lights'
     url: 'https://us.govee.com/blogs/led-strip-lights/best-led-strip-lights'

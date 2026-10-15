@@ -59,19 +59,22 @@ products:
       width: 500
       height: 500
     gallery:
-      - url: 'https://m.media-amazon.com/images/I/41DavdkE9IL._SL500_.jpg'
+      - url: 'https://m.media-amazon.com/images/I/511sKXqAGSL._SL500_.jpg'
         width: 500
         height: 500
-      - url: 'https://m.media-amazon.com/images/I/51p+NxhdYDL._SL500_.jpg'
+      - url: 'https://m.media-amazon.com/images/I/31mhfupeo4L._SL500_.jpg'
         width: 500
         height: 500
-      - url: 'https://m.media-amazon.com/images/I/51gbn5quzvL._SL500_.jpg'
+      - url: 'https://m.media-amazon.com/images/I/411hgueAEVL._SL500_.jpg'
         width: 500
         height: 500
-      - url: 'https://m.media-amazon.com/images/I/41dtWn3lsgL._SL500_.jpg'
+      - url: 'https://m.media-amazon.com/images/I/41wMeId97pL._SL500_.jpg'
         width: 500
         height: 500
-    amazonTitle: 'Regalo Safety 29"-38.5" Easy Step Baby Gate, Bottom of Stairs & Doorways'
+    amazonTitle: >-
+      Regalo Safety 29"-38.5" Easy Step Baby Gate, Bottom of Stairs & Doorways |
+      Pressure Mounted with Door, For Babies, Toddlers & Pets, White, Tested &
+      Trusted for 30 Years
   - name: Summer Infant Multi-Use Deco Extra Tall Walk-Thru Gate
     brand: Summer Infant
     query: Summer Infant Extra Tall Walk-Thru Baby Gate pressure mounted
@@ -122,7 +125,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/51Av62ryTyL._SL500_.jpg'
         width: 500
         height: 500
-    amazonTitle: 'Cumbor 30-46" Baby Gate for Stairs, Auto Close Dog Gate for Doorways White'
+    amazonTitle: >-
+      Cumbor 30-46" Baby Gate for Stairs, Auto Close Dog Gate for Doorways White
+      | Toddler Safety Essentials for the House, Mom's Choice Awards Winner-Easy
+      Install Pressure/Hardware Mounted Pet Gate for Dogs
 sources:
   - title: 'Mommyhood101: Best baby gates'
     url: 'https://mommyhood101.com/best-baby-gates'

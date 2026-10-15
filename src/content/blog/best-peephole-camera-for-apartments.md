@@ -196,7 +196,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/51unvg0xIPL._SL500_.jpg'
         width: 500
         height: 500
-    amazonTitle: 'WYZE Cam v4, 2.5K Indoor/Outdoor Security Camera, Color Night Vision'
+    amazonTitle: >-
+      WYZE Cam v4, 2.5K Indoor/Outdoor Security Camera, Color Night Vision |
+      Easy App Setup, Enhanced Two-Way Audio and Motion Detection for Home
+      Security, Baby Monitoring and Pet Camera
 sources:
   - title: Ring (manufacturer)
     url: 'https://ring.com/'
