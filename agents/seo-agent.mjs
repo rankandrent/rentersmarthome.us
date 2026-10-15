@@ -158,8 +158,12 @@ function insertLink(content, phrases, href) {
   return null;
 }
 
-/** Add contextual links from older related posts to the new post. */
-export function addBacklinks({ newSlug, item, meta, posts, max = 3 }) {
+/**
+ * Add contextual links from older related posts to the new post. A post that isn't live yet only
+ * goes into the related box (which shows live posts only): a body link to it would be a dead link
+ * on a live page until it publishes, and QA hides pages with such links.
+ */
+export function addBacklinks({ newSlug, item, meta, posts, max = 3, isLive = true }) {
   const href = `/blog/${newSlug}/`;
   const phrases = [item.keyword, ...item.secondaryKeywords, meta.entities?.[0]].filter((p) => p && p.split(' ').length >= 2);
   const targets = pickLinkTargets(item, posts, max + 3).filter((t) => t.score > 0.05);
@@ -168,7 +172,7 @@ export function addBacklinks({ newSlug, item, meta, posts, max = 3 }) {
     if (changed.length >= max) break;
     const post = posts.find((p) => p.slug === t.slug);
     if (!post || post.content.includes(href)) continue;
-    const updated = insertLink(post.content, phrases, href);
+    const updated = isLive ? insertLink(post.content, phrases, href) : null;
     if (updated) {
       writePost(post.slug, post.data, updated);
       changed.push({ slug: post.slug, mode: 'contextual' });

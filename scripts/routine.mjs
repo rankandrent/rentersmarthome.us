@@ -144,7 +144,7 @@ if (cmd === 'status') {
   const fresh = listPosts();
   const others = fresh.filter((p) => p.slug !== arg);
   const it = item ?? { keyword: post.data.keyword, secondaryKeywords: post.data.secondaryKeywords ?? [], workingTitle: post.data.title, cluster: '', category: post.data.category };
-  const backlinks = addBacklinks({ newSlug: arg, item: it, meta: { entities: post.data.entities ?? [] }, posts: others });
+  const backlinks = addBacklinks({ newSlug: arg, item: it, meta: { entities: post.data.entities ?? [] }, posts: others, isLive: Date.parse(post.data.pubDate) <= Date.now() });
 
   const state = loadState();
   const now = localNow();

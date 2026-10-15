@@ -327,7 +327,7 @@ related:
   - best-magnetic-cabinet-locks-for-renters
 ---
 
-A magnetic [stud finder](/blog/best-stud-finder-for-thick-walls/) is the simplest tool I know for hanging something heavy in a rental without turning the wall into Swiss cheese. Instead of guessing and drilling test holes, a magnetic stud finder slides across the drywall until its rare earth magnets snap onto a screw or nail, and that fastener sits in a stud. We compared the five best magnetic stud finders below on magnet strength, hands-free hold, levels and marking aids, using the makers' specs and retailer listings.
+A magnetic stud finder is the simplest tool I know for hanging something heavy in a rental without turning the wall into Swiss cheese. Instead of guessing and drilling test holes, a magnetic stud finder slides across the drywall until its rare earth magnets snap onto a screw or nail, and that fastener sits in a stud. We compared the five best magnetic stud finders below on magnet strength, hands-free hold, levels and marking aids, using the makers' specs and retailer listings.
 
 ## Our magnetic stud finder picks at a glance
 

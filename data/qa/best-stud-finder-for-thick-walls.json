@@ -1,13 +1,10 @@
 {
   "slug": "best-stud-finder-for-thick-walls",
-  "pass": false,
-  "checkedAt": "2026-10-15T19:16:14.292Z",
-  "errors": [
-    "source returns 404: https://hken.rs-online.com/web/p/stud-finders-wall-scanners/7356729"
-  ],
+  "pass": true,
+  "checkedAt": "2026-10-15T19:37:13.976Z",
+  "errors": [],
   "warnings": [
-    "product \"Zircon StudSensor HD70\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://rona.ca/en/product/zircon-metalliscanner-m40-scan-depth-object-detection-finder-zir62518-331005146"
+    "product \"Zircon StudSensor HD70\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
