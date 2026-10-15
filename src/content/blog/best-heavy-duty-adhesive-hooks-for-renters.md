@@ -200,6 +200,7 @@ faqs:
       before use.
 author: editorial-team
 related:
+  - best-magnetic-stud-finder
   - best-led-strip-lights-for-renters
   - best-pressure-mounted-baby-gate-for-renters
 heroImage: /images/featured/best-heavy-duty-adhesive-hooks-for-renters.png

@@ -2735,7 +2735,7 @@
     "slug": "best-washable-rug-for-renters-with-dogs"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-14T15:34:32.961Z",
     "secondaryKeywords": [
@@ -2761,7 +2761,9 @@
       "/categories/stud-finders"
     ],
     "rationale": "restores an old indexed URL",
-    "slug": "best-magnetic-stud-finder"
+    "slug": "best-magnetic-stud-finder",
+    "productCount": 5,
+    "publishedAt": "2026-10-15T12:48:55.728Z"
   },
   {
     "status": "pending",

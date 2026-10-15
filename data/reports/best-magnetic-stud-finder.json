@@ -1,0 +1,217 @@
+{
+  "keyword": "best magnetic stud finder",
+  "createdAt": "2026-10-15T12:48:55.732Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "magnetic stud finder",
+    "entityVariants": [
+      "magnetic stud finders",
+      "best magnetic stud finder",
+      "magnetic stud finder for renters",
+      "budget stud finder"
+    ],
+    "entities": [
+      {
+        "name": "C.H. Hanson Magnetic Stud Finder 03040",
+        "type": "product",
+        "relation": "rare earth magnet stud finder with a rotating level"
+      },
+      {
+        "name": "Kreg Magnetic Stud Finder KMM1000",
+        "type": "product",
+        "relation": "hands-free magnetic stud finder with marking notches"
+      },
+      {
+        "name": "Kreg Magnetic Stud Finder with Laser-Mark KMM1000LZ",
+        "type": "product",
+        "relation": "magnetic stud finder that projects a laser line"
+      },
+      {
+        "name": "The StudBuddy Magnetic Stud Finder",
+        "type": "product",
+        "relation": "simple neodymium magnet stud finder"
+      },
+      {
+        "name": "The StudBuddy Plus",
+        "type": "product",
+        "relation": "StudBuddy with level and inch/cm rulers"
+      },
+      {
+        "name": "electronic stud finder",
+        "type": "product category",
+        "relation": "density-sensing alternative that finds stud edges"
+      },
+      {
+        "name": "rare earth magnet",
+        "type": "component",
+        "relation": "neodymium magnet that pulls toward drywall screws and nails"
+      },
+      {
+        "name": "drywall screw",
+        "type": "fastener",
+        "relation": "what a magnetic stud finder actually detects"
+      },
+      {
+        "name": "wood stud",
+        "type": "framing",
+        "relation": "framing member, usually 16 inches on center"
+      },
+      {
+        "name": "steel stud",
+        "type": "framing",
+        "relation": "metal framing common in apartment buildings"
+      },
+      {
+        "name": "lath and plaster",
+        "type": "wall type",
+        "relation": "older wall type where results vary"
+      },
+      {
+        "name": "security deposit",
+        "type": "concept",
+        "relation": "why renters want fewer, better-placed holes"
+      }
+    ],
+    "attributes": [
+      "magnet strength",
+      "hands-free hold",
+      "built-in level",
+      "marking notch",
+      "laser line",
+      "battery-free",
+      "wall type",
+      "accuracy"
+    ],
+    "ngrams": [
+      "magnetic stud finder",
+      "rare earth magnets",
+      "drywall screws",
+      "hands free",
+      "bubble level",
+      "steel studs",
+      "lath and plaster",
+      "16 inches on center"
+    ],
+    "skipgrams": [
+      "magnetic…finder",
+      "stud…screws",
+      "finder…level",
+      "magnets…drywall",
+      "renters…holes"
+    ],
+    "nlpTerms": [
+      "neodymium",
+      "fastener",
+      "drywall",
+      "plaster",
+      "landlord",
+      "lease",
+      "spackle",
+      "anchor",
+      "TV mount",
+      "shelf",
+      "electronic stud finder",
+      "battery-free"
+    ],
+    "questions": [
+      "Do magnetic stud finders work on plaster?",
+      "Are magnetic stud finders accurate?",
+      "Is a magnetic stud finder better than an electronic one?",
+      "Do magnetic stud finders work on steel studs?",
+      "What is the best budget stud finder?"
+    ],
+    "contentGaps": [
+      "Renter angle: fewer test holes means less patching on move-out day",
+      "How to find the stud center from a column of screws",
+      "What to send the landlord before mounting a TV or shelf",
+      "When an adhesive hook or a tension rod is the better answer"
+    ],
+    "outline": [
+      {
+        "h2": "Our magnetic stud finder picks at a glance",
+        "intent": "verdict",
+        "h3": []
+      },
+      {
+        "h2": "The best magnetic stud finders, reviewed",
+        "intent": "products",
+        "h3": [
+          "C.H. Hanson Magnetic Stud Finder 03040",
+          "Kreg Magnetic Stud Finder KMM1000",
+          "The StudBuddy Magnetic Stud Finder",
+          "The StudBuddy Plus",
+          "Kreg Magnetic Stud Finder with Laser-Mark KMM1000LZ"
+        ]
+      },
+      {
+        "h2": "How a magnetic stud finder works",
+        "intent": "explain",
+        "h3": []
+      },
+      {
+        "h2": "Magnetic vs electronic stud finder",
+        "intent": "compare",
+        "h3": []
+      },
+      {
+        "h2": "How to choose a magnetic stud finder",
+        "intent": "buying guide",
+        "h3": []
+      },
+      {
+        "h2": "How to find a stud with a magnetic stud finder",
+        "intent": "how-to",
+        "h3": []
+      },
+      {
+        "h2": "Renter tips: fewer holes, easy move-out",
+        "intent": "renter",
+        "h3": []
+      },
+      {
+        "h2": "Our verdict",
+        "intent": "verdict",
+        "h3": []
+      }
+    ],
+    "targetWords": 1950,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://www.hgtv.com/shopping/product-reviews/best-stud-finder",
+        "https://www.bobvila.com/articles/best-stud-finders/",
+        "https://www.outdoorlife.com/gear/best-stud-finders/",
+        "https://pixelfy.me/guides/home/best-magnetic-stud-finders/",
+        "https://www.tractorsupply.com/a/top-rated-stud-finders"
+      ],
+      "productStyle": "pros-cons",
+      "productStyleReason": "Most top results review each stud finder with a short write-up plus pros and cons lists.",
+      "avgWords": 1700,
+      "avgProducts": 6,
+      "commonSections": [
+        "product picks",
+        "how stud finders work",
+        "magnetic vs electronic",
+        "buying guide",
+        "FAQ"
+      ],
+      "usesComparisonTable": true,
+      "usesFaq": true,
+      "usesBuyingGuide": true
+    }
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-heavy-duty-adhesive-hooks-for-renters",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-pressure-mounted-baby-gate-for-renters",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-smart-lock-for-renters",
+      "mode": "related-box"
+    }
+  ]
+}
