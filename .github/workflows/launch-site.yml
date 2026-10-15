@@ -80,11 +80,45 @@ jobs:
         with:
           node-version: 22
 
+      - name: Install
+        working-directory: site
+        run: npm ci
+
+      # The sister repo may not have its own Amazon secrets yet, so refresh its
+      # product photos/ASINs here with this repo's credentials. The site's own
+      # site.config.json tag is used (AMAZON_TAG is deliberately not set).
+      - name: Refresh Amazon data
+        working-directory: site
+        env:
+          AMAZON_CREATORS_CREDENTIAL_ID: ${{ secrets.AMAZON_CREATORS_CREDENTIAL_ID }}
+          AMAZON_CREATORS_CREDENTIAL_SECRET: ${{ secrets.AMAZON_CREATORS_CREDENTIAL_SECRET }}
+          AMAZON_CREATORS_VERSION: ${{ vars.AMAZON_CREATORS_VERSION }}
+        run: npm run amazon:refresh || echo "Amazon refresh failed; deploying without new product data."
+
+      - name: QA agent (all posts, with online checks)
+        working-directory: site
+        env:
+          AMAZON_CREATORS_CREDENTIAL_ID: ${{ secrets.AMAZON_CREATORS_CREDENTIAL_ID }}
+          AMAZON_CREATORS_CREDENTIAL_SECRET: ${{ secrets.AMAZON_CREATORS_CREDENTIAL_SECRET }}
+          AMAZON_CREATORS_VERSION: ${{ vars.AMAZON_CREATORS_VERSION }}
+        run: node scripts/qa.mjs --all --online || true
+
       - name: Build
         working-directory: site
         run: |
-          npm ci
+          npm run check:content
           npm run build
+
+      # This workflow can't push to the other repo, so the refreshed files are
+      # kept as an artifact for the publishing session to commit there.
+      - name: Keep the refreshed content
+        uses: actions/upload-artifact@v4
+        with:
+          name: refreshed-content
+          path: |
+            site/src/content/blog
+            site/data/qa
+          retention-days: 7
 
       - name: Create the Pages project (first run only)
         working-directory: site
