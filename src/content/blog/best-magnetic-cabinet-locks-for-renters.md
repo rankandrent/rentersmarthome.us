@@ -76,6 +76,25 @@ products:
     scoreNote: >-
       Adhesive mount with no drilling on most cabinets; screws for particle
       board leave holes, and removal guidance isn't published.
+    asin: B076QCR4ND
+    image:
+      url: 'https://m.media-amazon.com/images/I/315RFLu9apL._SL500_.jpg'
+      width: 500
+      height: 348
+    amazonTitle: 'Safety 1st Adhesive Magnetic Lock System, 2 Locks And 1 Key'
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/21y74astC3L._SL500_.jpg'
+        width: 500
+        height: 179
+      - url: 'https://m.media-amazon.com/images/I/41-TqDEv21L._SL500_.jpg'
+        width: 248
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41VkzSWaRuL._SL500_.jpg'
+        width: 243
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/21WaKOq5qBL._SL500_.jpg'
+        width: 375
+        height: 500
   - name: Safety 1st Adhesive Magnetic Lock System (8 Locks and 2 Keys) HS294
     brand: Safety 1st
     query: Safety 1st Adhesive Magnetic Lock System 8 locks 2 keys

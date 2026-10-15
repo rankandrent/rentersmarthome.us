@@ -97,6 +97,25 @@ products:
       value: 10
       portability: 10
     scoreNote: Push-in plugs with nothing left behind.
+    asin: B0107CZOIS
+    image:
+      url: 'https://m.media-amazon.com/images/I/417epWTkw-L._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: Safety 1st Press Tab Plug Protectors 36 Count
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41BEISwf93L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/31ztzcmTceL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/31Mx0OJDgDL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41-rq-2yw1L._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Safety 1st Easy Install Walk-Through Gate
     brand: Safety 1st
     query: Safety 1st Easy Install Walk-Through Gate
@@ -120,6 +139,27 @@ products:
       value: 8
       portability: 8
     scoreNote: Tension mount; fit depends on the opening width.
+    asin: B01BTUNHSQ
+    image:
+      url: 'https://m.media-amazon.com/images/I/31I6fRAbVbL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Safety 1st Easy Install Walk Thru Baby Gate for Doorway With Door, Dog
+      Gates, Fits 29"-38", Easy Install 28" Tall, White
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41q89TX9PYL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/31NHLsa26HL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41JGXXc2PML._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/418CzLEiCKL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: 'Safety 1st Foam Corner Cushions (4-pack, HS209)'
     brand: Safety 1st
     query: Safety 1st Foam Corner Cushions 4 pack
@@ -166,6 +206,25 @@ products:
       value: 9
       portability: 8
     scoreNote: Snap-on with no hardware; depends on knob shape.
+    asin: B00A47VH2O
+    image:
+      url: 'https://m.media-amazon.com/images/I/41PMueeHkNL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: 'Safety 1st Grip N'' Twist Door Knob Covers Decor, 4-Count'
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51sn2qzAUBL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41MDjWD7YIL._SL500_.jpg'
+        width: 500
+        height: 333
+      - url: 'https://m.media-amazon.com/images/I/41w-0dfO+nL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/31LajGFzQwL._SL500_.jpg'
+        width: 375
+        height: 500
   - name: QuakeHOLD! Furniture Safety Strap 4160
     brand: QuakeHOLD!
     query: QuakeHOLD Furniture Safety Strap 4160
@@ -189,6 +248,28 @@ products:
       value: 9
       portability: 8
     scoreNote: One small stud hole to patch.
+    asin: B000FJRYAA
+    image:
+      url: 'https://m.media-amazon.com/images/I/51uJzmQjD0L._SL500_.jpg'
+      width: 318
+      height: 500
+    amazonTitle: >-
+      QuakeHold! 4160 Furniture Strap Kit, Black 15 Inch | Earthquake Safety and
+      Anti Tip Protection, Adjustable Wall Anchor Straps, For Bookcases,
+      Cabinets, Dressers
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51-ZFNKOkJL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51MbYlBjT-L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/5193cIwl4mL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51YfOj4hxWL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: Safety 1st Adhesive Magnetic Lock System HS294 (Safety 1st)
     url: >-

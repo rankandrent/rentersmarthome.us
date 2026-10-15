@@ -142,7 +142,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41PugtZoLJL._SL500_.jpg'
         width: 400
         height: 500
-    amazonTitle: 'Tapo 2K Wireless Smart Video Doorbell w/Chime, 160° Ultra-Wide View, D210'
+    amazonTitle: >-
+      Tapo 2K Wireless Smart Video Doorbell w/Chime, 160° Ultra-Wide View, D210
+      | Person Detection, Ring Call, 2-Way Audio, Subscription-Free Local
+      Storage/Optional Cloud, Motion Only Alert
     scores:
       install: 7
       reversibility: 8

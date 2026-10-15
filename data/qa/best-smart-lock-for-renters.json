@@ -1,11 +1,12 @@
 {
   "slug": "best-smart-lock-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-14T13:21:13.580Z",
+  "checkedAt": "2026-10-15T19:41:14.453Z",
   "errors": [],
   "warnings": [
     "product \"Aqara Smart Lock U200\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "no semantic brief (data/briefs), SEO audit skipped"
+    "no semantic brief (data/briefs), SEO audit skipped",
+    "keyword overlaps /blog/best-magnetic-cabinet-locks-for-renters/ (\"best smart lock for renters\" overlaps \"best magnetic cabinet locks for renters\" (100%))"
   ],
   "factCheck": {
     "verified": true,

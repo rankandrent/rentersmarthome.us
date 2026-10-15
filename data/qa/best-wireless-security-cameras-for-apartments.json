@@ -1,18 +1,10 @@
 {
   "slug": "best-wireless-security-cameras-for-apartments",
   "pass": true,
-  "checkedAt": "2026-10-15T19:35:06.434Z",
+  "checkedAt": "2026-10-15T19:41:38.479Z",
   "errors": [],
   "warnings": [
-    "product \"Wyze Cam v4\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"eufy Indoor Cam C120\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Tapo C210 Pan/Tilt 2K Indoor Security Camera\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Aqara Camera Hub G3\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Blink Mini 2\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Google Nest Cam (Indoor, Wired) 2nd Gen\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Ring Indoor Cam (2nd Gen)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"eufy SoloCam S220\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Reolink Argus 3 Pro\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "product \"Tapo C210 Pan/Tilt 2K Indoor Security Camera\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,

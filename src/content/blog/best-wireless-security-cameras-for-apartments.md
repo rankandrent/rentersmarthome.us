@@ -84,6 +84,25 @@ products:
     scoreNote: >-
       Plug-in and subscription-free for core recording; two assistants, no Apple
       Home listed.
+    asin: B0D7HK1TJH
+    image:
+      url: 'https://m.media-amazon.com/images/I/41uFZZt209L._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: 'WYZE Cam v4, 2.5K Indoor/Outdoor Security Camera, Color Night Vision'
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41W-7c1CG6L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41RCzP45X0L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51PJm1VUvtL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51iZwgtwM7L._SL500_.jpg'
+        width: 500
+        height: 500
   - name: eufy Indoor Cam C120
     brand: eufy
     query: eufy Indoor Cam C120 2K security camera
@@ -106,6 +125,28 @@ products:
       compatibility: 6
       portability: 10
     scoreNote: Plug-in with local storage; no privacy mode and limited platform info.
+    asin: B08571VZ3Q
+    image:
+      url: 'https://m.media-amazon.com/images/I/213OyhHat4L._SL500_.jpg'
+      width: 400
+      height: 500
+    amazonTitle: >-
+      eufy Security Indoor Cam C120 | Plug-in Security Camera 3 MP | 2K with
+      Wi-Fi | IP Camera | Voice Assistant Compatibility | Night Vision | Two-Way
+      Audio | HomeBase 3 Compatible | Audio and Motion Alert
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51UzknBHuhL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41jOzXYiC0L._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41CC+x1rvQL._SL500_.jpg'
+        width: 389
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/419wK6+EetL._SL500_.jpg'
+        width: 400
+        height: 500
   - name: Tapo C210 Pan/Tilt 2K Indoor Security Camera
     brand: TP-Link Tapo
     query: TP-Link Tapo C210 2K pan tilt indoor security camera
@@ -150,6 +191,28 @@ products:
       compatibility: 8
       portability: 10
     scoreNote: Plug-in with hub features; best inside Apple Home.
+    asin: B09J2CP8YS
+    image:
+      url: 'https://m.media-amazon.com/images/I/31eLw59zWzL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Aqara 2K Indoor Security Camera Hub G3, 360° Pan & Tilt Smart Cam | WiFi
+      Security Camera for Baby & Pet, AI Facial & Gesture Recognition, Infrared
+      Remote, Compatible with HomeKit Alexa IFTTT
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41stkCC6RcL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/411J8LLajLL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41H9a5eUw2L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41gg9W-WdiL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Blink Mini 2
     brand: Blink
     query: Blink Mini 2 plug-in smart security camera
@@ -172,6 +235,28 @@ products:
       compatibility: 6
       portability: 10
     scoreNote: Very easy install; local video needs an extra hub.
+    asin: B09N6YCT3Y
+    image:
+      url: 'https://m.media-amazon.com/images/I/31nxY9mlVwL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Blink Mini Pan-Tilt Camera (newest model), Rotating indoor plug-in smart
+      security camera, two-way audio, HD video, motion detection, Works with
+      Alexa (White)
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41r-9p2z70L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41yDiq-ecwL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41yy2h6EqHL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41ftxbKFhBL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: 'Google Nest Cam (Indoor, Wired) 2nd Gen'
     brand: Google Nest
     query: Google Nest Cam indoor wired 2nd gen
@@ -194,6 +279,28 @@ products:
       compatibility: 6
       portability: 10
     scoreNote: Simple install; longer history needs a paid plan.
+    asin: B0FN7DLWGF
+    image:
+      url: 'https://m.media-amazon.com/images/I/21WKXm7Is6L._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Google Nest Cam Indoor (Wired, 3rd Gen) - Security Camera - 2025 - Snow |
+      2K video, motion detection, color night vision, 2-way audio, works with
+      Google Home and Gemini, intelligent alerts
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/21pz+uSbTWL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51cX0cshVJL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51lRcquR2DL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41kK-nxvP1L._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Ring Indoor Cam (2nd Gen)
     brand: Ring
     query: Ring Indoor Cam 2nd Gen plug-in security camera
@@ -214,6 +321,27 @@ products:
       compatibility: 6
       portability: 10
     scoreNote: Easy install and a useful privacy cover; recordings tied to a Ring plan.
+    asin: B0CD31RLDK
+    image:
+      url: 'https://m.media-amazon.com/images/I/218B1PINcVL._SL500_.jpg'
+      width: 313
+      height: 500
+    amazonTitle: >-
+      Ring Indoor Cam, Home or business security in 1080p HD video, 2-pack,
+      White
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31X0+gYCo7L._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41hdGjCEEwL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/31BvksSBfdL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/319k-+sFv4L._SL500_.jpg'
+        width: 313
+        height: 500
   - name: eufy SoloCam S220
     brand: eufy
     query: eufy SoloCam S220 solar wireless security camera
@@ -240,6 +368,28 @@ products:
       compatibility: 5
       portability: 8
     scoreNote: 'No wiring needed, but it still needs a mount spot.'
+    asin: B0BZ55JZ4S
+    image:
+      url: 'https://m.media-amazon.com/images/I/311lpab1FHL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      eufy Security SoloCam S220, Solar Security Camera, Wireless Camera Outdoor
+      | 2K Resolution, Continuous Power, Built-in 8GB, No Subscription, HomeBase
+      3 Compatible, for Outdoor Surveillance
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/419aNkj0TVL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/419oAzNc0eL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51162VpSWiL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41EwcBbqLwL._SL500_.jpg'
+        width: 400
+        height: 500
   - name: Reolink Argus 3 Pro
     brand: Reolink
     query: Reolink Argus 3 Pro battery camera
@@ -262,6 +412,28 @@ products:
       compatibility: 5
       portability: 8
     scoreNote: No wiring; needs a mount spot; app-only ecosystem.
+    asin: B0GQ246ZTX
+    image:
+      url: 'https://m.media-amazon.com/images/I/31rMroqWugL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      REOLINK 3K Security Cameras Wireless Outdoor Dual-Band WiFi 6, Argus Solar
+      | 5MP Color Night Vison, Person/Vehicle/Animal Smart AI Detection, IP67,
+      Local Storage, Smart Alerts, No Subscription
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41M-Jt03wZL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51esvFJdnAL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41R5yzBrH5L._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51y4LIX4wbL._SL500_.jpg'
+        width: 400
+        height: 500
 sources:
   - title: Wyze Cam v4 (Wyze)
     url: 'https://wyze.com/products/wyze-cam-v4'
