@@ -72,6 +72,28 @@ products:
     scoreNote: >-
       Battery-free hand tool with nothing to install; low cost and fits in a
       drawer.
+    asin: B08TVXDL83
+    image:
+      url: 'https://m.media-amazon.com/images/I/419uFMV7JRL._SL500_.jpg'
+      width: 323
+      height: 500
+    amazonTitle: >-
+      CH Hanson 03040 Magnetic Stud Finder Pack of 2 | Measuring Tools,
+      Detectable Metal/Wood, Rare Earth Magnets, Stud Finders, Magnetic Stud
+      Finders, Leveling Tools
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51HqIn5WimL._SL500_.jpg'
+        width: 386
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/21e0p4XVloL._SL500_.jpg'
+        width: 500
+        height: 213
+      - url: 'https://m.media-amazon.com/images/I/41h4nqX0wvL._SL500_.jpg'
+        width: 386
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41E+D8DuiSL._SL500_.jpg'
+        width: 386
+        height: 500
   - name: Kreg Magnetic Stud Finder KMM1000
     brand: Kreg
     query: Kreg KMM1000 Magnetic Stud Finder
@@ -95,6 +117,25 @@ products:
       value: 10
       portability: 10
     scoreNote: Battery-free and hands-free; nothing to install and inexpensive.
+    asin: B0C4M4QSP3
+    image:
+      url: 'https://m.media-amazon.com/images/I/31Q4PZ0yDkL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: 'Kreg Magnetic Stud Finder, KMM1000'
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/4155+mTEt6L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41g8tJSFAnL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41KDnCPda9L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41UPlDJBDbL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: The StudBuddy Magnetic Stud Finder
     brand: StudBuddy
     query: StudBuddy Magnetic Stud Finder
@@ -118,6 +159,28 @@ products:
       value: 10
       portability: 10
     scoreNote: The cheapest way to find studs; no batteries and nothing to install.
+    asin: B00E4690X4
+    image:
+      url: 'https://m.media-amazon.com/images/I/31+7Ezs6UUL._SL500_.jpg'
+      width: 177
+      height: 500
+    amazonTitle: >-
+      The Original StudBuddy® Magnetic Stud Finder - Made in the USA - Easy to
+      Use Stud Finder - No Batteries Required - Powerful Magnet Stud Finder -
+      Stud Finder for Drywall and Wood
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41Ub61o-LkL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41lnUPltBrL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41NItJuiK-L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/411NG6xXXdL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: The StudBuddy Plus
     brand: StudBuddy
     query: StudBuddy Plus Magnetic Stud Finder Level Ruler
@@ -143,6 +206,28 @@ products:
     scoreNote: >-
       Battery-free with a level and ruler built in; costs a little more than the
       basic model.
+    asin: B00E4690X4
+    image:
+      url: 'https://m.media-amazon.com/images/I/31+7Ezs6UUL._SL500_.jpg'
+      width: 177
+      height: 500
+    amazonTitle: >-
+      The Original StudBuddy® Magnetic Stud Finder - Made in the USA - Easy to
+      Use Stud Finder - No Batteries Required - Powerful Magnet Stud Finder -
+      Stud Finder for Drywall and Wood
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41Ub61o-LkL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41lnUPltBrL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41NItJuiK-L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/411NG6xXXdL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Kreg Magnetic Stud Finder with Laser-Mark KMM1000LZ
     brand: Kreg
     query: Kreg KMM1000LZ Magnetic Stud Finder with Laser
@@ -168,6 +253,25 @@ products:
     scoreNote: >-
       Same battery-free magnetic core plus a laser; nothing to install, but a
       higher price.
+    asin: B0C31C8WLC
+    image:
+      url: 'https://m.media-amazon.com/images/I/41fSNru3-QL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: 'Kreg Magnetic Stud Finder with Laser-Mark, KMM1000LZ.'
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41JDVoEUiAL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41RkLF9vmCL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41JlJE2VG5L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41Ew359XQ1L._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: C.H. Hanson Magnetic Stud Finder 03040 (Ace Hardware)
     url: 'https://www.acehardware.com/p/2302487'

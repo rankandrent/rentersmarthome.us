@@ -169,7 +169,8 @@ products:
         height: 500
     amazonTitle: >-
       Breez Lite Smart AC Controller for Mini-Split, Window, Portable ACS
-      (White)
+      (White) | WiFi Controller, Alexa, Google, Siri Shortcuts, SmartThings,
+      IFTTT, Free App, NO Subscriptions | Schedules, Geofencing, Comfy
     scores:
       install: 10
       reversibility: 10

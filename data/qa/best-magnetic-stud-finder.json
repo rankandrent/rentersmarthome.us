@@ -1,14 +1,10 @@
 {
   "slug": "best-magnetic-stud-finder",
   "pass": true,
-  "checkedAt": "2026-10-15T12:48:47.259Z",
+  "checkedAt": "2026-10-15T12:50:23.233Z",
   "errors": [],
   "warnings": [
-    "product \"C.H. Hanson Magnetic Stud Finder 03040\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Kreg Magnetic Stud Finder KMM1000\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"The StudBuddy Magnetic Stud Finder\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"The StudBuddy Plus\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Kreg Magnetic Stud Finder with Laser-Mark KMM1000LZ\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "source didn't respond normally (no response): https://www.tractorsupply.com/tsc/product/the-studbuddy-plus-magnetic-stud-finder-level-and-ruler-2408462"
   ],
   "factCheck": {
     "verified": true,
