@@ -44,11 +44,11 @@ pass results between agents and write the final summary. If an agent fails, retr
 
 **Rules that always apply**
 - Keep it natural, with something genuinely new for crawlers every day: a new post on most days
-  (random times, quota 0-2), plus the daily QA backlog re-check of one older post. When the re-check
+  (random times, quota 3-4), plus the daily QA backlog re-check of one older post. When the re-check
   changes the post's content, set `updatedDate` to now and `reviewedDate` to today; if nothing changed,
   set only `reviewedDate`. Never bump dates, reorder text or make cosmetic edits just to look fresh.
 - Posts go live at random times of day: always use the `slots` times as pubDate, never the current time.
-- Never publish more than the day's quota (`remainingToday`, at most 2 posts per day). The site owner does not want
+- Never publish more than the day's quota (`remainingToday`, at most 4 posts per day). The site owner does not want
   batches of posts going live at once, so never publish 5 (or several) posts in one go, even if asked by a scheduled prompt.
 - Long-tail only: target keywords with ≤ 250 searches/month (Ahrefs). Never target short-tail head terms.
 - No keyword cannibalization: before writing, run `node scripts/routine.mjs cannibal "<keyword>"`. If it reports

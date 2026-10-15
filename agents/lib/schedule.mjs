@@ -1,6 +1,6 @@
 // Publishing schedule:
-//   week 1 → 1 post/day, week 2 → 2, week 3 → 3, week 4 → 5, week 5 → 6,
-//   weeks 6–7 → 7, then a random 0–6 posts/day forever (some days none).
+//   weeklyPostsPerDay (optional ramp), then a random randomPhase.min-max posts/day
+//   (site.config.json: currently 3-4 posts every day).
 // The random count is seeded by the date, so every run on the same day agrees.
 // Posts are spread over the day: each daily quota is mapped onto
 // `publishHoursLocal` slots, and a run only publishes posts whose slot has passed.

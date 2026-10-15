@@ -60,7 +60,18 @@ if (cmd === 'status') {
   const now = localNow();
   const q = quotaFor(now.date, state.startDate ?? now.date);
   const done = state.published.filter((p) => p.date === now.date).length;
-  const times = releaseTimes(now.date, q.quota).slice(done);
+  // Drop the slot nearest each post already scheduled today, so no two posts share a time.
+  const times = releaseTimes(now.date, q.quota);
+  const taken = listPosts()
+    .filter((p) => state.published.some((x) => x.slug === p.slug && x.date === now.date))
+    .map((p) => Date.parse(p.data.pubDate));
+  for (const t of taken) {
+    if (!times.length) break;
+    let best = 0;
+    times.forEach((x, i) => { if (Math.abs(x - t) < Math.abs(times[best] - t)) best = i; });
+    times.splice(best, 1);
+  }
+  times.splice(Math.max(0, q.quota - done));
   // A slot that has already passed is replaced by "a few minutes from now".
   const soon = Date.now() + 10 * 60000;
   out({ quotaToday: q.quota, publishedToday: done, pubDates: times.map((t) => new Date(Math.max(t.getTime(), soon)).toISOString()) });
