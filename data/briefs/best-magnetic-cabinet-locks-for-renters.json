@@ -1,0 +1,75 @@
+{
+  "centralEntity": "magnetic cabinet lock",
+  "entityVariants": ["magnetic cabinet locks", "adhesive magnetic cabinet locks", "no drill cabinet locks", "invisible cabinet locks", "magnetic child safety locks", "magnetic baby proof locks for renters"],
+  "entities": [
+    {"name": "Vmaisi magnetic cabinet locks", "type": "product", "relation": "most-cited adhesive magnetic lock set, sold in 10 and 20 packs with keys"},
+    {"name": "Safety 1st Magnetic Locking System", "type": "product", "relation": "widely sold magnetic lock kit with magnetic key"},
+    {"name": "Jool Baby magnetic cabinet locks", "type": "product", "relation": "budget 3M adhesive magnetic lock set"},
+    {"name": "Dreambaby adhesive magnetic locks", "type": "product", "relation": "small adhesive-mount magnetic lock set"},
+    {"name": "Jetec U-shaped cabinet locks", "type": "product", "relation": "non-magnetic, no-adhesive alternative that loops over knobs and pulls"},
+    {"name": "Kiscords safety locks", "type": "product", "relation": "no-residue strap-style alternative for round knobs"},
+    {"name": "3M VHB adhesive", "type": "material", "relation": "acrylic foam tape used to mount most adhesive magnetic locks"},
+    {"name": "magnetic key", "type": "component", "relation": "tool that releases the latch from outside the cabinet"},
+    {"name": "latch and catch", "type": "component", "relation": "the two parts mounted inside the door and the frame"},
+    {"name": "dental floss or heat gun", "type": "removal tool", "relation": "used to cut or soften adhesive on move-out"},
+    {"name": "Goo Gone or isopropyl alcohol", "type": "product category", "relation": "residue removers for adhesive"},
+    {"name": "security deposit", "type": "concept", "relation": "why renters avoid drilling and adhesive damage"},
+    {"name": "lease alterations clause", "type": "legal concept", "relation": "lease language that may restrict screws, drilling or adhesives"},
+    {"name": "cabinet finish", "type": "material", "relation": "laminate, thermofoil, painted wood or veneer, each reacts differently to adhesive"}
+  ],
+  "attributes": ["no drilling", "adhesive strength", "clean removal", "invisible from outside", "magnetic key reliability", "number of locks per pack", "keys included", "door thickness", "cabinet material", "metal interference", "heat and humidity resistance", "drawer vs door fit", "reusability"],
+  "ngrams": ["magnetic cabinet locks", "no drill", "child safety", "3M adhesive", "magnetic key", "cabinet doors", "security deposit", "for renters", "invisible from the outside", "easy to install", "baby proofing", "adhesive residue"],
+  "skipgrams": ["magnetic…locks", "adhesive…residue", "cabinet…finish", "no…drilling", "locks…renters", "adhesive…removal", "magnet…key", "adhesive…cure", "deposit…damage", "lock…drawers"],
+  "nlpTerms": ["adhesive", "residue", "baby proofing", "child safety", "latch", "catch", "template", "magnetic key", "laminate", "thermofoil", "veneer", "security deposit", "landlord", "lease", "dental floss", "heat gun", "isopropyl alcohol", "hair dryer", "cure time", "toddler", "drawer", "hinge", "strap lock"],
+  "questions": [
+    "Do magnetic cabinet locks damage cabinets?",
+    "How do adhesive magnetic locks come off?",
+    "Can magnetic cabinet locks be installed without drilling?",
+    "How long should adhesive cure before closing the cabinet?",
+    "Will adhesive magnetic locks stay on near a stove or in a humid kitchen?",
+    "Do magnetic locks work on metal or thick cabinet doors?",
+    "Are adhesive cabinet locks safe for a rental security deposit?",
+    "What is the best no drill cabinet lock if adhesive is not allowed?"
+  ],
+  "contentGaps": [
+    "Which cabinet finishes (laminate, thermofoil, painted, veneer) risk peeling when adhesive comes off",
+    "Step-by-step move-out removal: heat, floss, slow peel, residue remover, touch-up",
+    "How to read a lease for alteration, adhesive or 'no nails or screws' language and when to ask the landlord",
+    "Test-patch advice: try adhesive inside a hidden spot before committing the whole kitchen",
+    "Cure time and temperature limits for adhesive near stoves, dishwashers and under sinks",
+    "When a no-adhesive U-lock or strap lock is the safer renter choice",
+    "Realistic limits: metal-inside doors, thick doors and face-frame cabinets",
+    "Documenting installs with photos for deposit disputes"
+  ],
+  "outline": [
+    {"h2": "The best magnetic cabinet locks for renters at a glance", "intent": "verdict", "h3": []},
+    {"h2": "The best magnetic cabinet locks for renters, reviewed", "intent": "products", "h3": []},
+    {"h2": "Magnetic cabinet locks compared", "intent": "compare", "h3": []},
+    {"h2": "How to choose adhesive magnetic cabinet locks", "intent": "buying guide", "h3": ["Cabinet finish and door thickness", "Adhesive type and cure time", "Keys, pack size and drawers"]},
+    {"h2": "Do magnetic cabinet locks damage cabinets?", "intent": "renter risk", "h3": ["Finish and veneer risks", "Run a hidden test patch first"]},
+    {"h2": "How to install no drill cabinet locks", "intent": "how-to", "h3": []},
+    {"h2": "How adhesive magnetic locks come off on move-out", "intent": "removal", "h3": ["Soften, cut and peel", "Remove residue and touch up"]},
+    {"h2": "Lease rules, landlord approval and your deposit", "intent": "renter legal", "h3": []},
+    {"h2": "When to skip adhesive: no-drill alternatives", "intent": "alternatives", "h3": []},
+    {"h2": "Frequently asked questions", "intent": "faq", "h3": []},
+    {"h2": "Our verdict", "intent": "conclusion", "h3": []}
+  ],
+  "targetWords": 2300,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.babybargains.com/best-cabinet-locks/",
+      "https://www.parse.gl/prompts/p/what-is-the-best-childproof-lock-for-kitchen-cabinets--af65a3d6-cd4c-4f94-8f77-b2c2872782c9",
+      "https://www.mayfairfarms.com/?p=36109",
+      "https://www.talkofthehouse.com/?p=43348",
+      "https://stgmobile.jpost.com/advisor/home-and-kitchen/10-best-cabinet-locks-775468"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "Top roundups (Baby Bargains and the templated listicles) list each lock with a short blurb plus explicit pros and cons such as 'may damage surface' or 'fails on metal-inside doors'.",
+    "avgWords": 1900,
+    "avgProducts": 9,
+    "commonSections": ["quick picks / top pick summary", "product reviews with pros and cons", "comparison table", "types of cabinet locks (magnetic, strap, sliding)", "buying guide", "installation tips", "FAQ"],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true
+  }
+}

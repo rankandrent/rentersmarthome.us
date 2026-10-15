@@ -1,0 +1,20 @@
+{
+  "slug": "best-magnetic-cabinet-locks-for-renters",
+  "pass": true,
+  "checkedAt": "2026-10-15T19:34:03.856Z",
+  "errors": [],
+  "warnings": [
+    "product \"Safety 1st Adhesive Magnetic Lock System (4 Locks and 1 Key)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Safety 1st Adhesive Magnetic Lock System (8 Locks and 2 Keys) HS294\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Safety 1st Secure-to-Explore Adhesive Magnetic Locks (20 Locks, 2 Keys) HS402\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Jool Baby Magnetic Cabinet Locks (12 Locks, 2 Keys)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Dreambaby Adhesive Mag Lock (4 Locks + 1 Key)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Qdos Adhesive Magnet Lock (4 Pack)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "keyword overlaps /blog/best-smart-lock-for-renters/ (\"best magnetic cabinet locks for renters\" overlaps \"best smart lock for renters\" (100%))"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Re-checked via web search against Safety 1st HS294/HS402 manufacturer pages, Ace Hardware/Do it Best (4-lock), Babylist and Target (Jool Baby 12 locks/2 keys, 3M adhesive, install tool, 1.4in, pets), Walmart/Ace (Dreambaby 4 locks/1 key, template, disengage), Albee Baby/Snugglebugz (Qdos tool, one-screw footnote). Removed unconfirmed Dreambaby 2/4/8 packs, softened HS402 particle-board and 3M foam-tape claims, removed heat gun and brand-name remover. No prices, ratings or testing claims.",
+    "at": "2026-10-15T19:34:13.412Z"
+  }
+}

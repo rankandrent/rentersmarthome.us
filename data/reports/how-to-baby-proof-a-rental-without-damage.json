@@ -1,0 +1,287 @@
+{
+  "keyword": "how to baby proof a rental without damage",
+  "createdAt": "2026-10-15T19:34:54.101Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "baby proofing a rental",
+    "entityVariants": [
+      "baby proofing an apartment",
+      "babyproofing a rental",
+      "renter baby proofing",
+      "baby proofing without drilling",
+      "renter-friendly baby proofing"
+    ],
+    "entities": [
+      {
+        "name": "pressure-mounted baby gate",
+        "type": "product category",
+        "relation": "tension-fit gate that blocks doorways and hallways without screws"
+      },
+      {
+        "name": "adhesive cabinet lock",
+        "type": "product category",
+        "relation": "peel-off lock that secures cabinets and drawers without drilling"
+      },
+      {
+        "name": "magnetic cabinet lock",
+        "type": "product category",
+        "relation": "hidden lock released by a magnetic key, usually mounted with adhesive"
+      },
+      {
+        "name": "outlet cover",
+        "type": "product category",
+        "relation": "plug-in or sliding cover that blocks access to electrical outlets"
+      },
+      {
+        "name": "corner guard",
+        "type": "product category",
+        "relation": "foam or silicone edge protector for tables and hearths"
+      },
+      {
+        "name": "furniture anti-tip strap",
+        "type": "product category",
+        "relation": "strap that stops dressers and bookcases from tipping, with drill and no-drill versions"
+      },
+      {
+        "name": "door knob cover",
+        "type": "product category",
+        "relation": "clip-on cover that keeps toddlers out of bathrooms and closets"
+      },
+      {
+        "name": "window stop",
+        "type": "product category",
+        "relation": "limits how far a window opens to prevent falls"
+      },
+      {
+        "name": "cord shortener",
+        "type": "product category",
+        "relation": "keeps blind and curtain cords out of reach to prevent strangulation"
+      },
+      {
+        "name": "stair gate",
+        "type": "safety concept",
+        "relation": "top of stairs needs hardware-mounted gate; bottom can be pressure-mounted"
+      },
+      {
+        "name": "landlord permission",
+        "type": "lease concept",
+        "relation": "required before drilling, anchoring furniture, or installing window guards"
+      },
+      {
+        "name": "security deposit",
+        "type": "lease concept",
+        "relation": "can be charged for holes, paint damage, and adhesive residue"
+      },
+      {
+        "name": "lease addendum",
+        "type": "lease concept",
+        "relation": "written approval for modifications"
+      },
+      {
+        "name": "normal wear and tear",
+        "type": "lease concept",
+        "relation": "damage a landlord generally cannot deduct for"
+      },
+      {
+        "name": "CPSC",
+        "type": "organization",
+        "relation": "US agency setting child safety standards and tip-over guidance"
+      },
+      {
+        "name": "JPMA",
+        "type": "organization",
+        "relation": "juvenile products association that certifies gates and locks"
+      },
+      {
+        "name": "tip-over hazard",
+        "type": "safety concept",
+        "relation": "dressers, TVs and bookcases that can fall on a child"
+      },
+      {
+        "name": "drywall",
+        "type": "material",
+        "relation": "wall surface that adhesive and tape can damage when removed"
+      }
+    ],
+    "attributes": [
+      "no drilling",
+      "adhesive residue",
+      "removable",
+      "pressure-mounted",
+      "tool-free install",
+      "landlord approval",
+      "deposit risk",
+      "child-resistant",
+      "JPMA certified",
+      "wall compatibility",
+      "reusable",
+      "move-out restoration"
+    ],
+    "ngrams": [
+      "baby proof a rental",
+      "baby proofing an apartment",
+      "without drilling",
+      "security deposit",
+      "landlord permission",
+      "pressure mounted gate",
+      "cabinet locks",
+      "outlet covers",
+      "corner guards",
+      "furniture anchors",
+      "wear and tear",
+      "move out"
+    ],
+    "skipgrams": [
+      "baby…proof",
+      "rental…drilling",
+      "landlord…permission",
+      "gate…pressure",
+      "adhesive…residue",
+      "cabinet…locks",
+      "furniture…tip",
+      "deposit…damage",
+      "stairs…gate",
+      "outlet…covers"
+    ],
+    "nlpTerms": [
+      "landlord",
+      "lease",
+      "security deposit",
+      "adhesive",
+      "residue",
+      "drill",
+      "anchor",
+      "toddler",
+      "crawling",
+      "stairs",
+      "outlet",
+      "cord",
+      "tip-over",
+      "pressure-mounted",
+      "wear and tear",
+      "move-out",
+      "JPMA",
+      "CPSC",
+      "drywall",
+      "door frame",
+      "trim"
+    ],
+    "questions": [
+      "Can you baby proof a rental without drilling?",
+      "What baby proofing needs landlord permission?",
+      "Will adhesive cabinet locks damage paint or cabinets?",
+      "Can you use a pressure-mounted gate at the top of stairs?",
+      "How do you anchor a dresser in a rental without drilling?",
+      "When should you start baby proofing an apartment?",
+      "Can a landlord charge for baby proofing damage?"
+    ],
+    "contentGaps": [
+      "Which baby proofing steps legally or practically need landlord permission, and a short template to ask",
+      "Lease clauses to check: alterations, wall fixtures, deposit deductions, normal wear and tear",
+      "Photo-documenting walls, cabinets and door frames before install to protect the deposit",
+      "Safe adhesive removal on painted walls and older cabinets (heat, dental floss, residue cleaner)",
+      "Where no-drill is not safe enough: top-of-stairs gates and tall furniture anchoring, with compromises",
+      "Room-by-room order of priority for a renter who has limited time before the baby crawls",
+      "Move-out checklist for restoring cabinets, walls and outlets and reusing gear in the next home"
+    ],
+    "outline": [
+      {
+        "h2": "Can you baby proof a rental without damage?",
+        "intent": "direct answer and overview",
+        "h3": []
+      },
+      {
+        "h2": "What baby proofing needs landlord permission?",
+        "intent": "lease and permission",
+        "h3": [
+          "Check your lease first",
+          "How to ask your landlord"
+        ]
+      },
+      {
+        "h2": "Baby proofing products that work without drilling",
+        "intent": "products",
+        "h3": []
+      },
+      {
+        "h2": "How to baby proof an apartment room by room",
+        "intent": "step-by-step",
+        "h3": [
+          "Living room",
+          "Kitchen",
+          "Bathroom",
+          "Nursery and bedroom",
+          "Stairs, windows and doors"
+        ]
+      },
+      {
+        "h2": "How to choose renter-safe baby proofing gear",
+        "intent": "buying guide",
+        "h3": []
+      },
+      {
+        "h2": "How to install adhesive products without ruining paint",
+        "intent": "install and protect deposit",
+        "h3": []
+      },
+      {
+        "h2": "When no-drill is not enough",
+        "intent": "safety limits: stairs, tall furniture",
+        "h3": []
+      },
+      {
+        "h2": "Baby proofing a rental on move-out day",
+        "intent": "restoration and deposit",
+        "h3": []
+      },
+      {
+        "h2": "Baby proofing a rental FAQ",
+        "intent": "faq",
+        "h3": []
+      }
+    ],
+    "targetWords": 2000,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://www.rentcafe.com/blog/?p=133709",
+        "https://www.greystar.com/blog/how-to-baby-proof-your-apartment",
+        "https://reolink.com/blog/baby-proof-apartment/",
+        "https://www.greenresidential.com/?p=9152",
+        "https://homelet.co.uk/tenants/tips-for-tenants/baby-proofing-your-rented-home",
+        "https://www.realestatebusiness.com.au/property-management/15415-babyproofing-a-rental-property"
+      ],
+      "productStyle": "paragraph",
+      "productStyleReason": "Top results are renter/property-manager guides that describe each baby proofing item in a short prose paragraph or tip, not pros-cons lists or spec tables.",
+      "avgWords": 1500,
+      "avgProducts": 8,
+      "commonSections": [
+        "get landlord permission",
+        "baby gates",
+        "cabinet and drawer locks",
+        "outlet covers",
+        "corner guards",
+        "furniture anchoring",
+        "cords and windows",
+        "move-out repairs"
+      ],
+      "usesComparisonTable": false,
+      "usesFaq": false,
+      "usesBuyingGuide": false
+    }
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-pressure-mounted-baby-gate-for-renters",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-magnetic-cabinet-locks-for-renters",
+      "mode": "related-box"
+    },
+    {
+      "slug": "how-to-cool-apartment-without-ac",
+      "mode": "related-box"
+    }
+  ]
+}

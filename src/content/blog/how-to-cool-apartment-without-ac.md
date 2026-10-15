@@ -206,6 +206,8 @@ heroImage: /images/featured/how-to-cool-apartment-without-ac.png
 heroAlt: >-
   How to Cool an Apartment Without AC: 12 Renter-Friendly Tips: RenterSmartHome
   renter guide
+related:
+  - how-to-baby-proof-a-rental-without-damage
 ---
 
 Learning how to cool an apartment without AC comes down to three moves: keep the heat out, move the air at the right time, and stop making heat indoors. **To cool an apartment without AC, close blackout curtains on sunny windows during the day, open windows and run fans at night, and create a cross breeze with one fan blowing out and another window letting cool air in.** None of these tips needs installation or landlord approval.

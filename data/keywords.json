@@ -2796,7 +2796,7 @@
     "publishedAt": "2026-10-15T19:14:18.888Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-14T15:34:32.962Z",
     "secondaryKeywords": [
@@ -2821,10 +2821,11 @@
       "/reviews/complete-renter-baby-proofing-guide"
     ],
     "rationale": "restores an old indexed URL",
-    "slug": "how-to-baby-proof-a-rental-without-damage"
+    "slug": "how-to-baby-proof-a-rental-without-damage",
+    "publishedAt": "2026-10-15T19:34:54.099Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-14T15:34:32.962Z",
     "secondaryKeywords": [
@@ -2848,7 +2849,8 @@
       "/reviews/best-magnetic-cabinet-locks-for-renters"
     ],
     "rationale": "restores an old indexed URL",
-    "slug": "best-magnetic-cabinet-locks-for-renters"
+    "slug": "best-magnetic-cabinet-locks-for-renters",
+    "publishedAt": "2026-10-15T19:34:52.813Z"
   },
   {
     "status": "pending",

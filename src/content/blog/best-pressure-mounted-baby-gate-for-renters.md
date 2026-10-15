@@ -177,6 +177,8 @@ heroAlt: >-
   Best Pressure Mounted Baby Gate for Renters (No Drilling): RenterSmartHome
   buying guide
 related:
+  - how-to-baby-proof-a-rental-without-damage
+  - best-magnetic-cabinet-locks-for-renters
   - best-magnetic-stud-finder
   - best-heavy-duty-adhesive-hooks-for-renters
 ---
