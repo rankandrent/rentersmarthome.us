@@ -28,6 +28,20 @@ post is live and passes QA (until then they 302 to the closest page).
 they skip the volume cap and the cannibalization check, and `next` serves them first. Items marked
 `duplicateOf` share intent with a live post, so they're queued last; give them a distinct angle from that post.
 
+**Agents and models (saves tokens):** don't do every step yourself. Hand each step to its subagent in
+`.claude/agents/` with the Agent tool (`subagent_type` = the agent's name), passing the slug, keyword item,
+productCount and slot time it needs, and act on what it returns:
+| Step | Agent | Model |
+|---|---|---|
+| 1, 2b keywords | `keyword-agent` | sonnet |
+| 3 products | `product-agent` | sonnet |
+| 4 brief + serpStructure | `brief-agent` | sonnet |
+| 6-7 write + audit | `writer-agent` | opus |
+| 7b fact check + QA, backlog re-check | `qa-agent` | sonnet |
+| 8-9 finalize, build, push | `publisher-agent` | haiku |
+Run products and brief in parallel. You (the main session) only check status, pick the keyword and slot,
+pass results between agents and write the final summary. If an agent fails, retry it once, then skip the post.
+
 **Rules that always apply**
 - Keep it natural, with something genuinely new for crawlers every day: a new post on most days
   (random times, quota 0-2), plus the daily QA backlog re-check of one older post. When the re-check
