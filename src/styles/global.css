@@ -429,3 +429,21 @@ h3 { font-size: var(--s1); letter-spacing: -.01em; }
 .suggest li { padding: 9px 14px; cursor: pointer; font-family: var(--display); color: var(--slate); }
 .suggest li b { color: var(--ink); }
 .suggest li[aria-selected="true"], .suggest li:hover { background: var(--tape-soft); color: var(--ink); }
+
+/* Mobile table of contents (the sidebar TOC shows on wide screens) */
+.toc-mobile { display: none; margin: 0 0 22px; background: #fff; border: 1px solid var(--rule); border-radius: var(--r-box); }
+.toc-mobile summary { cursor: pointer; padding: 12px 16px; font-family: var(--display); font-weight: 700; }
+.toc-mobile ol { margin: 0; padding: 0 16px 12px 34px; font-family: var(--display); font-size: .95rem; }
+.toc-mobile li { margin: 6px 0; }
+.toc-mobile a { color: var(--ink); }
+@media (max-width: 1000px) { .toc-mobile { display: block; } .article-layout aside .toc { display: none; } }
+
+/* Share links and the Read next card */
+.share { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; margin: 32px 0 0; max-width: var(--measure); font-family: var(--display); font-size: .92rem; }
+.share span { color: var(--slate); width: 100%; }
+.share a, .share button { font: inherit; font-weight: 700; color: var(--ink); background: #fff; border: 1px solid var(--rule); border-radius: 99px; padding: 6px 14px; text-decoration: none; cursor: pointer; }
+.share a:hover, .share button:hover { border-color: var(--tape); }
+.read-next { display: grid; gap: 4px; margin: 24px 0 0; max-width: var(--measure); padding: 18px 22px; background: #fff; border: 1px solid var(--rule); border-left: 4px solid var(--tape); border-radius: var(--r-box); text-decoration: none; color: var(--ink); }
+.read-next strong { font-family: var(--display); font-size: var(--s1); line-height: 1.25; }
+.read-next span:last-child { color: var(--slate); font-family: var(--text); }
+.read-next:hover strong { text-decoration: underline; }

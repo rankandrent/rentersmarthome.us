@@ -37,7 +37,9 @@ const related = [
   ...d.related.map((id) => byId.get(id)),
   ...all.filter((p) => p.data.category === d.category),
   ...all,
-].filter((p) => p && !seen.has(p.id) && seen.add(p.id)).slice(0, 3);
+].filter((p) => p && !seen.has(p.id) && seen.add(p.id)).slice(0, 4);
+// The closest guide becomes the 'Read next' card; the rest fill 'Related guides'.
+const [readNext, ...relatedRest] = related;
 
 const jsonLd: object[] = [
   {
@@ -131,6 +133,16 @@ if (d.products.length > 1) {
 
     <div class="article-layout">
       <article>
+        {toc.length > 1 && (
+          <details class="toc-mobile">
+            <summary>In this guide ({toc.length + (d.products.length > 0 ? 1 : 0) + (d.faqs.length > 0 ? 1 : 0)} sections)</summary>
+            <ol>
+              {d.products.length > 0 && <li><a href="#top-picks">Our top picks</a></li>}
+              {toc.map((h) => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}
+              {d.faqs.length > 0 && <li><a href="#faq">Questions renters ask</a></li>}
+            </ol>
+          </details>
+        )}
         <p class="disclosure">We earn a commission if you buy through links on this page, at no extra cost to you. It never changes what we recommend. <a href="/affiliate-disclosure/">How we make money</a>.</p>
         <ProductPicks products={d.products} inBody={inBody} style={d.productStyle} />
         {d.tldr.length > 0 && (
@@ -178,6 +190,23 @@ if (d.products.length > 1) {
           </section>
         )}
 
+        <div class="share" aria-label="Share this guide">
+          <span>Found this useful? Share it with a renter friend:</span>
+          <a href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}`} target="_blank" rel="noopener">Facebook</a>
+          <a href={`https://x.com/intent/post?url=${encodeURIComponent(url)}&text=${encodeURIComponent(d.title)}`} target="_blank" rel="noopener">X</a>
+          <a href={`https://pinterest.com/pin/create/button/?url=${encodeURIComponent(url)}&media=${encodeURIComponent(absUrl(hero ?? '/images/og/home.png'))}&description=${encodeURIComponent(d.title)}`} target="_blank" rel="noopener">Pinterest</a>
+          <a href={`mailto:?subject=${encodeURIComponent(d.title)}&body=${encodeURIComponent(url)}`}>Email</a>
+          <button type="button" class="copy-link" data-url={url}>Copy link</button>
+        </div>
+
+        {readNext && (
+          <a class="read-next" href={`/blog/${readNext.id}/`}>
+            <span class="kicker">Read next</span>
+            <strong>{readNext.data.title}</strong>
+            <span>{readNext.data.description}</span>
+          </a>
+        )}
+
         <div class="author-box">
           <span class="avatar">{(author.image || author.type !== 'Person') ? <img src={author.image ?? '/favicon.svg'} alt="" width="56" height="56" /> : initials(author.name)}</span>
           <div>
@@ -202,16 +231,22 @@ if (d.products.length > 1) {
       </aside>
     </div>
 
-    {related.length > 0 && (
+    {relatedRest.length > 0 && (
       <section class="section">
         <div class="section-head"><h2>Related guides</h2></div>
-        <div class="posts">{related.map((p) => <PostItem post={p!} />)}</div>
+        <div class="posts">{relatedRest.map((p) => <PostItem post={p!} />)}</div>
       </section>
     )}
   </div>
 </Base>
 
 <script>
+  // Copy-link share button.
+  document.querySelectorAll<HTMLButtonElement>('.copy-link').forEach((b) =>
+    b.addEventListener('click', async () => {
+      try { await navigator.clipboard.writeText(b.dataset.url!); b.textContent = 'Link copied'; } catch { b.textContent = b.dataset.url!; }
+    }),
+  );
   // Product galleries: clicking a thumbnail swaps the main photo.
   document.addEventListener('click', (e) => {
     const btn = (e.target as HTMLElement).closest<HTMLButtonElement>('.pg-thumb');

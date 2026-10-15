@@ -1,6 +1,6 @@
 ---
 title: 'Best Video Doorbell Without Subscription for Renters: 3 Picks'
-seoTitle: Best Video Doorbell Without Subscription for Renters
+seoTitle: 'Best Video Doorbell Without Subscription for Renters (2026)'
 description: >-
   The best video doorbell without subscription for renters saves clips locally,
   runs on a battery and mounts without drilling. Our 3 picks and install tips.

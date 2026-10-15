@@ -4,6 +4,11 @@ A scheduled Claude Code session runs this playbook once a day. It does the work 
 the four agents in `agents/` itself (no Anthropic API key needed), then pushes,
 which triggers the Cloudflare deploy and the Amazon image refresh.
 
+**Clicks and long visits (Google's click-validated quality):** titles must earn the click and the page must keep
+the visit. seoTitle (max 60 characters) = exact keyword + year and/or a number + a renter benefit; the description
+answers the query; the first screen delivers the promise (short answer, top picks). Never buy links or ask for paid
+links: links that searchers don't confirm with clicks are discounted, and spam-prone queries lean on clicks.
+
 **Voice and personal story (every post):** first person throughout (I, my, me, we, our, us; at least 10 uses),
 plus one `> **From our notes:**` story block (60-120 words). Use a real owner story from `data/stories.json` if one
 fits, otherwise a true research story (how we compared the products, what stood out in the manuals and specs), or a
