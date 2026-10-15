@@ -166,7 +166,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41ttJOFubuL._SL500_.jpg'
         width: 500
         height: 500
-    amazonTitle: Eve Energy (Matter) 2-Pack - Smart Plug & Power Meter
+    amazonTitle: >-
+      Eve Energy (Matter) 2-Pack - Smart Plug & Power Meter | app/voice control,
+      automate lights/appliances, for Alexa/Apple/Google/SmartThings/Home
+      Assistant, Thread Border Router requ.
     scores:
       install: 10
       reversibility: 10
