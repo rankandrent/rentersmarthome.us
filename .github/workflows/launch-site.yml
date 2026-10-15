@@ -1,0 +1,110 @@
+name: Launch another site
+
+# One-off helper for launching a sister site that lives in its own public repo:
+# adds the domain to Cloudflare (prints the nameservers to set at the registrar),
+# builds that repo, deploys it to its own Pages project and attaches the domain.
+# Uses this repo's Cloudflare token, so the new repo can go live before its own
+# secrets are set. Run it from the Actions tab or the API (workflow_dispatch).
+on:
+  workflow_dispatch:
+    inputs:
+      repo:
+        description: 'GitHub repo of the site (owner/name, public)'
+        required: true
+        default: 'rankandrent/best-tripod.com'
+      domain:
+        description: 'Domain'
+        required: true
+        default: 'best-tripod.com'
+      project:
+        description: 'Cloudflare Pages project name'
+        required: true
+        default: 'best-tripod'
+
+jobs:
+  launch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      RAW_CF_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID || '62f912a0c185f2042615da812a6e62e6' }}
+      REPO: ${{ inputs.repo }}
+      DOMAIN: ${{ inputs.domain }}
+      PROJECT: ${{ inputs.project }}
+    steps:
+      - name: Cloudflare token
+        run: |
+          TOKEN=$(printf '%s' "$RAW_CF_TOKEN" | tr -d '[:space:]"'"'" | sed 's/^CLOUDFLARE_API_TOKEN=//')
+          [ -n "$TOKEN" ] || { echo "CLOUDFLARE_API_TOKEN secret not set"; exit 1; }
+          echo "::add-mask::$TOKEN"
+          echo "CLOUDFLARE_API_TOKEN=$TOKEN" >> "$GITHUB_ENV"
+
+      - name: Add the domain to Cloudflare and print its nameservers
+        run: |
+          API=https://api.cloudflare.com/client/v4
+          AUTH="Authorization: Bearer $CLOUDFLARE_API_TOKEN"
+          ZONE=$(curl -s "$API/zones?name=$DOMAIN" -H "$AUTH")
+          ZONE_ID=$(echo "$ZONE" | jq -r '.result[0].id // empty')
+          if [ -z "$ZONE_ID" ]; then
+            echo "Zone not found; creating it."
+            ZONE=$(curl -s -X POST "$API/zones" -H "$AUTH" -H 'Content-Type: application/json' \
+              --data "{\"name\":\"$DOMAIN\",\"account\":{\"id\":\"$CLOUDFLARE_ACCOUNT_ID\"},\"type\":\"full\"}")
+            echo "$ZONE" | jq '{success, errors}'
+            ZONE_ID=$(echo "$ZONE" | jq -r '.result.id // empty')
+            NS=$(echo "$ZONE" | jq -r '.result.name_servers[]?')
+            STATUS=$(echo "$ZONE" | jq -r '.result.status // empty')
+          else
+            NS=$(echo "$ZONE" | jq -r '.result[0].name_servers[]?')
+            STATUS=$(echo "$ZONE" | jq -r '.result[0].status // empty')
+          fi
+          [ -n "$ZONE_ID" ] || { echo "Could not create or find the zone (the token may lack Zone:Edit on the account)."; exit 1; }
+          echo "ZONE_ID=$ZONE_ID" >> "$GITHUB_ENV"
+          echo "================ NAMESERVERS FOR $DOMAIN (zone status: $STATUS) ================"
+          echo "$NS"
+          echo "================================================================================"
+          {
+            echo "### Nameservers for $DOMAIN"
+            echo "Zone status: \`$STATUS\`"
+            echo '```'
+            echo "$NS"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Check out the site
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ inputs.repo }}
+          path: site
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Build
+        working-directory: site
+        run: |
+          npm ci
+          npm run build
+
+      - name: Create the Pages project (first run only)
+        working-directory: site
+        run: npx --yes wrangler@4.150.0 pages project create "$PROJECT" --production-branch=main || echo "Project create skipped (it may already exist)."
+
+      - name: Deploy
+        working-directory: site
+        run: npx --yes wrangler@4.150.0 pages deploy dist --project-name="$PROJECT" --branch=main --commit-dirty=true
+
+      - name: Point DNS at Pages and attach the domains
+        run: |
+          API=https://api.cloudflare.com/client/v4
+          AUTH="Authorization: Bearer $CLOUDFLARE_API_TOKEN"
+          TARGET="$PROJECT.pages.dev"
+          for NAME in "$DOMAIN" "www.$DOMAIN"; do
+            EXISTING=$(curl -s "$API/zones/$ZONE_ID/dns_records?name=$NAME" -H "$AUTH" | jq -r '.result[].id')
+            for ID in $EXISTING; do curl -s -X DELETE "$API/zones/$ZONE_ID/dns_records/$ID" -H "$AUTH" > /dev/null; done
+            curl -s -X POST "$API/zones/$ZONE_ID/dns_records" -H "$AUTH" -H 'Content-Type: application/json' \
+              --data "{\"type\":\"CNAME\",\"name\":\"$NAME\",\"content\":\"$TARGET\",\"proxied\":true}" | jq '{success, errors}'
+            curl -s -X POST "$API/accounts/$CLOUDFLARE_ACCOUNT_ID/pages/projects/$PROJECT/domains" -H "$AUTH" \
+              -H 'Content-Type: application/json' --data "{\"name\":\"$NAME\"}" | jq '{success, errors, status: .result.status}'
+          done
+          echo "Live at https://$TARGET now; https://$DOMAIN once the nameservers are switched."
