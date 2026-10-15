@@ -276,6 +276,7 @@ heroAlt: >-
   Best Peephole Cameras for Apartments: No-Drill Door Security: RenterSmartHome
   buying guide
 related:
+  - best-wireless-security-cameras-for-apartments
   - best-video-doorbell-without-subscription-for-renters
   - ring-doorbell-in-apartment
   - blink-vs-ring-subscription

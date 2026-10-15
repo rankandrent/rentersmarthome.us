@@ -2853,7 +2853,7 @@
     "publishedAt": "2026-10-15T19:34:52.813Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-14T15:34:32.962Z",
     "secondaryKeywords": [
@@ -2877,7 +2877,8 @@
       "/reviews/best-wireless-security-cameras-for-apartments"
     ],
     "rationale": "restores an old indexed URL",
-    "slug": "best-wireless-security-cameras-for-apartments"
+    "slug": "best-wireless-security-cameras-for-apartments",
+    "publishedAt": "2026-10-15T19:35:51.948Z"
   },
   {
     "status": "pending",
