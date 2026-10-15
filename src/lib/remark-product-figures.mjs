@@ -1,4 +1,5 @@
 import { amazonUrl, AFFILIATE_REL } from './affiliate.mjs';
+import { CRITERIA, renterScore } from './score.mjs';
 
 const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 const textOf = (node) => (node.value ?? '') + (node.children ?? []).map(textOf).join('');
@@ -19,6 +20,19 @@ export function matches(headingText, name) {
 export function imageCredit(p) {
   const via = p.brand && !/^amazon$/i.test(p.brand) ? `${p.brand} via ` : '';
   return `Image: ${via}Amazon.com`;
+}
+
+/** "RenterSmartHome Score 4.6/5" badge with the criteria behind it. */
+export function scoreHtml(p) {
+  const score = renterScore(p.scores);
+  if (score == null) return '';
+  const rows = CRITERIA.filter((c) => typeof p.scores[c.key] === 'number')
+    .map((c) => `<li><span>${esc(c.label)}</span><span class="bar"><i style="width:${p.scores[c.key] * 10}%"></i></span><b>${p.scores[c.key]}/10</b></li>`)
+    .join('');
+  return (
+    `<details class="rscore"><summary><span class="rscore-num">${score.toFixed(1)}</span><span class="rscore-label">RenterSmartHome Score <small>out of 5</small></span></summary>` +
+    `<ul>${rows}</ul>${p.scoreNote ? `<p>${esc(p.scoreNote)}</p>` : ''}<p class="rscore-how"><a href="/how-we-score/">How we score</a></p></details>`
+  );
 }
 
 /** Product block in the style of a magazine buying guide: gallery of official
@@ -43,6 +57,7 @@ export function productBlockHtml(p, { badge = false, style = 'pros-cons' } = {})
         thumbs +
         `<figcaption>${esc(p.name)}. <span class="credit">${esc(imageCredit(p))}</span></figcaption></figure>`
       : '') +
+    scoreHtml(p) +
     `<a class="btn btn-buy pblock-cta" href="${href}" rel="${AFFILIATE_REL}" target="_blank">Check price on Amazon</a>` +
     (style === 'pros-cons' && (like || dislike)
       ? `<div class="likes"><div class="like"><p class="likes-h">What we like</p><ul>${like}</ul></div>` +

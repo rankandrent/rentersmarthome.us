@@ -1,0 +1,44 @@
+---
+import Page from '../layouts/Page.astro';
+import { CRITERIA } from '../lib/score.mjs';
+---
+<Page title="How We Score Products: The RenterSmartHome Score" description="How the RenterSmartHome Score works: five renter criteria, their weights, the formula and what each number means." updated="October 15, 2026">
+  <p>Every product we recommend gets a <strong>RenterSmartHome Score</strong> out of 5. It answers one question: <em>how well does this product work for someone who rents?</em> It's our own editorial rating, built from manufacturer specifications, installation manuals and the research listed in each guide. It is not a customer rating, and we never copy star ratings from stores.</p>
+
+  <h2>The five criteria</h2>
+  <p>We rate each product from 1 to 10 on five criteria, weighted by how much they matter to renters:</p>
+  <table>
+    <thead><tr><th scope="col">Criterion</th><th scope="col">Weight</th><th scope="col">What a 10 looks like</th></tr></thead>
+    <tbody>
+      {CRITERIA.map((c) => (
+        <tr>
+          <td>{c.label}</td>
+          <td>{Math.round(c.weight * 100)}%</td>
+          <td>{{
+            install: 'Plugs in, stands up or sticks on. No tools, drilling or wiring.',
+            reversibility: 'Comes out in minutes and leaves nothing behind on move-out day.',
+            value: 'Fair price for what it does, with no subscription needed for the core features.',
+            compatibility: 'Works with Matter and all major assistants (Alexa, Google Home, Apple Home).',
+            portability: 'Fits any apartment and works the same in your next one.',
+          }[c.key]}</td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+
+  <h2>The formula</h2>
+  <p><strong>Score = (Install × 30% + Reversibility × 25% + Value × 20% + Compatibility × 15% + Portability × 10%) ÷ 2</strong>, rounded to one decimal.</p>
+  <p>Some criteria don't apply to every product. An adhesive hook or a baby gate has no smart home compatibility, so we leave that criterion out and rescale the other weights so they still add up to 100%. That keeps non-smart products from being punished for something they were never meant to do.</p>
+
+  <h2>How we pick each number</h2>
+  <ul>
+    <li><strong>Install footprint:</strong> 10 plug-in or freestanding · 9 adhesive or tension mount · 8 swaps an existing part without tools · 7 screwdriver retrofit · 5-6 leaves a small hole · 2-4 needs wiring, HVAC access or an electrician.</li>
+    <li><strong>Reversibility:</strong> 10 unplug and go · 9 peel off or release tension · 8 reinstall the original part · 6 a pinhole to fill · 3 or lower needs a professional to restore.</li>
+    <li><strong>Value and subscriptions:</strong> 10 low cost with nothing to pay monthly · 8 good value · 6 premium price, or a paid plan needed for important features.</li>
+    <li><strong>Smart home compatibility:</strong> 10 Matter plus every major platform · 8-9 two or three platforms · 6-7 mainly one ecosystem.</li>
+    <li><strong>Portability:</strong> 10 works anywhere · 8 depends on fit (deadbolt, door, window) · 6 made to measure · 5 or lower tied to the building's systems.</li>
+  </ul>
+
+  <h2>What the score is not</h2>
+  <p>It isn't a lab test or a customer review average, and it doesn't change with price swings or sales. When a product, its app or its subscription changes, we re-check it and update the score. Read more about our <a href="/how-we-research/">research process</a> and <a href="/editorial-policy/">editorial policy</a>.</p>
+</Page>

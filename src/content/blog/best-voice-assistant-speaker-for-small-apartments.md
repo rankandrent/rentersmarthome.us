@@ -77,6 +77,15 @@ products:
     amazonTitle: >-
       Amazon Echo Dot (newest model) - Vibrant sounding speaker, Designed for
       Alexa+, Great for bedrooms, dining rooms and offices, Charcoal
+    scores:
+      install: 10
+      reversibility: 10
+      value: 9
+      compatibility: 9
+      portability: 10
+    scoreNote: >-
+      Compact plug-in Alexa speaker with a temperature sensor and Matter
+      control.
   - name: Amazon Echo Pop
     brand: Amazon
     query: Amazon Echo Pop smart speaker
@@ -92,6 +101,13 @@ products:
     cons:
       - Fewer smart home extras than the Echo Dot
       - 'Sound is fine for voice and podcasts, thinner for music'
+    scores:
+      install: 10
+      reversibility: 10
+      value: 9
+      compatibility: 8
+      portability: 10
+    scoreNote: 'Smallest, cheapest Alexa speaker; fewer smart home extras.'
   - name: Google Nest Mini
     brand: Google
     query: Google Nest Mini 2nd Gen
@@ -128,6 +144,15 @@ products:
     amazonTitle: >-
       Google Nest Mini 2nd Generation Smart Speaker with Google Assistant -
       Charcoal
+    scores:
+      install: 10
+      reversibility: 9
+      value: 9
+      compatibility: 8
+      portability: 10
+    scoreNote: >-
+      Compact Google speaker with a mic switch; wall slot uses one small nail if
+      you hang it.
   - name: Apple HomePod mini
     brand: Apple
     query: Apple HomePod mini
@@ -153,6 +178,15 @@ products:
         width: 500
         height: 500
     amazonTitle: Apple - HomePod mini - Black
+    scores:
+      install: 10
+      reversibility: 10
+      value: 7
+      compatibility: 9
+      portability: 10
+    scoreNote: >-
+      Compact Siri speaker that doubles as an Apple Home hub; best with an
+      iPhone and pricier.
 sources:
   - title: 'Apple: HomePod mini'
     url: 'https://www.apple.com/homepod-mini/'

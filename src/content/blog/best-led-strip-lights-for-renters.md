@@ -80,6 +80,15 @@ products:
       Govee 16.4ft RGBIC LED Strip Lights, LED Lights for Bedroom, APP Control |
       DIY Multiple Colors on One Line, Color Changing Lights for Home Decor,
       Bluetooth Strip Lights with APP Control
+    scores:
+      install: 8
+      reversibility: 6
+      value: 9
+      compatibility: 8
+      portability: 7
+    scoreNote: >-
+      Plug-in strip; the adhesive can lift paint if stuck to walls, and cut
+      pieces can't be reused easily.
   - name: Philips Hue Lightstrip Plus
     brand: Philips Hue
     query: Philips Hue Lightstrip Plus
@@ -116,6 +125,15 @@ products:
     amazonTitle: >-
       Philips Hue Bluetooth Smart Lightstrip Plus 2m/6ft Base Kit with Plug,
       (Voice Compatible with Amazon Alexa, Apple Homekit and Google Home), White
+    scores:
+      install: 8
+      reversibility: 7
+      value: 6
+      compatibility: 10
+      portability: 8
+    scoreNote: >-
+      Plug-in strip that joins the Hue system; premium price, adhesive best on
+      furniture.
   - name: Govee COB Strip Light Pro
     brand: Govee
     query: Govee COB Strip Light Pro
@@ -153,6 +171,15 @@ products:
       Govee 16.4ft COB LED Strip Light Pro, RGBICW Light with Warm White, WiFi |
       Work with Alexa, Google Assistant and Matter, Smart Strip Light, LED
       Lights for Bedroom, Color Changing
+    scores:
+      install: 8
+      reversibility: 7
+      value: 7
+      compatibility: 8
+      portability: 7
+    scoreNote: >-
+      Dot-free strip for cabinets and shelves; adhesive on furniture, higher
+      price per foot.
 sources:
   - title: 'Govee: Best LED strip lights'
     url: 'https://us.govee.com/blogs/led-strip-lights/best-led-strip-lights'

@@ -1,6 +1,6 @@
 ---
 title: 'Best Video Doorbell Without Subscription for Renters: 3 Picks'
-seoTitle: 'Best Video Doorbell Without Subscription for Renters (2026)'
+seoTitle: Best Video Doorbell Without Subscription for Renters (2026)
 description: >-
   The best video doorbell without subscription for renters saves clips locally,
   runs on a battery and mounts without drilling. Our 3 picks and install tips.
@@ -76,6 +76,15 @@ products:
       eufy Security Video Doorbell E340, Dual Cameras, 2K FHD, 8GB Local Storage
       | No Subscription,Head-to-Toe view,Wireless or Wired,Color night
       vision,Two-way talk,AI motion/package detection, 2.4 GHz Wi-Fi
+    scores:
+      install: 7
+      reversibility: 8
+      value: 9
+      compatibility: 7
+      portability: 8
+    scoreNote: >-
+      Battery or wired doorbell with built-in local storage and no monthly fee;
+      needs a mount.
   - name: eufy Video Doorbell S220
     brand: eufy
     query: eufy Video Doorbell S220 battery
@@ -91,6 +100,15 @@ products:
     cons:
       - Single camera
       - Needs a eufy HomeBase; check whether your kit includes one
+    scores:
+      install: 7
+      reversibility: 8
+      value: 8
+      compatibility: 6
+      portability: 8
+    scoreNote: >-
+      Battery doorbell that stores clips on a eufy HomeBase with no monthly fee;
+      needs a HomeBase.
   - name: Tapo D210
     brand: TP-Link Tapo
     query: Tapo D210 video doorbell battery
@@ -125,6 +143,13 @@ products:
         width: 400
         height: 500
     amazonTitle: 'Tapo 2K Wireless Smart Video Doorbell w/Chime, 160° Ultra-Wide View, D210'
+    scores:
+      install: 7
+      reversibility: 8
+      value: 9
+      compatibility: 7
+      portability: 8
+    scoreNote: Budget battery doorbell with microSD storage; fewer smart features.
 sources:
   - title: 'eufy: Doorbell camera with local storage'
     url: >-

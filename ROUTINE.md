@@ -9,6 +9,11 @@ the visit. seoTitle (max 60 characters) = exact keyword + year and/or a number +
 answers the query; the first screen delivers the promise (short answer, top picks). Never buy links or ask for paid
 links: links that searchers don't confirm with clicks are discounted, and spam-prone queries lean on clicks.
 
+**RenterSmartHome Score (every product):** give each product `scores` {install, reversibility, value,
+compatibility (leave out for non-smart products), portability}, each 1-10 using the rubric on `/how-we-score/`, and a
+one-line `scoreNote` with the reasons. The site computes the 1-5 score and the Product + Review schema. Never use or
+copy Amazon (or any store's) star ratings or review counts.
+
 **Voice and personal story (every post):** first person throughout (I, my, me, we, our, us; at least 10 uses),
 plus one `> **From our notes:**` story block (60-120 words). Use a real owner story from `data/stories.json` if one
 fits, otherwise a true research story (how we compared the products, what stood out in the manuals and specs), or a

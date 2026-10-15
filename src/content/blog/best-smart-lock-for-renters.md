@@ -85,6 +85,15 @@ products:
       August Home, Silver Wi-Fi Connected Smart Keyless Entry Door Lock,
       Electronic Door Lock Fits Your Existing Deadbolt in Minutes, ‎
       ‎AUG-SL05-M01-S01
+    scores:
+      install: 7
+      reversibility: 8
+      value: 7
+      compatibility: 10
+      portability: 8
+    scoreNote: >-
+      Screwdriver retrofit over the existing deadbolt; works with Alexa, Google
+      and Apple Home.
   - name: SwitchBot Lock Pro
     brand: SwitchBot
     query: SwitchBot Lock Pro
@@ -121,6 +130,15 @@ products:
       - url: 'https://m.media-amazon.com/images/I/51wl7x8tl0L._SL500_.jpg'
         width: 500
         height: 500
+    scores:
+      install: 9
+      reversibility: 9
+      value: 7
+      compatibility: 8
+      portability: 8
+    scoreNote: >-
+      Adhesive mount over the thumbturn with no disassembly; remote access and
+      Matter need a hub.
   - name: Yale Approach Lock with Wi-Fi
     brand: Yale
     query: Yale Approach Lock with Wi-Fi
@@ -151,6 +169,15 @@ products:
       Yale Approach™ Lock Deadbolt, Silver Key-Free Smart Entry Door Lock with
       Wi-Fi Connected Touchscreen Keypad and Biometric Fingerprint Scanner for
       Code Entry and Remove Access, B-YRR110-F-WF1-N-BSP
+    scores:
+      install: 7
+      reversibility: 8
+      value: 7
+      compatibility: 8
+      portability: 8
+    scoreNote: >-
+      Screwdriver retrofit that keeps exterior keys; the keypad is a separate
+      purchase.
   - name: Aqara Smart Lock U200
     brand: Aqara
     query: Aqara Smart Lock U200
@@ -170,6 +197,15 @@ products:
         Thread needs a border router (e.g., a recent Apple TV, HomePod or Nest
         hub)
       - Larger interior unit
+    scores:
+      install: 7
+      reversibility: 8
+      value: 7
+      compatibility: 10
+      portability: 8
+    scoreNote: >-
+      Retrofit lock with Matter over Thread and Apple Home Key; needs a Thread
+      border router.
 sources:
   - title: August Home (manufacturer)
     url: 'https://august.com/'

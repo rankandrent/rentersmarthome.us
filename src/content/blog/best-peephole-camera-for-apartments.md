@@ -84,6 +84,15 @@ products:
       Ring Peephole Cam 2K (Newest Model), replaces physical peephole viewing
       with Retinal 2K and wide-angle video, renter-friendly installation,
       Speckled Gray
+    scores:
+      install: 8
+      reversibility: 9
+      value: 6
+      compatibility: 7
+      portability: 8
+    scoreNote: >-
+      Replaces the existing peephole with no drilling; recordings need a Ring
+      Home plan and it fits only certain doors.
   - name: Ring Battery Doorbell
     brand: Ring
     query: Ring Battery Doorbell
@@ -122,6 +131,15 @@ products:
     amazonTitle: >-
       Ring Battery Doorbell 2K (newest model) Retinal 2K with wide-angle video,
       up to 6x Enhanced Zoom, Two-Way Talk, and Built-In Battery, Speckled Gray
+    scores:
+      install: 7
+      reversibility: 8
+      value: 6
+      compatibility: 7
+      portability: 8
+    scoreNote: >-
+      Battery doorbell with no wiring; needs a no-drill mount, and saving clips
+      needs Ring Home.
   - name: Blink Mini 2
     brand: Blink
     query: Blink Mini 2 indoor camera
@@ -161,6 +179,15 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41ftxbKFhBL._SL500_.jpg'
         width: 500
         height: 500
+    scores:
+      install: 10
+      reversibility: 10
+      value: 8
+      compatibility: 6
+      portability: 10
+    scoreNote: >-
+      Plug-in indoor camera with free local storage via a Sync Module;
+      Alexa-centric.
   - name: Wyze Cam v4
     brand: Wyze
     query: Wyze Cam v4
@@ -200,6 +227,15 @@ products:
       WYZE Cam v4, 2.5K Indoor/Outdoor Security Camera, Color Night Vision |
       Easy App Setup, Enhanced Two-Way Audio and Motion Detection for Home
       Security, Baby Monitoring and Pet Camera
+    scores:
+      install: 10
+      reversibility: 10
+      value: 9
+      compatibility: 7
+      portability: 10
+    scoreNote: >-
+      Freestanding camera with microSD recording and a magnetic base; smart
+      alerts best with Cam Plus.
 sources:
   - title: Ring (manufacturer)
     url: 'https://ring.com/'

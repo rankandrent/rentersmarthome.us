@@ -77,6 +77,14 @@ products:
       Command 7.5 lb Jumbo Utility Hook, 2 Hooks and 4 Strips, Damage Free
       Hanging Wall Hooks with Adhesive Strips, No Tools Adhesive Hooks for
       Hanging, Organization and Storage
+    scores:
+      install: 9
+      reversibility: 9
+      value: 9
+      portability: 9
+    scoreNote: >-
+      Adhesive, no tools, removes cleanly when stretched down; needs smooth
+      painted walls.
   - name: Command Large Utility Hook
     brand: Command
     query: Command Large Utility Hooks
@@ -114,6 +122,12 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41wCYYl07RL._SL500_.jpg'
         width: 500
         height: 491
+    scores:
+      install: 9
+      reversibility: 9
+      value: 9
+      portability: 9
+    scoreNote: 'Adhesive, no tools, 5 lb rating; strips are single-use.'
   - name: 3M CLAW Drywall Picture Hanger
     brand: 3M
     query: 3M CLAW Drywall Picture Hanger
@@ -151,6 +165,12 @@ products:
       3M Claw 25 lb. Drywall Picture Hanger with Spot Markers, Heavyweight
       Hanging Solution for Room Decor and Office Decor, Including Mirrors or
       Large Art – 4 Pack
+    scores:
+      install: 6
+      reversibility: 6
+      value: 9
+      portability: 7
+    scoreNote: Pushes in by hand but leaves a pinhole that you fill at move-out.
 sources:
   - title: 'Hook and Loop: How much weight can Command strips hold?'
     url: 'https://www.hookandloop.com/blog/how-much-weight-can-command-strips-hold'

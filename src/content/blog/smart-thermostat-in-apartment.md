@@ -77,6 +77,15 @@ products:
     amazonTitle: >-
       Google Nest Thermostat - Smart Thermostat for Home - Programmable Wifi
       Thermostat - Charcoal
+    scores:
+      install: 4
+      reversibility: 5
+      value: 8
+      compatibility: 8
+      portability: 6
+    scoreNote: >-
+      Replaces the wall thermostat; needs landlord permission and a compatible
+      24V system.
   - name: ecobee Smart Thermostat Essential
     brand: ecobee
     query: ecobee Smart Thermostat Essential
@@ -118,6 +127,15 @@ products:
       ecobee Smart Thermostat Essential - WiFi Thermostat, Energy Star Certified
       | Programmable Wi-Fi Thermostat - Works with Siri, Alexa, and Google
       Assistant. energy saving thermostat.
+    scores:
+      install: 3
+      reversibility: 5
+      value: 8
+      compatibility: 9
+      portability: 6
+    scoreNote: >-
+      Replaces the wall thermostat and may need the Power Extender Kit at the
+      furnace.
   - name: Mysa Smart Thermostat for Electric Baseboard Heaters
     brand: Mysa
     query: Mysa Smart Thermostat for Electric Baseboard Heaters
@@ -157,6 +175,13 @@ products:
       - url: 'https://m.media-amazon.com/images/I/31Ihi8qmR8L._SL500_.jpg'
         width: 500
         height: 375
+    scores:
+      install: 2
+      reversibility: 3
+      value: 7
+      compatibility: 8
+      portability: 5
+    scoreNote: Line-voltage thermostat; an electrician installs it in most rentals.
 sources:
   - title: 'GearBrain: Smart thermostats without a C-wire'
     url: >-

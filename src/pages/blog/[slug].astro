@@ -7,6 +7,7 @@ import { getPublishedPosts } from '../../lib/posts';
 import { SITE, categoryName, formatDate, absUrl, getAuthor, authorSchema, initials } from '../../lib/site';
 import { amazonUrl, AFFILIATE_REL } from '../../lib/affiliate.mjs';
 import { imageCredit } from '../../lib/remark-product-figures.mjs';
+import { renterScore } from '../../lib/score.mjs';
 import fs from 'node:fs';
 import crypto from 'node:crypto';
 
@@ -74,6 +75,31 @@ const jsonLd: object[] = [
     ],
   },
 ];
+// Editorial product reviews: our own RenterSmartHome Score for each product
+// (no third-party ratings, no offers; we don't sell the products).
+for (const p of d.products) {
+  const score = renterScore(p.scores);
+  if (score == null) continue;
+  jsonLd.push({
+    '@context': 'https://schema.org',
+    '@type': 'Product',
+    name: p.name,
+    ...(p.brand ? { brand: { '@type': 'Brand', name: p.brand } } : {}),
+    ...(p.image?.url ? { image: [p.image.url, ...(p.gallery ?? []).map((g) => g.url)] } : {}),
+    description: p.summary,
+    review: {
+      '@type': 'Review',
+      name: `${p.name}: ${p.badge}`,
+      author: authorSchema(author),
+      publisher: { '@id': absUrl('/#organization') },
+      datePublished: d.pubDate.toISOString().slice(0, 10),
+      reviewBody: [p.summary, p.scoreNote].filter(Boolean).join(' '),
+      reviewRating: { '@type': 'Rating', ratingValue: score, bestRating: 5, worstRating: 1 },
+      ...(p.pros?.length ? { positiveNotes: { '@type': 'ItemList', itemListElement: p.pros.map((x, i) => ({ '@type': 'ListItem', position: i + 1, name: x })) } } : {}),
+      ...(p.cons?.length ? { negativeNotes: { '@type': 'ItemList', itemListElement: p.cons.map((x, i) => ({ '@type': 'ListItem', position: i + 1, name: x })) } } : {}),
+    },
+  });
+}
 if (d.faqs.length) {
   jsonLd.push({
     '@context': 'https://schema.org',

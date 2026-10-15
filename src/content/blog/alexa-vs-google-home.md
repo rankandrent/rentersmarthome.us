@@ -84,6 +84,15 @@ products:
       Amazon Echo Dot Max (newest model), Alexa speaker with room-filling sound
       and nearly 3x bass, Great for living rooms and medium-sized spaces,
       Designed for Alexa+, Graphite
+    scores:
+      install: 10
+      reversibility: 10
+      value: 8
+      compatibility: 10
+      portability: 10
+    scoreNote: >-
+      Plug-in speaker with a built-in Zigbee, Thread and Matter hub; Alexa+ is
+      extra without Prime.
   - name: Google Home Speaker
     brand: Google
     query: Google Home Speaker Gemini
@@ -122,6 +131,15 @@ products:
       - url: 'https://m.media-amazon.com/images/I/71o+kgPcL0L._SL500_.jpg'
         width: 500
         height: 500
+    scores:
+      install: 10
+      reversibility: 10
+      value: 8
+      compatibility: 9
+      portability: 10
+    scoreNote: >-
+      Plug-in speaker with a Thread border router and Matter hub; some Gemini
+      features need Google Home Premium.
   - name: Amazon Echo Studio (2nd Gen)
     brand: Amazon
     query: Amazon Echo Studio 2nd Gen
@@ -158,6 +176,15 @@ products:
     amazonTitle: >-
       Amazon Echo Studio (newest model), Immersive spatial audio and Dolby
       Atmos, Designed for Alexa+, Graphite
+    scores:
+      install: 10
+      reversibility: 10
+      value: 6
+      compatibility: 10
+      portability: 9
+    scoreNote: >-
+      Plug-in with a full smart home hub; premium price and a large footprint
+      for small rooms.
 sources:
   - title: 'Google: Meet the new Google Home Speaker, built for Gemini'
     url: >-

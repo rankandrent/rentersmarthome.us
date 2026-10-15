@@ -82,6 +82,15 @@ products:
       Ring Peephole Cam 2K (Newest Model), replaces physical peephole viewing
       with Retinal 2K and wide-angle video, renter-friendly installation,
       Speckled Gray
+    scores:
+      install: 8
+      reversibility: 9
+      value: 6
+      compatibility: 7
+      portability: 8
+    scoreNote: >-
+      Replaces the existing peephole with no drilling; recordings need a Ring
+      Home plan and it fits only certain doors.
   - name: Ring Battery Doorbell
     brand: Ring
     query: Ring Battery Doorbell
@@ -118,6 +127,15 @@ products:
     amazonTitle: >-
       Ring Battery Doorbell 2K (newest model) Retinal 2K with wide-angle video,
       up to 6x Enhanced Zoom, Two-Way Talk, and Built-In Battery, Speckled Gray
+    scores:
+      install: 7
+      reversibility: 8
+      value: 6
+      compatibility: 7
+      portability: 8
+    scoreNote: >-
+      Battery doorbell with no wiring; needs a no-drill mount, and saving clips
+      needs Ring Home.
   - name: Ring No-Drill Mount
     brand: Ring
     query: Ring No-Drill Mount battery doorbell
@@ -145,6 +163,12 @@ products:
     amazonTitle: >-
       All -New No Drill Mount for Ring Battery Doorbell (newest model), Battery
       Doorbell Plus (newest model), Battery Doorbell Pro (newest model)
+    scores:
+      install: 9
+      reversibility: 8
+      value: 8
+      portability: 7
+    scoreNote: Adhesive mount for Ring battery doorbells; smooth surfaces only.
 sources:
   - title: 'Ring: No-Drill Mount for Battery Doorbells'
     url: 'https://ring.com/ca/en/products/no-drill-mount-for-battery-doorbells'

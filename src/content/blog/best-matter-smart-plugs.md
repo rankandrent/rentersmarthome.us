@@ -80,6 +80,15 @@ products:
       Kasa Matter Smart Plug with Energy Monitoring, KP125MP2, 15A/1800W Max |
       Compact Design, Easy Setup, Works with Apple Home, Alexa & Google Home, UL
       Certified, 2.4GHz Wi-Fi, White, 2-Pack
+    scores:
+      install: 10
+      reversibility: 10
+      value: 9
+      compatibility: 10
+      portability: 10
+    scoreNote: >-
+      Plug-in Matter plug with energy monitoring; no hub, works with every major
+      platform.
   - name: Tapo Mini Smart Wi-Fi Plug with Matter (P125M)
     brand: Tapo (TP-Link)
     query: Tapo P125M Matter smart plug
@@ -117,6 +126,13 @@ products:
       TP-Link Tapo Matter Supported Smart Plug Mini, Compact Design, 15A/1800W
       Max, Super Easy Setup, Works with Apple Home, Alexa & Google Home, UL
       Certified, 2.4G Wi-Fi Only, White, Tapo P125M(3-Pack)
+    scores:
+      install: 10
+      reversibility: 10
+      value: 10
+      compatibility: 10
+      portability: 10
+    scoreNote: Plug-in Matter plug at a low price; no energy monitoring.
   - name: Eve Energy (Matter)
     brand: Eve
     query: Eve Energy Matter smart plug
@@ -151,6 +167,15 @@ products:
         width: 500
         height: 500
     amazonTitle: Eve Energy (Matter) 2-Pack - Smart Plug & Power Meter
+    scores:
+      install: 10
+      reversibility: 10
+      value: 7
+      compatibility: 9
+      portability: 10
+    scoreNote: >-
+      Plug-in Thread plug with energy metering; needs a Thread border router and
+      costs more.
   - name: Meross Smart Plug Mini with Matter
     brand: Meross
     query: Meross Matter smart plug mini
@@ -188,6 +213,15 @@ products:
       meross Matter Smart Plug Mini, Compact Size,100% Privacy Wi-Fi Smart
       Outlet | FFS Easy Setup, Supports Apple Home, Alexa, Google Home with
       Schedule & Timer, App & Voice Control, 2.4G Wi-Fi Only (2 Pack)
+    scores:
+      install: 10
+      reversibility: 10
+      value: 9
+      compatibility: 10
+      portability: 10
+    scoreNote: >-
+      Plug-in Matter plug sold in value multi-packs; no energy monitoring on the
+      basic model.
 sources:
   - title: 'Matter standard overview, Connectivity Standards Alliance'
     url: 'https://csa-iot.org/all-solutions/matter/'

@@ -78,6 +78,15 @@ products:
     amazonTitle: >-
       Ring Indoor Cam (2nd Gen), White with Window and Door Sensor (newest
       model)
+    scores:
+      install: 10
+      reversibility: 10
+      value: 6
+      compatibility: 7
+      portability: 10
+    scoreNote: >-
+      Plug-in indoor camera with a privacy cover; saving recordings needs Ring
+      Home.
   - name: Blink Mini 2
     brand: Blink
     query: Blink Mini 2 indoor camera
@@ -115,6 +124,15 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41ftxbKFhBL._SL500_.jpg'
         width: 500
         height: 500
+    scores:
+      install: 10
+      reversibility: 10
+      value: 8
+      compatibility: 6
+      portability: 10
+    scoreNote: >-
+      Plug-in indoor camera with free local storage via a Sync Module;
+      Alexa-centric.
   - name: Blink Sync Module 2
     brand: Blink
     query: Blink Sync Module 2
@@ -149,6 +167,15 @@ products:
         width: 500
         height: 500
     amazonTitle: Blink Add-On Sync Module 2
+    scores:
+      install: 10
+      reversibility: 10
+      value: 9
+      compatibility: 6
+      portability: 10
+    scoreNote: >-
+      Plug-in hub that saves Blink clips to a USB drive, removing the monthly
+      fee.
 sources:
   - title: 'Security.org: Blink vs Ring'
     url: 'https://www.security.org/security-cameras/blink-vs-ring/'

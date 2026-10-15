@@ -82,6 +82,15 @@ products:
       Breez Max Smart WiFi Thermostat for Mini-Split, Window, Portable AC
       (White) | AHR Product of the Year | Smart AC Controller | AI-Based Tech |
       Free App, No Subscription | Alexa, Google, IFTTT, SmartThings
+    scores:
+      install: 10
+      reversibility: 10
+      value: 8
+      compatibility: 7
+      portability: 10
+    scoreNote: >-
+      Shelf or adhesive IR controller with no wiring; needs an IR remote and
+      line of sight.
   - name: Sensibo Air Pro
     brand: Sensibo
     query: Sensibo Air Pro smart AC controller
@@ -116,6 +125,15 @@ products:
         width: 500
         height: 500
     amazonTitle: Sensibo Air PRO Smart Controller & Air Quality Sensor
+    scores:
+      install: 10
+      reversibility: 10
+      value: 7
+      compatibility: 9
+      portability: 10
+    scoreNote: >-
+      USB-powered IR controller with Climate React and an air quality sensor;
+      some features need a plan.
   - name: Cielo Breez Lite
     brand: Cielo
     query: Cielo Breez Lite smart AC controller
@@ -152,6 +170,13 @@ products:
     amazonTitle: >-
       Breez Lite Smart AC Controller for Mini-Split, Window, Portable ACS
       (White)
+    scores:
+      install: 10
+      reversibility: 10
+      value: 9
+      compatibility: 7
+      portability: 10
+    scoreNote: Budget IR controller with no wiring; fewer features than the Max.
 sources:
   - title: Cielo Breez Max submittal sheet
     url: >-

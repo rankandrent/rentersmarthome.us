@@ -81,6 +81,15 @@ products:
       Kasa Matter Smart Plug with Energy Monitoring, KP125MP2, 15A/1800W Max |
       Compact Design, Easy Setup, Works with Apple Home, Alexa & Google Home, UL
       Certified, 2.4GHz Wi-Fi, White, 2-Pack
+    scores:
+      install: 10
+      reversibility: 10
+      value: 9
+      compatibility: 10
+      portability: 10
+    scoreNote: >-
+      Plug-in Matter plug with energy monitoring; no hub, works with every major
+      platform.
   - name: Philips Hue White and Color Ambiance Starter Kit
     brand: Philips Hue
     query: Philips Hue White and Color Ambiance Starter Kit
@@ -120,6 +129,15 @@ products:
       Philips Hue Smart Light Bulbs Starter Kit, Includes (1) Bridge, (2) 75W
       A19 Bulbs, White and Color Ambiance LED Color Changing Lights, 1100LM,
       E26, Control with App or Voice Assistant
+    scores:
+      install: 10
+      reversibility: 10
+      value: 6
+      compatibility: 10
+      portability: 10
+    scoreNote: >-
+      Screw-in bulbs plus a plug-in Bridge; premium pricing, works with every
+      major platform.
   - name: SwitchBot Bot Smart Switch Button Pusher
     brand: SwitchBot
     query: SwitchBot Bot Smart Switch Button Pusher
@@ -157,6 +175,13 @@ products:
       Switchbot Smart Switch Button Pusher (Bluetooth) – Fingerbot for Rocker
       Switch/One-Way Buttons, App Timer Control, No Wiring, Optional Hub
       Required for Voice/Remote, White
+    scores:
+      install: 9
+      reversibility: 9
+      value: 8
+      compatibility: 7
+      portability: 9
+    scoreNote: Adhesive button pusher for existing switches; remote control needs a hub.
   - name: Sensibo Air
     brand: Sensibo
     query: Sensibo Air smart AC controller
@@ -196,6 +221,15 @@ products:
       Sensibo Sky, Smart Wireless Air Conditioner Controller. Quick & Easy DIY
       Installation. Maintains Comfort with Energy Efficient. Automatic Wifi
       Thermostat Control App. Google, Alexa and Siri Compatible
+    scores:
+      install: 10
+      reversibility: 10
+      value: 7
+      compatibility: 9
+      portability: 10
+    scoreNote: >-
+      IR controller that works like your AC remote; advanced features need a
+      subscription.
 sources:
   - title: 'Matter standard overview, Connectivity Standards Alliance'
     url: 'https://csa-iot.org/all-solutions/matter/'

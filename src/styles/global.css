@@ -447,3 +447,22 @@ h3 { font-size: var(--s1); letter-spacing: -.01em; }
 .read-next strong { font-family: var(--display); font-size: var(--s1); line-height: 1.25; }
 .read-next span:last-child { color: var(--slate); font-family: var(--text); }
 .read-next:hover strong { text-decoration: underline; }
+
+/* RenterSmartHome Score */
+.rscore { margin: 0 0 14px; background: #fff; border: 1px solid var(--rule); border-radius: var(--r-box); font-family: var(--display); }
+.rscore summary { display: flex; align-items: center; gap: 12px; padding: 10px 14px; cursor: pointer; list-style: none; }
+.rscore summary::-webkit-details-marker { display: none; }
+.rscore summary::after { content: 'See breakdown'; margin-left: auto; font-size: .85rem; color: var(--tape-ink); font-weight: 700; }
+.rscore[open] summary::after { content: 'Hide'; }
+.rscore-num { display: grid; place-items: center; min-width: 52px; height: 40px; padding: 0 8px; background: var(--ink); color: #fff; border-radius: 8px; font-size: 1.25rem; font-weight: 800; }
+.rscore-label { font-weight: 700; color: var(--ink); line-height: 1.2; }
+.rscore-label small { display: block; font-weight: 600; color: var(--slate); font-size: .8rem; }
+.rscore ul { list-style: none; margin: 0 !important; padding: 4px 14px 6px; display: grid; gap: 8px; }
+.rscore li { display: grid; grid-template-columns: minmax(130px, 1fr) 2fr auto; gap: 10px; align-items: center; font-size: .9rem; padding: 0 !important; margin: 0 !important; }
+.rscore li::before { content: none !important; }
+.rscore .bar { height: 8px; background: var(--tape-soft); border-radius: 99px; overflow: hidden; }
+.rscore .bar i { display: block; height: 100%; background: var(--tape); }
+.rscore p { margin: 6px 14px 10px !important; font-family: var(--text); font-size: .92rem; color: var(--slate); }
+.rscore .rscore-how { font-family: var(--display); font-size: .85rem; }
+.tp-score { color: var(--ink); }
+@media (max-width: 560px) { .rscore li { grid-template-columns: 1fr auto; } .rscore .bar { grid-column: 1 / -1; grid-row: 2; } }

@@ -153,6 +153,12 @@ export async function qaPost(post, { posts = listPosts(), online = false, live =
     if (!p.badge || !p.summary || !p.renterNote || !p.query) err(`${label} is missing badge, summary, renterNote or query`);
     if ((p.pros ?? []).length < 2) err(`${label} needs at least 2 pros ("What we like")`);
     if ((p.cons ?? []).length < 1) err(`${label} needs at least 1 con ("What we don't like")`);
+    if (pub >= Date.parse(SITE.qa?.voiceRequiredFrom ?? '2100-01-01')) {
+      const sc = p.scores ?? {};
+      const missingScores = ['install', 'reversibility', 'value', 'portability'].filter((k) => typeof sc[k] !== 'number');
+      if (missingScores.length) err(`${label} needs RenterSmartHome scores (missing ${missingScores.join(', ')}; see /how-we-score/)`);
+      if (!p.scoreNote) err(`${label} needs a scoreNote explaining its scores`);
+    }
     if (!amznLinks.some((q) => linkMatches(q, p))) err(`${label} has no Amazon link in the body`);
     if (!h3s.some((h) => matches(h, p.name))) warn(`${label} has no "### ${p.name}: ..." section, so it gets a card instead`);
     if (!p.image?.url) warn(`${label} has no Amazon photo yet (the Amazon refresh adds it after push)`);

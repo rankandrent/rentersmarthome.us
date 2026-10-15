@@ -81,6 +81,14 @@ products:
       NICETOWN Black Full Blackout Curtains for Dining Room 52"W x 84"L 2 Panels
       | Soundproof Thermal Insulated Drapes, Noise Reducing, Light Blocking,
       Room Darkening Decor for Hall Room Window Treatments
+    scores:
+      install: 9
+      reversibility: 10
+      value: 9
+      portability: 8
+    scoreNote: >-
+      Hang on an existing or tension rod; no drilling, and sizes must fit your
+      window.
   - name: Vornado 660
     brand: Vornado
     query: Vornado 660 air circulator fan
@@ -117,6 +125,12 @@ products:
     amazonTitle: >-
       Vornado 660 Large Whole Room Air Circulator Fan with 4 Speeds and
       90-Degree Tilt, 660-Large, White
+    scores:
+      install: 10
+      reversibility: 10
+      value: 8
+      portability: 9
+    scoreNote: Freestanding air circulator; bulky for small bedrooms.
   - name: Lasko Box Fan
     brand: Lasko
     query: Lasko 20 inch box fan
@@ -154,6 +168,12 @@ products:
       Lasko Weather-Shield Performance Box Fan, 3 Speeds, Innovative Wind Ring
       System for Up to 30% More Air, Carry Handle for Bedroom, Office, Home, 20
       Inch, White, 3720
+    scores:
+      install: 10
+      reversibility: 10
+      value: 10
+      portability: 10
+    scoreNote: Freestanding box fan for windows or floors; can be noisy on high.
 sources:
   - title: 'Apartment List: How to cool an apartment without air conditioning'
     url: >-

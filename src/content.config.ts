@@ -13,6 +13,17 @@ const product = z.object({
   cons: z.array(z.string()).default([]),
   specs: z.record(z.string()).optional(),
   image: z.object({ url: z.string().url(), width: z.number().optional(), height: z.number().optional() }).optional(),
+  // RenterSmartHome Score inputs: five renter criteria, 1-10 each (see src/lib/score.mjs).
+  scores: z
+    .object({
+      install: z.number().min(1).max(10),
+      reversibility: z.number().min(1).max(10),
+      value: z.number().min(1).max(10),
+      compatibility: z.number().min(1).max(10).optional(),
+      portability: z.number().min(1).max(10),
+    })
+    .optional(),
+  scoreNote: z.string().optional(),
   // Amazon's listing title for the ASIN (the QA agent checks it matches the product).
   amazonTitle: z.string().optional(),
   // Extra official product photos from the Amazon Creators API (images.variants).

@@ -75,6 +75,12 @@ products:
       Regalo Safety 29"-38.5" Easy Step Baby Gate, Bottom of Stairs & Doorways |
       Pressure Mounted with Door, For Babies, Toddlers & Pets, White, Tested &
       Trusted for 30 Years
+    scores:
+      install: 9
+      reversibility: 9
+      value: 9
+      portability: 8
+    scoreNote: Pressure mount with wall cups for doorways; never for the top of stairs.
   - name: Summer Infant Multi-Use Deco Extra Tall Walk-Thru Gate
     brand: Summer Infant
     query: Summer Infant Extra Tall Walk-Thru Baby Gate pressure mounted
@@ -90,6 +96,12 @@ products:
     cons:
       - Bottom bar
       - Not for the top of stairs
+    scores:
+      install: 9
+      reversibility: 9
+      value: 8
+      portability: 8
+    scoreNote: Extra-tall pressure gate for doorways and hallways; check the width range.
   - name: Cumbor Auto Close Baby Gate
     brand: Cumbor
     query: Cumbor Auto Close Baby Gate pressure mounted
@@ -129,6 +141,12 @@ products:
       Cumbor 30-46" Baby Gate for Stairs, Auto Close Dog Gate for Doorways White
       | Toddler Safety Essentials for the House, Mom's Choice Awards Winner-Easy
       Install Pressure/Hardware Mounted Pet Gate for Dogs
+    scores:
+      install: 8
+      reversibility: 8
+      value: 8
+      portability: 8
+    scoreNote: Auto-close walk-through gate; mounting options vary by kit.
 sources:
   - title: 'Mommyhood101: Best baby gates'
     url: 'https://mommyhood101.com/best-baby-gates'

@@ -85,6 +85,15 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41rU-RBetZL._SL500_.jpg'
         width: 500
         height: 500
+    scores:
+      install: 8
+      reversibility: 9
+      value: 7
+      compatibility: 7
+      portability: 6
+    scoreNote: >-
+      Tension-mounted motorized shade; made to measure, so it fits specific
+      windows only.
   - name: SwitchBot Blind Tilt
     brand: SwitchBot
     query: SwitchBot Blind Tilt
@@ -124,6 +133,15 @@ products:
       SwitchBot Blind Tilt Motorized Blinds - Smart Electric Blinds, Automatic
       Blind Opener and Closer, Solar Powered, Light Sensing Control, Add Hub
       Mini to Make it Compatible with Alexa & Google Home
+    scores:
+      install: 9
+      reversibility: 9
+      value: 8
+      compatibility: 8
+      portability: 8
+    scoreNote: >-
+      Adhesive motor on the existing tilt wand; tilts slats only and needs a hub
+      for voice.
   - name: SwitchBot Curtain 3
     brand: SwitchBot
     query: SwitchBot Curtain 3
@@ -163,6 +181,15 @@ products:
       SwitchBot 2025 Automatic Curtain Opener 3 Rod-Bluetooth Remote Control,
       WiFi&APP Control, Upgraded High-Performance, Add Hub to Work with Alexa,
       Google Home, HomeKit via Matter(2025 Curtain Opener*2)
+    scores:
+      install: 9
+      reversibility: 10
+      value: 8
+      compatibility: 8
+      portability: 9
+    scoreNote: >-
+      Hooks onto the existing curtain rod or track; voice and remote control
+      need a hub.
 sources:
   - title: 'Graywind: No Drill Motorized Roller Shades'
     url: 'https://www.graywind.com/products/no-drill-roller-shades'
