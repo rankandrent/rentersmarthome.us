@@ -122,7 +122,9 @@ products:
       url: 'https://m.media-amazon.com/images/I/31Q4PZ0yDkL._SL500_.jpg'
       width: 500
       height: 500
-    amazonTitle: 'Kreg Magnetic Stud Finder, KMM1000'
+    amazonTitle: >-
+      Kreg Magnetic Stud Finder, KMM1000 | Handheld Wall Locator with Strong
+      Magnet, Pocket Size, Works on Wood and Metal Studs
     gallery:
       - url: 'https://m.media-amazon.com/images/I/4155+mTEt6L._SL500_.jpg'
         width: 500

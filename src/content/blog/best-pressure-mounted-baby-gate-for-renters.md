@@ -134,7 +134,7 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41x5gaUNdFL._SL500_.jpg'
         width: 500
         height: 500
-      - url: 'https://m.media-amazon.com/images/I/51Av62ryTyL._SL500_.jpg'
+      - url: 'https://m.media-amazon.com/images/I/51Hc-hLFWoL._SL500_.jpg'
         width: 500
         height: 500
     amazonTitle: >-

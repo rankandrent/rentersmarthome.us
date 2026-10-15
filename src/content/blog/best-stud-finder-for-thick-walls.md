@@ -80,6 +80,28 @@ products:
     scoreNote: >-
       Hand tool with nothing to install; costs more than basic finders but has
       the deepest rated reach here.
+    asin: B0D3MDJWVC
+    image:
+      url: 'https://m.media-amazon.com/images/I/31+9bKL9N5L._SL500_.jpg'
+      width: 500
+      height: 274
+    amazonTitle: >-
+      Franklin Sensors ProSensor MAX 13-Sensor Stud Finder, 2.5-in Deep
+      Detection | High Accuracy Wood and Metal Stud Finder Wall Scanner For
+      Thick Walls, Plaster, and OSB, Made in the USA, Built-in Level
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41ceSVU-ufL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51MvjIqF9fL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51tp32q34lL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51aPGGOWqoL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Franklin Sensors ProSensor M210
     brand: Franklin Sensors
     query: Franklin Sensors ProSensor M210 stud finder
@@ -103,6 +125,28 @@ products:
     scoreNote: >-
       Hand tool with nothing to install; mid-to-upper price, strongest on
       drywall.
+    asin: B0917VXLDK
+    image:
+      url: 'https://m.media-amazon.com/images/I/31sFkzKwYKL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Franklin Sensors ProSensor M210 13-Sensor Stud Finder, Live Wire Detection
+      | High-Accuracy Stud Finder Wall Scanner, Wood and Metal Stud Detector,
+      Made in the USA, Shows Full Width of Studs
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51g9tN+zAuL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/5102rkDYFAL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/514nnQP6v2L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51gaeWVxs4L._SL500_.jpg'
+        width: 500
+        height: 415
   - name: Zircon MultiScanner i520 OneStep
     brand: Zircon
     query: Zircon MultiScanner i520 OneStep stud finder
@@ -126,6 +170,25 @@ products:
     scoreNote: >-
       Hand tool with nothing to install; premium price for stud depth similar to
       cheaper Zircon units.
+    asin: B001ACRPKK
+    image:
+      url: 'https://m.media-amazon.com/images/I/41zd1V3CibL._SL500_.jpg'
+      width: 241
+      height: 500
+    amazonTitle: >-
+      Zircon® MultiScanner™ i520 OneStep® Stud Finder with Metal & AC Detection
+      | Find wood and metal studs, hidden metal and live AC wiring with one tool
+      for hanging, mounting and remodeling projects
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/419jqr3NwLL._SL500_.jpg'
+        width: 370
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41lGuvla8pL._SL500_.jpg'
+        width: 235
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51iHmOiyT8L._SL500_.jpg'
+        width: 453
+        height: 500
   - name: Zircon StudSensor HD70
     brand: Zircon
     query: Zircon StudSensor HD70 stud finder
@@ -176,6 +239,28 @@ products:
       value: 8
       portability: 9
     scoreNote: 'Hand tool with nothing to install; larger body, mid-priced multi-scanner.'
+    asin: B0DBWSSPT2
+    image:
+      url: 'https://m.media-amazon.com/images/I/41D3KR1ySkL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      BOSCH GMS120-27 Professional Wall Scanner, Stud Finder, Live Wire Detector
+      | Multi-function wall detector scanner with center indication, metal stud
+      finder for electricians, plumbers & contractors
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51PT6OO42ML._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41qxOzqoSPL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51+7JXy5lZL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51D31IZezZL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Zircon MetalliScanner m40
     brand: Zircon
     query: Zircon MetalliScanner m40 metal scanner
@@ -201,6 +286,28 @@ products:
     scoreNote: >-
       Hand tool with nothing to install; mid-priced single-purpose scanner that
       suits plaster.
+    asin: B000VKJ1MM
+    image:
+      url: 'https://m.media-amazon.com/images/I/31kwCoPDy5L._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Zircon® MetalliScanner® m40 Electronic Metal Detector, Up to 4 in. Deep |
+      Ideal for lath and plaster walls and reclaimed lumber; locates hidden
+      metal before drilling, cutting or remodeling
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51lVIGPfQ2L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41xvXvc3fUL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/518flVIWMeL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41qG--F1d1L._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: Franklin Sensors ProSensor MAX (Franklin Sensors)
     url: 'https://franklinsensors.com/prosensor-max/'

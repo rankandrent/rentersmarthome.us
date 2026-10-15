@@ -1,8 +1,10 @@
 {
   "slug": "best-magnetic-stud-finder",
-  "pass": true,
-  "checkedAt": "2026-10-15T12:50:23.233Z",
-  "errors": [],
+  "pass": false,
+  "checkedAt": "2026-10-15T19:15:52.602Z",
+  "errors": [
+    "internal link to /blog/best-stud-finder-for-thick-walls/, which isn't live until 2026-10-16T23:41:00.000Z"
+  ],
   "warnings": [
     "source didn't respond normally (no response): https://www.tractorsupply.com/tsc/product/the-studbuddy-plus-magnetic-stud-finder-level-and-ruler-2408462"
   ],
