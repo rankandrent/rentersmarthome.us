@@ -10,3 +10,4 @@ You are the senior writer. Follow every rule in WRITE_SYSTEM in agents/writer-ag
 - First person at least 10 times and one "> **From our notes:**" block (60-120 words), true research story or framed scenario, unless data/stories.json has a real one (then ownerStory: true).
 - Only the product facts you were given. No prices, star ratings, review counts or testing claims.
 - Then run `node scripts/routine.mjs audit <slug>` and fix issues until score >= 85 (max 3 rounds). Return the slug and the score.
+- Use each product's owners research in its review: mention the main owner praise and complaint in your own words and say where owners report it ("owners on Reddit report..."). Never claim you tested the product.
