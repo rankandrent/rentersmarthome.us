@@ -203,7 +203,9 @@ export async function qaPost(post, { posts = listPosts(), online = false, live =
   if (online) {
     for (const s of sources) {
       const status = await urlOk(s.url);
-      if (status === 404 || status === 410) err(`source returns ${status}: ${s.url}`);
+      // A dead source on a post that is already live is flagged for the daily fact-check instead of
+      // hiding the post; before it goes live it still blocks publishing.
+      if (status === 404 || status === 410) (pub <= now ? warn : err)(`${pub <= now ? 'LIVE POST, FIX: ' : ''}source returns ${status}: ${s.url}`);
       else if (status === 0 || status >= 400) warn(`source didn't respond normally (${status || 'no response'}): ${s.url}`);
     }
     if (live) {
