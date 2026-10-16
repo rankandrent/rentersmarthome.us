@@ -253,6 +253,9 @@ products:
         - title: Canadian Tire listing
           url: >-
             https://canadiantire.ca/en/pdp/safety-1st-foam-corner-cushions-4-pk-0462391p.html
+    asin: B004D5FAQ2
+    amazonTitle: 'Safety 1st Furniture Corner Cushions, 4-Count'
+    matchName: Safety 1st Furniture Corner Cushions
   - name: Safety 1st Grip 'n Twist Door Knob Covers (4-pack)
     brand: Safety 1st
     query: Safety 1st Grip n Twist Door Knob Covers 4 pack

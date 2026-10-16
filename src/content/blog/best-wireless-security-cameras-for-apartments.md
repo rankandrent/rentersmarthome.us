@@ -212,6 +212,9 @@ products:
         - title: PB Tech Tapo C210 reviews
           url: >-
             https://www.pbtech.co.nz/product/CCTTPL1210/TP-Link-Tapo-C210-3MP2K-Indoor-PT-Wi-Fi-Camera--Wh
+    asin: B09Y8TLP25
+    amazonTitle: 'Tapo 2K Pan Tilt Security Camera for Baby Monitor, Dog Camera, C210'
+    matchName: Tapo 2K Pan Tilt Security Camera C210
   - name: Aqara Camera Hub G3
     brand: Aqara
     query: Aqara Camera Hub G3 2K indoor HomeKit

@@ -135,6 +135,11 @@ products:
             https://www.kids2.com/products/7060-000-summer-by-ingenuity-multi-use-extra-tall-walk-thru-gate-white
         - title: 'Summer Multi-Use Decorative gate reviews, Chewy'
           url: 'https://www.chewy.com/summer-multi-use-decorative-extra/dp/318495'
+    asin: B0CT2K6JQY
+    amazonTitle: >-
+      Summer Infant Multi-Use Decorative Extra Tall Walk-Thru Baby Gate, Fits
+      Openings 28.5-48 Inch
+    matchName: Summer Infant Multi-Use Decorative Extra Tall Walk-Thru Gate
   - name: Cumbor Auto Close Baby Gate
     brand: Cumbor
     query: Cumbor Auto Close Baby Gate pressure mounted

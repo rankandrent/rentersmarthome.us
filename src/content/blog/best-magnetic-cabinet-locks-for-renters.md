@@ -172,6 +172,11 @@ products:
       value: 8
       portability: 9
     scoreNote: Adhesive system with a high lock count per kit.
+    asin: B0D5J5Z985
+    amazonTitle: >-
+      Safety 1st Adhesive Magnetic Cabinet Locks, Includes 20 Child Locks for
+      Cabinets & Drawers, 2 Keys, White
+    matchName: Safety 1st Adhesive Magnetic Cabinet Locks 20 Locks 2 Keys
   - name: 'Jool Baby Magnetic Cabinet Locks (12 Locks, 2 Keys)'
     brand: Jool Baby
     query: Jool Baby magnetic cabinet locks 12 locks 2 keys
