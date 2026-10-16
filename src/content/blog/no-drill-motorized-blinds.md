@@ -94,6 +94,22 @@ products:
     scoreNote: >-
       Tension-mounted motorized shade; made to measure, so it fits specific
       windows only.
+    owners:
+      read: 3
+      praise:
+        - 'Quiet, smooth motor'
+        - Responsive customer support
+      complaints:
+        - Remote setup instructions could be clearer
+        - Rechargeable motor needs occasional charging unless solar is added
+        - We found few posts on this exact no-drill model
+      sources:
+        - title: Graywind on Trustpilot
+          url: 'https://nl-be.trustpilot.com/review/graywind.com?page=2'
+        - title: Graywind on Trustpilot (SE)
+          url: 'https://se.trustpilot.com/review/graywind.com'
+        - title: Pro Tool Reviews Graywind
+          url: 'https://www.protoolreviews.com/?p=189511'
   - name: SwitchBot Blind Tilt
     brand: SwitchBot
     query: SwitchBot Blind Tilt
@@ -142,6 +158,25 @@ products:
     scoreNote: >-
       Adhesive motor on the existing tilt wand; tilts slats only and needs a hub
       for voice.
+    owners:
+      read: 4
+      praise:
+        - Works for renters with no drilling
+        - Solar panel keeps it charged
+      complaints:
+        - Included adhesive strips did not hold well for some
+        - Fiddly setup; solar panel can get in the way of blinds
+        - >-
+          Early Alexa and hub connection problems; may not fit all tilt
+          mechanisms
+      sources:
+        - title: digiblur DIY review
+          url: >-
+            https://switch-bot.com/blogs/robot-vacuum/switchbot-blind-tilt-smart-blinds
+        - title: Trusted Reviews
+          url: 'https://www.trustedreviews.com/reviews/switchbot-blind-tilt'
+        - title: Automate Life review
+          url: 'https://automatelife.net/unboxing-and-review-switchbot-blind-tilt/'
   - name: SwitchBot Curtain 3
     brand: SwitchBot
     query: SwitchBot Curtain 3
@@ -190,6 +225,26 @@ products:
     scoreNote: >-
       Hooks onto the existing curtain rod or track; voice and remote control
       need a hub.
+    owners:
+      read: 5
+      praise:
+        - 'Quiet, smooth and strong at moving drapes'
+        - Easy to fit without drilling
+      complaints:
+        - Remote control over the internet can be flaky and needs a hub
+        - Controls one curtain only; two needed for double drapes
+        - One owner reported worn plastic parts after about 18 months
+      sources:
+        - title: Trusted Reviews
+          url: 'https://www.trustedreviews.com/reviews/switchbot-curtain-3'
+        - title: TechHive
+          url: >-
+            https://www.techhive.com/article/2238336/switchbot-curtain-3-review-3rd-gen-curtain-controller-gets-it-right.html
+        - title: The Gadgeteer
+          url: >-
+            https://the-gadgeteer.com/2023/09/13/switchbot-curtain-3-robot-and-solar-panel-review-drapery-control-has-never-been-so-easy-quiet-and-powerful/
+        - title: SwitchBot on Trustpilot
+          url: 'https://se.trustpilot.com/review/www.switch-bot.com'
 sources:
   - title: 'Graywind: No Drill Motorized Roller Shades'
     url: 'https://www.graywind.com/products/no-drill-roller-shades'

@@ -140,6 +140,20 @@ products:
     scoreNote: >-
       Plug-in speaker with a Thread border router and Matter hub; some Gemini
       features need Google Home Premium.
+    owners:
+      read: 1
+      praise:
+        - Early buyer liked sound volume and mids and lows for its size
+        - Setup and smart home control are easy
+      complaints:
+        - Short captive power cable under 5 feet makes repair hard
+        - Sometimes needs unplug and replug to fix connection issues
+      sources:
+        - title: Android Authority Google Home Speaker early unboxing
+          url: >-
+            https://www.androidauthority.com/google-home-speaker-early-unboxing-3680712/
+        - title: ShopSavvy TLDR Google Home Speaker
+          url: 'https://shopsavvy.com/reviews-tldr/google-home-speaker'
   - name: Amazon Echo Studio (2nd Gen)
     brand: Amazon
     query: Amazon Echo Studio 2nd Gen

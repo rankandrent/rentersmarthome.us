@@ -89,6 +89,26 @@ products:
     scoreNote: >-
       Plug-in Matter plug with energy monitoring; no hub, works with every major
       platform.
+    owners:
+      read: 3
+      praise:
+        - Slim enough that two fit in one duplex outlet
+        - >-
+          Pairs with Apple Home, Alexa, Google Home and SmartThings without a
+          Kasa account
+        - Energy monitoring and a side power button
+      complaints:
+        - 2.4GHz Wi-Fi only
+        - 'Energy monitoring needs the Kasa app, and it is on/off only'
+      sources:
+        - title: 'Kasa KP125M review, BGR'
+          url: 'https://bgr.com/reviews/tp-link-kasa-kp125m-review/'
+        - title: 'Kasa Matter plug review, Reviewed'
+          url: >-
+            https://reviewed.com/smarthome/content/kasa-matter-smart-plug-energy-monitoring-review
+        - title: 'Kasa KP125M, TechHive'
+          url: >-
+            https://www.techhive.com/article/1769995/tp-links-first-matter-certified-smart-plug-kasa-smart-kp125m.html
   - name: Tapo Mini Smart Wi-Fi Plug with Matter (P125M)
     brand: Tapo (TP-Link)
     query: Tapo P125M Matter smart plug
@@ -133,6 +153,24 @@ products:
       compatibility: 10
       portability: 10
     scoreNote: Plug-in Matter plug at a low price; no energy monitoring.
+    owners:
+      read: 3
+      praise:
+        - Cheap and easy to set up
+        - Works with most smart home ecosystems
+        - Compact body with a backlit button
+      complaints:
+        - Body can block a neighboring outlet on a surge protector or strip
+      sources:
+        - title: 'Tapo P125M review, TechRadar'
+          url: >-
+            https://techradar.com/reviews/tp-link-tapo-p125m-mini-smart-wi-fi-plug-review-an-affordable-way-in-to-the-matter-ecosystem
+        - title: 'Tapo P125M review, BGR'
+          url: >-
+            https://www.bgr.com/reviews/tp-link-tapo-p125m-matter-smart-switch-review-matter-is-finally-here/
+        - title: 'Tapo P125M review, PCWorld'
+          url: >-
+            https://www.pcworld.com/article/1503147/tp-link-tapo-p125m-smart-plug-review.html
   - name: Eve Energy (Matter)
     brand: Eve
     query: Eve Energy Matter smart plug
@@ -179,6 +217,23 @@ products:
     scoreNote: >-
       Plug-in Thread plug with energy metering; needs a Thread border router and
       costs more.
+    owners:
+      read: 5
+      praise:
+        - Energy monitoring and a privacy-first design
+        - Stable once set up; Apple Home users report good results
+      complaints:
+        - 'Setup and pairing trouble, including failing to add to Google Home'
+        - Some report disconnects and a clunky app
+        - Needs a Thread border router
+      sources:
+        - title: 'Eve Energy plug reviews, Best Buy'
+          url: >-
+            https://www.bestbuy.com/site/reviews/eve-energy-smart-plug-matter-white/6546393
+        - title: 'Eve Energy (Matter) review, Linkd Home'
+          url: 'https://linkdhome.com/reviews/eve-energy-review'
+        - title: 'Eve Energy review summary, ShopSavvy'
+          url: 'https://shopsavvy.com/reviews-tldr/eve-energy-smart-plug'
   - name: Meross Smart Plug Mini with Matter
     brand: Meross
     query: Meross Matter smart plug mini
@@ -225,6 +280,28 @@ products:
     scoreNote: >-
       Plug-in Matter plug sold in value multi-packs; no energy monitoring on the
       basic model.
+    owners:
+      read: 3
+      praise:
+        - >-
+          Low price with Matter support across Apple, Google, SmartThings and
+          Home Assistant
+        - Easy pairing
+      complaints:
+        - 2.4GHz Wi-Fi only
+        - >-
+          US MSS115 lacks the energy monitoring of the MSS315 that most
+          write-ups cover
+      sources:
+        - title: 'Meross MSS315 review, Mighty Gadget'
+          url: >-
+            https://mightygadget.com/meross-mss315-smart-wi-fi-plug-mini-review-a-smart-plug-with-matter/
+        - title: 'Meross Matter plug and Home Assistant, SmartHomeScene'
+          url: >-
+            https://smarthomescene.com/reviews/meross-matter-smart-plug-mss315-review-and-home-assistant-integration
+        - title: 'Meross MSS315 review, Home Tech Hacker'
+          url: >-
+            https://hometechhacker.com/meross-mss315-energy-monitoring-smart-plug-review/
 sources:
   - title: 'Matter standard overview, Connectivity Standards Alliance'
     url: 'https://csa-iot.org/all-solutions/matter/'

@@ -94,6 +94,22 @@ products:
     scoreNote: >-
       Screwdriver retrofit over the existing deadbolt; works with Alexa, Google
       and Apple Home.
+    owners:
+      read: 2
+      praise:
+        - Easy install that keeps your existing deadbolt and exterior key
+        - >-
+          Auto-unlock worked without firing while inside, in one tester's
+          experience
+      complaints:
+        - Poor battery life and false low-battery alerts reported by an owner
+        - HomeKit unresponsive within minutes of re-adding for one owner
+      sources:
+        - title: r/AugustSmartLock post (mirror)
+          url: 'https://redlib.hbubli.cc/u/cannotthinkofusrname'
+        - title: Best Buy Canada August Wi-Fi 4th gen review
+          url: >-
+            https://blog.bestbuy.ca/smart-home/august-wi-fi-smart-lock-4th-generation-review
   - name: SwitchBot Lock Pro
     brand: SwitchBot
     query: SwitchBot Lock Pro
@@ -139,6 +155,23 @@ products:
     scoreNote: >-
       Adhesive mount over the thumbturn with no disassembly; remote access and
       Matter need a hub.
+    owners:
+      read: 3
+      praise:
+        - 'Replaces only the interior side, so your outside key still works'
+        - Holds firmly and runs smoothly; quick 5-10 minute install
+      complaints:
+        - >-
+          Included door magnet sensor unreliable on uneven frames or
+          inward-opening doors
+        - Slower to unlock than the Aqara U200 in one comparison
+      sources:
+        - title: Ameridroid SwitchBot Lock Pro review
+          url: 'https://ameridroid.com/blogs/ameriblogs/review'
+        - title: Techlicious SwitchBot Lock Pro review
+          url: 'https://techlicious.com/review/switchbot-lock-pro-review'
+        - title: NextPit SwitchBot Lock Pro review
+          url: 'https://nextpit.com/switchbot-smart-lock-pro-review'
   - name: Yale Approach Lock with Wi-Fi
     brand: Yale
     query: Yale Approach Lock with Wi-Fi
@@ -178,6 +211,26 @@ products:
     scoreNote: >-
       Screwdriver retrofit that keeps exterior keys; the keypad is a separate
       purchase.
+    owners:
+      read: 3
+      praise:
+        - >-
+          Retrofit lock suited to renters, install under 10 minutes for one
+          tester
+        - Works well once set up
+      complaints:
+        - Calibration and firmware update bugs reported
+        - 'Separate Wi-Fi bridge needed, noisy motor, no HomeKit'
+      sources:
+        - title: PCWorld Yale Approach review
+          url: >-
+            https://www.pcworld.com/article/2331746/yale-approach-lock-with-wi-fi-keypad-review-this-is-easier.html
+        - title: Reviewed Yale Approach review
+          url: >-
+            https://reviewed.com/smarthome/content/yale-approach-smart-lock-review
+        - title: Tom's Guide Yale Approach review
+          url: >-
+            https://www.tomsguide.com/home/smart-home/yale-approach-smart-lock-review-a-great-retrofit-smart-lock
   - name: Aqara Smart Lock U200
     brand: Aqara
     query: Aqara Smart Lock U200
@@ -206,6 +259,28 @@ products:
     scoreNote: >-
       Retrofit lock with Matter over Thread and Apple Home Key; needs a Thread
       border router.
+    owners:
+      read: 5
+      praise:
+        - Fingerprint recognition reliable; mechanical key backup kept
+        - Matter over Thread and Apple Home Key support
+      complaints:
+        - >-
+          Auto-lock bugs and lock state sometimes misreported at launch; noisy
+          motor
+        - >-
+          Frustrating Matter pairing and shorter-than-expected battery life for
+          some
+      sources:
+        - title: NextPit Aqara U200 review
+          url: 'https://nextpit.com/aqara-u200-smart-lock-review'
+        - title: TechHive Aqara U200 review
+          url: >-
+            https://www.techhive.com/article/2420130/aqara-smart-lock-u200-review-this-retrofit-lock-has-a-few-rough-edges.html
+        - title: Mighty Gadget Aqara U200 review
+          url: 'https://mightygadget.co.uk/?p=688336'
+        - title: Reviewed Aqara U200 review
+          url: 'https://reviewed.com/smarthome/content/aqara-u200-smart-lock-review'
 sources:
   - title: August Home (manufacturer)
     url: 'https://august.com/'

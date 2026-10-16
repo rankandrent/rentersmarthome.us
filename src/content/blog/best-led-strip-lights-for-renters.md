@@ -89,6 +89,20 @@ products:
     scoreNote: >-
       Plug-in strip; the adhesive can lift paint if stuck to walls, and cut
       pieces can't be reused easily.
+    owners:
+      read: 4
+      praise:
+        - Some owners say adhesive held under desks and on textured walls
+        - Easy to apply and peels off without residue
+      complaints:
+        - Adhesive fails on bare metal and some textured or painted surfaces
+        - Some report far-end LEDs failing after months
+      sources:
+        - title: ShopSavvy Govee RGBIC LED Strip Lights
+          url: 'https://shopsavvy.com/products/govee-rgbic-led-strip-lights'
+        - title: Smart Home Compared Govee RGBIC LED Strip Light
+          url: >-
+            https://smarthomecompared.com/light-strips/govee-rgbic-led-strip-light
   - name: Philips Hue Lightstrip Plus
     brand: Philips Hue
     query: Philips Hue Lightstrip Plus
@@ -134,6 +148,21 @@ products:
     scoreNote: >-
       Plug-in strip that joins the Hue system; premium price, adhesive best on
       furniture.
+    owners:
+      read: 4
+      praise:
+        - Owners say strips look great after a year of daily use
+        - Works well behind headboards and under cabinets
+      complaints:
+        - Adhesive weakens over time; owners suggest double-sided tape
+        - Adhesive can pull off surface when removing backing
+      sources:
+        - title: Best Buy Hue Lightstrip Plus reviews
+          url: >-
+            https://bestbuy.com/site/reviews/philips-hue-bluetooth-lightstrip-plus-80-inch-base-kit-white-and-color-ambiance/6419725?feature=Tv
+        - title: Best Buy Hue Lightstrip Plus starter kit reviews
+          url: >-
+            https://bestbuy.com/site/reviews/philips-hue-bluetooth-lightstrip-plus-80-inch-starter-kit-white-and-color-ambiance/6458017?page=2
   - name: Govee COB Strip Light Pro
     brand: Govee
     query: Govee COB Strip Light Pro
@@ -180,6 +209,18 @@ products:
     scoreNote: >-
       Dot-free strip for cabinets and shelves; adhesive on furniture, higher
       price per foot.
+    owners:
+      read: 1
+      praise:
+        - 'Seamless look with no visible dots, per listing buyer'
+        - 'Works with Govee app, Matter, Alexa and Google'
+      complaints:
+        - Too little owner feedback found to judge long-term reliability
+      sources:
+        - title: Govee COB Strip Light Pro listing
+          url: 'https://heyupnow.com/products/govee-cob-strip-light-pro'
+        - title: Walmart Govee COB Strip Light Pro
+          url: 'https://www.walmart.com/ip/17894818796'
 sources:
   - title: 'Govee: Best LED strip lights'
     url: 'https://us.govee.com/blogs/led-strip-lights/best-led-strip-lights'

@@ -94,6 +94,25 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41E+D8DuiSL._SL500_.jpg'
         width: 386
         height: 500
+    owners:
+      read: 5
+      praise:
+        - Works through thick plaster and paint without false positives
+        - 'No batteries, and it holds itself on walls and ceilings'
+        - 'Cheap, handy for hanging pictures and TVs'
+      complaints:
+        - Hard to find studs where few nails or screws were used
+        - >-
+          Some buyers say it is unreliable on metal and does not match the
+          praise
+      sources:
+        - title: 'C.H. Hanson 03040 reviews, Looria'
+          url: 'https://www.looria.com/review/ch-hanson-03040-magnetic-stud-finder'
+        - title: 'C.H. Hanson 03040 reviews, eBay'
+          url: >-
+            https://www.ebay.ca/urw/C.h.+Hanson+03040+Magnetic+Stud+Finder+Compact+and+Lightweight+Ergonomic+Shape/product-reviews/2137524440
+        - title: 'Reddit stud finder summary, GummySearch'
+          url: 'https://gummysearch.com/tools/best-products/stud-finder/'
   - name: Kreg Magnetic Stud Finder KMM1000
     brand: Kreg
     query: Kreg KMM1000 Magnetic Stud Finder
@@ -138,6 +157,17 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41UPlDJBDbL._SL500_.jpg'
         width: 500
         height: 500
+    owners:
+      read: 1
+      praise:
+        - Battery-free magnet design that finds screws and nails
+        - Works on wood and metal studs
+      complaints:
+        - No recurring complaint in the 1 owner posts we read
+      sources:
+        - title: 'Kreg KMM1000 listing and rating, Grizzly'
+          url: >-
+            https://www.grizzly.com/products/kreg-kreg-magnetic-stud-finder/t33853
   - name: The StudBuddy Magnetic Stud Finder
     brand: StudBuddy
     query: StudBuddy Magnetic Stud Finder
@@ -183,6 +213,19 @@ products:
       - url: 'https://m.media-amazon.com/images/I/411NG6xXXdL._SL500_.jpg'
         width: 500
         height: 500
+    owners:
+      read: 2
+      praise:
+        - Simple and reliable with no battery
+        - Several owners say it beats pricier electronic finders
+      complaints:
+        - No recurring complaint in the 2 owner posts we read
+      sources:
+        - title: 'StudBuddy reviews, Lowe''s'
+          url: >-
+            https://www.lowes.com/reviews/the-studbuddy-000107-stud-finders/1001156644
+        - title: 'Reddit stud finder summary, GummySearch'
+          url: 'https://gummysearch.com/tools/best-products/stud-finder/'
   - name: The StudBuddy Plus
     brand: StudBuddy
     query: StudBuddy Plus Magnetic Stud Finder Level Ruler
@@ -230,6 +273,16 @@ products:
       - url: 'https://m.media-amazon.com/images/I/411NG6xXXdL._SL500_.jpg'
         width: 500
         height: 500
+    owners:
+      read: 1
+      praise:
+        - 'Magnetic finder with built-in level and ruler, no batteries'
+      complaints:
+        - No recurring complaint in the 1 owner posts we read
+      sources:
+        - title: 'StudBuddy Plus listing, Tractor Supply'
+          url: >-
+            https://tractorsupply.com/tsc/product/the-studbuddy-plus-magnetic-stud-finder-level-and-ruler
   - name: Kreg Magnetic Stud Finder with Laser-Mark KMM1000LZ
     brand: Kreg
     query: Kreg KMM1000LZ Magnetic Stud Finder with Laser
@@ -274,6 +327,20 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41Ew359XQ1L._SL500_.jpg'
         width: 500
         height: 500
+    owners:
+      read: 2
+      praise:
+        - Owners praise stud-location accuracy and magnet strength
+        - Laser line helps mark stud positions
+      complaints:
+        - No recurring complaint in the 2 owner posts we read
+      sources:
+        - title: Kreg KMM1000LZ page and reviews
+          url: >-
+            https://www.kregtool.com/shop/cabinet-solutions/measuring/laser-mark-magnetic-stud-finder/KMM1000LZ.html
+        - title: 'Kreg KMM1000LZ listing, Grizzly'
+          url: >-
+            https://www.grizzly.com/products/kreg-kreg-magnetic-stud-finder-with-laser-mark/t33854
 sources:
   - title: C.H. Hanson Magnetic Stud Finder 03040 (Ace Hardware)
     url: 'https://www.acehardware.com/p/2302487'

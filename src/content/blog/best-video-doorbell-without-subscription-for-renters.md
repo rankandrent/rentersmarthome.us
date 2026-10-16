@@ -85,6 +85,30 @@ products:
     scoreNote: >-
       Battery or wired doorbell with built-in local storage and no monthly fee;
       needs a mount.
+    owners:
+      read: 5
+      praise:
+        - Picture quality and delivery security praised by reviewers
+        - No subscription needed
+      complaints:
+        - >-
+          Firmware 3.2.3.0 broke live view, chime and notifications for many
+          owners
+        - >-
+          Motion alerts for passing cars; wired power and transformer issues
+          reported
+      sources:
+        - title: 'Eufy community: E340 wired issues'
+          url: >-
+            https://community.eufy.com/t/eufy-e340-video-doorbell-hard-wired-issues/3969948/77
+        - title: 'Eufy community: E340, S340 and S380 issues'
+          url: >-
+            https://community.eufy.com/t/e340-s340-and-s380-all-having-issues/4137433
+        - title: smarthomeassistent.de E340 firmware problems
+          url: >-
+            https://www.smarthomeassistent.de/eufy-e340-doorbell-massive-probleme-mit-firmware-3-2-3-0/
+        - title: LinkDHome E340 review
+          url: 'https://linkdhome.com/reviews/eufy-e340-doorbell-review'
   - name: eufy Video Doorbell S220
     brand: eufy
     query: eufy Video Doorbell S220 battery
@@ -109,6 +133,21 @@ products:
     scoreNote: >-
       Battery doorbell that stores clips on a eufy HomeBase with no monthly fee;
       needs a HomeBase.
+    owners:
+      read: 3
+      praise:
+        - Picture and sound quality liked by retailer reviewers
+        - 'Easy install, no subscription fees'
+      complaints:
+        - Needs HomeBase; one owner had no live video on dual-SIM setup
+        - Wouldn't charge through existing transformer for one reviewer
+      sources:
+        - title: Anker community S220 quick review
+          url: >-
+            https://community.anker.com/t/quick-review-eufy-security-2k-video-doorbell/70603?page=2
+        - title: PB Tech S220 reviews
+          url: >-
+            https://www.pbtech.co.nz/product/CCTEFY3103/Eufy-S220-2K-Outdoor-Wire-Free-Video-Doorbell---Ad?pg=2
   - name: Tapo D210
     brand: TP-Link Tapo
     query: Tapo D210 video doorbell battery

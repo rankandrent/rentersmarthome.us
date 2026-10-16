@@ -91,6 +91,33 @@ products:
     scoreNote: >-
       Replaces the existing peephole with no drilling; recordings need a Ring
       Home plan and it fits only certain doors.
+    owners:
+      read: 4
+      praise:
+        - >-
+          Fits over the existing door viewer without drilling, which suits
+          rentals
+        - Quick install and app notifications work once set up
+      complaints:
+        - >-
+          Live view or motion alerts sometimes fail after setup; some owners hit
+          hardware faults
+        - >-
+          Knock sensor weak on solid doors; battery life shorter than claimed on
+          busy streets
+      sources:
+        - title: Ring Peephole Cam Review (Security.org)
+          url: 'https://www.security.org/doorbell-camera/ring/review/door-view-cam'
+        - title: Ring peephole camera not working (Ring Community)
+          url: 'https://community.ring.com/t/ring-peephole-camera-not-working/143069'
+        - title: >-
+            Peephole Cam live view not working after flex cable replacement
+            (Ring Community)
+          url: >-
+            https://community.ring.com/conversations/general-topics/peephole-cam-live-view-not-working-after-flex-cable-replacement/683aabd133343b5c15fe6e07
+        - title: Ring Peephole Doorbell Not Working (Ring Community)
+          url: >-
+            https://community.ring.com/t/ring-peephole-doorbell-not-working/12520
   - name: Ring Battery Doorbell
     brand: Ring
     query: Ring Battery Doorbell
@@ -136,6 +163,28 @@ products:
     scoreNote: >-
       Battery doorbell with no wiring; needs a no-drill mount, and saving clips
       needs Ring Home.
+    owners:
+      read: 5
+      praise:
+        - Wireless battery power makes install simple without wiring
+        - One owner reported no issues with their unit
+      complaints:
+        - 'Battery drains within weeks for some owners, or unit stops responding'
+        - Wi-Fi drop-outs and support deflection reported on Ring forum
+        - Some units would not snap onto the mounting bracket
+      sources:
+        - title: Really disgusted (Ring Community)
+          url: >-
+            https://community.ring.com/conversations/ring-video-doorbell/really-disgusted/681a430820d5b71fad21aee1
+        - title: Doorbell not snapping into bracket (Ring Community)
+          url: >-
+            https://community.ring.com/conversations/ring-video-doorbell/head-to-toe-doorbell-not-snapping-into-bracket/679180745d74312f49aeedce
+        - title: 'Ring Doorbell, any good? (Talk Photography)'
+          url: >-
+            https://www.talkphotography.co.uk/threads/ring-doorbell-any-good.771394/
+        - title: Doorbell 3 battery not responding (Ring Community)
+          url: >-
+            https://community.ring.com/conversations/ring-video-doorbell/ring-doorbel-3-battery-not-responding-at-all/675c13d3a13932149a5ed27e
   - name: Ring No-Drill Mount
     brand: Ring
     query: Ring No-Drill Mount battery doorbell
@@ -169,6 +218,27 @@ products:
       value: 8
       portability: 7
     scoreNote: Adhesive mount for Ring battery doorbells; smooth surfaces only.
+    owners:
+      read: 2
+      praise:
+        - >-
+          Adhesive plate lets a doorbell go up without drilling into rental
+          walls
+        - Cheap and easy to fit
+      complaints:
+        - >-
+          Compatibility is model-specific; Ring says the Gen 2 mount fits only
+          that doorbell
+        - >-
+          Little owner feedback found; adhesive removal may mark facades, so
+          check your lease
+      sources:
+        - title: No-Drill Mount FAQs (Ring Support)
+          url: >-
+            https://ring.com/support/articles/mich9/No-Drill-Mount-for-Ring-Video-Doorbell-Gen-2-FAQs
+        - title: No-drill video doorbell mounts are perfect for renters (How-To Geek)
+          url: >-
+            https://www.howtogeek.com/828871/no-drill-video-doorbell-mounts-are-perfect-for-renters
 sources:
   - title: 'Ring: No-Drill Mount for Battery Doorbells'
     url: 'https://ring.com/ca/en/products/no-drill-mount-for-battery-doorbells'

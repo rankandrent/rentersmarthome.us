@@ -147,6 +147,16 @@ products:
       - url: 'https://m.media-amazon.com/images/I/51gaeWVxs4L._SL500_.jpg'
         width: 500
         height: 415
+    owners:
+      read: 2
+      praise:
+        - Wide LED display easy to read
+        - Live wire meter and built-in bubble level liked
+      complaints:
+        - AA batteries not included and need occasional replacement
+      sources:
+        - title: Franklin Sensors ProSensor M210
+          url: 'https://franklinsensors.com/prosensor-m210/'
   - name: Zircon MultiScanner i520 OneStep
     brand: Zircon
     query: Zircon MultiScanner i520 OneStep stud finder
@@ -214,6 +224,18 @@ products:
       value: 9
       portability: 10
     scoreNote: Hand tool with nothing to install; DeepScan depth at a lower price tier.
+    owners:
+      read: 2
+      praise:
+        - Buyers called it good value and said it works well
+        - Arrow light helps mark stud edges (reported on related Zircon models)
+      complaints:
+        - >-
+          Zircon StudSensors can give inconsistent results on older or textured
+          walls (related models)
+      sources:
+        - title: Walmart Zircon StudSensor HD70 listing
+          url: 'https://www.walmart.com/ip/544622201'
   - name: Bosch GMS 120
     brand: Bosch
     query: Bosch GMS 120 digital multi scanner
@@ -261,6 +283,25 @@ products:
       - url: 'https://m.media-amazon.com/images/I/51D31IZezZL._SL500_.jpg'
         width: 500
         height: 500
+    owners:
+      read: 3
+      praise:
+        - >-
+          Reliably finds metal and wood studs; copper pipe center found every
+          time in one test
+        - Live wire found quickly in one test
+      complaints:
+        - Live wire detection inconsistent; static charge causes false readings
+        - One reviewer found no studs in new drywall
+      sources:
+        - title: One Project Closer Bosch GMS120 review
+          url: 'https://oneprojectcloser.com/bosch-gms120-wall-scanner-review'
+        - title: Home Depot Bosch GMS120 reviews
+          url: >-
+            https://www.homedepot.com/p/reviews/Bosch-Digital-Wall-Scanner-with-Modes-for-Wood-Metal-and-AC-Wiring-GMS120/202850662/2
+        - title: Travis Perkins Bosch GMS 120 reviews
+          url: >-
+            https://travisperkins.co.uk/levelling-measuring-and-detecting-tools/bosch-gms-120-laser-multi-detector/p/189471
   - name: Zircon MetalliScanner m40
     brand: Zircon
     query: Zircon MetalliScanner m40 metal scanner
@@ -308,6 +349,17 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41qG--F1d1L._SL500_.jpg'
         width: 500
         height: 500
+    owners:
+      read: 1
+      praise:
+        - >-
+          Finds ferrous metal to 4 in and shows a clear light and tone on
+          detection
+      complaints:
+        - No recurring complaint in the 1 owner post we read
+      sources:
+        - title: Walmart Zircon MetalliScanner m40 listing
+          url: 'https://www.walmart.com/ip/3519189735'
 sources:
   - title: Franklin Sensors ProSensor MAX (Franklin Sensors)
     url: 'https://franklinsensors.com/prosensor-max/'

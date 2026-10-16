@@ -95,6 +95,20 @@ products:
       - url: 'https://m.media-amazon.com/images/I/21WaKOq5qBL._SL500_.jpg'
         width: 375
         height: 500
+    owners:
+      read: 2
+      praise:
+        - Hidden inside the cabinet and installs without tools
+        - Retail reviewers rate it well overall
+      complaints:
+        - 'Particle board needs the included screws, not just adhesive'
+        - Single magnetic key is easy to lose
+      sources:
+        - title: Walmart Safety 1st Complete Magnetic Locking System
+          url: 'https://www.walmart.com/ip/16782921'
+        - title: Navy Exchange Safety 1st Adhesive Magnetic Lock System
+          url: >-
+            https://www.mynavyexchange.com/safety-1st-adhesive-magnetic-lock-system/13404448
   - name: Safety 1st Adhesive Magnetic Lock System (8 Locks and 2 Keys) HS294
     brand: Safety 1st
     query: Safety 1st Adhesive Magnetic Lock System 8 locks 2 keys
@@ -118,6 +132,20 @@ products:
       value: 8
       portability: 9
     scoreNote: Same adhesive install as the 4-lock kit with better coverage per kit.
+    owners:
+      read: 2
+      praise:
+        - Flush fit with no give when installed well
+        - Locks worked flawlessly for some owners (screw-mount sibling)
+      complaints:
+        - 'Lost key leaves you stuck, so owners advise a spare'
+        - Particle board needs screws; no HS294-specific complaints found
+      sources:
+        - title: Safety 1st HS294 product page
+          url: >-
+            https://safety1st.com/products/adhesive-magnetic-lock-system-8-locks-and-2-keys-hs294
+        - title: Walmart Safety 1st magnetic locks
+          url: 'https://www.walmart.com/ip/401849156'
   - name: >-
       Safety 1st Secure-to-Explore Adhesive Magnetic Locks (20 Locks, 2 Keys)
       HS402
@@ -166,6 +194,21 @@ products:
       value: 8
       portability: 9
     scoreNote: Adhesive-only install; specs from retailer pages only.
+    owners:
+      read: 3
+      praise:
+        - Install took about 10 minutes with strong magnet and adhesive hold
+        - Child could not open cabinets once installed
+      complaints:
+        - Adults need a few weeks to get used to the magnet
+        - 'Adhesive may weaken near heat, per one roundup'
+      sources:
+        - title: Babylist Jool Baby Magnetic Cabinet Locks
+          url: >-
+            https://babylist.com/gp/jool-baby-magnetic-cabinet-locks-12-locks-2-keys/26634/1270808
+        - title: Target Jool Baby Magnetic Cabinet Locks
+          url: >-
+            https://target.com/p/jool-baby-products-magnetic-cabinet-locks-12ct/-/A-86180370
   - name: Dreambaby Adhesive Mag Lock (4 Locks + 1 Key)
     brand: Dreambaby
     query: Dreambaby Adhesive Mag Lock 4 locks 1 key
@@ -190,6 +233,20 @@ products:
       value: 7
       portability: 9
     scoreNote: Adhesive install; alignment reports lower the install score slightly.
+    owners:
+      read: 3
+      praise:
+        - 'Concealed, drill-free install that suits cabinets and drawers'
+        - Can be set to stay disengaged when needed
+      complaints:
+        - Key is tricky at first; listen for the click
+        - Some say locks would not stick; no spare key included
+      sources:
+        - title: Babylist Dreambaby Magnetic Locking System
+          url: >-
+            https://www.babylist.com/gp/dreambaby-magnetic-locking-system/26092/1236002
+        - title: Walmart Dreambaby Adhesive Mag Lock
+          url: 'https://www.walmart.com/ip/40466946'
   - name: Qdos Adhesive Magnet Lock (4 Pack)
     brand: Qdos
     query: Qdos adhesive magnet lock 4 pack

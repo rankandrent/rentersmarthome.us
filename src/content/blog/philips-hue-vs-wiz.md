@@ -88,6 +88,24 @@ products:
     scoreNote: >-
       Screw-in bulbs plus a plug-in Bridge; premium pricing, works with every
       major platform.
+    owners:
+      read: 4
+      praise:
+        - 'Reliable, flicker-free and works well once set up'
+        - Good starting point for the Hue ecosystem
+      complaints:
+        - Price is high for the kit
+        - Some owners report connection and firmware mismatches at setup
+        - Bulbs may not replace main fixtures in brightness (older kit)
+      sources:
+        - title: 512 Pixels review
+          url: >-
+            https://512pixels.net/2015/10/review-philips-hue-white-and-color-ambiance-starter-kit/
+        - title: Walmart kit listing
+          url: 'https://www.walmart.com/ip/592867400'
+        - title: Galaxus owner ratings
+          url: >-
+            https://galaxus.nl/en/s1/product/ratings/philips-hue-white-color-ambiance-bt-starter-kit-e27-9-w-806-lm-2-x-f-light-bulbs-11235541
   - name: WiZ Color A19 Smart Bulb
     brand: WiZ
     query: WiZ Color A19 smart bulb
@@ -132,6 +150,24 @@ products:
       compatibility: 9
       portability: 10
     scoreNote: Screw-in Wi-Fi bulb with no hub; every bulb adds a device to your router.
+    owners:
+      read: 4
+      praise:
+        - Cheap compared with Hue
+        - Wide color range and warm-to-cool white tuning
+      complaints:
+        - 2.4GHz-only Wi-Fi can cause setup trouble
+        - Some report dropped connections or random behavior
+        - App support and automations seen as hit-or-miss
+      sources:
+        - title: TechHive WiZ review
+          url: >-
+            https://www.techhive.com/article/578388/wiz-connected-color-and-tunable-white-a19-bulb-review.html
+        - title: ShopSavvy WiZ summary
+          url: >-
+            https://www.shopsavvy.com/reviews-tldr/philips-wiz-a19-smart-bulb-2-pack
+        - title: r/wiz
+          url: 'https://redlib.ssps.io/r/wiz'
   - name: Philips Hue Bridge
     brand: Philips Hue
     query: Philips Hue Bridge
@@ -177,6 +213,24 @@ products:
     scoreNote: >-
       Plug-in hub that adds remote control, accessories and Matter to Hue
       lights.
+    owners:
+      read: 4
+      praise:
+        - Many owners report years of trouble-free use
+        - >-
+          Faster, more reliable whole-house control than Bluetooth, with scenes
+          and remote access
+      complaints:
+        - Setup can take several attempts
+        - Glitchy past the 50-light limit
+        - Price is a frequent complaint
+      sources:
+        - title: Smart Home Compared Hue Bridge
+          url: 'https://smarthomecompared.com/hubs/philips-hue-bridge'
+        - title: ShopSavvy Hue Bridge summary
+          url: 'https://shopsavvy.com/reviews-tldr/philips-hue-bridge'
+        - title: Lowe's Hue Bridge
+          url: 'https://www.lowes.com/pd/Philips-Philips-Hue-Bridge/5005453051'
 sources:
   - title: 'TechRadar: Philips Hue vs WiZ'
     url: >-

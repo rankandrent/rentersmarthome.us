@@ -176,6 +176,23 @@ products:
     scoreNote: >-
       Plug-in hub that saves Blink clips to a USB drive, removing the monthly
       fee.
+    owners:
+      read: 3
+      praise:
+        - Works well on a stable home network once set up
+        - Required for local storage with Blink cameras
+      complaints:
+        - 'Randomly drops offline, sometimes for days'
+        - Setup fails with a false wrong-Wi-Fi-password error
+      sources:
+        - title: Blink camera systems do not buy (Technibble)
+          url: >-
+            https://www.technibble.com/forums/threads/blink-camera-systems-do-not-buy.90441/
+        - title: Blink sync 2 module not connecting (Virgin Media)
+          url: >-
+            https://community.virginmedia.com/discussions/Wireless/blink-sync-2-module-not-connecting/5509269
+        - title: Blink Sync Module 2 on Verizon home 5G
+          url: 'https://community.verizon.com/discussion/comment/1756426'
 sources:
   - title: 'Security.org: Blink vs Ring'
     url: 'https://www.security.org/security-cameras/blink-vs-ring/'

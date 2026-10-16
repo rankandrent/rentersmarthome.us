@@ -93,6 +93,26 @@ products:
     scoreNote: >-
       Replaces the existing peephole with no drilling; recordings need a Ring
       Home plan and it fits only certain doors.
+    owners:
+      read: 7
+      praise:
+        - 'Fits existing peepholes and is small, with the battery inside the door'
+        - 'Easy battery swap, 1080p video'
+      complaints:
+        - >-
+          Battery life reported far below spec on busy streets, about 6-8 weeks
+          in one case
+        - >-
+          Live view failures and cable faults in forum posts; no person
+          detection, subscription needed
+      sources:
+        - title: 'Ring Peephole Cam review, Security.org'
+          url: 'https://www.security.org/doorbell-camera/ring/review/door-view-cam'
+        - title: 'Ring peephole camera not working, Ring Community'
+          url: 'https://community.ring.com/t/ring-peephole-camera-not-working/143069'
+        - title: 'Live view not working after flex cable replacement, Ring Community'
+          url: >-
+            https://community.ring.com/conversations/general-topics/peephole-cam-live-view-not-working-after-flex-cable-replacement/683aabd133343b5c15fe6e07
   - name: Ring Battery Doorbell
     brand: Ring
     query: Ring Battery Doorbell
@@ -140,6 +160,21 @@ products:
     scoreNote: >-
       Battery doorbell with no wiring; needs a no-drill mount, and saving clips
       needs Ring Home.
+    owners:
+      read: 3
+      praise:
+        - Charge lasts months for one owner
+        - Quick-release battery is secure and quick to swap
+      complaints:
+        - Needs a Ring Protect subscription to save video
+        - '2.4GHz Wi-Fi only, Alexa ecosystem only'
+      sources:
+        - title: 'Ring Battery Doorbell, Smart Home Explorer'
+          url: >-
+            https://www.smarthomeexplorer.com/reviews/smart-security/ring-battery-doorbell
+        - title: 'Ring Battery Doorbell (2nd Gen), Smart Home Compared'
+          url: >-
+            https://smarthomecompared.com/doorbells/ring-battery-doorbell-2nd-gen
   - name: Blink Mini 2
     brand: Blink
     query: Blink Mini 2 indoor camera
@@ -188,6 +223,24 @@ products:
     scoreNote: >-
       Plug-in indoor camera with free local storage via a Sync Module;
       Alexa-centric.
+    owners:
+      read: 4
+      praise:
+        - Good image quality and easy setup
+        - 'Good value, person detection cuts false alerts'
+      complaints:
+        - Connection drops needing resets in some Best Buy reviews
+        - >-
+          Slow motion alerts, false alerts, and subscription needed for advanced
+          features
+      sources:
+        - title: 'Blink Mini 2 reviews, Best Buy'
+          url: >-
+            https://www.bestbuy.com/product/blink-mini-2-home-security-pet-cameras-with-hd-video-color-night-view-motion-detection-two-way-audio-2-cam-black/J39HW6YTRQ/sku/6576646
+        - title: 'Blink Mini 2 review, Tom''s Guide'
+          url: 'https://www.tomsguide.com/blink-mini-2-review'
+        - title: 'Blink Mini 2 review summary, ShopSavvy'
+          url: 'https://shopsavvy.com/reviews-tldr/blink-mini-2-(2-pack)'
   - name: Wyze Cam v4
     brand: Wyze
     query: Wyze Cam v4
@@ -236,6 +289,28 @@ products:
     scoreNote: >-
       Freestanding camera with microSD recording and a magnetic base; smart
       alerts best with Cam Plus.
+    owners:
+      read: 6
+      praise:
+        - Strong image quality for the price
+        - microSD recording with no required subscription
+        - Some owners report a year or more of trouble-free use
+      complaints:
+        - >-
+          Some units failed within about 1.5 years; debate over lens fogging
+          outdoors
+        - >-
+          Weak mic and zoom per some buyers; beta firmware problems reported in
+          the forum
+      sources:
+        - title: 'Reliability issues with the Wyze Cam V4, Wyze Forum'
+          url: >-
+            https://forums.wyze.com/t/reliability-issues-with-the-wyze-cam-v4/339758
+        - title: 'Wyze Cam v4 customer feedback analysis, Kimola'
+          url: >-
+            https://kimola.com/reports/unlock-insights-wyze-cam-v4-customer-feedback-analysis-amazon-en-us-155847
+        - title: 'Wyze Cam v4, Smart Home Compared'
+          url: 'https://smarthomecompared.com/cameras/wyze-cam-v4'
 sources:
   - title: Ring (manufacturer)
     url: 'https://ring.com/'

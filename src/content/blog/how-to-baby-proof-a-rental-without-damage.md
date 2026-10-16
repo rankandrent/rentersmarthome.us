@@ -76,6 +76,21 @@ products:
       value: 8
       portability: 9
     scoreNote: 'Adhesive install, held back because some materials need screws.'
+    owners:
+      read: 4
+      praise:
+        - Owners say the locks work well and don't damage cabinets
+        - Adhesive mounting means no drilling for renters
+      complaints:
+        - >-
+          Adhesive may not hold on particle board, old paint or oily surfaces;
+          screws are needed there
+      sources:
+        - title: Safety 1st HS294 on eBay
+          url: 'https://www.ebay.com/p/26031753618'
+        - title: Safety 1st product page
+          url: >-
+            https://safety1st.com/products/adhesive-magnetic-lock-system-8-locks-and-2-keys-hs294
   - name: Safety 1st Press Tab Plug Protectors
     brand: Safety 1st
     query: Safety 1st Press Tab Plug Protectors
@@ -116,6 +131,21 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41-rq-2yw1L._SL500_.jpg'
         width: 500
         height: 500
+    owners:
+      read: 4
+      praise:
+        - >-
+          Hard for toddlers to grip or pull out; one parent says their very
+          curious child could not remove them
+        - Tab makes removal easy for adults
+      complaints:
+        - Some owners find them tight and need effort to remove
+        - One buyer received a pack that had already been opened
+      sources:
+        - title: Walmart 36-pack listing
+          url: 'https://www.walmart.com/ip/587402368'
+        - title: Walmart 32-pack listing
+          url: 'https://www.walmart.com/ip/47710214'
   - name: Safety 1st Easy Install Walk-Through Gate
     brand: Safety 1st
     query: Safety 1st Easy Install Walk-Through Gate
@@ -160,6 +190,24 @@ products:
       - url: 'https://m.media-amazon.com/images/I/418CzLEiCKL._SL500_.jpg'
         width: 500
         height: 500
+    owners:
+      read: 5
+      praise:
+        - Looks good and sets up quickly
+        - Stays in doorways without marking walls
+      complaints:
+        - Latch and housing parts reported sticking or breaking over time
+        - >-
+          Needs wall cups to stay put; not for top of stairs, and fit varies by
+          wall type
+      sources:
+        - title: Walmart listing reviews
+          url: 'https://www.walmart.com/ip/49660480'
+        - title: Walmart listing reviews (2)
+          url: 'https://www.walmart.com/ip/1643250385'
+        - title: Macy's listing
+          url: >-
+            https://www.macys.com/shop/product/safety-1st-easy-install-walk-thru-gate?ID=6854134
   - name: 'Safety 1st Foam Corner Cushions (4-pack, HS209)'
     brand: Safety 1st
     query: Safety 1st Foam Corner Cushions 4 pack
@@ -183,6 +231,22 @@ products:
       value: 9
       portability: 9
     scoreNote: Stick-on install with a small residue risk.
+    owners:
+      read: 1
+      praise:
+        - >-
+          Maker says the adhesive strip holds and removes cleanly; a reviewer of
+          the similar Clearly Soft guards reported no finish damage
+      complaints:
+        - >-
+          We found no owner posts on this exact model, so long-term hold is
+          unconfirmed
+      sources:
+        - title: Safety 1st HS209 page
+          url: 'https://safety1st.com/en-ca/products/foam-corner-cushions-hs209'
+        - title: Canadian Tire listing
+          url: >-
+            https://canadiantire.ca/en/pdp/safety-1st-foam-corner-cushions-4-pk-0462391p.html
   - name: Safety 1st Grip 'n Twist Door Knob Covers (4-pack)
     brand: Safety 1st
     query: Safety 1st Grip n Twist Door Knob Covers 4 pack
@@ -225,6 +289,22 @@ products:
       - url: 'https://m.media-amazon.com/images/I/31LajGFzQwL._SL500_.jpg'
         width: 375
         height: 500
+    owners:
+      read: 3
+      praise:
+        - Owners say they work well and are effective against toddlers
+        - Easy to use once fitted
+      complaints:
+        - >-
+          Fit is tight or poor on flat or non-standard knobs; standard round
+          works best
+        - Grip can be too stiff for adults with arthritis
+      sources:
+        - title: Safety 1st Grip N Twist on eBay
+          url: 'https://www.ebay.com/p/710095188'
+        - title: Navy Exchange listing
+          url: >-
+            https://www.mynavyexchange.com/safety-1st-grip-n-twist-door-knob-covers-4-pack/13404454
   - name: QuakeHOLD! Furniture Safety Strap 4160
     brand: QuakeHOLD!
     query: QuakeHOLD Furniture Safety Strap 4160
@@ -270,6 +350,19 @@ products:
       - url: 'https://m.media-amazon.com/images/I/51YfOj4hxWL._SL500_.jpg'
         width: 500
         height: 500
+    owners:
+      read: 2
+      praise:
+        - Peel-and-press mount avoids holes in furniture
+        - Rated up to 500 lb and sold with two 15-inch straps
+      complaints:
+        - We found no recurring complaint in the few owner posts we read
+      sources:
+        - title: Home Depot listing
+          url: >-
+            https://homedepot.com/p/QuakeHOLD-Black-Nylon-Furniture-Safety-Strap-4160/100137023
+        - title: Ready America
+          url: 'https://www.readyamerica.com/product/quakehold-furniture-strap/'
 sources:
   - title: Safety 1st Adhesive Magnetic Lock System HS294 (Safety 1st)
     url: >-

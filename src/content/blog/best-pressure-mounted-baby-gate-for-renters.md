@@ -81,6 +81,22 @@ products:
       value: 9
       portability: 8
     scoreNote: Pressure mount with wall cups for doorways; never for the top of stairs.
+    owners:
+      read: 5
+      praise:
+        - Easy to install and sturdy
+        - Walk-through door works well for keeping a dog off stairs
+      complaints:
+        - Pressure mount slid on a wooden banister; some screwed in the cups
+        - >-
+          Narrow opening and a raised threshold that can trip, plus fit gaps
+          between widths
+      sources:
+        - title: 'Regalo gate reviews, Sam''s Club'
+          url: 'https://www.samsclub.com/reviews/product/13577969775?page=57'
+        - title: 'Regalo Easy Step Metal Walk-Through Gate, Target'
+          url: >-
+            https://www.target.com/p/regalo-easy-step-metal-walk-through-gate/-/A-1009820924
   - name: Summer Infant Multi-Use Deco Extra Tall Walk-Thru Gate
     brand: Summer Infant
     query: Summer Infant Extra Tall Walk-Thru Baby Gate pressure mounted
@@ -102,6 +118,19 @@ products:
       value: 8
       portability: 8
     scoreNote: Extra-tall pressure gate for doorways and hallways; check the width range.
+    owners:
+      read: 3
+      praise:
+        - Sturdy and well made
+        - Opens easily with one hand
+      complaints:
+        - No recurring complaint in the 3 owner posts we read
+      sources:
+        - title: 'Multi-Use Extra Tall Walk-Thru Gate reviews, Kids2'
+          url: >-
+            https://www.kids2.com/products/7060-000-summer-by-ingenuity-multi-use-extra-tall-walk-thru-gate-white
+        - title: 'Summer Multi-Use Decorative gate reviews, Chewy'
+          url: 'https://www.chewy.com/summer-multi-use-decorative-extra/dp/318495'
   - name: Cumbor Auto Close Baby Gate
     brand: Cumbor
     query: Cumbor Auto Close Baby Gate pressure mounted
@@ -147,6 +176,21 @@ products:
       value: 8
       portability: 8
     scoreNote: Auto-close walk-through gate; mounting options vary by kit.
+    owners:
+      read: 3
+      praise:
+        - Sturdy two-way swing
+        - One-handed operation
+      complaints:
+        - Auto-close may not latch without adjustment and can be loud
+        - >-
+          Confusing instructions, extension fit trouble, and pressure mounts can
+          loosen with heavy pet use
+      sources:
+        - title: 'Cumbor baby gate review summary, ShopSavvy'
+          url: 'https://shopsavvy.com/reviews-tldr/"cumbor-baby-gate"'
+        - title: 'Best baby gates for pets and toddlers, Peggy O''Mara'
+          url: 'https://www.peggyomara.com/best-baby-gates-for-pets-and-toddlers/'
 sources:
   - title: 'Mommyhood101: Best baby gates'
     url: 'https://mommyhood101.com/best-baby-gates'

@@ -89,6 +89,23 @@ products:
     scoreNote: >-
       Hang on an existing or tension rod; no drilling, and sizes must fit your
       window.
+    owners:
+      read: 3
+      praise:
+        - Block most light and add insulation
+        - Easy to hang
+      complaints:
+        - >-
+          Many size and fabric variants, so ratings vary by listing; check the
+          exact size
+      sources:
+        - title: Sleepopolis review
+          url: 'https://sleepopolis.com/?p=22011'
+        - title: ShopSavvy summary
+          url: >-
+            https://shopsavvy.com/reviews-tldr/nicetown-blackout-linen-curtains-84%22.md
+        - title: Walmart listing reviews
+          url: 'https://www.walmart.com/ip/5375738803'
   - name: Vornado 660
     brand: Vornado
     query: Vornado 660 air circulator fan
@@ -131,6 +148,24 @@ products:
       value: 8
       portability: 9
     scoreNote: Freestanding air circulator; bulky for small bedrooms.
+    owners:
+      read: 5
+      praise:
+        - Strong airflow and sturdy build
+        - 5-year warranty and removable grill
+      complaints:
+        - Some owners say it is loud at high speed
+        - >-
+          A few could not get it to circulate air around the room; no
+          oscillation
+        - Several call it overpriced; one found it hard to clean
+      sources:
+        - title: ProductReview.com.au Vornado
+          url: 'https://www.productreview.com.au/b/vornado'
+        - title: ShopSavvy Vornado 660 summary
+          url: 'https://www.shopsavvy.com/reviews-tldr/vornado-660-air-circulator'
+        - title: Desertcart listing reviews
+          url: 'https://www.desertcart.com.cy/products/1142683'
   - name: Lasko Box Fan
     brand: Lasko
     query: Lasko 20 inch box fan
@@ -174,6 +209,25 @@ products:
       value: 10
       portability: 10
     scoreNote: Freestanding box fan for windows or floors; can be noisy on high.
+    owners:
+      read: 6
+      praise:
+        - Good airflow for the money
+        - Durable steel frame; owners report dependable years of use
+      complaints:
+        - Narrow base can tip and plastic feet pop out
+        - Some lasted only 2-3 years; sun-warped blades or failing bearings
+        - Noise opinions split; some find newer ones louder
+      sources:
+        - title: Lowe's Lasko reviews
+          url: 'https://www.lowes.com/reviews/lasko-3733-portable-fans/1114391'
+        - title: Lasko on Trustpilot
+          url: 'https://de.trustpilot.com/review/www.lasko.com'
+        - title: Sam's Club reviews
+          url: 'https://www.samsclub.com/reviews/product/18320254853'
+        - title: Walmart Lasko box fan reviews
+          url: >-
+            https://www.walmart.com/ip/Lasko-Cool-Colors-20-Box-Fan-with-3-Speeds-B20200-White-22-5-High-New/42388499
 sources:
   - title: 'Apartment List: How to cool an apartment without air conditioning'
     url: >-

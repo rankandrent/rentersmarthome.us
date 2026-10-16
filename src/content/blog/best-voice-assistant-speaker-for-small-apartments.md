@@ -108,6 +108,20 @@ products:
       compatibility: 8
       portability: 10
     scoreNote: 'Smallest, cheapest Alexa speaker; fewer smart home extras.'
+    owners:
+      read: 2
+      praise:
+        - Compact size and easy setup
+        - Decent sound for its size
+      complaints:
+        - Tinny or muddy at high volume; weaker than Echo Dot
+        - Wi-Fi disconnects; one Amazon reviewer's unit failed after two months
+      sources:
+        - title: Reviewed Echo Pop review
+          url: 'https://reviewed.com/smarthome/content/amazon-echo-pop-review'
+        - title: Expert Reviews Echo Pop review
+          url: >-
+            https://www.expertreviews.co.uk/smart-speakers/1418764/amazon-echo-pop-review
   - name: Google Nest Mini
     brand: Google
     query: Google Nest Mini 2nd Gen
@@ -153,6 +167,19 @@ products:
     scoreNote: >-
       Compact Google speaker with a mic switch; wall slot uses one small nail if
       you hang it.
+    owners:
+      read: 3
+      praise:
+        - Audio quality and compact size rated well by buyers
+      complaints:
+        - Wi-Fi drops needing reboots or resets
+        - Unlinks from Google Home app; stray LEDs and false activations
+      sources:
+        - title: MobileSyrup Nest Mini unlink issue
+          url: >-
+            https://mobilesyrup.com/2021/02/26/google-nest-mini-unlink-google-home-connection-issue/
+        - title: Digital Trends Nest Mini issues
+          url: 'https://digitaltrends.com/?p=2454524'
   - name: Apple HomePod mini
     brand: Apple
     query: Apple HomePod mini
@@ -187,6 +214,22 @@ products:
     scoreNote: >-
       Compact Siri speaker that doubles as an Apple Home hub; best with an
       iPhone and pricier.
+    owners:
+      read: 4
+      praise:
+        - Works well with Apple ecosystem and stereo pairing
+      complaints:
+        - Touch sensor can start playback unprompted after a few years
+        - Stereo pair sync and Wi-Fi/HomeKit dropouts reported
+      sources:
+        - title: heise.de HomePod mini touch sensor report
+          url: 'https://heise.de/-10627325'
+        - title: BGR HomePod owner issues
+          url: >-
+            https://www.bgr.com/2206948/biggest-issues-apple-homepods-according-owners/
+        - title: MacRumors HomePod thread
+          url: >-
+            https://spy.macrumors.com/threads/homepods-are-apples-worst-product-ever.2484297/
 sources:
   - title: 'Apple: HomePod mini'
     url: 'https://www.apple.com/homepod-mini/'

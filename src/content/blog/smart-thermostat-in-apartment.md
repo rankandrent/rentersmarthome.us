@@ -86,6 +86,31 @@ products:
     scoreNote: >-
       Replaces the wall thermostat; needs landlord permission and a compatible
       24V system.
+    owners:
+      read: 4
+      praise:
+        - >-
+          Affordable and works without a C-wire in many homes (one owner ran
+          about three years that way)
+        - Simple setup and clean interface
+      complaints:
+        - >-
+          Without a C-wire: Wi-Fi drops, dim display, low-power errors,
+          short-cycling
+        - >-
+          Wiring error messages even after adding a C-wire; Wi-Fi disconnects
+          needing manual resets
+      sources:
+        - title: Nest Thermostat long-term review (Android Central)
+          url: 'https://www.androidcentral.com/nest-thermostat-review'
+        - title: Google Nest Thermostat reviews (Lowe's)
+          url: >-
+            https://www.lowes.com/collections/Google-Google-Nest-Thermostat-Google-Nest-Hello/GR_860
+        - title: Nest Thermostat C-wire answers (ShopSavvy)
+          url: >-
+            https://shopsavvy.com/answers/google-nest-thermostat-c-wire-common-wire-installation
+        - title: Google Nest Thermostat (Canadian Tire)
+          url: 'https://canadiantire.ca/en/pdp/p-0529780p.html'
   - name: ecobee Smart Thermostat Essential
     brand: ecobee
     query: ecobee Smart Thermostat Essential
@@ -136,6 +161,24 @@ products:
     scoreNote: >-
       Replaces the wall thermostat and may need the Power Extender Kit at the
       furnace.
+    owners:
+      read: 3
+      praise:
+        - Easy installation for many owners
+        - App and geofencing liked
+      complaints:
+        - Installs without a C-wire were hard for some owners
+        - >-
+          Reports of ignored schedules or overrides and inaccurate temperature
+          readings, mostly on other ecobee models
+      sources:
+        - title: Best Buy ecobee reviews
+          url: 'https://www.bestbuy.com/site/reviews/-/5823200?page=96'
+        - title: 'r/ecobee: Really hating ecobee'
+          url: 'https://redlib.ssps.io/r/ecobee/comments/ytptxe/really_hating_ecobee'
+        - title: How To Outsmart Your Ecobee Thermostat
+          url: >-
+            https://betweennapsontheporch.net/how-to-stop-an-ecobee-smart-thermostat-from-overriding-temperature-settings/
   - name: Mysa Smart Thermostat for Electric Baseboard Heaters
     brand: Mysa
     query: Mysa Smart Thermostat for Electric Baseboard Heaters
@@ -182,6 +225,26 @@ products:
       compatibility: 8
       portability: 5
     scoreNote: Line-voltage thermostat; an electrician installs it in most rentals.
+    owners:
+      read: 4
+      praise:
+        - 'Easy install and solid Wi-Fi, even far from the router'
+        - Unobtrusive look; users report heating savings
+      complaints:
+        - Only for line-voltage heat; not for furnaces or boilers
+        - Audible relay click on V2; older V1 keypad unresponsive
+      sources:
+        - title: Mysa review (Best Buy Canada blog)
+          url: >-
+            https://blog.bestbuy.ca/smart-home/mysa-smart-thermostat-for-electric-baseboards-review
+        - title: Mysa for Baseboard Heaters (SupplyHouse)
+          url: >-
+            https://www.supplyhouse.com/Mysa-MYSA-V1-1-Mysa-Smart-Thermostat-for-Baseboard-Heaters
+        - title: Mysa Smart Thermostat review (HomeKit News)
+          url: 'https://homekitnews.com/2018/06/15/mysa-smart-thermostat-review/'
+        - title: Mysa V2 review comments (Best Buy Canada)
+          url: >-
+            https://blog.bestbuy.ca/smart-home/mysa-v2-smart-thermostat-for-baseboard-heaters-review/comment-page-2?amp=1
 sources:
   - title: 'GearBrain: Smart thermostats without a C-wire'
     url: >-

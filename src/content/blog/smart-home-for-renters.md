@@ -90,6 +90,25 @@ products:
     scoreNote: >-
       Plug-in Matter plug with energy monitoring; no hub, works with every major
       platform.
+    owners:
+      read: 4
+      praise:
+        - Small plug with Matter and HomeKit support
+        - Works fine once on 2.4GHz Wi-Fi
+      complaints:
+        - >-
+          Setup trouble on some routers, e.g. Eero with HomeKit on; setup code
+          hard to scan
+        - Pricier than rivals and on/off only
+      sources:
+        - title: TP-Link Kasa KP125M review (BGR)
+          url: 'https://bgr.com/reviews/tp-link-kasa-kp125m-review/'
+        - title: Kasa Smart Wi-Fi Plug Mini customer reviews (Best Buy)
+          url: >-
+            https://www.bestbuy.com/product/tp-link-kasa-smart-wi-fi-plug-mini-with-homekit-white/J39QK2Q7XV/sku/6472520/reviews
+        - title: KP125M review (TechHive)
+          url: >-
+            https://www.techhive.com/article/1769995/tp-links-first-matter-certified-smart-plug-kasa-smart-kp125m.html
   - name: Philips Hue White and Color Ambiance Starter Kit
     brand: Philips Hue
     query: Philips Hue White and Color Ambiance Starter Kit
@@ -138,6 +157,24 @@ products:
     scoreNote: >-
       Screw-in bulbs plus a plug-in Bridge; premium pricing, works with every
       major platform.
+    owners:
+      read: 3
+      praise:
+        - App is praised and the Bridge gives stable connectivity
+        - Good for mood lighting and colour
+      complaints:
+        - 'Not bright enough to replace main lighting, per one buyer'
+        - >-
+          Costly for the kit and needs the Bridge hub; wall switch off kills app
+          control
+      sources:
+        - title: 'Review: Philips Hue Starter Kit (512 Pixels)'
+          url: >-
+            https://512pixels.net/2015/10/review-philips-hue-white-and-color-ambiance-starter-kit/
+        - title: Philips Hue Starter Kit review summary (ShopSavvy)
+          url: 'https://shopsavvy.com/reviews-tldr/philips-hue-starter-kit'
+        - title: Philips Hue 4 pack starter kit (Walmart)
+          url: 'https://www.walmart.com/ip/592867400'
   - name: SwitchBot Bot Smart Switch Button Pusher
     brand: SwitchBot
     query: SwitchBot Bot Smart Switch Button Pusher
@@ -182,6 +219,25 @@ products:
       compatibility: 7
       portability: 9
     scoreNote: Adhesive button pusher for existing switches; remote control needs a hub.
+    owners:
+      read: 4
+      praise:
+        - 'Easy install, no tools, and reliable in reviews'
+        - Long battery life and works with voice assistants via hub
+      complaints:
+        - Bulky and can block manual use of the button
+        - Needs a hub for remote control; awkward for multi-press devices
+      sources:
+        - title: SwitchBot Bot Review (Trusted Reviews)
+          url: 'https://www.trustedreviews.com/reviews/switchbot-bot'
+        - title: SwitchBot button pusher review (AppleInsider)
+          url: >-
+            https://appleinsider.com/articles/23/11/12/switchbot-smart-switch-button-pusher-review-a-small-way-to-make-a-basic-button-smart
+        - title: SwitchBot Bot Review (Linkd Home)
+          url: 'https://linkdhome.com/articles/switchbot-review'
+        - title: SwitchBot Bot (Walmart)
+          url: >-
+            https://www.walmart.com/ip/SwitchBot-Bot-Programmable-Bluetooth-Smart-Button-Pusher-Black/387358054
   - name: Sensibo Air
     brand: Sensibo
     query: Sensibo Air smart AC controller
@@ -230,6 +286,27 @@ products:
     scoreNote: >-
       IR controller that works like your AC remote; advanced features need a
       subscription.
+    owners:
+      read: 5
+      praise:
+        - Core AC and heat-pump control works well for many owners
+        - Long-term users with no subscription say the app works fine
+      complaints:
+        - 'Best features sit behind a paid subscription, with upgrade prompts'
+        - >-
+          Reliability varies by AC brand; one owner needed monthly resets and
+          found support weak
+      sources:
+        - title: Sensibo Air reviews (ProductReview.com.au)
+          url: 'https://www.productreview.com.au/listings/sensibo-air'
+        - title: Sensibo Air review (TechHive)
+          url: 'https://www.techhive.com/article/578796/sensibo-air-review.html'
+        - title: Sensibo Air owner reviews (PB Tech)
+          url: >-
+            https://www.pbtech.com/product/SMTSSB1003/SENSIBO-AIR-Smart-Wi-Fi-Air-Conditioner-Controller
+        - title: Sensibo for wireless aircon control (Choice Community)
+          url: >-
+            https://choice.community/t/sensibo-for-wireless-aircon-control-does-it-work/29780
 sources:
   - title: 'Matter standard overview, Connectivity Standards Alliance'
     url: 'https://csa-iot.org/all-solutions/matter/'

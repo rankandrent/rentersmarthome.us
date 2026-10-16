@@ -85,6 +85,20 @@ products:
     scoreNote: >-
       Adhesive, no tools, removes cleanly when stretched down; needs smooth
       painted walls.
+    owners:
+      read: 3
+      praise:
+        - Reviewers call it strong for coats and ironing boards
+        - Installs easily and removes without wall damage
+      complaints:
+        - Some owners say it fell off a door within days
+        - Adhesion fails on some surfaces or below advertised weight
+      sources:
+        - title: Lowe's Command Jumbo hook reviews
+          url: >-
+            https://www.lowes.com/reviews/command-17083es-utility-hooks-and-racks/3050147
+        - title: Ocado Command Hooks Jumbo
+          url: 'https://ocado.com/products/command-hooks-jumbo-241907011'
   - name: Command Large Utility Hook
     brand: Command
     query: Command Large Utility Hooks
@@ -128,6 +142,22 @@ products:
       value: 9
       portability: 9
     scoreNote: 'Adhesive, no tools, 5 lb rating; strips are single-use.'
+    owners:
+      read: 6
+      praise:
+        - Easy to install and removes cleanly
+        - 'Holds curtains, bags and keys for light-to-moderate loads'
+      complaints:
+        - Hook can snap at the base under light pressure
+        - Some units fell off within days or damaged paint
+      sources:
+        - title: Lowe's Command Large Utility Hook reviews
+          url: >-
+            https://www.lowes.com/reviews/command-17003-6es-utility-hooks-and-racks/1000028607
+        - title: Staples Command Large Utility Hook reviews
+          url: 'https://www.staples.com/ptd/review/395690'
+        - title: ShopSavvy TLDR Command Large Utility Hooks
+          url: 'https://shopsavvy.com/reviews-tldr/command-large-utility-hooks'
   - name: 3M CLAW Drywall Picture Hanger
     brand: 3M
     query: 3M CLAW Drywall Picture Hanger
@@ -171,6 +201,21 @@ products:
       value: 9
       portability: 7
     scoreNote: Pushes in by hand but leaves a pinhole that you fill at move-out.
+    owners:
+      read: 3
+      praise:
+        - Easy one-person install with no tools
+        - Leaves small holes that are simple to repair
+        - Holds small to mid-sized frames on drywall
+      complaints:
+        - 'Included spacers reported too thick, so markers stick early'
+        - Stated weight limit varies by pack; heavy frames need studs
+      sources:
+        - title: ShopSavvy TLDR 3M CLAW Picture Hanger
+          url: 'https://shopsavvy.com/reviews-tldr/3m-claw-picture-hanger'
+        - title: Kroger 3M Claw Drywall Picture Hangers
+          url: >-
+            https://www.kroger.com/p/3m-claw-drywall-picture-hangers-with-spot-markers/0063806066157
 sources:
   - title: 'Hook and Loop: How much weight can Command strips hold?'
     url: 'https://www.hookandloop.com/blog/how-much-weight-can-command-strips-hold'

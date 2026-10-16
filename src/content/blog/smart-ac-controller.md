@@ -91,6 +91,19 @@ products:
     scoreNote: >-
       Shelf or adhesive IR controller with no wiring; needs an IR remote and
       line of sight.
+    owners:
+      read: 2
+      praise:
+        - Setup and scheduling praised by buyers
+        - Runs from USB power and works with heat-pump setups per one owner
+      complaints:
+        - 'Indicator lights glow softly in dark rooms, per one owner'
+        - >-
+          Only a few owner posts found; some units may need support for IR
+          compatibility
+      sources:
+        - title: Cielo Breez Max owner comments (Lance Owners community)
+          url: 'https://community.lanceowners.org/search/tag/605791820877830198'
   - name: Sensibo Air Pro
     brand: Sensibo
     query: Sensibo Air Pro smart AC controller
@@ -134,6 +147,25 @@ products:
     scoreNote: >-
       USB-powered IR controller with Climate React and an air quality sensor;
       some features need a plan.
+    owners:
+      read: 4
+      praise:
+        - Easy setup and use; air-quality sensor seen as worth the extra cost
+        - Works with Apple Home and Home Assistant
+      complaints:
+        - Wi-Fi setup can be fiddly; 2.4GHz only
+        - 'IR remotes only, so Bluetooth-remote ACs will not work'
+      sources:
+        - title: Sensibo Air Pro review (TechHive)
+          url: 'https://www.techhive.com/article/1071451/sensibo-air-pro-review.html'
+        - title: Sensibo Air Pro owner reviews (PB Tech)
+          url: >-
+            https://www.pbtech.com/product/SMTSSB1004/SENSIBO-AirPro-Smart-Wi-Fi-Air-Conditioner-Control
+        - title: Sensibo Air Pro review (Automate Life)
+          url: >-
+            https://automatelife.net/sensibo-air-pro-review-the-smart-ac-controller-that-transformed-how-i-beat-the-heat/
+        - title: Sensibo Review (WeTried.it)
+          url: 'https://wetried.it/sensibo-review/'
   - name: Cielo Breez Lite
     brand: Cielo
     query: Cielo Breez Lite smart AC controller
@@ -178,6 +210,23 @@ products:
       compatibility: 7
       portability: 10
     scoreNote: Budget IR controller with no wiring; fewer features than the Max.
+    owners:
+      read: 2
+      praise:
+        - 'Quick, easy setup'
+        - Plenty of features for the price
+      complaints:
+        - >-
+          Works only with infrared remotes, not Bluetooth, and needs line of
+          sight
+        - No onboard controls; depends fully on the app
+      sources:
+        - title: Cielo Breez Lite review (TechHive)
+          url: >-
+            https://www.techhive.com/article/1974937/cielo-breez-lite-remote-control-review.html
+        - title: Cielo Breez Lite user manual
+          url: >-
+            https://support.cielowigle.com/hc/en-us/articles/9672002163479-Detailed-User-Manual-Screenless-Remote
 sources:
   - title: Cielo Breez Max submittal sheet
     url: >-

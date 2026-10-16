@@ -103,6 +103,26 @@ products:
       - url: 'https://m.media-amazon.com/images/I/51iZwgtwM7L._SL500_.jpg'
         width: 500
         height: 500
+    owners:
+      read: 4
+      praise:
+        - Some owners report no problems at all in daily use
+        - Local microSD recording avoids cloud fees
+      complaints:
+        - >-
+          Beta firmware updates left some cameras unresponsive or unable to roll
+          back
+        - Some owners report hardware failures within about 1.5 years
+        - Weak two-way audio pickup and 5 GHz connectivity trouble
+      sources:
+        - title: Reliability issues with the Wyze Cam V4?
+          url: >-
+            https://forums.wyze.com/t/reliability-issues-with-the-wyze-cam-v4/339758
+        - title: Wyze Cam v4 Firmware Beta Test 7/27/2026
+          url: >-
+            https://forums.wyze.com/t/wyze-cam-v4-firmware-beta-test-7-27-2026/344026?page=4
+        - title: Firmware update trouble
+          url: 'https://forums.wyze.com/t/firmware-update-trouble/344803/28'
   - name: eufy Indoor Cam C120
     brand: eufy
     query: eufy Indoor Cam C120 2K security camera
@@ -169,6 +189,24 @@ products:
       compatibility: 7
       portability: 10
     scoreNote: Plug-in with subscription-free local storage and a privacy mode.
+    owners:
+      read: 3
+      praise:
+        - Sharp video for the price
+        - Easy setup in the Tapo app
+        - Free microSD recording
+      complaints:
+        - 2.4 GHz only; weak Wi-Fi needed boosters for some
+        - Pan action problems and disconnections reported
+        - Audio weaker than video
+      sources:
+        - title: TP-Link Community Tapo C210 thread
+          url: 'https://community.tp-link.com/en/home/uc/post/3563316?page=19'
+        - title: PriceMe Tapo C210 review
+          url: 'https://priceme.co.nz/TP-Link-Tapo-C210-review/pe-910874324.aspx'
+        - title: PB Tech Tapo C210 reviews
+          url: >-
+            https://www.pbtech.co.nz/product/CCTTPL1210/TP-Link-Tapo-C210-3MP2K-Indoor-PT-Wi-Fi-Camera--Wh
   - name: Aqara Camera Hub G3
     brand: Aqara
     query: Aqara Camera Hub G3 2K indoor HomeKit
@@ -213,6 +251,18 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41gg9W-WdiL._SL500_.jpg'
         width: 500
         height: 500
+    owners:
+      read: 1
+      praise:
+        - 'No subscription required, on-device AI detection'
+        - Pan/tilt control works well
+      complaints:
+        - Hard to add to some third-party apps for one Home Assistant user
+        - Must be plugged in and needs your own storage
+      sources:
+        - title: Aqara Camera Hub G3 not found (Home Assistant forum)
+          url: >-
+            https://community.home-assistant.io/t/aqara-camera-hub-g3-not-found/511062
   - name: Blink Mini 2
     brand: Blink
     query: Blink Mini 2 plug-in smart security camera
@@ -301,6 +351,18 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41kK-nxvP1L._SL500_.jpg'
         width: 500
         height: 500
+    owners:
+      read: 1
+      praise:
+        - Big video improvement over battery Nest cams for one owner
+        - Three hours of free event history
+      complaints:
+        - Google Home app seen as a downgrade from the Nest app
+        - Night vision struggles with lights in view
+        - Some 'live video unavailable' reports
+      sources:
+        - title: Pocketables Nest Cam 2nd gen owner write-up
+          url: 'https://pocketables.com/?p=134049'
   - name: Ring Indoor Cam (2nd Gen)
     brand: Ring
     query: Ring Indoor Cam 2nd Gen plug-in security camera
@@ -390,6 +452,17 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41EwcBbqLwL._SL500_.jpg'
         width: 400
         height: 500
+    owners:
+      read: 2
+      praise:
+        - One owner reports 472 days of use through rain and snow
+        - Subscription-free local storage
+      complaints:
+        - 'Battery drained fast in a busy spot, needing repeated recharges'
+        - AI detection needs a separate HomeBase 3
+      sources:
+        - title: Eufy SoloCam S220 owner comments (Expert Reviews)
+          url: 'https://www.expertreviews.co.uk/eufy/eufy-solocam-s220-review'
   - name: Reolink Argus 3 Pro
     brand: Reolink
     query: Reolink Argus 3 Pro battery camera
@@ -434,6 +507,21 @@ products:
       - url: 'https://m.media-amazon.com/images/I/51y4LIX4wbL._SL500_.jpg'
         width: 400
         height: 500
+    owners:
+      read: 3
+      praise:
+        - One Reddit user reports solar-run units reliable for over two years
+        - Good video quality for the price
+      complaints:
+        - Setup and notification failures led to a same-day return
+        - Some units would not charge or join Wi-Fi
+        - Person/vehicle detection disappointed users of the older Argus 3
+      sources:
+        - title: r/reolinkcam Argus Pro 3 thread
+          url: >-
+            https://redlib.hbubli.cc/r/reolinkcam/comments/1klwrxe/reolink_argus_pro_3
+        - title: Reolink community posts
+          url: 'https://community.reolink.com/uid/147627'
 sources:
   - title: Wyze Cam v4 (Wyze)
     url: 'https://wyze.com/products/wyze-cam-v4'
