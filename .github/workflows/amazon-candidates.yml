@@ -1,0 +1,30 @@
+name: Amazon candidates
+
+# One-off helper: lists the Amazon listings found for every product that still has no ASIN
+# (in this repo or a sister site's repo), using this repo's Creators API credentials.
+on:
+  workflow_dispatch:
+    inputs:
+      repo:
+        description: 'GitHub repo to scan (owner/name, public)'
+        required: true
+        default: 'rankandrent/best-tripod.com'
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: ${{ inputs.repo }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm ci
+      - name: List candidates
+        env:
+          AMAZON_CREATORS_CREDENTIAL_ID: ${{ secrets.AMAZON_CREATORS_CREDENTIAL_ID }}
+          AMAZON_CREATORS_CREDENTIAL_SECRET: ${{ secrets.AMAZON_CREATORS_CREDENTIAL_SECRET }}
+          AMAZON_CREATORS_VERSION: ${{ vars.AMAZON_CREATORS_VERSION }}
+        run: node agents/amazon-candidates.mjs
