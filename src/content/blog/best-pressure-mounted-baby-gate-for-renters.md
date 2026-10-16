@@ -138,8 +138,26 @@ products:
     asin: B0CT2K6JQY
     amazonTitle: >-
       Summer Infant Multi-Use Decorative Extra Tall Walk-Thru Baby Gate, Fits
-      Openings 28.5-48 Inch
+      Openings 28.5-48 Inch & Metal Expansion Extra Wide Safety Pet and Baby
+      Gate, 44"-71" Wide, 36” Tall
     matchName: Summer Infant Multi-Use Decorative Extra Tall Walk-Thru Gate
+    image:
+      url: 'https://m.media-amazon.com/images/I/31Fh-lDl-dL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41c-jFk5p8S._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51evU2nhtAL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51EoCyPKnuL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41LQorWJ9FL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Cumbor Auto Close Baby Gate
     brand: Cumbor
     query: Cumbor Auto Close Baby Gate pressure mounted

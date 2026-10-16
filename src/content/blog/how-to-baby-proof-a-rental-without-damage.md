@@ -269,6 +269,14 @@ products:
     asin: B004D5FAQ2
     amazonTitle: 'Safety 1st Furniture Corner Cushions, 4-Count'
     matchName: Safety 1st Furniture Corner Cushions
+    image:
+      url: 'https://m.media-amazon.com/images/I/41Xt0FVFegS._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41tnCf0pzmS._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Safety 1st Grip 'n Twist Door Knob Covers (4-pack)
     brand: Safety 1st
     query: Safety 1st Grip n Twist Door Knob Covers 4 pack

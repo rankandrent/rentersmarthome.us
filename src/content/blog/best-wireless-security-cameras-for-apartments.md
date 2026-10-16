@@ -213,8 +213,28 @@ products:
           url: >-
             https://www.pbtech.co.nz/product/CCTTPL1210/TP-Link-Tapo-C210-3MP2K-Indoor-PT-Wi-Fi-Camera--Wh
     asin: B09Y8TLP25
-    amazonTitle: 'Tapo 2K Pan Tilt Security Camera for Baby Monitor, Dog Camera, C210'
+    amazonTitle: >-
+      Tapo 2K Pan Tilt Security Camera for Baby Monitor, Dog Camera, C210 |
+      Motion Detection, 2-Way Audio Siren, Night Vision, Cloud &SD Card Storage,
+      Works with Alexa & Google Home
     matchName: Tapo 2K Pan Tilt Security Camera C210
+    image:
+      url: 'https://m.media-amazon.com/images/I/41Cs70LKimL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31w+mEQ459L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51aoOye53mL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51IBW-LPVvL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51+OIBk60DL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Aqara Camera Hub G3
     brand: Aqara
     query: Aqara Camera Hub G3 2K indoor HomeKit
