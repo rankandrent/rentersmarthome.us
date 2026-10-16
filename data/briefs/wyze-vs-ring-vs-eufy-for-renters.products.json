@@ -1,0 +1,230 @@
+{
+ "products": [
+  {
+   "name": "Wyze Cam v4",
+   "brand": "Wyze",
+   "query": "Wyze Cam v4 2.5K indoor outdoor security camera",
+   "matchName": "WYZE Cam v4",
+   "badge": "Best budget",
+   "summary": "A low-cost plug-in camera with 2.5K video and color night vision. It records to your own microSD card, so the core features need no plan.",
+   "renterNote": "Plugs into an outlet and sits on a shelf, so there is no drilling and it comes with you when you move. The caveat is that smart detection for people, pets and packages and cloud clips sit behind the paid Cam Plus plan.",
+   "pros": [
+    "Records locally to a microSD card (card not included), so basic use needs no subscription",
+    "2.5K (2560x1440) video with a wide field of view of about 116 degrees diagonal, per Wyze's spec sheet",
+    "Rated IP65, so a steamy bathroom or a covered balcony is less of a worry than with indoor-only cameras"
+   ],
+   "cons": [
+    "Owners on Wyze's forum report firmware updates that left some cameras slow or unresponsive",
+    "Several owners find the microphone and two-way audio weak, and a few report hardware failures after about 1.5 years"
+   ],
+   "facts": [
+    "Resolution 2560x1440 (2.5K QHD); field of view 115.8 degrees diagonal, 98.5 horizontal, 53.1 vertical (Wyze tech specs)",
+    "IP65 rated for indoor and outdoor use, not fully waterproof (Wyze)",
+    "2.4 GHz Wi-Fi only (Wyze tech specs)",
+    "Local recording to a microSD card that is not included; the supported card size differs between Wyze and retailer pages, so check the current spec sheet before buying",
+    "Built-in siren and 2-LED spotlight (Wyze tech specs)",
+    "Smart detection and cloud storage are part of the paid Cam Plus plan; basic motion alerts and live view work without it"
+   ],
+   "sources": [
+    "https://support.wyze.com/hc/en-us/articles/23746258989851-Wyze-Cam-v4-Tech-Specs",
+    "https://www.wyze.com/blogs/smart-home/the-best-home-security-camera-without-a-subscription",
+    "https://effortlesszen.com/best-smart-home-cameras-2026-arlo-vs-ring-vs-eufy-vs-wyze-ranked/",
+    "https://cleverhomeclub.com/ring-vs-wyze-cameras-2026-comparison/",
+    "https://www.brainerddispatch.com/opinion/columns/tech-review-wyze-cam-v4-improves-on-an-old-favorite"
+   ],
+   "scores": {
+    "install": 10,
+    "reversibility": 10,
+    "value": 9,
+    "compatibility": 7,
+    "portability": 10
+   },
+   "scoreNote": "Plug-in, shelf-ready and subscription-free for core recording, which is the lowest-cost entry of the three; works with Alexa and Google, no Apple Home, and AI detection is a paid add-on.",
+   "owners": {
+    "read": 4,
+    "praise": [
+     "Image quality and resolution for the money",
+     "Local microSD recording avoids cloud fees"
+    ],
+    "complaints": [
+     "Firmware updates that slowed or froze some cameras",
+     "Weak microphone and two-way audio pickup",
+     "Some units failed after roughly a year and a half"
+    ],
+    "sources": [
+     {
+      "title": "Reliability issues with the Wyze Cam V4? (Wyze forum)",
+      "url": "https://forums.wyze.com/t/reliability-issues-with-the-wyze-cam-v4/339758"
+     },
+     {
+      "title": "Firmware update trouble (Wyze forum)",
+      "url": "https://forums.wyze.com/t/firmware-update-trouble/344803/28"
+     },
+     {
+      "title": "Wyze reviews (Trustpilot, company-level customer service themes)",
+      "url": "https://au.trustpilot.com/review/www.wyze.com?page=3"
+     },
+     {
+      "title": "Wyze Cam v4 customer feedback analysis (Kimola, summary of Amazon review themes)",
+      "url": "https://kimola.com/reports/unlock-insights-wyze-cam-v4-customer-feedback-analysis-amazon-en-us-155847"
+     }
+    ]
+   }
+  },
+  {
+   "name": "Ring Indoor Cam (2nd Gen)",
+   "brand": "Ring",
+   "query": "Ring Indoor Cam 2nd Gen plug-in 1080p security camera with privacy cover",
+   "matchName": "Ring Indoor Cam",
+   "badge": "Best for Alexa households",
+   "summary": "A small 1080p plug-in camera with a manual privacy cover over the lens. Live view is free, but saved recordings need a Ring plan.",
+   "renterNote": "Plugs in and sits on a shelf with no drilling, and it works with Alexa and the Ring app. The caveat is that it has no onboard or microSD storage, so reviewing missed events means paying for Ring Protect after the free trial.",
+   "pros": [
+    "Manual privacy cover over the lens, which reviewers like for bedrooms and living rooms",
+    "1080p video with color night vision, two-way talk and a siren",
+    "Very compact and set up in minutes through the Ring app, per reviewers"
+   ],
+   "cons": [
+    "No local storage: recorded history, sharing and most smart features depend on a paid Ring Protect plan",
+    "1080p is the lowest resolution of the three and the optics are largely unchanged from the first generation, per reviewers"
+   ],
+   "facts": [
+    "1080p HD video with color night vision (retailer listings)",
+    "143 degrees diagonal, 115 horizontal, 59 vertical field of view (Ring support page)",
+    "Manual privacy cover that blocks the lens, per Ring and retailer listings",
+    "Powered by a plug-in adapter; 2.4 GHz Wi-Fi (802.11 b/g/n); Ring recommends 2 Mbps upload speed",
+    "Real-time notifications, Live View and Two-Way Talk are listed as free; recording, review and sharing need a Ring Protect subscription (30-day trial per retailer listing)",
+    "No microSD or other onboard storage, per reviews"
+   ],
+   "sources": [
+    "https://bestbuy.com/product/ring-indoor-plug-in-1080p-security-camera-2nd-generation-with-privacy-cover-white/J39HW6QGC4",
+    "https://support.ring.com/hc/en-au/sections/360006380112-Indoor-Cam",
+    "https://reviewed.com/smarthome/content/ring-indoor-cam-second-gen-review",
+    "https://www.digitalcameraworld.com/reviews/ring-indoor-cam-2nd-gen-review",
+    "https://cleverhomeclub.com/ring-vs-wyze-cameras-2026-comparison/",
+    "https://effortlesszen.com/best-smart-home-cameras-2026-arlo-vs-ring-vs-eufy-vs-wyze-ranked/"
+   ],
+   "scores": {
+    "install": 10,
+    "reversibility": 10,
+    "value": 6,
+    "compatibility": 6,
+    "portability": 10
+   },
+   "scoreNote": "Easiest install and a real privacy cover, but no local storage means a paid Ring plan for recordings, and compatibility centers on Alexa and Ring.",
+   "owners": {
+    "read": 4,
+    "praise": [
+     "Tiny, plugs in and sets up in minutes",
+     "Physical privacy shutter",
+     "Polished Ring app and Alexa integration"
+    ],
+    "complaints": [
+     "Best features and saved video need a paid subscription",
+     "No local storage option",
+     "Hardware and 1080p optics barely changed from the first generation"
+    ],
+    "sources": [
+     {
+      "title": "Ring Indoor Cam (2nd Gen) review (Reviewed)",
+      "url": "https://reviewed.com/smarthome/content/ring-indoor-cam-second-gen-review"
+     },
+     {
+      "title": "Ring Indoor Cam 2nd Gen review (Digital Camera World)",
+      "url": "https://www.digitalcameraworld.com/reviews/ring-indoor-cam-2nd-gen-review"
+     },
+     {
+      "title": "Ring Indoor Camera review (EFTM)",
+      "url": "https://eftm.com/2023/06/review-ring-indoor-camera-the-next-generation-234928"
+     },
+     {
+      "title": "Ring Indoor Cam (Smart Home Compared)",
+      "url": "https://smarthomecompared.com/cameras/ring-indoor-cam"
+     }
+    ]
+   }
+  },
+  {
+   "name": "eufy Indoor Cam C120",
+   "brand": "eufy",
+   "query": "eufy Security Indoor Cam C120 2K plug-in security camera",
+   "matchName": "eufy Security Indoor Cam C120",
+   "badge": "Best no-subscription indoor cam",
+   "summary": "A compact 2K plug-in camera that records to a microSD card with no hub or mandatory plan, and supports Siri.",
+   "renterNote": "Plug-in and freestanding, with no hub, drilling or wiring, so it moves with you. The caveat is black-and-white infrared night vision and 2.4 GHz Wi-Fi only; it is not rated for outdoor use.",
+   "pros": [
+    "Local microSD recording (card not included) with no required subscription and no HomeBase needed",
+    "2K video with human and pet detection, two-way audio and a siren",
+    "Works with Alexa and Google Assistant, and security.org notes Siri support, which few indoor cams offer"
+   ],
+   "cons": [
+    "Infrared-only night vision means black-and-white footage with less detail",
+    "A review measured about a one to two second lag in video and audio, and some listings give conflicting resolution figures, so check the spec before buying"
+   ],
+   "facts": [
+    "2K resolution (some retailers list it as 3 MP)",
+    "Records to microSD (up to 128GB per eufy listings); card not included; cloud storage is an optional paid plan",
+    "2.4 GHz Wi-Fi only; plug-in power",
+    "Black-and-white infrared night vision (reviews)",
+    "Not rated for outdoor use (Wyze comparison page, treat as a competitor source)",
+    "Works with Alexa and Google Assistant; Siri support noted by security.org; no SmartThings or IFTTT per a review"
+   ],
+   "sources": [
+    "https://www.digitalcameraworld.com/reviews/eufy-indoor-cam-c120-review",
+    "https://www.security.org/security-cameras/best/",
+    "https://www.wyze.com/blogs/smart-home/the-best-home-security-camera-without-a-subscription",
+    "https://effortlesszen.com/best-smart-home-cameras-2026-arlo-vs-ring-vs-eufy-vs-wyze-ranked/",
+    "https://smarthomecompared.com/cameras/eufy-indoor-cam-c120"
+   ],
+   "scores": {
+    "install": 10,
+    "reversibility": 10,
+    "value": 9,
+    "compatibility": 7,
+    "portability": 10
+   },
+   "scoreNote": "Plug-in with local storage and no required plan; supports three assistants, but night vision is basic and some specs are inconsistent between listings.",
+   "owners": {
+    "read": 3,
+    "praise": [
+     "Clear 2K video",
+     "Local microSD storage with no mandatory subscription",
+     "Easy setup and Siri/HomeKit support"
+    ],
+    "complaints": [
+     "Black-and-white night vision",
+     "A one to two second delay in live video and audio",
+     "Refurbished or renewed units sometimes arrive damaged or non-working"
+    ],
+    "sources": [
+     {
+      "title": "eufy Indoor Cam C120 review (Digital Camera World)",
+      "url": "https://www.digitalcameraworld.com/reviews/eufy-indoor-cam-c120-review"
+     },
+     {
+      "title": "eufy Indoor Cam C120 (Smart Home Compared)",
+      "url": "https://smarthomecompared.com/cameras/eufy-indoor-cam-c120"
+     },
+     {
+      "title": "eufy Indoor Cam C120 review (inkl)",
+      "url": "https://www.inkl.com/news/eufy-indoor-cam-c120-review"
+     }
+    ]
+   }
+  }
+ ],
+ "serpProducts": [
+  {
+   "name": "Wyze Cam v4",
+   "pages": 4
+  },
+  {
+   "name": "eufy Indoor Cam C120",
+   "pages": 3
+  },
+  {
+   "name": "Ring Indoor Cam (2nd Gen)",
+   "pages": 2
+  }
+ ]
+}

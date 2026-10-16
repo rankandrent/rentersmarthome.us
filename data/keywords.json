@@ -997,7 +997,8 @@
     "cluster": "security",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-smart-smoke-detector-for-apartments"
+    "slug": "best-smart-smoke-detector-for-apartments",
+    "productCount": 7
   },
   {
     "status": "pending",
