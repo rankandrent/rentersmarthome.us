@@ -320,8 +320,8 @@ sources:
       https://www.truevalue.com/product/onestep-multiscanner-stud-metal-electrical-finder-i520/
   - title: Zircon StudSensor stud finder (Toolstation)
     url: 'https://www.toolstation.com/zircon-studsensor-stud-finder/pAG717'
-  - title: Bosch GMS120 Digital Multi Scanner (Woot)
-    url: 'https://tools.woot.com/offers/bosch-gms120-digital-multi-scanner-0'
+  - title: Bosch GMS 120 Professional Multi Detector (Data Power Tools)
+    url: 'https://datapowertools.co.uk/Products/Detectors/BOS0601081000'
   - title: Zircon MetalliScanner m40 (RONA)
     url: >-
       https://rona.ca/en/product/zircon-metalliscanner-m40-scan-depth-object-detection-finder-zir62518-331005146

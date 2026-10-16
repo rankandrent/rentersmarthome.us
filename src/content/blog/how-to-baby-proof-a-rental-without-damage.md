@@ -281,9 +281,9 @@ sources:
     url: 'https://safety1st.com/en-ca/products/easy-install-walk-through-gate-ga105c'
   - title: Safety 1st Foam Corner Cushions HS209 (Safety 1st)
     url: 'https://safety1st.com/en-ca/products/foam-corner-cushions-hs209'
-  - title: Grip 'n Twist Door Knob Covers (Safety 1st)
+  - title: Safety 1st Grip 'n Twist Doorknob Covers 4-Pack (Home Depot)
     url: >-
-      https://safety1st.com/en-ca/products/grip-n-twist-door-knob-covers-4-pack-48394
+      https://homedepot.com/p/Safety-1st-Grip-n-Twist-Doorknob-Covers-4-Pack-48394/202259354
   - title: QuakeHOLD Furniture Safety Strap 4160 (Home Depot)
     url: >-
       https://homedepot.com/p/QuakeHOLD-Black-Nylon-Furniture-Safety-Strap-4160/100137023
