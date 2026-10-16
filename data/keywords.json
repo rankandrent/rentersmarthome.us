@@ -2884,7 +2884,7 @@
     "publishedAt": "2026-10-15T19:35:51.948Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-14T15:34:32.962Z",
     "secondaryKeywords": [
@@ -2909,6 +2909,7 @@
     ],
     "rationale": "restores an old indexed URL",
     "slug": "wyze-vs-ring-vs-eufy-for-renters",
-    "productCount": 3
+    "productCount": 3,
+    "publishedAt": "2026-10-16T13:00:34.660Z"
   }
 ]

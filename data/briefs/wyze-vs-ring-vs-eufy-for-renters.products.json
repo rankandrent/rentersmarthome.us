@@ -39,7 +39,7 @@
     "compatibility": 7,
     "portability": 10
    },
-   "scoreNote": "Plug-in, shelf-ready and subscription-free for core recording, which is the lowest-cost entry of the three; works with Alexa and Google, no Apple Home, and AI detection is a paid add-on.",
+   "scoreNote": "Plug-in, shelf-ready and subscription-free for core recording, which is the lowest-cost entry of the three; works with Alexa and Google Assistant, and AI detection is a paid add-on.",
    "owners": {
     "read": 4,
     "praise": [
@@ -78,14 +78,14 @@
    "matchName": "Ring Indoor Cam",
    "badge": "Best for Alexa households",
    "summary": "A small 1080p plug-in camera with a manual privacy cover over the lens. Live view is free, but saved recordings need a Ring plan.",
-   "renterNote": "Plugs in and sits on a shelf with no drilling, and it works with Alexa and the Ring app. The caveat is that it has no onboard or microSD storage, so reviewing missed events means paying for Ring Protect after the free trial.",
+   "renterNote": "Plugs in and sits on a shelf with no drilling, and it works with Alexa and the Ring app. The caveat is that it has no onboard or microSD storage, so reviewing missed events means paying for a Ring Home subscription after the free trial.",
    "pros": [
     "Manual privacy cover over the lens, which reviewers like for bedrooms and living rooms",
     "1080p video with color night vision, two-way talk and a siren",
     "Very compact and set up in minutes through the Ring app, per reviewers"
    ],
    "cons": [
-    "No local storage: recorded history, sharing and most smart features depend on a paid Ring Protect plan",
+    "No local storage: recorded history, sharing and most smart features depend on a paid Ring Home subscription",
     "1080p is the lowest resolution of the three and the optics are largely unchanged from the first generation, per reviewers"
    ],
    "facts": [
@@ -93,7 +93,7 @@
     "143 degrees diagonal, 115 horizontal, 59 vertical field of view (Ring support page)",
     "Manual privacy cover that blocks the lens, per Ring and retailer listings",
     "Powered by a plug-in adapter; 2.4 GHz Wi-Fi (802.11 b/g/n); Ring recommends 2 Mbps upload speed",
-    "Real-time notifications, Live View and Two-Way Talk are listed as free; recording, review and sharing need a Ring Protect subscription (30-day trial per retailer listing)",
+    "Real-time notifications, Live View and Two-Way Talk are listed as free; recording, review and sharing need a Ring Home subscription (30-day trial per retailer listing)",
     "No microSD or other onboard storage, per reviews"
    ],
    "sources": [

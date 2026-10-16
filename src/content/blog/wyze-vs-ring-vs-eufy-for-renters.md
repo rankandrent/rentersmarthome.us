@@ -19,7 +19,7 @@ entities:
   - Wyze Cam v4
   - Ring Indoor Cam (2nd Gen)
   - eufy Indoor Cam C120
-  - Ring Protect Plan
+  - Ring Home subscription
   - Cam Plus
   - microSD card
   - Alexa
@@ -42,7 +42,7 @@ tldr:
     video, microSD recording, no HomeBase and Alexa, Google and Siri support.
   - >-
     Ring Indoor Cam (2nd Gen) suits Alexa households that want a physical
-    privacy cover, but saving any recording needs a paid Ring Protect plan.
+    privacy cover, but saving any recording needs a paid Ring Home subscription.
   - >-
     All three plug into an outlet and sit on a shelf, so none needs drilling or
     landlord approval for wiring, and all move with you at the end of the lease.
@@ -88,7 +88,7 @@ products:
       Weather rating: 'IP65 indoor/outdoor, not fully waterproof'
       Extras: Built-in siren and 2-LED spotlight
       Subscription: Optional Cam Plus for smart detection and cloud storage
-      Assistants: Not listed
+      Assistants: 'Alexa, Google Assistant'
     scores:
       install: 10
       reversibility: 10
@@ -97,8 +97,8 @@ products:
       portability: 10
     scoreNote: >-
       Plug-in, shelf-ready and subscription-free for core recording, which is
-      the lowest-cost entry of the three; works with Alexa and Google, no Apple
-      Home, and AI detection is a paid add-on.
+      the lowest-cost entry of the three; works with Alexa and Google Assistant,
+      and AI detection is a paid add-on.
     owners:
       read: 4
       praise:
@@ -136,8 +136,8 @@ products:
     renterNote: >-
       Plugs in and sits on a shelf with no drilling, and it works with Alexa and
       the Ring app. The caveat is that it has no onboard or microSD storage, so
-      reviewing missed events means paying for Ring Protect after the free
-      trial.
+      reviewing missed events means paying for a Ring Home subscription after
+      the free trial.
     pros:
       - >-
         Manual privacy cover over the lens, which reviewers like for bedrooms
@@ -147,7 +147,7 @@ products:
     cons:
       - >-
         No local storage: recorded history, sharing and most smart features
-        depend on a paid Ring Protect plan
+        depend on a paid Ring Home subscription
       - >-
         1080p is the lowest resolution of the three and the optics are largely
         unchanged from the first generation, per reviewers
@@ -160,8 +160,8 @@ products:
       Night vision: Color
       Privacy: Manual lens cover
       Subscription: >-
-        Ring Protect needed to record, review and share (30-day trial per
-        retailer)
+        Ring Home subscription needed to record, review and share (30-day trial
+        per retailer)
     scores:
       install: 10
       reversibility: 10
@@ -272,6 +272,10 @@ sources:
   - title: The best home security camera without a subscription (Wyze)
     url: >-
       https://www.wyze.com/blogs/smart-home/the-best-home-security-camera-without-a-subscription
+  - title: 'Wyze Cam v4: Compatibility with Alexa and Google Assistant (Wyze)'
+    url: 'https://why.wyze.com/wyze-cam-v4-alexa-google-assistant-compatibility'
+  - title: Indoor Cam C120 (eufy)
+    url: 'https://www.eufy.com/lv-en/products/t8400'
   - title: Ring Indoor Cam support pages (Ring)
     url: 'https://support.ring.com/hc/en-au/sections/360006380112-Indoor-Cam'
   - title: Ring Indoor Cam (2nd Gen) with privacy cover (Best Buy)
@@ -290,7 +294,8 @@ faqs:
       For most renters the Wyze Cam v4 is the best fit: it plugs in, records to
       a microSD card with no plan and carries an IP65 rating. The eufy Indoor
       Cam C120 is the strongest no-subscription indoor pick, and the Ring Indoor
-      Cam (2nd Gen) suits Alexa homes willing to pay for Ring Protect.
+      Cam (2nd Gen) suits Alexa homes willing to pay for a Ring Home
+      subscription.
   - q: 'Do Wyze, Ring and eufy cameras require a subscription?'
     a: >-
       Wyze Cam v4 and eufy Indoor Cam C120 record to a microSD card without a
@@ -310,13 +315,17 @@ faqs:
     a: >-
       Ring is built around Alexa and the Ring app. The eufy Indoor Cam C120
       lists Alexa and Google Assistant, with Siri support noted by security.org,
-      and Wyze works with Alexa and Google.
+      and Wyze works with Alexa and Google Assistant.
   - q: Can I take my camera with me when I move?
     a: >-
       Yes. Unplug it, remove the microSD card if you want to keep the footage,
       and re-pair the camera to the Wi-Fi network at your next rental through
       the brand's app.
 author: editorial-team
+heroImage: /images/featured/wyze-vs-ring-vs-eufy-for-renters.png
+heroAlt: >-
+  Wyze vs Ring vs Eufy for Renters: Which Plug-In Camera Wins?: RenterSmartHome
+  comparison
 ---
 
 Wyze vs Ring vs eufy for renters comes down to one question more than any spec: where does your video live? **For most renters I'd pick the [Wyze Cam v4](amzn:Wyze+Cam+v4+2.5K+indoor+outdoor+security+camera), because it records to your own microSD card with no monthly fee, while the eufy Indoor Cam C120 is the best no-subscription indoor alternative and the Ring Indoor Cam (2nd Gen) only makes sense if you already live in Alexa and will pay for a plan.** All three are plug-in cameras, so none needs a drill, wiring or a doorbell chime transformer you may not be allowed to touch.
@@ -327,7 +336,7 @@ Wyze vs Ring vs eufy for renters comes down to one question more than any spec: 
 
 - **Choose the Wyze Cam v4** if you want the sharpest video of the three (2.5K) and an IP65 rating for a covered balcony or a steamy bathroom.
 - **Choose the eufy Indoor Cam C120** if you want 2K local recording with no hub, plus Alexa, Google Assistant and Siri support.
-- **Choose the Ring Indoor Cam (2nd Gen)** if your home runs on Alexa, you want a physical privacy cover, and a Ring Protect Plan fits your budget.
+- **Choose the Ring Indoor Cam (2nd Gen)** if your home runs on Alexa, you want a physical privacy cover, and a Ring Home subscription fits your budget.
 
 If you'd rather watch your front door than your living room, our guide to [video doorbells without a subscription for renters](/blog/best-video-doorbell-without-subscription-for-renters/) covers that side.
 
@@ -335,7 +344,7 @@ If you'd rather watch your front door than your living room, our guide to [video
 
 **Wyze vs Ring vs eufy is a comparison we ran on what a renter actually lives with: install method, local storage, subscription dependence, smart home support and how easily the camera moves out with you.** We used the makers' spec sheets and support pages, retailer listings, and owner reports from forums and review sites. We did not buy or test these cameras ourselves.
 
-> **From our notes:** When I lined up the three spec sheets side by side, the storage line decided more than the resolution line. Wyze's tech specs and eufy's listings both point to a microSD slot, while Ring's own pages list live view and two-way talk as free but put recording behind Ring Protect. Then I read the owner threads, and the complaints split the same way: Wyze owners on its forum worry about firmware updates, eufy reviewers mention lag and grey night footage, and Ring reviewers keep coming back to the subscription. That pattern shaped our picks.
+> **From our notes:** When I lined up the three spec sheets side by side, the storage line decided more than the resolution line. Wyze's tech specs and eufy's listings both point to a microSD slot, while Ring's own pages list live view and two-way talk as free but put recording behind a Ring Home subscription. Then I read the owner threads, and the complaints split the same way: Wyze owners on its forum worry about firmware updates, eufy reviewers mention lag and grey night footage, and Ring reviewers keep coming back to the subscription. That pattern shaped our picks.
 
 ## Wyze vs Ring vs eufy side by side
 
@@ -345,7 +354,7 @@ If you'd rather watch your front door than your living room, our guide to [video
 | --- | --- | --- | --- |
 | Resolution | 2.5K (2560x1440) | 1080p | 2K |
 | Local storage | microSD card | None | microSD card (up to 128GB) |
-| Needs a plan to save video | No (Cam Plus optional) | Yes (Ring Protect) | No (cloud optional) |
+| Needs a plan to save video | No (Cam Plus optional) | Yes (Ring Home subscription) | No (cloud optional) |
 | Night vision | Spotlight and siren built in | Color | Black-and-white infrared |
 | Outdoor rating | IP65 | Not listed | Not rated for outdoor use |
 | Wi-Fi | 2.4 GHz only | 2.4 GHz | 2.4 GHz only |
@@ -365,7 +374,7 @@ It suits renters who want one camera for indoors and a covered balcony, since it
 
 The [Ring Indoor Cam (2nd Gen)](amzn:Ring+Indoor+Cam+2nd+Gen+plug-in+1080p+security+camera+with+privacy+cover) is a small 1080p camera with color night vision, a siren and a manual privacy cover that blocks the lens. Ring's support pages list a 143-degree diagonal view and recommend 2 Mbps of upload speed on 2.4 GHz Wi-Fi. Real-time notifications, Live View and Two-Way Talk are free.
 
-It suits renters who already run Alexa and want a shutter for a bedroom or a living room shared with roommates. Reviewers at Reviewed and Digital Camera World praise the tiny size and quick setup in the Ring app. The main complaint is the subscription: with no microSD slot or onboard storage, reviewers point out that saved video, sharing and most smart features need Ring Protect after the 30-day trial. They also note the optics barely changed from the first generation.
+It suits renters who already run Alexa and want a shutter for a bedroom or a living room shared with roommates. Reviewers at Reviewed and Digital Camera World praise the tiny size and quick setup in the Ring app. The main complaint is the subscription: with no microSD slot or onboard storage, reviewers point out that saved video, sharing and most smart features need a Ring Home subscription after the 30-day trial. They also note the optics barely changed from the first generation.
 
 ### eufy Indoor Cam C120: best no-subscription indoor cam
 
@@ -375,13 +384,13 @@ It suits renters who want local storage and the widest assistant support, and wh
 
 ## Wyze vs Ring vs eufy subscriptions over a lease
 
-**Wyze vs Ring vs eufy costs diverge over a one to three year lease: Ring costs the most to run because recording requires a Ring Protect Plan, while Wyze and eufy record free to a microSD card.** We are not quoting prices because plans change, so check each brand's current plan page before you sign up.
+**Wyze vs Ring vs eufy costs diverge over a one to three year lease: Ring costs the most to run because recording requires a Ring Home subscription, while Wyze and eufy record free to a microSD card.** We are not quoting prices because plans change, so check each brand's current plan page before you sign up.
 
-### Ring Protect Plan vs Wyze Cam Plus vs eufy local storage
+### Ring Home subscription vs Wyze Cam Plus vs eufy local storage
 
 The subscription fee question works out like this:
 
-1. **Ring:** live view and motion alerts are free; recording, review and sharing need Ring Protect. Over a full lease that monthly fee adds up. Our [Blink vs Ring subscription breakdown](/blog/blink-vs-ring-subscription/) goes deeper on the plan.
+1. **Ring:** live view and motion alerts are free; recording, review and sharing need a Ring Home subscription (Ring's former Ring Protect plans). Over a full lease that monthly fee adds up. Our [Blink vs Ring subscription breakdown](/blog/blink-vs-ring-subscription/) goes deeper on the plan.
 2. **Wyze:** local recording and basic motion detection are free; Cam Plus adds smart detection and cloud storage if you want it.
 3. **eufy:** local storage is the default; a cloud plan is optional.
 
@@ -405,7 +414,7 @@ A shelf, dresser or bookcase is the simplest no-drill mount. If you want height,
 
 ## Wyze vs Ring vs eufy on privacy, smart home and apps
 
-**Wyze vs Ring vs eufy on privacy comes down to this: the Ring Indoor Cam's physical lens cover is the standout; for smart home reach, eufy lists the most assistants.** Wyze vs Ring on the smart home side: Ring is built around Alexa, while Wyze works with Alexa and Google Home but not Apple Home, per our scoring notes.
+**Wyze vs Ring vs eufy on privacy comes down to this: the Ring Indoor Cam's physical lens cover is the standout; for smart home reach, eufy lists the most assistants.** Wyze vs Ring on the smart home side: Ring is built around Alexa, while Wyze works with Alexa and Google Assistant per Wyze's pages.
 
 - **Privacy:** local recording to a microSD card keeps clips in your unit rather than the cloud. Check each brand's privacy page for end-to-end encryption options, since we did not find them in the spec sheets we used.
 - **Assistants:** if you're still choosing a platform, our [Alexa vs Google Home comparison](/blog/alexa-vs-google-home/) helps.

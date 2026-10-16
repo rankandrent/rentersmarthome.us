@@ -291,6 +291,7 @@ heroAlt: >-
   Can You Put a Ring Doorbell on an Apartment? (Renter Guide): RenterSmartHome
   renter guide
 related:
+  - wyze-vs-ring-vs-eufy-for-renters
   - best-wireless-security-cameras-for-apartments
   - how-to-cool-apartment-without-ac
   - best-video-doorbell-without-subscription-for-renters

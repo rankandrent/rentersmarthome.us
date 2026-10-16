@@ -1,16 +1,16 @@
 {
   "slug": "wyze-vs-ring-vs-eufy-for-renters",
-  "pass": false,
-  "checkedAt": "2026-10-16T12:59:00.189Z",
-  "errors": [
-    "facts not verified yet: check every product spec and claim against the sources, then run `node scripts/routine.mjs factcheck <slug> \"<notes>\"`"
-  ],
+  "pass": true,
+  "checkedAt": "2026-10-16T13:00:06.380Z",
+  "errors": [],
   "warnings": [
     "product \"Wyze Cam v4\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Ring Indoor Cam (2nd Gen)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"eufy Indoor Cam C120\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
-    "verified": false
+    "verified": true,
+    "notes": "Re-checked via search results (WebFetch blocked): Wyze Cam v4 2560x1440, 115.8 deg FOV, IP65, 2.4GHz, microSD not included (Wyze tech specs; max card size conflicts 256GB vs 512GB across Wyze pages so post says check spec sheet); Alexa and Google Assistant support confirmed on Wyze compat page, unsupported 'no Apple Home' claim removed from body/scoreNote/spec; Ring Indoor Cam 2nd Gen 1080p, 143/115/59 FOV, manual privacy cover, no microSD, recording needs plan (Ring/Best Buy/Reviewed); Ring Protect renamed Ring Home subscription 5 Nov 2024 per Ring support, post now says Ring Home subscription matching blink-vs-ring-subscription; eufy C120 2K per eufy listing (3 MP only in Amazon title), microSD up to 128GB per eufy EU listing, no HomeBase, Alexa/Google/HomeKit per eufy listings, indoor-only; no prices/ratings/review counts/testing claims; owners sources non-Amazon (Kimola summary only).",
+    "at": "2026-10-16T13:00:05.881Z"
   }
 }

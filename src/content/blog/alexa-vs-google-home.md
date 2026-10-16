@@ -277,6 +277,7 @@ heroAlt: >-
   Alexa vs Google Home in 2026: Which Is Better for a Rental?: RenterSmartHome
   comparison
 related:
+  - wyze-vs-ring-vs-eufy-for-renters
   - best-voice-assistant-speaker-for-small-apartments
   - philips-hue-vs-wiz
   - blink-vs-ring-subscription

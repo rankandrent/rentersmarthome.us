@@ -1,0 +1,345 @@
+{
+  "keyword": "wyze vs ring vs eufy for renters",
+  "createdAt": "2026-10-16T13:00:34.661Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "Wyze vs Ring vs Eufy for renters",
+    "entityVariants": [
+      "Wyze vs Ring vs eufy",
+      "Wyze, Ring and eufy security cameras",
+      "best camera brand for renters",
+      "Ring vs Wyze vs eufy apartment",
+      "eufy Security vs Ring vs Wyze Cam"
+    ],
+    "entities": [
+      {
+        "name": "Wyze",
+        "type": "brand",
+        "relation": "budget camera brand with microSD local recording and low-cost optional cloud plan (Cam Plus)"
+      },
+      {
+        "name": "Ring",
+        "type": "brand",
+        "relation": "Amazon-owned camera and doorbell brand with the largest ecosystem and Ring Protect plans"
+      },
+      {
+        "name": "eufy Security",
+        "type": "brand",
+        "relation": "Anker brand that stores footage locally with no required subscription"
+      },
+      {
+        "name": "Wyze Battery Cam Pro",
+        "type": "product",
+        "relation": "battery camera with spotlight and microSD slot, candidate Wyze pick"
+      },
+      {
+        "name": "Wyze Video Doorbell Pro",
+        "type": "product",
+        "relation": "battery doorbell with a vertical lens, hardwire or battery"
+      },
+      {
+        "name": "Ring Battery Doorbell",
+        "type": "product",
+        "relation": "battery video doorbell that mounts with screws or adhesive-friendly brackets"
+      },
+      {
+        "name": "Ring Stick Up Cam Battery",
+        "type": "product",
+        "relation": "Ring indoor/outdoor camera that needs no wiring"
+      },
+      {
+        "name": "eufy Video Doorbell E340",
+        "type": "product",
+        "relation": "dual-camera doorbell with 8 GB onboard storage"
+      },
+      {
+        "name": "eufy SoloCam S220",
+        "type": "product",
+        "relation": "solar battery camera with local storage"
+      },
+      {
+        "name": "HomeBase",
+        "type": "hardware",
+        "relation": "eufy hub for local storage and chimes; required by some models"
+      },
+      {
+        "name": "Ring Protect Plan",
+        "type": "subscription",
+        "relation": "monthly fee needed to save and review Ring video"
+      },
+      {
+        "name": "Cam Plus",
+        "type": "subscription",
+        "relation": "Wyze optional cloud plan for event detection"
+      },
+      {
+        "name": "microSD card",
+        "type": "hardware",
+        "relation": "local storage that avoids monthly fees"
+      },
+      {
+        "name": "Alexa",
+        "type": "platform",
+        "relation": "voice assistant that integrates best with Ring"
+      },
+      {
+        "name": "Google Home",
+        "type": "platform",
+        "relation": "assistant with partial support across the three brands"
+      },
+      {
+        "name": "Matter",
+        "type": "standard",
+        "relation": "cross-platform standard with limited camera support"
+      },
+      {
+        "name": "lease",
+        "type": "renter concept",
+        "relation": "rental agreement that may limit drilling or replacing a doorbell"
+      },
+      {
+        "name": "landlord approval",
+        "type": "renter concept",
+        "relation": "permission step before mounting anything on exterior walls or door frames"
+      },
+      {
+        "name": "no-drill mount",
+        "type": "accessory",
+        "relation": "adhesive or door-hanging mount that avoids damage"
+      },
+      {
+        "name": "doorbell chime transformer",
+        "type": "hardware",
+        "relation": "existing wiring a renter may not be allowed to modify"
+      }
+    ],
+    "attributes": [
+      "subscription cost",
+      "local storage",
+      "install method",
+      "no-drill mounting",
+      "battery life",
+      "video resolution",
+      "night vision",
+      "smart home compatibility",
+      "privacy and cloud policy",
+      "hub requirement",
+      "portability when moving",
+      "upfront price",
+      "app quality",
+      "person and package detection"
+    ],
+    "ngrams": [
+      "wyze vs ring",
+      "eufy vs ring",
+      "eufy vs wyze",
+      "no monthly fee",
+      "subscription fee",
+      "local storage",
+      "microsd card",
+      "battery powered",
+      "video doorbell",
+      "security camera",
+      "ring protect plan",
+      "smart home",
+      "motion detection",
+      "night vision",
+      "cloud storage"
+    ],
+    "skipgrams": [
+      "ring…subscription",
+      "eufy…homebase",
+      "wyze…microsd",
+      "renters…landlord",
+      "battery…no wiring",
+      "doorbell…lease",
+      "local…storage",
+      "monthly…fee",
+      "alexa…ring",
+      "camera…drilling",
+      "adhesive…mount",
+      "move…out"
+    ],
+    "nlpTerms": [
+      "renter",
+      "lease",
+      "landlord",
+      "subscription",
+      "local storage",
+      "microSD",
+      "cloud",
+      "hub",
+      "battery",
+      "wireless",
+      "no-drill",
+      "adhesive mount",
+      "resolution",
+      "2K",
+      "night vision",
+      "spotlight",
+      "motion alerts",
+      "person detection",
+      "package detection",
+      "Alexa",
+      "Google Home",
+      "privacy",
+      "end-to-end encryption",
+      "app",
+      "Wi-Fi",
+      "chime",
+      "peephole",
+      "apartment",
+      "security deposit",
+      "move-out"
+    ],
+    "questions": [
+      "Which is best for renters, Wyze, Ring or eufy?",
+      "Do Wyze, Ring and eufy require a subscription?",
+      "Can I install a Ring, Wyze or eufy camera without drilling?",
+      "Which brand has the best local storage?",
+      "Is eufy HomeBase required?",
+      "Is Ring worth the monthly fee in an apartment?",
+      "Which camera brand is most private?",
+      "Can I take my camera with me when I move?",
+      "Do I need landlord permission for a video doorbell?",
+      "Which works best with Alexa or Google Home?"
+    ],
+    "contentGaps": [
+      "Lease clauses on exterior fixtures, doorbells and cameras pointing at shared hallways",
+      "How to ask a landlord for approval, with sample wording",
+      "No-drill and door-hanging mounts for each brand and what they hold",
+      "Restoring the original doorbell or door hardware at move-out",
+      "Total cost over 2-3 years of a lease including subscription and hub",
+      "Privacy and neighbor/common-area recording rules in multi-unit buildings",
+      "Taking the system to the next rental and re-pairing it",
+      "Wi-Fi range in apartments and shared-wall interference"
+    ],
+    "outline": [
+      {
+        "h2": "Wyze vs Ring vs Eufy for renters: the quick verdict",
+        "intent": "direct answer and at-a-glance pick per renter situation",
+        "h3": []
+      },
+      {
+        "h2": "How we compared Wyze, Ring and eufy for rentals",
+        "intent": "methodology and criteria (E-E-A-T)",
+        "h3": []
+      },
+      {
+        "h2": "Wyze, Ring and eufy side by side",
+        "intent": "comparison table of price, subscription, storage, install, ecosystem",
+        "h3": []
+      },
+      {
+        "h2": "Wyze, Ring and eufy picks reviewed",
+        "intent": "per-product review with spec table each",
+        "h3": [
+          "Wyze Battery Cam Pro: lowest-cost local recording",
+          "Ring Battery Doorbell: best app and Alexa ecosystem",
+          "eufy Video Doorbell E340: best no-subscription doorbell"
+        ]
+      },
+      {
+        "h2": "Subscriptions and total cost over a lease",
+        "intent": "ongoing cost comparison",
+        "h3": [
+          "Ring Protect Plan vs Wyze Cam Plus vs eufy local storage",
+          "Hub and microSD costs"
+        ]
+      },
+      {
+        "h2": "No-drill install and landlord approval",
+        "intent": "renter-specific install and permission",
+        "h3": [
+          "Mounting options without drilling",
+          "What to ask your landlord and lease clauses to check"
+        ]
+      },
+      {
+        "h2": "Privacy, smart home compatibility and app quality",
+        "intent": "secondary decision factors",
+        "h3": []
+      },
+      {
+        "h2": "Buying guide: how to choose a camera brand as a renter",
+        "intent": "decision framework",
+        "h3": []
+      },
+      {
+        "h2": "Moving out: restoring the door and taking your camera",
+        "intent": "move-out and portability gap",
+        "h3": []
+      },
+      {
+        "h2": "FAQ",
+        "intent": "People Also Ask coverage",
+        "h3": []
+      }
+    ],
+    "targetWords": 1150,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://www.wyze.com/blogs/smart-home/wyze-vs-ring",
+        "https://www.eufy.com/blogs/security-camera/eufy-vs-ring-cameras-and-doorbells",
+        "https://www.eufy.com/blogs/security-camera/eufy-vs-wyze",
+        "https://speedtesthq.com/compare/wyze-vs-ring",
+        "https://wasserstein-home.com/blogs/smart-home/wyze-vs-ring-which-one-is-better",
+        "https://hometechnologyreview.com/vs/ring-wired-doorbell-pro-vs-eufy-security-e340-2k-dual-camera-video-doorbell-comparison-1/",
+        "https://www.wyze.com/blogs/buying-guides/the-best-video-doorbell"
+      ],
+      "productStyle": "specs",
+      "productStyleReason": "Most top results are head-to-head comparisons built around spec and feature tables (price, resolution, storage, subscription) per product rather than pros/cons lists or long review paragraphs.",
+      "avgWords": 1000,
+      "avgProducts": 3,
+      "commonSections": [
+        "quick verdict",
+        "side-by-side comparison table",
+        "subscription and storage costs",
+        "features and video quality",
+        "smart home compatibility",
+        "buying guide / which to choose",
+        "FAQ"
+      ],
+      "usesComparisonTable": true,
+      "usesFaq": true,
+      "usesBuyingGuide": true
+    },
+    "internalLinkCandidates": [
+      {
+        "slug": "blink-vs-ring-subscription",
+        "title": "Blink vs Ring Subscription: Which Costs Renters Less?"
+      },
+      {
+        "slug": "ring-doorbell-in-apartment",
+        "title": "Can You Put a Ring Doorbell on an Apartment? (Renter Guide)"
+      },
+      {
+        "slug": "best-video-doorbell-without-subscription-for-renters",
+        "title": "Best Video Doorbell Without Subscription for Renters: 3 Picks"
+      },
+      {
+        "slug": "best-wireless-security-cameras-for-apartments",
+        "title": "Best Wireless Security Cameras for Apartments in 2026 (9 Picks)"
+      },
+      {
+        "slug": "alexa-vs-google-home",
+        "title": "Alexa vs Google Home in 2026: Which Is Better for a Rental?"
+      }
+    ]
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "blink-vs-ring-subscription",
+      "mode": "related-box"
+    },
+    {
+      "slug": "ring-doorbell-in-apartment",
+      "mode": "related-box"
+    },
+    {
+      "slug": "alexa-vs-google-home",
+      "mode": "related-box"
+    }
+  ]
+}
