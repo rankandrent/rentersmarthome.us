@@ -245,7 +245,8 @@ products:
     asin: B0BZSD2L1W
     amazonTitle: >-
       Aqara Smart Lock U100, Apple Home Key, Fingerprint Deadbolt, Gray | Matter
-      Over Thread, Keyless Entry Door Lock
+      Over Thread, Keyless Entry Door Lock, Touchscreen Keypad, IP65
+      Weatherproof, Supports Apple HomeKit, Alexa, Google
     matchName: Aqara Smart Lock U100
     badge: Best for Apple Home Key (with landlord OK)
     summary: >-
@@ -307,6 +308,23 @@ products:
             https://talk.macpowerusers.com/t/any-experience-with-the-aqara-u400-smart-lock/45812
         - title: ShopSavvy Aqara Smart Lock U100 review summary
           url: 'https://shopsavvy.com/reviews-tldr/aqara-smart-lock-u100'
+    image:
+      url: 'https://m.media-amazon.com/images/I/41BaXL7enaL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/4121Pl96NxL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/417eDds7SuL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41vEw23A8yL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41yaSV3UPuL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: August Home (manufacturer)
     url: 'https://august.com/'

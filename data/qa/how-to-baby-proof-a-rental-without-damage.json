@@ -1,10 +1,12 @@
 {
   "slug": "how-to-baby-proof-a-rental-without-damage",
   "pass": true,
-  "checkedAt": "2026-10-16T10:55:32.848Z",
+  "checkedAt": "2026-10-16T13:12:40.814Z",
   "errors": [],
   "warnings": [
-    "product \"Safety 1st Adhesive Magnetic Cabinet Locks (12 Locks, 2 Keys)\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "source didn't respond normally (403): https://homedepot.com/p/Safety-1st-Grip-n-Twist-Doorknob-Covers-4-Pack-48394/202259354",
+    "source didn't respond normally (403): https://homedepot.com/p/QuakeHOLD-Black-Nylon-Furniture-Safety-Strap-4160/100137023",
+    "source didn't respond normally (403): https://www.cpsc.gov/Safety-Education/Safety-Guides/Kids-and-Babies"
   ],
   "factCheck": {
     "verified": true,

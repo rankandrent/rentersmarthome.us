@@ -125,7 +125,8 @@ products:
     asin: B0DYJ6X6RR
     amazonTitle: >-
       eufy Security Video Doorbell C31, 2K FHD, Battery or Wired, No
-      Subscription | Wireless, Head-to-toe view
+      Subscription | Wireless, Head-to-toe view, Live video call, 24/7
+      Recording, Human and Motion detection, HomeBase S380 ready, No monthly fee
     matchName: eufy Security Video Doorbell C31
     badge: Best removable battery
     summary: >-
@@ -142,17 +143,17 @@ products:
     cons:
       - 'Single camera, so no dedicated package view like the E340'
       - Bracket mounts with screws; eufy lists no no-drill mount
-      - 'Owners report a fiddly mount clip and some missed alerts'
-      - '2.4 GHz Wi-Fi only; no Apple HomeKit'
+      - Owners report a fiddly mount clip and some missed alerts
+      - 2.4 GHz Wi-Fi only; no Apple HomeKit
     specs:
-      Cameras: Single 2K camera, 4:3 head-to-toe view
+      Cameras: 'Single 2K camera, 4:3 head-to-toe view'
       Power: Removable 6500mAh battery or doorbell wiring
       Storage: 'microSD up to 128GB; optional HomeBase S280, S380 or HomeBase 3'
       Recording: 24/7 only when hardwired; motion clips on battery
-      Chime: 'Existing wired chime or eufy MiniBase Chime T8023 (sold separately)'
+      Chime: Existing wired chime or eufy MiniBase Chime T8023 (sold separately)
       Wi-Fi: 2.4 GHz
       Mounting: Screw bracket plus 15-degree wedge
-      Smart home: 'Alexa and Google Assistant; not Apple HomeKit'
+      Smart home: Alexa and Google Assistant; not Apple HomeKit
     scores:
       install: 6
       reversibility: 6
@@ -166,14 +167,14 @@ products:
       read: 5
       praise:
         - Sharp 2K picture with a full head-to-toe view of visitors
-        - No monthly fee, with clips saved to a local microSD card
+        - 'No monthly fee, with clips saved to a local microSD card'
         - 'Easy setup, with motion detection described as accurate'
       complaints:
         - >-
           The bottom of the doorbell sometimes won't click into the wall mount;
           some owners got a replacement bracket from support
         - Missed doorbell rings or person alerts until the doorbell is restarted
-        - 'Battery life on a busy door and the Android app drew complaints'
+        - Battery life on a busy door and the Android app drew complaints
       sources:
         - title: 'eufy community: C31 does not clip into mount'
           url: 'https://community.eufy.com/t/hi-guys-so-i/5779237'
@@ -188,6 +189,23 @@ products:
           url: 'https://coolblue.be/en/productreviews/959494'
         - title: ShopSavvy eufy C31 review summary
           url: 'https://shopsavvy.com/reviews-tldr/eufy-security-video-doorbell-c31'
+    image:
+      url: 'https://m.media-amazon.com/images/I/315XmYa6m-L._SL500_.jpg'
+      width: 400
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41jlG4pibXL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41p07iaq+dL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41w6r04ciTL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41lZN+d8iIL._SL500_.jpg'
+        width: 400
+        height: 500
   - name: Tapo D210
     brand: TP-Link Tapo
     query: Tapo D210 video doorbell battery
@@ -268,8 +286,8 @@ faqs:
     a: >-
       Clips stored on the doorbell itself, like the E340's built-in storage or
       the microSD card in the C31 or Tapo D210, go with it. An optional indoor
-      eufy HomeBase keeps a copy inside, and you can download important clips
-      to your phone.
+      eufy HomeBase keeps a copy inside, and you can download important clips to
+      your phone.
   - q: Do I lose features without a subscription?
     a: >-
       Usually only cloud backup and some extras. Live view, motion alerts and

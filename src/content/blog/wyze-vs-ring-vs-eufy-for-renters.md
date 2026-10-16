@@ -124,7 +124,25 @@ products:
     asin: B0D7HK1TJH
     amazonTitle: >-
       WYZE Cam v4, 2.5K Indoor/Outdoor Security Camera, Color Night Vision |
-      Easy App Setup, Enhanced Two-Way Audio and Motion
+      Easy App Setup, Enhanced Two-Way Audio and Motion Detection for Home
+      Security, Baby Monitoring and Pet Camera
+    image:
+      url: 'https://m.media-amazon.com/images/I/41uFZZt209L._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41W-7c1CG6L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41RCzP45X0L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51PJm1VUvtL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51iZwgtwM7L._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Ring Indoor Cam (2nd Gen)
     brand: Ring
     query: Ring Indoor Cam 2nd Gen plug-in 1080p security camera with privacy cover
@@ -196,6 +214,23 @@ products:
           url: 'https://smarthomecompared.com/cameras/ring-indoor-cam'
     asin: B0B6GLQJMV
     amazonTitle: 'Ring Indoor Cam — Home or business security in 1080p HD video, White'
+    image:
+      url: 'https://m.media-amazon.com/images/I/11fYAS3QShL._SL500_.jpg'
+      width: 313
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31X0+gYCo7L._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41hdGjCEEwL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/31BvksSBfdL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/319k-+sFv4L._SL500_.jpg'
+        width: 313
+        height: 500
   - name: eufy Indoor Cam C120
     brand: eufy
     query: eufy Security Indoor Cam C120 2K plug-in security camera
@@ -264,7 +299,25 @@ products:
     asin: B08571VZ3Q
     amazonTitle: >-
       eufy Security Indoor Cam C120 | Plug-in Security Camera 3 MP | 2K with
-      Wi-Fi | IP Camera | Voice Assistant Compatibility
+      Wi-Fi | IP Camera | Voice Assistant Compatibility | Night Vision | Two-Way
+      Audio | HomeBase 3 Compatible | Audio and Motion Alert
+    image:
+      url: 'https://m.media-amazon.com/images/I/213OyhHat4L._SL500_.jpg'
+      width: 400
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51UzknBHuhL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41jOzXYiC0L._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41CC+x1rvQL._SL500_.jpg'
+        width: 389
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/419wK6+EetL._SL500_.jpg'
+        width: 400
+        height: 500
 sources:
   - title: Wyze Cam v4 Tech Specs (Wyze Support)
     url: >-

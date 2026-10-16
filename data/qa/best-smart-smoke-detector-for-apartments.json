@@ -1,13 +1,11 @@
 {
   "slug": "best-smart-smoke-detector-for-apartments",
-  "pass": true,
-  "checkedAt": "2026-10-16T13:09:25.200Z",
-  "errors": [],
-  "warnings": [
-    "product \"Kidde Smart Smoke & CO Alarm with Ring (battery, RGCUDR-RW)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"First Alert SC5 Battery Smart Smoke & Carbon Monoxide Alarm (SMCO600NV)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Ring Smoke & CO Listener\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  "pass": false,
+  "checkedAt": "2026-10-16T13:12:15.472Z",
+  "errors": [
+    "source returns 404: https://support.google.com/googlehome/answer/16322160"
   ],
+  "warnings": [],
   "factCheck": {
     "verified": true,
     "notes": "Kidde RGCUDR-RW checked against Kidde brochure PDF (item 21033910, downloaded): 2 AA included, ~1 yr, not lithium compatible, UL 217 10th Ed + UL 2034 5th Ed, Hush 8 min auto reset, Wi-Fi + wire-free interconnect, screw bracket; Ring app alerts need no subscription (Kidde page via search, Smart Home Compared), paid monitoring optional. Removed unsupported night-light, adhesive-mount, Alexa claims. SC5 checked via search of First Alert, Resideo spec sheet (Canadian model: six CR123A, 10-yr sensors; no 10-yr sealed battery found, conflict kept in post), Google Store/9to5Google/First Alert blog (Google Home + First Alert apps only, Nest Protect bracket reuse, interconnect via Google Home); Matter not listed so wording is no Matter support listed. Ring Listener checked via Ring product/support pages and retailer listings (UL-listed alarms 10 yrs or less, within 6 in, 3 in optimal, newest model Sidewalk no base station, older Z-Wave model needs Ring Alarm base station, does not detect smoke; monitoring needs Ring subscription, post names no plan). General safety text checked vs NFPA desk reference, CPSC 559, USFA (bedroom/outside sleeping/every level placement, 10-year replacement from manufacture date, photoelectric vs ionization, both or dual-sensor) and added to sources; sealed 10-year battery rules exist in places like NY and MD (secondary sources) so text says some places, check local code. Legal text says not legal advice, check lease and fire code. No price, rating, review count or testing claims; no Amazon URLs cited. Owner blocks: removed Ring maker page from Kidde owners sources, read set to 2; owner pages (SHC, TechHive, Bob Vila, Ring Community, ShopSavvy) were not fetchable here (proxy 403), only partially corroborated by search.",

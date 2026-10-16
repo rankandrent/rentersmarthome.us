@@ -120,7 +120,25 @@ products:
     asin: B0FP3MM8W4
     amazonTitle: >-
       Kidde Smart Smoke & CO Detector with Ring, AA Battery, RGCUDR-RW | Ring
-      App Enabled, Wireless Interconnect Capability, Voice Alerts
+      App Enabled, Wireless Interconnect Capability, Voice Alerts, Smoke &
+      Carbon Monoxide Detection for Homes & Apartments
+    image:
+      url: 'https://m.media-amazon.com/images/I/31cuTF2tiBL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51Mw9YCGyFL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51u9suTz2YL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41QHNnCA-WL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51nFZNONQpL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: First Alert SC5 Battery Smart Smoke & Carbon Monoxide Alarm (SMCO600NV)
     brand: First Alert
     query: First Alert SC5 Battery Smart Smoke and Carbon Monoxide Alarm SMCO600NV
@@ -194,6 +212,23 @@ products:
             https://www.smarthomeexplorer.com/reviews/sensors/first-alert-sc5-smco600nv
     asin: B0DS2W3794
     amazonTitle: First Alert SC5 Battery Smart Smoke & Carbon Monoxide Alarm | SMCO600NV
+    image:
+      url: 'https://m.media-amazon.com/images/I/21ycPNWEyDL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41JeUQltChL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41x6rqJNeYL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/512X+FepCcL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51gJCPZhvTL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Ring Smoke & CO Listener
     brand: Ring
     query: Ring Smoke & CO Listener
@@ -253,7 +288,21 @@ products:
     asin: B0CL5MMTDB
     amazonTitle: >-
       Ring Smoke & CO Listener, get real-time alerts from existing smoke and CO
-      alarms, no base station needed, Professional Monitoring
+      alarms, no base station needed, Professional Monitoring (sold separately)
+    image:
+      url: 'https://m.media-amazon.com/images/I/11V0Yi2PLcL._SL500_.jpg'
+      width: 313
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41zFSWxJApL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41mYDtHPBOL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41Z3g0OffRL._SL500_.jpg'
+        width: 313
+        height: 500
 sources:
   - title: 'Kidde Smart Smoke + CO Alarm, AA battery powered (Kidde)'
     url: >-

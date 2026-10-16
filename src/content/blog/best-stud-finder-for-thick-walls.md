@@ -211,8 +211,8 @@ products:
     renterNote: 'Handheld and non-marking, so it is safe on any rental wall.'
     pros:
       - >-
-        DeepScan reaches 1.5 inches (38 mm) versus 0.75 inch (19 mm) in
-        StudScan mode
+        DeepScan reaches 1.5 inches (38 mm) versus 0.75 inch (19 mm) in StudScan
+        mode
       - WireWarning flags live unshielded AC wiring up to 2 inches (50 mm) deep
       - SpotLite pointer projects an arrow onto the wall at the stud edge
     cons:
@@ -231,9 +231,7 @@ products:
       Hand tool with nothing to install; DeepScan depth and wire warning at a
       lower price tier.
     asin: B0GZWS1324
-    amazonTitle: >-
-      Zircon® StudSensor™ Pro55 Stud Finder with Deep Scan & Live Wire
-      Detection
+    amazonTitle: Zircon® StudSensor™ Pro55 Stud Finder with Deep Scan & Live Wire Detection
     matchName: Zircon StudSensor Pro55
     owners:
       read: 6
@@ -246,8 +244,8 @@ products:
           plaster
       complaints:
         - >-
-          Zircon DeepScan units often struggle on old or 1-inch plaster
-          (forum owners of related models)
+          Zircon DeepScan units often struggle on old or 1-inch plaster (forum
+          owners of related models)
         - >-
           Some owners of the related HD55 could not find studs at all, or got
           spotty results behind shiplap or tile
@@ -262,6 +260,17 @@ products:
         - title: Home Depot Zircon StudSensor HD55 reviews (related model)
           url: >-
             https://www.homedepot.com/p/reviews/Zircon-StudSensor-HD55-Stud-Finder-65945/205143494/3
+    image:
+      url: 'https://m.media-amazon.com/images/I/41NeDRLXfRL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51YliE9xh0L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51fRgDKw9eL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Bosch GMS 120
     brand: Bosch
     query: Bosch GMS 120 digital multi scanner

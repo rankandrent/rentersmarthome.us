@@ -64,8 +64,8 @@ products:
     badge: Best cabinet lock
     summary: >-
       Twelve adhesive magnetic locks and two keys from Safety 1st's
-      Secure-to-Explore line; the locks sit inside cabinets and drawers and
-      open only with a magnetic key.
+      Secure-to-Explore line; the locks sit inside cabinets and drawers and open
+      only with a magnetic key.
     renterNote: >-
       Installs with 3M adhesive and no drilling, but Safety 1st says adhesive
       can't be guaranteed on particle board, old paint or oily surfaces, where
@@ -84,8 +84,8 @@ products:
       value: 8
       portability: 9
     scoreNote: >-
-      Adhesive mount with no drilling on most cabinets; screws for weak
-      surfaces leave holes, and removal guidance isn't published.
+      Adhesive mount with no drilling on most cabinets; screws for weak surfaces
+      leave holes, and removal guidance isn't published.
     owners:
       read: 3
       praise:
@@ -104,6 +104,23 @@ products:
         - title: Sam's Club Safety 1st Secure-to-Explore Adhesive Locks (12 locks)
           url: >-
             https://www.samsclub.com/ip/safety-1st-secure-to-explore-adhesive-locks-12-locks-white/13636904161
+    image:
+      url: 'https://m.media-amazon.com/images/I/41mBTw1GiBL._SL500_.jpg'
+      width: 500
+      height: 396
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/314Z9uWHl7L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41d+jOvL6rL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/31fKEUBauUL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/31E+9cjIfdL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Safety 1st Press Tab Plug Protectors
     brand: Safety 1st
     query: Safety 1st Press Tab Plug Protectors
@@ -395,7 +412,7 @@ products:
         - title: Ready America
           url: 'https://www.readyamerica.com/product/quakehold-furniture-strap/'
 sources:
-  - title: Safety 1st Secure-to-Explore Adhesive Locks, 12 locks (Sam's Club)
+  - title: 'Safety 1st Secure-to-Explore Adhesive Locks, 12 locks (Sam''s Club)'
     url: >-
       https://www.samsclub.com/ip/safety-1st-secure-to-explore-adhesive-locks-12-locks-white/13636904161
   - title: Safety 1st Secure-to-Explore Adhesive Magnetic Locks HS402 (Safety 1st)

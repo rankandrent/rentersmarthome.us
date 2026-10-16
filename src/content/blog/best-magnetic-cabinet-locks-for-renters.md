@@ -125,9 +125,9 @@ products:
       magnetic system, enough for a full kitchen plus a bathroom vanity. Locks
       mount inside the door with 3M adhesive and a plastic template.
     renterNote: >-
-      Adhesive mount with no drilling on most cabinets; Safety 1st says
-      adhesive can't be guaranteed on particle board, old paint or oily
-      surfaces, where the included screws are the fallback.
+      Adhesive mount with no drilling on most cabinets; Safety 1st says adhesive
+      can't be guaranteed on particle board, old paint or oily surfaces, where
+      the included screws are the fallback.
     pros:
       - 'Two keys, so a spare for a caregiver'
       - Push-lever lets you disengage a lock when it is not needed
@@ -142,8 +142,8 @@ products:
       value: 8
       portability: 9
     scoreNote: >-
-      Adhesive mount with no drilling on most cabinets; screws for weak
-      surfaces leave holes, and removal guidance isn't published.
+      Adhesive mount with no drilling on most cabinets; screws for weak surfaces
+      leave holes, and removal guidance isn't published.
     owners:
       read: 3
       praise:
@@ -162,6 +162,23 @@ products:
         - title: Sam's Club Safety 1st Secure-to-Explore Adhesive Locks (12 locks)
           url: >-
             https://www.samsclub.com/ip/safety-1st-secure-to-explore-adhesive-locks-12-locks-white/13636904161
+    image:
+      url: 'https://m.media-amazon.com/images/I/41mBTw1GiBL._SL500_.jpg'
+      width: 500
+      height: 396
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/314Z9uWHl7L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41d+jOvL6rL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/31fKEUBauUL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/31E+9cjIfdL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: >-
       Safety 1st Secure-to-Explore Adhesive Magnetic Locks (20 Locks, 2 Keys)
       HS402
@@ -192,6 +209,23 @@ products:
       Safety 1st Adhesive Magnetic Cabinet Locks, Includes 20 Child Locks for
       Cabinets & Drawers, 2 Keys, White
     matchName: Safety 1st Adhesive Magnetic Cabinet Locks 20 Locks 2 Keys
+    image:
+      url: 'https://m.media-amazon.com/images/I/41EdZPynAgL._SL500_.jpg'
+      width: 405
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/314Z9uWHl7L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41d+jOvL6rL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/31fKEUBauUL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/31Izdzan8NL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Vmaisi Adhesive Magnetic Cabinet Locks (12 Locks and 2 Keys)
     brand: Vmaisi
     query: Vmaisi Adhesive Magnetic Cabinet Locks 12 Locks and 2 Keys
@@ -209,7 +243,7 @@ products:
       Sold as an adhesive kit with no drilling, so it suits renters who want to
       avoid screw holes; keep locks away from metal hinges and screws.
     pros:
-      - 'Twelve locks and two keys in one box'
+      - Twelve locks and two keys in one box
       - '3M adhesive mount with no drilling, per retailer listings'
       - 'Key works through doors up to about 2 inches thick, per listings'
     cons:
@@ -241,6 +275,23 @@ products:
           url: 'https://www.desertcart.com.cy/products/79819820'
         - title: BabyGearLab best cabinet locks
           url: 'https://babygearlab.com/topics/nursery-furniture/best-cabinet-locks'
+    image:
+      url: 'https://m.media-amazon.com/images/I/41K7Py0FtZL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41TKNVhHKTL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/3162sFF5v+L._SL500_.jpg'
+        width: 500
+        height: 205
+      - url: 'https://m.media-amazon.com/images/I/41s84aA728L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41zOC-VlAML._SL500_.jpg'
+        width: 500
+        height: 500
   - name: 'Dreambaby Adhesive Mag Locks (8-Pack, 1 Key) L859'
     brand: Dreambaby
     query: Dreambaby Adhesive Mag Locks 8-Pack 1 Key L859
@@ -290,13 +341,31 @@ products:
           url: >-
             https://www.babylist.com/gp/dreambaby-magnetic-locking-system/26092/1236002
           reviews: 57
+    image:
+      url: 'https://m.media-amazon.com/images/I/41Txl2abnhL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41UD1DRR8CL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/416N2y3AWFL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41yeeuWXIsL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51+yV-9m3RL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: 'Roving Cove Ergonomic Magnetic Cabinet Locks (12 Locks, 2 Keys)'
     brand: Roving Cove
     query: Roving Cove Ergonomic Magnetic Cabinet Baby Proof Locks 12-Lock 2-Ring Key
     asin: B08QM8S494
     amazonTitle: >-
       Roving Cove Ergonomic Magnetic Cabinet Baby Proof Locks, 12-Lock 2-Ring
-      Key | Child Safety Cabinet Drawer Lock
+      Key | Child Safety Cabinet Drawer Lock, Cupboard Latch, 3M Adhesive,
+      Optional Drill, Quick Installation with Starter Tape System
     matchName: Roving Cove Ergonomic Magnetic Cabinet Baby Proof Locks 12-Lock
     badge: Best for easy alignment
     summary: >-
@@ -334,6 +403,23 @@ products:
         - title: Roving Cove 12-lock product page
           url: >-
             https://www.rovingcove.com/products/roving-cove-magnetic-cabinet-drawer-lock-for-child-safety-baby-proof-cabinets-and-drawers-3m-adhesive-pre-taped-12-locks-2-ring-keys
+    image:
+      url: 'https://m.media-amazon.com/images/I/31xkB2d4EwL._SL500_.jpg'
+      width: 500
+      height: 492
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/4194gWWQm8L._SL500_.jpg'
+        width: 500
+        height: 476
+      - url: 'https://m.media-amazon.com/images/I/41IcHJvIaTL._SL500_.jpg'
+        width: 500
+        height: 476
+      - url: 'https://m.media-amazon.com/images/I/41NU34+PNQL._SL500_.jpg'
+        width: 500
+        height: 490
+      - url: 'https://m.media-amazon.com/images/I/41AppTgHTWL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: Safety 1st Adhesive Magnetic Lock System (Ace Hardware)
     url: >-
@@ -344,7 +430,7 @@ sources:
   - title: Safety 1st HS402
     url: >-
       https://safety1st.com/products/secure-to-explore-adhesive-magnetic-locks-20-locks-2-keys-hs402
-  - title: Safety 1st Secure-to-Explore Adhesive Locks, 12 locks (Sam's Club)
+  - title: 'Safety 1st Secure-to-Explore Adhesive Locks, 12 locks (Sam''s Club)'
     url: >-
       https://www.samsclub.com/ip/safety-1st-secure-to-explore-adhesive-locks-12-locks-white/13636904161
   - title: Safety 1st Home Safety Help Center
@@ -354,12 +440,12 @@ sources:
       https://www.momease.ca/products/safety-1st-secure-to-explore-adhesive-magnetic-lock-system
   - title: Best Cabinet Locks (BabyGearLab)
     url: 'https://babygearlab.com/topics/nursery-furniture/best-cabinet-locks'
-  - title: Dreambaby Adhesive Mag Locks 8 Locks, 1 Key (ClassWallet)
+  - title: 'Dreambaby Adhesive Mag Locks 8 Locks, 1 Key (ClassWallet)'
     url: >-
       https://classroom-resources.classwallet.com/gear/37072-adhesive-mag-locks-8-locks-1-key-878931008590.html
   - title: Dreambaby Adhesive Mag Lock 8 Locks 1 Key (Woolworths)
     url: 'https://www.woolworths.com.au/shop/productdetails/1122750099'
-  - title: Roving Cove Magnetic Cabinet Drawer Lock, 12 Locks 2 Ring Keys
+  - title: 'Roving Cove Magnetic Cabinet Drawer Lock, 12 Locks 2 Ring Keys'
     url: >-
       https://www.rovingcove.com/products/roving-cove-magnetic-cabinet-drawer-lock-for-child-safety-baby-proof-cabinets-and-drawers-3m-adhesive-pre-taped-12-locks-2-ring-keys
   - title: Best Cabinet Locks guide (Fuhrmann Management)

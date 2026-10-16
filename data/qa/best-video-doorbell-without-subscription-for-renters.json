@@ -1,10 +1,11 @@
 {
   "slug": "best-video-doorbell-without-subscription-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-16T10:51:16.970Z",
+  "checkedAt": "2026-10-16T13:12:25.128Z",
   "errors": [],
   "warnings": [
-    "product \"eufy Security Video Doorbell C31 (2K, Battery or Wired)\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "source didn't respond normally (403): https://www.currys.co.uk/techtalk/smart-tech/smart-home/best-video-doorbell-cameras-without-a-subscription.html",
+    "LIVE POST, FIX: source returns 404: https://service.anker.com/article-description/Video-Doorbell-C31-C30-What-should-I-do-if-the-doorbell-is-offline"
   ],
   "factCheck": {
     "verified": true,

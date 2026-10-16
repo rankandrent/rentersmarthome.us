@@ -113,7 +113,7 @@ products:
     asin: B0BFC7WQ6R
     amazonTitle: >-
       Amazon Echo Spot (newest model), Great for nightstands, offices and
-      kitchens, Smart alarm clock, Designed for Alexa+
+      kitchens, Smart alarm clock, Designed for Alexa+, Black
     matchName: Amazon Echo Spot
     badge: Best for bedside
     summary: >-
@@ -171,6 +171,23 @@ products:
         - title: Fakespot Echo Spot (2024) review summary
           url: >-
             https://fakespot.com/product/all-new-echo-spot-2024-release-smart-alarm-clock-with-vibrant-sound-alexa-black
+    image:
+      url: 'https://m.media-amazon.com/images/I/31LkHmcbu6L._SL500_.jpg'
+      width: 313
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41wWcFyq6CL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41NkdsdZ3OL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41tfZDQF+LL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41RouSM3o6L._SL500_.jpg'
+        width: 313
+        height: 500
   - name: Google Nest Mini
     brand: Google
     query: Google Nest Mini 2nd Gen

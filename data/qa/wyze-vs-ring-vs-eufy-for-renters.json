@@ -1,12 +1,11 @@
 {
   "slug": "wyze-vs-ring-vs-eufy-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-16T13:00:06.380Z",
+  "checkedAt": "2026-10-16T13:13:13.644Z",
   "errors": [],
   "warnings": [
-    "product \"Wyze Cam v4\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Ring Indoor Cam (2nd Gen)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"eufy Indoor Cam C120\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "source didn't respond normally (403): https://support.wyze.com/hc/en-us/articles/23746258989851-Wyze-Cam-v4-Tech-Specs",
+    "source didn't respond normally (no response): https://bestbuy.com/product/ring-indoor-plug-in-1080p-security-camera-2nd-generation-with-privacy-cover-white/J39HW6QGC4"
   ],
   "factCheck": {
     "verified": true,
