@@ -1,9 +1,11 @@
 {
   "slug": "best-magnetic-stud-finder",
   "pass": true,
-  "checkedAt": "2026-10-16T08:38:01.609Z",
+  "checkedAt": "2026-10-16T08:39:40.169Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "source didn't respond normally (no response): https://www.tractorsupply.com/tsc/product/the-studbuddy-plus-magnetic-stud-finder-level-and-ruler-2408462"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Verified via web research (retailer and maker listings): C.H. Hanson 03040 rare earth magnets detect nails/screws/steel studs, rotating level, no batteries, scan depth listings conflict so no depth stated (Ace Hardware, AIH, True Value, LINC). Kreg KMM1000 two rare earth magnets, hi-viz bubble level, centered marking notches, hangs hands-free, wood and metal studs, battery-free (Kreg Tool, Woodcraft). Kreg KMM1000LZ Laser-Mark projects stud location, two rare earth magnets, hi-viz level, marking notch, works with or without batteries, 2 AAA included (Woodcraft, Grizzly, Wurth). StudBuddy neodymium magnets, no batteries/electronics/moving parts, not intended for lath and plaster (Lowe's, Walmart). StudBuddy Plus plumb and horizontal levels, inch/cm rulers, felt pads, soft-grip handle, hangs hands free (Target, Tractor Supply). How-it-works and magnetic vs electronic claims from Wikipedia and HowStuffWorks. No prices, ratings or testing claims.",
