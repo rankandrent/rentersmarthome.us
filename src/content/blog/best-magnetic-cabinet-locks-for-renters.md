@@ -177,6 +177,23 @@ products:
       Safety 1st Adhesive Magnetic Cabinet Locks, Includes 20 Child Locks for
       Cabinets & Drawers, 2 Keys, White
     matchName: Safety 1st Adhesive Magnetic Cabinet Locks 20 Locks 2 Keys
+    image:
+      url: 'https://m.media-amazon.com/images/I/41EdZPynAgL._SL500_.jpg'
+      width: 405
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/314Z9uWHl7L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41d+jOvL6rL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/31fKEUBauUL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/31Izdzan8NL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: 'Jool Baby Magnetic Cabinet Locks (12 Locks, 2 Keys)'
     brand: Jool Baby
     query: Jool Baby magnetic cabinet locks 12 locks 2 keys
