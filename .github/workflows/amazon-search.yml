@@ -1,0 +1,34 @@
+name: Amazon search
+
+# One-off helper: prints the top Amazon US listings (ASIN, title) for a few search queries,
+# using this repo's Creators API credentials. Used to pick the right single-unit ASIN.
+on:
+  workflow_dispatch:
+    inputs:
+      queries:
+        description: 'Search queries, separated by |'
+        required: true
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm ci
+      - name: Search
+        env:
+          QUERIES: ${{ inputs.queries }}
+          AMAZON_CREATORS_CREDENTIAL_ID: ${{ secrets.AMAZON_CREATORS_CREDENTIAL_ID }}
+          AMAZON_CREATORS_CREDENTIAL_SECRET: ${{ secrets.AMAZON_CREATORS_CREDENTIAL_SECRET }}
+          AMAZON_CREATORS_VERSION: ${{ vars.AMAZON_CREATORS_VERSION }}
+        run: |
+          node --input-type=module -e "
+          import { searchItems } from './agents/lib/amazon.mjs';
+          for (const q of process.env.QUERIES.split('|').map((s) => s.trim()).filter(Boolean)) {
+            console.log('\n## ' + q);
+            for (const it of await searchItems(q, { itemCount: 10 })) console.log('  ' + it.asin + '  ' + it.title.slice(0, 120));
+          }"
