@@ -85,7 +85,7 @@
     "priority": 8,
     "rationale": "TP 1.1k, KD 7 (Ahrefs)",
     "slug": "indoor-security-camera-no-subscription",
-    "status": "pending",
+    "status": "merged",
     "attempts": 0,
     "addedAt": "2026-10-13T00:00:00.000Z",
     "ahrefs": {
@@ -93,7 +93,9 @@
       "kd": 7,
       "trafficPotential": 1100
     },
-    "funnel": "bofu"
+    "funnel": "bofu",
+    "mergedInto": "best-wireless-security-cameras-for-apartments",
+    "lastError": "cannibalization: \"indoor security camera no subscription\" overlaps \"best security camera for apartment\" (100%)"
   },
   {
     "keyword": "switchbot lock pro review",
@@ -2905,6 +2907,7 @@
       "/reviews/wyze-vs-ring-vs-eufy-for-renters"
     ],
     "rationale": "restores an old indexed URL",
-    "slug": "wyze-vs-ring-vs-eufy-for-renters"
+    "slug": "wyze-vs-ring-vs-eufy-for-renters",
+    "productCount": 3
   }
 ]
