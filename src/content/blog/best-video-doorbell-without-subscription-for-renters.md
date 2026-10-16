@@ -14,7 +14,7 @@ secondaryKeywords:
 entities:
   - video doorbell without subscription
   - eufy Video Doorbell E340
-  - eufy Video Doorbell S220
+  - eufy Security Video Doorbell C31
   - Tapo D210
   - local storage
   - microSD card
@@ -32,8 +32,8 @@ tldr:
     The eufy Video Doorbell E340 is our top pick: it stores clips on built-in
     local storage and runs on battery or doorbell wiring.
   - >-
-    The eufy Video Doorbell S220 is a simpler battery option with local storage
-    and no monthly fee.
+    The eufy Security Video Doorbell C31 is the single-camera alternative: a
+    removable battery pack, microSD storage and no HomeBase or monthly fee.
   - 'The Tapo D210 is the budget pick, saving clips to a microSD card.'
   - >-
     Use a no-drill mount or ask your landlord before you put anything on the
@@ -119,45 +119,75 @@ products:
           reviews: 123
         - title: ShopSavvy eufy E340 review summary
           url: 'https://shopsavvy.com/reviews-tldr/eufy-video-doorbell-e340'
-  - name: eufy Video Doorbell S220
+  - name: 'eufy Security Video Doorbell C31 (2K, Battery or Wired)'
     brand: eufy
-    query: eufy Video Doorbell S220 battery
-    badge: Best battery value
+    query: eufy Security Video Doorbell C31
+    asin: B0DYJ6X6RR
+    amazonTitle: >-
+      eufy Security Video Doorbell C31, 2K FHD, Battery or Wired, No
+      Subscription | Wireless, Head-to-toe view
+    matchName: eufy Security Video Doorbell C31
+    badge: Best removable battery
     summary: >-
-      A battery video doorbell that saves clips locally on eufy's HomeBase, a
-      good fit for renters who want no wiring and no subscription.
-    renterNote: Battery powered; pair it with a no-drill mount where your frame allows.
+      A single-camera 2K doorbell with a removable battery pack that records to
+      a microSD card, no HomeBase or monthly plan required.
+    renterNote: >-
+      The battery pack pops out to charge indoors, but the bracket screws on, so
+      get landlord approval or a no-drill mount that fits it.
     pros:
-      - Local storage with no monthly fee
-      - Battery powered
-      - Simple eufy app
+      - 'microSD storage up to 128GB, no monthly fee and no HomeBase needed'
+      - Removable 6500mAh battery pack charges indoors
+      - 24/7 recording when hardwired to doorbell wiring
+      - Works with an existing wired chime
     cons:
-      - Single camera
-      - Needs a eufy HomeBase; check whether your kit includes one
+      - 'Single camera, so no dedicated package view like the E340'
+      - Bracket mounts with screws; eufy lists no no-drill mount
+      - 'Owners report a fiddly mount clip and some missed alerts'
+      - '2.4 GHz Wi-Fi only; no Apple HomeKit'
+    specs:
+      Cameras: Single 2K camera, 4:3 head-to-toe view
+      Power: Removable 6500mAh battery or doorbell wiring
+      Storage: 'microSD up to 128GB; optional HomeBase S280, S380 or HomeBase 3'
+      Recording: 24/7 only when hardwired; motion clips on battery
+      Chime: 'Existing wired chime or eufy MiniBase Chime T8023 (sold separately)'
+      Wi-Fi: 2.4 GHz
+      Mounting: Screw bracket plus 15-degree wedge
+      Smart home: 'Alexa and Google Assistant; not Apple HomeKit'
     scores:
-      install: 7
-      reversibility: 8
-      value: 8
-      compatibility: 6
+      install: 6
+      reversibility: 6
+      value: 9
+      compatibility: 7
       portability: 8
     scoreNote: >-
-      Battery doorbell that stores clips on a eufy HomeBase with no monthly fee;
-      needs a HomeBase.
+      No-fee microSD storage and a removable battery; the screw-on bracket
+      leaves small holes unless you use a no-drill mount.
     owners:
-      read: 3
+      read: 5
       praise:
-        - Picture and sound quality liked by retailer reviewers
-        - 'Easy install, no subscription fees'
+        - Sharp 2K picture with a full head-to-toe view of visitors
+        - No monthly fee, with clips saved to a local microSD card
+        - 'Easy setup, with motion detection described as accurate'
       complaints:
-        - Needs HomeBase; one owner had no live video on dual-SIM setup
-        - Wouldn't charge through existing transformer for one reviewer
+        - >-
+          The bottom of the doorbell sometimes won't click into the wall mount;
+          some owners got a replacement bracket from support
+        - Missed doorbell rings or person alerts until the doorbell is restarted
+        - 'Battery life on a busy door and the Android app drew complaints'
       sources:
-        - title: Anker community S220 quick review
+        - title: 'eufy community: C31 does not clip into mount'
+          url: 'https://community.eufy.com/t/hi-guys-so-i/5779237'
+        - title: 'eufy community: C31 replacement mount issue'
+          url: 'https://community.eufy.com/t/i-ve-recently/5777960'
+        - title: 'eufy community: C31 major teething problems'
+          url: 'https://community.eufy.com/t/major-teething-problems/5732770'
+        - title: 'eufy community: C31 wired charger question'
           url: >-
-            https://community.anker.com/t/quick-review-eufy-security-2k-video-doorbell/70603?page=2
-        - title: PB Tech S220 reviews
-          url: >-
-            https://www.pbtech.co.nz/product/CCTEFY3103/Eufy-S220-2K-Outdoor-Wire-Free-Video-Doorbell---Ad?pg=2
+            https://community.eufy.com/t/eufy-c31-doorbell-wired-uk-plug-charger-any-recommendations/5686270
+        - title: Coolblue C31 customer reviews
+          url: 'https://coolblue.be/en/productreviews/959494'
+        - title: ShopSavvy eufy C31 review summary
+          url: 'https://shopsavvy.com/reviews-tldr/eufy-security-video-doorbell-c31'
   - name: Tapo D210
     brand: TP-Link Tapo
     query: Tapo D210 video doorbell battery
@@ -211,12 +241,24 @@ sources:
       https://www.currys.co.uk/techtalk/smart-tech/smart-home/best-video-doorbell-cameras-without-a-subscription.html
   - title: 'abode: Best doorbell camera with no subscription'
     url: 'https://goabode.com/blog/best-doorbell-camera-no-subscription'
+  - title: 'eufy: Video Doorbell C31 product page'
+    url: 'https://www.eufy.com/products/t8223111'
+  - title: 'eufy support: Video Doorbell C31 box contents'
+    url: >-
+      https://service.eufy.com/article-description/Video-Doorbell-C31-What-s-in-the-Box
+  - title: 'eufy support: Video Doorbell C31/C30 offline troubleshooting'
+    url: >-
+      https://service.anker.com/article-description/Video-Doorbell-C31-C30-What-should-I-do-if-the-doorbell-is-offline
+  - title: 'Smart Home Compared: eufy Video Doorbell C31 specs'
+    url: >-
+      https://smarthomecompared.com/doorbells/eufy-video-doorbell-c31-with-battery-pack
 reviewedDate: '2026-10-14T00:00:00.000Z'
 faqs:
   - q: Which video doorbell has no subscription?
     a: >-
       Doorbells with local storage, like the eufy Video Doorbell E340, eufy
-      Video Doorbell S220 and Tapo D210, save clips without a monthly plan.
+      Security Video Doorbell C31 and Tapo D210, save clips without a monthly
+      plan.
   - q: Can renters install a video doorbell?
     a: >-
       Yes. Choose a battery doorbell, mount it with a no-drill mount where the
@@ -224,9 +266,10 @@ faqs:
       changes.
   - q: What happens to local clips if the doorbell is stolen?
     a: >-
-      Clips stored on the doorbell itself go with it. Storage on an indoor hub
-      like eufy's HomeBase stays safe, and you can download important clips to
-      your phone.
+      Clips stored on the doorbell itself, like the E340's built-in storage or
+      the microSD card in the C31 or Tapo D210, go with it. An optional indoor
+      eufy HomeBase keeps a copy inside, and you can download important clips
+      to your phone.
   - q: Do I lose features without a subscription?
     a: >-
       Usually only cloud backup and some extras. Live view, motion alerts and
@@ -242,18 +285,18 @@ related:
   - best-pressure-mounted-baby-gate-for-renters
 ---
 
-The best video doorbell without subscription for renters does two jobs: it saves clips locally so you never pay a monthly fee, and it runs on a battery so you never touch the building's wiring. **Our top pick is the eufy Video Doorbell E340, with the eufy Video Doorbell S220 as the battery value pick and the Tapo D210 as the budget choice.** All three record to local storage instead of a paid cloud plan.
+The best video doorbell without subscription for renters does two jobs: it saves clips locally so you never pay a monthly fee, and it runs on a battery so you never touch the building's wiring. **Our top pick is the eufy Video Doorbell E340, with the eufy Security Video Doorbell C31 as the single-camera pick with a removable battery and the Tapo D210 as the budget choice.** All three record to local storage instead of a paid cloud plan.
 
 We've written before about how Ring needs a Ring Home subscription to save recordings; you can read that breakdown in our [Blink vs Ring subscription comparison](/blog/blink-vs-ring-subscription/). This guide is for renters who want a real doorbell camera with no monthly bill at all.
 
 ## Best video doorbell without subscription: the short answer
 
-**A video doorbell without subscription is worth it when you want alerts and recordings with no monthly bill. Pick the eufy Video Doorbell E340 if you get packages often, the eufy S220 for a simple battery setup, and the Tapo D210 if price matters most.** Here's how they compare:
+**A video doorbell without subscription is worth it when you want alerts and recordings with no monthly bill. Pick the eufy Video Doorbell E340 if you get packages often, the eufy C31 if you want a removable battery and microSD storage, and the Tapo D210 if price matters most.** Here's how they compare:
 
 | Doorbell | Storage | Power | Best for |
 | --- | --- | --- | --- |
 | eufy Video Doorbell E340 | Built-in local storage | Battery or wired | Package deliveries |
-| eufy Video Doorbell S220 | Local storage | Battery | Simple no-fee setup |
+| eufy Security Video Doorbell C31 | microSD card (up to 128GB) | Removable battery or wired | Charging indoors, 24/7 when wired |
 | Tapo D210 | microSD card | Battery | Tight budgets |
 
 ## Our video doorbell picks for renters
@@ -262,9 +305,9 @@ We've written before about how Ring needs a Ring Home subscription to save recor
 
 The [eufy Video Doorbell E340](amzn:eufy+Video+Doorbell+E340+dual+camera) is the video doorbell without subscription we'd choose first. It has two cameras: one for faces and one pointed down at packages. Clips save to built-in local storage, and it can run on its battery, which matters because most apartment doors have no doorbell wiring.
 
-### eufy Video Doorbell S220: best battery value
+### eufy Security Video Doorbell C31 (2K, Battery or Wired): best removable battery
 
-The [eufy Video Doorbell S220](amzn:eufy+Video+Doorbell+S220+battery) is a simpler battery doorbell from eufy with local storage and no monthly fee. It stores clips on eufy's HomeBase, an indoor hub, rather than on the doorbell itself, so check whether your bundle includes one.
+The [eufy Security Video Doorbell C31](amzn:eufy+Security+Video+Doorbell+C31) is the simpler, single-camera sibling of the E340. Where the E340 adds a second downward camera and 8GB of built-in storage, the C31 has one 2K camera with a tall 4:3 head-to-toe view and saves clips to a microSD card of up to 128GB (check whether your kit includes one). It needs no HomeBase, though it can pair with eufy's HomeBase S280, S380 or HomeBase 3 if you already own one. Its 6500mAh battery pack pops out, so you can charge it indoors; on doorbell wiring it can record 24/7. It works with an existing wired chime or eufy's MiniBase Chime, sold separately. The catch for renters: the bracket and 15-degree wedge screw on, and eufy lists no no-drill mount, so ask first. It uses 2.4 GHz Wi-Fi and works with Alexa and Google Assistant, but not Apple HomeKit. Owners on eufy's forum report the bottom sometimes won't click into the mount and occasional missed alerts.
 
 ### Tapo D210: best budget pick
 
@@ -314,4 +357,4 @@ If any of these matter to you, read the manufacturer's current feature list, sin
 
 ## Our verdict
 
-**The eufy Video Doorbell E340 is the best video doorbell without subscription for most renters, the eufy S220 is the simple battery value, and the Tapo D210 is the budget pick.** All three keep your clips local, so the doorbell costs you once and never again.
+**The eufy Video Doorbell E340 is the best video doorbell without subscription for most renters, the eufy Security Video Doorbell C31 is the single-camera pick with a removable battery, and the Tapo D210 is the budget pick.** All three keep your clips local, so the doorbell costs you once and never again.

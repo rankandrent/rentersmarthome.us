@@ -1,9 +1,10 @@
 ---
-title: Best Smart Locks for Renters in 2026 (No Deadbolt Swap)
-seoTitle: 'Best Smart Lock for Renters (2026): Keep Your Deadbolt'
+title: Best Smart Locks for Renters in 2026 (Reversible Picks)
+seoTitle: 'Best Smart Lock for Renters (2026): Reversible Picks'
 description: >-
-  The best smart locks for renters install over your existing deadbolt, keep the
-  landlord's key working, and come off in minutes on move-out day.
+  The best smart locks for renters keep the landlord's key working or swap back
+  cleanly at move-out: three retrofit picks plus one full deadbolt that needs
+  approval.
 pubDate: '2026-10-10T14:00:00.000Z'
 category: smart-locks
 keyword: best smart lock for renters
@@ -20,7 +21,7 @@ entities:
   - August Wi-Fi Smart Lock
   - SwitchBot Lock Pro
   - Yale Approach
-  - Aqara U200
+  - Aqara Smart Lock U100
   - Matter
   - Apple Home Key
 tags:
@@ -42,8 +43,12 @@ tldr:
     The SwitchBot Lock Pro is the only true no-tools option because it sticks
     onto the thumbturn with adhesive.
   - >-
-    Keep the original thumbturn parts in a labeled bag and reinstall them before
-    you move out.
+    The Aqara Smart Lock U100 adds a fingerprint keypad and Apple Home Key, but
+    it replaces the whole deadbolt, so get written landlord approval and keep
+    the original deadbolt to reinstall at move-out.
+  - >-
+    Keep the original thumbturn or deadbolt parts in a labeled bag and
+    reinstall them before you move out.
 products:
   - name: August Wi-Fi Smart Lock (4th Gen)
     brand: August
@@ -167,7 +172,7 @@ products:
         - >-
           Included door magnet sensor unreliable on uneven frames or
           inward-opening doors
-        - Slower to unlock than the Aqara U200 in one comparison
+        - Slower to unlock than a rival Aqara retrofit lock in one comparison
       sources:
         - title: Ameridroid SwitchBot Lock Pro review
           url: 'https://ameridroid.com/blogs/ameriblogs/review'
@@ -234,56 +239,74 @@ products:
         - title: Tom's Guide Yale Approach review
           url: >-
             https://www.tomsguide.com/home/smart-home/yale-approach-smart-lock-review-a-great-retrofit-smart-lock
-  - name: Aqara Smart Lock U200
+  - name: Aqara Smart Lock U100 (Apple Home Key, Fingerprint Deadbolt)
     brand: Aqara
-    query: Aqara Smart Lock U200
-    badge: Best for Matter & Apple Home Key
+    query: Aqara Smart Lock U100 Apple Home Key Fingerprint Deadbolt
+    asin: B0BZSD2L1W
+    amazonTitle: >-
+      Aqara Smart Lock U100, Apple Home Key, Fingerprint Deadbolt, Gray |
+      Matter Over Thread, Keyless Entry Door Lock
+    matchName: Aqara Smart Lock U100
+    badge: Best for Apple Home Key (with landlord OK)
     summary: >-
-      A retrofit lock built around Matter over Thread, with Apple Home Key
-      support for tap-to-unlock with an iPhone or Apple Watch.
+      A full replacement deadbolt with a fingerprint keypad, Apple Home Key and
+      a mechanical key backup. The most feature-rich pick here, but it swaps
+      out the landlord's deadbolt, so it needs written permission.
     renterNote: >-
-      Installs over the existing deadbolt on the inside of the door; the
-      landlord's key still works outside.
+      Replaces the whole deadbolt, so get written landlord approval first, keep
+      the original deadbolt, keys and screws in a labeled bag, and reinstall
+      them at move-out. Fits pre-drilled doors with a 2-3/8 or 2-3/4 inch
+      backset; give your landlord a copy of the new key if your lease requires
+      access.
     pros:
-      - Matter over Thread for cross-platform control
-      - Apple Home Key support
-      - Includes a fingerprint keypad in some bundles
+      - Fingerprint reader and keypad codes on the outside of the door
+      - 'Apple Home Key works from an iPhone or Apple Watch, no hub needed'
+      - Mechanical keys and a USB-C emergency power port as backups
+      - Runs on four AA batteries
     cons:
       - >-
-        Thread needs a border router (e.g., a recent Apple TV, HomePod or Nest
-        hub)
-      - Larger interior unit
+        Swaps out the landlord's deadbolt; the original key no longer works
+        while it is installed
+      - >-
+        Remote access, Alexa, Google Home and Matter need an Aqara hub (Zigbee,
+        not Thread)
+      - >-
+        Owners report battery life well short of the rated 8 months and
+        occasional freezes that need a battery pull
     scores:
-      install: 7
-      reversibility: 8
-      value: 7
-      compatibility: 10
-      portability: 8
+      install: 5
+      reversibility: 7
+      value: 8
+      compatibility: 9
+      portability: 7
     scoreNote: >-
-      Retrofit lock with Matter over Thread and Apple Home Key; needs a Thread
-      border router.
+      Full deadbolt swap that needs landlord approval and may need the strike
+      hole widened; Apple Home direct, other platforms and Matter through an
+      Aqara hub.
     owners:
-      read: 5
+      read: 6
       praise:
-        - Fingerprint recognition reliable; mechanical key backup kept
-        - Matter over Thread and Apple Home Key support
+        - 'Fast, reliable fingerprint unlocking and instant Home Key taps'
+        - Many ways in (fingerprint, codes, Home Key, physical key)
       complaints:
         - >-
-          Auto-lock bugs and lock state sometimes misreported at launch; noisy
-          motor
+          Lock periodically stops responding to keypad, fingerprint and HomeKit
+          until the batteries are pulled
         - >-
-          Frustrating Matter pairing and shorter-than-expected battery life for
-          some
+          Battery life ranges from weeks to about six months, often below the
+          rated 8 months
+        - Full features and remote access depend on buying an Aqara hub
       sources:
-        - title: NextPit Aqara U200 review
-          url: 'https://nextpit.com/aqara-u200-smart-lock-review'
-        - title: TechHive Aqara U200 review
+        - title: Home Assistant Community Aqara U100 owner thread
+          url: 'https://community.home-assistant.io/t/aqara-u100-smart-lock/579805'
+        - title: Slickdeals Aqara Smart Lock U100 deal thread (owner comments)
           url: >-
-            https://www.techhive.com/article/2420130/aqara-smart-lock-u200-review-this-retrofit-lock-has-a-few-rough-edges.html
-        - title: Mighty Gadget Aqara U200 review
-          url: 'https://mightygadget.co.uk/?p=688336'
-        - title: Reviewed Aqara U200 review
-          url: 'https://reviewed.com/smarthome/content/aqara-u200-smart-lock-review'
+            https://slickdeals.net/f/18437020-aqara-smart-lock-u100-fingerprint-keyless-entry-door-lock-with-apple-home-key-124-99
+        - title: MacPowerUsers forum smart lock thread (U100 owner report)
+          url: >-
+            https://talk.macpowerusers.com/t/any-experience-with-the-aqara-u400-smart-lock/45812
+        - title: ShopSavvy Aqara Smart Lock U100 review summary
+          url: 'https://shopsavvy.com/reviews-tldr/aqara-smart-lock-u100'
 sources:
   - title: August Home (manufacturer)
     url: 'https://august.com/'
@@ -291,8 +314,16 @@ sources:
     url: 'https://www.switch-bot.com/'
   - title: Yale Approach Lock with Wi-Fi
     url: 'https://shopyalehome.com/'
-  - title: Aqara Smart Lock U200
-    url: 'https://www.aqara.com/'
+  - title: Aqara Smart Lock U100 user manual (Seam device database copy)
+    url: >-
+      https://www.seam.co/img/device-db/aqara/manuals/aqara_smart-lock-u100_user_manual.pdf
+  - title: Aqara Smart Lock U100 specifications (Wellbots)
+    url: 'https://www.wellbots.com/products/aqara-smart-lock-u100'
+  - title: 'Aqara Introduces its First Deadbolt Smart Lock U100 (Business Wire)'
+    url: >-
+      https://www.businesswire.com/news/home/20230608005033/en/Aqara-Introduces-its-First-Deadbolt-Smart-Lock-U100
+  - title: HomeKit News Aqara Smart Lock U100 review
+    url: 'https://homekitnews.com/2023/06/14/aqara-smart-lock-u100-review/'
   - title: 'Matter standard overview, Connectivity Standards Alliance'
     url: 'https://csa-iot.org/all-solutions/matter/'
 reviewedDate: '2026-10-14T00:00:00.000Z'
@@ -311,22 +342,32 @@ faqs:
       and double-cylinder deadbolts generally are not supported.
   - q: What happens if a smart lock battery dies?
     a: >-
-      Every retrofit smart lock in this guide warns you in the app weeks before
-      the batteries run out. Because the exterior keyhole is untouched, you can
-      always use your physical key if the batteries die completely.
+      The locks in this guide warn you in their apps before the batteries run
+      out. With the three retrofit locks the exterior keyhole is untouched, so
+      your physical key still works. The Aqara U100 ships with its own
+      mechanical keys and has a USB-C port for emergency power from outside.
   - q: How do I remove a smart lock when I move out?
     a: >-
-      Unscrew or peel off the smart lock, reinstall the original thumbturn and
-      mounting plate you saved, and test the deadbolt with your key. The whole
-      process usually takes 10 to 15 minutes.
+      Unscrew or peel off a retrofit smart lock, reinstall the original
+      thumbturn and mounting plate you saved, and test the deadbolt with your
+      key. For a full replacement like the Aqara U100, remove it and reinstall
+      the landlord's original deadbolt, strike plate and screws, then confirm
+      the original key works.
   - q: Is a stick-on smart lock as secure as a retrofit lock?
     a: >-
       Both types leave the deadbolt itself unchanged, so the physical strength
       of the door stays the same. Security differences come down to app account
       security, so enable two-factor authentication whichever lock you choose.
+  - q: Can a renter install a smart lock that replaces the deadbolt?
+    a: >-
+      Only with written landlord approval. A full smart deadbolt such as the
+      Aqara Smart Lock U100 swaps out the landlord's deadbolt, so the original
+      key stops working while it is installed. Keep the original deadbolt,
+      keys and screws, give the landlord a key if your lease requires access,
+      and reinstall the original before move-out.
 heroImage: /images/featured/best-smart-lock-for-renters.png
 heroAlt: >-
-  Best Smart Locks for Renters in 2026 (No Deadbolt Swap): RenterSmartHome
+  Best Smart Locks for Renters in 2026 (Reversible Picks): RenterSmartHome
   buying guide
 related:
   - best-magnetic-cabinet-locks-for-renters
@@ -337,22 +378,23 @@ related:
 
 The best smart lock for renters is a **retrofit smart lock**: a smart lock that replaces only the interior thumbturn of your existing deadbolt, so the exterior keyhole, the bolt and your landlord's key all keep working. A retrofit smart lock gives you keyless entry, auto-lock and guest codes without re-keying, drilling, or risking your security deposit, and it moves with you to the next apartment.
 
-Below we break down the four smart locks that fit that renter brief, how to check deadbolt compatibility, what to ask your landlord, and how to put everything back on move-out day. Every pick keeps the original deadbolt in place, which is the single most important rule for a smart lock in a rental.
+Below we break down four smart locks for renters, how to check deadbolt compatibility, what to ask your landlord, and how to put everything back on move-out day. The first three keep the original deadbolt in place, which is the safest rule for a smart lock in a rental. The fourth, the Aqara Smart Lock U100, replaces the deadbolt entirely, so it only makes sense with written landlord approval and the original hardware saved for move-out.
 
 ## What makes a smart lock renter-friendly?
 
-**A renter-friendly smart lock leaves the landlord-owned deadbolt hardware in place and is fully reversible in under 15 minutes.** That rules out most full-replacement smart deadbolts, which swap the exterior keyed cylinder and lock out the landlord's master key.
+**A renter-friendly smart lock leaves the landlord-owned deadbolt hardware in place and is fully reversible in under 15 minutes.** Full-replacement smart deadbolts swap the exterior keyed cylinder and lock out the landlord's master key, so they belong on a rental door only with written permission and the original deadbolt kept for move-out.
 
-There are two renter-safe smart lock designs:
+There are two renter-safe smart lock designs, plus one that needs permission:
 
-- **Retrofit smart locks** (August, Yale Approach, Aqara U200) remove two screws and the interior thumbturn, then mount the motorized unit onto the existing deadbolt's tailpiece. The deadbolt, strike plate and exterior keyhole stay untouched.
+- **Retrofit smart locks** (August, Yale Approach) remove two screws and the interior thumbturn, then mount the motorized unit onto the existing deadbolt's tailpiece. The deadbolt, strike plate and exterior keyhole stay untouched.
 - **Stick-on smart locks** (SwitchBot Lock Pro) mount over the thumbturn with adhesive and rotate it mechanically. No part of the lock is disassembled at all.
+- **Full-replacement smart deadbolts** (Aqara Smart Lock U100) replace the whole deadbolt, inside and out. Use one only with landlord approval, and keep the original deadbolt to reinstall.
 
 | Smart lock type | Tools needed | Landlord key still works | Typical removal time |
 | --- | --- | --- | --- |
 | Retrofit smart lock | Screwdriver | Yes | 10–15 minutes |
 | Stick-on smart lock | None | Yes | 5 minutes |
-| Full-replacement smart deadbolt | Screwdriver, sometimes drill | No (new cylinder) | 20–30 minutes |
+| Full-replacement smart deadbolt (Aqara U100) | Screwdriver, sometimes a chisel for the strike | No (new cylinder) | 20–30 minutes |
 
 If you are browsing smart locks for an apartment, filter for "retrofit" or "fits over existing deadbolt" in the product description. Those phrases are the fastest way to spot a lease-friendly smart lock.
 
@@ -376,11 +418,11 @@ The [Yale Approach Lock](amzn:Yale+Approach+Lock+with+Wi-Fi) is Yale's retrofit 
 
 Like other retrofit smart locks, the Yale Approach mounts over the existing deadbolt from the inside of the door, so the landlord's key keeps working and the original thumbturn goes back on when you leave.
 
-### Aqara Smart Lock U200: best for Matter and Apple Home Key
+### Aqara Smart Lock U100 (Apple Home Key, Fingerprint Deadbolt): best for Apple Home Key
 
-The [Aqara Smart Lock U200](amzn:Aqara+Smart+Lock+U200) is the retrofit smart lock to pick if you want a future-proof, platform-neutral setup. The Aqara U200 speaks Matter over Thread, so the same smart lock works in Apple Home, Google Home, Amazon Alexa and SmartThings, and it supports Apple Home Key for tap-to-unlock with an iPhone or Apple Watch.
+The [Aqara Smart Lock U100](amzn:Aqara+Smart+Lock+U100+Apple+Home+Key+Fingerprint+Deadbolt) is the only pick here that is not a retrofit: it is a complete deadbolt with a fingerprint reader and keypad outside and a motorized unit inside. That gives you more ways in than any other lock in this guide, including fingerprints, keypad codes, Apple Home Key from an iPhone or Apple Watch, and two mechanical keys, plus a USB-C port for emergency power if the four AA batteries run flat.
 
-Thread requires a Thread border router, which many renters already own in the form of a recent Apple TV, HomePod mini, or Nest hub. If you don't have one, factor it into the cost.
+The catch for renters is the install. You remove the landlord's deadbolt and fit Aqara's in its place, so get written permission first, keep the original deadbolt and its keys, and reinstall them before you hand back the apartment. It fits pre-drilled doors with a 2-3/8 or 2-3/4 inch backset, though one reviewer had to widen the strike hole. Apple Home works directly; Alexa, Google Home, Matter and remote access go through an Aqara hub over Zigbee, not Thread. Owners on the Home Assistant forum report occasional freezes and shorter battery life than the rated 8 months.
 
 ## How to check if a smart lock fits your deadbolt
 
@@ -390,7 +432,7 @@ Thread requires a Thread border router, which many renters already own in the fo
 2. **Find the deadbolt brand.** It is usually stamped on the latch faceplate on the edge of the door (Kwikset, Schlage, Baldwin, Weiser and so on).
 3. **Measure clearance.** Retrofit smart locks need room around the thumbturn; a door handle mounted very close to the deadbolt can block the smart lock body.
 4. **Test the bolt.** The deadbolt should extend and retract smoothly without pushing on the door. A smart lock motor struggles with a sticky bolt, so ask maintenance to adjust the strike plate first.
-5. **Use the manufacturer's checker.** August, Yale and Aqara publish compatibility tools; SwitchBot lists supported thumbturn shapes.
+5. **Use the manufacturer's checker.** August and Yale publish compatibility tools, SwitchBot lists supported thumbturn shapes, and Aqara lists the backsets the U100 deadbolt fits (2-3/8 or 2-3/4 inch).
 
 ## Talking to your landlord about a smart lock
 
@@ -398,7 +440,7 @@ Thread requires a Thread border router, which many renters already own in the fo
 
 > "I'd like to install a retrofit smart lock on the inside of my front door. It replaces only the interior thumbturn, the existing deadbolt and exterior keyhole stay the same, and your key will continue to work. I'll reinstall the original part when I move out."
 
-Mention that the landlord's master key keeps working; for property managers, that point usually settles it. Keep the email reply with your lease documents. For more renter-safe security ideas, see our guide to the [best peephole cameras for apartments](/blog/best-peephole-camera-for-apartments/).
+Mention that the landlord's master key keeps working; for property managers, that point usually settles it. If you want a full smart deadbolt like the Aqara U100 instead, say so plainly: the original deadbolt comes out, you'll store it and reinstall it at move-out, and you'll hand over a copy of the new key if the lease requires landlord access. Keep the email reply with your lease documents. For more renter-safe security ideas, see our guide to the [best peephole cameras for apartments](/blog/best-peephole-camera-for-apartments/).
 
 ## Installing (and uninstalling) a retrofit smart lock
 
@@ -420,8 +462,8 @@ Uninstalling the smart lock is the same process in reverse. Reinstall the origin
 - Give guests time-limited codes or access instead of sharing your account.
 - Enable auto-lock with a short delay and use the door sensor so the lock never "locks" an open door.
 - Review the activity log after parties, moves or contractor visits.
-- Keep the firmware updated; Matter-based locks such as the Aqara U200 receive updates through their companion apps.
+- Keep the firmware updated through the lock's companion app, such as the Aqara Home app for the Aqara U100.
 
 ## Which smart lock should you buy?
 
-**For most renters, the August Wi-Fi Smart Lock is the best smart lock because it combines a true retrofit install with built-in Wi-Fi and support for every major assistant.** Choose the SwitchBot Lock Pro if your lease forbids touching the lock, the Yale Approach if keypad entry matters most, and the Aqara U200 if you're building a Matter and Apple Home setup that will follow you to every future apartment.
+**For most renters, the August Wi-Fi Smart Lock is the best smart lock because it combines a true retrofit install with built-in Wi-Fi and support for every major assistant.** Choose the SwitchBot Lock Pro if your lease forbids touching the lock, the Yale Approach if keypad entry matters most, and the Aqara Smart Lock U100 only if your landlord approves a full deadbolt swap and you want fingerprint entry plus Apple Home Key. Because it changes the most hardware, it ranks last for renters here.

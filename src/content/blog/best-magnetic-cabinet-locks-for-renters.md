@@ -21,9 +21,10 @@ entities:
   - security deposit
   - lease alterations clause
   - Safety 1st Adhesive Magnetic Lock System
-  - Jool Baby magnetic cabinet locks
-  - Dreambaby Adhesive Mag Lock
-  - Qdos Adhesive Magnet Lock
+  - Safety 1st Secure-to-Explore
+  - Vmaisi magnetic cabinet locks
+  - Dreambaby Adhesive Mag Locks
+  - Roving Cove ring key
 tags:
   - cabinet locks
   - baby proofing
@@ -41,10 +42,10 @@ tldr:
     invisible from outside and opens only with a magnetic key.
   - >-
     The Safety 1st Adhesive Magnetic Lock System (4 Locks and 1 Key) is our best
-    overall starter kit; the 8-lock HS294 covers a full kitchen.
+    overall starter kit; Safety 1st's 12-lock, 2-key kit covers a full kitchen.
   - >-
-    Jool Baby's 12-lock kit is adhesive-only with no screws, which suits renters
-    who cannot drill at all.
+    Vmaisi's 12-lock kit is sold as an adhesive, no-drill install, and Roving
+    Cove's 12-lock kit adds a test tape step and a one-handed ring key.
   - >-
     Particle board cabinets usually need screws, and adhesive must come off
     slowly at move-out, so test a hidden spot first.
@@ -110,43 +111,57 @@ products:
         - title: Navy Exchange Safety 1st Adhesive Magnetic Lock System
           url: >-
             https://www.mynavyexchange.com/safety-1st-adhesive-magnetic-lock-system/13404448
-  - name: Safety 1st Adhesive Magnetic Lock System (8 Locks and 2 Keys) HS294
+  - name: 'Safety 1st Adhesive Magnetic Cabinet Locks (12 Locks, 2 Keys)'
     brand: Safety 1st
-    query: Safety 1st Adhesive Magnetic Lock System 8 locks 2 keys
+    query: Safety 1st Adhesive Magnetic Cabinet Locks 12 Locks 2 Keys
+    asin: B0D5J465SM
+    amazonTitle: >-
+      Safety 1st Adhesive Magnetic Cabinet Locks, Includes 12 Child Locks for
+      Cabinets & Drawers, 2 Keys, White
+    matchName: Safety 1st Adhesive Magnetic Cabinet Locks 12 Locks 2 Keys
     badge: Best for a full kitchen
     summary: >-
-      An eight-lock, two-key kit for childproofing a whole kitchen and bathroom.
-      Peel-and-stick installation with a template and no tools on most surfaces.
+      A 12-lock, two-key size of Safety 1st's Secure-to-Explore adhesive
+      magnetic system, enough for a full kitchen plus a bathroom vanity. Locks
+      mount inside the door with 3M adhesive and a plastic template.
     renterNote: >-
-      Peel-and-stick with no tools, but particle board needs the included
-      screws, so check which cabinets are solid enough for adhesive only.
+      Adhesive mount with no drilling on most cabinets; Safety 1st says
+      adhesive can't be guaranteed on particle board, old paint or oily
+      surfaces, where the included screws are the fallback.
     pros:
-      - 'Peel-and-stick with no tools, per Safety 1st'
       - 'Two keys, so a spare for a caregiver'
-      - Template included for alignment
+      - Push-lever lets you disengage a lock when it is not needed
+      - Plastic template included for alignment
     cons:
-      - Particle board requires screws
+      - 'Particle board, old paint and oily surfaces may need screws'
+      - Losing both keys leaves the locks shut until you buy replacements
       - No published guidance on removing the adhesive
     scores:
       install: 9
       reversibility: 7
       value: 8
       portability: 9
-    scoreNote: Same adhesive install as the 4-lock kit with better coverage per kit.
+    scoreNote: >-
+      Adhesive mount with no drilling on most cabinets; screws for weak
+      surfaces leave holes, and removal guidance isn't published.
     owners:
-      read: 2
+      read: 3
       praise:
-        - Flush fit with no give when installed well
-        - Locks worked flawlessly for some owners (screw-mount sibling)
+        - Owners call the adhesive very durable once cured
+        - One owner says an older set was still working after about ten years
       complaints:
-        - 'Lost key leaves you stuck, so owners advise a spare'
-        - Particle board needs screws; no HS294-specific complaints found
+        - >-
+          Lost keys mean buying replacements; one owner bought a new set after
+          losing theirs
       sources:
-        - title: Safety 1st HS294 product page
+        - title: eBay owner reviews of the Safety 1st adhesive magnetic lock system
+          url: 'https://ebay.com/p/14017646584'
+        - title: Safety 1st Secure-to-Explore replacement keys (HS405)
           url: >-
-            https://safety1st.com/products/adhesive-magnetic-lock-system-8-locks-and-2-keys-hs294
-        - title: Walmart Safety 1st magnetic locks
-          url: 'https://www.walmart.com/ip/401849156'
+            https://safety1st.com/products/secure-to-explore-adhesive-magnetic-lock-keys-2-pack-hs405
+        - title: Sam's Club Safety 1st Secure-to-Explore Adhesive Locks (12 locks)
+          url: >-
+            https://www.samsclub.com/ip/safety-1st-secure-to-explore-adhesive-locks-12-locks-white/13636904161
   - name: >-
       Safety 1st Secure-to-Explore Adhesive Magnetic Locks (20 Locks, 2 Keys)
       HS402
@@ -177,106 +192,148 @@ products:
       Safety 1st Adhesive Magnetic Cabinet Locks, Includes 20 Child Locks for
       Cabinets & Drawers, 2 Keys, White
     matchName: Safety 1st Adhesive Magnetic Cabinet Locks 20 Locks 2 Keys
-  - name: 'Jool Baby Magnetic Cabinet Locks (12 Locks, 2 Keys)'
-    brand: Jool Baby
-    query: Jool Baby magnetic cabinet locks 12 locks 2 keys
+  - name: Vmaisi Adhesive Magnetic Cabinet Locks (12 Locks and 2 Keys)
+    brand: Vmaisi
+    query: Vmaisi Adhesive Magnetic Cabinet Locks 12 Locks and 2 Keys
+    asin: B07B47PDB4
+    amazonTitle: >-
+      Vmaisi Adhesive Magnetic Cabinet Locks (12 Locks and 2 Keys) | Keeps
+      dangerous things away from kids
+    matchName: Vmaisi Adhesive Magnetic Cabinet Locks 12 Locks 2 Keys
     badge: Best multi-pack value
     summary: >-
-      A 12-lock, two-key kit that uses 3M adhesive and an installation tool,
-      with no screws or extra tools. Fits cabinets up to 1.4 inches thick.
+      A 12-lock, two-key adhesive kit sold for no-drill installs. Listings
+      describe 3M adhesive mounting and a key that works through doors up to
+      about 2 inches thick.
     renterNote: >-
-      Adhesive-only install with no screws, so it suits renters who cannot
-      drill.
+      Sold as an adhesive kit with no drilling, so it suits renters who want to
+      avoid screw holes; keep locks away from metal hinges and screws.
     pros:
-      - 3M adhesive and installation tool included
-      - Fits cabinets up to 1.4 inches thick
-      - 'Also keeps pets out, per Babylist'
+      - 'Twelve locks and two keys in one box'
+      - '3M adhesive mount with no drilling, per retailer listings'
+      - 'Key works through doors up to about 2 inches thick, per listings'
     cons:
-      - Some owners report the adhesive can let go
-      - Specs come from retailer listings only
+      - Metal hinges or screws near the lock can stop it working
+      - Owners say a replacement key can be weaker than the original
+      - Specs come from retailer listings and reviews only
     scores:
       install: 9
       reversibility: 7
       value: 8
       portability: 9
-    scoreNote: Adhesive-only install; specs from retailer pages only.
+    scoreNote: >-
+      Adhesive-only install with no drilling; specs come from retailer pages,
+      not a maker spec sheet.
     owners:
-      read: 3
+      read: 4
       praise:
-        - Install took about 10 minutes with strong magnet and adhesive hold
-        - Child could not open cabinets once installed
+        - Quick adhesive install with no locks disengaging or falling off
+        - Locks stay hidden from outside the cabinet
       complaints:
-        - Adults need a few weeks to get used to the magnet
-        - 'Adhesive may weaken near heat, per one roundup'
+        - >-
+          Losing the key is the biggest risk, and one buyer found a replacement
+          key much weaker than the original
+        - Metal parts near the lock can block the magnet
       sources:
-        - title: Babylist Jool Baby Magnetic Cabinet Locks
-          url: >-
-            https://babylist.com/gp/jool-baby-magnetic-cabinet-locks-12-locks-2-keys/26634/1270808
-        - title: Target Jool Baby Magnetic Cabinet Locks
-          url: >-
-            https://target.com/p/jool-baby-products-magnetic-cabinet-locks-12ct/-/A-86180370
-  - name: Dreambaby Adhesive Mag Lock (4 Locks + 1 Key)
+        - title: Desertcart Vmaisi magnetic cabinet locks reviews
+          url: 'https://www.desertcart.com.cy/products/77218708'
+        - title: Desertcart Vmaisi replacement key reviews
+          url: 'https://www.desertcart.com.cy/products/79819820'
+        - title: BabyGearLab best cabinet locks
+          url: 'https://babygearlab.com/topics/nursery-furniture/best-cabinet-locks'
+  - name: 'Dreambaby Adhesive Mag Locks (8-Pack, 1 Key) L859'
     brand: Dreambaby
-    query: Dreambaby Adhesive Mag Lock 4 locks 1 key
+    query: Dreambaby Adhesive Mag Locks 8-Pack 1 Key L859
+    asin: B00LW3CANY
+    amazonTitle: >-
+      Dreambaby Adhesive Mag locks (8-Pack 1 Key) - Child Proofing Cabinet
+      Magnetic Latches - White- Model L859
+    matchName: Dreambaby Adhesive Mag locks 8-Pack 1 Key
     badge: Best alternative brand
     summary: >-
-      A four-lock adhesive magnetic set with a magnetic key, mounted inside the
-      cabinet or drawer with a template. The lock can be set to stay disengaged
-      when not needed.
+      An eight-lock adhesive magnetic set with one key, mounted inside cabinets
+      and drawers with a template. Each lock has a red and green EZY-Check
+      indicator and can be disengaged when not needed.
     renterNote: >-
-      Adhesive mount with no drilling; stick with adhesive where you can to
-      avoid holes.
+      Adhesive mount with no drilling, which retailers say suits rentals and
+      fine furniture; one listing mentions optional screws, so use adhesive
+      where it holds.
     pros:
-      - Can be set to stay disengaged when not needed
+      - Red and green indicator shows whether each lock is engaged
+      - Can be disengaged when not needed
       - Installs inside furniture with a template
-      - Each lock has a disengage setting for when it is not needed
     cons:
-      - Some owners say the template is fiddly to line up
-      - The key takes some practice at first
+      - Only one key for eight locks
+      - Owners say the key takes some effort until you get the hang of it
     scores:
-      install: 8
+      install: 9
       reversibility: 7
       value: 7
       portability: 9
-    scoreNote: Adhesive install; alignment reports lower the install score slightly.
+    scoreNote: >-
+      Adhesive install with no drilling; value held back by a single key for
+      eight locks.
     owners:
       read: 3
       praise:
-        - 'Concealed, drill-free install that suits cabinets and drawers'
-        - Can be set to stay disengaged when needed
+        - Installs with no screws or tools
+        - Owners find the locks secure once in place
       complaints:
-        - Key is tricky at first; listen for the click
-        - Some say locks would not stick; no spare key included
+        - No spare key is included
+        - Key can be fiddly and is easy to lose
       sources:
+        - title: Walmart Dreambaby Adhesive Mag Lock 8-lock reviews
+          url: 'https://www.walmart.com/ip/40466939'
+        - title: Walmart Dreambaby Adhesive Mag Lock 4-lock reviews
+          url: 'https://www.walmart.com/ip/40466946'
         - title: Babylist Dreambaby Magnetic Locking System
           url: >-
             https://www.babylist.com/gp/dreambaby-magnetic-locking-system/26092/1236002
-        - title: Walmart customer reviews
-          url: 'https://www.walmart.com/ip/40466946'
-          reviews: 63
-  - name: Qdos Adhesive Magnet Lock (4 Pack)
-    brand: Qdos
-    query: Qdos adhesive magnet lock 4 pack
+          reviews: 57
+  - name: 'Roving Cove Ergonomic Magnetic Cabinet Locks (12 Locks, 2 Keys)'
+    brand: Roving Cove
+    query: Roving Cove Ergonomic Magnetic Cabinet Baby Proof Locks 12-Lock 2-Ring Key
+    asin: B08QM8S494
+    amazonTitle: >-
+      Roving Cove Ergonomic Magnetic Cabinet Baby Proof Locks, 12-Lock 2-Ring
+      Key | Child Safety Cabinet Drawer Lock
+    matchName: Roving Cove Ergonomic Magnetic Cabinet Baby Proof Locks 12-Lock
     badge: Best for easy alignment
     summary: >-
-      A four-pack adhesive magnet lock with the Qdos Perfect-Installation Tool
-      to line up the catch and lock without removing drawers.
+      A 12-lock kit with two ring keys and a Starter-Tape system: you test each
+      position with white tape, then mount with pre-applied red 3M adhesive. The
+      ring key slips on a finger for one-handed opening.
     renterNote: >-
-      Installs with adhesive, so you don't remove drawers or drill; certain
-      cabinet designs need one screw.
+      Pre-taped 3M adhesive with no drilling and no template; screws are an
+      option, but adhesive avoids holes. Not for metal cabinets or drawers.
     pros:
-      - Perfect-Installation Tool helps alignment
-      - No drawer removal or drilling
-      - Four locks per pack
+      - Starter-Tape lets you test placement before the permanent tape
+      - Ring key opens the door one-handed
+      - 'Key works through 1.5 inches of solid wood, per Roving Cove'
     cons:
-      - Some buyers report adhesive failures
-      - Certain cabinet designs need a screw
+      - Not compatible with metal cabinets or drawers
+      - One owner found some included screws spun freely
     scores:
-      install: 8
+      install: 9
       reversibility: 7
-      value: 7
+      value: 8
       portability: 9
-    scoreNote: Adhesive install with an alignment tool; mixed reports on hold.
+    scoreNote: >-
+      Pre-taped adhesive with a test step; screws are optional and leave holes
+      only if you use them.
+    owners:
+      read: 2
+      praise:
+        - One-handed ring key that stays on your finger
+        - A reviewer named it their top pick for baby proofing and drawers
+      complaints:
+        - One buyer said some screws kept spinning instead of biting
+      sources:
+        - title: e1up Roving Cove magnetic lock review and install
+          url: 'https://e1up.com/Roving-Cove-Magnetic-Lock-Review-and-Install'
+        - title: Roving Cove 12-lock product page
+          url: >-
+            https://www.rovingcove.com/products/roving-cove-magnetic-cabinet-drawer-lock-for-child-safety-baby-proof-cabinets-and-drawers-3m-adhesive-pre-taped-12-locks-2-ring-keys
 sources:
   - title: Safety 1st Adhesive Magnetic Lock System (Ace Hardware)
     url: >-
@@ -284,22 +341,29 @@ sources:
   - title: Safety 1st Secure-to-Explore 4-Lock Set (Do it Best)
     url: >-
       https://www.doitbest.com/product/884456/safety-1st-secure-to-explore-adhesive-magnetic-lock-system-4-lock-set-884456/
-  - title: Safety 1st HS294
-    url: >-
-      https://safety1st.com/products/adhesive-magnetic-lock-system-8-locks-and-2-keys-hs294
   - title: Safety 1st HS402
     url: >-
       https://safety1st.com/products/secure-to-explore-adhesive-magnetic-locks-20-locks-2-keys-hs402
-  - title: Jool Baby Magnetic Cabinet Locks (Babylist)
+  - title: Safety 1st Secure-to-Explore Adhesive Locks, 12 locks (Sam's Club)
     url: >-
-      https://babylist.com/gp/jool-baby-magnetic-cabinet-locks-12-locks-2-keys/26634/1270808
-  - title: Dreambaby Magnetic Locking System (Babylist)
+      https://www.samsclub.com/ip/safety-1st-secure-to-explore-adhesive-locks-12-locks-white/13636904161
+  - title: Safety 1st Home Safety Help Center
+    url: 'https://safety1st.com/pages/home-safety-help-center'
+  - title: Safety 1st Secure-to-Explore Adhesive Magnetic Lock System (Momease)
     url: >-
-      https://www.babylist.com/gp/dreambaby-magnetic-locking-system/26092/1236002
-  - title: Dreambaby Adhesive Mag Lock (Kidoozi)
-    url: 'https://kidoozi.com/products/dreambaby-adhesive-mag-lock'
-  - title: Qdos Adhesive Magnet Lock 4 Pack (Albee Baby)
-    url: 'https://www.albeebaby.com/qdos-adhesive-magnet-lock-4-pack-white.html'
+      https://www.momease.ca/products/safety-1st-secure-to-explore-adhesive-magnetic-lock-system
+  - title: Best Cabinet Locks (BabyGearLab)
+    url: 'https://babygearlab.com/topics/nursery-furniture/best-cabinet-locks'
+  - title: Dreambaby Adhesive Mag Locks 8 Locks, 1 Key (ClassWallet)
+    url: >-
+      https://classroom-resources.classwallet.com/gear/37072-adhesive-mag-locks-8-locks-1-key-878931008590.html
+  - title: Dreambaby Adhesive Mag Lock 8 Locks 1 Key (Woolworths)
+    url: 'https://www.woolworths.com.au/shop/productdetails/1122750099'
+  - title: Roving Cove Magnetic Cabinet Drawer Lock, 12 Locks 2 Ring Keys
+    url: >-
+      https://www.rovingcove.com/products/roving-cove-magnetic-cabinet-drawer-lock-for-child-safety-baby-proof-cabinets-and-drawers-3m-adhesive-pre-taped-12-locks-2-ring-keys
+  - title: Best Cabinet Locks guide (Fuhrmann Management)
+    url: 'https://fuhrmannmanagement.com/best-cabinet-locks/'
 reviewedDate: '2026-10-15'
 faqs:
   - q: Do magnetic cabinet locks damage cabinets?
@@ -315,9 +379,9 @@ faqs:
       isopropyl alcohol or a residue remover after testing it on a hidden spot.
   - q: Can magnetic cabinet locks be installed without drilling?
     a: >-
-      Yes, on most solid cabinets. Kits like the Safety 1st and Jool Baby sets
-      mount with 3M adhesive and a template, but particle board and some cabinet
-      designs still call for a screw.
+      Yes, on most solid cabinets. Kits like the Safety 1st, Vmaisi and Roving
+      Cove sets mount with 3M adhesive, but particle board, old paint and some
+      cabinet designs may still call for a screw.
   - q: Are adhesive cabinet locks safe for a rental security deposit?
     a: >-
       They are usually the lowest-risk option short of a strap lock, as long as
@@ -343,20 +407,20 @@ Magnetic cabinet locks are the closest thing to invisible baby proofing a renter
 
 ## The best magnetic cabinet locks for renters at a glance
 
-**The best magnetic cabinet locks for renters are the Safety 1st Adhesive Magnetic Lock System (4 Locks and 1 Key) for most apartments and the Jool Baby 12-lock kit if you cannot use screws at all.** Everything here is an adhesive magnetic cabinet lock, so the lock hides inside the cabinet and nothing shows from the outside.
+**The best magnetic cabinet locks for renters are the Safety 1st Adhesive Magnetic Lock System (4 Locks and 1 Key) for most apartments and the Safety 1st 12-lock, 2-key kit for a full kitchen.** Everything here is an adhesive magnetic cabinet lock, so the lock hides inside the cabinet and nothing shows from the outside.
 
 Here is how I would match the six picks to a rental:
 
 - **Small kitchen or bathroom:** Safety 1st 4-lock kit, our best overall.
-- **Full kitchen plus bathroom:** Safety 1st HS294 with 8 locks and 2 keys.
+- **Full kitchen plus bathroom:** Safety 1st 12-lock kit with 2 keys.
 - **Larger apartment or house rental:** Safety 1st HS402 with 20 locks.
-- **Strict no-screws rental:** Jool Baby 12-lock kit, adhesive only.
-- **Second-brand option or temporary use:** Dreambaby Adhesive Mag Lock, which can be set to stay disengaged.
-- **Drawers you do not want to pull out:** Qdos Adhesive Magnet Lock with its alignment tool.
+- **Second brand at the same size:** Vmaisi 12-lock kit, sold as an adhesive, no-drill install.
+- **Temporary use or a second brand:** Dreambaby Adhesive Mag Locks 8-pack, which can be disengaged and shows a red or green indicator.
+- **Fussy alignment or one-handed opening:** Roving Cove 12-lock kit with its test tape and ring keys.
 
 ## Our picks: the best magnetic cabinet locks for renters
 
-**Each of these six magnetic cabinet locks mounts inside the door with adhesive and opens with a magnetic key; the differences are lock count, alignment tools and how each handles screws.** I have kept the notes to what the makers and retailers publish.
+**Each of these six magnetic cabinet locks mounts inside the door with adhesive and opens with a magnetic key; the differences are lock count, number of keys, alignment aids and how each handles screws.** I have kept the notes to what the makers and retailers publish.
 
 ### Safety 1st Adhesive Magnetic Lock System (4 Locks and 1 Key): Best overall
 
@@ -366,13 +430,13 @@ The magnetic key is a single loose piece you can store up high, out of a child's
 
 The renter catch: particle board cabinets need the included screws. If your cabinets are particle board, I would either skip those doors or accept small screw holes and plan to fill them. Retail listings also vary by lock count and model number, so double-check the pack before you buy.
 
-### Safety 1st Adhesive Magnetic Lock System (8 Locks and 2 Keys) HS294: Best for a full kitchen
+### Safety 1st Adhesive Magnetic Cabinet Locks (12 Locks, 2 Keys): Best for a full kitchen
 
-The [Safety 1st Adhesive Magnetic Lock System (8 Locks and 2 Keys) HS294](amzn:Safety+1st+Adhesive+Magnetic+Lock+System+8+locks+2+keys) is the same adhesive idea scaled up to cover a whole kitchen and bathroom. Safety 1st describes it as peel-and-stick with no tools on most surfaces, with a template included to line up each lock and catch.
+The [Safety 1st Adhesive Magnetic Cabinet Locks (12 Locks, 2 Keys)](amzn:Safety+1st+Adhesive+Magnetic+Cabinet+Locks+12+Locks+2+Keys) is the same hidden, adhesive idea scaled up to cover a whole kitchen and a bathroom vanity. Retailers list it as a 12-lock size of Safety 1st's Secure-to-Explore adhesive magnetic system, the same family as the 20-lock HS402 below. Each lock mounts with 3M adhesive and a plastic alignment template, and a push-lever lets you disengage a lock during periods you do not need it, with an indicator to show it has re-engaged.
 
-The second key is the detail I like most for families. One key can live in the kitchen and one with a grandparent or babysitter, so nobody gets locked out of the cleaning cabinet. Eight locks also means fewer trips back to the store when you realize the drawer next to the stove needs one too.
+The second key is the detail I like most for families. One key can live in the kitchen and one with a grandparent or babysitter. Owners do report losing keys, so treat the spare as essential.
 
-The limits are the same as the smaller kit. Particle board requires the included screws, so check which cabinets are solid enough for adhesive only. Safety 1st does not publish guidance on removing the adhesive, so plan on the general move-out method I cover below rather than counting on a manufacturer procedure.
+The renter catch: Safety 1st's instructions say adhesive can't be guaranteed on particle board, old paint or oily surfaces, and point you to the included screws there. Its help center also asks you to clean with alcohol and wait 24 hours before use. There is no published removal guidance, so plan on the move-out method below.
 
 ### Safety 1st Secure-to-Explore Adhesive Magnetic Locks (20 Locks, 2 Keys) HS402: Best for large homes
 
@@ -380,31 +444,31 @@ The [Safety 1st Secure-to-Explore Adhesive Magnetic Locks (20 Locks, 2 Keys) HS4
 
 Twenty locks is enough for a whole home in one kit: kitchen, both bathrooms, a laundry cabinet and a media console. Two keys come in the box, and the install is adhesive mounting rather than drilling on most cabinets, with the kit's instructions covering any materials that need screws.
 
-Honestly, this is more locks than a small apartment needs. If you are in a studio, I would buy the 4 or 8 lock kit instead. Like its siblings, it has no published removal guidance, so a slow peel at move-out is on you.
+Honestly, this is more locks than a small apartment needs. If you are in a studio, I would buy the 4 or 12 lock kit instead. Like its siblings, it has no published removal guidance, so a slow peel at move-out is on you.
 
-### Jool Baby Magnetic Cabinet Locks (12 Locks, 2 Keys): Best multi-pack value
+### Vmaisi Adhesive Magnetic Cabinet Locks (12 Locks and 2 Keys): Best multi-pack value
 
-The [Jool Baby Magnetic Cabinet Locks (12 Locks, 2 Keys)](amzn:Jool+Baby+magnetic+cabinet+locks+12+locks+2+keys) is the pick I would point to when your lease says no nails or screws at all. The retailer listing describes it as 3M adhesive plus an installation tool, with no screws or extra tools needed. That makes it a true no drill cabinet lock kit.
+The [Vmaisi Adhesive Magnetic Cabinet Locks (12 Locks and 2 Keys)](amzn:Vmaisi+Adhesive+Magnetic+Cabinet+Locks+12+Locks+and+2+Keys) is the pick I would point to when you want a full-kitchen pack from a second brand. Retailer listings describe a 3M adhesive mount with no drilling, which keeps it in the no drill cabinet lock camp for renters.
 
-The listing says it fits cabinets up to 1.4 inches thick, which is worth measuring before you order if you have chunky shaker doors. Babylist also notes it keeps pets out, a bonus if you have a cat that opens the cabinet under the sink.
+Listings say the key works through cabinet doors up to about 2 inches thick, and one reviewer found it released reliably through 1.5 inches of solid wood. BabyGearLab, reviewing Vmaisi's larger 20-lock kit, liked that the locks can be switched off when you do not need them.
 
-The downsides are real. Some owners report the adhesive can let go, which is the trade-off of having no screw backup. The specs also come from retailer listings only, not a manufacturer page, so I would treat the thickness figure as a guide and check your doors.
+The downsides are real. Metal hinge brackets, screws or handles near the lock can block the magnet, so test each spot with the key before you peel the tape. BabyGearLab calls losing the key the biggest risk, and one owner found a replacement key much weaker than the original, so keep both keys safe. Specs come from retailer listings and reviews only, not a maker spec sheet.
 
-### Dreambaby Adhesive Mag Lock (4 Locks + 1 Key): Best alternative brand
+### Dreambaby Adhesive Mag Locks (8-Pack, 1 Key) L859: Best alternative brand
 
-The [Dreambaby Adhesive Mag Lock (4 Locks + 1 Key)](amzn:Dreambaby+Adhesive+Mag+Lock+4+locks+1+key) is a solid second brand if the Safety 1st kits are out of stock. It is a four-lock adhesive magnetic set with a magnetic key, mounted inside the cabinet or drawer with a template.
+The [Dreambaby Adhesive Mag Locks (8-Pack, 1 Key) L859](amzn:Dreambaby+Adhesive+Mag+Locks+8-Pack+1+Key+L859) is a solid second brand if the Safety 1st kits are out of stock. It is an eight-lock adhesive magnetic set with one magnetic key, mounted inside the cabinet or drawer with a template, and retailers say it fits the top or side of most cabinets and drawers without screws.
 
-My favorite feature is that the lock can be set to stay disengaged when you do not need it. That is handy during nap time, when your child is at daycare, or when guests without kids are staying over. Retailers also describe a red and green indicator that shows whether each lock is engaged, which helps when you are checking cabinets in a hurry.
+My favorite feature is that each lock can be disengaged when you do not need it. That is handy during nap time, when your child is at daycare, or when guests without kids are staying over. The EZY-Check indicator shows red or green so you can see whether each lock is engaged, which helps when you are checking cabinets in a hurry.
 
-Some owners say the template is fiddly to line up, and the key takes some practice at first. For renters, the main advice is to stick with adhesive wherever it holds so you leave no holes behind.
+The catch is the key count: eight locks share a single key, and owners point out that no spare is included and that the key takes some effort at first. I would order a spare key before you need it. For renters, stick with adhesive wherever it holds so you leave no holes behind.
 
-### Qdos Adhesive Magnet Lock (4 Pack): Best for easy alignment
+### Roving Cove Ergonomic Magnetic Cabinet Locks (12 Locks, 2 Keys): Best for easy alignment
 
-The [Qdos Adhesive Magnet Lock (4 Pack)](amzn:Qdos+adhesive+magnet+lock+4+pack) stands out for its Perfect-Installation Tool, which helps line up the catch and the lock without removing drawers. Misalignment is the most common reason a magnetic lock fails to latch, so a dedicated tool is a real advantage.
+The [Roving Cove Ergonomic Magnetic Cabinet Locks (12 Locks, 2 Keys)](amzn:Roving+Cove+Ergonomic+Magnetic+Cabinet+Baby+Proof+Locks+12-Lock+2-Ring+Key) stands out for its Starter-Tape system. You first stick each lock with white test tape, check it with the key, then mount it for good with the pre-applied red 3M 4229P acrylic foam tape. Misalignment is the most common reason a magnetic lock fails to latch, so a test step is a real advantage, and no template is needed.
 
-It installs with adhesive, so there is no drilling and no pulling drawers off their slides, which can be awkward in older rental kitchens. Four locks come in each pack.
+The two ring keys slip onto a finger, so the same hand can unlock and pull the door. Roving Cove says the key's magnet works through 1.5 inches of solid wood.
 
-Be aware that some buyers report adhesive failures, and certain cabinet designs need one screw. If your cabinets fall in that group, I would choose a different cabinet for the lock or ask your landlord before adding a hole.
+Be aware that the system is not compatible with metal cabinets or drawers. Screws are an option, but one owner found some spun freely, so I would stick with the adhesive in a rental anyway.
 
 ## Magnetic cabinet locks compared
 
@@ -413,11 +477,11 @@ Be aware that some buyers report adhesive failures, and certain cabinet designs 
 | Lock kit | Locks / keys | Mounting | Screws needed? | Standout feature |
 |---|---|---|---|---|
 | Safety 1st 4-lock | 4 / 1 | 3M adhesive + template | Particle board | Widely stocked starter kit |
-| Safety 1st HS294 | 8 / 2 | Peel-and-stick + template | Particle board | Spare key for caregivers |
+| Safety 1st 12-lock | 12 / 2 | 3M adhesive + template | Particle board, old paint | Push-lever disengage |
 | Safety 1st HS402 | 20 / 2 | Adhesive | Check kit instructions | Whole-home coverage |
-| Jool Baby | 12 / 2 | 3M adhesive + install tool | No | Fits doors up to 1.4 in. |
-| Dreambaby | 4 / 1 | Adhesive + template | Not stated | Can stay disengaged |
-| Qdos | 4 / not listed | Adhesive + alignment tool | Some cabinet designs | No drawer removal |
+| Vmaisi | 12 / 2 | 3M adhesive | Not listed | Key works through doors up to about 2 in. |
+| Dreambaby | 8 / 1 | Adhesive + template | Not usually | Red/green lock indicator |
+| Roving Cove | 12 / 2 | Pre-taped 3M + test tape | Optional | One-handed ring key |
 
 ## How to choose adhesive magnetic cabinet locks
 
@@ -427,7 +491,7 @@ Be aware that some buyers report adhesive failures, and certain cabinet designs 
 
 Rental cabinets are usually laminate, thermofoil, painted wood or wood veneer, and each reacts differently to adhesive. Laminate tends to release adhesive most cleanly. Thermofoil, the thin vinyl skin on many budget cabinets, and painted wood can lift when adhesive comes off. Thin veneer can peel too.
 
-Measure door thickness as well. The Jool Baby kit lists cabinets up to 1.4 inches thick, and very thick doors or face-frame cabinets can make the latch and catch hard to line up. Doors with metal inside can also interfere with the magnetic key.
+Measure door thickness as well. Vmaisi listings say its key works through doors up to about 2 inches thick, and Roving Cove rates its ring key for 1.5 inches of solid wood, while very thick doors or face-frame cabinets can make the latch and catch hard to line up. Metal inside the door, or a hinge bracket or screw near the lock, can also interfere with the magnetic key.
 
 ### Adhesive type and cure time
 
@@ -435,7 +499,7 @@ Several of these kits use 3M adhesive, and adhesives like this can bond harder o
 
 ### Keys, pack size and drawers
 
-Count the cabinets and drawers you actually need to lock, then buy the nearest pack size. A second magnetic key matters if more than one adult cares for your child. If drawers are on your list, an alignment tool like the Qdos one saves you from pulling drawers out.
+Count the cabinets and drawers you actually need to lock, then buy the nearest pack size. A second magnetic key matters if more than one adult cares for your child; the Dreambaby 8-pack has only one, while the 12-lock Safety 1st, Vmaisi and Roving Cove kits include two. If drawers are fiddly to line up, a test step like Roving Cove's Starter-Tape lets you check placement before the permanent tape goes on.
 
 ## Do magnetic cabinet locks damage cabinets?
 
@@ -462,7 +526,7 @@ Before committing a whole kitchen, I would stick one catch on a hidden spot, suc
 
 Photos matter. If there is ever a deposit question, I would much rather show a clean before-and-after than argue from memory.
 
-> **From our notes:** When I lined up the product pages for these six kits, the thing that stood out was how rarely removal came up. Safety 1st spells out the template and the 3M adhesive, and both the HS294 and HS402 notes say there is no published guidance on getting the adhesive off. Several kits also mention screws for particle board or certain cabinet designs, which a renter can easily miss on a quick read. That is why I put the move-out steps and the test patch advice in this guide instead of assuming the box will cover them.
+> **From our notes:** When I lined up the product pages for these six kits, the thing that stood out was how rarely removal came up. Safety 1st spells out the template, the 3M adhesive and a 24-hour cure, and its instructions warn that adhesive can't be guaranteed on particle board or old paint, yet I found no published guidance on getting the adhesive off for either Safety 1st kit. Roving Cove describes its test tape and Vmaisi listings describe door thickness, but neither covers removal. Several kits also mention screws as a fallback, which a renter can easily miss on a quick read. That is why I put the move-out steps and the test patch advice in this guide instead of assuming the box will cover them.
 
 ## How adhesive magnetic locks come off on move-out
 
@@ -492,6 +556,6 @@ A U-shaped lock slides over two side-by-side handles, and a no-adhesive strap lo
 
 ## Our verdict
 
-**For most renters, the Safety 1st Adhesive Magnetic Lock System (4 Locks and 1 Key) is the best magnetic cabinet lock to start with, and the HS294 is the upgrade for a full kitchen.** If your lease rules out screws completely, I would go with the Jool Baby 12-lock kit.
+**For most renters, the Safety 1st Adhesive Magnetic Lock System (4 Locks and 1 Key) is the best magnetic cabinet lock to start with, and the Safety 1st 12-lock, 2-key kit is the upgrade for a full kitchen.** If you want the easiest alignment and a one-handed key, I would go with the Roving Cove 12-lock kit.
 
-Whatever you pick, my advice stays the same: test a hidden spot first, photograph everything, skip particle board doors unless your landlord agrees to screws, and take the adhesive off slowly on move-out day. Do that, and child proof cabinet locks without drilling can keep your toddler safe and your deposit intact. For the full manufacturer details, see the Safety 1st pages for the [HS294 kit](https://safety1st.com/products/adhesive-magnetic-lock-system-8-locks-and-2-keys-hs294) and the [HS402 kit](https://safety1st.com/products/secure-to-explore-adhesive-magnetic-locks-20-locks-2-keys-hs402).
+Whatever you pick, my advice stays the same: test a hidden spot first, photograph everything, skip particle board doors unless your landlord agrees to screws, and take the adhesive off slowly on move-out day. Do that, and child proof cabinet locks without drilling can keep your toddler safe and your deposit intact. For the full manufacturer details, see the Safety 1st page for the [HS402 kit](https://safety1st.com/products/secure-to-explore-adhesive-magnetic-locks-20-locks-2-keys-hs402) and Roving Cove's [12-lock kit page](https://www.rovingcove.com/products/roving-cove-magnetic-cabinet-drawer-lock-for-child-safety-baby-proof-cabinets-and-drawers-3m-adhesive-pre-taped-12-locks-2-ring-keys).

@@ -53,44 +53,57 @@ tldr:
     Photograph every wall, cabinet and door frame before you install anything,
     and keep the photos until your deposit comes back.
 products:
-  - name: Safety 1st Adhesive Magnetic Lock System (8 Locks and 2 Keys) HS294
+  - name: 'Safety 1st Adhesive Magnetic Cabinet Locks (12 Locks, 2 Keys)'
     brand: Safety 1st
-    query: Safety 1st Adhesive Magnetic Lock System 8 locks 2 keys
+    query: Safety 1st Adhesive Magnetic Cabinet Locks 12 Locks 2 Keys
+    asin: B0D5J465SM
+    amazonTitle: >-
+      Safety 1st Adhesive Magnetic Cabinet Locks, Includes 12 Child Locks for
+      Cabinets & Drawers, 2 Keys, White
+    matchName: Safety 1st Adhesive Magnetic Cabinet Locks 12 Locks 2 Keys
     badge: Best cabinet lock
     summary: >-
-      Peel-and-stick magnetic locks sit inside cabinets and drawers and open
-      only with a magnetic key.
+      Twelve adhesive magnetic locks and two keys from Safety 1st's
+      Secure-to-Explore line; the locks sit inside cabinets and drawers and
+      open only with a magnetic key.
     renterNote: >-
-      Installs with adhesive and no tools, but particle board needs the included
-      screws, so check your cabinet material first.
+      Installs with 3M adhesive and no drilling, but Safety 1st says adhesive
+      can't be guaranteed on particle board, old paint or oily surfaces, where
+      the included screws are the fallback.
     pros:
-      - Adhesive install with no tools on most cabinet materials
+      - Adhesive install with a template and no drilling on most cabinets
       - Hidden inside the cabinet
-      - Key can be stored out of a child's reach
+      - 'Two keys, so one can stay with a caregiver'
     cons:
-      - Particle board needs the included screws
+      - 'Particle board, old paint and oily surfaces may need screws'
       - Adults need the key every time
+      - Losing both keys means buying replacements
     scores:
-      install: 8
+      install: 9
       reversibility: 7
       value: 8
       portability: 9
-    scoreNote: 'Adhesive install, held back because some materials need screws.'
+    scoreNote: >-
+      Adhesive mount with no drilling on most cabinets; screws for weak
+      surfaces leave holes, and removal guidance isn't published.
     owners:
-      read: 4
+      read: 3
       praise:
-        - Owners say the locks work well and don't damage cabinets
-        - Adhesive mounting means no drilling for renters
+        - Owners call the adhesive very durable once cured
+        - One owner says an older set was still working after about ten years
       complaints:
         - >-
-          Adhesive may not hold on particle board, old paint or oily surfaces;
-          screws are needed there
+          Lost keys mean buying replacements; one owner bought a new set after
+          losing theirs
       sources:
-        - title: Safety 1st HS294 on eBay
-          url: 'https://www.ebay.com/p/26031753618'
-        - title: Safety 1st product page
+        - title: eBay owner reviews of the Safety 1st adhesive magnetic lock system
+          url: 'https://ebay.com/p/14017646584'
+        - title: Safety 1st Secure-to-Explore replacement keys (HS405)
           url: >-
-            https://safety1st.com/products/adhesive-magnetic-lock-system-8-locks-and-2-keys-hs294
+            https://safety1st.com/products/secure-to-explore-adhesive-magnetic-lock-keys-2-pack-hs405
+        - title: Sam's Club Safety 1st Secure-to-Explore Adhesive Locks (12 locks)
+          url: >-
+            https://www.samsclub.com/ip/safety-1st-secure-to-explore-adhesive-locks-12-locks-white/13636904161
   - name: Safety 1st Press Tab Plug Protectors
     brand: Safety 1st
     query: Safety 1st Press Tab Plug Protectors
@@ -374,9 +387,14 @@ products:
         - title: Ready America
           url: 'https://www.readyamerica.com/product/quakehold-furniture-strap/'
 sources:
-  - title: Safety 1st Adhesive Magnetic Lock System HS294 (Safety 1st)
+  - title: Safety 1st Secure-to-Explore Adhesive Locks, 12 locks (Sam's Club)
     url: >-
-      https://safety1st.com/products/adhesive-magnetic-lock-system-8-locks-and-2-keys-hs294
+      https://www.samsclub.com/ip/safety-1st-secure-to-explore-adhesive-locks-12-locks-white/13636904161
+  - title: Safety 1st Secure-to-Explore Adhesive Magnetic Locks HS402 (Safety 1st)
+    url: >-
+      https://safety1st.com/products/secure-to-explore-adhesive-magnetic-locks-20-locks-2-keys-hs402
+  - title: Safety 1st Home Safety Help Center
+    url: 'https://safety1st.com/pages/home-safety-help-center'
   - title: Safety 1st Plug Protectors (Target)
     url: >-
       https://www.target.com/p/safety-1st-174-plug-protectors-36pack/-/A-14061588
@@ -503,9 +521,9 @@ Every stair gate gets one of two answers: a pressure-mounted gate at the bottom 
 
 **These six products cover the main hazards in a typical apartment, and five of them install with no drilling at all.** I picked them from manufacturer documentation and retailer listings for what renters care about: how they attach and how cleanly they come off. Each one solves a specific problem above; skip any that don't fit your home.
 
-### Safety 1st Adhesive Magnetic Lock System (8 Locks and 2 Keys) HS294: hidden cabinet and drawer lock
+### Safety 1st Adhesive Magnetic Cabinet Locks (12 Locks, 2 Keys): hidden cabinet and drawer lock
 
-The [Safety 1st Adhesive Magnetic Lock System](amzn:Safety+1st+Adhesive+Magnetic+Lock+System+8+locks+2+keys) is the kind of cabinet lock I'd start with in a rental kitchen, because the whole thing lives inside the cabinet. Each lock attaches with adhesive and no tools, and the cabinet opens only when you hold a magnetic key against the outside of the door. That means no visible latch for a toddler to work out, and nothing on the cabinet face for your landlord to notice. The key can also be stored out of a child's reach, which matters because the magnet is the whole security system. The drawbacks are real, though. If your cabinets are particle board, the manufacturer says to use the included screws instead of adhesive, so check your cabinet material before you plan on a fully no-drill install. And adults need the key every single time, which takes some getting used to when you're cooking one-handed. If you want to compare this lock with other options, our [magnetic cabinet locks for renters roundup](/blog/best-magnetic-cabinet-locks-for-renters/) goes deeper.
+The [Safety 1st Adhesive Magnetic Cabinet Locks (12 Locks, 2 Keys)](amzn:Safety+1st+Adhesive+Magnetic+Cabinet+Locks+12+Locks+2+Keys) are the kind of cabinet lock I'd start with in a rental kitchen, because the whole thing lives inside the cabinet. Each lock attaches with 3M adhesive and a plastic template, and the cabinet opens only when you hold a magnetic key against the outside of the door. That means no visible latch for a toddler to work out, and nothing on the cabinet face for your landlord to notice. Twelve locks cover a typical kitchen plus a bathroom vanity, and the two keys let one stay with a caregiver. The drawbacks are real, though. Safety 1st says adhesive can't be guaranteed on particle board, old paint or oily surfaces and points you to the included screws there, so check your cabinet material before you plan on a fully no-drill install. Owners also report losing keys, and adults need the key every single time, which takes some getting used to when you're cooking one-handed. If you want to compare this lock with other options, our [magnetic cabinet locks for renters roundup](/blog/best-magnetic-cabinet-locks-for-renters/) goes deeper.
 
 ### Safety 1st Press Tab Plug Protectors: no-residue outlet covers
 

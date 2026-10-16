@@ -15,7 +15,7 @@ secondaryKeywords:
 entities:
   - voice assistant speaker for small apartments
   - Amazon Echo Dot (5th Gen)
-  - Amazon Echo Pop
+  - Amazon Echo Spot
   - Google Nest Mini
   - Apple HomePod mini
   - Alexa
@@ -36,7 +36,9 @@ tldr:
   - >-
     Choose the Google Nest Mini if your phone and calendar live in Google, and
     the Apple HomePod mini if you use an iPhone and Apple Home.
-  - The Amazon Echo Pop is the budget pick for a bedroom or kitchen.
+  - >-
+    The Amazon Echo Spot (newest model) is the bedside pick: an Alexa alarm
+    clock with a small touchscreen for a nightstand.
   - >-
     Keep speakers off shared walls and use the mute button when you want privacy
     from roommates.
@@ -105,50 +107,68 @@ products:
           url: >-
             https://www.lowes.com/reviews/amazon-b09b8v1lz3-smart-devices/5015278347
           reviews: 146
-  - name: Amazon Echo Pop
+  - name: Amazon Echo Spot (newest model)
     brand: Amazon
-    query: Amazon Echo Pop smart speaker
-    badge: Best budget pick
+    query: Amazon Echo Spot (newest model) smart alarm clock
+    asin: B0BFC7WQ6R
+    amazonTitle: >-
+      Amazon Echo Spot (newest model), Great for nightstands, offices and
+      kitchens, Smart alarm clock, Designed for Alexa+
+    matchName: Amazon Echo Spot
+    badge: Best for bedside
     summary: >-
-      Amazon's smallest, most affordable Alexa speaker, good for a bedroom,
-      bathroom shelf or kitchen counter.
-    renterNote: Half-sphere shape sits flat against a wall on a narrow shelf.
+      Amazon's Alexa smart alarm clock with a 2.83-inch touchscreen and a
+      1.73-inch front-firing speaker, built for a nightstand or desk.
+    renterNote: Sits on a nightstand and plugs into an outlet; no mounting.
     pros:
-      - Very compact
-      - Low price
-      - Full Alexa voice control
+      - '2.83-inch touchscreen shows the time, weather and alarms at a glance'
+      - Replaces a separate alarm clock on a small nightstand
+      - Controls Matter-over-Wi-Fi devices and has a microphone mute button
     cons:
-      - Fewer smart home extras than the Echo Dot
-      - 'Sound is fine for voice and podcasts, thinner for music'
+      - 'Screen glow can be noticeable in a dark bedroom, owners report'
+      - No camera and no temperature sensor, unlike the Echo Dot
+      - Larger and pricier than the Echo Dot; needs constant power
+    specs:
+      Display: '2.83-inch touchscreen, 320 x 240'
+      Speaker: 1.73-inch front-firing
+      Size: 'About 113 x 103 x 111 mm (4.4 x 4.1 x 4.4 in)'
+      Weight: About 405 g
+      Smart home: Matter over Wi-Fi; Zigbee hub not listed
+      Privacy: Microphone mute button; no camera
+      Power: 15 W adapter (included)
     scores:
       install: 10
       reversibility: 10
-      value: 9
+      value: 8
       compatibility: 8
       portability: 10
-    scoreNote: 'Smallest, cheapest Alexa speaker; fewer smart home extras.'
+    scoreNote: >-
+      Plug-in Alexa alarm clock with a small touchscreen and Matter over Wi-Fi;
+      costs more than the Echo Dot.
     owners:
-      read: 4
+      read: 5
       praise:
-        - 'Affordable, attractive and surprisingly loud for its size'
-        - Compact size and easy setup suit small spaces
+        - 'Clear display, compact design and easy setup on a dresser or nightstand'
+        - Sound quality and ease of use for alarms and voice requests
       complaints:
-        - Connectivity issues and sometimes unresponsive to commands
-        - Tinny or muddy at high volume; weaker than Echo Dot
+        - >-
+          Tap-to-snooze sometimes snoozes the alarm by itself after a few
+          seconds
+        - Screen can glow too much in a fully dark room even at low brightness
+        - Occasional Wi-Fi connectivity problems and freezes after setup
       sources:
-        - title: Reviewed Echo Pop review
-          url: 'https://reviewed.com/smarthome/content/amazon-echo-pop-review'
-        - title: Expert Reviews Echo Pop review
-          url: >-
-            https://www.expertreviews.co.uk/smart-speakers/1418764/amazon-echo-pop-review
         - title: Best Buy customer reviews
-          url: 'https://www.bestbuy.com/site/6544302.p'
-          reviews: 2118
-        - title: Target customer reviews
           url: >-
-            https://target.com/p/amazon-echo-pop-1st-gen-2023-release-full-sound-compact-smart-speaker-with-alexa-midnight-teal/-/A-89144779
-        - title: ShopSavvy Echo Pop review summary
-          url: 'https://shopsavvy.com/reviews-tldr/amazon-echo-pop'
+            https://bestbuy.com/site/reviews/amazon-echo-spot-2024-release-smart-alarm-clock-with-vibrant-sound-and-alexa-black/6587898
+          reviews: 682
+        - title: Kimola Echo Spot review analysis
+          url: >-
+            https://kimola.com/reports/comprehensive-review-analysis-of-amazon-echo-spot-amazon-en-us-153990
+        - title: Smart Home Compared Echo Spot overview
+          url: 'https://smarthomecompared.com/voice-assistants/amazon-echo-spot'
+        - title: Fakespot Echo Spot (2024) review summary
+          url: >-
+            https://fakespot.com/product/all-new-echo-spot-2024-release-smart-alarm-clock-with-vibrant-sound-alexa-black
   - name: Google Nest Mini
     brand: Google
     query: Google Nest Mini 2nd Gen
@@ -279,13 +299,22 @@ sources:
     url: 'https://www.apple.com/homepod-mini/'
   - title: 'Google Store: Google Nest Mini'
     url: 'https://store.google.com/us/product/google_nest_mini'
+  - title: 'B&H Photo: Amazon Echo Spot (2024 Edition) specifications'
+    url: >-
+      https://www.bhphotovideo.com/c/product/1847671-REG/amazon_b0bfc7wq6r_echo_spot_2024.html
+  - title: 'GIGAZINE: Amazon announces the 2024 Echo Spot'
+    url: 'https://gigazine.net/gsc_news/en/20240710-amazon-echo-spot'
+  - title: 'TechRadar: Amazon Echo Spot (2024) review'
+    url: >-
+      https://www.techradar.com/home/smart-speakers/amazon-echo-spot-2024-review
 reviewedDate: '2026-10-14T00:00:00.000Z'
 faqs:
   - q: What is the best smart speaker for a small apartment?
     a: >-
       For most renters, the Amazon Echo Dot (5th Gen). It's compact, sounds good
       for its size and controls Matter smart plugs and bulbs. Google and Apple
-      users should pick the Nest Mini or HomePod mini instead.
+      users should pick the Nest Mini or HomePod mini instead, and the Echo
+      Spot suits anyone who wants a bedside alarm clock with a screen.
   - q: 'Should I choose Alexa, Google Assistant or Siri?'
     a: >-
       Pick the assistant that matches your phone and the devices you already
@@ -309,7 +338,7 @@ related:
   - best-stud-finder-for-thick-walls
 ---
 
-The best voice assistant speaker for small apartments has to do three things: fit on a narrow shelf, run your smart home, and keep the peace with the neighbors. **For most renters the Amazon Echo Dot (5th Gen) is the best pick; choose the Google Nest Mini for a Google household and the Apple HomePod mini for an iPhone household.** All four speakers in this guide plug into an outlet and need no mounting.
+The best voice assistant speaker for small apartments has to do three things: fit on a narrow shelf, run your smart home, and keep the peace with the neighbors. **For most renters the Amazon Echo Dot (5th Gen) is the best pick; choose the Google Nest Mini for a Google household, the Apple HomePod mini for an iPhone household and the Amazon Echo Spot (newest model) if you want an Alexa alarm clock by the bed.** All four speakers in this guide plug into an outlet and need no mounting.
 
 We think a compact speaker is the best first smart home device for a renter because it becomes the remote for everything else. In this guide I'll explain how we'd choose between Alexa, Google and Siri in a small space. If you're still deciding on an assistant, our [Alexa vs Google Home comparison](/blog/alexa-vs-google-home/) goes deeper.
 
@@ -320,7 +349,7 @@ We think a compact speaker is the best first smart home device for a renter beca
 | Speaker | Assistant | Best for | Smart home extras |
 | --- | --- | --- | --- |
 | Amazon Echo Dot (5th Gen) | Alexa | Most apartments | Temperature sensor, Matter |
-| Amazon Echo Pop | Alexa | Bedrooms and kitchens on a budget | Core Alexa control |
+| Amazon Echo Spot (newest model) | Alexa | Bedside and nightstands | 2.83-inch clock touchscreen, Matter over Wi-Fi, mic mute button |
 | Google Nest Mini | Google Assistant | Android and Google users | Wall-mount slot, mic switch |
 | Apple HomePod mini | Siri | iPhone users | Apple Home hub, temperature and humidity sensor |
 
@@ -330,9 +359,11 @@ We think a compact speaker is the best first smart home device for a renter beca
 
 The [Amazon Echo Dot (5th Gen)](amzn:Echo+Dot+5th+Gen+smart+speaker) is the voice assistant speaker we'd put in most apartments. The Echo Dot is small enough for a nightstand, includes a temperature sensor you can use in Alexa routines, and controls Matter smart plugs and bulbs. If I were starting from zero in a one-bedroom, this is where I'd begin.
 
-### Amazon Echo Pop: best budget pick
+### Amazon Echo Spot (newest model): best for bedside
 
-The [Amazon Echo Pop](amzn:Amazon+Echo+Pop+smart+speaker) is Amazon's smallest Alexa speaker, and like every Echo it answers to Alexa out of the box. Its half-sphere shape sits flat on a narrow shelf, which makes it a good second speaker for a bedroom or kitchen. It covers timers, music, weather and voice control of your devices.
+The [Amazon Echo Spot (newest model)](amzn:Amazon+Echo+Spot+newest+model+smart+alarm+clock) is the pick for a small bedroom where the nightstand has room for one gadget. It's an Alexa smart alarm clock: a 2.83-inch touchscreen shows the time, weather and your next alarm, and a 1.73-inch front-firing speaker handles alarms, podcasts and voice answers. That screen is what separates it from the Echo Dot, Nest Mini and HomePod mini, none of which show you anything beyond status lights.
+
+On the spec sheet it supports Matter over Wi-Fi, has a microphone mute button on top and no camera, and runs from an included 15 W adapter. The retailer spec sheets we checked don't list a Zigbee hub, and reviewers note there's no temperature sensor. It measures about 113 x 103 x 111 mm, so it's bigger than the Echo Dot and costs more. Owners on retailer review pages like the display and easy setup, but some report that tap-to-snooze snoozes alarms on its own and that the screen glows in a fully dark room even at its lowest brightness.
 
 ### Google Nest Mini: best for Google users
 
@@ -373,6 +404,8 @@ Here's a simple starter routine we like for renters:
 - **Leaving home:** turn off lights and plugs and arm any compatible camera.
 - **Good night:** switch off every light, lower the speaker volume and set an alarm.
 
+If the speaker lives on your nightstand, the Echo Spot doubles as the alarm clock and shows the time without you asking.
+
 The Echo Dot and HomePod mini can also trigger routines from their temperature sensors, for example turning on a fan plugged into a smart plug when the bedroom gets warm. If you rent a place with a window AC, a [smart AC controller](/blog/smart-ac-controller/) makes that even better.
 
 ## Privacy with roommates
@@ -385,4 +418,4 @@ The Echo Dot and HomePod mini can also trigger routines from their temperature s
 
 ## Our verdict
 
-**The Amazon Echo Dot (5th Gen) is the best voice assistant speaker for most small apartments, with the Google Nest Mini and Apple HomePod mini as the best picks for Google and Apple households.** Start with one speaker in the room you use most, then add smart plugs and bulbs as you go.
+**The Amazon Echo Dot (5th Gen) is the best voice assistant speaker for most small apartments, with the Google Nest Mini and Apple HomePod mini as the best picks for Google and Apple households and the Amazon Echo Spot (newest model) as the bedside alarm clock.** Start with one speaker in the room you use most, then add smart plugs and bulbs as you go.

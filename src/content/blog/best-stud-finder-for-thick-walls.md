@@ -25,7 +25,9 @@ entities:
   - Franklin Sensors ProSensor MAX
   - Franklin Sensors ProSensor M210
   - Zircon MultiScanner i520 OneStep
-  - Zircon StudSensor HD70
+  - Zircon StudSensor Pro55
+  - DeepScan
+  - WireWarning
   - Bosch GMS 120
   - Zircon MetalliScanner m40
 tags:
@@ -43,8 +45,8 @@ tldr:
     The Franklin Sensors ProSensor MAX is our pick for thick plaster, with a
     listed 2.5-inch max detection depth and a mode aimed at lath and plaster.
   - >-
-    The Zircon StudSensor HD70 is the budget deep scan stud finder, doubling its
-    normal scan depth to about 1.5 inches in DeepScan mode.
+    The Zircon StudSensor Pro55 is the budget deep scan stud finder for thick
+    drywall, doubling its normal scan depth to 1.5 inches in DeepScan mode.
   - >-
     On old lath and plaster, the Zircon MetalliScanner m40 finds the nails in
     the lath and studs instead of guessing at density.
@@ -199,44 +201,67 @@ products:
       - url: 'https://m.media-amazon.com/images/I/51iHmOiyT8L._SL500_.jpg'
         width: 453
         height: 500
-  - name: Zircon StudSensor HD70
+  - name: Zircon StudSensor Pro55 Stud Finder with Deep Scan
     brand: Zircon
-    query: Zircon StudSensor HD70 stud finder
+    query: Zircon StudSensor Pro55 Stud Finder with Deep Scan
     badge: Best budget deep scan
     summary: >-
-      A simple stud-focused Zircon with a DeepScan mode that doubles the normal
-      scan depth.
+      A simple, stud-focused Zircon whose DeepScan mode doubles its normal scan
+      depth to 1.5 inches, with an LCD, SpotLite pointer and WireWarning.
     renterNote: 'Handheld and non-marking, so it is safe on any rental wall.'
     pros:
       - >-
-        DeepScan reaches about 1.5 inches (38 mm) versus 0.75 inch (19 mm) in
+        DeepScan reaches 1.5 inches (38 mm) versus 0.75 inch (19 mm) in
         StudScan mode
-      - WireWarning alerts you to AC wiring
-      - Simple operation
+      - WireWarning flags live unshielded AC wiring up to 2 inches (50 mm) deep
+      - SpotLite pointer projects an arrow onto the wall at the stud edge
     cons:
       - >-
-        Not meant for heavy lath and plaster; depth varies with moisture,
-        texture and paint
-      - 'Depth varies with the wall, so results on real walls can be shallower'
+        1.5-inch DeepScan is not enough for heavy lath and plaster; depth varies
+        with moisture, texture and paint
+      - >-
+        Owners of related Zircon DeepScan models report misses and spotty
+        readings on plaster and tile
     scores:
       install: 10
       reversibility: 10
       value: 9
       portability: 10
-    scoreNote: Hand tool with nothing to install; DeepScan depth at a lower price tier.
+    scoreNote: >-
+      Hand tool with nothing to install; DeepScan depth and wire warning at a
+      lower price tier.
+    asin: B0GZWS1324
+    amazonTitle: >-
+      Zircon® StudSensor™ Pro55 Stud Finder with Deep Scan & Live Wire
+      Detection
+    matchName: Zircon StudSensor Pro55
     owners:
-      read: 2
+      read: 6
       praise:
-        - Buyers called it good value and said it works well
-        - Arrow light helps mark stud edges (reported on related Zircon models)
+        - >-
+          Easy to use on drywall, and the arrow marks both stud edges (related
+          HD55 owners)
+        - >-
+          DeepScan works on drywall, and some owners got usable readings on
+          plaster
       complaints:
         - >-
-          Zircon StudSensors can give inconsistent results on older or textured
-          walls (related models)
+          Zircon DeepScan units often struggle on old or 1-inch plaster
+          (forum owners of related models)
+        - >-
+          Some owners of the related HD55 could not find studs at all, or got
+          spotty results behind shiplap or tile
       sources:
-        - title: Walmart Zircon StudSensor HD70 listing
-          url: 'https://www.walmart.com/ip/544622201'
-          reviews: 2
+        - title: Sawdust Zone forum thread on stud finders
+          url: >-
+            https://www.sawdustzone.org/forum/discussions/home-improvements-maintenance/20375-is-there-such-a-thing-as-a-good-stud-finder
+        - title: Garage Journal forum post on stud finders and plaster
+          url: 'https://www.garagejournal.com/forum/goto/post?id=1773355'
+        - title: Tilers Forums stud finder thread
+          url: 'https://www.tilersforums.com/threads/stud-finder.27867'
+        - title: Home Depot Zircon StudSensor HD55 reviews (related model)
+          url: >-
+            https://www.homedepot.com/p/reviews/Zircon-StudSensor-HD55-Stud-Finder-65945/205143494/3
   - name: Bosch GMS 120
     brand: Bosch
     query: Bosch GMS 120 digital multi scanner
@@ -372,8 +397,13 @@ sources:
   - title: Zircon MultiScanner i520 OneStep (True Value)
     url: >-
       https://www.truevalue.com/product/onestep-multiscanner-stud-metal-electrical-finder-i520/
-  - title: Zircon StudSensor stud finder (Toolstation)
-    url: 'https://www.toolstation.com/zircon-studsensor-stud-finder/pAG717'
+  - title: Zircon StudSensor Pro55 (Zircon)
+    url: 'https://www.zircon.com/products/studsensor-pro55'
+  - title: Zircon 74239 StudSensor Pro55 Stud Finder (SupplyHouse)
+    url: 'https://www.supplyhouse.com/Zircon-74239-StudSensor-Pro55-Stud-Finder'
+  - title: Zircon StudSensor Pro55 SL Stud Finder (Do it Best)
+    url: >-
+      https://www.doitbest.com/product/360252/zircon-studsensor-pro55-sl-stud-finder-360252
   - title: Bosch GMS 120 Professional Multi Detector (Data Power Tools)
     url: 'https://datapowertools.co.uk/Products/Detectors/BOS0601081000'
   - title: Zircon MetalliScanner m40 (RONA)
@@ -394,7 +424,7 @@ faqs:
   - q: What is deep scan mode on a stud finder?
     a: >-
       Deep scan mode raises the sensor's sensitivity so it reads farther into
-      the wall. On the Zircon StudSensor HD70, DeepScan reaches about 1.5 inches
+      the wall. On the Zircon StudSensor Pro55, DeepScan reaches 1.5 inches
       compared with 0.75 inch in its normal StudScan mode, at the cost of a
       wider, less precise reading.
   - q: Can a stud finder work on plaster walls?
@@ -425,7 +455,7 @@ The best stud finder for thick walls is one that can read past an inch and a hal
 
 ## Our picks for the best stud finder for thick walls
 
-**The Franklin Sensors ProSensor MAX is the best stud finder for thick walls, the Zircon StudSensor HD70 is the best budget deep scan stud finder, and the Zircon MetalliScanner m40 is our backup for old lath and plaster.** Each one is a handheld tool, so nothing gets installed and nothing stays on the wall.
+**The Franklin Sensors ProSensor MAX is the best stud finder for thick walls, the Zircon StudSensor Pro55 is the best budget deep scan stud finder, and the Zircon MetalliScanner m40 is our backup for old lath and plaster.** Each one is a handheld tool, so nothing gets installed and nothing stays on the wall.
 
 The table below compares the six picks on detection depth and the extras that matter on thick or plaster walls.
 
@@ -434,7 +464,7 @@ The table below compares the six picks on detection depth and the extras that ma
 | Franklin Sensors ProSensor MAX | Thick plaster | 2.5 in max (about 1.75 in for wood studs per manual) | Not listed | Lath and plaster mode, 13 sensors |
 | Franklin Sensors ProSensor M210 | Thick drywall | 1.7 in | Yes | 13 sensors |
 | Zircon MultiScanner i520 OneStep | Multi-mode scanning | 1.5 in (DeepScan) | Yes, to 2 in | Metal to 3 in |
-| Zircon StudSensor HD70 | Budget deep scan | 1.5 in (DeepScan) | WireWarning | StudScan 0.75 in |
+| Zircon StudSensor Pro55 | Budget deep scan | 1.5 in (DeepScan) | WireWarning, to 2 in | StudScan 0.75 in, SpotLite |
 | Bosch GMS 120 | Metal and cable depth | 38 mm (about 1.5 in) | Yes, to 50 mm | Marking hole |
 | Zircon MetalliScanner m40 | Plaster fasteners | Metal only | Not listed | Ferrous metal to about 4 in |
 
@@ -458,13 +488,13 @@ For renters in newer buildings with thick or doubled drywall, this is the sweet 
 
 The Zircon MultiScanner i520 OneStep combines a DeepScan stud mode with separate modes for live AC wire and metal. DeepScan is rated to 1.5 inches (38 mm), live unshielded AC wire detection to 2 inches (50 mm), and ferrous metal such as rebar to 3 inches (76 mm).
 
-That metal mode is what makes it interesting for thick walls. When the stud mode struggles, you can switch over and look for the nails and screws that hold the wall to the framing. The downsides are real: 1.5-inch DeepScan may be marginal on thick plaster, and it costs noticeably more than basic finders for roughly the same stud depth as the cheaper HD70. I'd choose the [Zircon MultiScanner i520 OneStep](amzn:Zircon+MultiScanner+i520+OneStep+stud+finder) if you want one tool that covers studs, wires and metal without carrying three.
+That metal mode is what makes it interesting for thick walls. When the stud mode struggles, you can switch over and look for the nails and screws that hold the wall to the framing. The downsides are real: 1.5-inch DeepScan may be marginal on thick plaster, and it costs noticeably more than basic finders for roughly the same stud depth as the cheaper Pro55. I'd choose the [Zircon MultiScanner i520 OneStep](amzn:Zircon+MultiScanner+i520+OneStep+stud+finder) if you want one tool that covers studs, wires and metal without carrying three.
 
-### Zircon StudSensor HD70: Best budget deep scan
+### Zircon StudSensor Pro55 Stud Finder with Deep Scan: Best budget deep scan
 
-The Zircon StudSensor HD70 is a simple, stud-focused tool whose DeepScan mode doubles its normal reach, from 0.75 inch (19 mm) in StudScan mode to about 1.5 inches (38 mm). WireWarning alerts you to AC wiring, and operation is about as simple as stud finders get.
+The Zircon StudSensor Pro55 is a simple, stud-focused tool whose DeepScan mode doubles its normal reach, from 0.75 inch (19 mm) in StudScan mode to 1.5 inches (38 mm). WireWarning flags live, unshielded AC wiring up to 2 inches (50 mm) deep, an LCD shows the reading, and a SpotLite pointer projects an arrow onto the wall at the stud edge, so you can mark it with painter's tape.
 
-For a renter who hangs things a few times a year, this is the best stud finder with deep scan for the money. It is not meant for heavy lath and plaster, and the listing notes that depth varies with moisture, texture and paint, so a glossy, lumpy old wall will shorten its reach. On standard or slightly thick drywall, the [Zircon StudSensor HD70](amzn:Zircon+StudSensor+HD70+stud+finder) does the job without the premium.
+For a renter who hangs things a few times a year, this is the best stud finder with deep scan for the money, and 1.5 inches covers most thick or doubled drywall. It is not a plaster tool: Zircon's sheets note that depth varies with moisture, texture and paint, and owners of related Zircon DeepScan models on forums report misses on old plaster, while some HD55 owners at Home Depot got spotty readings behind shiplap or tile. On standard or thick drywall, the [Zircon StudSensor Pro55 Stud Finder with Deep Scan](amzn:Zircon+StudSensor+Pro55+Stud+Finder+with+Deep+Scan) does the job without the premium.
 
 ### Bosch GMS 120: Best for metal and cable depth
 
@@ -478,7 +508,7 @@ The Zircon MetalliScanner m40 is an electronic metal scanner, not a density stud
 
 On old plaster this approach often works when density sensing fails, because the lath strips are nailed into every stud and those nails line up vertically. The trade-off is that it finds metal only, not wood studs directly, so you read the pattern of nails to locate the stud. Several model numbers exist, so check the package. As a stud finder for lath and plaster, the [Zircon MetalliScanner m40](amzn:Zircon+MetalliScanner+m40+metal+scanner) is my pick for the walls that beat everything else.
 
-> **From our notes:** When I lined up the depth specs for these six, I expected the most expensive scanners to read deepest for wood. They didn't. The Zircon i520, the budget HD70 and the Bosch GMS 120 all land at about 1.5 inches (38 mm) for studs, and the big depth numbers on the multi-scanners are for metal and cables. Only the Franklin ProSensor MAX lists more, a 2.5-inch maximum (about 1.75 inches for wood studs per its manual). That changed how we ranked them: for thick plaster, we sorted by stud depth first and by extra modes second.
+> **From our notes:** When I lined up the depth specs for these six, I expected the most expensive scanners to read deepest for wood. They didn't. The Zircon i520, the budget Pro55 and the Bosch GMS 120 all land at about 1.5 inches (38 mm) for studs, and the big depth numbers on the multi-scanners are for metal and cables. Only the Franklin ProSensor MAX lists more, a 2.5-inch maximum (about 1.75 inches for wood studs per its manual). That changed how we ranked them: for thick plaster, we sorted by stud depth first and by extra modes second.
 
 ## What deep scan mode is and how stud finders work
 
@@ -537,6 +567,6 @@ On move-out day, fill each screw hole with spackle, let it dry, sand it flush an
 
 ## Our verdict on the best stud finder for thick walls
 
-**For thick plaster, I'd buy the Franklin Sensors ProSensor MAX; for thick drywall on a budget, the Zircon StudSensor HD70; and for old lath and plaster that beats density sensors, the Zircon MetalliScanner m40.** The ProSensor M210 is the drywall pick if you want wire detection, while the Zircon i520 and Bosch GMS 120 make sense when metal and cables matter as much as studs.
+**For thick plaster, I'd buy the Franklin Sensors ProSensor MAX; for thick drywall on a budget, the Zircon StudSensor Pro55; and for old lath and plaster that beats density sensors, the Zircon MetalliScanner m40.** The ProSensor M210 is the drywall pick if you want wire detection, while the Zircon i520 and Bosch GMS 120 make sense when metal and cables matter as much as studs.
 
 Whatever you choose, we always tell renters the same thing: no stud finder is guaranteed on very thick plaster, so confirm before you drill, and your walls and deposit will thank you.
