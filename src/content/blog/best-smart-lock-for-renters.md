@@ -47,8 +47,8 @@ tldr:
     it replaces the whole deadbolt, so get written landlord approval and keep
     the original deadbolt to reinstall at move-out.
   - >-
-    Keep the original thumbturn or deadbolt parts in a labeled bag and
-    reinstall them before you move out.
+    Keep the original thumbturn or deadbolt parts in a labeled bag and reinstall
+    them before you move out.
 products:
   - name: August Wi-Fi Smart Lock (4th Gen)
     brand: August
@@ -239,19 +239,19 @@ products:
         - title: Tom's Guide Yale Approach review
           url: >-
             https://www.tomsguide.com/home/smart-home/yale-approach-smart-lock-review-a-great-retrofit-smart-lock
-  - name: Aqara Smart Lock U100 (Apple Home Key, Fingerprint Deadbolt)
+  - name: 'Aqara Smart Lock U100 (Apple Home Key, Fingerprint Deadbolt)'
     brand: Aqara
     query: Aqara Smart Lock U100 Apple Home Key Fingerprint Deadbolt
     asin: B0BZSD2L1W
     amazonTitle: >-
-      Aqara Smart Lock U100, Apple Home Key, Fingerprint Deadbolt, Gray |
-      Matter Over Thread, Keyless Entry Door Lock
+      Aqara Smart Lock U100, Apple Home Key, Fingerprint Deadbolt, Gray | Matter
+      Over Thread, Keyless Entry Door Lock
     matchName: Aqara Smart Lock U100
     badge: Best for Apple Home Key (with landlord OK)
     summary: >-
       A full replacement deadbolt with a fingerprint keypad, Apple Home Key and
-      a mechanical key backup. The most feature-rich pick here, but it swaps
-      out the landlord's deadbolt, so it needs written permission.
+      a mechanical key backup. The most feature-rich pick here, but it swaps out
+      the landlord's deadbolt, so it needs written permission.
     renterNote: >-
       Replaces the whole deadbolt, so get written landlord approval first, keep
       the original deadbolt, keys and screws in a labeled bag, and reinstall
@@ -287,7 +287,7 @@ products:
       read: 6
       praise:
         - 'Fast, reliable fingerprint unlocking and instant Home Key taps'
-        - Many ways in (fingerprint, codes, Home Key, physical key)
+        - 'Many ways in (fingerprint, codes, Home Key, physical key)'
       complaints:
         - >-
           Lock periodically stops responding to keypad, fingerprint and HomeKit
@@ -319,7 +319,7 @@ sources:
       https://www.seam.co/img/device-db/aqara/manuals/aqara_smart-lock-u100_user_manual.pdf
   - title: Aqara Smart Lock U100 specifications (Wellbots)
     url: 'https://www.wellbots.com/products/aqara-smart-lock-u100'
-  - title: 'Aqara Introduces its First Deadbolt Smart Lock U100 (Business Wire)'
+  - title: Aqara Introduces its First Deadbolt Smart Lock U100 (Business Wire)
     url: >-
       https://www.businesswire.com/news/home/20230608005033/en/Aqara-Introduces-its-First-Deadbolt-Smart-Lock-U100
   - title: HomeKit News Aqara Smart Lock U100 review
@@ -362,18 +362,18 @@ faqs:
     a: >-
       Only with written landlord approval. A full smart deadbolt such as the
       Aqara Smart Lock U100 swaps out the landlord's deadbolt, so the original
-      key stops working while it is installed. Keep the original deadbolt,
-      keys and screws, give the landlord a key if your lease requires access,
-      and reinstall the original before move-out.
+      key stops working while it is installed. Keep the original deadbolt, keys
+      and screws, give the landlord a key if your lease requires access, and
+      reinstall the original before move-out.
 heroImage: /images/featured/best-smart-lock-for-renters.png
 heroAlt: >-
   Best Smart Locks for Renters in 2026 (Reversible Picks): RenterSmartHome
   buying guide
 related:
+  - best-smart-smoke-detector-for-apartments
   - best-magnetic-cabinet-locks-for-renters
   - best-magnetic-stud-finder
   - best-heavy-duty-adhesive-hooks-for-renters
-  - best-pressure-mounted-baby-gate-for-renters
 ---
 
 The best smart lock for renters is a **retrofit smart lock**: a smart lock that replaces only the interior thumbturn of your existing deadbolt, so the exterior keyhole, the bolt and your landlord's key all keep working. A retrofit smart lock gives you keyless entry, auto-lock and guest codes without re-keying, drilling, or risking your security deposit, and it moves with you to the next apartment.

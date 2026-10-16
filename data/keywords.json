@@ -644,7 +644,7 @@
     "funnel": "mofu",
     "workingTitle": "Ring vs Blink for Renters: Which Camera System Should You Choose?",
     "cluster": "apartment security",
-    "rationale": "150/mo, KD 0, TP 1.7k (Ahrefs); \u2264250 long-tail rule",
+    "rationale": "150/mo, KD 0, TP 1.7k (Ahrefs); ≤250 long-tail rule",
     "ahrefs": {
       "volume": 150,
       "kd": 0,
@@ -982,7 +982,7 @@
     "slug": "best-indoor-security-camera-for-renters-no-drilling"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-14T08:48:40.167Z",
     "secondaryKeywords": [],
@@ -998,7 +998,8 @@
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
     "slug": "best-smart-smoke-detector-for-apartments",
-    "productCount": 3
+    "productCount": 3,
+    "publishedAt": "2026-10-16T13:09:59.021Z"
   },
   {
     "status": "pending",

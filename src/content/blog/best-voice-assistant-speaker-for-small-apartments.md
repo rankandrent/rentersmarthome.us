@@ -126,12 +126,12 @@ products:
       - Controls Matter-over-Wi-Fi devices and has a microphone mute button
     cons:
       - 'Screen glow can be noticeable in a dark bedroom, owners report'
-      - No camera and no temperature sensor, unlike the Echo Dot
+      - 'No camera and no temperature sensor, unlike the Echo Dot'
       - Larger and pricier than the Echo Dot; needs constant power
     specs:
       Display: '2.83-inch touchscreen, 320 x 240'
       Speaker: 1.73-inch front-firing
-      Size: 'About 113 x 103 x 111 mm (4.4 x 4.1 x 4.4 in)'
+      Size: About 113 x 103 x 111 mm (4.4 x 4.1 x 4.4 in)
       Weight: About 405 g
       Smart home: Matter over Wi-Fi; Zigbee hub not listed
       Privacy: Microphone mute button; no camera
@@ -148,7 +148,9 @@ products:
     owners:
       read: 5
       praise:
-        - 'Clear display, compact design and easy setup on a dresser or nightstand'
+        - >-
+          Clear display, compact design and easy setup on a dresser or
+          nightstand
         - Sound quality and ease of use for alarms and voice requests
       complaints:
         - >-
@@ -305,16 +307,15 @@ sources:
   - title: 'GIGAZINE: Amazon announces the 2024 Echo Spot'
     url: 'https://gigazine.net/gsc_news/en/20240710-amazon-echo-spot'
   - title: 'TechRadar: Amazon Echo Spot (2024) review'
-    url: >-
-      https://www.techradar.com/home/smart-speakers/amazon-echo-spot-2024-review
+    url: 'https://www.techradar.com/home/smart-speakers/amazon-echo-spot-2024-review'
 reviewedDate: '2026-10-14T00:00:00.000Z'
 faqs:
   - q: What is the best smart speaker for a small apartment?
     a: >-
       For most renters, the Amazon Echo Dot (5th Gen). It's compact, sounds good
       for its size and controls Matter smart plugs and bulbs. Google and Apple
-      users should pick the Nest Mini or HomePod mini instead, and the Echo
-      Spot suits anyone who wants a bedside alarm clock with a screen.
+      users should pick the Nest Mini or HomePod mini instead, and the Echo Spot
+      suits anyone who wants a bedside alarm clock with a screen.
   - q: 'Should I choose Alexa, Google Assistant or Siri?'
     a: >-
       Pick the assistant that matches your phone and the devices you already
@@ -335,6 +336,7 @@ heroAlt: >-
   Best Voice Assistant Speaker for Small Apartments: 4 Compact Picks:
   RenterSmartHome buying guide
 related:
+  - best-smart-smoke-detector-for-apartments
   - best-stud-finder-for-thick-walls
 ---
 
