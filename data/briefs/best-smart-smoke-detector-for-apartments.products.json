@@ -1,128 +1,384 @@
 {
-"evidenceNote": "WebFetch could not resolve any host in this run, so I could not open the top-10 pages, maker pages or review pages. All picks, specs and owner themes come from WebSearch result summaries of the pages listed in sources/serpProducts. Items marked weak below have fewer than 2 confirmed SERP pages or a spec conflict: Ring Smoke & CO Listener (only smarthomeunlocked.com confirmed), X-Sense XS0B-MR/SBS50 bundle (review sites, not confirmed in the top 10), Kidde hardwired Ring (Tom's Guide mention only). X-Sense Wi-Fi battery life and the SC5 battery type conflict between sources and are worded cautiously. owners.read counts only pages whose review content I saw in search summaries; no retailer review counts were seen for these exact models, so none are given.",
-"products": [
-{
-"name": "Kidde Smart Smoke & CO Alarm with Ring (battery, RGCUDR-RW)",
-"brand": "Kidde",
-"query": "Kidde Smart Smoke Carbon Monoxide Detector Ring App Enabled Wire-Free Interconnect Battery Powered",
-"matchName": "Kidde Smart Smoke Carbon Monoxide Detector Ring",
-"badge": "Best for Ring users",
-"summary": "A wire-free, two-AA combination smoke and CO alarm that reports to the Ring app without a hub. It suits a renter who already uses Ring and wants phone alerts and linked alarms without touching the wiring.",
-"renterNote": "Runs on 2 AA batteries, so there is nothing to wire; ask your landlord before replacing their alarm, keep the original to refit on move-out, and never remove or disable a working alarm because landlords and fire codes require one. Caveat: it is Ring-centric and the AA batteries are about a one-year job.",
-"pros": ["Battery-powered with no wiring, and units link wirelessly so one alarm sounds the others", "Smoke, CO and low-battery alerts in the Ring app; sources describe the basic alerts as needing no subscription", "Dual-sensor design with voice alerts and an 8-minute hush button"],
-"cons": ["Reviewers report occasional Wi-Fi drop-offs and a few unexplained false alarms", "Limited smart home reach beyond Ring, no night light, and a premium price versus a basic alarm"],
-"facts": ["Power: 2 AA batteries (non-lithium); Kidde's brochure gives about 1 year before replacement", "Sensors: dual-sensor smoke plus CO; meets UL 217 10th Edition and UL 2034 5th Edition", "Test/Hush button with an 8-minute hush that resets automatically", "Ring app notifications for smoke, CO and low battery, plus voice alerts", "Wire-free interconnect between Kidde units", "Hardwired version is a separate model"],
-"sources": ["https://s3.amazonaws.com/s3.supplyhouse.com/product_files/Kidde_21033910_Brochure_Rev2026.pdf", "https://www.kidde.com/products/smart/ring-smart-smoke-co-alarm-aa-battery-powered", "https://ring.com/support/products/kidde/kidde-smart-smoke-co-alarm", "https://smarthomecompared.com/smoke-alarms/kidde-smart-smoke-co-ring", "https://www.bestbuy.com/product/kidde-battery-powered-ring-app-enabled-smart-smoke-carbon-monoxide-detector-voice-alerts-wire-free-interconnect-alarm-white/J7G4C7QTR3/sku/12911331"],
-"scores": {"install": 8, "reversibility": 8, "value": 7, "compatibility": 6, "portability": 8},
-"scoreNote": "Wire-free and screw or adhesive mount keep it reversible; Ring-only ecosystem and a roughly yearly AA swap hold back compatibility and value.",
-"owners": {"read": 3, "praise": ["Quick setup, about 10 minutes per unit", "Reliable Ring app alerts and wire-free linking across floors"], "complaints": ["Occasional offline notices and Wi-Fi drops", "A few unexplained false alarms and some mounting difficulty"], "sources": [{"title": "Smart Home Compared: Kidde Smart Smoke & CO with Ring", "url": "https://smarthomecompared.com/smoke-alarms/kidde-smart-smoke-co-ring"}, {"title": "Ring: Kidde battery smart smoke alarm page", "url": "https://ring.com/products/kidde-battery-smart-smoke-alarm"}, {"title": "TechHive: Kidde smart detection smoke and CO alarm review", "url": "https://www.techhive.com/article/836334/kidde-smart-detection-smoke-carbon-monoxide-alarm-review.html"}]}
-},
-{
-"name": "First Alert SC5 Battery Smart Smoke & Carbon Monoxide Alarm (SMCO600NV)",
-"brand": "First Alert",
-"query": "First Alert SC5 Battery Smart Smoke and Carbon Monoxide Alarm SMCO600NV",
-"matchName": "First Alert SC5 Smart Smoke Carbon Monoxide Alarm",
-"badge": "Best for Google Home",
-"summary": "Google's named successor to the Nest Protect, in a battery version with voice alerts and app silencing. It suits a Google Home renter who wants a Nest-style alarm without wiring.",
-"renterNote": "The battery version needs no wiring and ships with batteries installed, so it suits a renter who has the landlord's OK to swap alarms; keep the original to refit on move-out and never leave a room without a working alarm. Caveat: it is Google Home and First Alert app only (no Matter) and it is pricey.",
-"pros": ["Photoelectric plus electrochemical CO sensing, with voice alerts and silence or test from the app", "Setup is quick (batteries pre-installed) and pairs with Google Home and the First Alert app", "Fits the Nest Protect mounting bracket and interconnects with First Alert and Nest Protect alarms in Google Home"],
-"cons": ["Not a Matter device and fewer features than the Nest Protect it replaces", "Higher price than basic smart alarms, and app alerts need an internet connection"],
-"facts": ["Sensors: photoelectric smoke and electrochemical CO", "Available as battery and hardwired versions that can be mixed", "Works with the Google Home and First Alert apps; not Matter-enabled", "Can reuse the Nest Protect mounting bracket", "Interconnect with compatible First Alert alarms and Nest Protect through Google Home", "Check/silence/remote test in the app", "Battery type and life: sources disagree (a Canadian spec sheet lists six CR123A cells and 10-year sensors; one review site claims a 10-year sealed lithium battery); confirm on the box"],
-"sources": ["https://www.tomsguide.com/best-picks/the-best-smart-smoke-detectors", "https://www.bobvila.com/reviews/first-alert-smart-smoke-alarm-review/", "https://www.firstalert.com/products/sc5-battery-smart-smoke-carbon-monoxide-alarm", "https://store.google.com/product/first_alert_smart_smoke_alarm?hl=en-us", "https://support.google.com/googlehome/answer/16322160", "https://customer.resideo.com/resources/Techlit/TechLitDocuments/BRK-First Alert/FSMCO600NVACL1_SMCO600NV-A_SC5__SpecSheet.pdf"],
-"scores": {"install": 8, "reversibility": 8, "value": 6, "compatibility": 6, "portability": 8},
-"scoreNote": "Easy battery install and a reusable bracket score well; premium price and Google-only ecosystem without Matter limit value and compatibility.",
-"owners": {"read": 3, "praise": ["Fast three-minute setup with voice prompts", "Dual sensors and smooth Google Home integration"], "complaints": ["Pricey and fewer features than the Nest Protect", "Alerts depend on an internet connection; the hardwired sibling drew weak ratings at one retailer"], "sources": [{"title": "Bob Vila: First Alert smart smoke alarm review", "url": "https://www.bobvila.com/reviews/first-alert-smart-smoke-alarm-review/"}, {"title": "Tom's Guide: best smart smoke detectors", "url": "https://www.tomsguide.com/best-picks/the-best-smart-smoke-detectors"}, {"title": "SmartHomeExplorer: First Alert SC5 SMCO600NV", "url": "https://www.smarthomeexplorer.com/reviews/sensors/first-alert-sc5-smco600nv"}]}
-},
-{
-"name": "X-Sense Wi-Fi Smoke Alarm XS01-WT",
-"brand": "X-Sense",
-"query": "X-Sense Wi-Fi Smoke Alarm XS01-WT",
-"matchName": "X-Sense Wi-Fi Smoke Alarm XS01-WT",
-"badge": "Best budget",
-"summary": "A small photoelectric smoke-only alarm that adds Wi-Fi alerts and app silencing for a low price. It suits a renter who wants phone alerts for one bedroom or hallway and doesn't mind a battery swap.",
-"renterNote": "It mounts with the included adhesive pad or two screws, so a renter can use the adhesive and leave no holes; ask your landlord before swapping alarms and keep theirs for move-out. Caveat: smoke only (no CO) and the Wi-Fi radio gives it about a one-year battery.",
-"pros": ["Wi-Fi alerts and app silencing at a budget price", "Adhesive-pad or screw mounting, no wiring", "Photoelectric sensor and a 10-year unit life"],
-"cons": ["One replaceable CR123A rated about a year because of the Wi-Fi radio", "No CO detection, no wired or wireless interconnect, no voice assistant support, and a 2.4 GHz-only Wi-Fi connection"],
-"facts": ["Sensor: photoelectric smoke only", "Power: one replaceable 3V CR123A lithium; X-Sense rates the battery about 1 year", "Service life 10 years; at least 85 dB at 3 m", "2.4 GHz Wi-Fi via the Tuya/Smart Life-based app; push alerts for alarms, battery, sensor and Wi-Fi faults", "App can mute nuisance alarms", "Mounts with included adhesive pad or two screws and anchors", "Links only to other Wi-Fi XS01 units, not the older XS01-WR"],
-"sources": ["https://www.techhive.com/article/3613857/x-sense-xs01-wt-wi-fi-smoke-alarm-review.html", "https://www.mbreviews.com/x-sense-xs01-wt-review/", "https://linkdhome.com/articles/x-sense-xs01-wt-review", "https://the-gadgeteer.com/2022/11/01/x-sense-xs01-wt-wi-fi-smoke-alarm-review-because-choking-on-smoke-is-no-joke"],
-"scores": {"install": 9, "reversibility": 9, "value": 9, "compatibility": 4, "portability": 8},
-"scoreNote": "Adhesive mount and a low price help; the short Wi-Fi battery life and limited integrations (no CO, no voice assistants) hold it back.",
-"owners": {"read": 3, "praise": ["Easy setup and a clean app", "Remote alerts and the ability to mute false alarms from the phone"], "complaints": ["Short battery life because of Wi-Fi", "Limited smart home integration"], "sources": [{"title": "TechHive: X-Sense XS01-WT review", "url": "https://www.techhive.com/article/3613857/x-sense-xs01-wt-wi-fi-smoke-alarm-review.html"}, {"title": "MB Reviews: X-Sense XS01-WT", "url": "https://www.mbreviews.com/x-sense-xs01-wt-review/"}, {"title": "Linkd Home: X-Sense XS01-WT", "url": "https://linkdhome.com/articles/x-sense-xs01-wt-review"}]}
-},
-{
-"name": "X-Sense Wi-Fi Smoke and Carbon Monoxide Alarm SC07-WX",
-"brand": "X-Sense",
-"query": "X-Sense Wi-Fi Smoke and Carbon Monoxide Alarm SC07-WX",
-"matchName": "X-Sense Wi-Fi Smoke Carbon Monoxide Alarm SC07-WX",
-"badge": "Best Wi-Fi combo alarm",
-"summary": "A combination smoke and CO alarm that connects straight to 2.4 GHz Wi-Fi with no base station. It suits a renter who wants one alarm covering both hazards with phone alerts.",
-"renterNote": "Screw or adhesive mounting and no hub make it easy to fit and remove, but get your landlord's OK before replacing their alarm and keep it for move-out. Caveat: one reviewer notes a removable-battery alarm is not legal in New York, so check local rules.",
-"pros": ["Smoke plus CO in one Wi-Fi alarm with no base station", "85 dB alarm with an LED status light and iOS and Android app", "Same family as Bob Vila's and SafeWise's top-rated X-Sense SC07 line"],
-"cons": ["Sources disagree on battery: one review says a CR123A rated about a year, another calls it a 10-year built-in battery, so confirm on the box", "2.4 GHz Wi-Fi only; a removable battery may not meet some local codes"],
-"facts": ["Detects smoke and carbon monoxide", "Connects directly to 2.4 GHz 802.11 b/g/n Wi-Fi, no base station", "85 dB alarm; LED shows smoke, CO, silence, low battery and Wi-Fi pairing", "iOS and Android app", "Battery rating conflicts across sources (about 1 year CR123A vs 10-year claim); the non-Wi-Fi SC07-W is the one with a 10-year sealed battery"],
-"sources": ["https://the-gadgeteer.com/2024/01/10/x-sense-sc07-wx-wi-fi-connected-smoke-and-carbon-monoxide-detector-review-know-whats-happening-even-when-youre-not-at-home/", "https://nascompares.com/review/comprehensive-review-x-sense-wi-fi-smoke-and-carbon-monoxide-alarm-sc07-wx/", "https://www.bobvila.com/reviews/best-smoke-detectors/", "https://www.safewise.com/smoke-alarm-buyers-guide/"],
-"scores": {"install": 8, "reversibility": 8, "value": 8, "compatibility": 4, "portability": 8},
-"scoreNote": "Hub-free install and a combined sensor are strong; X-Sense-app-only control and an unclear battery rating keep compatibility low.",
-"owners": {"read": 2, "praise": ["Straight-to-Wi-Fi setup with no hub", "Both smoke and CO in one unit"], "complaints": ["Battery claims differ between reviews", "2.4 GHz only, and legal in some places only with a sealed battery"], "sources": [{"title": "The Gadgeteer: X-Sense SC07-WX review", "url": "https://the-gadgeteer.com/2024/01/10/x-sense-sc07-wx-wi-fi-connected-smoke-and-carbon-monoxide-detector-review-know-whats-happening-even-when-youre-not-at-home/"}, {"title": "NAS Compares: X-Sense SC07-WX review", "url": "https://nascompares.com/review/comprehensive-review-x-sense-wi-fi-smoke-and-carbon-monoxide-alarm-sc07-wx/"}]}
-},
-{
-"name": "X-Sense Smart Smoke Detectors with SBS50 Base Station (XS0B-MR)",
-"brand": "X-Sense",
-"query": "X-Sense Smart Smoke Detector Wireless Interconnected SBS50 Base Station XS0B-MR",
-"matchName": "X-Sense Smoke Detector SBS50 Base Station",
-"badge": "Best multi-room set",
-"summary": "A kit of linked battery smoke alarms plus a Wi-Fi base station, so one alarm sounds all of them and your phone gets the alert. It suits a larger apartment or a renter who wants whole-unit coverage without wiring.",
-"renterNote": "Alarms are battery-powered and link wirelessly with no wiring; the base station plugs into an outlet. Ask your landlord before swapping alarms and keep theirs for move-out. Caveat: the system is X-Sense-only and the base station has no battery backup.",
-"pros": ["Wireless interconnect, with voice alerts naming which unit triggered", "One base station supports up to 50 devices over 2.4 GHz Wi-Fi", "Reviewers call the three-alarm bundle good value with loud alarms"],
-"cons": ["Only X-Sense devices can join, and no Matter, Apple Home or Google Home; no direct Alexa integration found", "Base station has no battery backup, and rooms use preset names"],
-"facts": ["Wireless interconnect between alarms; any one sounding triggers all", "Voice alerts identify the triggering alarm", "SBS50 base station: 2.4 GHz Wi-Fi, up to 50 devices, built-in sounder, no battery backup", "Replaceable 3V CR123A; The Gadgeteer lists battery life 5 years and product life 10 years", "Works with Home Assistant per a German review; not Matter", "Kit contents vary by listing, so check alarm count"],
-"sources": ["https://the-gadgeteer.com/2025/07/12/x-sense-smart-smoke-detectors-with-sbs50-base-station-review/", "https://www.expertreviews.co.uk/technology/home-security/x-sense-link-pro-smoke-alarm-with-base-station-review", "https://smarthomecompared.com/hubs/xsense-sbs50-base-station", "https://www.smartzone.de/x-sense-xs0b-mr-rauchmelder-test/"],
-"scores": {"install": 8, "reversibility": 8, "value": 7, "compatibility": 4, "portability": 7},
-"scoreNote": "Battery alarms and a plug-in base station are easy to install and remove; the closed X-Sense ecosystem and extra hub cost hold back compatibility and portability.",
-"owners": {"read": 3, "praise": ["Loud alarms and clear notifications", "Easy setup and good value for a three-alarm kit"], "complaints": ["Closed ecosystem, nothing non-X-Sense can join", "Preset room names and no smart home platform support"], "sources": [{"title": "The Gadgeteer: X-Sense SBS50 review", "url": "https://the-gadgeteer.com/2025/07/12/x-sense-smart-smoke-detectors-with-sbs50-base-station-review/"}, {"title": "Expert Reviews: X-Sense Link+ Pro with base station", "url": "https://www.expertreviews.co.uk/technology/home-security/x-sense-link-pro-smoke-alarm-with-base-station-review"}, {"title": "Smart Home Compared: X-Sense SBS50", "url": "https://smarthomecompared.com/hubs/xsense-sbs50-base-station"}]}
-},
-{
-"name": "Ring Smoke & CO Listener",
-"brand": "Ring",
-"query": "Ring Smoke & CO Listener",
-"matchName": "Ring Smoke CO Listener",
-"badge": "Best keep-the-landlord's-alarm option",
-"summary": "A small device that listens for your existing smoke or CO alarm and sends a phone alert, so you don't replace anything. It suits a renter whose landlord won't allow alarm swaps.",
-"renterNote": "It sits within 6 inches of the landlord's alarm and changes nothing about it, which fits strict leases; the alarm must be UL listed and 10 years old or less. Caveat: it does not detect smoke or CO itself and you need one per alarm.",
-"pros": ["Leaves the landlord's alarm untouched and removes in seconds", "Newest model uses Amazon Sidewalk with no Ring Alarm base station", "Gives a phone alert when an existing alarm sounds"],
-"cons": ["Does not detect smoke or CO itself; roughly one listener per alarm", "Sources conflict on subscription needs, the older Z-Wave model needs a Ring Alarm base station, and some owners report it failing to work"],
-"facts": ["Listens for sirens from nearby UL-listed smoke or CO alarms 10 years old or less", "Place within 6 inches (ideally 3 inches) of the alarm", "Newest model connects over Amazon Sidewalk with no base station; the older Alarm Smoke and CO Listener uses Z-Wave and needs a Ring Alarm base station (battery up to 3 years)", "Ring's pages describe optional 24/7 Pro Monitoring with a Ring subscription; check Ring for what plan alerts need", "Does not detect fire, smoke or carbon monoxide itself"],
-"sources": ["https://ring.com/products/smoke-co-listener", "https://ring.com:443/products/alarm-smoke-co-listener", "https://smarthomeunlocked.com/articles/best-smart-smoke-detector-2026", "https://community.ring.com/t5/Ring-Alarm/First-Alert-Z-Wave-or-Listener/td-p/55382", "https://shopsavvy.com/products/ring-smoke-and-co-listener"],
-"scores": {"install": 9, "reversibility": 10, "value": 6, "compatibility": 4, "portability": 9},
-"scoreNote": "Nothing is removed from the ceiling and it peels off cleanly; one listener per alarm, Ring-only alerts and possible plan costs temper value.",
-"owners": {"read": 3, "praise": ["Simple installation and setup", "A workable renter fix when the landlord won't replace alarms"], "complaints": ["Needs one listener per alarm", "Some owners report it not working and no manual silence"], "sources": [{"title": "Ring Community: First Alert Z-Wave or Listener", "url": "https://community.ring.com/t5/Ring-Alarm/First-Alert-Z-Wave-or-Listener/td-p/55382"}, {"title": "ShopSavvy: Ring Smoke & CO Listener review summary", "url": "https://shopsavvy.com/products/ring-smoke-and-co-listener"}, {"title": "Smart Home Unlocked: best smart smoke detector 2026", "url": "https://smarthomeunlocked.com/articles/best-smart-smoke-detector-2026"}]}
-},
-{
-"name": "Kidde Hardwired Ring Smart Smoke & CO Detector with AA Battery Backup (21033275)",
-"brand": "Kidde",
-"query": "Kidde Hardwired Ring App Enabled Smart Smoke Carbon Monoxide Detector AA Battery Backup Voice Alerts Interconnected",
-"matchName": "Kidde Hardwired Ring Smart Smoke Carbon Monoxide Detector",
-"badge": "Best if landlord installs",
-"summary": "The hardwired Ring-enabled Kidde alarm with AA battery backup and voice alerts. It is the pick for a renter whose landlord agrees to swap the ceiling alarm.",
-"renterNote": "Hardwired alarms connect to building wiring, so this is a landlord or licensed-electrician job; a renter should not rewire it. Ask your landlord to install it and keep the original to refit if they ask.",
-"pros": ["Hardwired power with AA battery backup, so no frequent battery chores", "Ring app alerts and voice alerts", "Reuses an existing hardwired alarm location"],
-"cons": ["Installation needs wiring, so it is not a DIY renter swap", "Ring-centric and works best in a home that already uses Ring"],
-"facts": ["Hardwired with AA battery backup", "Ring app enabled with voice alerts and interconnect", "Smoke and CO combination alarm", "Installation by landlord or qualified electrician recommended"],
-"sources": ["https://www.homedepot.com/p/Kidde-Hardwired-Ring-App-Enabled-Smart-Smoke-Carbon-Monoxide-Detector-AA-Battery-Backup-Voice-Alerts-Interconnected-Alarm-21033275/334373575", "https://www.gexpro.com/p/2642922/kidde-fire/smart-smoke-co-alarm-with-ring-app-alerts/04787133275/21033275", "https://www.tomsguide.com/us/best-smart-smoke-detectors,review-4472.html"],
-"scores": {"install": 3, "reversibility": 3, "value": 6, "compatibility": 6, "portability": 3},
-"scoreNote": "Wiring makes it a landlord job and ties it to the building, so install, reversibility and portability score low.",
-"owners": {"read": 1, "praise": ["Ring app alerts and voice alerts"], "complaints": ["Wiring needed for install"], "sources": [{"title": "Home Depot: Kidde hardwired Ring smart alarm", "url": "https://www.homedepot.com/p/Kidde-Hardwired-Ring-App-Enabled-Smart-Smoke-Carbon-Monoxide-Detector-AA-Battery-Backup-Voice-Alerts-Interconnected-Alarm-21033275/334373575"}]}
-}
-],
-"serpProducts": [
-{"name": "Kidde Smart Smoke & CO Alarm with Ring (battery)", "pages": ["https://wcsafety.com/blogs/guides/best-smart-smoke-detector-2026", "https://www.technobezz.com/best/best-smart-smoke-detectors-0de", "https://reviehub.com/?p=9825", "https://bestelectronic.org/best-smart-smoke-alarms/", "https://smarthomeunlocked.com/articles/best-smart-smoke-detector-2026"]},
-{"name": "First Alert SC5 Battery Smart Smoke & CO Alarm", "pages": ["https://www.tomsguide.com/best-picks/the-best-smart-smoke-detectors", "https://www.bobvila.com/reviews/first-alert-smart-smoke-alarm-review/", "https://wcsafety.com/blogs/guides/best-smart-smoke-detector-2026"]},
-{"name": "X-Sense Wi-Fi Smoke Alarm XS01-WT", "pages": ["https://www.techhive.com/article/3236299/best-smart-smoke-detector.html", "https://rentprep.com/blog/landlord-tips/top-smoke-detectors-for-apartments/"]},
-{"name": "X-Sense Wi-Fi Smoke and CO Alarm SC07-WX (SC07 family)", "pages": ["https://www.bobvila.com/reviews/best-smoke-detectors/", "https://www.safewise.com/smoke-alarm-buyers-guide/"]},
-{"name": "X-Sense Smart Smoke Detectors with SBS50 Base Station", "pages": ["https://www.expertreviews.co.uk/technology/home-security/x-sense-link-pro-smoke-alarm-with-base-station-review", "https://the-gadgeteer.com/2025/07/12/x-sense-smart-smoke-detectors-with-sbs50-base-station-review/"]},
-{"name": "Ring Smoke & CO Listener", "pages": ["https://smarthomeunlocked.com/articles/best-smart-smoke-detector-2026"]},
-{"name": "Kidde Hardwired Ring Smart Smoke & CO Detector", "pages": ["https://www.tomsguide.com/us/best-smart-smoke-detectors,review-4472.html"]},
-{"name": "Google Nest Protect (2nd Gen) - skipped, discontinued", "pages": ["https://wcsafety.com/blogs/guides/best-smart-smoke-detector-2026", "https://www.tomsguide.com/home/smart-home/google-kills-off-nest-protect-partners-with-first-alert-for-new-smart-smoke-detector"]},
-{"name": "First Alert SMCO410 / ZCOMBO Z-Wave - skipped, First Alert store marks it discontinued", "pages": ["https://wcsafety.com/blogs/guides/best-smart-smoke-detector-2026", "https://smarthomecompared.com/smoke-alarms/first-alert-sc5-battery-smart-smoke-co-alarm-vs-first-alert-smco410-smoke-detector-co-alarm"]}
-]
+ "products": [
+  {
+   "name": "Kidde Smart Smoke & CO Alarm with Ring (battery, RGCUDR-RW)",
+   "brand": "Kidde",
+   "query": "Kidde Smart Smoke Carbon Monoxide Detector Ring App Enabled Wire-Free Interconnect Battery Powered",
+   "matchName": "Kidde Smart Smoke Carbon Monoxide Detector Ring",
+   "badge": "Best for Ring users",
+   "summary": "A wire-free, two-AA combination smoke and CO alarm that reports to the Ring app without a hub. It suits a renter who already uses Ring and wants phone alerts and linked alarms without touching the wiring.",
+   "renterNote": "Runs on 2 AA batteries, so there is nothing to wire; ask your landlord before replacing their alarm, keep the original to refit on move-out, and never remove or disable a working alarm because landlords and fire codes require one. Caveat: it is Ring-centric and the AA batteries are about a one-year job.",
+   "pros": [
+    "Battery-powered with no wiring, and units link wirelessly so one alarm sounds the others",
+    "Smoke, CO and low-battery alerts in the Ring app; sources describe the basic alerts as needing no subscription",
+    "Dual-sensor design with voice alerts and an 8-minute hush button"
+   ],
+   "cons": [
+    "Reviewers report occasional Wi-Fi drop-offs and a few unexplained false alarms",
+    "Limited smart home reach beyond Ring, no night light, and a premium price versus a basic alarm"
+   ],
+   "facts": [
+    "Power: 2 AA batteries (non-lithium); Kidde's brochure gives about 1 year before replacement",
+    "Sensors: dual-sensor smoke plus CO; meets UL 217 10th Edition and UL 2034 5th Edition",
+    "Test/Hush button with an 8-minute hush that resets automatically",
+    "Ring app notifications for smoke, CO and low battery, plus voice alerts",
+    "Wire-free interconnect between Kidde units",
+    "Hardwired version is a separate model"
+   ],
+   "sources": [
+    "https://s3.amazonaws.com/s3.supplyhouse.com/product_files/Kidde_21033910_Brochure_Rev2026.pdf",
+    "https://www.kidde.com/products/smart/ring-smart-smoke-co-alarm-aa-battery-powered",
+    "https://ring.com/support/products/kidde/kidde-smart-smoke-co-alarm",
+    "https://smarthomecompared.com/smoke-alarms/kidde-smart-smoke-co-ring",
+    "https://www.bestbuy.com/product/kidde-battery-powered-ring-app-enabled-smart-smoke-carbon-monoxide-detector-voice-alerts-wire-free-interconnect-alarm-white/J7G4C7QTR3/sku/12911331"
+   ],
+   "scores": {
+    "install": 8,
+    "reversibility": 8,
+    "value": 7,
+    "compatibility": 6,
+    "portability": 8
+   },
+   "scoreNote": "Wire-free and screw or adhesive mount keep it reversible; Ring-only ecosystem and a roughly yearly AA swap hold back compatibility and value.",
+   "owners": {
+    "read": 3,
+    "praise": [
+     "Quick setup, about 10 minutes per unit",
+     "Reliable Ring app alerts and wire-free linking across floors"
+    ],
+    "complaints": [
+     "Occasional offline notices and Wi-Fi drops",
+     "A few unexplained false alarms and some mounting difficulty"
+    ],
+    "sources": [
+     {
+      "title": "Smart Home Compared: Kidde Smart Smoke & CO with Ring",
+      "url": "https://smarthomecompared.com/smoke-alarms/kidde-smart-smoke-co-ring"
+     },
+     {
+      "title": "Ring: Kidde battery smart smoke alarm page",
+      "url": "https://ring.com/products/kidde-battery-smart-smoke-alarm"
+     },
+     {
+      "title": "TechHive: Kidde smart detection smoke and CO alarm review",
+      "url": "https://www.techhive.com/article/836334/kidde-smart-detection-smoke-carbon-monoxide-alarm-review.html"
+     }
+    ]
+   }
+  },
+  {
+   "name": "First Alert SC5 Battery Smart Smoke & Carbon Monoxide Alarm (SMCO600NV)",
+   "brand": "First Alert",
+   "query": "First Alert SC5 Battery Smart Smoke and Carbon Monoxide Alarm SMCO600NV",
+   "matchName": "First Alert SC5 Smart Smoke Carbon Monoxide Alarm",
+   "badge": "Best for Google Home",
+   "summary": "Google's named successor to the Nest Protect, in a battery version with voice alerts and app silencing. It suits a Google Home renter who wants a Nest-style alarm without wiring.",
+   "renterNote": "The battery version needs no wiring and ships with batteries installed, so it suits a renter who has the landlord's OK to swap alarms; keep the original to refit on move-out and never leave a room without a working alarm. Caveat: it is Google Home and First Alert app only (no Matter) and it is pricey.",
+   "pros": [
+    "Photoelectric plus electrochemical CO sensing, with voice alerts and silence or test from the app",
+    "Setup is quick (batteries pre-installed) and pairs with Google Home and the First Alert app",
+    "Fits the Nest Protect mounting bracket and interconnects with First Alert and Nest Protect alarms in Google Home"
+   ],
+   "cons": [
+    "Not a Matter device and fewer features than the Nest Protect it replaces",
+    "Higher price than basic smart alarms, and app alerts need an internet connection"
+   ],
+   "facts": [
+    "Sensors: photoelectric smoke and electrochemical CO",
+    "Available as battery and hardwired versions that can be mixed",
+    "Works with the Google Home and First Alert apps; not Matter-enabled",
+    "Can reuse the Nest Protect mounting bracket",
+    "Interconnect with compatible First Alert alarms and Nest Protect through Google Home",
+    "Check/silence/remote test in the app",
+    "Battery type and life: sources disagree (a Canadian spec sheet lists six CR123A cells and 10-year sensors; one review site claims a 10-year sealed lithium battery); confirm on the box"
+   ],
+   "sources": [
+    "https://www.tomsguide.com/best-picks/the-best-smart-smoke-detectors",
+    "https://www.bobvila.com/reviews/first-alert-smart-smoke-alarm-review/",
+    "https://www.firstalert.com/products/sc5-battery-smart-smoke-carbon-monoxide-alarm",
+    "https://store.google.com/product/first_alert_smart_smoke_alarm?hl=en-us",
+    "https://support.google.com/googlehome/answer/16322160",
+    "https://customer.resideo.com/resources/Techlit/TechLitDocuments/BRK-First Alert/FSMCO600NVACL1_SMCO600NV-A_SC5__SpecSheet.pdf"
+   ],
+   "scores": {
+    "install": 8,
+    "reversibility": 8,
+    "value": 6,
+    "compatibility": 6,
+    "portability": 8
+   },
+   "scoreNote": "Easy battery install and a reusable bracket score well; premium price and Google-only ecosystem without Matter limit value and compatibility.",
+   "owners": {
+    "read": 3,
+    "praise": [
+     "Fast three-minute setup with voice prompts",
+     "Dual sensors and smooth Google Home integration"
+    ],
+    "complaints": [
+     "Pricey and fewer features than the Nest Protect",
+     "Alerts depend on an internet connection; the hardwired sibling drew weak ratings at one retailer"
+    ],
+    "sources": [
+     {
+      "title": "Bob Vila: First Alert smart smoke alarm review",
+      "url": "https://www.bobvila.com/reviews/first-alert-smart-smoke-alarm-review/"
+     },
+     {
+      "title": "Tom's Guide: best smart smoke detectors",
+      "url": "https://www.tomsguide.com/best-picks/the-best-smart-smoke-detectors"
+     },
+     {
+      "title": "SmartHomeExplorer: First Alert SC5 SMCO600NV",
+      "url": "https://www.smarthomeexplorer.com/reviews/sensors/first-alert-sc5-smco600nv"
+     }
+    ]
+   }
+  },
+  {
+   "name": "X-Sense Wi-Fi Smoke Alarm XS01-WT",
+   "brand": "X-Sense",
+   "query": "X-Sense Wi-Fi Smoke Alarm XS01-WT",
+   "matchName": "X-Sense Wi-Fi Smoke Alarm XS01-WT",
+   "badge": "Best budget",
+   "summary": "A small photoelectric smoke-only alarm that adds Wi-Fi alerts and app silencing for a low price. It suits a renter who wants phone alerts for one bedroom or hallway and doesn't mind a battery swap.",
+   "renterNote": "It mounts with the included adhesive pad or two screws, so a renter can use the adhesive and leave no holes; ask your landlord before swapping alarms and keep theirs for move-out. Caveat: smoke only (no CO) and the Wi-Fi radio gives it about a one-year battery.",
+   "pros": [
+    "Wi-Fi alerts and app silencing at a budget price",
+    "Adhesive-pad or screw mounting, no wiring",
+    "Photoelectric sensor and a 10-year unit life"
+   ],
+   "cons": [
+    "One replaceable CR123A rated about a year because of the Wi-Fi radio",
+    "No CO detection, no wired or wireless interconnect, no voice assistant support, and a 2.4 GHz-only Wi-Fi connection"
+   ],
+   "facts": [
+    "Sensor: photoelectric smoke only",
+    "Power: one replaceable 3V CR123A lithium; X-Sense rates the battery about 1 year",
+    "Service life 10 years; at least 85 dB at 3 m",
+    "2.4 GHz Wi-Fi via the Tuya/Smart Life-based app; push alerts for alarms, battery, sensor and Wi-Fi faults",
+    "App can mute nuisance alarms",
+    "Mounts with included adhesive pad or two screws and anchors",
+    "Links only to other Wi-Fi XS01 units, not the older XS01-WR"
+   ],
+   "sources": [
+    "https://www.techhive.com/article/3613857/x-sense-xs01-wt-wi-fi-smoke-alarm-review.html",
+    "https://www.mbreviews.com/x-sense-xs01-wt-review/",
+    "https://linkdhome.com/articles/x-sense-xs01-wt-review",
+    "https://the-gadgeteer.com/2022/11/01/x-sense-xs01-wt-wi-fi-smoke-alarm-review-because-choking-on-smoke-is-no-joke"
+   ],
+   "scores": {
+    "install": 9,
+    "reversibility": 9,
+    "value": 9,
+    "compatibility": 4,
+    "portability": 8
+   },
+   "scoreNote": "Adhesive mount and a low price help; the short Wi-Fi battery life and limited integrations (no CO, no voice assistants) hold it back.",
+   "owners": {
+    "read": 3,
+    "praise": [
+     "Easy setup and a clean app",
+     "Remote alerts and the ability to mute false alarms from the phone"
+    ],
+    "complaints": [
+     "Short battery life because of Wi-Fi",
+     "Limited smart home integration"
+    ],
+    "sources": [
+     {
+      "title": "TechHive: X-Sense XS01-WT review",
+      "url": "https://www.techhive.com/article/3613857/x-sense-xs01-wt-wi-fi-smoke-alarm-review.html"
+     },
+     {
+      "title": "MB Reviews: X-Sense XS01-WT",
+      "url": "https://www.mbreviews.com/x-sense-xs01-wt-review/"
+     },
+     {
+      "title": "Linkd Home: X-Sense XS01-WT",
+      "url": "https://linkdhome.com/articles/x-sense-xs01-wt-review"
+     }
+    ]
+   }
+  },
+  {
+   "name": "X-Sense Wi-Fi Smoke and Carbon Monoxide Alarm SC07-WX",
+   "brand": "X-Sense",
+   "query": "X-Sense Wi-Fi Smoke and Carbon Monoxide Alarm SC07-WX",
+   "matchName": "X-Sense Wi-Fi Smoke Carbon Monoxide Alarm SC07-WX",
+   "badge": "Best Wi-Fi combo alarm",
+   "summary": "A combination smoke and CO alarm that connects straight to 2.4 GHz Wi-Fi with no base station. It suits a renter who wants one alarm covering both hazards with phone alerts.",
+   "renterNote": "Screw or adhesive mounting and no hub make it easy to fit and remove, but get your landlord's OK before replacing their alarm and keep it for move-out. Caveat: one reviewer notes a removable-battery alarm is not legal in New York, so check local rules.",
+   "pros": [
+    "Smoke plus CO in one Wi-Fi alarm with no base station",
+    "85 dB alarm with an LED status light and iOS and Android app",
+    "Same family as Bob Vila's and SafeWise's top-rated X-Sense SC07 line"
+   ],
+   "cons": [
+    "Sources disagree on battery: one review says a CR123A rated about a year, another calls it a 10-year built-in battery, so confirm on the box",
+    "2.4 GHz Wi-Fi only; a removable battery may not meet some local codes"
+   ],
+   "facts": [
+    "Detects smoke and carbon monoxide",
+    "Connects directly to 2.4 GHz 802.11 b/g/n Wi-Fi, no base station",
+    "85 dB alarm; LED shows smoke, CO, silence, low battery and Wi-Fi pairing",
+    "iOS and Android app",
+    "Battery rating conflicts across sources (about 1 year CR123A vs 10-year claim); the non-Wi-Fi SC07-W is the one with a 10-year sealed battery"
+   ],
+   "sources": [
+    "https://the-gadgeteer.com/2024/01/10/x-sense-sc07-wx-wi-fi-connected-smoke-and-carbon-monoxide-detector-review-know-whats-happening-even-when-youre-not-at-home/",
+    "https://nascompares.com/review/comprehensive-review-x-sense-wi-fi-smoke-and-carbon-monoxide-alarm-sc07-wx/",
+    "https://www.bobvila.com/reviews/best-smoke-detectors/",
+    "https://www.safewise.com/smoke-alarm-buyers-guide/"
+   ],
+   "scores": {
+    "install": 8,
+    "reversibility": 8,
+    "value": 8,
+    "compatibility": 4,
+    "portability": 8
+   },
+   "scoreNote": "Hub-free install and a combined sensor are strong; X-Sense-app-only control and an unclear battery rating keep compatibility low.",
+   "owners": {
+    "read": 2,
+    "praise": [
+     "Straight-to-Wi-Fi setup with no hub",
+     "Both smoke and CO in one unit"
+    ],
+    "complaints": [
+     "Battery claims differ between reviews",
+     "2.4 GHz only, and legal in some places only with a sealed battery"
+    ],
+    "sources": [
+     {
+      "title": "The Gadgeteer: X-Sense SC07-WX review",
+      "url": "https://the-gadgeteer.com/2024/01/10/x-sense-sc07-wx-wi-fi-connected-smoke-and-carbon-monoxide-detector-review-know-whats-happening-even-when-youre-not-at-home/"
+     },
+     {
+      "title": "NAS Compares: X-Sense SC07-WX review",
+      "url": "https://nascompares.com/review/comprehensive-review-x-sense-wi-fi-smoke-and-carbon-monoxide-alarm-sc07-wx/"
+     }
+    ]
+   }
+  },
+  {
+   "name": "X-Sense Smart Smoke Detectors with SBS50 Base Station (XS0B-MR)",
+   "brand": "X-Sense",
+   "query": "X-Sense Smart Smoke Detector Wireless Interconnected SBS50 Base Station XS0B-MR",
+   "matchName": "X-Sense Smoke Detector SBS50 Base Station",
+   "badge": "Best multi-room set",
+   "summary": "A kit of linked battery smoke alarms plus a Wi-Fi base station, so one alarm sounds all of them and your phone gets the alert. It suits a larger apartment or a renter who wants whole-unit coverage without wiring.",
+   "renterNote": "Alarms are battery-powered and link wirelessly with no wiring; the base station plugs into an outlet. Ask your landlord before swapping alarms and keep theirs for move-out. Caveat: the system is X-Sense-only and the base station has no battery backup.",
+   "pros": [
+    "Wireless interconnect, with voice alerts naming which unit triggered",
+    "One base station supports up to 50 devices over 2.4 GHz Wi-Fi",
+    "Reviewers call the three-alarm bundle good value with loud alarms"
+   ],
+   "cons": [
+    "Only X-Sense devices can join, and no Matter, Apple Home or Google Home; no direct Alexa integration found",
+    "Base station has no battery backup, and rooms use preset names"
+   ],
+   "facts": [
+    "Wireless interconnect between alarms; any one sounding triggers all",
+    "Voice alerts identify the triggering alarm",
+    "SBS50 base station: 2.4 GHz Wi-Fi, up to 50 devices, built-in sounder, no battery backup",
+    "Replaceable 3V CR123A; The Gadgeteer lists battery life 5 years and product life 10 years",
+    "Works with Home Assistant per a German review; not Matter",
+    "Kit contents vary by listing, so check alarm count"
+   ],
+   "sources": [
+    "https://the-gadgeteer.com/2025/07/12/x-sense-smart-smoke-detectors-with-sbs50-base-station-review/",
+    "https://www.expertreviews.co.uk/technology/home-security/x-sense-link-pro-smoke-alarm-with-base-station-review",
+    "https://smarthomecompared.com/hubs/xsense-sbs50-base-station",
+    "https://www.smartzone.de/x-sense-xs0b-mr-rauchmelder-test/"
+   ],
+   "scores": {
+    "install": 8,
+    "reversibility": 8,
+    "value": 7,
+    "compatibility": 4,
+    "portability": 7
+   },
+   "scoreNote": "Battery alarms and a plug-in base station are easy to install and remove; the closed X-Sense ecosystem and extra hub cost hold back compatibility and portability.",
+   "owners": {
+    "read": 3,
+    "praise": [
+     "Loud alarms and clear notifications",
+     "Easy setup and good value for a three-alarm kit"
+    ],
+    "complaints": [
+     "Closed ecosystem, nothing non-X-Sense can join",
+     "Preset room names and no smart home platform support"
+    ],
+    "sources": [
+     {
+      "title": "The Gadgeteer: X-Sense SBS50 review",
+      "url": "https://the-gadgeteer.com/2025/07/12/x-sense-smart-smoke-detectors-with-sbs50-base-station-review/"
+     },
+     {
+      "title": "Expert Reviews: X-Sense Link+ Pro with base station",
+      "url": "https://www.expertreviews.co.uk/technology/home-security/x-sense-link-pro-smoke-alarm-with-base-station-review"
+     },
+     {
+      "title": "Smart Home Compared: X-Sense SBS50",
+      "url": "https://smarthomecompared.com/hubs/xsense-sbs50-base-station"
+     }
+    ]
+   }
+  }
+ ],
+ "serpProducts": [
+  {
+   "name": "Kidde Smart Smoke & CO Alarm with Ring (battery)",
+   "pages": [
+    "https://wcsafety.com/blogs/guides/best-smart-smoke-detector-2026",
+    "https://www.technobezz.com/best/best-smart-smoke-detectors-0de",
+    "https://reviehub.com/?p=9825",
+    "https://bestelectronic.org/best-smart-smoke-alarms/",
+    "https://smarthomeunlocked.com/articles/best-smart-smoke-detector-2026"
+   ]
+  },
+  {
+   "name": "First Alert SC5 Battery Smart Smoke & CO Alarm",
+   "pages": [
+    "https://www.tomsguide.com/best-picks/the-best-smart-smoke-detectors",
+    "https://www.bobvila.com/reviews/first-alert-smart-smoke-alarm-review/",
+    "https://wcsafety.com/blogs/guides/best-smart-smoke-detector-2026"
+   ]
+  },
+  {
+   "name": "X-Sense Wi-Fi Smoke Alarm XS01-WT",
+   "pages": [
+    "https://www.techhive.com/article/3236299/best-smart-smoke-detector.html",
+    "https://rentprep.com/blog/landlord-tips/top-smoke-detectors-for-apartments/"
+   ]
+  },
+  {
+   "name": "X-Sense Wi-Fi Smoke and CO Alarm SC07-WX (SC07 family)",
+   "pages": [
+    "https://www.bobvila.com/reviews/best-smoke-detectors/",
+    "https://www.safewise.com/smoke-alarm-buyers-guide/"
+   ]
+  },
+  {
+   "name": "X-Sense Smart Smoke Detectors with SBS50 Base Station",
+   "pages": [
+    "https://www.expertreviews.co.uk/technology/home-security/x-sense-link-pro-smoke-alarm-with-base-station-review",
+    "https://the-gadgeteer.com/2025/07/12/x-sense-smart-smoke-detectors-with-sbs50-base-station-review/"
+   ]
+  },
+  {
+   "name": "Google Nest Protect (2nd Gen) - skipped, discontinued",
+   "pages": [
+    "https://wcsafety.com/blogs/guides/best-smart-smoke-detector-2026",
+    "https://www.tomsguide.com/home/smart-home/google-kills-off-nest-protect-partners-with-first-alert-for-new-smart-smoke-detector"
+   ]
+  },
+  {
+   "name": "First Alert SMCO410 / ZCOMBO Z-Wave - skipped, First Alert store marks it discontinued",
+   "pages": [
+    "https://wcsafety.com/blogs/guides/best-smart-smoke-detector-2026",
+    "https://smarthomecompared.com/smoke-alarms/first-alert-sc5-battery-smart-smoke-co-alarm-vs-first-alert-smco410-smoke-detector-co-alarm"
+   ]
+  }
+ ]
 }
