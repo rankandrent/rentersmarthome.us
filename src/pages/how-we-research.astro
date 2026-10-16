@@ -1,8 +1,24 @@
 ---
 import Page from '../layouts/Page.astro';
+import { SITE } from '../lib/site';
 ---
-<Page title="How we research products" description="The renter-first criteria RenterSmartHome uses to evaluate smart locks, cameras, thermostats, lighting and plugs.">
-  <p>Every recommendation on RenterSmartHome goes through the same renter-first checklist. We combine manufacturer specifications and installation manuals, independent lab and owner reviews, platform compatibility data (Matter, Thread, Alexa, Google Home, Apple Home) and our own lease-safety criteria.</p>
+<Page title="How we research products" description="How RenterSmartHome picks, checks and re-checks every renter-friendly product it recommends: top-10 research, maker specs, owner reviews, QA and AI use.">
+  <p>Every recommendation on {SITE.name} goes through the same renter-first process. We combine manufacturer specifications and installation manuals, retailer and owner reviews, independent expert reviews, platform compatibility data (Matter, Thread, Alexa, Google Home, Apple Home) and our own lease-safety criteria.</p>
+  <h2>How we choose which products to feature</h2>
+  <ol>
+    <li><strong>We start from what people search for.</strong> Every guide targets a real search question, checked against keyword data, so we write about things readers actually ask.</li>
+    <li><strong>We look at what the top-ranking guides recommend.</strong> We search the guide's main keyword and read the top 10 results (leaving out Amazon, shopping carousels and video). We feature products that at least two of those pages recommend, most-recommended first. We never add a product that none of them recommend.</li>
+    <li><strong>The product must be buyable as one clear Amazon listing.</strong> Every pick links to its own Amazon product page (not a search page), and the listing has to be the same model we write about, not a similar one. If a model has no listing of its own, we choose the closest model Amazon does sell and rewrite the guide around it.</li>
+    <li><strong>Specs come from the maker.</strong> We check every specification against manufacturer pages, manuals and retailer spec sheets, and each guide lists its sources at the end. Where makers or retailers disagree, we say so, and where nothing is published we write "not listed" instead of guessing.</li>
+  </ol>
+  <h2>What real owners say</h2>
+  <p>For every product we read what buyers and owners report before we recommend it: retailer review pages (such as Best Buy, REI, B&amp;H, Adorama and Home Depot), owner discussions on forums and communities, and long-term and expert reviews. Each product shows a short "What owners and reviewers say" block with what people praise and what they complain about, written in our own words, with links to the pages we read.</p>
+  <ul>
+    <li>Every guide opens with a "How we picked these" box that totals what we read: the number of retailer reviews our summaries draw on, and the number of individual posts and reviews we read across how many sources.</li>
+    <li>We only count what we actually saw. If we could not find owner reviews for an exact model, we say so in the guide or leave the block out; we never pad a number.</li>
+    <li>We may read Amazon reviews as one input, but we do not copy or quote them, and we do not show Amazon star ratings or review counts.</li>
+    <li>A complaint that many owners share also appears in the product's cons and in the text, so it is not buried.</li>
+  </ul>
   <h2>Our five renter criteria</h2>
   <ol>
     <li><strong>Install footprint.</strong> Adhesive, tension-mount, plug-in or swap-and-restore. Anything that needs drilling, rewiring or changing a landlord-owned lock is clearly labeled.</li>
@@ -11,8 +27,29 @@ import Page from '../layouts/Page.astro';
     <li><strong>Subscription honesty.</strong> We note which features need a paid plan and what works free.</li>
     <li><strong>Ecosystem fit.</strong> We favor Matter-compatible gear so you are not locked into one assistant.</li>
   </ol>
+  <h2>How we score</h2>
+  <p>Each pick gets a <a href="/how-we-score/">RenterSmartHome Score</a> out of 5 built from the renter criteria above. It is a research-based score, not a lab test or a customer-review average, and it does not move with price swings.</p>
+  <h2>What we do not do</h2>
+  <ul>
+    <li><strong>We do not test the products ourselves.</strong> Our guides are research-based: specifications, owner and retailer reviews, expert reviews. We never claim hands-on testing we did not do.</li>
+    <li>We do not publish prices or star ratings. Prices change daily, so use the "Check price" buttons.</li>
+    <li>We do not accept payment for placement, and commission rates do not decide rankings.</li>
+  </ul>
+  <h2>How we use AI</h2>
+  <p>We use AI tools to speed up research, drafting and checking. They gather and organize sources, but every claim in a guide has to trace back to a source that is listed on the page. Automated checks run before a guide is published (see below), and our editorial rules, not a tool, decide what is published.</p>
+  <h2>Checks before and after a guide goes live</h2>
+  <ul>
+    <li><strong>Fact-check gate.</strong> A guide does not go live until a separate review confirms the specs and claims against its sources.</li>
+    <li><strong>Automatic quality checks.</strong> They look for missing sources, dead source links, banned claims (prices, star ratings, testing claims), thin product sections, missing owner research, and Amazon links that point at a different model than the one we describe. A guide that fails stays offline until it is fixed.</li>
+    <li><strong>Daily product data refresh.</strong> Product photos and links come from Amazon's product data and are refreshed every day, so a listing that disappears or changes is noticed.</li>
+    <li><strong>Re-checks of older guides.</strong> We re-verify older guides against their sources, replace discontinued models, and show the "last reviewed" date on every article.</li>
+  </ul>
+  <h2>How we make money</h2>
+  <p>We earn a commission if you buy through our Amazon links, at no extra cost to you. It never changes what we recommend. Read our <a href="/affiliate-disclosure/">affiliate disclosure</a> and <a href="/editorial-policy/">editorial policy</a>.</p>
   <h2>Keeping guides current</h2>
   <p>Products change quickly. We revisit guides regularly, update recommendations when models are replaced, and show the last-updated date on every article. Prices are never hard-coded because they change daily; use the "Check price" buttons for current pricing.</p>
   <h2>Corrections</h2>
-  <p>Spotted something out of date? Email us via the <a href="/contact/">contact page</a> and we will review it promptly.</p>
+  <p>Spotted a wrong spec or an outdated pick? Email us via the <a href="/contact/">contact page</a> and we will review it promptly.</p>
+  <h2>Safety and legal information</h2>
+  <p>Our guides are general information, not legal or electrical advice. Lease terms and local laws vary, so we always tell you when a device touches locks, wiring or HVAC and suggest asking your landlord in writing.</p>
 </Page>
