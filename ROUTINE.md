@@ -119,7 +119,7 @@ comparisons 2-6, guides 1-6), never the same count every day. Give every product
 brief's `targetWords` to roughly 700 + 150 x productCount. Follow the `SYSTEM` prompt in `agents/product-agent.mjs`, using
 web search. For each product: `name` (exact model), `brand`, `query` (what a
 shopper types on Amazon), `badge`, `summary`, `renterNote`, `pros`, `cons`, and
-the source URLs you used. Leave `asin` out: the Amazon refresh workflow adds the
+the source URLs you used. Name each product the way its Amazon listing names the same model (brand + model words Amazon uses, no extra kit/bundle words), or add a short `matchName` with those words; the Amazon refresh only attaches a photo when every distinctive word of the name is in the listing title, so over-specific names leave the product without a photo. Never point it at a different model or variant. Leave `asin` out: the Amazon refresh workflow adds the
 real ASIN and product photo after you push.
 
 ## 4. Semantic brief
