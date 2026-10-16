@@ -236,6 +236,7 @@ products:
       sources:
         - title: Walmart Zircon StudSensor HD70 listing
           url: 'https://www.walmart.com/ip/544622201'
+          reviews: 2
   - name: Bosch GMS 120
     brand: Bosch
     query: Bosch GMS 120 digital multi scanner
@@ -360,6 +361,7 @@ products:
       sources:
         - title: Walmart Zircon MetalliScanner m40 listing
           url: 'https://www.walmart.com/ip/3519189735'
+          reviews: 5
 sources:
   - title: Franklin Sensors ProSensor MAX (Franklin Sensors)
     url: 'https://franklinsensors.com/prosensor-max/'

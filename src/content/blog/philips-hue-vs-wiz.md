@@ -103,6 +103,7 @@ products:
             https://512pixels.net/2015/10/review-philips-hue-white-and-color-ambiance-starter-kit/
         - title: Walmart kit listing
           url: 'https://www.walmart.com/ip/592867400'
+          reviews: 56
         - title: Galaxus owner ratings
           url: >-
             https://galaxus.nl/en/s1/product/ratings/philips-hue-white-color-ambiance-bt-starter-kit-e27-9-w-806-lm-2-x-f-light-bulbs-11235541

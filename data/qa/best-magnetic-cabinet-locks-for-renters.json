@@ -1,7 +1,7 @@
 {
   "slug": "best-magnetic-cabinet-locks-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-16T08:34:45.252Z",
+  "checkedAt": "2026-10-16T08:38:01.577Z",
   "errors": [],
   "warnings": [
     "product \"Safety 1st Adhesive Magnetic Lock System (8 Locks and 2 Keys) HS294\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -9,8 +9,7 @@
     "product \"Jool Baby Magnetic Cabinet Locks (12 Locks, 2 Keys)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Dreambaby Adhesive Mag Lock (4 Locks + 1 Key)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Qdos Adhesive Magnet Lock (4 Pack)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "keyword overlaps /blog/best-smart-lock-for-renters/ (\"best magnetic cabinet locks for renters\" overlaps \"best smart lock for renters\" (100%))",
-    "source didn't respond normally (403): https://www.albeebaby.com/qdos-adhesive-magnet-lock-4-pack-white.html"
+    "keyword overlaps /blog/best-smart-lock-for-renters/ (\"best magnetic cabinet locks for renters\" overlaps \"best smart lock for renters\" (100%))"
   ],
   "factCheck": {
     "verified": true,

@@ -230,6 +230,7 @@ products:
         - title: 'Eve Energy plug reviews, Best Buy'
           url: >-
             https://www.bestbuy.com/site/reviews/eve-energy-smart-plug-matter-white/6546393
+          reviews: 11
         - title: 'Eve Energy (Matter) review, Linkd Home'
           url: 'https://linkdhome.com/reviews/eve-energy-review'
         - title: 'Eve Energy review summary, ShopSavvy'

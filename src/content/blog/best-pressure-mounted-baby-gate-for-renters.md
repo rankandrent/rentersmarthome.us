@@ -82,7 +82,7 @@ products:
       portability: 8
     scoreNote: Pressure mount with wall cups for doorways; never for the top of stairs.
     owners:
-      read: 5
+      read: 8
       praise:
         - Easy to install and sturdy
         - Walk-through door works well for keeping a dog off stairs
@@ -91,9 +91,13 @@ products:
         - >-
           Narrow opening and a raised threshold that can trip, plus fit gaps
           between widths
+        - >-
+          Weld quality questioned; one bar broke within a week, and one toddler
+          opened it quickly
       sources:
         - title: 'Regalo gate reviews, Sam''s Club'
           url: 'https://www.samsclub.com/reviews/product/13577969775?page=57'
+          reviews: 1142
         - title: 'Regalo Easy Step Metal Walk-Through Gate, Target'
           url: >-
             https://www.target.com/p/regalo-easy-step-metal-walk-through-gate/-/A-1009820924

@@ -133,6 +133,19 @@ products:
     scoreNote: >-
       Plug-in indoor camera with free local storage via a Sync Module;
       Alexa-centric.
+    owners:
+      read: 4
+      praise:
+        - Setup is very easy and video is clear
+        - Small enough to fit almost anywhere; motion detection works well
+      complaints:
+        - Recording and cloud clips push buyers toward a monthly subscription
+        - Too many false alerts for some
+        - Does not work with the older Mini pan-tilt base
+      sources:
+        - title: Best Buy customer reviews
+          url: >-
+            https://www.bestbuy.com/product/blink-mini-2-home-security-pet-cameras-with-hd-video-color-night-view-motion-detection-two-way-audio-2-cam-black/J39HW6YTRQ/sku/6576646/reviews
   - name: Blink Sync Module 2
     brand: Blink
     query: Blink Sync Module 2
@@ -193,6 +206,10 @@ products:
             https://community.virginmedia.com/discussions/Wireless/blink-sync-2-module-not-connecting/5509269
         - title: Blink Sync Module 2 on Verizon home 5G
           url: 'https://community.verizon.com/discussion/comment/1756426'
+        - title: Best Buy customer reviews
+          url: >-
+            https://bestbuy.com/site/reviews/blink-sync-module-2-black-white/6428288?page=5
+          reviews: 553
 sources:
   - title: 'Security.org: Blink vs Ring'
     url: 'https://www.security.org/security-cameras/blink-vs-ring/'

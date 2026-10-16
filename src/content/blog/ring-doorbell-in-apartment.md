@@ -92,19 +92,22 @@ products:
       Replaces the existing peephole with no drilling; recordings need a Ring
       Home plan and it fits only certain doors.
     owners:
-      read: 4
+      read: 5
       praise:
         - >-
           Fits over the existing door viewer without drilling, which suits
           rentals
-        - Quick install and app notifications work once set up
+        - >-
+          Easy app setup, with reviewers also citing camera quality, night
+          vision and battery life
       complaints:
         - >-
           Live view or motion alerts sometimes fail after setup; some owners hit
           hardware faults
         - >-
-          Knock sensor weak on solid doors; battery life shorter than claimed on
-          busy streets
+          Needs recharging roughly monthly with heavy use; a storm door can
+          block the night view
+        - Knock sensor weak on solid doors
       sources:
         - title: Ring Peephole Cam Review (Security.org)
           url: 'https://www.security.org/doorbell-camera/ring/review/door-view-cam'
@@ -118,6 +121,13 @@ products:
         - title: Ring Peephole Doorbell Not Working (Ring Community)
           url: >-
             https://community.ring.com/t/ring-peephole-doorbell-not-working/12520
+        - title: Ring Peephole Cam customer reviews (Best Buy)
+          url: >-
+            https://bestbuy.com/site/reviews/ring-peephole-cam-video-doorbell-battery-satin-nickel/6379205?page=3
+          reviews: 701
+        - title: Ring Peephole Cam customer reviews (Home Depot)
+          url: >-
+            https://homedepot.com/p/reviews/Ring-Peephole-Cam-Smart-Wireless-Video-Doorbell-Camera-with-Quick-Release-Battery-2-Way-Talk-and-Knock-Detection-8SPPS9-0EN0/311386247/1
   - name: Ring Battery Doorbell
     brand: Ring
     query: Ring Battery Doorbell
@@ -170,8 +180,12 @@ products:
         - One owner reported no issues with their unit
       complaints:
         - 'Battery drains within weeks for some owners, or unit stops responding'
-        - Wi-Fi drop-outs and support deflection reported on Ring forum
-        - Some units would not snap onto the mounting bracket
+        - >-
+          Battery is not user-replaceable and advanced features need a
+          subscription
+        - >-
+          Wi-Fi drop-outs and some units would not snap onto the mounting
+          bracket
       sources:
         - title: Really disgusted (Ring Community)
           url: >-
@@ -185,6 +199,9 @@ products:
         - title: Doorbell 3 battery not responding (Ring Community)
           url: >-
             https://community.ring.com/conversations/ring-video-doorbell/ring-doorbel-3-battery-not-responding-at-all/675c13d3a13932149a5ed27e
+        - title: Ring Battery Doorbell review summary (ShopSavvy)
+          url: >-
+            https://www.shopsavvy.com/reviews-tldr/ring-battery-doorbell-2024-venetian-bronze
   - name: Ring No-Drill Mount
     brand: Ring
     query: Ring No-Drill Mount battery doorbell

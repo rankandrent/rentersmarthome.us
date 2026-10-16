@@ -238,6 +238,7 @@ products:
         - title: SwitchBot Bot (Walmart)
           url: >-
             https://www.walmart.com/ip/SwitchBot-Bot-Programmable-Bluetooth-Smart-Button-Pusher-Black/387358054
+          reviews: 178
   - name: Sensibo Air
     brand: Sensibo
     query: Sensibo Air smart AC controller
@@ -299,11 +300,13 @@ products:
       sources:
         - title: Sensibo Air reviews (ProductReview.com.au)
           url: 'https://www.productreview.com.au/listings/sensibo-air'
+          reviews: 11
         - title: Sensibo Air review (TechHive)
           url: 'https://www.techhive.com/article/578796/sensibo-air-review.html'
         - title: Sensibo Air owner reviews (PB Tech)
           url: >-
             https://www.pbtech.com/product/SMTSSB1003/SENSIBO-AIR-Smart-Wi-Fi-Air-Conditioner-Controller
+          reviews: 11
         - title: Sensibo for wireless aircon control (Choice Community)
           url: >-
             https://choice.community/t/sensibo-for-wireless-aircon-control-does-it-work/29780

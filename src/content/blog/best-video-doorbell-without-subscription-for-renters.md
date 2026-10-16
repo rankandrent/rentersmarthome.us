@@ -86,17 +86,19 @@ products:
       Battery or wired doorbell with built-in local storage and no monthly fee;
       needs a mount.
     owners:
-      read: 5
+      read: 8
       praise:
+        - >-
+          Second downward camera catches packages; local storage means no
+          subscription
         - Picture quality and delivery security praised by reviewers
-        - No subscription needed
+        - Setup easy and video crisp in reviews
       complaints:
         - >-
           Firmware 3.2.3.0 broke live view, chime and notifications for many
           owners
-        - >-
-          Motion alerts for passing cars; wired power and transformer issues
-          reported
+        - Delayed or unreliable ring notifications and unstable Wi-Fi reported
+        - Battery life and motion alerts for passing cars criticized
       sources:
         - title: 'Eufy community: E340 wired issues'
           url: >-
@@ -109,6 +111,14 @@ products:
             https://www.smarthomeassistent.de/eufy-e340-doorbell-massive-probleme-mit-firmware-3-2-3-0/
         - title: LinkDHome E340 review
           url: 'https://linkdhome.com/reviews/eufy-e340-doorbell-review'
+        - title: Best Buy customer reviews
+          url: >-
+            https://www.bestbuy.com/product/eufy-smart-wi-fi-e340-2k-wired-and-battery-operated-video-doorbell-with-dual-cameras-black/JJ8586VK97/sku/6547262/reviews
+        - title: Walmart customer reviews
+          url: 'https://www.walmart.com/ip/seort/5084823477'
+          reviews: 123
+        - title: ShopSavvy eufy E340 review summary
+          url: 'https://shopsavvy.com/reviews-tldr/eufy-video-doorbell-e340'
   - name: eufy Video Doorbell S220
     brand: eufy
     query: eufy Video Doorbell S220 battery

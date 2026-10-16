@@ -95,7 +95,7 @@ products:
         width: 386
         height: 500
     owners:
-      read: 5
+      read: 6
       praise:
         - Works through thick plaster and paint without false positives
         - 'No batteries, and it holds itself on walls and ceilings'
@@ -216,14 +216,19 @@ products:
     owners:
       read: 2
       praise:
-        - Simple and reliable with no battery
+        - >-
+          No battery or calibration, and simple to read: it only reacts to nails
+          and screws
         - Several owners say it beats pricier electronic finders
+        - 'Quicker and more consistent than battery models, per reviewers'
       complaints:
-        - No recurring complaint in the 2 owner posts we read
+        - Plastic body feels basic; one buyer wanted a softer back
+        - Some spots need extra marking to find the nail center
       sources:
         - title: 'StudBuddy reviews, Lowe''s'
           url: >-
             https://www.lowes.com/reviews/the-studbuddy-000107-stud-finders/1001156644
+          reviews: 292
         - title: 'Reddit stud finder summary, GummySearch'
           url: 'https://gummysearch.com/tools/best-products/stud-finder/'
   - name: The StudBuddy Plus
@@ -274,15 +279,22 @@ products:
         width: 500
         height: 500
     owners:
-      read: 1
+      read: 3
       praise:
-        - 'Magnetic finder with built-in level and ruler, no batteries'
+        - >-
+          Magnet does not run down like a battery and stops once it crosses a
+          stud with nails
+        - 'Strong magnet, with a handy built-in level'
+        - No batteries
       complaints:
-        - No recurring complaint in the 1 owner posts we read
+        - 'Not intended for lath and plaster walls, per the maker'
+        - 'Only one review on Tractor Supply, so little evidence there'
       sources:
         - title: 'StudBuddy Plus listing, Tractor Supply'
           url: >-
             https://tractorsupply.com/tsc/product/the-studbuddy-plus-magnetic-stud-finder-level-and-ruler
+        - title: 'StudBuddy Plus customer reviews, Walmart'
+          url: 'https://www.walmart.com/c/kp/magnet-detector'
   - name: Kreg Magnetic Stud Finder with Laser-Mark KMM1000LZ
     brand: Kreg
     query: Kreg KMM1000LZ Magnetic Stud Finder with Laser
@@ -341,6 +353,8 @@ products:
         - title: 'Kreg KMM1000LZ listing, Grizzly'
           url: >-
             https://www.grizzly.com/products/kreg-kreg-magnetic-stud-finder-with-laser-mark/t33854
+        - title: 'Kreg KMM1000LZ customer reviews, Walmart'
+          url: 'https://www.walmart.com/c/kp/stud-sensor-laser-level'
 sources:
   - title: C.H. Hanson Magnetic Stud Finder 03040 (Ace Hardware)
     url: 'https://www.acehardware.com/p/2302487'

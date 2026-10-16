@@ -97,6 +97,7 @@ products:
       read: 7
       praise:
         - 'Fits existing peepholes and is small, with the battery inside the door'
+        - Easy install and good camera quality per Best Buy buyers
         - 'Easy battery swap, 1080p video'
       complaints:
         - >-
@@ -105,6 +106,7 @@ products:
         - >-
           Live view failures and cable faults in forum posts; no person
           detection, subscription needed
+        - Some Best Buy buyers note slow response or compatibility issues
       sources:
         - title: 'Ring Peephole Cam review, Security.org'
           url: 'https://www.security.org/doorbell-camera/ring/review/door-view-cam'
@@ -113,6 +115,10 @@ products:
         - title: 'Live view not working after flex cable replacement, Ring Community'
           url: >-
             https://community.ring.com/conversations/general-topics/peephole-cam-live-view-not-working-after-flex-cable-replacement/683aabd133343b5c15fe6e07
+        - title: 'Ring Peephole Cam customer reviews, Best Buy'
+          url: >-
+            https://bestbuy.com/site/reviews/ring-peephole-cam-video-doorbell-battery-satin-nickel/6379205?page=3
+          reviews: 701
   - name: Ring Battery Doorbell
     brand: Ring
     query: Ring Battery Doorbell
@@ -290,7 +296,7 @@ products:
       Freestanding camera with microSD recording and a magnetic base; smart
       alerts best with Cam Plus.
     owners:
-      read: 6
+      read: 8
       praise:
         - Strong image quality for the price
         - microSD recording with no required subscription
@@ -311,6 +317,9 @@ products:
             https://kimola.com/reports/unlock-insights-wyze-cam-v4-customer-feedback-analysis-amazon-en-us-155847
         - title: 'Wyze Cam v4, Smart Home Compared'
           url: 'https://smarthomecompared.com/cameras/wyze-cam-v4'
+        - title: 'Wyze Cam v4 customer reviews, Best Buy'
+          url: 'https://www.bestbuy.com/site/reviews/www.bestbuy.com/6579791'
+          reviews: 183
 sources:
   - title: Ring (manufacturer)
     url: 'https://ring.com/'

@@ -98,18 +98,21 @@ products:
       read: 2
       praise:
         - Easy install that keeps your existing deadbolt and exterior key
-        - >-
-          Auto-unlock worked without firing while inside, in one tester's
-          experience
+        - Built-in Wi-Fi means no bridge; auto-lock and remote access liked
       complaints:
+        - >-
+          Inconsistent connectivity and weak battery life are the most common
+          complaints
         - Poor battery life and false low-battery alerts reported by an owner
-        - HomeKit unresponsive within minutes of re-adding for one owner
+        - Setup confusing for some buyers
       sources:
         - title: r/AugustSmartLock post (mirror)
           url: 'https://redlib.hbubli.cc/u/cannotthinkofusrname'
         - title: Best Buy Canada August Wi-Fi 4th gen review
           url: >-
             https://blog.bestbuy.ca/smart-home/august-wi-fi-smart-lock-4th-generation-review
+        - title: ShopSavvy August Wi-Fi Smart Lock 4th Gen review summary
+          url: 'https://shopsavvy.com/reviews-tldr/august-smart-lock-4th-gen'
   - name: SwitchBot Lock Pro
     brand: SwitchBot
     query: SwitchBot Lock Pro

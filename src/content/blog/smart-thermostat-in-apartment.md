@@ -111,6 +111,13 @@ products:
             https://shopsavvy.com/answers/google-nest-thermostat-c-wire-common-wire-installation
         - title: Google Nest Thermostat (Canadian Tire)
           url: 'https://canadiantire.ca/en/pdp/p-0529780p.html'
+        - title: Google Nest Thermostat customer reviews (Best Buy)
+          url: >-
+            https://bestbuy.com/site/reviews/google-nest-smart-programmable-wifi-thermostat-snow/6427015
+          reviews: 2125
+        - title: Google Nest Thermostat customer reviews (Home Depot)
+          url: >-
+            https://homedepot.com/p/reviews/Google-Nest-Thermostat-Smart-Programmable-Wi-Fi-Thermostat-Snow-GA01334-US/314573006/1
   - name: ecobee Smart Thermostat Essential
     brand: ecobee
     query: ecobee Smart Thermostat Essential
@@ -162,15 +169,19 @@ products:
       Replaces the wall thermostat and may need the Power Extender Kit at the
       furnace.
     owners:
-      read: 3
+      read: 5
       praise:
-        - Easy installation for many owners
+        - 'Easy installation, with a built-in level and clip-in wire connectors'
+        - >-
+          Works well with HomeKit and Alexa; added sensors even out room
+          temperatures
         - App and geofencing liked
       complaints:
         - Installs without a C-wire were hard for some owners
+        - 'No built-in voice assistant, so voice control needs a separate device'
         - >-
-          Reports of ignored schedules or overrides and inaccurate temperature
-          readings, mostly on other ecobee models
+          Reports of ignored schedules or inaccurate readings, mostly on other
+          ecobee models
       sources:
         - title: Best Buy ecobee reviews
           url: 'https://www.bestbuy.com/site/reviews/-/5823200?page=96'
@@ -179,6 +190,14 @@ products:
         - title: How To Outsmart Your Ecobee Thermostat
           url: >-
             https://betweennapsontheporch.net/how-to-stop-an-ecobee-smart-thermostat-from-overriding-temperature-settings/
+        - title: ecobee Smart Thermostat Essential customer reviews (Best Buy)
+          url: >-
+            https://bestbuy.com/site/reviews/ecobee-smart-thermostat-essential-programmable-wi-fi-thermostat-works-with-siri-alexa-and-google-assistant-white/6612842?page=2
+          reviews: 107
+        - title: ecobee Smart Thermostat Essential customer reviews (Home Depot)
+          url: >-
+            https://homedepot.com/p/reviews/ecobee-Smart-Thermostat-Essential-Learning-Programmable-Thermostat-EB-STATE7-01/333511723/1
+          reviews: 68
   - name: Mysa Smart Thermostat for Electric Baseboard Heaters
     brand: Mysa
     query: Mysa Smart Thermostat for Electric Baseboard Heaters
@@ -226,13 +245,18 @@ products:
       portability: 5
     scoreNote: Line-voltage thermostat; an electrician installs it in most rentals.
     owners:
-      read: 4
+      read: 6
       praise:
         - 'Easy install and solid Wi-Fi, even far from the router'
         - Unobtrusive look; users report heating savings
       complaints:
-        - Only for line-voltage heat; not for furnaces or boilers
-        - Audible relay click on V2; older V1 keypad unresponsive
+        - >-
+          Only for line-voltage heat; not for furnaces or boilers, and it does
+          not control cooling
+        - >-
+          Check heater wattage: a Walmart reviewer noted the 3800-watt rating
+          exceeds many baseboard circuits
+        - Audible relay click on V2; occasional Wi-Fi connectivity complaints
       sources:
         - title: Mysa review (Best Buy Canada blog)
           url: >-
@@ -245,6 +269,11 @@ products:
         - title: Mysa V2 review comments (Best Buy Canada)
           url: >-
             https://blog.bestbuy.ca/smart-home/mysa-v2-smart-thermostat-for-baseboard-heaters-review/comment-page-2?amp=1
+        - title: Mysa V2.0 customer reviews (Walmart)
+          url: 'https://www.walmart.com/ip/1205644116'
+          reviews: 9
+        - title: Mysa Smart Thermostat 240V review summary (ShopSavvy)
+          url: 'https://www.shopsavvy.com/reviews-tldr/mysa-smart-thermostat-240v'
 sources:
   - title: 'GearBrain: Smart thermostats without a C-wire'
     url: >-

@@ -126,6 +126,8 @@ products:
             https://forums.wyze.com/t/wyze-cam-v4-firmware-beta-test-7-27-2026/344026?page=4
         - title: Firmware update trouble
           url: 'https://forums.wyze.com/t/firmware-update-trouble/344803/28'
+        - title: Best Buy customer reviews
+          url: 'https://www.bestbuy.com/site/reviews/www.bestbuy.com/6579791'
   - name: eufy Indoor Cam C120
     brand: eufy
     query: eufy Indoor Cam C120 2K security camera
@@ -310,6 +312,19 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41ftxbKFhBL._SL500_.jpg'
         width: 500
         height: 500
+    owners:
+      read: 4
+      praise:
+        - Setup is very easy and video is clear
+        - Small enough to fit almost anywhere; motion detection works well
+      complaints:
+        - Recording and cloud clips push buyers toward a monthly subscription
+        - Too many false alerts for some
+        - Does not work with the older Mini pan-tilt base
+      sources:
+        - title: Best Buy customer reviews
+          url: >-
+            https://www.bestbuy.com/product/blink-mini-2-home-security-pet-cameras-with-hd-video-color-night-view-motion-detection-two-way-audio-2-cam-black/J39HW6YTRQ/sku/6576646/reviews
   - name: 'Google Nest Cam (Indoor, Wired) 2nd Gen'
     brand: Google Nest
     query: Google Nest Cam indoor wired 2nd gen
@@ -458,14 +473,21 @@ products:
     owners:
       read: 2
       praise:
-        - One owner reports 472 days of use through rain and snow
-        - Subscription-free local storage
+        - Solar charging removes wiring; reviewers like the easy setup
+        - Clear video and no subscription fee
       complaints:
         - 'Battery drained fast in a busy spot, needing repeated recharges'
         - AI detection needs a separate HomeBase 3
       sources:
         - title: Eufy SoloCam S220 owner comments (Expert Reviews)
           url: 'https://www.expertreviews.co.uk/eufy/eufy-solocam-s220-review'
+        - title: Best Buy customer reviews
+          url: >-
+            https://bestbuy.com/site/reviews/eufy-solocam-s220-outdoor-battery-powered-security-camera-with-solar-charging-white/6547260?rating=4
+          reviews: 32
+        - title: Walmart customer reviews
+          url: 'https://www.walmart.com/ip/3516812098'
+          reviews: 64
   - name: Reolink Argus 3 Pro
     brand: Reolink
     query: Reolink Argus 3 Pro battery camera

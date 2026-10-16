@@ -104,8 +104,9 @@ products:
         - 'Particle board needs the included screws, not just adhesive'
         - Single magnetic key is easy to lose
       sources:
-        - title: Walmart Safety 1st Complete Magnetic Locking System
+        - title: Walmart customer reviews
           url: 'https://www.walmart.com/ip/16782921'
+          reviews: 151
         - title: Navy Exchange Safety 1st Adhesive Magnetic Lock System
           url: >-
             https://www.mynavyexchange.com/safety-1st-adhesive-magnetic-lock-system/13404448
@@ -245,8 +246,9 @@ products:
         - title: Babylist Dreambaby Magnetic Locking System
           url: >-
             https://www.babylist.com/gp/dreambaby-magnetic-locking-system/26092/1236002
-        - title: Walmart Dreambaby Adhesive Mag Lock
+        - title: Walmart customer reviews
           url: 'https://www.walmart.com/ip/40466946'
+          reviews: 63
   - name: Qdos Adhesive Magnet Lock (4 Pack)
     brand: Qdos
     query: Qdos adhesive magnet lock 4 pack

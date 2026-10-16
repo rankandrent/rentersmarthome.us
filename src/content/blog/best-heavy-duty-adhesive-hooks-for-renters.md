@@ -90,6 +90,9 @@ products:
       praise:
         - Reviewers call it strong for coats and ironing boards
         - Installs easily and removes without wall damage
+        - >-
+          Lowe's reviewers call it sturdy for heavier items if kept under the
+          7.5 lb limit
       complaints:
         - Some owners say it fell off a door within days
         - Adhesion fails on some surfaces or below advertised weight
@@ -99,6 +102,10 @@ products:
             https://www.lowes.com/reviews/command-17083es-utility-hooks-and-racks/3050147
         - title: Ocado Command Hooks Jumbo
           url: 'https://ocado.com/products/command-hooks-jumbo-241907011'
+        - title: Lowe's customer reviews
+          url: >-
+            https://www.lowes.com/reviews/command-17004es-utility-hooks-and-racks/1000502619
+          reviews: 130
   - name: Command Large Utility Hook
     brand: Command
     query: Command Large Utility Hooks
@@ -158,6 +165,9 @@ products:
           url: 'https://www.staples.com/ptd/review/395690'
         - title: ShopSavvy TLDR Command Large Utility Hooks
           url: 'https://shopsavvy.com/reviews-tldr/command-large-utility-hooks'
+        - title: Best Buy Command Large Utility Hook
+          url: >-
+            https://www.bestbuy.com/product/command-large-utility-hook-5-lb-white/J7LYP57TG7
   - name: 3M CLAW Drywall Picture Hanger
     brand: 3M
     query: 3M CLAW Drywall Picture Hanger

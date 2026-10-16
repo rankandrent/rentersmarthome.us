@@ -166,6 +166,10 @@ products:
           url: 'https://www.shopsavvy.com/reviews-tldr/vornado-660-air-circulator'
         - title: Desertcart listing reviews
           url: 'https://www.desertcart.com.cy/products/1142683'
+        - title: Walmart customer reviews
+          url: >-
+            https://www.walmart.com/ip/Vornado-660-Whole-Room-Air-Circulator-Fan-Black/13423127
+          reviews: 123
   - name: Lasko Box Fan
     brand: Lasko
     query: Lasko 20 inch box fan

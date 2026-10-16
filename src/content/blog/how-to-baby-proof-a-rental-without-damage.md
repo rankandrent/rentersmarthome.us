@@ -142,10 +142,12 @@ products:
         - Some owners find them tight and need effort to remove
         - One buyer received a pack that had already been opened
       sources:
-        - title: Walmart 36-pack listing
+        - title: Walmart 36-pack customer reviews
           url: 'https://www.walmart.com/ip/587402368'
-        - title: Walmart 32-pack listing
+          reviews: 32
+        - title: Walmart 32-pack customer reviews
           url: 'https://www.walmart.com/ip/47710214'
+          reviews: 12
   - name: Safety 1st Easy Install Walk-Through Gate
     brand: Safety 1st
     query: Safety 1st Easy Install Walk-Through Gate
@@ -208,6 +210,10 @@ products:
         - title: Macy's listing
           url: >-
             https://www.macys.com/shop/product/safety-1st-easy-install-walk-thru-gate?ID=6854134
+        - title: Home Depot customer reviews
+          url: >-
+            https://homedepot.com/p/reviews/Safety-1st-Easy-Install-28-in-Walk-Thru-Gate-GA105WHOF2/300249675/1
+          reviews: 43
   - name: 'Safety 1st Foam Corner Cushions (4-pack, HS209)'
     brand: Safety 1st
     query: Safety 1st Foam Corner Cushions 4 pack
@@ -358,9 +364,10 @@ products:
       complaints:
         - We found no recurring complaint in the few owner posts we read
       sources:
-        - title: Home Depot listing
+        - title: Home Depot customer reviews
           url: >-
             https://homedepot.com/p/QuakeHOLD-Black-Nylon-Furniture-Safety-Strap-4160/100137023
+          reviews: 14
         - title: Ready America
           url: 'https://www.readyamerica.com/product/quakehold-furniture-strap/'
 sources:

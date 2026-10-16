@@ -86,6 +86,25 @@ products:
     scoreNote: >-
       Compact plug-in Alexa speaker with a temperature sensor and Matter
       control.
+    owners:
+      read: 0
+      praise:
+        - 'Retailer reviewers like the sound quality, easy setup and compact size'
+        - Responsive Alexa and smart home control per aggregator summaries
+      complaints:
+        - Occasional Wi-Fi and connectivity problems reported
+        - Voice recognition misses; limited bass; some failures within a year
+      sources:
+        - title: ShopSavvy Echo Dot 5th gen complaints
+          url: >-
+            https://shopsavvy.com/answers/what-are-common-complaints-about-the-echo-dot-5th-gen
+        - title: Best Buy customer reviews
+          url: >-
+            https://bestbuy.com/site/reviews/amazon-echo-dot-5th-gen-2022-release-smart-speaker-with-alexa-charcoal/6522258
+        - title: Lowe's customer reviews
+          url: >-
+            https://www.lowes.com/reviews/amazon-b09b8v1lz3-smart-devices/5015278347
+          reviews: 146
   - name: Amazon Echo Pop
     brand: Amazon
     query: Amazon Echo Pop smart speaker
@@ -109,19 +128,27 @@ products:
       portability: 10
     scoreNote: 'Smallest, cheapest Alexa speaker; fewer smart home extras.'
     owners:
-      read: 2
+      read: 4
       praise:
-        - Compact size and easy setup
-        - Decent sound for its size
+        - 'Affordable, attractive and surprisingly loud for its size'
+        - Compact size and easy setup suit small spaces
       complaints:
+        - Connectivity issues and sometimes unresponsive to commands
         - Tinny or muddy at high volume; weaker than Echo Dot
-        - Wi-Fi disconnects; one Amazon reviewer's unit failed after two months
       sources:
         - title: Reviewed Echo Pop review
           url: 'https://reviewed.com/smarthome/content/amazon-echo-pop-review'
         - title: Expert Reviews Echo Pop review
           url: >-
             https://www.expertreviews.co.uk/smart-speakers/1418764/amazon-echo-pop-review
+        - title: Best Buy customer reviews
+          url: 'https://www.bestbuy.com/site/6544302.p'
+          reviews: 2118
+        - title: Target customer reviews
+          url: >-
+            https://target.com/p/amazon-echo-pop-1st-gen-2023-release-full-sound-compact-smart-speaker-with-alexa-midnight-teal/-/A-89144779
+        - title: ShopSavvy Echo Pop review summary
+          url: 'https://shopsavvy.com/reviews-tldr/amazon-echo-pop'
   - name: Google Nest Mini
     brand: Google
     query: Google Nest Mini 2nd Gen
@@ -168,18 +195,25 @@ products:
       Compact Google speaker with a mic switch; wall slot uses one small nail if
       you hang it.
     owners:
-      read: 3
+      read: 5
       praise:
-        - Audio quality and compact size rated well by buyers
+        - 'Sound quality, easy setup and compact size rated well by buyers'
       complaints:
-        - Wi-Fi drops needing reboots or resets
-        - Unlinks from Google Home app; stray LEDs and false activations
+        - >-
+          Loses connection to devices, needing repeated setup; Bluetooth
+          dropouts with iPhone
+        - Weak bass and microphone complaints; unlinks from Google Home app
       sources:
         - title: MobileSyrup Nest Mini unlink issue
           url: >-
             https://mobilesyrup.com/2021/02/26/google-nest-mini-unlink-google-home-connection-issue/
         - title: Digital Trends Nest Mini issues
           url: 'https://digitaltrends.com/?p=2454524'
+        - title: Best Buy customer reviews
+          url: >-
+            https://bestbuy.com/site/reviews/nest-mini-2nd-generation-with-google-assistant-charcoal/6348880?rating=1
+        - title: Walmart customer reviews
+          url: 'https://www.walmart.com/ip/751612012'
   - name: Apple HomePod mini
     brand: Apple
     query: Apple HomePod mini
@@ -215,12 +249,16 @@ products:
       Compact Siri speaker that doubles as an Apple Home hub; best with an
       iPhone and pricier.
     owners:
-      read: 4
+      read: 6
       praise:
+        - Good sound for its size and easy setup with an iPhone
         - Works well with Apple ecosystem and stereo pairing
       complaints:
-        - Touch sensor can start playback unprompted after a few years
-        - Stereo pair sync and Wi-Fi/HomeKit dropouts reported
+        - Siri struggles with some simple commands
+        - >-
+          Touch sensor can start playback unprompted; stereo pair sync and Wi-Fi
+          dropouts reported
+        - Connectivity problems for some
       sources:
         - title: heise.de HomePod mini touch sensor report
           url: 'https://heise.de/-10627325'
@@ -230,6 +268,12 @@ products:
         - title: MacRumors HomePod thread
           url: >-
             https://spy.macrumors.com/threads/homepods-are-apples-worst-product-ever.2484297/
+        - title: Best Buy customer reviews
+          url: >-
+            https://bestbuy.com/site/reviews/apple-homepod-mini-blue/5902427?page=3
+          reviews: 9617
+        - title: Walmart customer reviews (via Sam's Club)
+          url: 'https://www.samsclub.com/reviews/product/13566522091'
 sources:
   - title: 'Apple: HomePod mini'
     url: 'https://www.apple.com/homepod-mini/'

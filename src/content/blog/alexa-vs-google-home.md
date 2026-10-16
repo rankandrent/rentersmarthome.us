@@ -93,6 +93,30 @@ products:
     scoreNote: >-
       Plug-in speaker with a built-in Zigbee, Thread and Matter hub; Alexa+ is
       extra without Prime.
+    owners:
+      read: 0
+      praise:
+        - Reviewers say sound is the best of any Echo Dot
+        - Setup and smart home integration described as seamless
+        - >-
+          Best Buy buyers say sound is clearly bigger than the regular Echo Dot,
+          loud enough for a kitchen
+      complaints:
+        - Distorts at higher volume and has thin bass
+        - Lightweight body shifts when buttons are pressed
+      sources:
+        - title: SoundGuys Echo Dot Max review
+          url: >-
+            https://www.soundguys.com/amazon-echo-dot-max-review-bigger-dot-better-hub-152545/
+        - title: Expert Reviews Echo Dot Max review
+          url: >-
+            https://www.expertreviews.co.uk/technology/headphones-audio/amazon-echo-dot-max-review
+        - title: T3 Echo Dot Max review
+          url: 'https://www.t3.com/home-living/smart-home/echo-dot-max'
+        - title: Best Buy customer reviews
+          url: >-
+            https://bestbuy.com/product/amazon-echo-dot-max-newest-model-alexa-speaker-w-room-filling-sound-and-built-in-smart-home-hub-designed-for-alexa-graphite/J39TLS9KPV
+          reviews: 50
   - name: Google Home Speaker
     brand: Google
     query: Google Home Speaker Gemini
@@ -145,15 +169,22 @@ products:
       praise:
         - Early buyer liked sound volume and mids and lows for its size
         - Setup and smart home control are easy
+        - Walmart reviewers say it sounds really good
       complaints:
         - Short captive power cable under 5 feet makes repair hard
         - Sometimes needs unplug and replug to fix connection issues
+        - >-
+          Some Walmart reviewers found setup difficult or were confused about a
+          subscription for advanced features
       sources:
         - title: Android Authority Google Home Speaker early unboxing
           url: >-
             https://www.androidauthority.com/google-home-speaker-early-unboxing-3680712/
         - title: ShopSavvy TLDR Google Home Speaker
           url: 'https://shopsavvy.com/reviews-tldr/google-home-speaker'
+        - title: Walmart customer reviews
+          url: 'https://www.walmart.com/ip/17689524552'
+          reviews: 32
   - name: Amazon Echo Studio (2nd Gen)
     brand: Amazon
     query: Amazon Echo Studio 2nd Gen
