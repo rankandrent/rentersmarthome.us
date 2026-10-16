@@ -1,0 +1,16 @@
+{
+  "slug": "wyze-vs-ring-vs-eufy-for-renters",
+  "pass": false,
+  "checkedAt": "2026-10-16T12:59:00.189Z",
+  "errors": [
+    "facts not verified yet: check every product spec and claim against the sources, then run `node scripts/routine.mjs factcheck <slug> \"<notes>\"`"
+  ],
+  "warnings": [
+    "product \"Wyze Cam v4\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Ring Indoor Cam (2nd Gen)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"eufy Indoor Cam C120\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": false
+  }
+}
