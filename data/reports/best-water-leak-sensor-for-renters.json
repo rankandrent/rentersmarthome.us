@@ -1,0 +1,378 @@
+{
+  "keyword": "best water leak sensor for renters",
+  "createdAt": "2026-10-17T13:00:47.926Z",
+  "via": "claude-routine",
+  "brief": {
+    "slug": "best-water-leak-sensor-for-renters",
+    "keyword": "best water leak sensor for renters",
+    "centralEntity": "water leak sensor for renters",
+    "entityVariants": [
+      "smart water leak detector",
+      "water leak detector for apartments",
+      "flood sensor",
+      "water sensor",
+      "leak alarm"
+    ],
+    "entities": [
+      {
+        "name": "YoLink Water Leak Starter Kit",
+        "type": "product",
+        "relation": "hub-based LoRa sensor kit that works through Wi-Fi outages"
+      },
+      {
+        "name": "Govee Water Sensor",
+        "type": "product",
+        "relation": "budget Wi-Fi/Bluetooth sensor with loud local alarm"
+      },
+      {
+        "name": "Aqara Water Leak Sensor",
+        "type": "product",
+        "relation": "Zigbee sensor for HomeKit/Matter setups"
+      },
+      {
+        "name": "TP-Link Tapo T300",
+        "type": "product",
+        "relation": "low-cost hub-based sensor with 90 dB alarm"
+      },
+      {
+        "name": "Kangaroo Water + Climate Sensor",
+        "type": "product",
+        "relation": "portable affordable sensor"
+      },
+      {
+        "name": "SmartThings Water Leak Sensor",
+        "type": "product",
+        "relation": "Zigbee sensor for the SmartThings ecosystem"
+      },
+      {
+        "name": "Flo by Moen",
+        "type": "product",
+        "relation": "whole-home shutoff system, plumber-installed, usually not renter-friendly"
+      },
+      {
+        "name": "Zigbee",
+        "type": "protocol",
+        "relation": "low-power mesh protocol many sensors use"
+      },
+      {
+        "name": "LoRa",
+        "type": "protocol",
+        "relation": "long-range radio used by YoLink hub"
+      },
+      {
+        "name": "Matter",
+        "type": "protocol",
+        "relation": "cross-platform standard for smart home compatibility"
+      },
+      {
+        "name": "renters insurance",
+        "type": "concept",
+        "relation": "covers water damage to belongings and may discount for sensors"
+      },
+      {
+        "name": "landlord notification clause",
+        "type": "lease concept",
+        "relation": "leases often require prompt reporting of leaks"
+      },
+      {
+        "name": "water heater",
+        "type": "location",
+        "relation": "common leak spot"
+      },
+      {
+        "name": "dishwasher",
+        "type": "appliance",
+        "relation": "common leak source"
+      },
+      {
+        "name": "washing machine",
+        "type": "appliance",
+        "relation": "common leak source"
+      },
+      {
+        "name": "under-sink cabinet",
+        "type": "location",
+        "relation": "common placement"
+      }
+    ],
+    "attributes": [
+      "no-drill placement (adhesive/magnetic/freestanding)",
+      "alarm loudness (dB)",
+      "connectivity (Wi-Fi vs hub vs Zigbee)",
+      "battery life and replaceable battery",
+      "phone push alerts",
+      "cost per sensor / kit price",
+      "no subscription",
+      "probe cable length",
+      "waterproof rating (IP67)",
+      "smart-home compatibility",
+      "works through internet outage",
+      "portability for move-out"
+    ],
+    "ngrams": [
+      "water leak sensor",
+      "water leak detector",
+      "leak sensor for renters",
+      "smart water leak detector",
+      "water leak alarm",
+      "push notification",
+      "battery-powered",
+      "no subscription",
+      "under the sink",
+      "water heater",
+      "washing machine",
+      "renters insurance",
+      "Wi-Fi sensor",
+      "hub required",
+      "loud alarm",
+      "removable adhesive"
+    ],
+    "skipgrams": [
+      "leak…sensor",
+      "water…alert",
+      "sensor…under sink",
+      "renters…landlord",
+      "sensor…battery",
+      "alarm…loud",
+      "hub…Wi-Fi",
+      "leak…insurance",
+      "sensor…move out",
+      "water…damage"
+    ],
+    "nlpTerms": [
+      "water damage",
+      "flood",
+      "moisture",
+      "probe",
+      "dishwasher",
+      "water heater",
+      "toilet",
+      "washing machine",
+      "refrigerator",
+      "sump",
+      "Zigbee",
+      "hub",
+      "push notification",
+      "dB",
+      "IP67",
+      "battery",
+      "landlord",
+      "lease",
+      "deposit",
+      "renters insurance",
+      "claim",
+      "shutoff valve",
+      "humidity",
+      "temperature",
+      "smart home app",
+      "Alexa",
+      "Google Home",
+      "HomeKit"
+    ],
+    "questions": [
+      "Do renters need a water leak sensor?",
+      "Where should I put a water leak sensor in an apartment?",
+      "Do water leak sensors need Wi-Fi?",
+      "Will a leak sensor lower renters insurance premiums?",
+      "Can a landlord require or forbid leak sensors?",
+      "How long do leak sensor batteries last?",
+      "Do leak sensors shut off the water?",
+      "What if the leak starts when I'm away?"
+    ],
+    "contentGaps": [
+      "Lease clauses on reporting leaks and who pays for water damage vs renters insurance",
+      "How to tell the landlord/super about a leak alert, with a template message",
+      "Documenting leaks with timestamps/photos from the app for insurance claims",
+      "Why Wi-Fi-only sensors fail in apartments (router distance, closets) and when a hub helps",
+      "Why whole-home shutoff valves like Flo are not renter-friendly and what to do instead",
+      "Placement for upstairs/neighbor-caused leaks (ceiling, behind toilet, near shared walls)",
+      "Move-out: taking sensors with you and removing adhesive without damage",
+      "Alerting a neighbor or friend when you travel"
+    ],
+    "outline": [
+      {
+        "h2": "Short answer: best water leak sensor for renters",
+        "intent": "verdict and quick picks",
+        "h3": []
+      },
+      {
+        "h2": "How we chose these leak sensors for rentals",
+        "intent": "methodology",
+        "h3": [
+          "No-drill placement",
+          "Alerts that work when Wi-Fi is weak",
+          "No subscription"
+        ]
+      },
+      {
+        "h2": "Comparison table: 6 leak sensors at a glance",
+        "intent": "scan comparison",
+        "h3": []
+      },
+      {
+        "h2": "The 6 best water leak sensors for renters",
+        "intent": "product picks (pros and cons per product)",
+        "h3": [
+          "YoLink Water Leak Starter Kit",
+          "Govee Water Sensor",
+          "Aqara Water Leak Sensor",
+          "TP-Link Tapo T300",
+          "SmartThings Water Leak Sensor",
+          "Kangaroo Water + Climate Sensor"
+        ]
+      },
+      {
+        "h2": "Water leak sensor buying guide for apartments",
+        "intent": "decision criteria",
+        "h3": [
+          "Wi-Fi vs hub vs Zigbee",
+          "Alarm volume and battery life",
+          "Sensor vs shutoff valve"
+        ]
+      },
+      {
+        "h2": "Where to put a water leak sensor in a rental",
+        "intent": "placement",
+        "h3": [
+          "Under the sink and behind the toilet",
+          "Water heater, washer and dishwasher",
+          "Near shared walls and ceilings"
+        ]
+      },
+      {
+        "h2": "Leaks, your lease and renters insurance",
+        "intent": "renter-specific gap",
+        "h3": [
+          "What to tell your landlord and when",
+          "Documenting a leak for a claim",
+          "Possible insurance discounts"
+        ]
+      },
+      {
+        "h2": "Moving out: taking your sensors with you",
+        "intent": "renter-specific gap",
+        "h3": []
+      },
+      {
+        "h2": "FAQ",
+        "intent": "PAA questions",
+        "h3": []
+      }
+    ],
+    "targetWords": 1600,
+    "secondaryKeywords": [
+      "water leak detector for apartments",
+      "smart water leak detector for renters",
+      "water sensor for apartment",
+      "flood sensor no wifi",
+      "best wifi water leak sensor",
+      "battery water leak alarm"
+    ],
+    "internalLinkCandidates": [
+      {
+        "slug": "smart-home-for-renters",
+        "url": "/blog/smart-home-for-renters/",
+        "title": "Smart Home for Renters: The Complete No-Drill Guide"
+      },
+      {
+        "slug": "best-smart-smoke-detector-for-apartments",
+        "url": "/blog/best-smart-smoke-detector-for-apartments/",
+        "title": "3 Best Smart Smoke Detectors for Apartments (Renter-Safe, 2026)"
+      },
+      {
+        "slug": "best-matter-smart-plugs",
+        "url": "/blog/best-matter-smart-plugs/",
+        "title": "Best Matter Smart Plugs for Apartments in 2026"
+      },
+      {
+        "slug": "best-wireless-security-cameras-for-apartments",
+        "url": "/blog/best-wireless-security-cameras-for-apartments/",
+        "title": "Best Wireless Security Cameras for Apartments in 2026 (9 Picks)"
+      },
+      {
+        "slug": "best-heavy-duty-adhesive-hooks-for-renters",
+        "url": "/blog/best-heavy-duty-adhesive-hooks-for-renters/",
+        "title": "Best Heavy Duty Adhesive Hooks for Renters (Damage-Free)"
+      },
+      {
+        "slug": "wyze-vs-ring-vs-eufy-for-renters",
+        "url": "/blog/wyze-vs-ring-vs-eufy-for-renters/",
+        "title": "Wyze vs Ring vs Eufy for Renters: Which Plug-In Camera Wins?"
+      }
+    ],
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://reviehub.com/?p=10139",
+        "https://grus.io/blog/best-smart-water-leak-detectors-for-2026/",
+        "https://www.frizzlife.com/blogs/guide/water-leak-detector-for-apartments-smart-water-leak-protection",
+        "https://gulfnews.com/best-buys/home-and-kitchen/e-1.500197479",
+        "https://blog.heykangaroo.com/blog/detect-monitor-and-prevent-water-leaks-detection-for-smart-homes"
+      ],
+      "productStyle": "pros-cons",
+      "productStyleReason": "Roundups in the results list short pros and cons per product (e.g. Govee, Flo), which is easy to scan for a low-cost commodity device.",
+      "avgWords": 1500,
+      "avgProducts": 5,
+      "commonSections": [
+        "short verdict/top pick",
+        "how we chose",
+        "comparison table",
+        "product picks",
+        "buying guide",
+        "placement tips",
+        "FAQ"
+      ],
+      "usesComparisonTable": true,
+      "usesFaq": true,
+      "usesBuyingGuide": true,
+      "note": "WebFetch blocked and Ahrefs unavailable; structure inferred from WebSearch result snippets only (not full page reads). avgWords/avgProducts are estimates. Several results were low-quality or scraped pages."
+    }
+  },
+  "sources": [
+    {
+      "title": "thisoldhouse.com/shop/89967/best-water-leak-detector",
+      "url": "https://thisoldhouse.com/shop/89967/best-water-leak-detector"
+    },
+    {
+      "title": "bobvila.com/articles/best-water-leak-detector",
+      "url": "https://www.bobvila.com/articles/best-water-leak-detector/"
+    },
+    {
+      "title": "reviehub.com",
+      "url": "https://reviehub.com/?p=10139"
+    },
+    {
+      "title": "mayfairfarms.com",
+      "url": "https://www.mayfairfarms.com/?p=35120"
+    },
+    {
+      "title": "shopsavvy.com/reviews-tldr/%22yolink-hub-with-leak-sensors%22.md",
+      "url": "https://shopsavvy.com/reviews-tldr/%22yolink-hub-with-leak-sensors%22.md"
+    },
+    {
+      "title": "smarthome.reviewed.com/best-right-now/best-smart-water-leak-detectors",
+      "url": "https://smarthome.reviewed.com/best-right-now/best-smart-water-leak-detectors"
+    },
+    {
+      "title": "techhive.com/article/616306/eve-water-guard-boasts-thread-connectivity.html",
+      "url": "https://www.techhive.com/article/616306/eve-water-guard-boasts-thread-connectivity.html"
+    },
+    {
+      "title": "iphonelife.com/content/eve-water-guard-review-0",
+      "url": "https://iphonelife.com/content/eve-water-guard-review-0"
+    }
+  ],
+  "backlinks": [
+    {
+      "slug": "best-wireless-security-cameras-for-apartments",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-video-doorbell-without-subscription-for-renters",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-smart-smoke-detector-for-apartments",
+      "mode": "related-box"
+    }
+  ]
+}

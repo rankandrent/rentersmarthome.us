@@ -633,6 +633,7 @@ heroAlt: >-
   Best Wireless Security Cameras for Apartments in 2026 (9 Picks):
   RenterSmartHome buying guide
 related:
+  - best-water-leak-sensor-for-renters
   - best-smart-smoke-detector-for-apartments
 ---
 
