@@ -1,0 +1,18 @@
+{
+  "slug": "best-smart-light-bulbs-for-renters",
+  "pass": false,
+  "checkedAt": "2026-10-17T12:58:30.883Z",
+  "errors": [
+    "facts not verified yet: check every product spec and claim against the sources, then run `node scripts/routine.mjs factcheck <slug> \"<notes>\"`"
+  ],
+  "warnings": [
+    "product \"Philips Hue White and Color Ambiance A19 Bluetooth\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Wyze Bulb Color\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Kasa Smart Light Bulbs KL125\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Tapo L535E\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"WiZ A19 Color\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": false
+  }
+}
