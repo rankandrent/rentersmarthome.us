@@ -10,6 +10,18 @@ export const CRITERIA = [
   { key: 'portability', label: 'Portability', weight: 0.1 },
 ];
 
+// Criterion labels in the other site languages (English labels live in CRITERIA).
+export const CRITERIA_LABELS = {
+  de: { install: 'Montageaufwand', reversibility: 'Rückbaubarkeit', value: 'Preis und Abos', compatibility: 'Smart-Home-Kompatibilität', portability: 'Mitnahme beim Umzug' },
+  es: { install: 'Huella de instalación', reversibility: 'Reversibilidad', value: 'Precio y suscripciones', compatibility: 'Compatibilidad domótica', portability: 'Portabilidad' },
+  nl: { install: 'Installatie-impact', reversibility: 'Omkeerbaarheid', value: 'Prijs en abonnementen', compatibility: 'Smart home-compatibiliteit', portability: 'Meeneembaarheid' },
+};
+
+/** Label of a criterion in a language, falling back to English. */
+export function criterionLabel(key, lang = 'en') {
+  return CRITERIA_LABELS[lang]?.[key] ?? CRITERIA.find((c) => c.key === key)?.label ?? key;
+}
+
 /** Score = sum(criterion x weight) / sum(weights used) / 2, rounded to 0.1 (out of 5). */
 export function renterScore(scores) {
   if (!scores) return null;

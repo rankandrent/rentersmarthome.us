@@ -1,6 +1,8 @@
 ---
+interface Props { href?: string; label?: string }
+const { href = '/', label = 'RenterSmartHome home' } = Astro.props;
 ---
-<a href="/" class="logo" aria-label="RenterSmartHome home">
+<a href={href} class="logo" aria-label={label}>
   <svg viewBox="0 0 40 40" aria-hidden="true">
     <rect width="40" height="40" rx="6" fill="#1b2430"/>
     <path d="M9 19.5L20 11l11 8.5" stroke="#f3f4f1" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>

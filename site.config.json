@@ -9,6 +9,38 @@
     "amazonTag": "mikahtech-20",
     "amazonDomain": "www.amazon.com"
   },
+  "locales": {
+    "en": {
+      "path": "",
+      "hreflang": "en-US",
+      "ogLocale": "en_US",
+      "flag": "🇺🇸",
+      "label": "English"
+    },
+    "de": {
+      "path": "de",
+      "hreflang": "de-DE",
+      "ogLocale": "de_DE",
+      "flag": "🇩🇪",
+      "label": "Deutsch"
+    },
+    "es": {
+      "path": "es",
+      "hreflang": "es-ES",
+      "ogLocale": "es_ES",
+      "flag": "🇪🇸",
+      "label": "Español"
+    },
+    "nl": {
+      "path": "nl",
+      "hreflang": "nl-NL",
+      "ogLocale": "nl_NL",
+      "flag": "🇳🇱",
+      "label": "Nederlands"
+    }
+  },
+  "defaultLocale": "en",
+  "oneLinkScript": "",
   "categories": [
     {
       "slug": "smart-locks",
