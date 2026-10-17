@@ -63,27 +63,27 @@
    ]
   },
   {
-   "name": "YoLink Water Leak Sensor 4 Starter Kit (Hub + 4 Sensors)",
+   "name": "YoLink Water Leak Sensor 1 Kit (4 sensors + hub)",
    "brand": "YoLink",
-   "query": "YoLink Water Leak Starter Kit Hub 4 Leak Sensor 4 105dB siren LoRa",
-   "matchName": "YoLink Water Leak Starter Kit",
+   "query": "YoLink Water Leak Sensor 1 Kit 4-Pack Hub YS7903 LoRa",
+   "matchName": "YoLink Water Leak Sensor",
    "badge": "Best for big or thick-walled apartments",
-   "summary": "A hub plus four sensors with 105 dB sirens that talk over long-range LoRa instead of Wi-Fi. It suits a renter with a basement unit, a far-off laundry room or weak Wi-Fi under the sink.",
-   "renterNote": "Sensors sit loose and the hub plugs in, so it leaves nothing behind. Caveat: it needs the YoLink hub on Ethernet or 2.4 GHz Wi-Fi and exact kit contents vary by listing, so match the Leak Sensor 4 kit.",
+   "summary": "A hub plus four Water Leak Sensor 1 units that talk over long-range LoRa instead of Wi-Fi. It suits a renter with a basement unit, a far-off laundry room or weak Wi-Fi under the sink.",
+   "renterNote": "Sensors sit loose and the hub plugs in, so it leaves nothing behind. Caveat: it needs the YoLink hub on Ethernet or 2.4 GHz Wi-Fi, and reviewers and owners describe app setup and automation linking as fiddly, so match the Water Leak Sensor 1 kit (YS7903).",
    "pros": [
-    "LoRa link reaches where Wi-Fi struggles (listings claim up to a quarter mile open air)",
-    "Each Leak Sensor 4 has a built-in 105 dB siren and up to about 5 years claimed on 2 AAA",
-    "Works with Alexa and IFTTT, and can grow to other YoLink devices"
+    "LoRa link reaches where Wi-Fi struggles (the hub is rated up to about a quarter mile in open air)",
+    "Owners on forums describe the sensors and hub as dependable",
+    "Works with the YoLink app and can grow to other YoLink devices, such as a valve controller"
    ],
    "cons": [
-    "Needs the hub and its own app, so it costs more than a no-hub pack",
-    "Range figures differ between listings, so treat them as maximums"
+    "Needs the hub and its own app, and reviewers call setup and automation linking cumbersome",
+    "Range figures differ between sources, so treat them as maximums"
    ],
    "specs": {
-    "Kit": "1 hub + 4 Leak Sensor 4",
-    "Alarm": "105 dB per sensor",
+    "Kit": "1 hub + 4 Water Leak Sensor 1 (YS7903)",
     "Connectivity": "LoRa to hub; hub on Ethernet or 2.4 GHz Wi-Fi",
-    "Power": "2 AAA per sensor, up to 5 years claimed"
+    "Power": "Replaceable batteries (battery life not confirmed by the sources seen)",
+    "Hub range": "Up to about 1/4 mile open air, per reviews"
    },
    "scores": {
     "install": 8,
@@ -92,14 +92,53 @@
     "compatibility": 8,
     "portability": 8
    },
-   "scoreNote": "No adhesive or tools, great range and integrations; extra hub and higher kit cost hold back value and install.",
+   "scoreNote": "No adhesive or tools, great range; extra hub, fiddly setup and higher kit cost hold back value and install.",
    "sources": [
     "https://thisoldhouse.com/shop/89967/best-water-leak-detector",
     "https://www.bobvila.com/articles/best-water-leak-detector/",
     "https://reviehub.com/?p=10139",
     "https://www.mayfairfarms.com/?p=35120",
     "https://shopsavvy.com/reviews-tldr/\"yolink-hub-with-leak-sensors\".md"
-   ]
+   ],
+   "owners": {
+    "read": 6,
+    "praise": [
+     "Long LoRa range reaches basements and far rooms where other protocols struggle",
+     "Described as dependable (\"rock solid\") by forum owners",
+     "Reliable alerts, and valve shutoff when paired with a YoLink valve"
+    ],
+    "complaints": [
+     "Hub is required, and app setup and manual automation linking feel cumbersome",
+     "Sensors can drop offline or out of third-party integrations until re-paired or the hub is power-cycled",
+     "Sensors must be removed before mopping to avoid false triggers (valve-shutoff setups)"
+    ],
+    "sources": [
+     {
+      "title": "MB Reviews: YoLink Water Leak Sensor 1 Review",
+      "url": "https://www.mbreviews.com/yolink-water-leak-sensor-1-review/"
+     },
+     {
+      "title": "ShopSavvy: TLDR review summary, YoLink Hub with Leak Sensors",
+      "url": "https://shopsavvy.com/reviews-tldr/\"yolink-hub-with-leak-sensors\".md"
+     },
+     {
+      "title": "Universal Devices forum: Loving YoLink",
+      "url": "https://forum.universal-devices.com/topic/42939-loving-yolink/"
+     },
+     {
+      "title": "Home Assistant Community: YoLink integration",
+      "url": "https://community.home-assistant.io/t/yolink-integration/272459?page=25"
+     },
+     {
+      "title": "Homey Community: YoLink app thread",
+      "url": "https://community.homey.app/t/app-pro-yolink-version-1-0-12-live-1-0-14-test/143373?page=6"
+     },
+     {
+      "title": "TechHive: YoSmart YoLink Hub review",
+      "url": "https://www.techhive.com/article/578879/yosmart-yolink-hub-review.html"
+     }
+    ]
+   }
   },
   {
    "name": "SwitchBot Water Leak Detector",

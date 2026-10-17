@@ -1233,7 +1233,7 @@
   },
   {
     "status": "pending",
-    "attempts": 0,
+    "attempts": 1,
     "addedAt": "2026-10-14T08:48:40.167Z",
     "secondaryKeywords": [],
     "questions": [],
@@ -1248,7 +1248,8 @@
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
     "slug": "best-toilet-lock-for-toddlers-rental-friendly",
-    "productCount": 4
+    "productCount": 4,
+    "note": "2026-10-17: skipped, only Wappa had 2+ pages; no owner evidence (page fetch blocked)"
   },
   {
     "status": "pending",
@@ -1272,7 +1273,7 @@
   },
   {
     "status": "pending",
-    "attempts": 0,
+    "attempts": 1,
     "addedAt": "2026-10-14T08:48:40.167Z",
     "secondaryKeywords": [],
     "questions": [],
@@ -1287,7 +1288,8 @@
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
     "slug": "best-refrigerator-lock-for-toddlers-no-drill",
-    "productCount": 4
+    "productCount": 4,
+    "note": "2026-10-17: skipped, only EUDEMON on 2 low-quality pages; no owner evidence (page fetch blocked)"
   },
   {
     "status": "pending",
