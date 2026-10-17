@@ -1,0 +1,10 @@
+{
+ "products": [],
+ "skip": true,
+ "skipReason": "Fewer than 3 products can be shown as recommended by at least 2 distinct top-10 pages. WebFetch was blocked, so pages were only seen through WebSearch summaries.",
+ "serpProducts": [
+  {"name": "Prime-Line S 4136 cam lock (cluster/apartment mailboxes)", "pages": ["https://www.journeymanhq.com/426970/best-mailbox-locks/"], "note": "only 1 page seen; does not qualify"},
+  {"name": "Mail Boss 7500 replacement lock", "pages": ["https://www.journeymanhq.com/426970/best-mailbox-locks/"], "note": "only 1 page seen, and fits only Mail Boss private boxes; does not qualify"},
+  {"name": "Prime-Line S 4573 5-pin cluster lock", "pages": [], "note": "seen only on retailer listings and budgetmailboxes.com mention, not a confirmed recommendation by 2 ranking pages"}
+ ]
+}

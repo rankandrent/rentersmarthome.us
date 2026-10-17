@@ -1,0 +1,32 @@
+{
+ "status": "INSUFFICIENT: only 1 product (Ring Intercom) is a real consumer retrofit device with supporting sources; fewer than the 3-product roundup minimum. Not verified as recommended by 2+ top-10 pages.",
+ "products": [
+  {
+   "name": "Ring Intercom",
+   "brand": "Ring",
+   "query": "Ring Intercom",
+   "matchName": "Ring Intercom",
+   "badge": "Best retrofit for wired building intercoms",
+   "summary": "A small box that wires in beside an existing building intercom handset and sends the visitor call to the Ring app, so a renter can answer and unlock the building entrance from a phone. Ring says basic features need no subscription.",
+   "renterNote": "Suits a renter whose building has a compatible wired intercom and a landlord who approves. Caveat: it only opens the building entrance (not your apartment door), gives no video from a video intercom, and Ring says to run its online compatibility checker and check landlord rules first.",
+   "pros": ["Retrofit box that needs only a screwdriver, per Ring and reviewers", "Answer and unlock from the Ring app; features work without a subscription per sources"],
+   "cons": ["Compatibility depends on your building's intercom; one reviewer reported a long setup that needed a fix from Ring", "No video stream or recording from a video intercom"],
+   "scores": {"install": 6, "reversibility": 6, "value": 6, "compatibility": 5, "portability": 4},
+   "scoreNote": "Wired into the intercom, so removal needs the original wiring restored; compatibility is building-specific.",
+   "owners": {"read": 0, "praise": [], "complaints": [], "sources": []},
+   "sources": [
+    "https://www.techradar.com/reviews/ring-intercom",
+    "https://www.stuff.tv/?p=866648",
+    "https://techcrunch.com/2022/09/01/ring-adds-a-wifi-intercom-add-on-to-its-lineup",
+    "https://www.expertreviews.co.uk/security/1416719/ring-announces-new-smart-intercom",
+    "https://www.aestumanda.com/reviews/2023/01/ring-intercom-an-accessible-and-secure-addition-to-your-home-security/"
+   ]
+  }
+ ],
+ "serpProducts": [
+  {"name": "Ring Intercom", "pages": ["https://techcrunch.com/2022/09/01/ring-adds-a-wifi-intercom-add-on-to-its-lineup", "https://www.expertreviews.co.uk/security/1416719/ring-announces-new-smart-intercom"]},
+  {"name": "Buzr (not on Amazon, unverified)", "pages": ["https://staceyoniot.com/buzr-aims-to-make-your-apartment-intercom-systems-smart/", "https://www.intercomsonline.com/apartment-buzzer-to-cell-phone"]},
+  {"name": "Doorport (2019 prototype, likely discontinued)", "pages": ["https://techcrunch.com/2019/03/17/doorport-wants-to-make-your-apartment-buildings-front-door-smarter/"]},
+  {"name": "Nuki Opener (single seen page set, not Amazon-verified)", "pages": ["https://nuki.io/en/opener"]}
+ ]
+}

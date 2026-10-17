@@ -1,0 +1,293 @@
+{
+  "centralEntity": "no-drill mailbox lock",
+  "entityVariants": [
+    "renter mailbox lock",
+    "apartment mailbox lock",
+    "mailbox lock without drilling",
+    "removable mailbox lock",
+    "clamp-on mailbox lock",
+    "tenant mailbox lock"
+  ],
+  "entities": [
+    {
+      "name": "USPS",
+      "type": "organization",
+      "relation": "owns and regulates cluster box units (CBUs) and their locks; tampering with USPS-owned locks is a federal matter"
+    },
+    {
+      "name": "USPS 4C cluster box unit",
+      "type": "standard",
+      "relation": "apartment mailbox type whose master door and tenant locks are controlled by USPS or the owner"
+    },
+    {
+      "name": "Landlord / property manager",
+      "type": "person/role",
+      "relation": "owns most private apartment mailboxes and must approve any lock change"
+    },
+    {
+      "name": "Cam lock",
+      "type": "hardware",
+      "relation": "standard cylinder lock on apartment mailbox doors; held by a hex nut or horseshoe clip, replaced without drilling"
+    },
+    {
+      "name": "Hex nut / retaining clip",
+      "type": "hardware part",
+      "relation": "fastener that lets a cam lock be swapped with no new holes"
+    },
+    {
+      "name": "Cylinder length",
+      "type": "spec",
+      "relation": "3/4 or 1 inch variants must match the door thickness"
+    },
+    {
+      "name": "Hasp / padlock mailbox lock",
+      "type": "product type",
+      "relation": "clamp or add-on lock for boxes with a hasp or latch, removable at move-out"
+    },
+    {
+      "name": "Magnetic lock",
+      "type": "product type",
+      "relation": "adhesive or magnetic option sometimes suggested for metal doors"
+    },
+    {
+      "name": "Postmaster",
+      "type": "role",
+      "relation": "opens the master door and handles key and lock replacement on USPS-owned boxes"
+    },
+    {
+      "name": "Arrow key",
+      "type": "hardware",
+      "relation": "USPS carrier master key for cluster box units, not for tenant use"
+    },
+    {
+      "name": "18 U.S.C. 1702",
+      "type": "law",
+      "relation": "makes tampering with another person's mail a crime"
+    },
+    {
+      "name": "Lease clause",
+      "type": "legal",
+      "relation": "modification and alteration clauses decide whether a lock change needs written approval"
+    },
+    {
+      "name": "Package theft",
+      "type": "concept",
+      "relation": "main reason renters want a locking mailbox"
+    },
+    {
+      "name": "Lockable parcel box",
+      "type": "product type",
+      "relation": "freestanding alternative that needs no mailbox changes"
+    }
+  ],
+  "attributes": [
+    "no drilling or new holes",
+    "fits existing cam lock cutout",
+    "cylinder length",
+    "number of keys included",
+    "pick resistance",
+    "weather resistance",
+    "reversibility at move-out",
+    "landlord approval required",
+    "USPS compliance",
+    "key slot retained for carrier"
+  ],
+  "ngrams": [
+    "mailbox lock",
+    "apartment mailbox",
+    "no drill",
+    "mailbox lock replacement",
+    "cam lock",
+    "mailbox key",
+    "cluster mailbox",
+    "property manager",
+    "tenant mailbox",
+    "replacement kit",
+    "lock cylinder",
+    "landlord approval",
+    "parcel box",
+    "mail theft",
+    "check your lease"
+  ],
+  "skipgrams": [
+    "mailbox…lock",
+    "lock…replace",
+    "landlord…approval",
+    "cam…cylinder",
+    "drill…lock",
+    "USPS…postmaster",
+    "tenant…key",
+    "mailbox…lease",
+    "lock…cylinder length",
+    "mail…theft",
+    "renter…landlord",
+    "key…duplicate"
+  ],
+  "nlpTerms": [
+    "mailbox",
+    "lock",
+    "cam lock",
+    "cylinder",
+    "keys",
+    "tenant",
+    "landlord",
+    "property manager",
+    "USPS",
+    "postmaster",
+    "cluster box",
+    "master door",
+    "lease",
+    "approval",
+    "drilling",
+    "hex nut",
+    "retaining clip",
+    "rekey",
+    "pick-resistant",
+    "package theft",
+    "mail theft",
+    "carrier",
+    "move-out",
+    "reversible",
+    "weatherproof",
+    "zinc",
+    "brass"
+  ],
+  "questions": [
+    "Can I change my apartment mailbox lock?",
+    "Do I need my landlord's permission to change a mailbox lock?",
+    "Can I put a lock on my apartment mailbox without drilling?",
+    "Who is responsible for replacing a lost mailbox key?",
+    "Is it illegal to change a USPS mailbox lock?",
+    "How do I measure a mailbox cam lock for replacement?",
+    "Will the mail carrier still deliver to a mailbox I re-locked?",
+    "What can I use if I can't change my apartment mailbox lock?"
+  ],
+  "contentGaps": [
+    "Who owns the box (USPS vs landlord) decides everything; top pages skip this",
+    "Lease modification clauses and how to ask the landlord in writing",
+    "Keep the original lock and keys and restore at move-out",
+    "Carrier access rule: delivery requires a working lock or key slot, so do not block the slot",
+    "Never drill out a USPS-owned lock; go to the postmaster",
+    "Fallback options when no lock change is allowed: lockable parcel box, package locker, hold mail, delivery to a pickup location",
+    "How to measure cylinder length and cutout before ordering",
+    "Most top results are drilled wall/post mount boxes, not renter solutions"
+  ],
+  "outline": [
+    {
+      "h2": "Quick answer: what no-drill mailbox lock works for renters",
+      "intent": "snippet answer and top picks up front",
+      "h3": [
+        "Our picks at a glance"
+      ]
+    },
+    {
+      "h2": "Check who owns your apartment mailbox first (USPS vs landlord)",
+      "intent": "rules and permission before buying",
+      "h3": [
+        "USPS-owned cluster boxes",
+        "Landlord-owned boxes",
+        "What to say to your landlord"
+      ]
+    },
+    {
+      "h2": "How we chose the best no-drill mailbox locks",
+      "intent": "methodology and E-E-A-T",
+      "h3": []
+    },
+    {
+      "h2": "The best no-drill mailbox locks for apartment renters",
+      "intent": "product reviews",
+      "h3": [
+        "Pick 1",
+        "Pick 2",
+        "Pick 3",
+        "Pick 4"
+      ]
+    },
+    {
+      "h2": "Comparison table",
+      "intent": "side by side comparison",
+      "h3": []
+    },
+    {
+      "h2": "How to choose a mailbox lock without drilling",
+      "intent": "buying guide",
+      "h3": [
+        "Measure the cylinder and cutout",
+        "Keys and pick resistance",
+        "Weather and fit",
+        "Reversibility"
+      ]
+    },
+    {
+      "h2": "How to swap a cam lock without drilling",
+      "intent": "install steps",
+      "h3": [
+        "Remove the old lock",
+        "Fit the new one",
+        "Keep the originals"
+      ]
+    },
+    {
+      "h2": "If you can't change the lock",
+      "intent": "alternatives",
+      "h3": [
+        "Lockable parcel box",
+        "Hold mail or pickup location"
+      ]
+    },
+    {
+      "h2": "Move-out: restoring your mailbox",
+      "intent": "renter reversibility",
+      "h3": []
+    },
+    {
+      "h2": "FAQ",
+      "intent": "PAA questions",
+      "h3": []
+    }
+  ],
+  "targetWords": 1300,
+  "secondaryKeywords": [
+    "mailbox lock for apartment",
+    "apartment mailbox lock replacement",
+    "mailbox lock without drilling",
+    "can i change my apartment mailbox lock",
+    "removable mailbox lock for renters"
+  ],
+  "internalLinkCandidates": [
+    "best-smart-lock-for-renters",
+    "best-peephole-camera-for-apartments",
+    "best-video-doorbell-without-subscription-for-renters",
+    "best-wireless-security-cameras-for-apartments",
+    "smart-home-for-renters",
+    "ring-doorbell-in-apartment"
+  ],
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.budgetmailboxes.com/blog/mailbox-lock-replacement",
+      "https://www.hunker.com/12162819/how-to-replace-an-apartment-or-condo-mailbox-lock",
+      "https://www.journeymanhq.com/?p=426970",
+      "https://ipropertymanagement.com/laws/tenant-mailbox-rights",
+      "https://www.adoorn.com/blogs/mailbox-guide/locking-wall-mount-apartment-condo",
+      "https://bobvila.com/articles/best-mailbox"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "Few true no-drill roundups exist; the 'best mailbox lock' listicles use short blurbs with pros and cons per product, and four items suit scannable lists.",
+    "avgWords": 1500,
+    "avgProducts": 6,
+    "commonSections": [
+      "quick picks",
+      "product reviews",
+      "buying guide (cylinder length, security features)",
+      "replacement how-to",
+      "check lease / landlord first",
+      "who owns the box (USPS vs landlord)",
+      "FAQ"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true,
+    "note": "Based on WebSearch snippets only (WebFetch blocked), so word counts are estimates. SERP is thin: most results are drilled wall/post-mounted boxes, not renter locks; no results address adhesive or no-drill mounting directly. Rules found: on USPS-owned cluster boxes the lock belongs to USPS, do not drill or swap it, contact the local postmaster; on landlord/HOA-owned boxes management is responsible for locks and keys and approval is needed; tampering with another person's mail is a crime (18 U.S.C. 1702); carriers may refuse delivery to a locking box with no working lock or key slot. Secondary sources are commercial and conflict on cylinder sizes, so verify against USPS before stating specifics. Product-agent should favor cam lock replacement kits and removable options, and never claim a product is adhesive or no-drill without a source."
+  }
+}

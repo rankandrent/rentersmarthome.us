@@ -1,0 +1,90 @@
+{
+  "centralEntity": "smart light bulbs for renters",
+  "entityVariants": ["best smart light bulbs for renters", "smart bulbs", "smart LED bulbs", "WiFi smart bulbs", "smart bulbs for apartments"],
+  "entities": [
+    {"name": "Philips Hue White and Color Ambiance A19", "type": "product", "relation": "premium Zigbee + Bluetooth bulb; best with Hue Bridge"},
+    {"name": "WiZ Connected Color A19", "type": "product", "relation": "hubless Wi-Fi + Bluetooth bulb"},
+    {"name": "Kasa Smart Bulb KL125", "type": "product", "relation": "hubless Wi-Fi bulb with circadian mode"},
+    {"name": "LIFX Color A19", "type": "product", "relation": "hubless Wi-Fi bulb"},
+    {"name": "Govee Smart Light Bulbs", "type": "product", "relation": "budget color bulb with music sync"},
+    {"name": "Wyze Bulb Color", "type": "product", "relation": "budget color bulb"},
+    {"name": "Amazon Basics Smart Bulb", "type": "product", "relation": "cheapest Alexa-only option"},
+    {"name": "Hue Bridge", "type": "hub", "relation": "optional hub for Hue rooms, scenes and remote access"},
+    {"name": "Matter", "type": "protocol", "relation": "cross-platform smart home standard some bulbs support"},
+    {"name": "Zigbee", "type": "protocol", "relation": "mesh radio used by Hue"},
+    {"name": "Bluetooth", "type": "protocol", "relation": "hubless short-range control and setup"},
+    {"name": "Wi-Fi", "type": "protocol", "relation": "direct-to-router control without a hub"},
+    {"name": "E26 base", "type": "hardware part", "relation": "standard US screw-in socket"},
+    {"name": "A19", "type": "bulb shape", "relation": "standard household bulb size"},
+    {"name": "wall switch", "type": "hardware part", "relation": "cutting power breaks smart control"},
+    {"name": "lease", "type": "legal concept", "relation": "fixtures stay; bulbs are swappable and reversible"},
+    {"name": "Alexa, Google Home, Apple Home", "type": "ecosystem", "relation": "voice assistants the bulbs must work with"}
+  ],
+  "attributes": ["hub or no hub", "Matter support", "Wi-Fi vs Zigbee vs Bluetooth", "brightness (lumens)", "color vs white-only", "color rendering (CRI)", "dimming quality", "base and shape fit", "voice assistant compatibility", "wall switch behavior", "reversibility on move-out", "app quality", "scheduling and scenes", "enclosed-fixture rating"],
+  "ngrams": ["smart light bulbs", "smart bulbs", "no hub required", "hub required", "Hue Bridge", "Matter compatible", "color ambiance", "white ambiance", "A19 bulb", "E26 base", "works with Alexa", "Wi-Fi bulbs", "smart bulb starter kit", "wall switch"],
+  "skipgrams": ["bulb…hub", "bulbs…renters", "smart…switch", "bulb…socket", "Matter…bulb", "Hue…Bridge", "bulb…lumens", "swap…original"],
+  "nlpTerms": ["renters", "landlord", "lease", "move-out", "hub", "bridge", "Matter", "Zigbee", "Bluetooth", "Wi-Fi", "lumens", "CRI", "dimming", "color temperature", "Kelvin", "scenes", "schedules", "voice control", "Alexa", "Google Home", "Apple HomeKit", "A19", "E26", "lamp", "fixture", "wall switch", "router", "2.4 GHz", "firmware", "enclosed fixture"],
+  "questions": [
+    "Do smart bulbs need a hub?",
+    "Do smart light bulbs work with a regular wall switch?",
+    "Can renters use smart bulbs without landlord approval?",
+    "What is the best smart bulb with no hub?",
+    "Are Matter smart bulbs worth it?",
+    "Do smart bulbs work in enclosed or rented fixtures?",
+    "Do smart bulbs use Wi-Fi bandwidth?",
+    "Do smart bulbs work if the Wi-Fi goes out?",
+    "Should I take my smart bulbs when I move out?"
+  ],
+  "contentGaps": [
+    "Keep the original bulbs in a labeled bag and restore them on move-out so the unit is returned as found",
+    "Wall-switch problem in shared or landlord-controlled fixtures: tape or a switch guard so roommates do not cut power; no-wiring alternatives",
+    "Enclosed or ceiling fixtures: check the bulb's enclosed-fixture rating and heat; smart bulbs in tight domes can fail early",
+    "Lamps first: moving smart bulbs between lamps you own is the lowest-risk renter setup",
+    "Choosing a system that travels: hubless Wi-Fi/Matter bulbs pack easily vs a Bridge that needs ethernet at the router",
+    "Shared apartment Wi-Fi: 2.4 GHz-only bulbs, captive portals and router access in managed buildings",
+    "Do not rewire or replace the switch: landlord approval issue, so choose bulbs, not smart switches",
+    "Distinct angle from the Hue vs WiZ comparison: a 7-pick roundup by renter use case (lamp, ceiling fixture, budget, color, Matter) rather than a two-brand head-to-head"
+  ],
+  "outline": [
+    {"h2": "Best smart light bulbs for renters: the short answer", "intent": "verdict and quick picks", "h3": []},
+    {"h2": "Our 7 picks at a glance", "intent": "comparison table", "h3": []},
+    {"h2": "The 7 best smart light bulbs for renters", "intent": "product reviews, one paragraph each", "h3": ["Pick 1 to 7 as '### Product name: role' (best overall, best no hub, best budget, best for color, best Matter, best white-only, best for ecosystems)"]},
+    {"h2": "How we chose these smart bulbs", "intent": "methodology and trust", "h3": []},
+    {"h2": "How to choose smart bulbs as a renter", "intent": "buying guide", "h3": ["Hub vs no hub", "Wi-Fi, Zigbee, Bluetooth and Matter", "Brightness, color and CRI", "Base, shape and enclosed fixtures", "Voice assistant compatibility"]},
+    {"h2": "Do smart bulbs work with your wall switches?", "intent": "renter pain point", "h3": ["Switch guards and tape", "When to use a lamp instead"]},
+    {"h2": "Landlord, lease and move-out", "intent": "renter gap", "h3": ["Do you need landlord approval?", "Keep and restore the original bulbs", "Taking your smart bulbs with you"]},
+    {"h2": "Setting up smart bulbs in a rental", "intent": "how-to", "h3": ["Setup steps", "Room and scene tips"]},
+    {"h2": "Smart light bulbs for renters FAQ", "intent": "PAA and snippet capture", "h3": []},
+    {"h2": "Our verdict", "intent": "decision and internal links (Hue vs WiZ, LED strips, smart plugs, smart home guide)", "h3": []}
+  ],
+  "targetWords": 1750,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.pcworld.com/article/2109185/best-smart-home-devices-for-apartment-dwellers.html",
+      "https://smarthomeunlocked.com/articles/smart-home-for-renters-guide",
+      "https://smarthomeunlocked.com/articles/best-smart-light-bulbs-2026/",
+      "https://www.gearbrain.com/install-smart-lighting-rented-house-2559623062.html",
+      "https://blog.frontier.com/2021/06/the-best-smart-home-devices-for-renters/",
+      "https://thepoplight.com/a/blog/how-to-layer-lighting-in-rentals",
+      "https://www.peggyomara.com/best-smart-light-bulbs/"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "Inferred from search snippets (WebFetch blocked, pages not fully read): the renter-focused roundups give a short written paragraph per bulb with a caveat, plus a spec line, rather than strict pro/con lists.",
+    "avgWords": 1500,
+    "avgProducts": 7,
+    "commonSections": ["quick picks / summary", "comparison table", "product reviews", "how we chose", "buying guide (hub vs no hub, Matter, base and shape, lumens)", "renter tips (keep original bulbs, swap back on move-out)", "FAQ"],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true,
+    "note": "Confidence is medium. Pages could not be fetched; structure inferred from WebSearch snippets only. The SERP is mostly affiliate roundups and brand blogs (some low-quality or off-topic domains), and results disagree, for example on Govee Matter support. Verify every spec against maker pages in step 3. Ahrefs volume/KD was not run. serpProducts recommended by at least 2 pages: Philips Hue, WiZ, Kasa, LIFX; Govee, Wyze, Amazon Basics have thinner evidence."
+  },
+  "secondaryKeywords": ["best smart bulbs for renters", "smart bulbs for apartments", "best smart bulbs no hub", "smart bulbs without a hub", "matter smart bulbs", "do smart bulbs need a hub"],
+  "internalLinkCandidates": [
+    {"slug": "philips-hue-vs-wiz", "anchor": "Philips Hue vs WiZ", "reason": "Related two-brand comparison; link from hub-vs-no-hub and verdict. Keep this post a 7-pick roundup by use case."},
+    {"slug": "best-led-strip-lights-for-renters", "anchor": "LED strip lights for renters", "reason": "Complementary lighting"},
+    {"slug": "best-matter-smart-plugs", "anchor": "Matter smart plugs", "reason": "Matter explainer and lamp control alternative"},
+    {"slug": "smart-home-for-renters", "anchor": "smart home for renters guide", "reason": "Pillar page"},
+    {"slug": "alexa-vs-google-home", "anchor": "Alexa vs Google Home", "reason": "Voice assistant choice"},
+    {"slug": "best-voice-assistant-speaker-for-small-apartments", "anchor": "voice assistant speaker for small apartments", "reason": "Voice control for bulbs"}
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "centralEntity": "small rental kitchen organization without drilling",
+  "entityVariants": ["drill-free kitchen organization", "no-drill kitchen storage for renters", "renter-friendly kitchen organizers", "organize a small rental kitchen"],
+  "entities": [
+    {"name": "tension rod", "type": "product type", "relation": "spring-loaded rod that holds under-sink or cabinet storage without screws"},
+    {"name": "adhesive hooks", "type": "product type", "relation": "removable hooks for mugs, utensils and towels on cabinet sides and tile"},
+    {"name": "magnetic racks", "type": "product type", "relation": "hold knives and spice tins on the fridge or a steel surface"},
+    {"name": "over-the-cabinet-door organizer", "type": "product type", "relation": "hooks over the door edge, no mounting"},
+    {"name": "under-shelf basket", "type": "product type", "relation": "clips onto cabinet shelves to add a second level"},
+    {"name": "freestanding shelf / baker's rack", "type": "product type", "relation": "adds vertical storage on the floor or counter"},
+    {"name": "lazy Susan", "type": "product type", "relation": "turntable for corner cabinets and the fridge"},
+    {"name": "shelf risers", "type": "product type", "relation": "stack storage inside deep cabinets"},
+    {"name": "peel-and-stick backsplash", "type": "product type", "relation": "removable wall covering that pairs with adhesive storage"},
+    {"name": "security deposit", "type": "concept", "relation": "what drilling or adhesive damage can cost"},
+    {"name": "lease clause", "type": "legal concept", "relation": "alterations and nail-hole language"},
+    {"name": "rubbing alcohol", "type": "material", "relation": "cleans the surface before adhesive mounting"},
+    {"name": "weight rating", "type": "attribute", "relation": "maximum load of hooks and rods"}
+  ],
+  "attributes": ["weight rating", "install method", "surface compatibility", "removal without residue", "footprint", "cabinet depth", "grease and humidity resistance", "cost"],
+  "ngrams": ["small rental kitchen", "without drilling", "no drill", "drill free", "adhesive hooks", "tension rod", "under cabinet", "over the door", "cabinet door", "security deposit", "vertical space", "countertop clutter", "magnetic rack", "renter friendly"],
+  "skipgrams": ["kitchen…renters", "hooks…cabinet", "tension…rod", "adhesive…residue", "shelf…vertical", "drilling…lease", "organizer…cabinet", "counter…clutter", "weight…rating"],
+  "nlpTerms": ["renters", "landlord", "lease", "deposit", "cabinet", "pantry", "countertop", "utensils", "spices", "pots and pans", "vertical space", "adhesive", "damage-free", "removable", "grease", "humidity", "declutter", "zones", "move-out"],
+  "questions": [
+    "How do I add storage to a rental kitchen without drilling?",
+    "Do adhesive hooks hold up in a kitchen with grease and steam?",
+    "What can I put on a tension rod in a kitchen?",
+    "Can I use Command strips on kitchen cabinets?",
+    "How do I get more counter space in a tiny rental kitchen?",
+    "Will removable storage damage my security deposit?",
+    "How do I store pots and pans without a wall rack?"
+  ],
+  "contentGaps": [
+    "Lease wording on alterations and what actually counts as damage versus normal wear",
+    "Adhesive failure in kitchens: grease, steam and textured or laminate cabinet surfaces, and how to prep them",
+    "Real weight ratings versus what a kitchen item weighs (cast iron, full mugs)",
+    "Removal technique (dental floss, heat, stretch-release) and cleaning residue before move-out",
+    "Whether to ask the landlord, and a short script",
+    "Cost-per-square-foot of storage gained for tiny kitchens",
+    "Zoning a small kitchen by workflow (prep, cook, clean) before buying anything"
+  ],
+  "outline": [
+    {"h2": "How to organize a small rental kitchen without drilling", "intent": "direct answer and overview of drill-free methods", "h3": ["The short answer", "What counts as damage in a lease"]},
+    {"h2": "Check your lease and prep your surfaces first", "intent": "renter risk and adhesive prep", "h3": ["Lease language to look for", "Cleaning surfaces so adhesive holds"]},
+    {"h2": "Our top 5 drill-free kitchen organizers", "intent": "product picks", "h3": ["Tension rod or under-sink organizer", "Adhesive utensil and mug hooks", "Over-the-cabinet-door organizer", "Magnetic knife and spice rack", "Stackable shelf risers or under-shelf baskets"]},
+    {"h2": "Comparison of drill-free kitchen storage options", "intent": "quick comparison table", "h3": []},
+    {"h2": "How to choose the right no-drill storage", "intent": "buying guide", "h3": ["Weight rating and surface type", "Cabinet depth and footprint", "Grease and humidity"]},
+    {"h2": "Layout ideas for a tiny rental kitchen", "intent": "zoning and vertical-space strategy", "h3": ["Use vertical space", "Free the counter", "Cabinet and pantry zones"]},
+    {"h2": "Removing everything cleanly on move-out day", "intent": "deposit protection", "h3": ["Removing adhesive without paint damage", "Restoring the cabinets"]},
+    {"h2": "FAQ", "intent": "People Also Ask", "h3": []}
+  ],
+  "targetWords": 1450,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.apartmenttherapy.com/best-drill-free-kitchen-organizers-37087046",
+      "https://www.homestyler.com/article/creative-nodrill-rental-kitchen-ideas",
+      "https://www.fossilblu.com/blogs/news/cozy-up-your-rental-kitchen-smart-upgrades-without-breaking-the-lease",
+      "https://kitchenwaresets.com/?p=16725",
+      "https://eu.umbra.com/nl/blogs/news/organize-your-kitchen-with-anywhere-tension-organizers"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "Top results are idea/roundup lists with one short written paragraph per organizer type, not spec tables or pro/con lists.",
+    "avgWords": 1300,
+    "avgProducts": 10,
+    "commonSections": ["intro", "tension rods", "adhesive hooks", "over-the-door organizers", "magnetic storage", "freestanding shelves", "tips for renters"],
+    "usesComparisonTable": false,
+    "usesFaq": false,
+    "usesBuyingGuide": false,
+    "note": "WebFetch was blocked, so structure was inferred from WebSearch snippets and titles of the top results, not full page reads. Word and product averages are estimates."
+  },
+  "secondaryKeywords": ["no drill kitchen storage for renters", "drill free kitchen organizers", "renter friendly kitchen organization", "small apartment kitchen storage without drilling", "rental kitchen storage ideas"],
+  "internalLinkCandidates": [
+    {"slug": "best-heavy-duty-adhesive-hooks-for-renters", "anchor": "heavy duty adhesive hooks"},
+    {"slug": "how-to-baby-proof-a-rental-without-damage", "anchor": "damage-free approach to renting"},
+    {"slug": "best-magnetic-cabinet-locks-for-renters", "anchor": "magnetic cabinet locks"},
+    {"slug": "smart-home-for-renters", "anchor": "renter-friendly upgrades"}
+  ]
+}
