@@ -644,7 +644,7 @@
     "funnel": "mofu",
     "workingTitle": "Ring vs Blink for Renters: Which Camera System Should You Choose?",
     "cluster": "apartment security",
-    "rationale": "150/mo, KD 0, TP 1.7k (Ahrefs); ≤250 long-tail rule",
+    "rationale": "150/mo, KD 0, TP 1.7k (Ahrefs); \u2264250 long-tail rule",
     "ahrefs": {
       "volume": 150,
       "kd": 0,
@@ -1017,7 +1017,8 @@
     "cluster": "security",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-water-leak-sensor-for-renters"
+    "slug": "best-water-leak-sensor-for-renters",
+    "productCount": 6
   },
   {
     "status": "pending",
@@ -1130,7 +1131,8 @@
     "cluster": "smart-locks",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-apartment-intercom-buzzer-alternative"
+    "slug": "best-apartment-intercom-buzzer-alternative",
+    "productCount": 4
   },
   {
     "status": "pending",
@@ -1166,7 +1168,8 @@
     "cluster": "smart-locks",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-no-drill-mailbox-lock-for-apartment-renters"
+    "slug": "best-no-drill-mailbox-lock-for-apartment-renters",
+    "productCount": 4
   },
   {
     "status": "pending",
@@ -1184,7 +1187,8 @@
     "cluster": "lighting",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-smart-light-bulbs-for-renters"
+    "slug": "best-smart-light-bulbs-for-renters",
+    "productCount": 7
   },
   {
     "status": "pending",
@@ -1798,7 +1802,8 @@
     "cluster": "kitchen-bath",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "how-to-organize-small-rental-kitchen-without-drilling"
+    "slug": "how-to-organize-small-rental-kitchen-without-drilling",
+    "productCount": 5
   },
   {
     "status": "pending",
