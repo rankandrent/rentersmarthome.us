@@ -3,12 +3,13 @@
   "lang": "de",
   "translationOf": "alexa-vs-google-home",
   "pass": true,
-  "checkedAt": "2026-10-17T19:09:50.974Z",
+  "checkedAt": "2026-10-17T19:15:21.773Z",
   "errors": [],
   "warnings": [
     "internal link to the English post /blog/smart-home-for-renters/; link the de version once it exists",
     "internal link to the English post /blog/best-matter-smart-plugs/; link the de version once it exists",
-    "internal link to the English post /blog/best-peephole-camera-for-apartments/; link the de version once it exists"
+    "internal link to the English post /blog/best-peephole-camera-for-apartments/; link the de version once it exists",
+    "source didn't respond normally (403): https://www.the-ambient.com/versus/alexa-plus-vs-gemini/"
   ],
   "factCheck": {
     "verified": true,
