@@ -1,0 +1,14 @@
+{
+  "slug": "nl/huurwoning-babyproof-maken",
+  "lang": "nl",
+  "translationOf": "how-to-baby-proof-a-rental-without-damage",
+  "pass": true,
+  "checkedAt": "2026-10-17T19:36:59.868Z",
+  "errors": [],
+  "warnings": [],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared line by line with the English post (passes QA): same 6 products/ASINs/scores/sources, same claims; units converted (29-38 in = 74-97 cm, 500 lb = 227 kg, 15 in = 38 cm). Not copied: 'front door' for knob covers and 'cheap' wording in the notes block (English factcheck says both were removed). Added a US-socket fit caution for the US plug protectors; CPSC/JPMA marked as US bodies.",
+    "at": "2026-10-17T19:36:59.156Z"
+  }
+}
