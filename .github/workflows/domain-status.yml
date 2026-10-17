@@ -13,6 +13,10 @@ on:
         description: 'Cloudflare Pages project'
         required: true
         default: 'best-tripod'
+      slugs:
+        description: 'Blog slugs to live-check (space separated)'
+        required: false
+        default: 'best-travel-tripod-for-mirrorless-camera'
 
 jobs:
   status:
@@ -23,6 +27,7 @@ jobs:
       CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID || '62f912a0c185f2042615da812a6e62e6' }}
       DOMAIN: ${{ inputs.domain }}
       PROJECT: ${{ inputs.project }}
+      SLUGS: ${{ inputs.slugs }}
     steps:
       - name: Report
         run: |
@@ -43,6 +48,7 @@ jobs:
             curl -s "$API/accounts/$CLOUDFLARE_ACCOUNT_ID/pages/projects/$PROJECT/domains/$N" -H "$AUTH" | jq '.result | {name, status, validation_data, verification_data, certificate_authority}'
           done
           echo "=== live check"
-          for U in "https://$DOMAIN/blog/best-travel-tripod-for-mirrorless-camera/" "https://$PROJECT.pages.dev/blog/best-travel-tripod-for-mirrorless-camera/"; do
+          for S in $SLUGS; do for U in "https://$DOMAIN/blog/$S/" "https://www.$DOMAIN/blog/$S/" "https://$PROJECT.pages.dev/blog/$S/"; do
             printf '%s -> ' "$U"; curl -s -o /tmp/p.html -w '%{http_code} ' --max-time 20 "$U"; grep -o '<title>[^<]*' /tmp/p.html | head -1; echo "dp links: $(grep -o 'amazon.com/dp/B0' /tmp/p.html | wc -l)"
+          done
           done
