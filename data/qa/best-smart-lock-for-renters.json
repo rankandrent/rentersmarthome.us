@@ -1,13 +1,11 @@
 {
   "slug": "best-smart-lock-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-16T13:12:10.066Z",
+  "checkedAt": "2026-10-17T19:27:42.503Z",
   "errors": [],
   "warnings": [
     "no semantic brief (data/briefs), SEO audit skipped",
-    "keyword overlaps /blog/best-magnetic-cabinet-locks-for-renters/ (\"best smart lock for renters\" overlaps \"best magnetic cabinet locks for renters\" (100%))",
-    "LIVE POST, FIX: source returns 404: https://www.seam.co/img/device-db/aqara/manuals/aqara_smart-lock-u100_user_manual.pdf",
-    "source didn't respond normally (no response): https://www.businesswire.com/news/home/20230608005033/en/Aqara-Introduces-its-First-Deadbolt-Smart-Lock-U100"
+    "keyword overlaps /blog/best-magnetic-cabinet-locks-for-renters/ (\"best smart lock for renters\" overlaps \"best magnetic cabinet locks for renters\" (100%))"
   ],
   "factCheck": {
     "verified": true,

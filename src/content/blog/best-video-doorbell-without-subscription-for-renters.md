@@ -264,9 +264,6 @@ sources:
   - title: 'eufy support: Video Doorbell C31 box contents'
     url: >-
       https://service.eufy.com/article-description/Video-Doorbell-C31-What-s-in-the-Box
-  - title: 'eufy support: Video Doorbell C31/C30 offline troubleshooting'
-    url: >-
-      https://service.anker.com/article-description/Video-Doorbell-C31-C30-What-should-I-do-if-the-doorbell-is-offline
   - title: 'Smart Home Compared: eufy Video Doorbell C31 specs'
     url: >-
       https://smarthomecompared.com/doorbells/eufy-video-doorbell-c31-with-battery-pack

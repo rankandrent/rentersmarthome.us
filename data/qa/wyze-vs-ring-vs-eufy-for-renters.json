@@ -1,12 +1,9 @@
 {
   "slug": "wyze-vs-ring-vs-eufy-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-16T13:13:13.644Z",
+  "checkedAt": "2026-10-17T19:27:43.022Z",
   "errors": [],
-  "warnings": [
-    "source didn't respond normally (403): https://support.wyze.com/hc/en-us/articles/23746258989851-Wyze-Cam-v4-Tech-Specs",
-    "source didn't respond normally (no response): https://bestbuy.com/product/ring-indoor-plug-in-1080p-security-camera-2nd-generation-with-privacy-cover-white/J39HW6QGC4"
-  ],
+  "warnings": [],
   "factCheck": {
     "verified": true,
     "notes": "Re-checked via search results (WebFetch blocked): Wyze Cam v4 2560x1440, 115.8 deg FOV, IP65, 2.4GHz, microSD not included (Wyze tech specs; max card size conflicts 256GB vs 512GB across Wyze pages so post says check spec sheet); Alexa and Google Assistant support confirmed on Wyze compat page, unsupported 'no Apple Home' claim removed from body/scoreNote/spec; Ring Indoor Cam 2nd Gen 1080p, 143/115/59 FOV, manual privacy cover, no microSD, recording needs plan (Ring/Best Buy/Reviewed); Ring Protect renamed Ring Home subscription 5 Nov 2024 per Ring support, post now says Ring Home subscription matching blink-vs-ring-subscription; eufy C120 2K per eufy listing (3 MP only in Amazon title), microSD up to 128GB per eufy EU listing, no HomeBase, Alexa/Google/HomeKit per eufy listings, indoor-only; no prices/ratings/review counts/testing claims; owners sources non-Amazon (Kimola summary only).",
