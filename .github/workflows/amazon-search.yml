@@ -8,6 +8,18 @@ on:
       queries:
         description: 'Search queries, separated by |'
         required: true
+      marketplace:
+        description: 'Amazon store, e.g. www.amazon.de'
+        required: false
+        default: 'www.amazon.com'
+      version:
+        description: 'Creators API credential version (3.1 NA, 3.2 EU)'
+        required: false
+        default: ''
+      asins:
+        description: 'Optional ASINs to look up (comma separated)'
+        required: false
+        default: ''
 
 jobs:
   search:
@@ -24,10 +36,14 @@ jobs:
           QUERIES: ${{ inputs.queries }}
           AMAZON_CREATORS_CREDENTIAL_ID: ${{ secrets.AMAZON_CREATORS_CREDENTIAL_ID }}
           AMAZON_CREATORS_CREDENTIAL_SECRET: ${{ secrets.AMAZON_CREATORS_CREDENTIAL_SECRET }}
-          AMAZON_CREATORS_VERSION: ${{ vars.AMAZON_CREATORS_VERSION }}
+          AMAZON_CREATORS_VERSION: ${{ inputs.version || vars.AMAZON_CREATORS_VERSION }}
+          AMAZON_MARKETPLACE: ${{ inputs.marketplace }}
+          ASINS: ${{ inputs.asins }}
         run: |
           node --input-type=module -e "
-          import { searchItems } from './agents/lib/amazon.mjs';
+          import { searchItems, getItems } from './agents/lib/amazon.mjs';
+          console.log('marketplace ' + process.env.AMAZON_MARKETPLACE);
+          if (process.env.ASINS) for (const it of await getItems(process.env.ASINS.split(',').map((s) => s.trim()))) console.log('  ASIN ' + it.asin + '  ' + it.title.slice(0, 120));
           for (const q of process.env.QUERIES.split('|').map((s) => s.trim()).filter(Boolean)) {
             console.log('\n## ' + q);
             for (const it of await searchItems(q, { itemCount: 10 })) console.log('  ' + it.asin + '  ' + it.title.slice(0, 120));

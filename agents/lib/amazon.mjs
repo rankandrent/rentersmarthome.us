@@ -9,7 +9,9 @@ import { amazonTag } from '../../src/lib/affiliate.mjs';
 import { productMatches } from './product-match.mjs';
 
 const API = 'https://creatorsapi.amazon/catalog/v1';
-const MARKETPLACE = 'www.amazon.com';
+// Default store; other stores (www.amazon.de, .es, .nl ...) are passed per call
+// or via AMAZON_MARKETPLACE. EU stores may need AMAZON_CREATORS_VERSION 3.2.
+const MARKETPLACE = () => process.env.AMAZON_MARKETPLACE || 'www.amazon.com';
 const TOKEN_ENDPOINTS = {
   '2.1': 'https://creatorsapi.auth.us-east-1.amazoncognito.com/oauth2/token',
   '2.2': 'https://creatorsapi.auth.eu-south-2.amazoncognito.com/oauth2/token',
@@ -25,11 +27,12 @@ const version = () => process.env.AMAZON_CREATORS_VERSION || '3.1';
 export const hasAmazonApi = () =>
   Boolean(process.env.AMAZON_CREATORS_CREDENTIAL_ID && process.env.AMAZON_CREATORS_CREDENTIAL_SECRET) && !/REPLACE/.test(amazonTag());
 
-let cached = { token: null, expiresAt: 0 };
+const cache = new Map();
 
 async function token() {
-  if (cached.token && Date.now() < cached.expiresAt) return cached.token;
   const v = version();
+  const cached = cache.get(v);
+  if (cached && Date.now() < cached.expiresAt) return cached.token;
   const lwa = v.startsWith('3.');
   const body = {
     grant_type: 'client_credentials',
@@ -45,11 +48,11 @@ async function token() {
   });
   if (!res.ok) throw new Error(`Amazon token ${res.status}: ${(await res.text()).slice(0, 300)}`);
   const data = await res.json();
-  cached = { token: data.access_token, expiresAt: Date.now() + ((data.expires_in ?? 3600) - 60) * 1000 };
-  return cached.token;
+  cache.set(v, { token: data.access_token, expiresAt: Date.now() + ((data.expires_in ?? 3600) - 60) * 1000 });
+  return data.access_token;
 }
 
-async function call(operation, payload) {
+async function call(operation, payload, { marketplace = MARKETPLACE(), tag = amazonTag() } = {}) {
   const t = await token();
   const v = version();
   const res = await fetch(`${API}/${operation}`, {
@@ -57,15 +60,15 @@ async function call(operation, payload) {
     headers: {
       'Content-Type': 'application/json',
       Accept: 'application/json',
-      'x-marketplace': MARKETPLACE,
+      'x-marketplace': marketplace,
       Authorization: v.startsWith('3.') ? `Bearer ${t}` : `Bearer ${t}, Version ${v}`,
     },
-    body: JSON.stringify({ partnerTag: amazonTag(), marketplace: MARKETPLACE, resources: RESOURCES, ...payload }),
+    body: JSON.stringify({ partnerTag: tag, marketplace, resources: RESOURCES, ...payload }),
     signal: AbortSignal.timeout(30000),
   });
   if (res.status === 429) {
     await new Promise((r) => setTimeout(r, 2000));
-    return call(operation, payload);
+    return call(operation, payload, { marketplace, tag });
   }
   if (!res.ok) throw new Error(`Amazon ${operation} ${res.status}: ${(await res.text()).slice(0, 300)}`);
   return res.json();
@@ -87,15 +90,15 @@ function mapItem(it) {
   };
 }
 
-export async function searchItems(keywords, { itemCount = 5, searchIndex = 'All' } = {}) {
-  const data = await call('searchItems', { keywords, searchIndex, itemCount });
+export async function searchItems(keywords, { itemCount = 5, searchIndex = 'All', marketplace, tag } = {}) {
+  const data = await call('searchItems', { keywords, searchIndex, itemCount }, { marketplace, tag });
   return (data.searchResult?.items ?? []).map(mapItem);
 }
 
-export async function getItems(asins) {
+export async function getItems(asins, { marketplace, tag } = {}) {
   const out = [];
   for (let i = 0; i < asins.length; i += 10) {
-    const data = await call('getItems', { itemIds: asins.slice(i, i + 10) });
+    const data = await call('getItems', { itemIds: asins.slice(i, i + 10) }, { marketplace, tag });
     out.push(...(data.itemsResult?.items ?? []).map(mapItem));
   }
   return out;
