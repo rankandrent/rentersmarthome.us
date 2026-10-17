@@ -1,13 +1,8 @@
 {
   "slug": "best-water-leak-sensor-for-renters",
-  "pass": false,
-  "checkedAt": "2026-10-17T13:03:20.128Z",
-  "errors": [
-    "source returns 410: https://www.techhive.com/article/578595/flo-by-moen-smart-water-detector-review.html",
-    "source returns 410: https://www.techhive.com/article/616306/eve-water-guard-boasts-thread-connectivity.html",
-    "source returns 410: https://www.techhive.com/article/578879/yosmart-yolink-hub-review.html",
-    "source returns 404: https://thisoldhouse.com/shop/89967/best-water-leak-detector"
-  ],
+  "pass": true,
+  "checkedAt": "2026-10-17T13:13:35.425Z",
+  "errors": [],
   "warnings": [],
   "factCheck": {
     "verified": true,

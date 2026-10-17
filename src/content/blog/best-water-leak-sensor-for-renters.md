@@ -96,13 +96,12 @@ products:
       No adhesive or tools, great range; extra hub, fiddly setup and higher kit
       cost hold back value and install.
     sources:
-      - 'https://thisoldhouse.com/shop/89967/best-water-leak-detector'
       - 'https://www.bobvila.com/articles/best-water-leak-detector/'
       - 'https://reviehub.com/?p=10139'
       - 'https://www.mayfairfarms.com/?p=35120'
       - 'https://shopsavvy.com/reviews-tldr/"yolink-hub-with-leak-sensors".md'
     owners:
-      read: 6
+      read: 5
       praise:
         - >-
           Long LoRa range reaches basements and far rooms where other protocols
@@ -132,9 +131,6 @@ products:
         - title: 'Homey Community: YoLink app thread'
           url: >-
             https://community.homey.app/t/app-pro-yolink-version-1-0-12-live-1-0-14-test/143373?page=6
-        - title: 'TechHive: YoSmart YoLink Hub review'
-          url: >-
-            https://www.techhive.com/article/578879/yosmart-yolink-hub-review.html
     asin: B084WYB8PM
     amazonTitle: >-
       YoLink Water Leak Sensor 1 Kit: 4-Pack + Hub | Leak Alerts via Mobile App,
@@ -196,10 +192,7 @@ products:
     sources:
       - >-
         https://smarthome.reviewed.com/best-right-now/best-smart-water-leak-detectors
-      - 'https://thisoldhouse.com/shop/89967/best-water-leak-detector'
       - 'https://www.bobvila.com/articles/best-water-leak-detector/'
-      - >-
-        https://www.techhive.com/article/616306/eve-water-guard-boasts-thread-connectivity.html
       - 'https://iphonelife.com/content/eve-water-guard-review-0'
       - 'https://smarthomecompared.com/water-leak-sensors/eve-water-guard'
     owners:
@@ -255,7 +248,7 @@ products:
       - 'Fast alerts to iOS, Android and email, per Reviewed'
       - Can pair with a Moen shutoff if you later own a home
     cons:
-      - 'No smart assistant or IFTTT integration, per TechHive and Reviewed'
+      - 'No smart assistant or IFTTT integration, per Reviewed'
       - >-
         Owner reports of dead batteries on arrival, and reviews of Moen's wider
         Flo line mention false alarms and weak support
@@ -277,11 +270,9 @@ products:
       - 'https://www.tomsguide.com/best-picks/best-water-leak-detectors'
       - >-
         https://smarthome.reviewed.com/best-right-now/best-smart-water-leak-detectors
-      - >-
-        https://www.techhive.com/article/578595/flo-by-moen-smart-water-detector-review.html
       - 'https://www.looria.com/review/flo-by-moen-smart-water-detector'
     owners:
-      read: 3
+      read: 2
       praise:
         - Reliable leak detection once set up
         - Temperature and humidity readings are a bonus
@@ -291,9 +282,6 @@ products:
           Reports of dead batteries on arrival and unreliable false alarms in
           Moen's wider Flo line
       sources:
-        - title: 'TechHive: Flo by Moen Smart Water Detector review'
-          url: >-
-            https://www.techhive.com/article/578595/flo-by-moen-smart-water-detector-review.html
         - title: 'Looria: Flo by Moen Smart Water Detector review summary'
           url: 'https://www.looria.com/review/flo-by-moen-smart-water-detector'
           reviews: 53
@@ -328,16 +316,6 @@ sources:
   - title: Best smart water leak detectors (Reviewed)
     url: >-
       https://smarthome.reviewed.com/best-right-now/best-smart-water-leak-detectors
-  - title: Flo by Moen Smart Water Detector review (TechHive)
-    url: >-
-      https://www.techhive.com/article/578595/flo-by-moen-smart-water-detector-review.html
-  - title: Eve Water Guard boasts Thread connectivity (TechHive)
-    url: >-
-      https://www.techhive.com/article/616306/eve-water-guard-boasts-thread-connectivity.html
-  - title: YoSmart YoLink Hub review (TechHive)
-    url: 'https://www.techhive.com/article/578879/yosmart-yolink-hub-review.html'
-  - title: Best water leak detector (This Old House)
-    url: 'https://thisoldhouse.com/shop/89967/best-water-leak-detector'
   - title: Best water leak detector (Bob Vila)
     url: 'https://www.bobvila.com/articles/best-water-leak-detector/'
   - title: Best water leak detectors (Tom's Guide)
@@ -414,7 +392,7 @@ My renter checklist looked like this:
 1. **No-drill placement.** The sensor lies on the floor or plugs in; nothing is screwed or glued.
 2. **No subscription.** None of our sources mention a required subscription for alerts on these three.
 3. **Alerts that survive a weak signal.** A Wi-Fi sensor under a sink, behind a fridge or in a closet can lose its link, so range matters.
-4. **Honest owner feedback.** I read owner reviews and forum posts online, not just spec sheets. The numbers are small (six owner sources for YoLink, two for Eve, three for Flo), so I treat them as patterns, not proof.
+4. **Honest owner feedback.** I read owner reviews and forum posts online, not just spec sheets. The numbers are small (five owner sources for YoLink, two for Eve, two for Flo), so I treat them as patterns, not proof.
 5. **Clean move-out.** Everything has to come out in minutes.
 
 > **From our notes:** When I lined up the reviews for these three leak sensors, the specs did not always agree. For the YoLink hub, one review quoted range up to about a quarter mile in open air, while other sources gave different figures, so we treat every range number as a best case. For the Flo by Moen detector, sources disagreed on what batteries it takes, and we could not settle it from the pages we read. We left both conflicts in this guide instead of picking the friendlier number. The owner threads added a third pattern: setup friction came up more often than missed leaks.
@@ -443,13 +421,13 @@ Some forum owners describe the system as dependable and say the range reaches ba
 
 The [Eve Water Guard](amzn:Eve+Water+Guard+connected+water+leak+detector+HomeKit+Thread) is a plug-in base with a 6.5 ft (2 m) sensing cable that detects water anywhere along its length, plus a 100 dB alarm. That cable is the real difference: instead of guarding one spot, you can run it along the front of a dishwasher, behind a fridge water line or around a water heater. Extensions are sold separately. It connects over Thread, a low-power mesh network, and Bluetooth, so there is no bridge and no cloud account; remote alerts and automations need an Apple home hub.
 
-Smart Home Compared describes owners as generally pleased with its reliability and HomeKit integration, and the long cable is the feature reviewers keep returning to. The trade-offs are plain: it is Apple Home only, with no Alexa, Google or SmartThings support, and it needs constant wall power, so the outlet decides where it can go. A small share of buyers also report connection failures, per the reviews we read. TechHive lists the lack of Android support as a drawback, so an Android household should skip it.
+Smart Home Compared describes owners as generally pleased with its reliability and HomeKit integration, and the long cable is the feature reviewers keep returning to. The trade-offs are plain: it is Apple Home only, with no Alexa, Google or SmartThings support, and it needs constant wall power, so the outlet decides where it can go. A small share of buyers also report connection failures, per the reviews we read. Its Amazon listing names Apple HomeKit as the platform, so an Android household should skip it.
 
 ### Flo by Moen Smart Water Detector: Best app and monitoring
 
 The [Flo by Moen Smart Water Detector](amzn:Flo+by+Moen+Smart+Water+Detector) is a single Wi-Fi puck (model 920-004, sold as a 1-pack) that joins your network directly, with no hub. Besides water, it reads temperature and humidity, and Reviewed says alerts reach iOS, Android and email quickly. This is the stand-alone detector, not Moen's whole-home Flo shutoff valve. That valve is plumbed into the main water line, which makes it a landlord decision, not a renter purchase.
 
-Review summaries of this detector, such as Looria and Kimola, point to reliable leak detection once it is set up and appreciation for the extra temperature and humidity readings, though we could not verify every point on those pages. The complaints noted are the higher cost per sensor and some reports of dead batteries on arrival; reviews of Moen's wider Flo line also mention false alarms and weak support, though those reports are not always about this detector. TechHive and Reviewed both note there is no smart assistant or IFTTT integration. Sources also disagree on the battery type, so check the box.
+Review summaries of this detector, such as Looria and Kimola, point to reliable leak detection once it is set up and appreciation for the extra temperature and humidity readings, though we could not verify every point on those pages. The complaints noted are the higher cost per sensor and some reports of dead batteries on arrival; reviews of Moen's wider Flo line also mention false alarms and weak support, though those reports are not always about this detector. Reviewed notes there is no smart assistant or IFTTT integration. Sources also disagree on the battery type, so check the box.
 
 ## Smart water leak detector buying guide for apartments
 
