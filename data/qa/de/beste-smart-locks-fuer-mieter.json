@@ -2,16 +2,16 @@
   "slug": "de/beste-smart-locks-fuer-mieter",
   "lang": "de",
   "translationOf": "best-smart-lock-for-renters",
-  "pass": false,
-  "checkedAt": "2026-10-17T17:43:42.606Z",
-  "errors": [
-    "facts not verified yet: compare every claim with the English post and its sources, then run `node scripts/routine.mjs factcheck de/beste-smart-locks-fuer-mieter \"<notes>\"`"
-  ],
+  "pass": true,
+  "checkedAt": "2026-10-17T17:44:14.317Z",
+  "errors": [],
   "warnings": [
     "internal link to the English post /blog/best-peephole-camera-for-apartments/; link the de version once it exists",
     "internal link to the English post /blog/smart-home-for-renters/; link the de version once it exists"
   ],
   "factCheck": {
-    "verified": false
+    "verified": true,
+    "notes": "Compared line by line with English best-smart-lock-for-renters: all products, specs (60 mm/2-3/8 in, 70 mm/2-3/4 in backsets, 4 AA, CR123, 8 months), times, steps, FAQs and owner notes match the English post; sources are English URLs; no prices, no testing/ownership claims; story block reworded to add no new facts; English links labeled (auf Englisch).",
+    "at": "2026-10-17T17:44:13.762Z"
   }
 }

@@ -416,7 +416,7 @@ Unten stellen wir dir vier Smart Locks für Mieter vor und zeigen, wie du prüfs
 
 Wir haben diese Schlösser nicht selbst getestet, sondern unsere Auswahl anhand von Herstellerangaben, Bedienungsanleitungen, Testberichten und Erfahrungen von Besitzern recherchiert. Die Amazon-Links führen dich über Amazon zu deinem lokalen Amazon-Shop; die Verfügbarkeit kann je nach Land abweichen.
 
-> **Aus unseren Notizen:** Bei unserer Recherche ist uns ein Tipp immer wieder als der wichtigste begegnet: Steck den originalen Drehknauf und die Schrauben in einen beschrifteten Beutel und kleb ihn innen in einen Küchenschrank. Dann liegt am Auszugstag alles bereit, und der Rückbau dauert nur ein paar Minuten.
+> **Aus unseren Notizen:** Der wichtigste Tipp aus unserer Recherche: Steck den originalen Drehknauf und die Schrauben in einen beschrifteten Beutel und kleb ihn innen in einen Küchenschrank. Dann liegt am Auszugstag alles bereit, und der Rückbau geht schnell.
 
 ## Was macht ein Smart Lock mieterfreundlich?
 

@@ -155,5 +155,14 @@
       "category": "security",
       "funnel": "mofu"
     }
+  ],
+  "translated": [
+    {
+      "date": "2026-10-17",
+      "id": "de/beste-smart-locks-fuer-mieter",
+      "lang": "de",
+      "translationOf": "best-smart-lock-for-renters",
+      "pubDate": "2026-10-17T18:15:00.000Z"
+    }
   ]
 }
