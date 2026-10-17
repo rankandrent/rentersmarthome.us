@@ -3,9 +3,11 @@
   "lang": "de",
   "translationOf": "best-video-doorbell-without-subscription-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-17T19:25:24.240Z",
+  "checkedAt": "2026-10-17T19:47:37.808Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "source didn't respond normally (403): https://www.currys.co.uk/techtalk/smart-tech/smart-home/best-video-doorbell-cameras-without-a-subscription.html"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Compared against en/best-video-doorbell-without-subscription-for-renters: same 3 products/ASINs (B0CD7NT4Y9, B0DYJ6X6RR, B0D8M6GNP3), names, scores, specs keys, owners read/sources and the 7 English source URLs. Claims (E340 dual camera, 8GB built-in storage, battery or wired; C31 single 2K 4:3 camera, microSD up to 128GB, optional HomeBase S280/S380/HomeBase 3, removable 6500mAh pack, 24/7 only wired, wired chime or MiniBase Chime T8023, screw bracket + 15-degree wedge, no eufy no-drill mount, 2.4 GHz, Alexa/Google not HomeKit; Tapo D210 microSD, battery), install steps, storage/theft/microSD wear, privacy, features-without-plan and move-out tips match the English post. Notes block reuses the English intro (Ring needs Ring Home to save recordings). No new facts, prices, testing/ownership or local-store claims. Internal links point to the localized sister posts.",

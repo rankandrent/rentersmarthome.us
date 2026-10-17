@@ -247,7 +247,7 @@ products:
       - Felt pads on the back
     cons:
       - Not intended for lath and plaster walls
-      - Finds fasteners, not stud edges
+      - 'Finds fasteners, not stud edges'
     scores:
       install: 10
       reversibility: 10
@@ -261,7 +261,7 @@ products:
     matchName: StudBuddy Pro Magnetic Stud Finder with Level
     amazonTitle: >-
       The Original StudBuddy Pro® Magnetic Stud Finder with Level - Made in the
-      USA - Easy to Use Stud Finder for Drywall and ...
+      USA - Easy to Use Stud Finder for Drywall and Wood
     owners:
       read: 3
       praise:
@@ -279,6 +279,23 @@ products:
             https://tractorsupply.com/tsc/product/the-studbuddy-plus-magnetic-stud-finder-level-and-ruler
         - title: 'StudBuddy Plus customer reviews, Walmart'
           url: 'https://www.walmart.com/c/kp/magnet-detector'
+    image:
+      url: 'https://m.media-amazon.com/images/I/31oPy-+VvaL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/517Roa61Z1L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51RsJ0FwTpL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51RRY5JVPRL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/4169xTeTrUL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Kreg Magnetic Stud Finder with Laser-Mark KMM1000LZ
     brand: Kreg
     query: Kreg KMM1000LZ Magnetic Stud Finder with Laser

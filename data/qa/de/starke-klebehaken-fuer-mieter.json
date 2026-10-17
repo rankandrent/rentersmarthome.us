@@ -3,9 +3,12 @@
   "lang": "de",
   "translationOf": "best-heavy-duty-adhesive-hooks-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-17T19:24:49.373Z",
+  "checkedAt": "2026-10-17T19:47:34.348Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "source didn't respond normally (403): https://www.hookandloop.com/blog/how-much-weight-can-command-strips-hold",
+    "source didn't respond normally (no response): https://www.command.com/"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "2026-10-17: compared every claim with the English post best-heavy-duty-adhesive-hooks-for-renters (QA pass, factcheck 2026-10-14). Same 3 products/ASINs/scores/sources; ratings converted 7.5 lb = 3,4 kg, 5 lb = 2,3 kg; 50-105 F = 10-40 C; 7 days paint cure; 30 s press; rubbing alcohol. Notes block uses only English facts (spare strips, single-use strips, two-line email to landlord). No added facts, prices or testing claims; renter-checklist link kept English, smart plug link to localized sister post.",

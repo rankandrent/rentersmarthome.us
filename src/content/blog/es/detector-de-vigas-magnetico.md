@@ -68,7 +68,7 @@ products:
       - El nivel giratorio comprueba horizontal y vertical
       - No necesita pilas
     cons:
-      - Encuentra tornillos y clavos, no los bordes del montante
+      - 'Encuentra tornillos y clavos, no los bordes del montante'
       - Los vendedores no coinciden en la profundidad de detección
     scores:
       install: 10
@@ -80,7 +80,7 @@ products:
       cajón.
     asin: B08TVXDL83
     image:
-      url: https://m.media-amazon.com/images/I/419uFMV7JRL._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/419uFMV7JRL._SL500_.jpg'
       width: 323
       height: 500
     amazonTitle: >-
@@ -88,23 +88,23 @@ products:
       Detectable Metal/Wood, Rare Earth Magnets, Stud Finders, Magnetic Stud
       Finders, Leveling Tools
     gallery:
-      - url: https://m.media-amazon.com/images/I/51HqIn5WimL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51HqIn5WimL._SL500_.jpg'
         width: 386
         height: 500
-      - url: https://m.media-amazon.com/images/I/21e0p4XVloL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/21e0p4XVloL._SL500_.jpg'
         width: 500
         height: 213
-      - url: https://m.media-amazon.com/images/I/41h4nqX0wvL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41h4nqX0wvL._SL500_.jpg'
         width: 386
         height: 500
-      - url: https://m.media-amazon.com/images/I/41E+D8DuiSL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41E+D8DuiSL._SL500_.jpg'
         width: 386
         height: 500
     owners:
       read: 6
       praise:
         - Funciona a través de yeso grueso y pintura sin falsos positivos
-        - Sin pilas, y se sujeta solo en paredes y techos
+        - 'Sin pilas, y se sujeta solo en paredes y techos'
         - Barato y práctico para colgar cuadros y televisores
       complaints:
         - Cuesta encontrar montantes donde se usaron pocos clavos o tornillos
@@ -112,13 +112,13 @@ products:
           Algunos compradores dicen que falla sobre metal y que no está a la
           altura de los elogios
       sources:
-        - title: C.H. Hanson 03040 reviews, Looria
-          url: https://www.looria.com/review/ch-hanson-03040-magnetic-stud-finder
-        - title: C.H. Hanson 03040 reviews, eBay
+        - title: 'C.H. Hanson 03040 reviews, Looria'
+          url: 'https://www.looria.com/review/ch-hanson-03040-magnetic-stud-finder'
+        - title: 'C.H. Hanson 03040 reviews, eBay'
           url: >-
             https://www.ebay.ca/urw/C.h.+Hanson+03040+Magnetic+Stud+Finder+Compact+and+Lightweight+Ergonomic+Shape/product-reviews/2137524440
-        - title: Reddit stud finder summary, GummySearch
-          url: https://gummysearch.com/tools/best-products/stud-finder/
+        - title: 'Reddit stud finder summary, GummySearch'
+          url: 'https://gummysearch.com/tools/best-products/stud-finder/'
   - name: Kreg Magnetic Stud Finder KMM1000
     brand: Kreg
     query: Kreg KMM1000 Magnetic Stud Finder
@@ -135,7 +135,7 @@ products:
       - Muescas centradas para marcar con precisión a lápiz
       - Funciona con montantes de madera y de metal
     cons:
-      - Encuentra tornillos y clavos, no los bordes del montante
+      - 'Encuentra tornillos y clavos, no los bordes del montante'
       - No lleva regla en el cuerpo
     scores:
       install: 10
@@ -145,23 +145,23 @@ products:
     scoreNote: Sin pilas y con manos libres; nada que instalar y económico.
     asin: B0C4M4QSP3
     image:
-      url: https://m.media-amazon.com/images/I/31Q4PZ0yDkL._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/31Q4PZ0yDkL._SL500_.jpg'
       width: 500
       height: 500
     amazonTitle: >-
       Kreg Magnetic Stud Finder, KMM1000 | Handheld Wall Locator with Strong
       Magnet, Pocket Size, Works on Wood and Metal Studs
     gallery:
-      - url: https://m.media-amazon.com/images/I/4155+mTEt6L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/4155+mTEt6L._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41g8tJSFAnL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41g8tJSFAnL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41KDnCPda9L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41KDnCPda9L._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41UPlDJBDbL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41UPlDJBDbL._SL500_.jpg'
         width: 500
         height: 500
     owners:
@@ -172,7 +172,7 @@ products:
       complaints:
         - Ninguna queja repetida en el 1 comentario de propietarios que leímos
       sources:
-        - title: Kreg KMM1000 listing and rating, Grizzly
+        - title: 'Kreg KMM1000 listing and rating, Grizzly'
           url: >-
             https://www.grizzly.com/products/kreg-kreg-magnetic-stud-finder/t33853
   - name: The StudBuddy Magnetic Stud Finder
@@ -188,7 +188,7 @@ products:
       día que cuelgues un espejo o una estantería.
     pros:
       - Los imanes de neodimio se agarran a las cabezas de los tornillos
-      - Sin pilas, sin electrónica y sin piezas móviles
+      - 'Sin pilas, sin electrónica y sin piezas móviles'
       - Precio bajo
     cons:
       - No está pensado para paredes de yeso sobre listones de madera
@@ -203,7 +203,7 @@ products:
       instalar.
     asin: B00E4690X4
     image:
-      url: https://m.media-amazon.com/images/I/31+7Ezs6UUL._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/31+7Ezs6UUL._SL500_.jpg'
       width: 177
       height: 500
     amazonTitle: >-
@@ -211,16 +211,16 @@ products:
       Use Stud Finder - No Batteries Required - Powerful Magnet Stud Finder -
       Stud Finder for Drywall and Wood
     gallery:
-      - url: https://m.media-amazon.com/images/I/41Ub61o-LkL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41Ub61o-LkL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41lnUPltBrL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41lnUPltBrL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41NItJuiK-L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41NItJuiK-L._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/411NG6xXXdL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/411NG6xXXdL._SL500_.jpg'
         width: 500
         height: 500
     owners:
@@ -232,7 +232,7 @@ products:
         - >-
           Varios propietarios dicen que supera a detectores electrónicos más
           caros
-        - Más rápido y constante que los modelos con pilas, según las opiniones
+        - 'Más rápido y constante que los modelos con pilas, según las opiniones'
       complaints:
         - >-
           El cuerpo de plástico parece básico; un comprador quería una parte
@@ -241,20 +241,20 @@ products:
           En algunos puntos hacen falta más marcas para encontrar el centro del
           clavo
       sources:
-        - title: StudBuddy reviews, Lowe's
+        - title: 'StudBuddy reviews, Lowe''s'
           url: >-
             https://www.lowes.com/reviews/the-studbuddy-000107-stud-finders/1001156644
           reviews: 292
-        - title: Reddit stud finder summary, GummySearch
-          url: https://gummysearch.com/tools/best-products/stud-finder/
+        - title: 'Reddit stud finder summary, GummySearch'
+          url: 'https://gummysearch.com/tools/best-products/stud-finder/'
   - name: The StudBuddy Pro Magnetic Stud Finder with Level
     brand: StudBuddy
     query: StudBuddy Pro Magnetic Stud Finder with Level
     badge: Mejor con nivel y regla
     summary: >-
       El StudBuddy Pro añade al diseño de imán de tierras raras un nivel
-      vertical y otro horizontal, reglas en pulgadas y centímetros y almohadillas
-      de fieltro.
+      vertical y otro horizontal, reglas en pulgadas y centímetros y
+      almohadillas de fieltro.
     renterNote: >-
       Las almohadillas de fieltro ayudan a proteger las paredes pintadas
       mientras lo deslizas buscando tornillos.
@@ -264,7 +264,7 @@ products:
       - Almohadillas de fieltro en la parte trasera
     cons:
       - No está pensado para paredes de yeso sobre listones de madera
-      - Detecta sujeciones, no los bordes del montante
+      - 'Detecta sujeciones, no los bordes del montante'
     scores:
       install: 10
       reversibility: 10
@@ -278,26 +278,43 @@ products:
     matchName: StudBuddy Pro Magnetic Stud Finder with Level
     amazonTitle: >-
       The Original StudBuddy Pro® Magnetic Stud Finder with Level - Made in the
-      USA - Easy to Use Stud Finder for Drywall and ...
+      USA - Easy to Use Stud Finder for Drywall and Wood
     owners:
       read: 3
       praise:
         - >-
           El imán no se agota como una pila y se detiene en cuanto pasa por un
           montante con clavos
-        - Imán potente, con un práctico nivel integrado
+        - 'Imán potente, con un práctico nivel integrado'
         - Sin pilas
       complaints:
         - >-
           No está pensado para paredes de yeso sobre listones de madera, según
           el fabricante
-        - Solo una opinión en Tractor Supply, así que allí hay pocas pruebas
+        - 'Solo una opinión en Tractor Supply, así que allí hay pocas pruebas'
       sources:
-        - title: StudBuddy Plus listing, Tractor Supply
+        - title: 'StudBuddy Plus listing, Tractor Supply'
           url: >-
             https://tractorsupply.com/tsc/product/the-studbuddy-plus-magnetic-stud-finder-level-and-ruler
-        - title: StudBuddy Plus customer reviews, Walmart
-          url: https://www.walmart.com/c/kp/magnet-detector
+        - title: 'StudBuddy Plus customer reviews, Walmart'
+          url: 'https://www.walmart.com/c/kp/magnet-detector'
+    image:
+      url: 'https://m.media-amazon.com/images/I/31oPy-+VvaL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/517Roa61Z1L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51RsJ0FwTpL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51RRY5JVPRL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/4169xTeTrUL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Kreg Magnetic Stud Finder with Laser-Mark KMM1000LZ
     brand: Kreg
     query: Kreg KMM1000LZ Magnetic Stud Finder with Laser
@@ -326,21 +343,21 @@ products:
       un precio más alto.
     asin: B0C31C8WLC
     image:
-      url: https://m.media-amazon.com/images/I/41fSNru3-QL._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/41fSNru3-QL._SL500_.jpg'
       width: 500
       height: 500
-    amazonTitle: Kreg Magnetic Stud Finder with Laser-Mark, KMM1000LZ.
+    amazonTitle: 'Kreg Magnetic Stud Finder with Laser-Mark, KMM1000LZ.'
     gallery:
-      - url: https://m.media-amazon.com/images/I/41JDVoEUiAL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41JDVoEUiAL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41RkLF9vmCL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41RkLF9vmCL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41JlJE2VG5L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41JlJE2VG5L._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41Ew359XQ1L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41Ew359XQ1L._SL500_.jpg'
         width: 500
         height: 500
     owners:
@@ -356,27 +373,27 @@ products:
         - title: Kreg KMM1000LZ page and reviews
           url: >-
             https://www.kregtool.com/shop/cabinet-solutions/measuring/laser-mark-magnetic-stud-finder/KMM1000LZ.html
-        - title: Kreg KMM1000LZ listing, Grizzly
+        - title: 'Kreg KMM1000LZ listing, Grizzly'
           url: >-
             https://www.grizzly.com/products/kreg-kreg-magnetic-stud-finder-with-laser-mark/t33854
-        - title: Kreg KMM1000LZ customer reviews, Walmart
-          url: https://www.walmart.com/c/kp/stud-sensor-laser-level
+        - title: 'Kreg KMM1000LZ customer reviews, Walmart'
+          url: 'https://www.walmart.com/c/kp/stud-sensor-laser-level'
 sources:
   - title: C.H. Hanson Magnetic Stud Finder 03040 (Ace Hardware)
-    url: https://www.acehardware.com/p/2302487
+    url: 'https://www.acehardware.com/p/2302487'
   - title: Kreg Magnetic Stud Finder KMM1000 (Kreg Tool)
     url: >-
       https://www.kregtool.com/shop/cabinet-solutions/measuring/magnetic-stud-finder/KMM1000.html
   - title: Kreg Magnetic Stud Finder with Laser-Mark (Woodcraft)
     url: >-
       https://www.woodcraft.com/products/kreg-magnetic-stud-finder-with-laser-mark
-  - title: The StudBuddy Plus Magnetic Stud Finder, Level and Ruler (Tractor Supply)
+  - title: 'The StudBuddy Plus Magnetic Stud Finder, Level and Ruler (Tractor Supply)'
     url: >-
       https://www.tractorsupply.com/tsc/product/the-studbuddy-plus-magnetic-stud-finder-level-and-ruler-2408462
   - title: Stud finder (Wikipedia)
-    url: https://en.wikipedia.org/wiki/Stud_finder
+    url: 'https://en.wikipedia.org/wiki/Stud_finder'
   - title: How do stud finders work? (HowStuffWorks)
-    url: https://home.howstuffworks.com/question271.htm
+    url: 'https://home.howstuffworks.com/question271.htm'
 reviewedDate: '2026-10-15'
 faqs:
   - q: ¿Funcionan los detectores de vigas magnéticos en paredes de yeso?

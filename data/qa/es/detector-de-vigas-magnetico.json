@@ -3,9 +3,11 @@
   "lang": "es",
   "translationOf": "best-magnetic-stud-finder",
   "pass": true,
-  "checkedAt": "2026-10-17T19:37:45.631Z",
+  "checkedAt": "2026-10-17T19:48:30.335Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "source didn't respond normally (no response): https://www.tractorsupply.com/tsc/product/the-studbuddy-plus-magnetic-stud-finder-level-and-ruler-2408462"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "StudBuddy Plus renamed StudBuddy Pro Magnetic Stud Finder with Level (ASIN B07TK4QCYB, Amazon US Creators API title). Verified via Sam's Club (Pro) and Target/Tractor Supply (Plus) listings that it has plumb/horizontal levels, inch/cm rulers, felt pads, no batteries, not for lath and plaster. Removed unverified soft-grip handle and 'larger' claims; image/gallery removed for refresh.",
