@@ -23,7 +23,11 @@ const links = [
   { href: '/category/guides/', label: t(lang, 'nav.guides') },
 ];
 const home = langHome(lang);
-const switcher = LANGS.filter((l) => (translations ? translations[l] : true)).map((l) => ({
+// On an article: the languages that have this article. Elsewhere: the current language plus every
+// language with at least one published post (a language without posts has an empty home page).
+const withPosts = new Set<string>();
+if (!translations) for (const l of LANGS) if (l === lang || (await getPublishedPosts(l)).length) withPosts.add(l);
+const switcher = LANGS.filter((l) => (translations ? translations[l] : withPosts.has(l))).map((l) => ({
   lang: l,
   href: translations ? translations[l]! : langHome(l),
   ...LOCALES[l],
