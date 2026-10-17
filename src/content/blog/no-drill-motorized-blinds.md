@@ -314,7 +314,7 @@ Renters have three renter-safe choices:
 
 The [Graywind No Drill Motorized Roller Shades](amzn:Graywind+No+Drill+Motorized+Roller+Shades) are the best choice when you want true up-and-down automation. Graywind's no-drill shades sit inside the window recess and hold by tension instead of screws. Check the listing for the minimum inside-mount depth before you order.
 
-Graywind no-drill shades are made to measure and come in light-filtering and blackout fabrics, which makes them a strong pick for bedrooms in apartments where streetlights shine in. They work with Alexa and Google Assistant for voice control and schedules.
+Graywind no-drill shades are made to measure and come in light-filtering and blackout fabrics, which makes them a strong pick for bedrooms in apartments where streetlights shine in. Check the listing for Alexa/Google Assistant support.
 
 ### SwitchBot Blind Tilt: best for existing venetian blinds
 
@@ -365,7 +365,7 @@ If you ever want to compare the landlord's blinds with a motorized replacement, 
 
 ## Voice control and automations
 
-**All three picks work with Alexa and Google Home, which makes the real benefit automation rather than remote control.** Useful schedules for apartments include:
+**The SwitchBot picks work with Alexa and Google Home through a SwitchBot hub, and Graywind's listing shows its voice-assistant support, so the real benefit is automation rather than remote control.** Useful schedules for apartments include:
 
 - Open the bedroom shades 15 minutes after sunrise as a gentle alarm.
 - Close street-facing blinds at sunset for privacy.

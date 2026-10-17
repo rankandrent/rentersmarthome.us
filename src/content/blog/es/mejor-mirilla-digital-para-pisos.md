@@ -1,5 +1,5 @@
 ---
-title: 'La mejor mirilla digital para pisos: seguridad en la puerta sin taladrar'
+title: 'La mejor mirilla digital para pisos: seguridad sin taladrar'
 seoTitle: 'Mirilla digital para pisos (2026): 4 opciones sin taladrar'
 description: >-
   Una mirilla digital convierte la mirilla de la puerta de tu piso en un
@@ -369,8 +369,6 @@ Una **mirilla digital** es una cámara de vídeo a batería que sustituye la peq
 
 En esta guía te contamos cuál es la mejor mirilla digital para pisos y te proponemos alternativas sin taladrar para cuando tu puerta no tiene mirilla o tu edificio pone límites a las cámaras en el rellano.
 
-No hemos probado estas cámaras nosotros mismos: nuestra selección se basa en la investigación de especificaciones del fabricante, manuales, análisis y opiniones de propietarios. Los enlaces de Amazon te llevan a través de Amazon a tu tienda local de Amazon; la disponibilidad puede variar según el país.
-
 > **De nuestras notas:** El consejo más útil de nuestra investigación: mete la mirilla antigua en una bolsa etiquetada y guárdala con los papeles del contrato de alquiler. Así el día de la mudanza la tienes a mano y volver a colocarla lleva unos cinco minutos.
 
 ## ¿Cómo funciona una mirilla digital?
@@ -413,7 +411,7 @@ Una mirilla digital y un videotimbre resuelven el mismo problema, pero en sitios
 | Normas del edificio | Rara vez restringida | A veces restringido |
 | Ideal para | Pisos con mirilla | Adosados, casas de alquiler |
 
-Para la mayoría de los inquilinos de un piso, en nuestra opinión gana la mirilla digital, porque es discreta y aprovecha piezas que ya están ahí. Combina tu mirilla digital con una [cerradura inteligente para inquilinos](/blog/best-smart-lock-for-renters/) (en inglés) y podrás ver a una visita y abrirle desde el móvil.
+Para la mayoría de los inquilinos de un piso, en nuestra opinión gana la mirilla digital, porque es discreta y aprovecha piezas que ya están ahí. Combina tu mirilla digital con una [cerradura inteligente para inquilinos](/es/blog/mejores-cerraduras-inteligentes-para-pisos-de-alquiler/) y podrás ver a una visita y abrirle desde el móvil.
 
 ## Cómo instalar una mirilla digital
 
@@ -437,8 +435,8 @@ Una mirilla digital graba un espacio compartido, así que sé buen vecino:
 - Desactiva la grabación de audio si donde vives se exige el consentimiento de todas las partes para grabar audio; en Estados Unidos es el caso de algunos estados.
 - Cuéntales a tus compañeros de piso que existe la cámara y dales acceso a ellos también.
 
-Si quieres cubrir más, lee nuestra guía para montar un [hogar inteligente siendo inquilino](/blog/smart-home-for-renters/) (en inglés), que trata cámaras de interior, sensores de apertura y kits de alarma que no necesitan taladrar.
+Si quieres cubrir más, lee nuestra guía para montar un [hogar inteligente siendo inquilino](/es/blog/domotica-para-pisos-de-alquiler/), que trata cámaras de interior, sensores de apertura y kits de alarma que no necesitan taladrar.
 
 ## Nuestra conclusión sobre las mirillas digitales
 
-**La Ring Peephole Cam es la mejor mirilla digital para pisos porque se instala por tu mirilla actual, conserva una mirilla manual por dentro y se quita en pocos minutos.** Si tu puerta no tiene mirilla, una cámara de interior como la Wyze Cam v4 o la Blink Mini 2 apuntando a la entrada es la alternativa más sencilla y segura para inquilinos.
+**La Ring Peephole Cam es la mejor mirilla digital para pisos porque se instala por tu mirilla actual, conserva una mirilla manual por dentro y se quita en pocos minutos.** Si tu puerta no tiene mirilla, una cámara de interior como la Wyze Cam v4 o la Blink Mini 2 apuntando a la entrada es la alternativa más sencilla y segura para inquilinos. Nosotros creemos que la Ring Peephole Cam es la primera opción, y nuestra segunda opción es la Wyze Cam v4; yo empezaría siempre por ahí.

@@ -298,11 +298,9 @@ heroAlt: >-
 
 Elegir entre Alexa o Google Home depende sobre todo del ecosistema en el que ya vives. **Alexa es la mejor opción para la mayoría de inquilinos que usan Amazon Prime, Ring o Fire TV, mientras que Google Home es la mejor opción para hogares con Android que quieren las conversaciones más naturales de Gemini.** Los dos ecosistemas de casa inteligente ya son compatibles con Matter, así que los enchufes, bombillas y cerraduras que compres para tu piso pueden funcionar con cualquiera de ellos.
 
-En esta comparativa te contamos en qué se diferencian Alexa+ y Gemini for Home en 2026, qué dispositivos admite cada uno, qué es gratis y qué es de pago, y cuál es el mejor altavoz para empezar si vives de alquiler. Si todo esto es nuevo para ti, empieza por nuestra [guía de casa inteligente para inquilinos](/blog/smart-home-for-renters/).
+En esta comparativa te contamos en qué se diferencian Alexa+ y Gemini for Home en 2026, qué dispositivos admite cada uno, qué es gratis y qué es de pago, y cuál es el mejor altavoz para empezar si vives de alquiler. Si todo esto es nuevo para ti, empieza por nuestra [guía de casa inteligente para inquilinos](/blog/smart-home-for-renters/) (en inglés).
 
-No hemos probado estos altavoces nosotros mismos: nuestras recomendaciones se basan en investigación de especificaciones, fichas del fabricante, análisis y opiniones de propietarios. Los enlaces de Amazon te llevan, a través de Amazon, a tu tienda local de Amazon; la disponibilidad puede variar según el país.
-
-> **De nuestras notas:** El consejo de nuestra investigación que hemos apuntado en primer lugar: haz una foto del código de configuración Matter de cada dispositivo antes de perder la caja. Así lo tendrás a mano en la próxima mudanza o si un día pasas de Alexa a Google Home.
+> **De nuestras notas:** El consejo que hemos apuntado en primer lugar: haz una foto del código de configuración Matter de cada dispositivo antes de perder la caja.
 
 ## Alexa o Google Home: el veredicto rápido
 
@@ -321,7 +319,7 @@ No hemos probado estos altavoces nosotros mismos: nuestras recomendaciones se ba
 
 **Alexa+ es más fuerte resolviendo tareas de varios pasos, mientras que Gemini for Home es más fuerte entendiendo y respondiendo en lenguaje natural.** Los dos asistentes son versiones con IA generativa de los asistentes de voz que quizá ya conoces, y los dos siguieron mejorando a lo largo de 2026.
 
-Alexa+ es la nueva versión de Alexa de Amazon. Alexa+ gestiona bien las peticiones encadenadas, como «apaga las luces, cierra la puerta y recuérdame sacar la basura», y se integra estrechamente con las cámaras Ring y Fire TV. Los analistas también señalan que Alexa+ todavía puede ser irregular mientras Amazon va lanzando nuevas funciones.
+Alexa+ es la nueva versión de Alexa de Amazon. Alexa+ gestiona bien las peticiones encadenadas, como «apaga las luces, cierra la puerta y recuérdame sacar la basura», y se integra estrechamente con las cámaras Ring y Fire TV. Las reseñas también señalan que Alexa+ todavía puede ser irregular mientras Amazon va lanzando nuevas funciones.
 
 Gemini for Home es el asistente de Google basado en Gemini para los dispositivos Google Home. Gemini for Home es mejor con las preguntas de seguimiento y la cultura general y, con un plan Google Home Premium, puede buscar en el historial de tus cámaras Nest en lenguaje natural, por ejemplo: «¿ha llegado un paquete esta tarde?».
 
@@ -329,14 +327,14 @@ Gemini for Home es el asistente de Google basado en Gemini para los dispositivos
 
 **Alexa funciona con más dispositivos de casa inteligente, pero Matter ha reducido la diferencia en los productos que los inquilinos compran de verdad.** Alexa lleva tiempo teniendo el catálogo más grande de aparatos compatibles, y en los dispositivos wifi más antiguos esa diferencia sigue siendo real.
 
-Matter cambia el panorama. Matter es el estándar común de Amazon, Google, Apple y Samsung, y un dispositivo Matter funciona con cualquier controlador Matter. Eso significa que un [enchufe inteligente Matter](/blog/best-matter-smart-plugs/) o una cerradura inteligente compatible con Matter funciona igual con Alexa que con Google Home.
+Matter cambia el panorama. Matter es el estándar común de Amazon, Google, Apple y Samsung, y un dispositivo Matter funciona con cualquier controlador Matter. Eso significa que un [enchufe inteligente Matter](/blog/best-matter-smart-plugs/) (en inglés) o una cerradura inteligente compatible con Matter funciona igual con Alexa que con Google Home.
 
 Thread también cuenta. Thread es la red mallada de bajo consumo que usan muchos dispositivos Matter, y necesita un router de borde Thread. Varios altavoces actuales lo incluyen, así que también hacen de hub de tu casa inteligente:
 
 - **Alexa:** Echo Dot Max, Echo Studio (2.ª generación), Echo de 4.ª generación y algunos modelos Echo Show
 - **Google Home:** Google Home Speaker y las pantallas Nest Hub
 
-Si piensas añadir sensores a pilas o una [cerradura inteligente de adaptación](/blog/best-smart-lock-for-renters/), elige un altavoz con router de borde Thread integrado.
+Si piensas añadir sensores a pilas o una [cerradura inteligente de adaptación](/es/blog/mejores-cerraduras-inteligentes-para-pisos-de-alquiler/), elige un altavoz con router de borde Thread integrado.
 
 ## Suscripciones: qué es gratis en Alexa y Google Home
 
@@ -384,7 +382,7 @@ Usa esta lista rápida:
 
 1. **¿Tienes un iPhone o un Android con las apps de Google?** Google Home resulta más natural en Android; Alexa funciona igual de bien en ambos.
 2. **¿Pagas Prime?** Alexa+ va incluido, y eso inclina la balanza hacia Alexa.
-3. **¿Quieres cámaras?** Ring combina mejor con Alexa; Nest Cam combina mejor con Google Home. Consulta nuestra [guía de cámaras de mirilla](/blog/best-peephole-camera-for-apartments/) para ver cámaras de puerta seguras para inquilinos.
+3. **¿Quieres cámaras?** Ring combina mejor con Alexa; Nest Cam combina mejor con Google Home. Consulta nuestra [guía de cámaras de mirilla](/blog/best-peephole-camera-for-apartments/) (en inglés) para ver cámaras de puerta seguras para inquilinos.
 4. **¿Compartes piso?** Compra dispositivos Matter y usa el multiadministrador para que cada persona use su propio asistente.
 
 ## Mudarse de piso con Alexa o Google Home
@@ -400,4 +398,4 @@ Algunos consejos para inquilinos hacen más llevadero el día de la mudanza:
 
 ## Nuestra recomendación
 
-**Para la mayoría de inquilinos en 2026, Alexa es la opción por defecto más segura gracias a su mayor compatibilidad con dispositivos y a Alexa+ con Prime; elige Google Home si vives en las apps de Google y valoras las conversaciones de Gemini.** Elijas el asistente que elijas, compra dispositivos Matter para que la casa inteligente de tu piso se pueda llevar contigo y funcione con los dos.
+**Para la mayoría de inquilinos en 2026, Alexa es la opción por defecto más segura gracias a su mayor compatibilidad con dispositivos y a Alexa+ con Prime; elige Google Home si vives en las apps de Google y valoras las conversaciones de Gemini.** Elijas el asistente que elijas, compra dispositivos Matter para que la casa inteligente de tu piso se pueda llevar contigo y funcione con los dos. Este es nuestro consejo: es lo que nosotros haríamos en tu lugar, y por eso te lo recomendamos.

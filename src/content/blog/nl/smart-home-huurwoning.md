@@ -381,8 +381,6 @@ Een **smart home in je huurwoning** bouw je met apparaten die je in het stopcont
 
 In deze gids laten we je stap voor stap zien hoe je van je huurwoning een smart home maakt: wat je eerst koopt, welke apparaten toestemming van de verhuurder nodig hebben, hoe je een ecosysteem kiest dat een verhuizing overleeft en hoe je op de dag van vertrek alles terugdraait.
 
-We hebben deze apparaten niet zelf getest; onze keuzes zijn gebaseerd op onderzoek naar specificaties, handleidingen en ervaringen van eigenaren. De Amazon-links sturen je via Amazon naar je lokale Amazon-winkel; de beschikbaarheid kan per land verschillen.
-
 > **Uit onze notities:** De tip die we het vaakst geven voor elk smart home in een huurwoning: bewaar alle originele onderdelen, dus draaiknoppen, lampen en deurspionnen, in een gelabelde bak. Dan ligt op de dag dat je verhuist alles klaar wat er weer in moet.
 
 ## De drie regels voor een smart home in een huurwoning
@@ -399,7 +397,7 @@ Met deze regels vallen inbouwschakelaars, bedrade deurbellen en het volledig ver
 
 **Een slimme stekker is het makkelijkste smart-home-apparaat voor huurders, want je hebt alleen een stopcontact nodig.** Sluit een lamp, ventilator, koffiezetapparaat of feestverlichting aan op een slimme stekker en je kunt hem inplannen, met je stem bedienen of vanaf je telefoon uitzetten.
 
-De [Kasa Smart Plug Mini with Matter](amzn:B0BYGRLRS1) is onze favoriete eerste slimme stekker: hij is compact, ondersteunt Matter en meet het energieverbruik, zodat je stroomvreters vindt. In ons overzicht van de [beste Matter-stekkers](/blog/best-matter-smart-plugs/) vergelijken we meer opties, ook Thread-modellen.
+De [Kasa Smart Plug Mini with Matter](amzn:B0BYGRLRS1) is onze favoriete eerste slimme stekker: hij is compact, ondersteunt Matter en meet het energieverbruik, zodat je stroomvreters vindt. In ons overzicht van de [beste Matter-stekkers](/nl/blog/beste-matter-slimme-stekkers/) vergelijken we meer opties, ook Thread-modellen.
 
 **Onze tip voor huurders:** zet elektrische kachels of raamairco’s niet op een gewone slimme stekker, tenzij de stekker uitdrukkelijk geschikt is voor die belasting. Gebruik in plaats daarvan een kachel met ingebouwde slimme bediening.
 
@@ -415,13 +413,13 @@ Bedienen de lichtschakelaars in je woning plafondlampen? Dan blijft de bedrading
 
 Bij de voordeur levert huurdervriendelijke smart-home-techniek het meeste op:
 
-- **Slim slot:** een slim opzetslot vervangt alleen de draaiknop aan de binnenkant, dus de sleutel van de verhuurder blijft werken. Zie onze gids met de [beste slimme sloten voor huurders](/blog/best-smart-lock-for-renters/).
-- **Deurcamera:** een deurspioncamera monteer je via je bestaande deurspion, zonder boren. Zie de [beste deurspioncamera’s voor appartementen](/blog/best-peephole-camera-for-apartments/).
+- **Slim slot:** een slim opzetslot vervangt alleen de draaiknop aan de binnenkant, dus de sleutel van de verhuurder blijft werken. Zie onze gids met de [beste slimme sloten voor huurders](/nl/blog/beste-slimme-sloten-voor-huurders/).
+- **Deurcamera:** een deurspioncamera monteer je via je bestaande deurspion, zonder boren. Zie de [beste deurspioncamera’s voor appartementen](/nl/blog/beste-deurspion-camera-voor-appartementen/).
 - **Deur- en raamsensoren:** contactsensoren op batterijen plak je op deuren en ramen; ze sturen een melding of zetten het licht aan.
 
 ## Stap 4: regel verwarming en koeling
 
-**Veel huurwoningen hebben raamairco’s, mobiele airco’s of split-airco’s zonder kanalen die je met een infrarood afstandsbediening bedient.** Een [slimme airco-regelaar](/blog/smart-ac-controller/) zoals de [Sensibo Air](amzn:B07MTGD3D9) leert die afstandsbediening en voegt schema’s, geofencing en spraakbediening toe, zonder de airco open te maken.
+**Veel huurwoningen hebben raamairco’s, mobiele airco’s of split-airco’s zonder kanalen die je met een infrarood afstandsbediening bedient.** Een [slimme airco-regelaar](/blog/smart-ac-controller/) (in het Engels) zoals de [Sensibo Air](amzn:B07MTGD3D9) leert die afstandsbediening en voegt schema’s, geofencing en spraakbediening toe, zonder de airco open te maken.
 
 Een wandthermostaat vervangen is een ander verhaal: daarbij kom je aan de bedrading van de verwarming en airco. Vraag het dus eerst aan je verhuurder, bewaar de originele thermostaat en maak foto’s van de bedrading voordat je iets loskoppelt.
 
@@ -458,4 +456,4 @@ Zet in je verzoek de omkeerbaarheid centraal: beschrijf het apparaat, leg uit da
 
 ## Begin klein en bouw daarna uit
 
-**Het beste smart home voor huurders begint met één slimme stekker en een paar slimme lampen, en groeit daarna met een slim opzetslot, een deurspioncamera en een airco-regelaar.** Blijf bij Matter-apparaten die je zonder boren installeert, dan is je smart home in je volgende huurwoning net zo slim als nu.
+**Het beste smart home voor huurders begint met één slimme stekker en een paar slimme lampen, en groeit daarna met een slim opzetslot, een deurspioncamera en een airco-regelaar.** Ons advies: blijf bij Matter-apparaten die je zonder boren installeert, dan is je smart home in je volgende huurwoning net zo slim als nu.

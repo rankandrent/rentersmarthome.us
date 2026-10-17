@@ -373,11 +373,9 @@ Eine **Matter-Steckdose** ist eine smarte Steckdose (ein Zwischenstecker), die f
 
 Unten stellen wir dir die besten Matter-Steckdosen für die Wohnung vor, erklären den Unterschied zwischen WLAN- und Thread-Versionen und zeigen, wie du smarte Steckdosen in der Mietwohnung sicher nutzt.
 
-Wir haben diese Steckdosen nicht selbst getestet, sondern unsere Auswahl anhand von Herstellerangaben, Bedienungsanleitungen, Testberichten und Erfahrungen von Besitzern recherchiert. Die Amazon-Links führen dich über Amazon zu deinem lokalen Amazon-Shop; die Verfügbarkeit kann je nach Land abweichen.
-
 **Wichtig vor dem Kauf:** Die Modelle in unserer Auswahl sind US-Versionen. Sie haben einen amerikanischen Stecker (Typ A/B) und sind für das US-Stromnetz mit 120 V gebaut. In Steckdosen in Deutschland, Österreich und der Schweiz passen sie nicht, und für unsere 230 V sind sie nicht ausgelegt. Bitte nicht mit einem Reiseadapter betreiben. Kauf nur eine Variante, die ausdrücklich für deinen Steckdosentyp und 230 V angegeben ist. Was wir unten über Matter, Thread und die Einrichtung schreiben, gilt unabhängig davon.
 
-> **Aus unseren Notizen:** Der Tipp, den wir aus unserer Recherche am häufigsten mitnehmen: Fotografiere den Matter-QR-Code auf der Steckdose oder der Verpackung, bevor der Karton im Altpapier landet. Nach einem Umzug brauchst du genau diesen Code, um die Steckdose neu einzurichten.
+> **Aus unseren Notizen:** Unser Tipp: Fotografiere den Matter-QR-Code auf der Steckdose oder der Verpackung, bevor du den Karton wegwirfst. Nach einem Umzug brauchst du genau diesen Code, um die Steckdose neu einzurichten.
 
 ## Warum Mieter zu Matter-Steckdosen greifen sollten
 
@@ -415,7 +413,7 @@ Die [Meross Matter-Steckdose](amzn:Meross+Matter+smart+plug+mini) ist eine kompa
 Smarte Steckdosen sind das sicherste Smart-Home-Gerät für Mieter. Ein paar Regeln schützen trotzdem dich und die Elektrik deines Vermieters:
 
 - **Halte dich an die Nennlast.** Prüf die maximale Last der smarten Steckdose und überschreite sie nie.
-- **Lass Heizlüfter und Fenster-Klimageräte weg,** außer die Steckdose ist für diese Dauerlast ausgelegt. Nimm stattdessen einen [Heizlüfter mit eingebauter smarter Steuerung](/blog/smart-home-for-renters/) (Ratgeber auf Englisch).
+- **Lass Heizlüfter und Fenster-Klimageräte weg,** außer die Steckdose ist für diese Dauerlast ausgelegt. Nimm stattdessen einen [Heizlüfter mit eingebauter smarter Steuerung](/de/blog/smart-home-fuer-mieter/).
 - **Keine Steckdosenleisten hinter Möbeln.** Smarte Steckdosen und Adapter können warm werden; sorg für Luft drumherum.
 - **Draußen nur Modelle für den Außenbereich.** Auf Balkon und Terrasse brauchst du wetterfeste smarte Steckdosen.
 - **Nur Stecker, die zu deinem Stromnetz passen.** Wie oben erwähnt: US-Modelle (Typ A/B, 120 V) gehören nicht in Steckdosen in Deutschland, Österreich oder der Schweiz.
@@ -428,7 +426,7 @@ Smarte Steckdosen sind das sicherste Smart-Home-Gerät für Mieter. Ein paar Reg
 4. **Ventilator automatisieren.** Kombiniere einen Ventilator mit einem Temperatursensor, damit er das Schlafzimmer nur kühlt, wenn es nötig ist.
 5. **Weihnachtsbeleuchtung.** Plane die Deko per Zeitplan, ohne hinter den Baum kriechen zu müssen.
 
-Smarte Steckdosen passen gut zu den anderen mieterfreundlichen Upgrades aus unserem [Smart-Home-Ratgeber für Mieter](/blog/smart-home-for-renters/) (auf Englisch). Zusammen mit einem [Nachrüst-Smart-Lock](/de/blog/beste-smart-locks-fuer-mieter/) baust du dir „Ich komme heim"-Automationen, die gleichzeitig die Tür aufschließen und die Lampen einschalten.
+Smarte Steckdosen passen gut zu den anderen mieterfreundlichen Upgrades aus unserem [Smart-Home-Ratgeber für Mieter](/de/blog/smart-home-fuer-mieter/). Zusammen mit einem [Nachrüst-Smart-Lock](/de/blog/beste-smart-locks-fuer-mieter/) baust du dir „Ich komme heim"-Automationen, die gleichzeitig die Tür aufschließen und die Lampen einschalten.
 
 ## Matter-Steckdose einrichten: so geht's
 
@@ -440,4 +438,4 @@ Smarte Steckdosen passen gut zu den anderen mieterfreundlichen Upgrades aus unse
 
 ## Welche Matter-Steckdose solltest du kaufen?
 
-**Der Kasa Smart Plug Mini KP125M ist für die meisten Mieter die beste Matter-Steckdose: kompakt, mit Strommessung und kompatibel mit allem.** Nimm den Tapo P125M, wenn es möglichst wenig kosten soll, das Meross-Mini-Mehrfachpack für mehrere Räume und Eve Energy, wenn du Apple Home nutzt und eine Thread-Steckdose willst, die den Rest deines Netzes stärker macht. Und egal, wofür du dich entscheidest: Achte darauf, dass der Stecker zu deiner Steckdose passt und das Modell für 230 V ausgelegt ist.
+**Der Kasa Smart Plug Mini KP125M ist für die meisten Mieter die beste Matter-Steckdose: kompakt, mit Strommessung und kompatibel mit allem.** Wir empfehlen den Tapo P125M, wenn es möglichst wenig kosten soll, das Meross-Mini-Mehrfachpack für mehrere Räume und Eve Energy, wenn du Apple Home nutzt und eine Thread-Steckdose willst, die den Rest deines Netzes stärker macht. Und egal, wofür du dich entscheidest: Achte darauf, dass der Stecker zu deiner Steckdose passt und das Modell für 230 V ausgelegt ist.

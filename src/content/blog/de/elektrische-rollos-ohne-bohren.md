@@ -307,9 +307,7 @@ heroAlt: >-
 
 Mit elektrischen Rollos ohne Bohren automatisieren Mieter ihre Fenster, ohne auch nur eine Schraube in den Fensterrahmen zu drehen. **Elektrische Rollos ohne Bohren funktionieren auf eine von zwei Arten: als motorisiertes Klemmrollo, das den vorhandenen Sichtschutz ersetzt, oder als aufklebbarer Motor, der die Jalousien oder Vorhänge an deinen Fenstern automatisiert.** Bei beiden Varianten bleiben die Wände deines Vermieters unberührt, beide laufen mit Akku, und beide nimmst du am Auszugstag einfach mit.
 
-Unten stellen wir dir die drei Lösungen ohne Bohren vor, die wir empfehlen, und zeigen, wie du zwischen Ersetzen und Nachrüsten entscheidest, wie du für ein Klemmrollo misst und wie du am Ende des Mietverhältnisses alles sauber wieder abbaust. Den großen Überblick findest du in unserem [Smart-Home-Ratgeber für Mieter](/blog/smart-home-for-renters/) (auf Englisch).
-
-Wir haben diese Produkte nicht selbst getestet, sondern unsere Auswahl anhand von Herstellerangaben, Produktseiten, Testberichten und Erfahrungen von Besitzern recherchiert. Die Amazon-Links führen dich über Amazon zu deinem lokalen Amazon-Shop; die Verfügbarkeit kann je nach Land abweichen.
+Unten stellen wir dir die drei Lösungen ohne Bohren vor, die wir empfehlen, und zeigen, wie du zwischen Ersetzen und Nachrüsten entscheidest, wie du für ein Klemmrollo misst und wie du am Ende des Mietverhältnisses alles sauber wieder abbaust. Den großen Überblick findest du in unserem [Smart-Home-Ratgeber für Mieter](/de/blog/smart-home-fuer-mieter/).
 
 > **Aus unseren Notizen:** Der Tipp, den wir uns aus unserer Recherche am dicksten markiert haben: Wenn du die Jalousien des Vermieters gegen ein Klemmrollo tauschst, steck die Originale samt Halterungen in einen beschrifteten Beutel. Am Auszugstag baust du sie wieder ein und fotografierst jedes Fenster für deine Kautionsunterlagen.
 
@@ -329,7 +327,7 @@ Als Mieter hast du drei Möglichkeiten, die keine Spuren hinterlassen:
 
 Die [Graywind No Drill Motorized Roller Shades](amzn:B0DNYKLSMZ) sind die beste Wahl, wenn du echtes Hoch- und Runterfahren automatisieren willst. Die Rollos von Graywind sitzen innen in der Fensterlaibung und halten durch Klemmdruck statt durch Schrauben. Schau vor der Bestellung im Angebot nach, welche Mindesteinbautiefe die Laibung haben muss.
 
-Die Graywind-Rollos ohne Bohren werden nach Maß gefertigt und gibt es mit lichtdurchlässigen Stoffen und mit Verdunkelungsstoffen. Damit sind sie eine starke Wahl fürs Schlafzimmer in Wohnungen, in die nachts Straßenlaternen scheinen. Für Sprachsteuerung und Zeitpläne arbeiten sie mit Alexa und Google Assistant zusammen.
+Die Graywind-Rollos ohne Bohren werden nach Maß gefertigt und gibt es mit lichtdurchlässigen Stoffen und mit Verdunkelungsstoffen. Damit sind sie eine starke Wahl fürs Schlafzimmer in Wohnungen, in die nachts Straßenlaternen scheinen. Schau im Angebot nach, ob Alexa/Google Assistant unterstützt wird.
 
 ### SwitchBot Blind Tilt: beste Wahl für vorhandene Jalousien
 
@@ -380,12 +378,12 @@ Wenn du die Jalousien des Vermieters gegen ein motorisiertes Rollo tauschen will
 
 ## Sprachsteuerung und Automationen
 
-**Alle drei Empfehlungen funktionieren mit Alexa und Google Home, der eigentliche Vorteil ist also die Automatisierung und nicht die Fernbedienung.** Nützliche Zeitpläne für die Wohnung sind zum Beispiel:
+**Die SwitchBot-Modelle funktionieren über einen SwitchBot Hub mit Alexa und Google Home, und beim Graywind-Angebot siehst du die unterstützten Sprachassistenten; der eigentliche Vorteil ist also die Automatisierung und nicht die Fernbedienung.** Nützliche Zeitpläne für die Wohnung sind zum Beispiel:
 
 - Die Rollos im Schlafzimmer 15 Minuten nach Sonnenaufgang öffnen, als sanfter Wecker.
 - Jalousien zur Straße hin bei Sonnenuntergang schließen, für mehr Privatsphäre.
 - Rollos an Südfenstern nachmittags schließen, damit eine Dachgeschosswohnung kühler bleibt.
-- Alle Vorhänge mit einer einzigen „Guten Morgen"-Routine auf deinem [Alexa- oder Google-Home-Lautsprecher](/blog/alexa-vs-google-home/) (auf Englisch) öffnen.
+- Alle Vorhänge mit einer einzigen „Guten Morgen"-Routine auf deinem [Alexa- oder Google-Home-Lautsprecher](/de/blog/alexa-oder-google-home/) öffnen.
 
 ## Auszugstag: elektrische Rollos ohne Bohren abbauen
 
@@ -393,4 +391,4 @@ Wenn du die Jalousien des Vermieters gegen ein motorisiertes Rollo tauschen will
 
 ## Welche elektrischen Rollos ohne Bohren solltest du kaufen?
 
-**Nimm die Graywind-Rollos ohne Bohren für komplette Verdunkelung mit Automatik, den SwitchBot Blind Tilt, um vorhandene Jalousien günstig aufzurüsten, und den SwitchBot Curtain 3 für Vorhänge.** Jede dieser drei Lösungen lässt deine Fensterrahmen unberührt, und genau das braucht deine Kaution.
+**Unsere Empfehlung: Nimm die Graywind-Rollos ohne Bohren für komplette Verdunkelung mit Automatik, den SwitchBot Blind Tilt, um vorhandene Jalousien günstig aufzurüsten, und den SwitchBot Curtain 3 für Vorhänge.** Jede dieser drei Lösungen lässt deine Fensterrahmen unberührt, und genau das braucht deine Kaution.

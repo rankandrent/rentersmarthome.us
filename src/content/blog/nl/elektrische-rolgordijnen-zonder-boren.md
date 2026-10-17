@@ -304,9 +304,7 @@ heroAlt: >-
 
 Met elektrische rolgordijnen zonder boren automatiseer je als huurder je ramen zonder ook maar één schroef in het kozijn te draaien. **Elektrische rolgordijnen zonder boren werken op een van twee manieren: een gemotoriseerd klemrolgordijn dat je huidige raambekleding vervangt, of een plakmotor die de jaloezieën of gordijnen automatiseert die al aan je ramen hangen.** Bij allebei blijven de muren van je verhuurder onaangetast, alles werkt op een accu en op de dag dat je verhuist neem je het gewoon mee.
 
-Hieronder lees je welke drie opties zonder boren wij aanraden, hoe je kiest tussen vervangen en aanvullen, hoe je meet voor een klemmontage en hoe je alles netjes weghaalt als je huurcontract afloopt. Voor het grote plaatje kun je terecht in onze [gids over een slim huis voor huurders](/blog/smart-home-for-renters/) (in het Engels).
-
-We hebben deze producten niet zelf getest; onze keuzes zijn gebaseerd op onderzoek naar specificaties van fabrikanten, productpagina's, expertreviews en ervaringen van eigenaren. De Amazon-links sturen je via Amazon door naar je eigen lokale Amazon-winkel; de beschikbaarheid kan per land verschillen.
+Hieronder lees je welke drie opties zonder boren wij aanraden, hoe je kiest tussen vervangen en aanvullen, hoe je meet voor een klemmontage en hoe je alles netjes weghaalt als je huurcontract afloopt. Voor het grote plaatje kun je terecht in onze [gids over een slim huis voor huurders](/nl/blog/smart-home-huurwoning/).
 
 > **Uit onze notities:** De tip die we tijdens ons onderzoek het dikst hebben onderstreept: vervang je de jaloezieën van de verhuurder door een klemrolgordijn, stop de originelen dan met hun steunen in een zakje met een label. Op de verhuisdag hang je ze terug en maak je van elk raam een foto voor je borgdossier.
 
@@ -326,7 +324,7 @@ Als huurder heb je drie opties die geen sporen achterlaten:
 
 De [Graywind No Drill Motorized Roller Shades](amzn:B0DNYKLSMZ) zijn de beste keuze als je echt automatisch op en neer wilt. De rolgordijnen zonder boren van Graywind zitten in de raamnis en blijven op hun plek door klemkracht in plaats van schroeven. Kijk voor je bestelt in het aanbod wat de minimale inbouwdiepte van de nis moet zijn.
 
-De rolgordijnen zonder boren van Graywind worden op maat gemaakt en zijn er met lichtdoorlatende en verduisterende stoffen. Daarmee zijn ze een sterke keuze voor slaapkamers in appartementen waar straatlantaarns naar binnen schijnen. Ze werken met Alexa en Google Assistant voor spraakbediening en schema's.
+De rolgordijnen zonder boren van Graywind worden op maat gemaakt en zijn er met lichtdoorlatende en verduisterende stoffen. Daarmee zijn ze een sterke keuze voor slaapkamers in appartementen waar straatlantaarns naar binnen schijnen. Kijk in het aanbod of Alexa/Google Assistant wordt ondersteund.
 
 ### SwitchBot Blind Tilt: beste voor bestaande jaloezieën
 
@@ -377,17 +375,17 @@ Wil je de jaloezieën van de verhuurder ooit vervangen door een gemotoriseerd ro
 
 ## Spraakbediening en automatiseringen
 
-**Alle drie de keuzes werken met Alexa en Google Home, dus het echte voordeel zit in automatisering en niet in afstandsbediening.** Handige schema's voor een appartement zijn bijvoorbeeld:
+**De SwitchBot-modellen werken via een SwitchBot-hub met Alexa en Google Home, en in het aanbod van Graywind zie je welke spraakassistenten worden ondersteund; het echte voordeel zit dus in automatisering en niet in afstandsbediening.** Handige schema's voor een appartement zijn bijvoorbeeld:
 
 - De rolgordijnen in de slaapkamer 15 minuten na zonsopkomst openen, als zachte wekker.
 - Jaloezieën aan de straatkant bij zonsondergang sluiten voor meer privacy.
 - Rolgordijnen op het zuiden 's middags sluiten, zodat een bovenwoning koeler blijft.
-- Alle gordijnen openen met één "goedemorgen"-routine op je [Alexa- of Google Home-speaker](/blog/alexa-vs-google-home/) (in het Engels).
+- Alle gordijnen openen met één "goedemorgen"-routine op je [Alexa- of Google Home-speaker](/nl/blog/alexa-of-google-home/).
 
 ## Verhuisdag: rolgordijnen zonder boren weghalen
 
-**Elektrische rolgordijnen zonder boren haal je in een paar minuten weg, en ze laten geen gaten achter.** Maak de klemmontage los door het stelwieltje terug te draaien, trek plakbevestigingen langzaam los (verwarm hardnekkige strips met een föhn) en haak gordijnrobots van de roede. Hang de originele jaloezieën die je hebt bewaard terug en maak daarna van elk raam een foto voor je borgdossier. Combineer dit met de rest van onze verhuistips voor [slimme sloten voor huurders](/blog/best-smart-lock-for-renters/) (in het Engels) en apparaten voor in het stopcontact.
+**Elektrische rolgordijnen zonder boren haal je in een paar minuten weg, en ze laten geen gaten achter.** Maak de klemmontage los door het stelwieltje terug te draaien, trek plakbevestigingen langzaam los (verwarm hardnekkige strips met een föhn) en haak gordijnrobots van de roede. Hang de originele jaloezieën die je hebt bewaard terug en maak daarna van elk raam een foto voor je borgdossier. Combineer dit met de rest van onze verhuistips voor [slimme sloten voor huurders](/nl/blog/beste-slimme-sloten-voor-huurders/) en apparaten voor in het stopcontact.
 
 ## Welke elektrische rolgordijnen zonder boren moet je kopen?
 
-**Ons advies: kies de rolgordijnen zonder boren van Graywind voor volledige verduistering met automatisering, de SwitchBot Blind Tilt om bestaande jaloezieën goedkoop slim te maken en de SwitchBot Curtain 3 voor gordijnen.** Elk van deze drie opties laat je kozijnen onaangetast, en dat is precies wat je borg nodig heeft.
+**Ons advies, en wat wij zelf aanraden: kies de rolgordijnen zonder boren van Graywind voor volledige verduistering met automatisering, de SwitchBot Blind Tilt om bestaande jaloezieën goedkoop slim te maken en de SwitchBot Curtain 3 voor gordijnen.** Elk van deze drie opties laat je kozijnen onaangetast, en dat is precies wat je borg nodig heeft.

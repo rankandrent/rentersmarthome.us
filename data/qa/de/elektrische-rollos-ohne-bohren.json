@@ -2,16 +2,13 @@
   "slug": "de/elektrische-rollos-ohne-bohren",
   "lang": "de",
   "translationOf": "no-drill-motorized-blinds",
-  "pass": false,
-  "checkedAt": "2026-10-17T19:06:04.818Z",
-  "errors": [
-    "facts not verified yet: compare every claim with the English post and its sources, then run `node scripts/routine.mjs factcheck de/elektrische-rollos-ohne-bohren \"<notes>\"`"
-  ],
-  "warnings": [
-    "internal link to the English post /blog/smart-home-for-renters/; link the de version once it exists",
-    "internal link to the English post /blog/alexa-vs-google-home/; link the de version once it exists"
-  ],
+  "pass": true,
+  "checkedAt": "2026-10-17T19:11:22.606Z",
+  "errors": [],
+  "warnings": [],
   "factCheck": {
-    "verified": false
+    "verified": true,
+    "notes": "Compared with English no-drill-motorized-blinds: same 3 products/ASINs (B0DNYKLSMZ, B0BMLFZ4CP, B0F9W85LWF), scores, owners and sources (English URLs). Removed untested/local-Amazon paragraph; Graywind voice-assistant claim softened to check-the-listing; notes block facts from English post only; internal links point to localized sister posts, remaining English link labeled; no prices.",
+    "at": "2026-10-17T19:11:08.807Z"
   }
 }

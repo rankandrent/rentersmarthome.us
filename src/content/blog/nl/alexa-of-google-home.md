@@ -297,11 +297,9 @@ heroAlt: >-
 
 Of je beter voor Alexa of Google Home kiest, hangt vooral af van het ecosysteem waarin je al leeft. **Alexa is de betere keuze voor de meeste huurders die Amazon Prime, Ring of Fire TV gebruiken, terwijl Google Home de betere keuze is voor Android-huishoudens die de natuurlijkere gesprekken van Gemini willen.** Beide smart home-ecosystemen ondersteunen inmiddels Matter, dus de stekkers, lampen en sloten die je voor je appartement koopt, kunnen met allebei werken.
 
-In deze vergelijking laten we zien hoe Alexa+ en Gemini for Home in 2026 van elkaar verschillen, welke smart home-apparaten ze elk ondersteunen, wat gratis is en wat betaald, en met welke speaker je als huurder het best begint. Is dit allemaal nieuw voor je, begin dan met onze [smart home-gids voor huurders](/blog/smart-home-for-renters/).
+In deze vergelijking laten we zien hoe Alexa+ en Gemini for Home in 2026 van elkaar verschillen, welke smart home-apparaten ze elk ondersteunen, wat gratis is en wat betaald, en met welke speaker je als huurder het best begint. Is dit allemaal nieuw voor je, begin dan met onze [smart home-gids voor huurders](/blog/smart-home-for-renters/) (in het Engels).
 
-We hebben deze speakers niet zelf getest: onze keuzes zijn gebaseerd op onderzoek naar specificaties, handleidingen, reviews en ervaringen van eigenaren. De Amazon-links brengen je via Amazon naar je lokale Amazon-winkel; de beschikbaarheid kan per land verschillen.
-
-> **Uit onze notities:** De tip uit ons onderzoek die we bovenaan hebben gezet: maak een foto van de Matter-installatiecode van elk apparaat voordat je de doos kwijtraakt. Dan heb je die meteen bij de hand bij je volgende verhuizing of als je ooit van Alexa naar Google Home overstapt.
+> **Uit onze notities:** De tip die we bovenaan hebben gezet: maak een foto van de Matter-installatiecode van elk apparaat voordat je de doos kwijtraakt.
 
 ## Alexa of Google Home: het snelle oordeel
 
@@ -328,14 +326,14 @@ Gemini for Home is de op Gemini gebaseerde assistent van Google voor Google Home
 
 **Alexa werkt met meer smart home-apparaten, maar Matter heeft het verschil verkleind voor de producten die huurders echt kopen.** Alexa heeft al lang het grootste aanbod aan compatibele gadgets, en bij oudere wifi-apparaten is dat nog steeds een echt verschil.
 
-Matter verandert het beeld. Matter is de gezamenlijke standaard van Amazon, Google, Apple en Samsung, en een Matter-apparaat werkt met elke Matter-controller. Een [slimme stekker met Matter](/blog/best-matter-smart-plugs/) of een Matter-compatibel slim slot werkt dus net zo goed met Alexa als met Google Home.
+Matter verandert het beeld. Matter is de gezamenlijke standaard van Amazon, Google, Apple en Samsung, en een Matter-apparaat werkt met elke Matter-controller. Een [slimme stekker met Matter](/blog/best-matter-smart-plugs/) (in het Engels) of een Matter-compatibel slim slot werkt dus net zo goed met Alexa als met Google Home.
 
 Ook Thread is belangrijk. Thread is het zuinige mesh-netwerk dat veel Matter-apparaten gebruiken, en het heeft een Thread-borderrouter nodig. Verschillende huidige speakers hebben er een ingebouwd, zodat ze ook dienstdoen als je smart home-hub:
 
 - **Alexa:** Echo Dot Max, Echo Studio (2e generatie), Echo van de 4e generatie en enkele Echo Show-modellen
 - **Google Home:** Google Home Speaker en Nest Hub-displays
 
-Wil je later sensoren op batterijen of een [slim slot om op je bestaande slot te zetten](/blog/best-smart-lock-for-renters/) toevoegen, kies dan een speaker met ingebouwde Thread-borderrouter.
+Wil je later sensoren op batterijen of een [slim slot om op je bestaande slot te zetten](/nl/blog/beste-slimme-sloten-voor-huurders/) toevoegen, kies dan een speaker met ingebouwde Thread-borderrouter.
 
 ## Abonnementen: wat is gratis bij Alexa en Google Home?
 
@@ -383,7 +381,7 @@ Gebruik deze korte checklist:
 
 1. **Heb je een iPhone of een Android-telefoon met Google-apps?** Google Home voelt op Android natuurlijker aan; Alexa werkt op allebei even goed.
 2. **Betaal je voor Prime?** Alexa+ is inbegrepen, en dat geeft de doorslag richting Alexa.
-3. **Wil je camera's?** Ring past het best bij Alexa; Nest Cam past het best bij Google Home. Bekijk onze [gids voor deurspioncamera's](/blog/best-peephole-camera-for-apartments/) voor deurcamera's die veilig zijn voor huurders.
+3. **Wil je camera's?** Ring past het best bij Alexa; Nest Cam past het best bij Google Home. Bekijk onze [gids voor deurspioncamera's](/blog/best-peephole-camera-for-apartments/) (in het Engels) voor deurcamera's die veilig zijn voor huurders.
 4. **Heb je huisgenoten?** Koop Matter-apparaten en gebruik multi-admin, zodat iedereen zijn eigen assistent kan gebruiken.
 
 ## Verhuizen met Alexa of Google Home
@@ -399,4 +397,4 @@ Een paar tips voor huurders maken de verhuisdag soepeler:
 
 ## Ons advies
 
-**Voor de meeste huurders is Alexa in 2026 de veiligste standaardkeuze, dankzij bredere apparaatondersteuning en Alexa+ bij Prime; kies Google Home als je in de apps van Google leeft en de gesprekken met Gemini belangrijk vindt.** Welke assistent je ook kiest, koop Matter-apparaten, zodat je opstelling in je huurwoning met je mee kan verhuizen en met allebei werkt.
+**Voor de meeste huurders is Alexa in 2026 de veiligste standaardkeuze, dankzij bredere apparaatondersteuning en Alexa+ bij Prime; kies Google Home als je in de apps van Google leeft en de gesprekken met Gemini belangrijk vindt.** Welke assistent je ook kiest, koop Matter-apparaten, zodat je opstelling in je huurwoning met je mee kan verhuizen en met allebei werkt. Dit is ons advies: wij zouden in jouw plaats hetzelfde doen, en daarom raden we het je aan.

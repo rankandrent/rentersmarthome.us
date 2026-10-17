@@ -1,0 +1,14 @@
+{
+  "lang": "nl",
+  "translationOf": "smart-home-for-renters",
+  "keyword": "smart home huurwoning",
+  "createdAt": "2026-10-17T19:10:49.999Z",
+  "via": "claude-routine",
+  "sources": [
+    "https://csa-iot.org/all-solutions/matter/",
+    "https://www.threadgroup.org/What-is-Thread",
+    "https://www.philips-hue.com/",
+    "https://sensibo.com/",
+    "https://www.kasasmart.com/"
+  ]
+}

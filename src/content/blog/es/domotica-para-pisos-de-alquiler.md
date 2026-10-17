@@ -387,8 +387,6 @@ La **domótica para pisos de alquiler** se basa en dispositivos que se enchufan,
 
 En esta guía te explicamos paso a paso cómo convertir tu piso en una casa inteligente: qué comprar primero, qué dispositivos necesitan el visto bueno del casero, cómo elegir un ecosistema que sobreviva a una mudanza y cómo deshacerlo todo el día que te vas.
 
-No hemos probado estos dispositivos nosotros mismos: nuestras recomendaciones se basan en investigación de especificaciones del fabricante, manuales y opiniones de propietarios. Los enlaces de Amazon te llevan, a través de Amazon, a tu tienda local de Amazon; la disponibilidad puede variar según el país.
-
 > **De nuestras notas:** El consejo que más repetimos para cualquier casa inteligente de alquiler: guarda todas las piezas originales, es decir, pomos interiores, bombillas y mirillas, en una caja etiquetada. Así, el día de la mudanza tendrás a mano todo lo que hay que volver a instalar.
 
 ## Las tres reglas de la domótica en un piso de alquiler
@@ -399,13 +397,13 @@ Antes de comprar cualquier dispositivo para una casa inteligente de alquiler, de
 2. **Portátil.** Funciona con una red wifi nueva en un piso nuevo sin necesidad de llamar a un profesional.
 3. **Respetuoso con el contrato.** Todo lo que toque cerraduras, termostatos, cableado o el exterior del edificio necesita antes la aprobación por escrito del casero.
 
-Estas reglas descartan enseguida los interruptores empotrados, los timbres cableados y la sustitución completa de la cerradura, y te orientan hacia las categorías que vemos a continuación.
+Estas reglas descartan enseguida los interruptores empotrados, los timbres cableados y la sustitución completa de la cerradura, y te orientan hacia las categorías que nosotros te presentamos a continuación.
 
 ## Paso 1: empieza por los enchufes inteligentes
 
 **Un enchufe inteligente es el dispositivo de domótica más sencillo para inquilinos porque solo necesita una toma de corriente.** Conecta una lámpara, un ventilador, una cafetera o las luces de Navidad a un enchufe inteligente y podrás programarlo, controlarlo por voz o apagarlo desde el móvil.
 
-El [Kasa Smart Plug Mini with Matter](amzn:B0BYGRLRS1) es nuestro enchufe inteligente favorito para empezar: es compacto, es compatible con Matter e informa del consumo eléctrico para que encuentres los aparatos que más gastan. En nuestra comparativa de los [mejores enchufes inteligentes Matter](/blog/best-matter-smart-plugs/) encontrarás más opciones, incluidos modelos Thread.
+El [Kasa Smart Plug Mini with Matter](amzn:B0BYGRLRS1) es nuestro enchufe inteligente favorito para empezar: es compacto, es compatible con Matter e informa del consumo eléctrico para que encuentres los aparatos que más gastan. En nuestra comparativa de los [mejores enchufes inteligentes Matter](/es/blog/mejores-enchufes-inteligentes-matter/) encontrarás más opciones, incluidos modelos Thread.
 
 **Nuestro consejo para inquilinos:** no conectes calefactores ni aires acondicionados de ventana a un enchufe inteligente normal, salvo que el enchufe esté expresamente preparado para esa carga. Mejor usa un calefactor con control inteligente integrado.
 
@@ -421,13 +419,13 @@ Si los interruptores de tu piso controlan lámparas de techo, un interruptor int
 
 La puerta de entrada es donde más rinde la tecnología domótica pensada para inquilinos:
 
-- **Cerradura inteligente:** una cerradura inteligente de adaptación solo sustituye el pomo interior, así que la llave del casero sigue funcionando. Consulta nuestra guía de las [mejores cerraduras inteligentes para inquilinos](/blog/best-smart-lock-for-renters/).
-- **Cámara para la puerta:** una cámara de mirilla se instala a través de la mirilla que ya tienes, sin taladrar. Consulta las [mejores cámaras de mirilla para pisos](/blog/best-peephole-camera-for-apartments/).
+- **Cerradura inteligente:** una cerradura inteligente de adaptación solo sustituye el pomo interior, así que la llave del casero sigue funcionando. Consulta nuestra guía de las [mejores cerraduras inteligentes para inquilinos](/es/blog/mejores-cerraduras-inteligentes-para-pisos-de-alquiler/).
+- **Cámara para la puerta:** una cámara de mirilla se instala a través de la mirilla que ya tienes, sin taladrar. Consulta las [mejores cámaras de mirilla para pisos](/es/blog/mejor-mirilla-digital-para-pisos/).
 - **Sensores de apertura:** los sensores de contacto a pilas se pegan con adhesivo en puertas y ventanas y activan avisos o luces.
 
 ## Paso 4: controla la calefacción y el aire acondicionado
 
-**Muchas viviendas de alquiler tienen aires acondicionados de ventana, portátiles o splits sin conductos que se manejan con un mando por infrarrojos.** Un [controlador inteligente de aire acondicionado](/blog/smart-ac-controller/) como el [Sensibo Air](amzn:B07MTGD3D9) aprende ese mando y añade horarios, geolocalización y control por voz, sin abrir el aparato.
+**Muchas viviendas de alquiler tienen aires acondicionados de ventana, portátiles o splits sin conductos que se manejan con un mando por infrarrojos.** Un [controlador inteligente de aire acondicionado](/blog/smart-ac-controller/) (en inglés) como el [Sensibo Air](amzn:B07MTGD3D9) aprende ese mando y añade horarios, geolocalización y control por voz, sin abrir el aparato.
 
 Sustituir un termostato de pared es otra historia: implica tocar el cableado de la climatización, así que pregunta antes al casero, guarda el termostato original y haz fotos del cableado antes de desconectar nada.
 
@@ -452,7 +450,7 @@ Elijas el asistente de voz que elijas, nosotros recomendamos dar prioridad a los
 - Colocar un timbre o una cámara fuera de tu vivienda.
 - Añadir cualquier cosa en las zonas comunes.
 
-Plantea la petición en torno a la reversibilidad: describe el dispositivo, explica que guardas las piezas originales y comprométete a volver a instalarlas al irte.
+Nuestro consejo: plantea la petición en torno a la reversibilidad: describe el dispositivo, explica que guardas las piezas originales y comprométete a volver a instalarlas al irte.
 
 ## Tu lista de comprobación para la mudanza
 
@@ -464,4 +462,4 @@ Plantea la petición en torno a la reversibilidad: describe el dispositivo, expl
 
 ## Empieza poco a poco y ve ampliando
 
-**La mejor domótica para un piso de alquiler empieza con un enchufe inteligente y unas cuantas bombillas inteligentes, y luego crece con una cerradura inteligente de adaptación, una cámara de mirilla y un controlador de aire acondicionado.** Si te quedas con dispositivos compatibles con Matter y sin taladros, tu casa inteligente será igual de inteligente en el próximo piso que alquiles.
+**La mejor domótica para un piso de alquiler empieza con un enchufe inteligente y unas cuantas bombillas inteligentes, y luego crece con una cerradura inteligente de adaptación, una cámara de mirilla y un controlador de aire acondicionado.** Nuestra recomendación: si te quedas con dispositivos compatibles con Matter y sin taladros, tu casa inteligente será igual de inteligente en el próximo piso que alquiles.

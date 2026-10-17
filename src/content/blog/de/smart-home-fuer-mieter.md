@@ -383,8 +383,6 @@ Ein **Smart Home für Mieter** besteht aus Geräten, die du einsteckst, eindrehs
 
 In diesem Ratgeber zeigen wir dir Schritt für Schritt, wie du deine Mietwohnung smart machst: was du zuerst kaufen solltest, welche Geräte die Zustimmung des Vermieters brauchen, wie du ein System wählst, das einen Umzug übersteht, und wie du am Auszugstag alles zurückbaust.
 
-Wir haben diese Geräte nicht selbst getestet, sondern unsere Empfehlungen anhand von Herstellerangaben, Bedienungsanleitungen und Erfahrungen von Besitzern recherchiert. Die Amazon-Links führen dich über Amazon zu deinem lokalen Amazon-Shop; die Verfügbarkeit kann je nach Land abweichen.
-
 > **Aus unseren Notizen:** Unser wichtigster Tipp für jedes Smart Home in einer Mietwohnung: Leg alle Originalteile, also Drehknäufe, Leuchtmittel und Türspione, in eine beschriftete Kiste. Dann liegt am Auszugstag alles bereit, was wieder eingebaut werden muss.
 
 ## Die drei Regeln für ein Smart Home in der Mietwohnung
@@ -401,7 +399,7 @@ Diese Regeln sortieren Unterputzschalter, fest verkabelte Türklingeln und den k
 
 **Eine smarte Steckdose ist das einfachste Smart-Home-Gerät für Mieter, denn sie braucht nur eine Steckdose.** Steck eine Lampe, einen Ventilator, eine Kaffeemaschine oder eine Lichterkette in den smarten Zwischenstecker, und schon kannst du das Gerät per Zeitplan, per Sprachbefehl oder vom Handy aus schalten.
 
-Die [Kasa Smart Plug Mini with Matter](amzn:B0BYGRLRS1) ist unsere liebste erste smarte Steckdose: Sie ist kompakt, unterstützt Matter und meldet den Stromverbrauch, damit du Stromfresser in deiner Wohnung findest. In unserem Vergleich der [besten Matter-Steckdosen](/blog/best-matter-smart-plugs/) findest du weitere Modelle, darunter auch Thread-Varianten.
+Die [Kasa Smart Plug Mini with Matter](amzn:B0BYGRLRS1) ist unsere liebste erste smarte Steckdose: Sie ist kompakt, unterstützt Matter und meldet den Stromverbrauch, damit du Stromfresser in deiner Wohnung findest. In unserem Vergleich der [besten Matter-Steckdosen](/de/blog/beste-matter-steckdosen/) findest du weitere Modelle, darunter auch Thread-Varianten.
 
 **Unser Tipp für Mieter:** Häng Heizlüfter oder Fensterklimageräte nicht an eine gewöhnliche smarte Steckdose, außer sie ist ausdrücklich für diese Last ausgelegt. Nimm stattdessen ein Heizgerät mit eingebauter smarter Steuerung.
 
@@ -418,12 +416,12 @@ Wenn die Lichtschalter in deiner Wohnung Deckenleuchten steuern, bleibt die Verk
 An der Wohnungstür lohnt sich mieterfreundliche Smart-Home-Technik am meisten:
 
 - **Smart Lock:** Ein Nachrüst-Smart-Lock ersetzt nur den inneren Drehknauf, der Schlüssel des Vermieters funktioniert also weiter. Mehr dazu in unserem Ratgeber zu den [besten Smart Locks für Mieter](/de/blog/beste-smart-locks-fuer-mieter/).
-- **Türkamera:** Eine Türspion-Kamera wird durch deinen vorhandenen Türspion montiert, ganz ohne Bohren. Mehr dazu in unserer Übersicht der [besten Türspion-Kameras für Wohnungen](/blog/best-peephole-camera-for-apartments/).
+- **Türkamera:** Eine Türspion-Kamera wird durch deinen vorhandenen Türspion montiert, ganz ohne Bohren. Mehr dazu in unserer Übersicht der [besten Türspion-Kameras für Wohnungen](/de/blog/beste-tuerspion-kamera-fuer-wohnungen/).
 - **Tür- und Fenstersensoren:** Batteriebetriebene Kontaktsensoren kleben an Türen und Fenstern und lösen Benachrichtigungen oder Licht aus.
 
 ## Schritt 4: Steuere Heizen und Kühlen
 
-**Viele Mietwohnungen haben Fensterklimageräte, mobile Klimageräte oder Split-Klimaanlagen, die mit einer Infrarot-Fernbedienung bedient werden.** Eine [smarte Klimasteuerung](/blog/smart-ac-controller/) wie der [Sensibo Air](amzn:B07MTGD3D9) lernt diese Fernbedienung und ergänzt Zeitpläne, Geofencing und Sprachsteuerung, ohne dass das Klimagerät geöffnet wird.
+**Viele Mietwohnungen haben Fensterklimageräte, mobile Klimageräte oder Split-Klimaanlagen, die mit einer Infrarot-Fernbedienung bedient werden.** Eine [smarte Klimasteuerung](/blog/smart-ac-controller/) (auf Englisch) wie der [Sensibo Air](amzn:B07MTGD3D9) lernt diese Fernbedienung und ergänzt Zeitpläne, Geofencing und Sprachsteuerung, ohne dass das Klimagerät geöffnet wird.
 
 Einen Wandthermostat zu ersetzen ist etwas anderes: Dabei greifst du in die Verkabelung der Heizungs- und Klimaanlage ein. Frag deshalb zuerst deinen Vermieter, bewahre den Originalthermostat auf und fotografiere die Verkabelung, bevor du irgendetwas abklemmst.
 

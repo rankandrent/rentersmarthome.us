@@ -369,13 +369,11 @@ heroAlt: >-
 
 Een **Matter slimme stekker** is een slimme stekker die gecertificeerd is voor Matter, de gezamenlijke smarthome-standaard van Amazon, Google, Apple en Samsung. Steek je een lamp, ventilator of koffiezetapparaat in een Matter slimme stekker, dan bedien je dat apparaat via Alexa, Google Home, Apple Home of SmartThings, en dat allemaal tegelijk, zonder vast te zitten aan één merk. Voor huurders is dat belangrijk: een Matter slimme stekker blijft werken als je verhuist, een andere telefoon neemt of overstapt op een andere spraakassistent.
 
-Hieronder lees je welke Matter slimme stekkers het beste zijn voor een appartement, wat het verschil is tussen wifi- en Thread-versies en hoe je slimme stekkers veilig gebruikt in een huurwoning.
-
-We hebben deze stekkers niet zelf getest; onze keuze is gebaseerd op onderzoek naar specificaties van de fabrikant, handleidingen, reviews en ervaringen van eigenaren. De Amazon-links brengen je via Amazon naar je lokale Amazon-winkel; de beschikbaarheid kan per land verschillen.
+Hieronder laten we je zien welke Matter slimme stekkers het beste zijn voor een appartement, wat het verschil is tussen wifi- en Thread-versies en hoe je slimme stekkers veilig gebruikt in een huurwoning.
 
 **Belangrijk voordat je koopt:** de modellen in onze selectie zijn Amerikaanse versies. Ze hebben een Amerikaanse stekker (type A/B) en zijn gemaakt voor het Amerikaanse stroomnet van 120 V. Ze passen niet in stopcontacten in Nederland en België en zijn niet bedoeld voor onze 230 V. Gebruik ze ook niet met een reisadapter. Koop alleen een versie die uitdrukkelijk geschikt is voor jouw type stopcontact en voor 230 V. Wat we hieronder uitleggen over Matter, Thread en het instellen, geldt gewoon.
 
-> **Uit onze notities:** De tip die we uit ons onderzoek het vaakst meenemen: maak een foto van de Matter-QR-code op de stekker of de doos voordat de verpakking bij het oud papier belandt. Na een verhuizing heb je precies die code nodig om de stekker opnieuw in te stellen.
+> **Uit onze notities:** Ons advies: maak een foto van de Matter-QR-code op de stekker of de doos voordat je de verpakking weggooit. Na een verhuizing heb je precies die code nodig om de stekker opnieuw in te stellen.
 
 ## Waarom huurders voor een Matter slimme stekker moeten kiezen
 
@@ -413,7 +411,7 @@ De [Meross Matter slimme stekker](amzn:Meross+Matter+smart+plug+mini) is een com
 Slimme stekkers zijn het veiligste smarthome-apparaat voor huurders, maar een paar regels beschermen jou en de bedrading van je verhuurder:
 
 - **Houd je aan het maximum.** Check de maximale belasting van de slimme stekker en ga daar nooit overheen.
-- **Geen kacheltjes en raamairco's,** tenzij de stekker geschikt is voor die continue belasting; kies liever een [kachel met ingebouwde slimme bediening](/blog/smart-home-for-renters/) (gids in het Engels).
+- **Geen kacheltjes en raamairco's,** tenzij de stekker geschikt is voor die continue belasting; kies liever een [kachel met ingebouwde slimme bediening](/nl/blog/smart-home-huurwoning/).
 - **Vermijd stekkerdozen achter meubels.** Slimme stekkers en adapters kunnen warm worden; zorg dat ze lucht krijgen.
 - **Buiten alleen stekkers voor buitengebruik.** Op balkon en terras heb je weerbestendige slimme stekkers nodig.
 - **Alleen stekkers die bij je stroomnet passen.** Zoals hierboven gezegd: Amerikaanse modellen (type A/B, 120 V) horen niet in stopcontacten in Nederland of België.
@@ -426,7 +424,7 @@ Slimme stekkers zijn het veiligste smarthome-apparaat voor huurders, maar een pa
 4. **Ventilator automatiseren.** Koppel een ventilator aan een temperatuursensor zodat hij de slaapkamer alleen koelt als het nodig is.
 5. **Kerstverlichting.** Zet de versiering op een schema zonder achter de boom te hoeven kruipen.
 
-Slimme stekkers passen goed bij de andere huurdervriendelijke upgrades uit onze [smarthome-gids voor huurders](/blog/smart-home-for-renters/) (in het Engels), en met een [opbouw-slim slot](/blog/best-smart-lock-for-renters/) (in het Engels) maak je "thuiskomen"-automatiseringen die tegelijk de deur ontgrendelen en de lampen aanzetten.
+Slimme stekkers passen goed bij de andere huurdervriendelijke upgrades uit onze [smarthome-gids voor huurders](/nl/blog/smart-home-huurwoning/), en met een [opbouw-slim slot](/nl/blog/beste-slimme-sloten-voor-huurders/) maak je "thuiskomen"-automatiseringen die tegelijk de deur ontgrendelen en de lampen aanzetten.
 
 ## Een Matter slimme stekker instellen
 
@@ -438,4 +436,4 @@ Slimme stekkers passen goed bij de andere huurdervriendelijke upgrades uit onze 
 
 ## Welke Matter slimme stekker moet je kopen?
 
-**De Kasa Smart Plug Mini KP125M is voor de meeste huurders de beste Matter slimme stekker: compact, met energiemeting en compatibel met alles.** Kies de Tapo P125M voor de laagste kosten, de Meross mini voor voordelig meerdere kamers en Eve Energy als je Apple Home gebruikt en een Thread-stekker wilt die de rest van je netwerk sterker maakt. Welke je ook kiest: controleer dat de stekker in je stopcontact past en dat het model geschikt is voor 230 V.
+**Voor ons is de Kasa Smart Plug Mini KP125M voor de meeste huurders de beste Matter slimme stekker: compact, met energiemeting en compatibel met alles.** Wij kiezen de Tapo P125M voor de laagste kosten, de Meross mini voor voordelig meerdere kamers en Eve Energy als je Apple Home gebruikt en een Thread-stekker wilt die de rest van je netwerk sterker maakt. Welke je ook kiest: controleer dat de stekker in je stopcontact past en dat het model geschikt is voor 230 V.

@@ -1,5 +1,5 @@
 ---
-title: 'De beste deurspion camera voor appartementen: beveiliging zonder boren'
+title: 'Beste deurspion camera voor appartementen: veilig zonder boren'
 seoTitle: 'Deurspion camera voor appartementen (2026): 4 zonder boren'
 description: >-
   Een deurspion camera maakt van het spionnetje in je voordeur een video
@@ -371,8 +371,6 @@ Een **deurspion camera** is een videocamera op accu die het kleine spionnetje ve
 
 In deze gids zetten we de beste deurspion camera voor appartementen op een rij, plus alternatieven zonder boren voor als je deur geen spion heeft of je gebouw camera's in de gang beperkt.
 
-We hebben deze camera's niet zelf getest, maar onze keuze gebaseerd op onderzoek naar specificaties van fabrikanten, handleidingen, reviews en ervaringen van eigenaren. De Amazon-links sturen je via Amazon door naar je lokale Amazon-winkel; de beschikbaarheid kan per land verschillen.
-
 > **Uit onze notities:** De handigste tip uit ons onderzoek: stop de oude deurspion in een zakje met een label en bewaar hem bij je huurpapieren. Dan ligt alles klaar op de dag dat je verhuist, en kost terugplaatsen maar ongeveer vijf minuten.
 
 ## Hoe werkt een deurspion camera?
@@ -415,7 +413,7 @@ Een deurspion camera en een video deurbel lossen hetzelfde probleem op, alleen o
 | Regels van het gebouw | Zelden beperkt | Soms beperkt |
 | Het best voor | Appartementen met een deurspion | Rijtjeshuizen, huurhuizen |
 
-Voor de meeste huurders in een appartement wint bij ons de deurspion camera, omdat hij onopvallend is en onderdelen gebruikt die er al zijn. Combineer je deurspion camera met een [huurdersvriendelijk slim slot](/blog/best-smart-lock-for-renters/) (in het Engels) en je kunt bezoek zien en via je telefoon binnenlaten.
+Voor de meeste huurders in een appartement wint bij ons de deurspion camera, omdat hij onopvallend is en onderdelen gebruikt die er al zijn. Combineer je deurspion camera met een [huurdersvriendelijk slim slot](/nl/blog/beste-slimme-sloten-voor-huurders/) en je kunt bezoek zien en via je telefoon binnenlaten.
 
 ## Een deurspion camera plaatsen: zo doe je het
 
@@ -439,8 +437,8 @@ Een deurspion camera filmt een gedeelde ruimte, dus wees een goede buur:
 - Zet geluidsopname uit als het opnemen van geluid waar jij woont toestemming van alle betrokkenen vereist; in de Verenigde Staten is dat in sommige staten zo.
 - Vertel je huisgenoten dat de camera er is en geef ook hen toegang.
 
-Wil je meer afdekken, lees dan onze gids over een [smart home als huurder](/blog/smart-home-for-renters/) (in het Engels), met binnencamera's, deur- en raamsensoren en alarmsets waarvoor je niet hoeft te boren.
+Wil je meer afdekken, lees dan onze gids over een [smart home als huurder](/nl/blog/smart-home-huurwoning/), met binnencamera's, deur- en raamsensoren en alarmsets waarvoor je niet hoeft te boren.
 
 ## Ons oordeel over deurspion camera's
 
-**De Ring Peephole Cam is de beste deurspion camera voor appartementen, omdat hij door je bestaande deurspion wordt geplaatst, binnen een gewone kijkspion houdt en binnen een paar minuten weer los is.** Heeft je deur geen spion, dan is een binnencamera zoals de Wyze Cam v4 of de Blink Mini 2, gericht op de ingang, het eenvoudigste huurdersvriendelijke alternatief.
+**De Ring Peephole Cam is de beste deurspion camera voor appartementen, omdat hij door je bestaande deurspion wordt geplaatst, binnen een gewone kijkspion houdt en binnen een paar minuten weer los is.** Heeft je deur geen spion, dan is een binnencamera zoals de Wyze Cam v4 of de Blink Mini 2, gericht op de ingang, het eenvoudigste huurdersvriendelijke alternatief. Wij kiezen eerst altijd de Ring Peephole Cam en onze tweede keuze is de Wyze Cam v4.

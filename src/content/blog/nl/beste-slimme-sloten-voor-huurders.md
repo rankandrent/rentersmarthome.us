@@ -434,7 +434,7 @@ Ben je op zoek naar een slim slot voor je appartement, let dan in de productbesc
 
 ## Onze favoriete slimme sloten voor huurders op een rij
 
-### August Wi-Fi Smart Lock (4th Gen): beste keuze overall
+### August Wi-Fi Smart Lock (4th Gen): beste algemene keuze
 
 Het [August Wi-Fi Smart Lock](amzn:August+Wi-Fi+Smart+Lock+4th+Gen) is het slimme opzetslot dat de meeste huurders als eerste zouden moeten overwegen. Bij de vierde generatie van August zit de wifi in het slot zelf, dus vergrendelen op afstand, de activiteitengeschiedenis en gasttoegang werken zonder aparte bridge in het stopcontact. DoorSense, een kleine sensor op het deurkozijn, bevestigt of de deur echt dicht is, waardoor automatisch vergrendelen veel betrouwbaarder werkt.
 

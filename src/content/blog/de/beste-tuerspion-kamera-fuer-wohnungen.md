@@ -1,5 +1,5 @@
 ---
-title: 'Die beste Türspion-Kamera für Wohnungen: Türsicherheit ohne Bohren'
+title: 'Beste Türspion-Kamera für Wohnungen: Sicherheit ohne Bohren'
 seoTitle: 'Türspion-Kamera für Wohnungen (2026): 4 Modelle ohne Bohren'
 description: >-
   Eine Türspion-Kamera macht aus dem Spion deiner Wohnungstür eine
@@ -372,8 +372,6 @@ Eine **Türspion-Kamera** ist eine akkubetriebene Videokamera, die den kleinen T
 
 In diesem Ratgeber zeigen wir dir die beste Türspion-Kamera für Wohnungen, dazu Alternativen ohne Bohren für den Fall, dass deine Tür keinen Spion hat oder dein Haus Kameras im Flur einschränkt.
 
-Wir haben diese Kameras nicht selbst getestet, sondern unsere Auswahl anhand von Herstellerangaben, Bedienungsanleitungen, Testberichten und Erfahrungen von Besitzern recherchiert. Die Amazon-Links führen dich über Amazon zu deinem lokalen Amazon-Shop; die Verfügbarkeit kann je nach Land abweichen.
-
 > **Aus unseren Notizen:** Der wichtigste Tipp aus unserer Recherche: Steck den alten Türspion in einen beschrifteten Beutel und leg ihn zu deinen Mietunterlagen. Dann liegt am Auszugstag alles bereit, und der Wiedereinbau dauert nur etwa fünf Minuten.
 
 ## Wie funktioniert eine Türspion-Kamera?
@@ -440,8 +438,8 @@ Eine Türspion-Kamera filmt einen gemeinsam genutzten Bereich, also sei ein gute
 - Schalte die Tonaufnahme aus, wenn Tonaufnahmen dort, wo du wohnst, die Zustimmung aller Beteiligten erfordern; in den USA ist das in manchen Bundesstaaten der Fall.
 - Sag deinen Mitbewohnern, dass es die Kamera gibt, und gib ihnen ebenfalls Zugriff.
 
-Wenn du mehr absichern willst, lies unseren Ratgeber zum [Smart Home für Mieter](/blog/smart-home-for-renters/) (auf Englisch). Dort geht es um Innenkameras, Tür- und Fenstersensoren und Alarmanlagen-Sets, für die du nicht bohren musst.
+Wenn du mehr absichern willst, lies unseren Ratgeber zum [Smart Home für Mieter](/de/blog/smart-home-fuer-mieter/). Dort geht es um Innenkameras, Tür- und Fenstersensoren und Alarmanlagen-Sets, für die du nicht bohren musst.
 
 ## Unser Fazit zur Türspion-Kamera
 
-**Die Ring Peephole Cam ist die beste Türspion-Kamera für Wohnungen, weil sie durch deinen vorhandenen Türspion montiert wird, innen einen klassischen Spion behält und in wenigen Minuten wieder abgebaut ist.** Hat deine Tür keinen Spion, ist eine Innenkamera wie die Wyze Cam v4 oder die Blink Mini 2 mit Blick auf den Eingang die einfachste mieterfreundliche Alternative.
+**Die Ring Peephole Cam ist die beste Türspion-Kamera für Wohnungen, weil sie durch deinen vorhandenen Türspion montiert wird, innen einen klassischen Spion behält und in wenigen Minuten wieder abgebaut ist.** Hat deine Tür keinen Spion, ist eine Innenkamera wie die Wyze Cam v4 oder die Blink Mini 2 mit Blick auf den Eingang die einfachste mieterfreundliche Alternative. Ob Wohnung oder Haus: Wir würden immer zuerst die Ring Peephole Cam wählen, und unsere zweite Wahl ist die Wyze Cam v4.
