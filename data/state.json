@@ -555,6 +555,27 @@
       "lang": "nl",
       "translationOf": "best-magnetic-stud-finder",
       "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "de/wyze-ring-oder-eufy-fuer-mieter",
+      "lang": "de",
+      "translationOf": "wyze-vs-ring-vs-eufy-for-renters",
+      "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "es/wyze-ring-o-eufy-para-inquilinos",
+      "lang": "es",
+      "translationOf": "wyze-vs-ring-vs-eufy-for-renters",
+      "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "nl/wyze-ring-of-eufy-voor-huurders",
+      "lang": "nl",
+      "translationOf": "wyze-vs-ring-vs-eufy-for-renters",
+      "pubDate": "2026-10-17T19:00:00.000Z"
     }
   ]
 }

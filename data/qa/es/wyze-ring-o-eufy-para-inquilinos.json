@@ -1,0 +1,16 @@
+{
+  "slug": "es/wyze-ring-o-eufy-para-inquilinos",
+  "lang": "es",
+  "translationOf": "wyze-vs-ring-vs-eufy-for-renters",
+  "pass": true,
+  "checkedAt": "2026-10-17T19:35:16.277Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-wireless-security-cameras-for-apartments/; link the es version once it exists"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared line by line with English post wyze-vs-ring-vs-eufy-for-renters (factcheck verified, QA pass, no dead sources reported): same 3 products/ASINs/scores/spec keys, same sources and owners.sources; specs translated with decimal comma only (2,5K, 115,8 deg, 2,4 GHz, 128 GB, 1,5 years); no new facts, prices or testing claims; FAQ 'Ring Protect' rendered as Ring Home (formerly Ring Protect) per English body and its factcheck; added only the required note to check the adapter fits local sockets and 230 V if a US version arrives; wireless-cameras link kept English (no translation yet).",
+    "at": "2026-10-17T19:35:15.711Z"
+  }
+}
