@@ -425,7 +425,7 @@ La puerta de entrada es donde más rinde la tecnología domótica pensada para i
 
 ## Paso 4: controla la calefacción y el aire acondicionado
 
-**Muchas viviendas de alquiler tienen aires acondicionados de ventana, portátiles o splits sin conductos que se manejan con un mando por infrarrojos.** Un [controlador inteligente de aire acondicionado](/blog/smart-ac-controller/) (en inglés) como el [Sensibo Air](amzn:B07MTGD3D9) aprende ese mando y añade horarios, geolocalización y control por voz, sin abrir el aparato.
+**Muchas viviendas de alquiler tienen aires acondicionados de ventana, portátiles o splits sin conductos que se manejan con un mando por infrarrojos.** Un [controlador inteligente de aire acondicionado](/es/blog/controlador-wifi-para-aire-acondicionado/) como el [Sensibo Air](amzn:B07MTGD3D9) aprende ese mando y añade horarios, geolocalización y control por voz, sin abrir el aparato.
 
 Sustituir un termostato de pared es otra historia: implica tocar el cableado de la climatización, así que pregunta antes al casero, guarda el termostato original y haz fotos del cableado antes de desconectar nada.
 

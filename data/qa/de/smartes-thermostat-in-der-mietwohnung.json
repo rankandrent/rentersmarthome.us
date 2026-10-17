@@ -1,0 +1,14 @@
+{
+  "slug": "de/smartes-thermostat-in-der-mietwohnung",
+  "lang": "de",
+  "translationOf": "smart-thermostat-in-apartment",
+  "pass": true,
+  "checkedAt": "2026-10-17T19:18:45.759Z",
+  "errors": [],
+  "warnings": [],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared every claim with the English post smart-thermostat-in-apartment (QA pass, factcheck 2026-10-14): same 3 products/ASINs, sources, owners data, scores; no new facts. US-specific items (24V HVAC, C-wire, R/W/Y/G/C labels, 120/240V baseboard heat) kept and marked as US systems; smart-ac-controller link kept in English.",
+    "at": "2026-10-17T19:17:37.345Z"
+  }
+}

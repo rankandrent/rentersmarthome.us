@@ -419,7 +419,7 @@ Bij de voordeur levert huurdervriendelijke smart-home-techniek het meeste op:
 
 ## Stap 4: regel verwarming en koeling
 
-**Veel huurwoningen hebben raamairco’s, mobiele airco’s of split-airco’s zonder kanalen die je met een infrarood afstandsbediening bedient.** Een [slimme airco-regelaar](/blog/smart-ac-controller/) (in het Engels) zoals de [Sensibo Air](amzn:B07MTGD3D9) leert die afstandsbediening en voegt schema’s, geofencing en spraakbediening toe, zonder de airco open te maken.
+**Veel huurwoningen hebben raamairco’s, mobiele airco’s of split-airco’s zonder kanalen die je met een infrarood afstandsbediening bedient.** Een [slimme airco-regelaar](/nl/blog/airco-slim-maken/) zoals de [Sensibo Air](amzn:B07MTGD3D9) leert die afstandsbediening en voegt schema’s, geofencing en spraakbediening toe, zonder de airco open te maken.
 
 Een wandthermostaat vervangen is een ander verhaal: daarbij kom je aan de bedrading van de verwarming en airco. Vraag het dus eerst aan je verhuurder, bewaar de originele thermostaat en maak foto’s van de bedrading voordat je iets loskoppelt.
 

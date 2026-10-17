@@ -478,7 +478,7 @@ Der Haken für Mieter ist die Montage. Du baust das Schloss des Vermieters aus u
 
 > „Ich würde gern ein Nachrüst-Smart-Lock an der Innenseite meiner Wohnungstür anbringen. Es ersetzt nur den inneren Drehknauf, das vorhandene Schloss und das Schlüsselloch außen bleiben gleich, und Ihr Schlüssel funktioniert weiterhin. Beim Auszug baue ich das Originalteil wieder ein."
 
-Erwähne, dass der Generalschlüssel des Vermieters weiter funktioniert; für Hausverwaltungen ist das meist der entscheidende Punkt. Wenn du stattdessen ein smartes Komplettschloss wie das Aqara U100 möchtest, sag das offen: Das Originalschloss kommt raus, du bewahrst es auf und baust es beim Auszug wieder ein, und du gibst eine Kopie des neuen Schlüssels ab, wenn der Mietvertrag dem Vermieter Zugang einräumt. Leg die Antwort-E-Mail zu deinen Mietunterlagen. Weitere mieterfreundliche Sicherheitsideen findest du in unserem Ratgeber zu den [besten Türspion-Kameras für Wohnungen](/blog/best-peephole-camera-for-apartments/) (auf Englisch).
+Erwähne, dass der Generalschlüssel des Vermieters weiter funktioniert; für Hausverwaltungen ist das meist der entscheidende Punkt. Wenn du stattdessen ein smartes Komplettschloss wie das Aqara U100 möchtest, sag das offen: Das Originalschloss kommt raus, du bewahrst es auf und baust es beim Auszug wieder ein, und du gibst eine Kopie des neuen Schlüssels ab, wenn der Mietvertrag dem Vermieter Zugang einräumt. Leg die Antwort-E-Mail zu deinen Mietunterlagen. Weitere mieterfreundliche Sicherheitsideen findest du in unserem Ratgeber zu den [besten Türspion-Kameras für Wohnungen](/de/blog/beste-tuerspion-kamera-fuer-wohnungen/).
 
 ## Nachrüst-Smart-Lock einbauen (und wieder ausbauen)
 
@@ -490,7 +490,7 @@ Die Montage eines Nachrüst-Smart-Locks dauert mit einem Schraubendreher 15 bis 
 4. Setz das Gehäuse des Smart Locks auf, leg die Batterien ein und kalibriere das Schloss in der App.
 5. Prüfe alles bei offener Tür, dann bei geschlossener Tür und schließlich mit deinem normalen Schlüssel von außen.
 
-Der Ausbau läuft genauso, nur in umgekehrter Reihenfolge. Setz den originalen Drehknauf wieder ein, prüfe, ob das Schloss mit dem Schlüssel des Vermieters abschließt, und fotografiere die Tür für deine Unterlagen zur Wohnungsübergabe. Wenn du danach den Rest deiner Wohnung automatisieren willst, führt dich unser [Smart-Home-Ratgeber für Mieter](/blog/smart-home-for-renters/) (auf Englisch) durch jeden Raum.
+Der Ausbau läuft genauso, nur in umgekehrter Reihenfolge. Setz den originalen Drehknauf wieder ein, prüfe, ob das Schloss mit dem Schlüssel des Vermieters abschließt, und fotografiere die Tür für deine Unterlagen zur Wohnungsübergabe. Wenn du danach den Rest deiner Wohnung automatisieren willst, führt dich unser [Smart-Home-Ratgeber für Mieter](/de/blog/smart-home-fuer-mieter/) durch jeden Raum.
 
 ## Tipps zu Sicherheit und Datenschutz beim Smart Lock
 

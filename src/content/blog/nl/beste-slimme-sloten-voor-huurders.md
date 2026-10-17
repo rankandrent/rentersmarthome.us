@@ -474,7 +474,7 @@ Het addertje onder het gras voor huurders is de installatie. Je haalt het slot v
 
 > "Ik zou graag een slim opzetslot aan de binnenkant van mijn voordeur plaatsen. Het vervangt alleen de draaiknop aan de binnenkant; het bestaande slot en het sleutelgat aan de buitenkant blijven hetzelfde, en uw sleutel blijft werken. Als ik verhuis, zet ik het originele onderdeel terug."
 
-Vermeld dat de loper van de verhuurder blijft werken; voor beheerders is dat meestal het doorslaggevende punt. Wil je liever een volledig slim slot zoals het Aqara U100, zeg dat dan eerlijk: het originele slot gaat eruit, jij bewaart het en zet het bij je verhuizing terug, en je geeft een kopie van de nieuwe sleutel als het huurcontract de verhuurder toegang geeft. Bewaar de antwoordmail bij je huurdocumenten. Meer huurdervriendelijke beveiligingsideeën vind je in onze gids over de [beste deurspioncamera's voor appartementen](/blog/best-peephole-camera-for-apartments/) (in het Engels).
+Vermeld dat de loper van de verhuurder blijft werken; voor beheerders is dat meestal het doorslaggevende punt. Wil je liever een volledig slim slot zoals het Aqara U100, zeg dat dan eerlijk: het originele slot gaat eruit, jij bewaart het en zet het bij je verhuizing terug, en je geeft een kopie van de nieuwe sleutel als het huurcontract de verhuurder toegang geeft. Bewaar de antwoordmail bij je huurdocumenten. Meer huurdervriendelijke beveiligingsideeën vind je in onze gids over de [beste deurspioncamera's voor appartementen](/nl/blog/beste-deurspion-camera-voor-appartementen/).
 
 ## Een slim opzetslot installeren (en weer verwijderen)
 
@@ -486,7 +486,7 @@ Een slim opzetslot installeren duurt 15 tot 30 minuten met een schroevendraaier:
 4. Plaats de behuizing van het slimme slot, doe de batterijen erin en kalibreer het slot in de app.
 5. Controleer het met de deur open, daarna dicht en ten slotte met je gewone sleutel van buitenaf.
 
-Het slimme slot verwijderen gaat precies andersom. Zet de originele draaiknop terug, controleer of het slot met de sleutel van de verhuurder op slot gaat en maak een foto van de deur voor je opleveringsdossier. Wil je daarna de rest van je woning automatiseren, dan neemt onze [smart home-gids voor huurders](/blog/smart-home-for-renters/) (in het Engels) je mee door elke kamer.
+Het slimme slot verwijderen gaat precies andersom. Zet de originele draaiknop terug, controleer of het slot met de sleutel van de verhuurder op slot gaat en maak een foto van de deur voor je opleveringsdossier. Wil je daarna de rest van je woning automatiseren, dan neemt onze [smart home-gids voor huurders](/nl/blog/smart-home-huurwoning/) je mee door elke kamer.
 
 ## Tips voor veiligheid en privacy bij een slim slot
 

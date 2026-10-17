@@ -324,6 +324,69 @@
       "lang": "nl",
       "translationOf": "philips-hue-vs-wiz",
       "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "de/smartes-thermostat-in-der-mietwohnung",
+      "lang": "de",
+      "translationOf": "smart-thermostat-in-apartment",
+      "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "es/termostato-inteligente-en-piso-de-alquiler",
+      "lang": "es",
+      "translationOf": "smart-thermostat-in-apartment",
+      "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "nl/slimme-thermostaat-huurwoning",
+      "lang": "nl",
+      "translationOf": "smart-thermostat-in-apartment",
+      "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "de/klimaanlage-smart-machen",
+      "lang": "de",
+      "translationOf": "smart-ac-controller",
+      "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "es/controlador-wifi-para-aire-acondicionado",
+      "lang": "es",
+      "translationOf": "smart-ac-controller",
+      "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "nl/airco-slim-maken",
+      "lang": "nl",
+      "translationOf": "smart-ac-controller",
+      "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "de/blink-oder-ring-abo",
+      "lang": "de",
+      "translationOf": "blink-vs-ring-subscription",
+      "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "es/blink-o-ring-suscripcion",
+      "lang": "es",
+      "translationOf": "blink-vs-ring-subscription",
+      "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "nl/blink-of-ring-abonnement",
+      "lang": "nl",
+      "translationOf": "blink-vs-ring-subscription",
+      "pubDate": "2026-10-17T19:00:00.000Z"
     }
   ]
 }

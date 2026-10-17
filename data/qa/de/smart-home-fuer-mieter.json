@@ -3,11 +3,9 @@
   "lang": "de",
   "translationOf": "smart-home-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-17T19:09:29.612Z",
+  "checkedAt": "2026-10-17T19:18:42.260Z",
   "errors": [],
-  "warnings": [
-    "internal link to the English post /blog/smart-ac-controller/; link the de version once it exists"
-  ],
+  "warnings": [],
   "factCheck": {
     "verified": true,
     "notes": "Compared line by line against English smart-home-for-renters: products/ASINs/specs, claims, units (none), steps, FAQ, table; no new facts, no prices/testing claims; removed unsupported sourcing/local-Amazon disclosure paragraph; links point to localized sister posts or labeled English",

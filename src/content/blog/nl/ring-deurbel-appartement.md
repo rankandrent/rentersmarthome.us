@@ -277,7 +277,7 @@ Dit is het korte bericht dat wij een verhuurder zouden sturen:
 3. Bevestig dat de camera op je eigen deur gericht is, niet op die van je buren.
 4. Vraag om een antwoord per e-mail, zodat je het op papier hebt.
 
-Sommige gebouwen verbieden alles aan de buitenkant van de voordeur. Is dat bij jou zo, dan is een binnencamera gericht op je entree het alternatief; onze [abonnementsvergelijking Blink vs Ring](/blog/blink-vs-ring-subscription/) (in het Engels) behandelt de beste binnenopties.
+Sommige gebouwen verbieden alles aan de buitenkant van de voordeur. Is dat bij jou zo, dan is een binnencamera gericht op je entree het alternatief; onze [abonnementsvergelijking Blink vs Ring](/nl/blog/blink-of-ring-abonnement/) behandelt de beste binnenopties.
 
 ## Drie manieren om een Ring deurbel te plaatsen zonder boren
 

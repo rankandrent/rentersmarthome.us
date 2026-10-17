@@ -277,7 +277,7 @@ So würde unsere kurze Nachricht an den Vermieter aussehen:
 3. Sichere zu, dass die Kamera auf deine eigene Tür zeigt und nicht auf die deiner Nachbarn.
 4. Bitte um eine Antwort per E-Mail, damit du etwas Schriftliches hast.
 
-Manche Häuser verbieten alles an der Außenseite der Wohnungstür. Ist das bei dir so, bleibt als Ausweichlösung eine Innenkamera mit Blick auf den Eingang. Die besten Innenkameras findest du in unserem [Abo-Vergleich Blink vs. Ring](/blog/blink-vs-ring-subscription/) (auf Englisch).
+Manche Häuser verbieten alles an der Außenseite der Wohnungstür. Ist das bei dir so, bleibt als Ausweichlösung eine Innenkamera mit Blick auf den Eingang. Die besten Innenkameras findest du in unserem [Abo-Vergleich Blink vs. Ring](/de/blog/blink-oder-ring-abo/).
 
 ## Drei Wege zur Ring-Türklingel ohne Bohren
 

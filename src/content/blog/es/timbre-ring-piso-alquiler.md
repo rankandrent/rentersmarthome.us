@@ -279,7 +279,7 @@ Este es el mensaje corto que nosotros enviaríamos al casero:
 3. Confirma que la cámara apuntará a tu propia puerta y no a la de tus vecinos.
 4. Pide que te responda por correo electrónico para tener constancia.
 
-Algunos edificios prohíben cualquier cosa en la cara exterior de la puerta. Si es tu caso, la alternativa es una cámara de interior orientada hacia la entrada; nuestra [comparativa de suscripciones Blink vs Ring](/blog/blink-vs-ring-subscription/) (en inglés) repasa las mejores opciones de interior.
+Algunos edificios prohíben cualquier cosa en la cara exterior de la puerta. Si es tu caso, la alternativa es una cámara de interior orientada hacia la entrada; nuestra [comparativa de suscripciones Blink vs Ring](/es/blog/blink-o-ring-suscripcion/) repasa las mejores opciones de interior.
 
 ## Tres formas de poner un timbre Ring sin taladrar
 

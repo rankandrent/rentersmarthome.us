@@ -475,7 +475,7 @@ La pega para los inquilinos es la instalación. Quitas la cerradura del casero y
 
 > "Me gustaría instalar una cerradura inteligente de adaptación en la cara interior de la puerta de entrada. Solo sustituye el pomo giratorio interior; la cerradura y el bombín exterior siguen siendo los mismos y su llave seguirá funcionando. Cuando me mude, volveré a montar la pieza original."
 
-Menciona que la llave maestra del casero sigue funcionando; para las administraciones de fincas, ese suele ser el argumento decisivo. Si en cambio quieres una cerradura de cerrojo inteligente completa como la Aqara U100, dilo claramente: la cerradura original se desmonta, tú la guardas y la vuelves a montar al mudarte, y entregas una copia de la llave nueva si el contrato le da al casero derecho de acceso. Guarda el correo de respuesta junto con los papeles del contrato. Si quieres más ideas de seguridad aptas para inquilinos, echa un vistazo a nuestra guía de las [mejores mirillas con cámara para pisos](/blog/best-peephole-camera-for-apartments/) (en inglés).
+Menciona que la llave maestra del casero sigue funcionando; para las administraciones de fincas, ese suele ser el argumento decisivo. Si en cambio quieres una cerradura de cerrojo inteligente completa como la Aqara U100, dilo claramente: la cerradura original se desmonta, tú la guardas y la vuelves a montar al mudarte, y entregas una copia de la llave nueva si el contrato le da al casero derecho de acceso. Guarda el correo de respuesta junto con los papeles del contrato. Si quieres más ideas de seguridad aptas para inquilinos, echa un vistazo a nuestra guía de las [mejores mirillas con cámara para pisos](/es/blog/mejor-mirilla-digital-para-pisos/).
 
 ## Cómo instalar (y desinstalar) una cerradura inteligente de adaptación
 
@@ -487,7 +487,7 @@ Instalar una cerradura inteligente de adaptación lleva entre 15 y 30 minutos co
 4. Coloca el cuerpo de la cerradura inteligente, pon las pilas y calibra la cerradura en la app.
 5. Compruébala con la puerta abierta, luego cerrada y, por último, con tu llave física desde fuera.
 
-Desinstalar la cerradura inteligente es el mismo proceso al revés. Vuelve a montar el pomo giratorio original, comprueba que la cerradura cierra con la llave del casero y haz una foto de la puerta para tus registros de la mudanza. Cuando quieras automatizar el resto del piso, nuestra [guía de hogar inteligente para inquilinos](/blog/smart-home-for-renters/) (en inglés) te lleva habitación por habitación.
+Desinstalar la cerradura inteligente es el mismo proceso al revés. Vuelve a montar el pomo giratorio original, comprueba que la cerradura cierra con la llave del casero y haz una foto de la puerta para tus registros de la mudanza. Cuando quieras automatizar el resto del piso, nuestra [guía de hogar inteligente para inquilinos](/es/blog/domotica-para-pisos-de-alquiler/) te lleva habitación por habitación.
 
 ## Consejos de seguridad y privacidad para tu cerradura inteligente
 

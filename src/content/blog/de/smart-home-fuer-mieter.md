@@ -421,7 +421,7 @@ An der Wohnungstür lohnt sich mieterfreundliche Smart-Home-Technik am meisten:
 
 ## Schritt 4: Steuere Heizen und Kühlen
 
-**Viele Mietwohnungen haben Fensterklimageräte, mobile Klimageräte oder Split-Klimaanlagen, die mit einer Infrarot-Fernbedienung bedient werden.** Eine [smarte Klimasteuerung](/blog/smart-ac-controller/) (auf Englisch) wie der [Sensibo Air](amzn:B07MTGD3D9) lernt diese Fernbedienung und ergänzt Zeitpläne, Geofencing und Sprachsteuerung, ohne dass das Klimagerät geöffnet wird.
+**Viele Mietwohnungen haben Fensterklimageräte, mobile Klimageräte oder Split-Klimaanlagen, die mit einer Infrarot-Fernbedienung bedient werden.** Eine [smarte Klimasteuerung](/de/blog/klimaanlage-smart-machen/) wie der [Sensibo Air](amzn:B07MTGD3D9) lernt diese Fernbedienung und ergänzt Zeitpläne, Geofencing und Sprachsteuerung, ohne dass das Klimagerät geöffnet wird.
 
 Einen Wandthermostat zu ersetzen ist etwas anderes: Dabei greifst du in die Verkabelung der Heizungs- und Klimaanlage ein. Frag deshalb zuerst deinen Vermieter, bewahre den Originalthermostat auf und fotografiere die Verkabelung, bevor du irgendetwas abklemmst.
 

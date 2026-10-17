@@ -1,0 +1,14 @@
+{
+  "slug": "de/blink-oder-ring-abo",
+  "lang": "de",
+  "translationOf": "blink-vs-ring-subscription",
+  "pass": true,
+  "checkedAt": "2026-10-17T19:17:42.407Z",
+  "errors": [],
+  "warnings": [],
+  "factCheck": {
+    "verified": true,
+    "notes": "2026-10-17: Compared line by line with English blink-vs-ring-subscription (factcheck verified 2026-10-14). Same claims only: Ring needs Ring Home to save/review/share, live view + alerts free; Blink local storage via Sync Module 2 + USB drive; Ring Indoor Cam (2nd Gen) manual privacy cover, Ring Alarm + Alexa; both Amazon-owned, Alexa. Same 3 products/ASINs, sources, owners. Notes block reuses the English 'if I were furnishing my own rental' sentence. No prices, no local-store wording, no new facts.",
+    "at": "2026-10-17T19:17:41.847Z"
+  }
+}
