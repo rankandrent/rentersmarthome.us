@@ -597,6 +597,48 @@
       "lang": "nl",
       "translationOf": "best-stud-finder-for-thick-walls",
       "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "de/smarte-gluehbirnen-fuer-mieter",
+      "lang": "de",
+      "translationOf": "best-smart-light-bulbs-for-renters",
+      "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "es/mejores-bombillas-inteligentes-para-inquilinos",
+      "lang": "es",
+      "translationOf": "best-smart-light-bulbs-for-renters",
+      "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "nl/beste-slimme-lampen-voor-huurders",
+      "lang": "nl",
+      "translationOf": "best-smart-light-bulbs-for-renters",
+      "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "de/smarter-rauchmelder-fuer-die-mietwohnung",
+      "lang": "de",
+      "translationOf": "best-smart-smoke-detector-for-apartments",
+      "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "es/detector-de-humo-inteligente-para-pisos",
+      "lang": "es",
+      "translationOf": "best-smart-smoke-detector-for-apartments",
+      "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "nl/slimme-rookmelder-huurwoning",
+      "lang": "nl",
+      "translationOf": "best-smart-smoke-detector-for-apartments",
+      "pubDate": "2026-10-17T19:00:00.000Z"
     }
   ]
 }

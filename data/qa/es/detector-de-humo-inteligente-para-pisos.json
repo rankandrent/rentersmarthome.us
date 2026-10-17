@@ -1,0 +1,16 @@
+{
+  "slug": "es/detector-de-humo-inteligente-para-pisos",
+  "lang": "es",
+  "translationOf": "best-smart-smoke-detector-for-apartments",
+  "pass": true,
+  "checkedAt": "2026-10-17T19:36:27.937Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-wireless-security-cameras-for-apartments/; link the es version once it exists"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared every claim with the English post best-smart-smoke-detector-for-apartments (QA pass, factcheck verified): same 3 products, order, ASINs, scores, sources and owner sources; facts match the English text and its factcheck. Units converted (6 in = 15 cm, 3 in = 7,5 cm). US-specific items marked as such: UL 217/UL 2034/UL listing, CPSC/NFPA/NFPA 72, Amazon US selection rule; sealed 10-year-battery rule framed as some places such as some US states (English factcheck: NY, MD). Added per owner instruction one line to pick an alarm certified for the reader's country (EN 14604 in the EU). No prices, testing claims, local Amazon store or availability claims.",
+    "at": "2026-10-17T19:36:27.191Z"
+  }
+}
