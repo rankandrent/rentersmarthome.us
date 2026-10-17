@@ -56,7 +56,7 @@ products:
   - name: August Wi-Fi Smart Lock (4th Gen)
     brand: August
     query: August Wi-Fi Smart Lock 4th Gen
-    badge: Beste keuze overall
+    badge: Beste algemene keuze
     summary: >-
       Een compact slim opzetslot met ingebouwde wifi, zodat je toegang op
       afstand en automatisch vergrendelen krijgt zonder extra hub. Past het best
@@ -411,8 +411,6 @@ heroAlt: >-
 Het beste slimme slot voor je huurwoning is een **slim opzetslot** (in het Engels *retrofit smart lock*): een slim slot dat alleen de draaiknop aan de binnenkant van je bestaande slot vervangt, zodat het sleutelgat aan de buitenkant, de schoot en de sleutel van je verhuurder allemaal blijven werken. Met een slim opzetslot krijg je sleutelloze toegang, automatisch vergrendelen en gastcodes zonder de cilinder te laten vervangen, zonder te boren en zonder je borg op het spel te zetten. En als je verhuist, neem je het gewoon mee naar je volgende woning.
 
 Hieronder bespreken we vier slimme sloten voor huurders, hoe je controleert of ze op je slot passen, wat je aan je verhuurder vraagt en hoe je op de dag van je verhuizing alles terugzet. De eerste drie laten het originele slot zitten, en dat is de veiligste regel voor een slim slot in een huurwoning. Het vierde, het Aqara Smart Lock U100, vervangt het slot volledig. Dat is dus alleen zinvol met schriftelijke toestemming van je verhuurder en als je de originele onderdelen bewaart voor je verhuizing.
-
-We hebben deze sloten niet zelf getest: onze keuzes zijn gebaseerd op onderzoek, namelijk specificaties van de fabrikant, handleidingen, reviews en ervaringen van eigenaren. De Amazon-links brengen je via Amazon naar je lokale Amazon-winkel; de beschikbaarheid kan per land verschillen.
 
 > **Uit onze notities:** De tip die ons tijdens ons onderzoek het meest is bijgebleven, is ook de simpelste: stop de originele draaiknop en de schroeven in een zakje, zet er een label op en plak het met tape aan de binnenkant van een keukenkastje. Dan ligt alles klaar op de dag van je verhuizing en is het terugzetten zo gebeurd.
 

@@ -1,6 +1,6 @@
 ---
 title: De beste Matter slimme stekkers voor huurwoningen in 2026
-seoTitle: 'Matter slimme stekker (2026): de beste wifi- en Thread-modellen'
+seoTitle: 'Matter slimme stekker (2026): beste wifi- en Thread-modellen'
 description: >-
   Een Matter slimme stekker werkt tegelijk met Alexa, Google Home en Apple Home.
   We vergelijken wifi- en Thread-modellen met energiemeting voor huurders.

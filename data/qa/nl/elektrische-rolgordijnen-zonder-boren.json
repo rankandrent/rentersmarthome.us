@@ -3,9 +3,8 @@
   "lang": "nl",
   "translationOf": "no-drill-motorized-blinds",
   "pass": false,
-  "checkedAt": "2026-10-17T19:08:44.123Z",
+  "checkedAt": "2026-10-17T19:08:54.018Z",
   "errors": [
-    "only 9 first-person words; use at least 10",
     "facts not verified yet: compare every claim with the English post and its sources, then run `node scripts/routine.mjs factcheck nl/elektrische-rolgordijnen-zonder-boren \"<notes>\"`"
   ],
   "warnings": [

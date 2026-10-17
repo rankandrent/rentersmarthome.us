@@ -236,7 +236,7 @@ products:
       read: 3
       praise:
         - >-
-          Cerradura de adaptación pensada para inquilinos; un analista la
+          Cerradura de adaptación pensada para inquilinos; un autor de reseñas la
           instaló en menos de 10 minutos
         - Funciona bien una vez configurada
       complaints:
@@ -413,8 +413,6 @@ La mejor cerradura inteligente para un piso de alquiler es una **cerradura intel
 
 A continuación repasamos cuatro cerraduras inteligentes para inquilinos, cómo comprobar si son compatibles con tu cerradura, qué preguntarle a tu casero y cómo dejarlo todo como estaba el día de la mudanza. Las tres primeras mantienen la cerradura original en su sitio, que es la regla más segura para una cerradura inteligente en una vivienda de alquiler. La cuarta, la Aqara Smart Lock U100, sustituye la cerradura por completo, así que solo tiene sentido con el permiso del casero por escrito y guardando las piezas originales para la mudanza.
 
-No hemos probado estas cerraduras nosotros mismos: nuestra selección se basa en investigación, es decir, en especificaciones de los fabricantes, manuales, análisis y opiniones de propietarios. Los enlaces de Amazon te llevan, a través de Amazon, a tu tienda local de Amazon; la disponibilidad puede variar según el país.
-
 > **De nuestras notas:** El consejo que más nos ha llamado la atención durante nuestra investigación es también el más sencillo: mete el pomo giratorio original y sus tornillos en una bolsa, etiquétala y pégala con cinta dentro de un armario de la cocina. Así, el día de la mudanza lo tienes todo a mano y volver a dejar la puerta como estaba es cuestión de minutos.
 
 ## ¿Qué hace que una cerradura inteligente sea apta para un piso de alquiler?
@@ -459,7 +457,7 @@ Como el resto de cerraduras de adaptación, la Yale Approach se monta sobre la c
 
 La [Aqara Smart Lock U100](amzn:Aqara+Smart+Lock+U100+Apple+Home+Key+Fingerprint+Deadbolt) es la única opción de esta lista que no es de adaptación: es una cerradura de cerrojo completa con lector de huella dactilar y teclado por fuera y una unidad motorizada por dentro. Eso te da más formas de entrar que cualquier otra cerradura de esta guía: huellas dactilares, códigos de teclado, Apple Home Key desde un iPhone o un Apple Watch y dos llaves mecánicas, además de un puerto USB-C para alimentación de emergencia si se agotan las cuatro pilas AA.
 
-La pega para los inquilinos es la instalación. Quitas la cerradura del casero y pones la de Aqara en su lugar, así que consigue antes el permiso por escrito, guarda la cerradura original con sus llaves y vuelve a montarla antes de devolver el piso. Encaja en puertas ya taladradas con una distancia de entrada de 60 mm (2-3/8 in) o 70 mm (2-3/4 in), aunque un analista tuvo que ensanchar el hueco del cerradero. Apple Home funciona directamente; Alexa, Google Home, Matter y el acceso remoto pasan por un hub de Aqara mediante Zigbee, no Thread. Los propietarios del foro de Home Assistant hablan de bloqueos ocasionales y de una duración de las pilas inferior a los 8 meses anunciados.
+La pega para los inquilinos es la instalación. Quitas la cerradura del casero y pones la de Aqara en su lugar, así que consigue antes el permiso por escrito, guarda la cerradura original con sus llaves y vuelve a montarla antes de devolver el piso. Encaja en puertas ya taladradas con una distancia de entrada de 60 mm (2-3/8 in) o 70 mm (2-3/4 in), aunque un autor de reseñas tuvo que ensanchar el hueco del cerradero. Apple Home funciona directamente; Alexa, Google Home, Matter y el acceso remoto pasan por un hub de Aqara mediante Zigbee, no Thread. Los propietarios del foro de Home Assistant hablan de bloqueos ocasionales y de una duración de las pilas inferior a los 8 meses anunciados.
 
 ## Cómo saber si una cerradura inteligente es compatible con tu cerradura
 
