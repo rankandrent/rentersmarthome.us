@@ -231,23 +231,23 @@ products:
           reviews: 292
         - title: 'Reddit stud finder summary, GummySearch'
           url: 'https://gummysearch.com/tools/best-products/stud-finder/'
-  - name: The StudBuddy Plus
+  - name: The StudBuddy Pro Magnetic Stud Finder with Level
     brand: StudBuddy
-    query: StudBuddy Plus Magnetic Stud Finder Level Ruler
+    query: StudBuddy Pro Magnetic Stud Finder with Level
     badge: Best with level and ruler
     summary: >-
-      The StudBuddy Plus adds a plumb and horizontal level, inch and centimeter
-      rulers, felt pads and a soft-grip handle to the rare earth magnet design.
+      The StudBuddy Pro adds a plumb and horizontal level, inch and centimeter
+      rulers and felt pads to the rare earth magnet design.
     renterNote: >-
       Felt pads help protect painted walls while you slide it around looking for
       screws.
     pros:
       - Built-in plumb and horizontal levels
       - Inch and centimeter rulers
-      - Felt pads and soft-grip handle
+      - Felt pads on the back
     cons:
       - Not intended for lath and plaster walls
-      - Larger than the original StudBuddy
+      - Finds fasteners, not stud edges
     scores:
       install: 10
       reversibility: 10
@@ -256,28 +256,12 @@ products:
     scoreNote: >-
       Battery-free with a level and ruler built in; costs a little more than the
       basic model.
-    asin: B00E4690X4
-    image:
-      url: 'https://m.media-amazon.com/images/I/31+7Ezs6UUL._SL500_.jpg'
-      width: 177
-      height: 500
+    asin: B07TK4QCYB
+    asinVerified: true
+    matchName: StudBuddy Pro Magnetic Stud Finder with Level
     amazonTitle: >-
-      The Original StudBuddy® Magnetic Stud Finder - Made in the USA - Easy to
-      Use Stud Finder - No Batteries Required - Powerful Magnet Stud Finder -
-      Stud Finder for Drywall and Wood
-    gallery:
-      - url: 'https://m.media-amazon.com/images/I/41Ub61o-LkL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/41lnUPltBrL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/41NItJuiK-L._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/411NG6xXXdL._SL500_.jpg'
-        width: 500
-        height: 500
+      The Original StudBuddy Pro® Magnetic Stud Finder with Level - Made in the
+      USA - Easy to Use Stud Finder for Drywall and ...
     owners:
       read: 3
       praise:
@@ -421,7 +405,7 @@ The table below compares the five picks on the features that matter most when yo
 | C.H. Hanson 03040 | Best overall | Rotating level | Yes | Detects steel studs |
 | Kreg KMM1000 | Hands-free marking | Hi-viz bubble | Yes | Centered notches |
 | StudBuddy | Budget | No | Yes | No moving parts |
-| StudBuddy Plus | Level and ruler | Plumb and horizontal | Yes | Inch/cm rulers |
+| StudBuddy Pro | Level and ruler | Plumb and horizontal | Yes | Inch/cm rulers |
 | Kreg KMM1000LZ | Laser layout | Hi-viz bubble | Yes | Laser-Mark line |
 
 ## The best magnetic stud finders, reviewed
@@ -446,11 +430,11 @@ The StudBuddy Magnetic Stud Finder is the plainest tool here: neodymium magnets 
 
 You may need a few marks around the fastener to find the stud center, and StudBuddy says it is not intended for lath and plaster walls. For a modern apartment with drywall, though, the [StudBuddy](amzn:StudBuddy+Magnetic+Stud+Finder) is the best budget stud finder we found.
 
-### The StudBuddy Plus: Best with level and ruler
+### The StudBuddy Pro: Best with level and ruler
 
-The StudBuddy Plus keeps the rare earth magnet design and adds built-in plumb and horizontal levels, inch and centimeter rulers, felt pads and a soft-grip handle. It hangs on the wall hands free when it finds a stud, which helps when hanging shelves, cabinets, mirrors or a TV mount.
+The StudBuddy Pro keeps the rare earth magnet design and adds built-in plumb and horizontal levels, inch and centimeter rulers and felt pads. It hangs on the wall hands free when it finds a stud, which helps when hanging shelves, cabinets, mirrors or a TV mount.
 
-The felt pads are a small renter-friendly touch, since you'll slide it around painted walls. Like the original, it isn't meant for lath and plaster. Pick the [StudBuddy Plus](amzn:StudBuddy+Plus+Magnetic+Stud+Finder+Level+Ruler) if you want to measure spacing without a separate tape.
+The felt pads are a small renter-friendly touch, since you'll slide it around painted walls. Like the original, it isn't meant for lath and plaster. Pick the [StudBuddy Pro](amzn:StudBuddy+Pro+Magnetic+Stud+Finder+with+Level) if you want to measure spacing without a separate tape.
 
 ### Kreg Magnetic Stud Finder with Laser-Mark KMM1000LZ: Best with laser
 
@@ -485,7 +469,7 @@ Use this checklist before you buy:
 
 1. **Wall type:** standard drywall suits every pick; for lath and plaster, check the maker's guidance first.
 2. **Hands-free hold:** all five stick to the wall, which matters if you hang things alone.
-3. **Level:** the C.H. Hanson, Kreg and StudBuddy Plus have one built in.
+3. **Level:** the C.H. Hanson, Kreg and StudBuddy Pro have one built in.
 4. **Marking aid:** Kreg's notches or laser help you mark one precise spot.
 5. **Size:** the original StudBuddy is the smallest to store.
 
@@ -509,4 +493,4 @@ On move-out day, fill each screw hole with spackle, let it dry, sand lightly and
 
 ## Our verdict
 
-**Our pick for the best magnetic stud finder is the C.H. Hanson Magnetic Stud Finder 03040, with the StudBuddy as the best budget stud finder.** If you hang things alone, we'd choose the Kreg KMM1000 for its hands-free hold and centered notches; if you want a ruler and level in one tool, the StudBuddy Plus; and for long rows of holes, the Kreg KMM1000LZ with its laser. Any of them will help you drill fewer holes and get your deposit back.
+**Our pick for the best magnetic stud finder is the C.H. Hanson Magnetic Stud Finder 03040, with the StudBuddy as the best budget stud finder.** If you hang things alone, we'd choose the Kreg KMM1000 for its hands-free hold and centered notches; if you want a ruler and level in one tool, the StudBuddy Pro; and for long rows of holes, the Kreg KMM1000LZ with its laser. Any of them will help you drill fewer holes and get your deposit back.
