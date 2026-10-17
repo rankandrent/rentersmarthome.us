@@ -639,6 +639,27 @@
       "lang": "nl",
       "translationOf": "best-smart-smoke-detector-for-apartments",
       "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "de/beste-wassermelder-fuer-mieter",
+      "lang": "de",
+      "translationOf": "best-water-leak-sensor-for-renters",
+      "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "es/mejores-detectores-de-fugas-de-agua",
+      "lang": "es",
+      "translationOf": "best-water-leak-sensor-for-renters",
+      "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "nl/beste-lekkagemelders-voor-huurders",
+      "lang": "nl",
+      "translationOf": "best-water-leak-sensor-for-renters",
+      "pubDate": "2026-10-17T19:00:00.000Z"
     }
   ]
 }
