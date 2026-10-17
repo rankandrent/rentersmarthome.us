@@ -481,7 +481,7 @@ Die Frage nach der Abogebühr sieht so aus:
 
 ### Aufstellen ohne Bohren
 
-Ein Regal, eine Kommode oder ein Bücherregal ist die einfachste Lösung ganz ohne Bohren. Wenn du die Kamera höher haben willst, kann eine mieterfreundliche Klebehalterung funktionieren, aber prüfe vorher das Gewicht der Kamera und die Belastbarkeit des Klebers. Unser [Ratgeber zu kabellosen Überwachungskameras für Wohnungen](/blog/best-wireless-security-cameras-for-apartments/) (auf Englisch) geht genauer auf die Platzierung ein.
+Ein Regal, eine Kommode oder ein Bücherregal ist die einfachste Lösung ganz ohne Bohren. Wenn du die Kamera höher haben willst, kann eine mieterfreundliche Klebehalterung funktionieren, aber prüfe vorher das Gewicht der Kamera und die Belastbarkeit des Klebers. Unser [Ratgeber zu kabellosen Überwachungskameras für Wohnungen](/de/blog/beste-ueberwachungskamera-fuer-die-wohnung/) geht genauer auf die Platzierung ein.
 
 ### Was du den Vermieter fragen solltest und welche Klauseln im Mietvertrag zählen
 

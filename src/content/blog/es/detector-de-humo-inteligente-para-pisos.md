@@ -420,4 +420,4 @@ Después de instalarlo, lanza la autocomprobación desde la app o el botón y ap
 
 ## Nuestro veredicto
 
-**El mejor detector de humo inteligente para pisos depende de tu casero y de tu app.** Elige el Kidde si vives con Ring, el First Alert SC5 si vives con Google Home y el Ring Listener si no se permite ningún cambio. Si empezara hoy, yo preguntaría primero a mi casero y combinaría el detector con nuestras [cámaras de seguridad inalámbricas para pisos](/blog/best-wireless-security-cameras-for-apartments/) (en inglés).
+**El mejor detector de humo inteligente para pisos depende de tu casero y de tu app.** Elige el Kidde si vives con Ring, el First Alert SC5 si vives con Google Home y el Ring Listener si no se permite ningún cambio. Si empezara hoy, yo preguntaría primero a mi casero y combinaría el detector con nuestras [cámaras de seguridad inalámbricas para pisos](/es/blog/mejores-camaras-de-seguridad-wifi-para-pisos/).

@@ -513,7 +513,7 @@ Ein Wassermelder kann deine Versicherung günstiger machen oder auch nicht; manc
 3. Wenn du ablösbare Klebestreifen für das Kabel des Hubs benutzt hast, zieh sie langsam und gerade nach unten ab; unser Ratgeber zu [starken Klebehaken für Mieter](/de/blog/starke-klebehaken-fuer-mieter/) erklärt das spurlose Entfernen.
 4. Fotografiere die Unterschränke der Spülen und die Böden, um zu zeigen, dass sie trocken und sauber sind.
 
-Wenn du oft unterwegs bist, kombiniere einen Sensor mit einer Kamera, damit du siehst, was ein Alarm bedeutet; unser Ratgeber zu [kabellosen Überwachungskameras für Wohnungen](/blog/best-wireless-security-cameras-for-apartments/) (auf Englisch) listet mieterfreundliche Modelle. Und gib einem Nachbarn oder Freund einen Ersatzschlüssel, damit jemand ein Leck stoppen kann, wenn du es nicht kannst.
+Wenn du oft unterwegs bist, kombiniere einen Sensor mit einer Kamera, damit du siehst, was ein Alarm bedeutet; unser Ratgeber zu [kabellosen Überwachungskameras für Wohnungen](/de/blog/beste-ueberwachungskamera-fuer-die-wohnung/) listet mieterfreundliche Modelle. Und gib einem Nachbarn oder Freund einen Ersatzschlüssel, damit jemand ein Leck stoppen kann, wenn du es nicht kannst.
 
 ## Unser Fazit
 

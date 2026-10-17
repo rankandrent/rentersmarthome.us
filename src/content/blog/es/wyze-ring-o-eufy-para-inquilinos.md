@@ -479,7 +479,7 @@ La cuestión de la cuota queda así:
 
 ### Opciones de colocación sin taladrar
 
-Una estantería, una cómoda o una librería es la forma más sencilla de colocarla sin taladrar. Si la quieres más alta, puede servir un soporte adhesivo apto para pisos de alquiler, pero comprueba antes el peso de la cámara y la carga que admite el adhesivo. Nuestra [guía de cámaras de seguridad inalámbricas para pisos](/blog/best-wireless-security-cameras-for-apartments/) (en inglés) explica la colocación con más detalle.
+Una estantería, una cómoda o una librería es la forma más sencilla de colocarla sin taladrar. Si la quieres más alta, puede servir un soporte adhesivo apto para pisos de alquiler, pero comprueba antes el peso de la cámara y la carga que admite el adhesivo. Nuestra [guía de cámaras de seguridad inalámbricas para pisos](/es/blog/mejores-camaras-de-seguridad-wifi-para-pisos/) explica la colocación con más detalle.
 
 ### Qué preguntar al casero y qué cláusulas del contrato revisar
 

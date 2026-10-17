@@ -506,7 +506,7 @@ Un sensor de fugas puede abaratar tu seguro o no; algunos inquilinos preguntan a
 3. Si usaste tiras adhesivas despegables para guiar el cable del hub, despégalas despacio y tirando recto hacia abajo; nuestra guía de [ganchos adhesivos resistentes](/es/blog/ganchos-adhesivos-resistentes/) explica cómo quitarlas sin daños.
 4. Haz fotos de los muebles bajo los fregaderos y de los suelos para demostrar que están secos y limpios.
 
-Si viajas a menudo, combina un sensor con una cámara para ver qué significa un aviso; nuestra guía de [cámaras de seguridad inalámbricas para pisos](/blog/best-wireless-security-cameras-for-apartments/) (en inglés) recoge opciones seguras para inquilinos. Y deja una llave de repuesto a un vecino o a un amigo para que alguien pueda parar una fuga cuando tú no puedas.
+Si viajas a menudo, combina un sensor con una cámara para ver qué significa un aviso; nuestra guía de [cámaras de seguridad inalámbricas para pisos](/es/blog/mejores-camaras-de-seguridad-wifi-para-pisos/) recoge opciones seguras para inquilinos. Y deja una llave de repuesto a un vecino o a un amigo para que alguien pueda parar una fuga cuando tú no puedas.
 
 ## Nuestro veredicto
 

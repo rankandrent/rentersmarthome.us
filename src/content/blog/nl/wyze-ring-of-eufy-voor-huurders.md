@@ -475,7 +475,7 @@ De vraag naar de abonnementskosten ziet er zo uit:
 
 ### Plaatsingsopties zonder boren
 
-Een plank, ladekast of boekenkast is de eenvoudigste plek zonder boren. Wil je de camera hoger, dan kan een huurdervriendelijke plakbevestiging werken, maar controleer eerst het gewicht van de camera en het draagvermogen van het plakmiddel. Onze [gids over draadloze beveiligingscamera’s voor appartementen](/blog/best-wireless-security-cameras-for-apartments/) (in het Engels) gaat dieper in op de plaatsing.
+Een plank, ladekast of boekenkast is de eenvoudigste plek zonder boren. Wil je de camera hoger, dan kan een huurdervriendelijke plakbevestiging werken, maar controleer eerst het gewicht van de camera en het draagvermogen van het plakmiddel. Onze [gids over draadloze beveiligingscamera’s voor appartementen](/nl/blog/beste-draadloze-beveiligingscamera-voor-appartementen/) gaat dieper in op de plaatsing.
 
 ### Wat je de verhuurder vraagt en welke clausules je in je huurcontract checkt
 

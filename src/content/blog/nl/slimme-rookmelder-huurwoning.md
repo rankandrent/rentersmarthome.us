@@ -420,4 +420,4 @@ Start na de installatie de zelftest via de app of de knop, en noteer de producti
 
 ## Ons oordeel
 
-**Welke slimme rookmelder het beste is voor je huurwoning, hangt af van je verhuurder en je app.** Kies de Kidde als je met Ring werkt, de First Alert SC5 als je met Google Home werkt, en de Ring Listener als er geen wissel mag. Als ik vandaag zou beginnen, zou ik eerst mijn verhuurder vragen en de melder combineren met onze [draadloze beveiligingscamera's voor appartementen](/blog/best-wireless-security-cameras-for-apartments/) (in het Engels).
+**Welke slimme rookmelder het beste is voor je huurwoning, hangt af van je verhuurder en je app.** Kies de Kidde als je met Ring werkt, de First Alert SC5 als je met Google Home werkt, en de Ring Listener als er geen wissel mag. Als ik vandaag zou beginnen, zou ik eerst mijn verhuurder vragen en de melder combineren met onze [draadloze beveiligingscamera's voor appartementen](/nl/blog/beste-draadloze-beveiligingscamera-voor-appartementen/).

@@ -509,7 +509,7 @@ Een lekkagemelder kan je verzekering goedkoper maken, of niet; sommige huurders 
 3. Heb je verwijderbare plakstrips gebruikt om het snoer van de hub te leiden, trek ze dan langzaam en recht naar beneden los; onze gids over [sterke plakhaken voor huurders](/nl/blog/sterke-plakhaken-voor-huurders/) legt uit hoe je ze zonder schade verwijdert.
 4. Fotografeer de kastjes onder de gootsteen en de vloeren om te laten zien dat ze droog en schoon zijn.
 
-Ben je vaak op reis, combineer een sensor dan met een camera zodat je ziet wat een melding betekent; onze gids over [draadloze beveiligingscamera's voor appartementen](/blog/best-wireless-security-cameras-for-apartments/) (in het Engels) zet huurdervriendelijke opties op een rij. En geef een buur of vriend een reservesleutel, zodat iemand een lek kan stoppen als jij dat niet kunt.
+Ben je vaak op reis, combineer een sensor dan met een camera zodat je ziet wat een melding betekent; onze gids over [draadloze beveiligingscamera's voor appartementen](/nl/blog/beste-draadloze-beveiligingscamera-voor-appartementen/) zet huurdervriendelijke opties op een rij. En geef een buur of vriend een reservesleutel, zodat iemand een lek kan stoppen als jij dat niet kunt.
 
 ## Ons oordeel
 

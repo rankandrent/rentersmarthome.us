@@ -419,4 +419,4 @@ Starte nach der Einrichtung den Selbsttest über die App oder die Taste und noti
 
 ## Unser Fazit
 
-**Welcher smarte Rauchmelder für die Mietwohnung am besten ist, hängt von deinem Vermieter und deiner App ab.** Nimm den Kidde, wenn du mit Ring lebst, den First Alert SC5, wenn du Google Home nutzt, und den Ring Listener, wenn kein Austausch erlaubt ist. Würde ich heute anfangen, würde ich zuerst meinen Vermieter fragen und den Melder mit unserem Ratgeber zu [kabellosen Überwachungskameras für Wohnungen](/blog/best-wireless-security-cameras-for-apartments/) (auf Englisch) kombinieren.
+**Welcher smarte Rauchmelder für die Mietwohnung am besten ist, hängt von deinem Vermieter und deiner App ab.** Nimm den Kidde, wenn du mit Ring lebst, den First Alert SC5, wenn du Google Home nutzt, und den Ring Listener, wenn kein Austausch erlaubt ist. Würde ich heute anfangen, würde ich zuerst meinen Vermieter fragen und den Melder mit unserem Ratgeber zu [kabellosen Überwachungskameras für Wohnungen](/de/blog/beste-ueberwachungskamera-fuer-die-wohnung/) kombinieren.
