@@ -387,6 +387,27 @@
       "lang": "nl",
       "translationOf": "blink-vs-ring-subscription",
       "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "de/beste-smart-speaker-fuer-kleine-wohnungen",
+      "lang": "de",
+      "translationOf": "best-voice-assistant-speaker-for-small-apartments",
+      "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "es/mejor-altavoz-inteligente-para-pisos-pequenos",
+      "lang": "es",
+      "translationOf": "best-voice-assistant-speaker-for-small-apartments",
+      "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "nl/beste-slimme-speaker-voor-kleine-appartementen",
+      "lang": "nl",
+      "translationOf": "best-voice-assistant-speaker-for-small-apartments",
+      "pubDate": "2026-10-17T19:00:00.000Z"
     }
   ]
 }
