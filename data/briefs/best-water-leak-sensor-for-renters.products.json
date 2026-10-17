@@ -1,68 +1,6 @@
 {
  "products": [
   {
-   "name": "Govee WiFi Water Sensor 3 Pack (H5040)",
-   "brand": "Govee",
-   "query": "Govee WiFi Water Sensor 3 Pack H5040 water leak detector",
-   "matchName": "Govee WiFi Water Sensor",
-   "badge": "Best overall",
-   "summary": "A plug-in gateway plus three small battery sensors that sound a 100 dB alarm and push phone alerts. It suits a renter who wants cheap coverage for the sink, washer and water heater without a subscription.",
-   "renterNote": "Sensors sit loose on the floor and the gateway plugs into an outlet, so nothing is stuck or drilled. Caveat: the gateway joins 2.4 GHz Wi-Fi only, not 5 GHz, so check your router.",
-   "pros": [
-    "Gateway handles up to 10 sensors, and listings describe a 100 dB alarm you can silence from the app",
-    "Sealed sensors are rated for splashes and submersion (listings say IP66 or IP67)",
-    "Three sensors cover the usual trouble spots in one box"
-   ],
-   "cons": [
-    "2.4 GHz Wi-Fi only; pairing can be fiddly on dual-band routers",
-    "Gateway uses an outlet, and owners report a low-battery chirp that is hard to silence"
-   ],
-   "specs": {
-    "Alarm": "100 dB (listing figure)",
-    "Connectivity": "2.4 GHz Wi-Fi gateway, 433 MHz link to sensors",
-    "Sensors in box": "3 (gateway supports up to 10)",
-    "Power": "Gateway plugs in; sensors use batteries",
-    "Water rating": "IP66/IP67 per retailer listings"
-   },
-   "scores": {
-    "install": 9,
-    "reversibility": 10,
-    "value": 9,
-    "compatibility": 6,
-    "portability": 9
-   },
-   "scoreNote": "Loose sensors and a plug-in gateway leave no marks and pack up on move-out; value is strong but it is 2.4 GHz only with limited smart home reach.",
-   "owners": {
-    "read": 2,
-    "praise": [
-     "Easy setup and quick text/email alerts when tested",
-     "Good value for a multi-sensor pack"
-    ],
-    "complaints": [
-     "2.4 GHz-only Wi-Fi and fiddly pairing",
-     "No local Home Assistant integration, and a persistent low-battery chirp reported"
-    ],
-    "sources": [
-     {
-      "title": "Home Assistant community: Govee WiFi Water Sensor",
-      "url": "https://community.home-assistant.io/t/govee-wifi-water-sensor/213277"
-     },
-     {
-      "title": "Baby Bargains: best water leak detector",
-      "url": "https://www.babybargains.com/best-water-leak-detector/"
-     }
-    ]
-   },
-   "sources": [
-    "https://thisoldhouse.com/shop/89967/best-water-leak-detector",
-    "https://www.babybargains.com/best-water-leak-detector/",
-    "https://smarthome.reviewed.com/best-right-now/best-smart-water-leak-detectors",
-    "https://www.bobvila.com/articles/best-water-leak-detector/",
-    "https://us.govee.com/es/collections/smart-sensor/products/wireless-water-leak-detector",
-    "https://community.home-assistant.io/t/govee-wifi-water-sensor/213277"
-   ]
-  },
-  {
    "name": "YoLink Water Leak Sensor 1 Kit (4 sensors + hub)",
    "brand": "YoLink",
    "query": "YoLink Water Leak Sensor 1 Kit 4-Pack Hub YS7903 LoRa",
@@ -138,62 +76,10 @@
       "url": "https://www.techhive.com/article/578879/yosmart-yolink-hub-review.html"
      }
     ]
-   }
-  },
-  {
-   "name": "SwitchBot Water Leak Detector",
-   "brand": "SwitchBot",
-   "query": "SwitchBot Water Leak Detector WiFi Bluetooth",
-   "matchName": "SwitchBot Water Leak Detector",
-   "badge": "Best budget, no hub",
-   "summary": "A single small Wi-Fi sensor with a loud alarm and app alerts that needs no hub. It suits a renter who wants one cheap sensor under the sink or beside the washer.",
-   "renterNote": "It sits loose on the floor on 2 AAA batteries, so there is nothing to remove. Caveat: it is one sensor per unit, and one tester reported missed push alerts on cellular.",
-   "pros": [
-    "Connects straight to Wi-Fi with no hub, per SwitchBot's pages",
-    "IP67 housing and alarm around 80-100 dB depending on source",
-    "Works with Alexa, Google Assistant and IFTTT, and fits SwitchBot automations"
-   ],
-   "cons": [
-    "One tester found push alerts did not arrive away from home on cellular",
-    "Sources disagree on whether a Hub Mini is needed for voice and automations"
-   ],
-   "specs": {
-    "Power": "2 AAA, up to 2 years claimed",
-    "Water rating": "IP67",
-    "Size": "78 x 29 x 32 mm",
-    "Connectivity": "Wi-Fi (Bluetooth for setup)"
    },
-   "scores": {
-    "install": 9,
-    "reversibility": 10,
-    "value": 8,
-    "compatibility": 7,
-    "portability": 10
-   },
-   "scoreNote": "Hub-free and loose-placement; compact enough to move, but single-sensor units add up and alert reliability reports are mixed.",
-   "owners": {
-    "read": 1,
-    "praise": [
-     "No hub and simple placement",
-     "Budget price versus kits"
-    ],
-    "complaints": [
-     "Push notifications missed on cellular in one test",
-     "Alarm measured quieter than the 100 dB claim in one test (80 dB)"
-    ],
-    "sources": [
-     {
-      "title": "Bob Vila: We Tested the Best Water Leak Detectors",
-      "url": "https://www.bobvila.com/articles/flood-alarms"
-     }
-    ]
-   },
-   "sources": [
-    "https://www.bobvila.com/articles/flood-alarms",
-    "https://www.switch-bot.com/products/switchbot-water-leak-detector",
-    "https://smarthomeunlocked.com/articles/best-smart-water-leak-detectors-2026",
-    "https://www.mayfairfarms.com/?p=35120"
-   ]
+   "asin": "B084WYB8PM",
+   "amazonTitle": "YoLink Water Leak Sensor 1 Kit: 4-Pack + Hub | Leak Alerts via Mobile App, Email and SMS",
+   "asinVerified": true
   },
   {
    "name": "Eve Water Guard",
@@ -254,7 +140,10 @@
     "https://www.techhive.com/article/616306/eve-water-guard-boasts-thread-connectivity.html",
     "https://iphonelife.com/content/eve-water-guard-review-0",
     "https://smarthomecompared.com/water-leak-sensors/eve-water-guard"
-   ]
+   ],
+   "asin": "B09TB72Z5N",
+   "amazonTitle": "Eve Water Guard - Smart Home Water Leak Detector, 6.5 ft Sensing Cable, 100 dB Siren, (Apple HomeKit), App Notifications",
+   "asinVerified": true
   },
   {
    "name": "Flo by Moen Smart Water Detector",
@@ -317,7 +206,10 @@
     "https://smarthome.reviewed.com/best-right-now/best-smart-water-leak-detectors",
     "https://www.techhive.com/article/578595/flo-by-moen-smart-water-detector-review.html",
     "https://www.looria.com/review/flo-by-moen-smart-water-detector"
-   ]
+   ],
+   "asin": "B0855BFQCZ",
+   "amazonTitle": "Moen Flo Smart Water Leak Detector, Drip or Flood Sensor Alarm for Home, 1-Pack, White, 920-004",
+   "asinVerified": true
   }
  ],
  "serpProducts": [
