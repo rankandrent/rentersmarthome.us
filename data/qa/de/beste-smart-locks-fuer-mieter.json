@@ -2,12 +2,15 @@
   "slug": "de/beste-smart-locks-fuer-mieter",
   "lang": "de",
   "translationOf": "best-smart-lock-for-renters",
-  "pass": true,
-  "checkedAt": "2026-10-17T17:44:14.317Z",
-  "errors": [],
+  "pass": false,
+  "checkedAt": "2026-10-17T17:50:35.710Z",
+  "errors": [
+    "source returns 404: https://www.seam.co/img/device-db/aqara/manuals/aqara_smart-lock-u100_user_manual.pdf"
+  ],
   "warnings": [
     "internal link to the English post /blog/best-peephole-camera-for-apartments/; link the de version once it exists",
-    "internal link to the English post /blog/smart-home-for-renters/; link the de version once it exists"
+    "internal link to the English post /blog/smart-home-for-renters/; link the de version once it exists",
+    "source didn't respond normally (no response): https://www.businesswire.com/news/home/20230608005033/en/Aqara-Introduces-its-First-Deadbolt-Smart-Lock-U100"
   ],
   "factCheck": {
     "verified": true,
