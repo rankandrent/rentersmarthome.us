@@ -1,0 +1,13 @@
+{
+  "lang": "nl",
+  "translationOf": "philips-hue-vs-wiz",
+  "keyword": "philips hue of wiz",
+  "createdAt": "2026-10-17T19:18:07.135Z",
+  "via": "claude-routine",
+  "sources": [
+    "https://www.techradar.com/news/philips-hue-vs-wiz-which-smart-lights-are-right-for-your-home",
+    "https://hueblog.com/2025/05/16/will-wiz-soon-be-directly-compatible-with-philips-hue",
+    "https://homekitnews.com/2023/04/26/wiz-gains-matter-support-for-most-products-via-app-update/",
+    "https://matter-smarthome.de/en/news-en/philips-hue-and-wiz-will-support-matter/"
+  ]
+}

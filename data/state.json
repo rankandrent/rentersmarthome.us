@@ -303,6 +303,27 @@
       "lang": "nl",
       "translationOf": "ring-doorbell-in-apartment",
       "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "de/philips-hue-oder-wiz",
+      "lang": "de",
+      "translationOf": "philips-hue-vs-wiz",
+      "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "es/philips-hue-o-wiz",
+      "lang": "es",
+      "translationOf": "philips-hue-vs-wiz",
+      "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "nl/philips-hue-of-wiz",
+      "lang": "nl",
+      "translationOf": "philips-hue-vs-wiz",
+      "pubDate": "2026-10-17T19:00:00.000Z"
     }
   ]
 }
