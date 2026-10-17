@@ -1311,7 +1311,7 @@
   },
   {
     "status": "pending",
-    "attempts": 0,
+    "attempts": 1,
     "addedAt": "2026-10-14T08:48:40.167Z",
     "secondaryKeywords": [],
     "questions": [],
@@ -1326,7 +1326,8 @@
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
     "slug": "best-playpen-for-small-apartments",
-    "productCount": 5
+    "productCount": 5,
+    "note": "2026-10-17: skipped, owner evidence only for Graco; same-domain page evidence (page fetch blocked)"
   },
   {
     "status": "pending",
