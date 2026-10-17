@@ -282,6 +282,27 @@
       "lang": "nl",
       "translationOf": "no-drill-motorized-blinds",
       "pubDate": "2026-10-17T18:30:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "de/ring-tuerklingel-mietwohnung",
+      "lang": "de",
+      "translationOf": "ring-doorbell-in-apartment",
+      "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "es/timbre-ring-piso-alquiler",
+      "lang": "es",
+      "translationOf": "ring-doorbell-in-apartment",
+      "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "nl/ring-deurbel-appartement",
+      "lang": "nl",
+      "translationOf": "ring-doorbell-in-apartment",
+      "pubDate": "2026-10-17T19:00:00.000Z"
     }
   ]
 }

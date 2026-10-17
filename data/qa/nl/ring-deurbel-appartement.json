@@ -1,0 +1,16 @@
+{
+  "slug": "nl/ring-deurbel-appartement",
+  "lang": "nl",
+  "translationOf": "ring-doorbell-in-apartment",
+  "pass": true,
+  "checkedAt": "2026-10-17T19:16:56.198Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/blink-vs-ring-subscription/; link the nl version once it exists"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "2026-10-17: compared claim by claim with the English post ring-doorbell-in-apartment (QA pass, factcheck verified 2026-10-14). Same 3 products/ASINs/scores, same sources and owner sources; no new facts, prices or local claims. Notes block reuses the post's own move-out tip (original peephole in a labeled bag). Blink vs Ring link kept English, labeled.",
+    "at": "2026-10-17T19:16:55.653Z"
+  }
+}
