@@ -1,0 +1,60 @@
+{
+ "status": "PARTIAL: 3 products (the roundup minimum) from search-summary evidence only. WebFetch was blocked, so no top-10 page was opened; page-to-product mapping comes from WebSearch result summaries. Several top-10 pages are low-authority affiliate sites; no BabyGearLab, Babylist or Lucie's List playpen page was seen. No owner posts were read (owners.read = 0). Amazon US listing popularity not verified (no Amazon access); exact Amazon titles unconfirmed.",
+ "products": [
+  {
+   "name": "Graco Pack 'n Play Portable Playard with Push Button Compact Fold",
+   "brand": "Graco",
+   "query": "Graco Pack 'n Play Portable Playard Push Button Compact Fold Carnival",
+   "matchName": "Graco Pack 'n Play Portable Playard",
+   "badge": "Best easy-fold pick",
+   "summary": "A full-size playard whose push-button fold, folding feet and wheels make it easy to collapse and roll away between uses. Graco says the fold is 20% more compact than the average playard.",
+   "renterNote": "Suits a parent who needs the playard up for play and down for sleep or storage in a one-room apartment. Caveat: it is the bulkiest of the three when set up (Graco lists 39.5 in deep x 28.25 in wide x 29 in high) and Graco publishes no folded dimensions.",
+   "pros": ["Push-button fold with folding feet and wheels, per Graco", "Ranked first in the Small Space Baby compact-playpen guide (8.3/10)"],
+   "cons": ["Bulky once set up, per one retailer reviewer", "Weighs about 18.7 lb per Graco; no folded size published"],
+   "scores": {"install": 8, "reversibility": 9, "value": 8, "portability": 7},
+   "scoreNote": "Scores are editorial judgments from manufacturer specs and guide write-ups, not hands-on tests. Folds and rolls, but weight and set-up footprint are larger than the other picks.",
+   "owners": {"read": 0, "praise": [], "complaints": [], "sources": []},
+   "sources": ["https://smallspacebaby.com/best/best-compact-playpens", "https://christholdfast.org/buying-guides/best-playpens-for-apartments/", "https://www.gracobaby.com/home-and-gear/pack-n-play-playards-and-bassinets/pack-n-play-playards/pack-n-play-portable-playard/SAP_1946962.html", "https://www.walmart.com/ip/5022970098"],
+   "retailerReviews": [{"title": "Walmart listing (seen in search result)", "url": "https://www.walmart.com/ip/5022970098", "reviews": 4131}]
+  },
+  {
+   "name": "Dream On Me Nest Portable Playard",
+   "brand": "Dream On Me",
+   "query": "Dream On Me Nest Portable Playard",
+   "matchName": "Dream On Me Nest Portable Playard",
+   "badge": "Best smallest footprint for sleep and play",
+   "summary": "A travel-style playard with mesh sides, a removable padded mat and a quick-fold frame, listed at about 40 x 28 inches. Guides pitch it for bedrooms, guest rooms and shared rooms.",
+   "renterNote": "Suits a renter with a small bedroom or a family that moves the playard between rooms. Caveat: it is a smaller sleep-and-play space for infants, not a roomy toddler pen, and sources disagree on its height (24 vs 27.5 in).",
+   "pros": ["About 40 x 28 in footprint, per Dream On Me and retailer listings", "Weighs about 16.85 lb and comes with a carry bag"],
+   "cons": ["Little room for a mobile toddler", "Listings disagree on assembled height; one retailer lists the folded size as 7 x 7.5 x 28 in and no other source confirms it"],
+   "scores": {"install": 8, "reversibility": 9, "value": 8, "portability": 8},
+   "scoreNote": "Editorial judgment from maker and retailer specs; no independent hands-on review was found.",
+   "owners": {"read": 0, "praise": [], "complaints": [], "sources": []},
+   "sources": ["https://christholdfast.org/buying-guides/best-playpens-for-apartments/", "https://christholdfast.org/buying-guides/best-playpens-for-small-spaces/", "https://www.dreamonme.com/?p=14722", "https://bestbuy.ca/en-ca/product/16681091"]
+  },
+  {
+   "name": "Fodoss Baby Playpen with Mat 47x47",
+   "brand": "Fodoss",
+   "query": "Fodoss baby playpen with mat 47x47 inch",
+   "matchName": "Fodoss Baby Playpen",
+   "badge": "Best for a crawler's play area",
+   "summary": "A square 47 x 47 inch panel playpen with mesh sides, a zipper door and a mat, built for floor play rather than travel. Guides pick it for apartments and corners.",
+   "renterNote": "Suits a parent who wants a defined play area in a living room and can leave it up. Caveat: it needs about 4 ft x 4 ft of floor and is not portable once assembled.",
+   "pros": ["Mesh sides, pull rings and tool-free assembly (about 20 minutes), per roundups", "Suction cups help it stay put on hard floors, per one roundup"],
+   "cons": ["Not portable once assembled", "Roundups note thin padding and some quality inconsistency"],
+   "scores": {"install": 7, "reversibility": 6, "value": 8, "portability": 3},
+   "scoreNote": "Editorial judgment from guide write-ups; floor-hugging and not folding, so it takes the most permanent floor space.",
+   "owners": {"read": 0, "praise": [], "complaints": [], "sources": []},
+   "sources": ["https://christholdfast.org/buying-guides/best-playpens-for-small-spaces/", "https://christholdfast.org/buying-guides/best-playpens-under-300/", "https://www.kiddofspeed.com/best-baby-playpens/", "https://stuckathomemom.com/reviews/best-playpen-for-infants/", "https://www.target.com/p/fodoss-baby-playpen-with-mat-47x47in-extra-large-baby-play-yard-for-toddlers-indoor-outdoor-safety-playpen-with-non-slip-base/-/A-1005718245"]
+  }
+ ],
+ "serpProducts": [
+  {"name": "Fodoss Baby Playpen 47x47", "pages": ["https://christholdfast.org/buying-guides/best-playpens-for-small-spaces/", "https://christholdfast.org/buying-guides/best-playpens-for-apartments/", "https://www.kiddofspeed.com/best-baby-playpens/", "https://stuckathomemom.com/reviews/best-playpen-for-infants/"]},
+  {"name": "Dream On Me Nest Portable Playard", "pages": ["https://christholdfast.org/buying-guides/best-playpens-for-apartments/", "https://christholdfast.org/buying-guides/best-playpens-for-small-spaces/"]},
+  {"name": "Graco Pack 'n Play Portable Playard with Push Button Compact Fold", "pages": ["https://smallspacebaby.com/best/best-compact-playpens", "https://christholdfast.org/buying-guides/best-playpens-for-apartments/"]},
+  {"name": "Regalo My Play 6-panel (only 1 top-10 page seen: smallspacebaby; not qualified)", "pages": ["https://smallspacebaby.com/best/best-compact-playpens"]},
+  {"name": "Evenflo Versatile Play Space (kidsafeinc + christholdfast per summaries, but 6-panel footprint unstated; not selected)", "pages": ["https://www.kidsafeinc.com/best-playpen-for-small-spaces/", "https://christholdfast.org/buying-guides/best-playpens-for-small-spaces/"]},
+  {"name": "Jixrolyn 36x36 (kidsafeinc only; not qualified)", "pages": ["https://www.kidsafeinc.com/best-playpen-for-small-spaces/"]},
+  {"name": "Joie Cheer Playpen (motherandbaby only; not qualified)", "pages": ["https://www.motherandbaby.com/reviews/first-year-products/best-baby-playpen/"]}
+ ]
+}

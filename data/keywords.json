@@ -1194,7 +1194,7 @@
   },
   {
     "status": "pending",
-    "attempts": 0,
+    "attempts": 1,
     "addedAt": "2026-10-14T08:48:40.167Z",
     "secondaryKeywords": [],
     "questions": [],
@@ -1209,7 +1209,8 @@
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
     "slug": "how-to-secure-sliding-glass-door-in-rental",
-    "productCount": 4
+    "productCount": 4,
+    "note": "2026-10-17: skipped, top pages recommend methods not models; retry as a method guide or with page access."
   },
   {
     "status": "published",
@@ -1246,11 +1247,12 @@
     "cluster": "baby-proofing",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-toilet-lock-for-toddlers-rental-friendly"
+    "slug": "best-toilet-lock-for-toddlers-rental-friendly",
+    "productCount": 4
   },
   {
     "status": "pending",
-    "attempts": 0,
+    "attempts": 1,
     "addedAt": "2026-10-14T08:48:40.167Z",
     "secondaryKeywords": [],
     "questions": [],
@@ -1265,7 +1267,8 @@
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
     "slug": "best-stove-knob-covers-for-renters",
-    "productCount": 5
+    "productCount": 5,
+    "note": "2026-10-17: skipped, only 2 products with 2+ pages and owner reviews nearly empty"
   },
   {
     "status": "pending",
@@ -1283,7 +1286,8 @@
     "cluster": "baby-proofing",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-refrigerator-lock-for-toddlers-no-drill"
+    "slug": "best-refrigerator-lock-for-toddlers-no-drill",
+    "productCount": 4
   },
   {
     "status": "pending",
@@ -1319,7 +1323,8 @@
     "cluster": "baby-proofing",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-playpen-for-small-apartments"
+    "slug": "best-playpen-for-small-apartments",
+    "productCount": 5
   },
   {
     "status": "pending",
@@ -1792,7 +1797,7 @@
   },
   {
     "status": "pending",
-    "attempts": 0,
+    "attempts": 1,
     "addedAt": "2026-10-14T08:48:40.167Z",
     "secondaryKeywords": [],
     "questions": [],
@@ -1807,7 +1812,8 @@
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
     "slug": "how-to-organize-small-rental-kitchen-without-drilling",
-    "productCount": 5
+    "productCount": 5,
+    "note": "2026-10-17: skipped, only 1 product had both an Amazon listing and owner reviews"
   },
   {
     "status": "pending",

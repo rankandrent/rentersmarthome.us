@@ -1,0 +1,348 @@
+{
+ "products": [
+  {
+   "name": "Philips Hue White and Color Ambiance A19 Bluetooth",
+   "brand": "Philips Hue",
+   "query": "Philips Hue White and Color Ambiance A19 Bluetooth smart bulb",
+   "matchName": "Philips Hue White and Color Ambiance A19",
+   "badge": "Best if you may grow into a bigger system",
+   "summary": "A standard-base color bulb that pairs over Bluetooth with the Hue app, so a renter can start without the Hue Bridge and add one later. PCWorld calls it the best smart light for most people.",
+   "renterNote": "Suits a renter who wants one polished bulb or a few lamps now and room to expand if the next place is bigger. Caveat: without the bridge you get basic control only, and PCWorld notes a 10-device limit on Bluetooth.",
+   "pros": [
+    "Works over Bluetooth with no bridge for basic use, and supports a bridge later",
+    "Strong light quality, dimming and platform compatibility per PCWorld"
+   ],
+   "cons": [
+    "Without a bridge you cannot group bulbs by room or limit scenes to a few bulbs",
+    "Costs more per bulb than the Wi-Fi budget picks"
+   ],
+   "sources": [
+    "https://www.pcworld.com/article/582523/best-smart-bulbs.html",
+    "https://www.pcworld.com/article/2109185/best-smart-home-devices-for-apartment-dwellers.html",
+    "https://westerntechy.com/guides/best-smart-bulbs-for-renters-2025-buyers-guide/"
+   ],
+   "scores": {
+    "install": 9,
+    "reversibility": 10,
+    "value": 6,
+    "compatibility": 9,
+    "portability": 8
+   },
+   "scoreNote": "Screw-in and fully reversible; top compatibility, but the best features want a bridge and the bulb costs more than Wi-Fi rivals.",
+   "owners": {
+    "read": 4,
+    "praise": [
+     "Easy Bluetooth setup, and the bridge can be added later",
+     "Wide assistant support (Alexa and Google Assistant work)"
+    ],
+    "complaints": [
+     "Confusion over whether the Bluetooth bulb works with the bridge (it does, per retailer listings)",
+     "HomeKit support needs a bridge; some report Alexa connectivity issues (weak aggregator source)"
+    ],
+    "sources": [
+     {
+      "title": "TechRadar: Philips Hue bulbs go bridge-less with Bluetooth",
+      "url": "https://www.techradar.com/news/philips-hue-bulbs-go-bridge-less-with-new-bluetooth-lights"
+     },
+     {
+      "title": "The Ambient: Living with Signify's Bluetooth bulb",
+      "url": "https://www.the-ambient.com/?p=11304"
+     },
+     {
+      "title": "B&H: Philips Hue A19 Bulb with Bluetooth (2-Pack)",
+      "url": "https://www.bhphotovideo.com/c/product/1694447-REG/philips_548610_hue_led_light_bulb.html"
+     },
+     {
+      "title": "Slickdeals thread: Hue White and Color Ambiance A19 3-pack",
+      "url": "https://slickdeals.net/f/15341443-phillips-hue-white-and-color-ambiance-a19-3-pack-99"
+     }
+    ]
+   },
+   "asin": "B08D9N7RJ4",
+   "amazonTitle": "Philips Hue A19 LED Smart Light Bulb - White and Color Ambiance - 60W Indoor Light Bulb - Control with Hue App",
+   "asinVerified": true
+  },
+  {
+   "name": "Wyze Bulb Color",
+   "brand": "Wyze",
+   "query": "Wyze Bulb Color A19 Wi-Fi smart bulb",
+   "matchName": "Wyze Bulb Color",
+   "badge": "Best budget color bulb",
+   "summary": "A Wi-Fi color bulb with an E26 base and no hub, listed by PCWorld and others as a budget pick. PCWorld says it is surprisingly bright for the money.",
+   "renterNote": "Suits a renter who wants cheap color in a few lamps and does not use Apple Home. Caveat: no Matter support, 2.4 GHz Wi-Fi only, and CNN's recent test raised security questions.",
+   "pros": [
+    "No hub or bridge, standard E26 base",
+    "Cheap and bright for the price per PCWorld",
+    "Easy to swap back when you move"
+   ],
+   "cons": [
+    "No Matter support, which matters for HomeKit users",
+    "CNN raised security questions; owners report voice-command lag and a 2.4 GHz-only network"
+   ],
+   "sources": [
+    "https://westerntechy.com/guides/best-smart-bulbs-for-renters-2025-buyers-guide/",
+    "https://www.pcworld.com/article/582523/best-smart-bulbs.html",
+    "https://www.tomsguide.com/best-picks/the-best-smart-light-bulbs",
+    "https://www.cnn.com/cnn-underscored/reviews/best-smart-bulbs"
+   ],
+   "scores": {
+    "install": 9,
+    "reversibility": 10,
+    "value": 9,
+    "compatibility": 6,
+    "portability": 8
+   },
+   "scoreNote": "Screw-in and cheap; compatibility is held back by no Matter, 2.4 GHz-only Wi-Fi and the security questions CNN raised.",
+   "owners": {
+    "read": 4,
+    "praise": [
+     "Good value for the price",
+     "Grouping bulbs under one slider is straightforward"
+    ],
+    "complaints": [
+     "Delays on Alexa commands and sensor-triggered lights (forum posts from 2021-2022)",
+     "Color accuracy around CRI 80 per a third-party guide; bulbs in a set can look mismatched"
+    ],
+    "sources": [
+     {
+      "title": "Wyze forum: Color bulb long latency",
+      "url": "https://forums.wyze.com/t/color-bulb-long-latency/225402"
+     },
+     {
+      "title": "Wyze forum: Color bulb first impressions",
+      "url": "https://forums.wyze.com/t/wyze-color-bulb-first-impressions/175539"
+     },
+     {
+      "title": "Home Depot: Wyze A19 color 4-pack reviews",
+      "url": "https://homedepot.com/p/reviews/Wyze-75-Watt-Equivalent-A19-Color-Changing-Wi-Fi-LED-Smart-Light-Bulb-with-16-Million-Colors-RGB-and-App-Control-4-Pack-WLPA19C4PK/316672570/1"
+     },
+     {
+      "title": "Trunetto: Wyze Bulb color accuracy",
+      "url": "https://www.trunetto.com/troubleshooting/smart-lighting/wyze/wyze-bulb-color-accuracy"
+     }
+    ]
+   },
+   "asin": "B08WZ5THJ7",
+   "amazonTitle": "Wyze Bulb Color, 1100 Lumen WiFi RGB and Tunable White A19 Smart Bulb, Works with Alexa and Google Assistant, Two-Pack",
+   "asinVerified": true
+  },
+  {
+   "name": "Kasa Smart Light Bulbs KL125",
+   "brand": "TP-Link Kasa",
+   "query": "Kasa Smart Bulb KL125 A19 color Wi-Fi",
+   "matchName": "Kasa Smart Light Bulbs KL125",
+   "badge": "Best for easy setup",
+   "summary": "A Wi-Fi color and tunable-white A19 bulb that needs no hub. NBC picks it as runner-up and another renter guide calls it the simplest option.",
+   "renterNote": "Suits a renter on Alexa or Google Assistant who wants a simple app and scheduling. Caveat: no HomeKit support and setup needs 2.4 GHz Wi-Fi.",
+   "pros": [
+    "No hub; works with Alexa and Google Assistant",
+    "Reviewers praise the price and Auto-White mode",
+    "NBC editor reported quick Google Assistant response"
+   ],
+   "cons": [
+    "No HomeKit support",
+    "Some colors are not very bright and groups cannot be scheduled per Android Authority"
+   ],
+   "sources": [
+    "https://topratedbycraig.com/best-smart-bulbs-no-overhead-lighting/",
+    "https://www.nbcnews.com/shopping/smart-home/best-smart-light-bulbs-n1255794",
+    "https://reviewed.com/smarthome/best-right-now/best-smart-bulbs"
+   ],
+   "scores": {
+    "install": 9,
+    "reversibility": 10,
+    "value": 8,
+    "compatibility": 7,
+    "portability": 8
+   },
+   "scoreNote": "Hub-free screw-in bulb; value is good but no HomeKit and a few app limits keep compatibility at 7.",
+   "owners": {
+    "read": 4,
+    "praise": [
+     "Good price and features",
+     "Auto-White mode"
+    ],
+    "complaints": [
+     "Lengthy Wi-Fi setup and a sometimes convoluted app (PCWorld)",
+     "Some colors dim; no group scheduling; 2.4 GHz needed (Android Authority, B&H buyer)"
+    ],
+    "sources": [
+     {
+      "title": "PCWorld: Kasa Smart KL125 review",
+      "url": "https://www.pcworld.com/article/579874/kasa-smart-kl125-review.html"
+     },
+     {
+      "title": "Android Authority: Kasa Smart Bulb KL125 review",
+      "url": "https://www.androidauthority.com/tp-link-kasa-smart-bulb-kl125-review-3031924/"
+     },
+     {
+      "title": "B&H: TP-Link KL125 reviews",
+      "url": "https://www.bhphotovideo.com/c/product/1633601-REG/tp_link_kl125_kasa_smart_bulb.html/reviews"
+     },
+     {
+      "title": "Slickdeals: Kasa A19 bulbs thread",
+      "url": "https://slickdeals.net/f/18655339-prime-2-pack-a19-kasa-smart-light-bulbs-13-99-free-shipping"
+     }
+    ]
+   },
+   "asin": "B08TB8QBB1",
+   "amazonTitle": "Kasa Multicolor Dimmable Wi-Fi Smart Bulb, A19, KL125 | 800LM, 9W, Full Color Changing",
+   "asinVerified": true
+  },
+  {
+   "name": "Tapo L535E",
+   "brand": "TP-Link Tapo",
+   "query": "TP-Link Tapo L535E Matter smart Wi-Fi color bulb",
+   "matchName": "Tapo L535E",
+   "badge": "Best for Matter and Apple Home",
+   "summary": "A Wi-Fi color bulb with Matter certification that works with Alexa, Google Home and Apple Home; CNN Underscored named it its top smart bulb.",
+   "renterNote": "Suits a renter on Apple Home or mixed ecosystems who wants Matter without a hub. Caveat: owner reports of dropouts and a greenish white are anecdotal and from small samples.",
+   "pros": [
+    "Matter-certified, so works across Alexa, Google Home and Apple",
+    "About 1,100 lumens, among the brightest on one tested list",
+    "CNN praised its affordability and app"
+   ],
+   "cons": [
+    "Some owners report app dropouts and a greenish tinge in white",
+    "One buyer could not add it to HomeLink"
+   ],
+   "sources": [
+    "https://www.cnn.com/cnn-underscored/reviews/best-smart-bulbs",
+    "https://www.bgr.com/2147976/best-renter-friendly-smart-home-upgrades/"
+   ],
+   "scores": {
+    "install": 9,
+    "reversibility": 10,
+    "value": 8,
+    "compatibility": 9,
+    "portability": 8
+   },
+   "scoreNote": "Screw-in and hub-free; Matter gives the best compatibility of the Wi-Fi picks, with minor reliability reports.",
+   "owners": {
+    "read": 4,
+    "praise": [
+     "Fast setup with Matter and Apple Home",
+     "Works with Google Home"
+    ],
+    "complaints": [
+     "Occasional app disconnects",
+     "White can look greenish unless set very warm"
+    ],
+    "sources": [
+     {
+      "title": "B&H: TP-Link Tapo L535E",
+      "url": "https://www.bhphotovideo.com/c/product/1792714-REG/tp_link_tapo_l535e_smart_wi_fi.html"
+     },
+     {
+      "title": "PB Tech: Tapo L535E reviews",
+      "url": "https://www.pbtech.com/au/product/BULTPL3535/TP-Link-Tapo-L535E-Smart-Wi-Fi-RGB-LED-Bulb-E27-10"
+     },
+     {
+      "title": "TP-Link press release: CNN Underscored pick",
+      "url": "https://www.tp-link.com/us/press/news/21569/"
+     }
+    ]
+   },
+   "asin": "B0CFG9MXKD",
+   "amazonTitle": "Tapo Multicolor Dimmable Smart Light Bulbs, L535E, A19 E26, 1100LM | Matter-Certified, 16M Colors RGBW LED",
+   "asinVerified": true
+  },
+  {
+   "name": "WiZ A19 Color",
+   "brand": "WiZ",
+   "query": "WiZ Connected A19 Color Wi-Fi smart bulb",
+   "matchName": "WiZ A19 Color",
+   "badge": "Best value Wi-Fi color bulb",
+   "summary": "A low-cost Wi-Fi color bulb with no hub, which NBC calls a good-value choice and CNN highlighted in its tests.",
+   "renterNote": "Suits a renter who wants cheap color and the WiZ app features. Caveat: 2.4 GHz only and some automation quirks. See our Hue vs WiZ post for the head-to-head.",
+   "pros": [
+    "No hub; low price",
+    "TechHive found setup quick"
+   ],
+   "cons": [
+    "Only connects to 2.4 GHz Wi-Fi",
+    "Some report connection drops and automation glitches"
+   ],
+   "sources": [
+    "https://www.nbcnews.com/shopping/smart-home/best-smart-light-bulbs-n1255794",
+    "https://www.cnn.com/cnn-underscored/reviews/best-smart-bulbs"
+   ],
+   "scores": {
+    "install": 9,
+    "reversibility": 10,
+    "value": 9,
+    "compatibility": 7,
+    "portability": 8
+   },
+   "scoreNote": "Cheap and hub-free; 2.4 GHz-only and automation reports keep compatibility at 7.",
+   "owners": {
+    "read": 3,
+    "praise": [
+     "Quick setup",
+     "Low-cost with plenty of features"
+    ],
+    "complaints": [
+     "Occasional random on/off or lost connection",
+     "Pairing difficulty on some networks"
+    ],
+    "sources": [
+     {
+      "title": "TechHive: WiZ Connected color A19 review",
+      "url": "https://www.techhive.com/article/578388/wiz-connected-color-and-tunable-white-a19-bulb-review.html"
+     },
+     {
+      "title": "ShopSavvy: WiZ A19 2-pack review summary",
+      "url": "https://www.shopsavvy.com/reviews-tldr/philips-wiz-a19-smart-bulb-2-pack"
+     },
+     {
+      "title": "Matter Alpha: WiZ A19 P555",
+      "url": "https://www.matteralpha.com/wiz-connected/wiz-a19-p555"
+     }
+    ]
+   },
+   "asin": "B09TL498WM",
+   "amazonTitle": "WiZ Connected Smart Light Bulbs, 2-Pack | Color A19 60W 800LM E26 Indoor LED Lights",
+   "asinVerified": true
+  }
+ ],
+ "serpProducts": [
+  {
+   "name": "Philips Hue White and Color Ambiance A19 Bluetooth",
+   "pages": [
+    "https://www.pcworld.com/article/582523/best-smart-bulbs.html",
+    "https://www.pcworld.com/article/2109185/best-smart-home-devices-for-apartment-dwellers.html",
+    "https://westerntechy.com/guides/best-smart-bulbs-for-renters-2025-buyers-guide/"
+   ]
+  },
+  {
+   "name": "Wyze Bulb Color",
+   "pages": [
+    "https://westerntechy.com/guides/best-smart-bulbs-for-renters-2025-buyers-guide/",
+    "https://www.pcworld.com/article/582523/best-smart-bulbs.html",
+    "https://www.tomsguide.com/best-picks/the-best-smart-light-bulbs"
+   ]
+  },
+  {
+   "name": "Kasa Smart Light Bulbs KL125",
+   "pages": [
+    "https://topratedbycraig.com/best-smart-bulbs-no-overhead-lighting/",
+    "https://www.nbcnews.com/shopping/smart-home/best-smart-light-bulbs-n1255794",
+    "https://reviewed.com/smarthome/best-right-now/best-smart-bulbs"
+   ]
+  },
+  {
+   "name": "Tapo L535E",
+   "pages": [
+    "https://www.cnn.com/cnn-underscored/reviews/best-smart-bulbs",
+    "https://www.bgr.com/2147976/best-renter-friendly-smart-home-upgrades/"
+   ]
+  },
+  {
+   "name": "WiZ A19 Color",
+   "pages": [
+    "https://www.nbcnews.com/shopping/smart-home/best-smart-light-bulbs-n1255794",
+    "https://www.cnn.com/cnn-underscored/reviews/best-smart-bulbs"
+   ]
+  }
+ ]
+}

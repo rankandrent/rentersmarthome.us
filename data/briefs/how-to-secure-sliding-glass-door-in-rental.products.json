@@ -1,0 +1,13 @@
+{
+ "products": [],
+ "skip": true,
+ "skipReason": "Fewer than 3 products can be shown as recommended by at least 2 distinct top-10 pages for this keyword. WebFetch was blocked, so pages were only seen through WebSearch summaries. The generic ranking pages for the exact keyword (Bob Vila, Dummies, journeymanhq, ForRent) recommend methods (dowel in track, clamp-on track lock, door-stop alarm, security film), not specific models. Model-level lists only appear on 'sliding door security bar' pages, whose picks do not overlap across pages and are mostly affiliate/low-quality sites; the one overlapping model (Ideal Security patio bar) is screw-mounted, so not a no-drill renter product.",
+ "serpProducts": [
+  {"name": "Ideal Security Patio Door Bar with Anti-Lift Lock (SK110 / BK110 family)", "pages": ["https://www.bobvila.com/reviews/best-door-security-bars/", "https://www.covesmart.com/blog/the-best-door-security-bars"], "note": "Covesmart page only seen as a fragment, not confirmed by name; mounts with screws on the door frame, so fails the no-drill test; does not qualify"},
+  {"name": "SecurityMan 2-in-1 Security Bar", "pages": ["https://www.talkofthehouse.com/?p=61709"], "note": "securitymaninc.com is the maker's own blog; only 1 independent page seen; does not qualify"},
+  {"name": "DIIG door security bar", "pages": ["https://www.talkofthehouse.com/?p=61709", "https://outdoorsecurity.blog/best-sliding-door-security-bar/"], "note": "snippets only, low-quality affiliate-style sites, not verified as top-10 for the keyword; does not qualify"},
+  {"name": "Maxi Twist Tight security bar", "pages": ["https://outdoorsecurity.blog/best-sliding-door-security-bar/", "https://thewearify.com/best-locks-for-sliding-glass-doors/"], "note": "snippets only, affiliate-style sites, not verified as top-10; does not qualify"},
+  {"name": "AceMining door security bar", "pages": ["https://foliumbiosciences.com/best-door-security-bars-for-sliding-patio-doors/"], "note": "1 page; does not qualify"},
+  {"name": "MSIC Global SecuraDoor", "pages": ["https://www.bobvila.com/reviews/best-door-security-bars/"], "note": "1 page; hinged-door bar, not for sliders; does not qualify"}
+ ]
+}

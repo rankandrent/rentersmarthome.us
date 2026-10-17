@@ -8,13 +8,56 @@
    "badge": "Best cheap starter",
    "summary": "A small plastic caddy that sticks to smooth surfaces with Command strips. Roundups use it inside cabinet doors, under the sink or on a pantry door for cleaning supplies and reusable shopping totes.",
    "renterNote": "Suits a renter with light items (sponges, sprays, tote bags) and a smooth painted, tiled or finished surface; it is not for heavy loads, textured walls or humid spots, and the strips need the surface cleaned and time to set.",
-   "pros": ["Strip adhesive is designed to come off without damaging surfaces", "Very low commitment, easy to move to a new spot", "Fits inside cabinets and on doors where drilling is off limits"],
-   "cons": ["Light rating only: sources give 4 lb for the large caddy, and one review mentions a separate 10 lb heavyweight version, so check the pack", "Aggregator summaries mention some buyers seeing it fall off, mostly on textured, damp or poorly prepped surfaces"],
-   "specs": {"mount": "Command adhesive strips (4 in the pack, one review says 2 are enough)", "max load": "4 lb per the large caddy listing as cited by Apartment Therapy", "surface": "Smooth only (painted wall, tile, finished wood, glass, metal)"},
-   "scores": {"install": 9, "reversibility": 8, "value": 9, "portability": 8},
+   "pros": [
+    "Strip adhesive is designed to come off without damaging surfaces",
+    "Very low commitment, easy to move to a new spot",
+    "Fits inside cabinets and on doors where drilling is off limits"
+   ],
+   "cons": [
+    "Light rating only: sources give 4 lb for the large caddy, and one review mentions a separate 10 lb heavyweight version, so check the pack",
+    "Aggregator summaries mention some buyers seeing it fall off, mostly on textured, damp or poorly prepped surfaces"
+   ],
+   "specs": {
+    "mount": "Command adhesive strips (4 in the pack, one review says 2 are enough)",
+    "max load": "4 lb per the large caddy listing as cited by Apartment Therapy",
+    "surface": "Smooth only (painted wall, tile, finished wood, glass, metal)"
+   },
+   "scores": {
+    "install": 9,
+    "reversibility": 8,
+    "value": 9,
+    "portability": 8
+   },
    "scoreNote": "Peel-and-stick install and strip removal score high; the 4 lb limit and surface fussiness hold it back from a 10.",
-   "owners": {"read": 0, "praise": [], "complaints": ["Falling off despite following instructions, reported in aggregator summaries (ShopSavvy, Fakespot page)", "Weak on humid or textured surfaces"], "sources": []},
-   "sources": ["https://www.apartmenttherapy.com/best-drill-free-kitchen-organizers-37087046", "https://www.thekitchn.com/best-drill-free-kitchen-organizers-23385104", "https://www.apartmenttherapy.com/command-caddy-review-37074257", "https://shopsavvy.com/reviews-tldr/command-caddy-small", "https://3m.com/3M/en_US/p/d/b5005604068"]
+   "owners": {
+    "read": 2,
+    "praise": [
+     "Easy tool-free install, and one reviewer fit four bottles and scrubbers under a kitchen sink",
+     "Could be repositioned with new strips without residue"
+    ],
+    "complaints": [
+     "Some buyers report it falling off, in one case in under a week, even after cleaning the wall and following instructions",
+     "Some would like wider compartments for larger items"
+    ],
+    "sources": [
+     {
+      "title": "Apartment Therapy: Command Large Organizing Caddy review",
+      "url": "https://www.apartmenttherapy.com/command-large-organizing-caddy-review-37499869"
+     },
+     {
+      "title": "Kroger: Command Large Organizing Caddy",
+      "url": "https://www.kroger.com/p/command-large-organizing-caddy/0006806046358",
+      "reviews": 48
+     }
+    ]
+   },
+   "sources": [
+    "https://www.apartmenttherapy.com/best-drill-free-kitchen-organizers-37087046",
+    "https://www.thekitchn.com/best-drill-free-kitchen-organizers-23385104",
+    "https://www.apartmenttherapy.com/command-caddy-review-37074257",
+    "https://shopsavvy.com/reviews-tldr/command-caddy-small",
+    "https://3m.com/3M/en_US/p/d/b5005604068"
+   ]
   },
   {
    "name": "Joseph Joseph CupboardStore 3-Container Hanging Dry Food Storage Set",
@@ -24,13 +67,39 @@
    "badge": "Best for cupboard space",
    "summary": "Three dry-food containers hang from a rail that clamps and sticks to the underside of a cabinet shelf, turning empty air under a shelf into storage for pasta, snacks or baking items.",
    "renterNote": "Suits a renter with a cupboard that has dead space under a shelf and dry goods to store; the key caveat is that the rail relies on adhesive (3M VHB per a retailer page), so test removal on a hidden spot and measure shelf thickness first.",
-   "pros": ["Uses wasted under-shelf space without screws", "Slide-on clamps plus adhesive; retailer pages claim residue-free removal", "Containers are sized for dry staples"],
-   "cons": ["Retailer pages warn that ignoring installation steps can damage the product or shelf, and I found no independent proof of clean removal on painted or laminate shelves", "Dry food only, hand wash, and listings disagree on container size (1.3 L vs 900 ml), so check the variant; a high price in the roundup"],
-   "specs": {"mount": "Clamps plus enclosed 3M VHB adhesive (retailer claim)", "fit": "Minimum cupboard interior about W36 x D20 cm, max shelf thickness 2 cm (one retailer)", "care": "Hand wash, dry foods only"},
-   "scores": {"install": 6, "reversibility": 6, "value": 5, "portability": 5},
+   "pros": [
+    "Uses wasted under-shelf space without screws",
+    "Slide-on clamps plus adhesive; retailer pages claim residue-free removal",
+    "Containers are sized for dry staples"
+   ],
+   "cons": [
+    "Retailer pages warn that ignoring installation steps can damage the product or shelf, and I found no independent proof of clean removal on painted or laminate shelves",
+    "Dry food only, hand wash, and listings disagree on container size (1.3 L vs 900 ml), so check the variant; a high price in the roundup"
+   ],
+   "specs": {
+    "mount": "Clamps plus enclosed 3M VHB adhesive (retailer claim)",
+    "fit": "Minimum cupboard interior about W36 x D20 cm, max shelf thickness 2 cm (one retailer)",
+    "care": "Hand wash, dry foods only"
+   },
+   "scores": {
+    "install": 6,
+    "reversibility": 6,
+    "value": 5,
+    "portability": 5
+   },
    "scoreNote": "Needs shelf measuring and adhesive prep, removal is unproven on rental finishes, and it costs more than other picks.",
-   "owners": {"read": 0, "praise": [], "complaints": [], "sources": []},
-   "sources": ["https://www.apartmenttherapy.com/best-drill-free-kitchen-organizers-37087046", "https://www.thekitchn.com/best-drill-free-kitchen-organizers-23385104", "https://josephjoseph.com/products/cupboardstore-incupboard-storage-container-set-blue", "https://connox.com/categories/kitchenware/storage-jars/joseph-joseph-storage-cupboardstore-box-set.html"]
+   "owners": {
+    "read": 0,
+    "praise": [],
+    "complaints": [],
+    "sources": []
+   },
+   "sources": [
+    "https://www.apartmenttherapy.com/best-drill-free-kitchen-organizers-37087046",
+    "https://www.thekitchn.com/best-drill-free-kitchen-organizers-23385104",
+    "https://josephjoseph.com/products/cupboardstore-incupboard-storage-container-set-blue",
+    "https://connox.com/categories/kitchenware/storage-jars/joseph-joseph-storage-cupboardstore-box-set.html"
+   ]
   },
   {
    "name": "Roysili Magnetic Spice Rack for Refrigerator, 4-Pack",
@@ -40,20 +109,88 @@
    "badge": "Best for fridge-side storage",
    "summary": "Magnetic metal shelves that cling to the side of a steel fridge, giving spices, oils or a paper towel roll a home with no adhesive and no holes.",
    "renterNote": "Suits a renter whose fridge has a magnetic side panel and a gap beside it; the key caveat is that it only works on steel, stated capacity varies by listing (5 to 8 lb), and a wide rack can crowd a narrow gap.",
-   "pros": ["Magnetic, so there is nothing to stick or remove", "Moves with you to the next fridge", "Sources say it needs no assembly"],
-   "cons": ["Capacity figures conflict between listings (5 lb vs 8 lb), so plan around the lower one", "Smooth magnets can slide on some fridge finishes when loaded with heavy glass jars"],
-   "specs": {"mount": "Magnetic back", "pack": "4-pack with paper towel holder per Apartment Therapy; 2-packs also exist", "max load": "5-8 lb per shelf depending on listing"},
-   "scores": {"install": 10, "reversibility": 10, "value": 8, "portability": 9},
+   "pros": [
+    "Magnetic, so there is nothing to stick or remove",
+    "Moves with you to the next fridge",
+    "Sources say it needs no assembly"
+   ],
+   "cons": [
+    "Capacity figures conflict between listings (5 lb vs 8 lb), so plan around the lower one",
+    "Smooth magnets can slide on some fridge finishes when loaded with heavy glass jars"
+   ],
+   "specs": {
+    "mount": "Magnetic back",
+    "pack": "4-pack with paper towel holder per Apartment Therapy; 2-packs also exist",
+    "max load": "5-8 lb per shelf depending on listing"
+   },
+   "scores": {
+    "install": 10,
+    "reversibility": 10,
+    "value": 8,
+    "portability": 9
+   },
    "scoreNote": "Nothing to install or remove, so it earns top marks there; only works on magnetic steel and the load rating is unclear.",
-   "owners": {"read": 0, "praise": [], "complaints": [], "sources": []},
-   "sources": ["https://www.apartmenttherapy.com/best-drill-free-kitchen-organizers-37087046", "https://www.apartmenttherapy.com/amazon-magnetic-spice-rack-review-37014023", "https://www.thekitchn.com/amazon-magnetic-spice-rack-review-23268077", "https://www.forbes.com/sites/forbes-personal-shopper/article/roysili-magnetic-spice-rack/"]
+   "owners": {
+    "read": 2,
+    "praise": [
+     "Magnets described as strong and not budging once placed",
+     "Named top overall pick among wall spice racks by Cuisine at Home, which says the magnet holds firmly on fridges and other metal"
+    ],
+    "complaints": [],
+    "sources": [
+     {
+      "title": "Cuisine at Home: wall spice rack review",
+      "url": "https://cuisineathome.com/review/wall-spice-rack/"
+     },
+     {
+      "title": "Apartment Therapy: Amazon magnetic spice rack review",
+      "url": "https://www.apartmenttherapy.com/amazon-magnetic-spice-rack-review-37014023"
+     }
+    ]
+   },
+   "sources": [
+    "https://www.apartmenttherapy.com/best-drill-free-kitchen-organizers-37087046",
+    "https://www.apartmenttherapy.com/amazon-magnetic-spice-rack-review-37014023",
+    "https://www.thekitchn.com/amazon-magnetic-spice-rack-review-23268077",
+    "https://www.forbes.com/sites/forbes-personal-shopper/article/roysili-magnetic-spice-rack/"
+   ]
   }
  ],
  "serpProducts": [
-  {"name": "Command Large Caddy", "pages": ["https://www.apartmenttherapy.com/best-drill-free-kitchen-organizers-37087046", "https://www.thekitchn.com/best-drill-free-kitchen-organizers-23385104"]},
-  {"name": "Joseph Joseph CupboardStore hanging dry food containers", "pages": ["https://www.apartmenttherapy.com/best-drill-free-kitchen-organizers-37087046", "https://www.thekitchn.com/best-drill-free-kitchen-organizers-23385104"]},
-  {"name": "Roysili Magnetic Spice Rack", "pages": ["https://www.apartmenttherapy.com/best-drill-free-kitchen-organizers-37087046", "https://www.apartmenttherapy.com/amazon-magnetic-spice-rack-review-37014023"]},
-  {"name": "Adhesive under-cabinet six-prong utensil hook (brand unverified, search tool suggested Aosome)", "pages": ["https://www.apartmenttherapy.com/best-drill-free-kitchen-organizers-37087046", "https://www.thekitchn.com/best-drill-free-kitchen-organizers-23385104"]},
-  {"name": "Umbra Anywhere Kitchen Tension Organizer", "pages": ["https://www.apartmenttherapy.com/umbra-kitchen-tension-organizer-37096212", "https://eu.umbra.com/blogs/news/organize-your-kitchen-with-anywhere-tension-organizers"]}
+  {
+   "name": "Command Large Caddy",
+   "pages": [
+    "https://www.apartmenttherapy.com/best-drill-free-kitchen-organizers-37087046",
+    "https://www.thekitchn.com/best-drill-free-kitchen-organizers-23385104"
+   ]
+  },
+  {
+   "name": "Joseph Joseph CupboardStore hanging dry food containers",
+   "pages": [
+    "https://www.apartmenttherapy.com/best-drill-free-kitchen-organizers-37087046",
+    "https://www.thekitchn.com/best-drill-free-kitchen-organizers-23385104"
+   ]
+  },
+  {
+   "name": "Roysili Magnetic Spice Rack",
+   "pages": [
+    "https://www.apartmenttherapy.com/best-drill-free-kitchen-organizers-37087046",
+    "https://www.apartmenttherapy.com/amazon-magnetic-spice-rack-review-37014023"
+   ]
+  },
+  {
+   "name": "Adhesive under-cabinet six-prong utensil hook (brand unverified, search tool suggested Aosome)",
+   "pages": [
+    "https://www.apartmenttherapy.com/best-drill-free-kitchen-organizers-37087046",
+    "https://www.thekitchn.com/best-drill-free-kitchen-organizers-23385104"
+   ]
+  },
+  {
+   "name": "Umbra Anywhere Kitchen Tension Organizer",
+   "pages": [
+    "https://www.apartmenttherapy.com/umbra-kitchen-tension-organizer-37096212",
+    "https://eu.umbra.com/blogs/news/organize-your-kitchen-with-anywhere-tension-organizers"
+   ]
+  }
  ]
 }

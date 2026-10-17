@@ -1,0 +1,355 @@
+{
+ "products": [
+  {
+   "name": "Govee WiFi Water Sensor 3 Pack (H5040)",
+   "brand": "Govee",
+   "query": "Govee WiFi Water Sensor 3 Pack H5040 water leak detector",
+   "matchName": "Govee WiFi Water Sensor",
+   "badge": "Best overall",
+   "summary": "A plug-in gateway plus three small battery sensors that sound a 100 dB alarm and push phone alerts. It suits a renter who wants cheap coverage for the sink, washer and water heater without a subscription.",
+   "renterNote": "Sensors sit loose on the floor and the gateway plugs into an outlet, so nothing is stuck or drilled. Caveat: the gateway joins 2.4 GHz Wi-Fi only, not 5 GHz, so check your router.",
+   "pros": [
+    "Gateway handles up to 10 sensors, and listings describe a 100 dB alarm you can silence from the app",
+    "Sealed sensors are rated for splashes and submersion (listings say IP66 or IP67)",
+    "Three sensors cover the usual trouble spots in one box"
+   ],
+   "cons": [
+    "2.4 GHz Wi-Fi only; pairing can be fiddly on dual-band routers",
+    "Gateway uses an outlet, and owners report a low-battery chirp that is hard to silence"
+   ],
+   "specs": {
+    "Alarm": "100 dB (listing figure)",
+    "Connectivity": "2.4 GHz Wi-Fi gateway, 433 MHz link to sensors",
+    "Sensors in box": "3 (gateway supports up to 10)",
+    "Power": "Gateway plugs in; sensors use batteries",
+    "Water rating": "IP66/IP67 per retailer listings"
+   },
+   "scores": {
+    "install": 9,
+    "reversibility": 10,
+    "value": 9,
+    "compatibility": 6,
+    "portability": 9
+   },
+   "scoreNote": "Loose sensors and a plug-in gateway leave no marks and pack up on move-out; value is strong but it is 2.4 GHz only with limited smart home reach.",
+   "owners": {
+    "read": 2,
+    "praise": [
+     "Easy setup and quick text/email alerts when tested",
+     "Good value for a multi-sensor pack"
+    ],
+    "complaints": [
+     "2.4 GHz-only Wi-Fi and fiddly pairing",
+     "No local Home Assistant integration, and a persistent low-battery chirp reported"
+    ],
+    "sources": [
+     {
+      "title": "Home Assistant community: Govee WiFi Water Sensor",
+      "url": "https://community.home-assistant.io/t/govee-wifi-water-sensor/213277"
+     },
+     {
+      "title": "Baby Bargains: best water leak detector",
+      "url": "https://www.babybargains.com/best-water-leak-detector/"
+     }
+    ]
+   },
+   "sources": [
+    "https://thisoldhouse.com/shop/89967/best-water-leak-detector",
+    "https://www.babybargains.com/best-water-leak-detector/",
+    "https://smarthome.reviewed.com/best-right-now/best-smart-water-leak-detectors",
+    "https://www.bobvila.com/articles/best-water-leak-detector/",
+    "https://us.govee.com/es/collections/smart-sensor/products/wireless-water-leak-detector",
+    "https://community.home-assistant.io/t/govee-wifi-water-sensor/213277"
+   ]
+  },
+  {
+   "name": "YoLink Water Leak Sensor 4 Starter Kit (Hub + 4 Sensors)",
+   "brand": "YoLink",
+   "query": "YoLink Water Leak Starter Kit Hub 4 Leak Sensor 4 105dB siren LoRa",
+   "matchName": "YoLink Water Leak Starter Kit",
+   "badge": "Best for big or thick-walled apartments",
+   "summary": "A hub plus four sensors with 105 dB sirens that talk over long-range LoRa instead of Wi-Fi. It suits a renter with a basement unit, a far-off laundry room or weak Wi-Fi under the sink.",
+   "renterNote": "Sensors sit loose and the hub plugs in, so it leaves nothing behind. Caveat: it needs the YoLink hub on Ethernet or 2.4 GHz Wi-Fi and exact kit contents vary by listing, so match the Leak Sensor 4 kit.",
+   "pros": [
+    "LoRa link reaches where Wi-Fi struggles (listings claim up to a quarter mile open air)",
+    "Each Leak Sensor 4 has a built-in 105 dB siren and up to about 5 years claimed on 2 AAA",
+    "Works with Alexa and IFTTT, and can grow to other YoLink devices"
+   ],
+   "cons": [
+    "Needs the hub and its own app, so it costs more than a no-hub pack",
+    "Range figures differ between listings, so treat them as maximums"
+   ],
+   "specs": {
+    "Kit": "1 hub + 4 Leak Sensor 4",
+    "Alarm": "105 dB per sensor",
+    "Connectivity": "LoRa to hub; hub on Ethernet or 2.4 GHz Wi-Fi",
+    "Power": "2 AAA per sensor, up to 5 years claimed"
+   },
+   "scores": {
+    "install": 8,
+    "reversibility": 10,
+    "value": 7,
+    "compatibility": 8,
+    "portability": 8
+   },
+   "scoreNote": "No adhesive or tools, great range and integrations; extra hub and higher kit cost hold back value and install.",
+   "sources": [
+    "https://thisoldhouse.com/shop/89967/best-water-leak-detector",
+    "https://www.bobvila.com/articles/best-water-leak-detector/",
+    "https://reviehub.com/?p=10139",
+    "https://www.mayfairfarms.com/?p=35120",
+    "https://shopsavvy.com/reviews-tldr/\"yolink-hub-with-leak-sensors\".md"
+   ]
+  },
+  {
+   "name": "SwitchBot Water Leak Detector",
+   "brand": "SwitchBot",
+   "query": "SwitchBot Water Leak Detector WiFi Bluetooth",
+   "matchName": "SwitchBot Water Leak Detector",
+   "badge": "Best budget, no hub",
+   "summary": "A single small Wi-Fi sensor with a loud alarm and app alerts that needs no hub. It suits a renter who wants one cheap sensor under the sink or beside the washer.",
+   "renterNote": "It sits loose on the floor on 2 AAA batteries, so there is nothing to remove. Caveat: it is one sensor per unit, and one tester reported missed push alerts on cellular.",
+   "pros": [
+    "Connects straight to Wi-Fi with no hub, per SwitchBot's pages",
+    "IP67 housing and alarm around 80-100 dB depending on source",
+    "Works with Alexa, Google Assistant and IFTTT, and fits SwitchBot automations"
+   ],
+   "cons": [
+    "One tester found push alerts did not arrive away from home on cellular",
+    "Sources disagree on whether a Hub Mini is needed for voice and automations"
+   ],
+   "specs": {
+    "Power": "2 AAA, up to 2 years claimed",
+    "Water rating": "IP67",
+    "Size": "78 x 29 x 32 mm",
+    "Connectivity": "Wi-Fi (Bluetooth for setup)"
+   },
+   "scores": {
+    "install": 9,
+    "reversibility": 10,
+    "value": 8,
+    "compatibility": 7,
+    "portability": 10
+   },
+   "scoreNote": "Hub-free and loose-placement; compact enough to move, but single-sensor units add up and alert reliability reports are mixed.",
+   "owners": {
+    "read": 1,
+    "praise": [
+     "No hub and simple placement",
+     "Budget price versus kits"
+    ],
+    "complaints": [
+     "Push notifications missed on cellular in one test",
+     "Alarm measured quieter than the 100 dB claim in one test (80 dB)"
+    ],
+    "sources": [
+     {
+      "title": "Bob Vila: We Tested the Best Water Leak Detectors",
+      "url": "https://www.bobvila.com/articles/flood-alarms"
+     }
+    ]
+   },
+   "sources": [
+    "https://www.bobvila.com/articles/flood-alarms",
+    "https://www.switch-bot.com/products/switchbot-water-leak-detector",
+    "https://smarthomeunlocked.com/articles/best-smart-water-leak-detectors-2026",
+    "https://www.mayfairfarms.com/?p=35120"
+   ]
+  },
+  {
+   "name": "Eve Water Guard",
+   "brand": "Eve",
+   "query": "Eve Water Guard connected water leak detector HomeKit Thread",
+   "matchName": "Eve Water Guard",
+   "badge": "Best for Apple Home",
+   "summary": "A powered base with a 6.5 ft sensing cable that triggers a 100 dB alarm and HomeKit alerts. It suits a renter with an iPhone who wants to run a cable along a dishwasher, fridge line or water heater.",
+   "renterNote": "It plugs into an outlet and the cable lies on the floor, so it leaves nothing behind. Caveat: Apple Home only (no Alexa, Google or SmartThings) and it needs a nearby outlet.",
+   "pros": [
+    "Sensing cable catches water along its whole 6.5 ft length",
+    "Thread and Bluetooth with no bridge or cloud account",
+    "100 dB alarm and HomeKit automations"
+   ],
+   "cons": [
+    "Apple ecosystem only, and remote access/automations need a home hub",
+    "Wired power limits placement"
+   ],
+   "specs": {
+    "Cable": "6.5 ft (2 m) sensing cable, extensions sold separately",
+    "Alarm": "100 dB",
+    "Connectivity": "Bluetooth and Thread, HomeKit",
+    "Power": "Plug-in"
+   },
+   "scores": {
+    "install": 8,
+    "reversibility": 10,
+    "value": 6,
+    "compatibility": 5,
+    "portability": 8
+   },
+   "scoreNote": "Loose cable and plug-in base are fully reversible; Apple-only support, outlet needed and higher cost lower compatibility and value.",
+   "owners": {
+    "read": 2,
+    "praise": [
+     "Long sensing cable covers more floor than a spot sensor",
+     "Reliable HomeKit alerts with no cloud account"
+    ],
+    "complaints": [
+     "Needs constant wall power",
+     "A small share of buyers report connection failures"
+    ],
+    "sources": [
+     {
+      "title": "iPhone Life: Review of Eve Water Guard",
+      "url": "https://iphonelife.com/content/eve-water-guard-review-0"
+     },
+     {
+      "title": "Smart Home Compared: Eve Water Guard",
+      "url": "https://smarthomecompared.com/water-leak-sensors/eve-water-guard"
+     }
+    ]
+   },
+   "sources": [
+    "https://smarthome.reviewed.com/best-right-now/best-smart-water-leak-detectors",
+    "https://thisoldhouse.com/shop/89967/best-water-leak-detector",
+    "https://www.bobvila.com/articles/best-water-leak-detector/",
+    "https://www.techhive.com/article/616306/eve-water-guard-boasts-thread-connectivity.html",
+    "https://iphonelife.com/content/eve-water-guard-review-0",
+    "https://smarthomecompared.com/water-leak-sensors/eve-water-guard"
+   ]
+  },
+  {
+   "name": "Flo by Moen Smart Water Detector",
+   "brand": "Moen",
+   "query": "Flo by Moen Smart Water Detector",
+   "matchName": "Flo by Moen Smart Water Detector",
+   "badge": "Best app and monitoring",
+   "summary": "A Wi-Fi puck sensor that connects directly to your network, also reads temperature and humidity and sends alerts to phone and email. It suits a renter who wants one polished sensor and may never add Moen's shutoff.",
+   "renterNote": "It sits on the floor and needs no hub; do not buy the Moen shutoff valve, which is plumbed in. Caveat: no Alexa, Google or HomeKit support, and Amazon availability and exact model number need a check before publishing.",
+   "pros": [
+    "Wi-Fi without a hub, with temperature and humidity monitoring",
+    "Fast alerts to iOS, Android and email per Reviewed",
+    "Can pair with a Moen shutoff if you later own a home"
+   ],
+   "cons": [
+    "No smart assistant or IFTTT integration, per TechHive and Reviewed",
+    "Reviews of Moen's wider Flo line report false alarms and weak support"
+   ],
+   "specs": {
+    "Connectivity": "Wi-Fi, no hub",
+    "Monitoring": "Water, temperature, humidity",
+    "Power": "Batteries (sources disagree on type)"
+   },
+   "scores": {
+    "install": 9,
+    "reversibility": 10,
+    "value": 6,
+    "compatibility": 4,
+    "portability": 9
+   },
+   "scoreNote": "Loose placement and no hub, but pricey per sensor with no smart assistant support.",
+   "owners": {
+    "read": 3,
+    "praise": [
+     "Reliable leak detection once set up",
+     "Temperature and humidity readings are a bonus"
+    ],
+    "complaints": [
+     "Higher price per sensor",
+     "Reports of dead batteries on arrival and unreliable false alarms in Moen's wider Flo line"
+    ],
+    "sources": [
+     {
+      "title": "TechHive: Flo by Moen Smart Water Detector review",
+      "url": "https://www.techhive.com/article/578595/flo-by-moen-smart-water-detector-review.html"
+     },
+     {
+      "title": "Looria: Flo by Moen Smart Water Detector review summary",
+      "url": "https://www.looria.com/review/flo-by-moen-smart-water-detector",
+      "reviews": 53
+     },
+     {
+      "title": "Kimola: Moen Flo Detector feedback report (summary of Amazon review themes)",
+      "url": "https://kimola.com/reports/moen-flo-detector-feedback-report-insights-analysis-amazon-en-us-142322"
+     }
+    ]
+   },
+   "sources": [
+    "https://www.tomsguide.com/best-picks/best-water-leak-detectors",
+    "https://smarthome.reviewed.com/best-right-now/best-smart-water-leak-detectors",
+    "https://www.techhive.com/article/578595/flo-by-moen-smart-water-detector-review.html",
+    "https://www.looria.com/review/flo-by-moen-smart-water-detector"
+   ]
+  }
+ ],
+ "serpProducts": [
+  {
+   "name": "Govee WiFi Water Sensor (H5040)",
+   "pages": [
+    "https://thisoldhouse.com/shop/89967/best-water-leak-detector",
+    "https://www.babybargains.com/best-water-leak-detector/",
+    "https://smarthome.reviewed.com/best-right-now/best-smart-water-leak-detectors",
+    "https://www.bobvila.com/articles/best-water-leak-detector/",
+    "https://bestreviews.com/home/safety/best-water-leak-sensors"
+   ]
+  },
+  {
+   "name": "YoLink Water Leak Starter Kit",
+   "pages": [
+    "https://thisoldhouse.com/shop/89967/best-water-leak-detector",
+    "https://www.bobvila.com/reviews/best-water-leak-detectors/",
+    "https://reviehub.com/?p=10139"
+   ]
+  },
+  {
+   "name": "Eve Water Guard",
+   "pages": [
+    "https://smarthome.reviewed.com/best-right-now/best-smart-water-leak-detectors",
+    "https://thisoldhouse.com/shop/89967/best-water-leak-detector",
+    "https://www.bobvila.com/reviews/best-water-leak-detectors/"
+   ]
+  },
+  {
+   "name": "Flo by Moen Smart Water Detector",
+   "pages": [
+    "https://www.tomsguide.com/best-picks/best-water-leak-detectors",
+    "https://smarthome.reviewed.com/best-right-now/best-smart-water-leak-detectors",
+    "https://www.techhive.com/article/582570/best-water-leak-detectors-for-smart-homes.html"
+   ]
+  },
+  {
+   "name": "SwitchBot Water Leak Detector",
+   "pages": [
+    "https://www.bobvila.com/reviews/best-water-leak-detectors/",
+    "https://smarthomeunlocked.com/articles/best-smart-water-leak-detectors-2026",
+    "https://www.mayfairfarms.com/?p=35120"
+   ]
+  },
+  {
+   "name": "Shelly Flood Gen4 (near miss)",
+   "pages": [
+    "https://www.bobvila.com/reviews/best-water-leak-detectors/",
+    "https://smarthomematrix.com/best-water-leak-detector/"
+   ]
+  },
+  {
+   "name": "Ring Alarm Flood & Freeze Sensor (near miss)",
+   "pages": [
+    "https://smarthome.reviewed.com/best-right-now/best-smart-water-leak-detectors",
+    "https://www.tomsguide.com/best-picks/best-water-leak-detectors"
+   ]
+  },
+  {
+   "name": "TP-Link Tapo T300 (near miss)",
+   "pages": [
+    "https://gulfnews.com/best-buys/home-and-kitchen/e-1.500197479",
+    "https://www.mayfairfarms.com/?p=35120"
+   ]
+  },
+  {
+   "name": "Kidde 60WLDR-W (near miss)",
+   "pages": [
+    "https://www.bobvila.com/reviews/best-water-leak-detectors/"
+   ]
+  }
+ ]
+}

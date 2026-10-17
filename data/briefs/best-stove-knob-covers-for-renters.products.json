@@ -1,0 +1,73 @@
+{
+ "status": "THIN EVIDENCE: WebFetch was blocked and WebSearch is not Google, so the true top-10 could not be read. Search results were dominated by low-quality or auto-generated pages. Only Safety 1st and Vadiff are named by 2+ real pages seen; Jool is weaker (one roundup plus a Babylist retailer product page). 3 products returned (roundup minimum); productCount 5 not reachable. Fit for renters is inferred from non-adhesive/removable design; no source in hand speaks to renters specifically except one NYC HPD notice.",
+ "products": [
+  {
+   "name": "Safety 1st Clear View Stove Knob Covers (5 Pack)",
+   "brand": "Safety 1st",
+   "query": "Safety 1st Clear View Stove Knob Covers 5 pack",
+   "matchName": "Safety 1st Clear View Stove Knob Covers",
+   "badge": "Best overall no-adhesive cover",
+   "summary": "A set of five clear, heat-resistant plastic covers with a hinged lid that adults can open to turn the knob. Safety 1st describes them as oversized to fit the knobs of most modern appliances and as a non-adhesive attachment. Consumer Reports names Safety 1st stove knob covers among the products it tested, and BestReviews picks a Safety 1st five-pack as its budget pick.",
+   "renterNote": "Suits a renter with a child or pet and removable knobs who wants nothing stuck to the stove. Caveat: one reviewer-cited issue is that the open lid can touch the oven door, the package says to remove them before using the broiler, and Safety 1st warns of minor surface marks on delicate finishes.",
+   "pros": ["Non-adhesive attachment that is simple to remove, per Safety 1st and BestReviews", "Clear plastic lets you see the knob setting, per the retailer listing text"],
+   "cons": ["Open lid can interfere with the oven door, per a reviewer on a retailer listing", "Must be removed for broiler use per the package; Consumer Reports found covers in general only deter children"],
+   "scores": {"install": 8, "reversibility": 9, "value": 8, "portability": 7},
+   "scoreNote": "Non-adhesive and removable, about two dollars per cover on a Walmart listing seen; fit depends on removable knobs.",
+   "owners": {"read": 0, "praise": [], "complaints": [], "sources": []},
+   "sources": [
+    "https://safety1st.com/products/clear-view-stove-knob-covers-5-pack-48409",
+    "https://www.consumerreports.org/babyproofing/best-stove-knob-covers-and-locks-for-babyproofing-a5834811824/",
+    "https://bestreviews.com/articles/baby-and-kids/health-safety/baby-best-stove-knob-covers",
+    "https://www.mayfairfarms.com/?p=36115",
+    "https://www.bestbuy.com/product/safety-1st-clear-plastic-stove-knob-covers-5-pk/J7L6WYRV6K"
+   ]
+  },
+  {
+   "name": "Vadiff Silicone Gas Stove Knob Locks (5 Pack)",
+   "brand": "Vadiff",
+   "query": "Vadiff silicone stove knob covers 5 pack",
+   "matchName": "Vadiff Silicone Stove Knob Locks",
+   "badge": "Best silicone, heat-resistant pick",
+   "summary": "Food-grade silicone covers that slide over the knobs, listed at 430F heat resistance and dishwasher safe. Consumer Reports' photo lists Vadiff among the tested products, and a roundup names it the premium pick. Vadiff says the set covers S-M-L knobs for push-turn, flat-panel configurations.",
+   "renterNote": "Suits a renter with push-to-turn gas knobs on a flat panel who wants a washable, nothing-glued option. Caveat: a Suburban RV owner with pull-off knobs had to wrap the shafts in foil so the locks would not push the knobs off, so check how your knobs are held.",
+   "pros": ["Silicone listed at 430F and dishwasher safe", "Slide-on, no adhesive mentioned in the listing text seen"],
+   "cons": ["Fit depends on knob type; may force loose pull-off knobs off, per one owner thread", "Consumer Reports ranking for it was not visible behind its paywall"],
+   "scores": {"install": 7, "reversibility": 9, "value": 7, "portability": 8},
+   "scoreNote": "Washable and removable, but fit is knob-specific and independent verdict not confirmed.",
+   "owners": {"read": 1, "praise": [], "complaints": ["Pull-off knobs can be pushed off; one owner added foil around the shafts", "Needed a 180-degree rotation and firm press to stop accidental turning"], "sources": [{"title": "Suburban gas range accidentally turned on (Winnebago Owners forum)", "url": "https://www.winnieowners.com/threads/suburban-gas-range-accidentally-turned-on.727372/"}]},
+   "sources": [
+    "https://www.consumerreports.org/babyproofing/best-stove-knob-covers-and-locks-for-babyproofing-a5834811824/",
+    "https://www.mayfairfarms.com/?p=36115",
+    "https://www.walmart.com/ip/180958902",
+    "https://www.winnieowners.com/threads/suburban-gas-range-accidentally-turned-on.727372/"
+   ]
+  },
+  {
+   "name": "Jool Baby Clear Stove Knob Covers (5 Pack)",
+   "brand": "Jool Baby",
+   "query": "Jool Baby clear stove knob covers 5 pack",
+   "matchName": "Jool Baby Clear Stove Knob Covers",
+   "badge": "Clear hinged alternative",
+   "summary": "Clear hinged covers with a large universal design that Babylist's product page says fits most standard knobs. A roundup describes them as a snap-on cover with adhesive included.",
+   "renterNote": "Suits a renter wanting a clear cover and willing to skip the adhesive. Caveat: adhesive is included per one roundup, so a renter should confirm it is optional; one buyer found the hinges flimsy and another could not fit stuck knobs.",
+   "pros": ["Large universal design, per Babylist", "Hinged lid lets adults use the knob without taking the cover off"],
+   "cons": ["Reviewers report thin plastic and flimsy hinges", "Evidence thin: only one roundup plus a Babylist product page"],
+   "scores": {"install": 7, "reversibility": 7, "value": 6, "portability": 7},
+   "scoreNote": "Reversibility depends on whether the adhesive is used; durability complaints lower value.",
+   "owners": {"read": 0, "praise": [], "complaints": [], "sources": []},
+   "sources": [
+    "https://babylist.com/gp/jool-baby-clear-stove-knob-covers-5-pack/26635/1270809",
+    "https://www.mayfairfarms.com/?p=36115",
+    "https://www.walmart.com/ip/Jool-Baby-Clear-Stove-Knob-Covers-Child-Safety-Guards-5-Pack/465283799"
+   ]
+  }
+ ],
+ "serpProducts": [
+  {"name": "Safety 1st Clear View Stove Knob Covers", "pages": ["https://www.consumerreports.org/babyproofing/best-stove-knob-covers-and-locks-for-babyproofing-a5834811824/", "https://bestreviews.com/articles/baby-and-kids/health-safety/baby-best-stove-knob-covers", "https://www.mayfairfarms.com/?p=36115"]},
+  {"name": "Vadiff Silicone Stove Knob Locks", "pages": ["https://www.consumerreports.org/babyproofing/best-stove-knob-covers-and-locks-for-babyproofing-a5834811824/", "https://www.mayfairfarms.com/?p=36115"]},
+  {"name": "Jool Baby Clear Stove Knob Covers (weak: roundup + Babylist product page)", "pages": ["https://www.mayfairfarms.com/?p=36115", "https://babylist.com/gp/jool-baby-clear-stove-knob-covers-5-pack/26635/1270809"]},
+  {"name": "Driddle Clear Stove Knob Covers (1 page only, excluded)", "pages": ["https://bestreviews.com/articles/baby-and-kids/health-safety/baby-best-stove-knob-covers"]},
+  {"name": "KidCo S323 Stove Knob Covers (1 page only, excluded)", "pages": ["https://www.consumerreports.org/babyproofing/best-stove-knob-covers-and-locks-for-babyproofing-a5834811824/"]},
+  {"name": "Lwuzkdo wedge 5-pack / Dabormi (1 roundup only, excluded)", "pages": ["https://www.mayfairfarms.com/?p=36115"]}
+ ]
+}

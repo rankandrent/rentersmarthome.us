@@ -1,0 +1,290 @@
+{
+  "centralEntity": "sliding glass door security for renters",
+  "entityVariants": [
+    "patio door",
+    "sliding door",
+    "slider",
+    "sliding glass door lock",
+    "apartment balcony door"
+  ],
+  "entities": [
+    {
+      "name": "security bar (charley bar)",
+      "type": "hardware",
+      "relation": "folding or telescoping bar that blocks the door from sliding open"
+    },
+    {
+      "name": "wooden dowel / broom handle",
+      "type": "hardware",
+      "relation": "cheapest track blocker cut to fit the bottom track"
+    },
+    {
+      "name": "sliding door track lock / foot lock",
+      "type": "hardware",
+      "relation": "clamps or screws to the rail, allows vented position"
+    },
+    {
+      "name": "anti-lift pin / screw",
+      "type": "hardware",
+      "relation": "stops the door being lifted out of its track"
+    },
+    {
+      "name": "door jammer / portable lock",
+      "type": "hardware",
+      "relation": "no-install brace for the door"
+    },
+    {
+      "name": "window contact sensor",
+      "type": "device",
+      "relation": "adhesive two-piece alarm that detects the door opening"
+    },
+    {
+      "name": "door/window alarm",
+      "type": "device",
+      "relation": "siren sensor with adhesive mount"
+    },
+    {
+      "name": "security window film",
+      "type": "material",
+      "relation": "holds shattered glass together; may need landlord approval"
+    },
+    {
+      "name": "lease alterations clause",
+      "type": "legal",
+      "relation": "governs permanent modifications to doors"
+    },
+    {
+      "name": "landlord written approval",
+      "type": "legal",
+      "relation": "required before drilling or replacing locks"
+    },
+    {
+      "name": "security deposit",
+      "type": "legal",
+      "relation": "damage from install can be deducted"
+    },
+    {
+      "name": "Wyze Sense / Ring / SimpliSafe contact sensor",
+      "type": "brand",
+      "relation": "renter-friendly smart sensors"
+    },
+    {
+      "name": "Matter/Zigbee sensor",
+      "type": "protocol",
+      "relation": "smart-home integration for door alerts"
+    }
+  ],
+  "attributes": [
+    "no-drill install",
+    "cost",
+    "removable",
+    "works with ventilation gap",
+    "visibility/aesthetics",
+    "strength vs forced entry",
+    "child/pet safe",
+    "lease/landlord approval",
+    "fits track width",
+    "alerts and siren volume"
+  ],
+  "ngrams": [
+    "sliding glass door",
+    "secure a sliding glass door",
+    "sliding door lock",
+    "security bar",
+    "door security bar",
+    "bottom track",
+    "no-drill",
+    "track lock",
+    "door jammer",
+    "renter-friendly",
+    "landlord permission",
+    "security film",
+    "door alarm",
+    "pet door",
+    "patio door"
+  ],
+  "skipgrams": [
+    "dowel\u2026track",
+    "bar\u2026track",
+    "lift\u2026track",
+    "lock\u2026landlord",
+    "door\u2026alarm",
+    "sensor\u2026adhesive",
+    "film\u2026glass",
+    "security\u2026deposit",
+    "jammer\u2026floor",
+    "lease\u2026modifications",
+    "glass\u2026shatter",
+    "sliding\u2026vented"
+  ],
+  "nlpTerms": [
+    "track",
+    "dowel",
+    "charley bar",
+    "latch",
+    "stile",
+    "rail",
+    "anti-lift",
+    "forced entry",
+    "burglar",
+    "deterrent",
+    "adhesive",
+    "removable",
+    "landlord",
+    "lease",
+    "deposit",
+    "tempered glass",
+    "window film",
+    "alarm",
+    "sensor",
+    "vent",
+    "balcony",
+    "ground floor",
+    "patio",
+    "pin lock",
+    "strike plate",
+    "secondary lock"
+  ],
+  "questions": [
+    "How can I secure a sliding glass door without drilling?",
+    "What is the best way to block a sliding glass door from the inside?",
+    "Can burglars lift a sliding glass door off its track?",
+    "Is a broom handle in the track enough?",
+    "Do I need landlord permission to add a lock to a sliding door?",
+    "How do I lock a sliding door but keep it open for air?",
+    "Does security film stop break-ins?",
+    "How do I alarm a sliding door in an apartment?"
+  ],
+  "contentGaps": [
+    "Lease clauses and how to ask a landlord in writing (sample wording)",
+    "Which fixes are fully removable vs need approval (a tiered table)",
+    "Restoring the door and deposit protection at move-out",
+    "Fire egress and emergency exit concerns for bars and jammers",
+    "Ground-floor vs upper-floor risk, and what to do if the factory latch is broken (request repair, landlord's duty)",
+    "Pets and kids with vented-door locks",
+    "Smart door sensor alerts without a subscription"
+  ],
+  "outline": [
+    {
+      "h2": "How to Secure a Sliding Glass Door in a Rental: the Quick Answer",
+      "intent": "direct answer / snippet",
+      "h3": [
+        "Why sliding doors are the weak spot",
+        "Fix-it-first: check the factory latch"
+      ]
+    },
+    {
+      "h2": "Check Your Lease and Ask Your Landlord First",
+      "intent": "renter constraint",
+      "h3": [
+        "Which fixes need no permission",
+        "Sample request wording"
+      ]
+    },
+    {
+      "h2": "4 Renter-Friendly Ways to Secure a Sliding Glass Door",
+      "intent": "product picks / methods",
+      "h3": [
+        "Security bar (charley bar)",
+        "Track lock or door jammer",
+        "Adhesive door/window alarm or contact sensor",
+        "Anti-lift pin and security film"
+      ]
+    },
+    {
+      "h2": "Comparison: Cost, Install and Removability",
+      "intent": "compare",
+      "h3": []
+    },
+    {
+      "h2": "How to Choose the Right Sliding Door Security",
+      "intent": "buying guide",
+      "h3": [
+        "Vent gap vs full lock",
+        "Kids, pets and fire egress",
+        "Smart alerts and subscriptions"
+      ]
+    },
+    {
+      "h2": "How to Install Each Fix Step by Step",
+      "intent": "how-to",
+      "h3": [
+        "Measure the track",
+        "Install without drilling"
+      ]
+    },
+    {
+      "h2": "Moving Out: Removing Everything and Protecting Your Deposit",
+      "intent": "renter gap",
+      "h3": []
+    },
+    {
+      "h2": "FAQ",
+      "intent": "PAA",
+      "h3": []
+    }
+  ],
+  "targetWords": 1300,
+  "secondaryKeywords": [
+    "how to secure a sliding glass door without drilling",
+    "how to lock a sliding glass door from the inside",
+    "sliding glass door security bar",
+    "how to secure a patio door in an apartment",
+    "sliding door lock for renters"
+  ],
+  "internalLinkCandidates": [
+    {
+      "slug": "best-smart-lock-for-renters",
+      "title": "Best Smart Locks for Renters in 2026 (Reversible Picks)"
+    },
+    {
+      "slug": "best-peephole-camera-for-apartments",
+      "title": "Best Peephole Cameras for Apartments: No-Drill Door Security"
+    },
+    {
+      "slug": "best-wireless-security-cameras-for-apartments",
+      "title": "Best Wireless Security Cameras for Apartments in 2026"
+    },
+    {
+      "slug": "smart-home-for-renters",
+      "title": "Smart Home for Renters: The Complete No-Drill Guide"
+    },
+    {
+      "slug": "wyze-vs-ring-vs-eufy-for-renters",
+      "title": "Wyze vs Ring vs Eufy for Renters"
+    },
+    {
+      "slug": "ring-doorbell-in-apartment",
+      "title": "Can You Put a Ring Doorbell on an Apartment?"
+    }
+  ],
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.bobvila.com/articles/how-to-secure-a-sliding-glass-door/",
+      "https://dummies.com/home-garden/home-security/how-to-secure-a-sliding-glass-door",
+      "https://www.bobvila.com/articles/apartment-door-security/",
+      "https://blog.zositech.com/?p=74245",
+      "https://www.journeymanhq.com/?p=720903",
+      "https://www.forrent.com/blog/apartment-life/protecting-home-protecting-wallet-5-inexpensive-ways-help-keep-apartment-secure/",
+      "https://engineerfix.com/how-to-secure-an-apartment-doors-devices-and-habits/"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "Top results explain each method (dowel, bar, track lock, alarm) in a short written paragraph with install tips, not formal pros/cons or spec tables.",
+    "avgWords": 1100,
+    "avgProducts": 5,
+    "commonSections": [
+      "why sliding doors are vulnerable",
+      "block the track (dowel/bar)",
+      "track/foot locks",
+      "anti-lift measures",
+      "security film",
+      "alarms/sensors",
+      "check existing lock",
+      "renter/landlord note"
+    ],
+    "usesComparisonTable": false,
+    "usesFaq": true,
+    "usesBuyingGuide": false,
+    "note": "Based on WebSearch result snippets only (WebFetch blocked, Ahrefs unavailable); avgWords and avgProducts are estimates."
+  }
+}

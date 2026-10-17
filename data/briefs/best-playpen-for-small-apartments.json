@@ -1,0 +1,65 @@
+{
+  "centralEntity": "playpen for small apartments",
+  "entityVariants": ["baby playpen", "play yard", "playard", "Pack 'n Play", "play pen", "play space", "baby play yard for small spaces"],
+  "entities": [
+    {"name": "Evenflo Versatile Play Space", "type": "product", "relation": "6-panel configurable play yard often picked for studios and one-bedrooms"},
+    {"name": "Regalo My Play", "type": "product", "relation": "budget 6-panel playpen that folds flat"},
+    {"name": "Graco Pack 'n Play On The Go", "type": "product", "relation": "compact play yard with a newborn bassinet option"},
+    {"name": "Fodoss Baby Playpen", "type": "product", "relation": "value mesh-sided square playpen with suction cup feet"},
+    {"name": "G TALECO GEAR Foldable Playpen", "type": "product", "relation": "larger footprint, tool-free fold metal-frame playpen"},
+    {"name": "mesh sides", "type": "feature", "relation": "breathable panels that give sightlines across a small room"},
+    {"name": "fold dimensions", "type": "attribute", "relation": "determines whether it fits a closet or behind a door"},
+    {"name": "play mat", "type": "accessory", "relation": "padding for hard floors under a playpen"},
+    {"name": "suction cups", "type": "feature", "relation": "hold a playpen steady on hardwood"},
+    {"name": "ASTM F406", "type": "standard", "relation": "US safety standard for play yards"},
+    {"name": "CPSC", "type": "organization", "relation": "US regulator for children's product safety"},
+    {"name": "hardwood floor", "type": "renter concept", "relation": "surface renters need to protect from scuffs"},
+    {"name": "baby gate", "type": "product", "relation": "alternative for blocking off a zone"},
+    {"name": "lease", "type": "renter concept", "relation": "rental agreement that limits permanent changes"},
+    {"name": "bassinet", "type": "feature", "relation": "newborn sleep insert on some play yards"}
+  ],
+  "attributes": ["folded size", "footprint", "weight", "setup time", "mesh visibility", "door or gate panel", "stability", "floor protection", "age range", "price", "portability", "configurable shape"],
+  "ngrams": ["playpen for small apartments", "small spaces", "baby playpen", "play yard", "folds flat", "mesh sides", "play area", "foldable playpen", "6-panel", "fits in a closet", "hardwood floors", "pack n play"],
+  "skipgrams": ["playpen…closet", "fold…flat", "mesh…sides", "play…yard", "small…apartment", "suction…hardwood", "step…over"],
+  "nlpTerms": ["footprint", "foldable", "panels", "mesh", "crawler", "toddler", "newborn", "bassinet", "closet", "hardwood", "mat", "assembly", "stability", "sightlines", "studio", "renters", "portable", "ASTM", "lightweight"],
+  "questions": ["What is the best playpen for a small apartment?", "How big is a playpen when folded?", "Can a playpen stay on hardwood floors without sliding or scuffing?", "How long can a baby use a playpen?", "Is a playpen or a baby gate better for small spaces?", "Do I need a mat under a playpen?"],
+  "contentGaps": ["measuring your floor space and how much room a playpen leaves in a studio", "protecting rental floors (hardwood scuffs, suction cups on tile)", "where to store a folded playpen in a small apartment", "playpen vs baby gate to zone a room", "when to retire a playpen and age limits", "configurable shapes for corners and walls", "noise and stability on thin apartment floors"],
+  "outline": [
+    {"h2": "Best playpens for small apartments: the quick answer", "intent": "direct answer and top pick", "h3": []},
+    {"h2": "Our top picks", "intent": "product picks", "h3": ["Evenflo Versatile Play Space", "Regalo My Play 6-Panel", "Graco Pack 'n Play On The Go", "Fodoss Baby Playpen", "G TALECO GEAR Foldable Playpen"]},
+    {"h2": "Playpen comparison at a glance", "intent": "comparison table of footprint, fold size, age range", "h3": []},
+    {"h2": "How to choose a playpen for a small space", "intent": "buying guide", "h3": ["Footprint and folded size", "Mesh sides and sightlines", "Door panel vs step-over", "Weight and portability"]},
+    {"h2": "How to measure your floor space first", "intent": "information gain", "h3": []},
+    {"h2": "Protecting rental floors", "intent": "renter angle", "h3": ["Hardwood and mats", "Suction cups on tile"]},
+    {"h2": "Playpen vs baby gate in a small apartment", "intent": "alternative and internal links", "h3": []},
+    {"h2": "Where to store a playpen", "intent": "information gain", "h3": []},
+    {"h2": "Frequently asked questions", "intent": "FAQ", "h3": []}
+  ],
+  "targetWords": 1450,
+  "secondaryKeywords": ["best baby playpen for small spaces", "play yard for apartments", "foldable playpen", "space saving baby playpen", "small space playpen"],
+  "internalLinkCandidates": [
+    {"slug": "best-pressure-mounted-baby-gate-for-renters", "anchor": "pressure mounted baby gate for renters", "reason": "gate as the alternative for zoning a room"},
+    {"slug": "how-to-baby-proof-a-rental-without-damage", "anchor": "baby proof a rental without damage", "reason": "parent topic for renter baby-proofing"},
+    {"slug": "best-magnetic-cabinet-locks-for-renters", "anchor": "magnetic cabinet locks", "reason": "next baby-proofing step"},
+    {"slug": "best-voice-assistant-speaker-for-small-apartments", "anchor": "small-apartment speaker picks", "reason": "weak fit, optional"}
+  ],
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.peggyomara.com/best-baby-playpens-for-apartments/",
+      "https://www.peggyomara.com/best-baby-playpens-for-apartments-space-saving/",
+      "https://thewearify.com/?p=175202",
+      "https://stuckathomemom.com/reviews/best-playpen-for-small-spaces/",
+      "https://www.talkofthehouse.com/?p=17076",
+      "https://www.rosenberryrooms.com/best-play-yards-for-babies/"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "Top roundups describe each playpen with strengths and drawbacks (for example Evenflo has no door panel, Regalo is budget and folds flat, Graco has a bassinet but feels cramped past 12 months), which maps cleanly to What we like / What we don't like lists.",
+    "avgWords": 1300,
+    "avgProducts": 8,
+    "commonSections": ["quick picks", "product reviews with pros and cons", "comparison table", "buying guide (size, fold, mesh, stability)", "FAQ"],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true,
+    "note": "WebFetch was blocked, so structure was inferred from WebSearch result summaries and titles, not full page bodies. avgWords and avgProducts are estimates; most roundups list 7-10 products, while this post uses 5."
+  }
+}

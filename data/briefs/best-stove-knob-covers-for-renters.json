@@ -1,0 +1,78 @@
+{
+  "centralEntity": "stove knob covers",
+  "entityVariants": ["stove knob locks", "oven knob covers", "gas stove knob covers", "child safety stove knob covers", "stove knob protectors", "baby proof stove knob covers"],
+  "entities": [
+    {"name": "Safety 1st stove knob covers", "type": "product", "relation": "clear hinged plastic covers, sold as a 5-pack; most-cited baseline pick"},
+    {"name": "Vadiff silicone stove knob locks", "type": "product", "relation": "slide-over food-grade silicone covers rated about 430F"},
+    {"name": "KidCo stove knob covers (S323)", "type": "product", "relation": "clear covers tested by Consumer Reports"},
+    {"name": "Consumer Reports", "type": "organization", "relation": "publishes a babyproofing guide to stove knob covers and locks"},
+    {"name": "gas stove", "type": "appliance", "relation": "the main appliance these covers protect; knobs on the front panel"},
+    {"name": "electric range", "type": "appliance", "relation": "front or top-mounted knobs also need covers"},
+    {"name": "oven knob", "type": "component", "relation": "oven dial that may need a separate cover"},
+    {"name": "knob diameter and height", "type": "measurement", "relation": "decides fit; many covers fit under about 2.7 in by 2 in"},
+    {"name": "stove guard", "type": "product category", "relation": "alternative that blocks the front of the stove instead of covering knobs"},
+    {"name": "stove knob cover NYC rule", "type": "legal concept", "relation": "NYC landlords must supply covers for gas stoves in units with children under six, and on tenant request"},
+    {"name": "security deposit", "type": "concept", "relation": "why renters prefer tool-free, non-adhesive, removable covers"},
+    {"name": "landlord approval", "type": "concept", "relation": "stove knobs are landlord property; covers should be removable"}
+  ],
+  "attributes": ["tool-free install", "no adhesive or drilling", "fits knob size and shape", "heat resistance", "one-handed adult access", "child resistance", "visible burner status", "covers per pack", "closely spaced knobs overlap", "dishwasher safe", "removable at move-out", "fit for gas versus electric", "price per pack"],
+  "ngrams": ["stove knob covers", "gas stove knob covers", "child safety stove knob covers", "oven knob covers", "tool-free installation", "fits most knobs", "heat resistant silicone", "clear plastic covers", "measure your knobs", "stove knob locks", "baby proofing a rental"],
+  "skipgrams": ["knob…cover", "stove…toddler", "knob…diameter", "cover…hinged", "silicone…heat", "renter…landlord", "gas…burner", "install…tools", "knob…oven", "cover…adult"],
+  "nlpTerms": ["toddler", "burner", "gas stove", "oven", "silicone", "hinged lid", "child-resistant", "heat resistant", "universal fit", "measure", "knob diameter", "front-mounted knobs", "top-mounted knobs", "stove guard", "security deposit", "landlord", "move-out", "no tools", "dishwasher safe", "pack of 5"],
+  "questions": [
+    "Do stove knob covers work on every stove?",
+    "How do I measure my stove knobs for a cover?",
+    "Are silicone stove knob covers safe near heat?",
+    "Do stove knob covers damage a rental stove?",
+    "Does my landlord have to provide stove knob covers?",
+    "Are clear plastic or silicone stove knob covers better for toddlers?",
+    "Do stove knob covers fit front-mounted and top-mounted knobs?",
+    "Is a stove guard better than knob covers?"
+  ],
+  "contentGaps": [
+    "Landlord rules: NYC requires covers for gas stoves in units with children under six, and tenants can request them within 30 days; check local rules",
+    "Whether the stove is landlord property and why removable, non-adhesive covers keep the deposit safe",
+    "Knob shape and measurement walkthrough (round, D-shaped, oversized, front vs top mount)",
+    "Closely spaced knobs overlapping and when a stove guard is the better pick",
+    "Covers do not replace supervision or a gas shutoff, and are not a substitute for a stove lock on the oven door",
+    "Move-out day: removing covers, wiping residue, returning original knobs"
+  ],
+  "outline": [
+    {"h2": "Best Stove Knob Covers for Renters: Quick Picks", "intent": "Give the answer and top pick immediately with a summary table", "h3": ["Quick comparison table"]},
+    {"h2": "How We Chose These Stove Knob Covers", "intent": "Show testing criteria and trust", "h3": ["Renter-first criteria", "Sources checked"]},
+    {"h2": "The 5 Best Stove Knob Covers Reviewed", "intent": "Product-by-product guidance", "h3": ["Safety 1st stove knob covers", "Vadiff silicone stove knob locks", "KidCo stove knob covers", "Pick 4", "Pick 5"]},
+    {"h2": "How to Choose Stove Knob Covers", "intent": "Buying guide: type, fit, heat, adult access", "h3": ["Clear plastic vs silicone", "How to measure your knobs", "Gas stove vs electric range", "Closely spaced knobs"]},
+    {"h2": "Do Stove Knob Covers Damage a Rental Stove?", "intent": "Renter-specific install and deposit safety", "h3": ["Tool-free installation steps", "Asking your landlord"]},
+    {"h2": "Do Landlords Have to Provide Stove Knob Covers?", "intent": "Lease and legal gap, including the NYC rule", "h3": ["NYC stove knob cover rule", "Other cities: what to check"]},
+    {"h2": "Stove Knob Covers vs Stove Guards and Locks", "intent": "Alternatives and when to pair them", "h3": []},
+    {"h2": "Removing Stove Knob Covers at Move-Out", "intent": "Move-out checklist", "h3": []},
+    {"h2": "Stove Knob Cover FAQ", "intent": "PAA and long-tail questions", "h3": []},
+    {"h2": "Verdict: Which Stove Knob Covers Should You Buy?", "intent": "Choose X if / Y if verdict with links to related baby-proofing guides", "h3": []}
+  ],
+  "targetWords": 1450,
+  "secondaryKeywords": ["stove knob covers for babyproofing", "gas stove knob covers", "oven knob covers for toddlers", "child safety stove knob covers", "stove knob locks no tools"],
+  "internalLinkCandidates": [
+    {"slug": "how-to-baby-proof-a-rental-without-damage", "reason": "tofu parent guide for the baby-proofing cluster"},
+    {"slug": "best-magnetic-cabinet-locks-for-renters", "reason": "sibling roundup for kitchen cabinets"},
+    {"slug": "best-pressure-mounted-baby-gate-for-renters", "reason": "pair with a gate to keep kids out of the kitchen"},
+    {"slug": "best-smart-smoke-detector-for-apartments", "reason": "kitchen safety companion"}
+  ],
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.consumerreports.org/babyproofing/best-stove-knob-covers-and-locks-for-babyproofing-a5834811824/",
+      "https://www.mayfairfarms.com/?p=36115",
+      "https://www.journeymanhq.com/?p=476819",
+      "https://boutique.passionjardins.com/new-pulse/gas-stove-knob-covers-1770472629",
+      "https://www.walmart.com/ip/20684299"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "The templated roundups give each cover a short blurb plus bulleted strengths and drawbacks (for example fit on standard knobs, overlap on closely spaced knobs), and Consumer Reports frames picks around ease of install, cleaning and removal.",
+    "avgWords": 1250,
+    "avgProducts": 7,
+    "commonSections": ["quick picks summary", "product reviews with pros and cons", "comparison table", "buying guide (materials, fit, measuring)", "installation tips", "FAQ"],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true,
+    "note": "WebFetch was blocked, so structure was inferred from WebSearch snippets only (Consumer Reports page is paywalled). avgWords and avgProducts are estimates; Ahrefs was not used. Verify the products against the top-10 pages in step 3 before writing."
+  }
+}
