@@ -1,0 +1,13 @@
+{
+ "products": [],
+ "skip": true,
+ "skipReason": "Fewer than 3 products can be shown as recommended by at least 2 distinct top-10 pages with a single verifiable model. WebFetch was blocked, so pages were only seen through WebSearch summaries. The SERP is mostly affiliate-style roundups (abramsartists.com, pixelfy.me, restaurantstella.com, problemplant.com, talkofthehouse.com, piecesforhome.com, kidsavetheworld.com) and I read no owner reviews, so no product can honestly have owners.read >= 1.",
+ "serpProducts": [
+  {"name": "EUDEMON refrigerator/freezer door lock (1 pack, grey)", "pages": ["https://pixelfy.me/guides/home/best-fridge-door-lock/", "https://www.talkofthehouse.com/best-refrigerator-locks/"], "note": "only seen via search summaries; exact Amazon title/variant (single-door vs French-door) unconfirmed; owners not read"},
+  {"name": "NiceTCU 5-pack fridge lock", "pages": ["https://abramsartists.com/best-refrigerator-lock-child-proof/"], "note": "1 page seen; does not qualify"},
+  {"name": "QYESWHSR 5-pack fridge lock", "pages": ["https://pixelfy.me/guides/home/best-refrigerator-locks-for-children/"], "note": "1 page seen; does not qualify"},
+  {"name": "Safety 1st Multi-Purpose Appliance Latch", "pages": [], "note": "retailer/maker pages only; no ranking page confirmed"},
+  {"name": "Munchkin Xtraguard Dual Action Multi Use Latches", "pages": ["https://restaurantstella.com/best-fridge-lock-for-toddlers/"], "note": "1 page seen; does not qualify"},
+  {"name": "TIJTJHC 2-pack", "pages": ["https://www.talkofthehouse.com/best-refrigerator-locks/"], "note": "1 page seen; does not qualify"}
+ ]
+}

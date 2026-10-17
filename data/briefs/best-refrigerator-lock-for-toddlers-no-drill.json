@@ -1,0 +1,255 @@
+{
+  "centralEntity": "refrigerator lock for toddlers (no drill)",
+  "entityVariants": [
+    "fridge lock",
+    "fridge door lock for kids",
+    "adhesive fridge lock",
+    "child-proof refrigerator latch",
+    "freezer lock"
+  ],
+  "entities": [
+    {
+      "name": "adhesive fridge lock",
+      "type": "product type",
+      "relation": "the no-drill install method this query asks for"
+    },
+    {
+      "name": "3M VHB adhesive tape",
+      "type": "material",
+      "relation": "common bonding tape; strength fades with humidity, grease and heat"
+    },
+    {
+      "name": "side-by-side refrigerator",
+      "type": "appliance",
+      "relation": "door layout that determines lock style"
+    },
+    {
+      "name": "French door refrigerator",
+      "type": "appliance",
+      "relation": "multi-door layout needing a lock that spans doors"
+    },
+    {
+      "name": "strap or cable lock",
+      "type": "product type",
+      "relation": "wraps the handles and needs no adhesive on the door face"
+    },
+    {
+      "name": "two-button release latch",
+      "type": "mechanism",
+      "relation": "adult-friendly, toddler-resistant release"
+    },
+    {
+      "name": "security lock with key or combination",
+      "type": "mechanism",
+      "relation": "stronger option for older kids"
+    },
+    {
+      "name": "security deposit",
+      "type": "lease concept",
+      "relation": "reason renters avoid screws and residue"
+    },
+    {
+      "name": "isopropyl alcohol",
+      "type": "material",
+      "relation": "surface cleaning before applying adhesive"
+    },
+    {
+      "name": "dental floss or heat gun",
+      "type": "tool",
+      "relation": "removal without damaging the finish"
+    }
+  ],
+  "attributes": [
+    "no drilling",
+    "adhesive strength",
+    "pull force",
+    "fits door width or gap",
+    "handle style compatibility",
+    "stainless steel finish compatibility",
+    "ease of adult use",
+    "key vs keyless",
+    "freezer/minifridge fit",
+    "residue-free removal",
+    "humidity durability"
+  ],
+  "ngrams": [
+    "refrigerator lock",
+    "fridge lock for toddlers",
+    "no drill",
+    "adhesive fridge lock",
+    "child safety lock",
+    "side-by-side fridge",
+    "french door fridge",
+    "stainless steel",
+    "easy to install",
+    "double button",
+    "strong adhesive",
+    "baby proofing",
+    "fridge door"
+  ],
+  "skipgrams": [
+    "fridge\u2026toddlers",
+    "lock\u2026adhesive",
+    "adhesive\u2026residue",
+    "lock\u2026stainless steel",
+    "fridge\u2026handles",
+    "lock\u2026drilling",
+    "toddlers\u2026open",
+    "latch\u2026adult",
+    "door\u2026gap",
+    "adhesive\u2026clean"
+  ],
+  "nlpTerms": [
+    "toddler",
+    "childproof",
+    "latch",
+    "strap",
+    "adhesive",
+    "residue",
+    "stainless steel",
+    "handle",
+    "freezer",
+    "door gap",
+    "side-by-side",
+    "French door",
+    "security deposit",
+    "landlord",
+    "removal",
+    "pull strength",
+    "two-button",
+    "key lock",
+    "installation"
+  ],
+  "questions": [
+    "What is the best fridge lock that does not require drilling?",
+    "Will an adhesive fridge lock damage stainless steel?",
+    "How do I remove a fridge lock without leaving residue?",
+    "Do fridge locks work on French door refrigerators?",
+    "How long does fridge lock adhesive last?",
+    "At what age do toddlers learn to open fridge locks?",
+    "Can I use a fridge lock on a mini fridge or freezer?",
+    "Do I need landlord permission for an adhesive fridge lock?"
+  ],
+  "contentGaps": [
+    "Top results are retailer listings and thin lists with no real testing, and rarely say which lock fits which fridge layout",
+    "Almost none address stainless steel or textured finishes and adhesive residue against a security deposit",
+    "Little guidance on prepping the surface, cure time and humidity or heat near the fridge",
+    "No move-out removal steps (heat, floss, solvent) for renters",
+    "Few explain how to check door gap and handle type before buying",
+    "Safety framing missing: fridge locks plus keeping medicines and small items out of reach"
+  ],
+  "outline": [
+    {
+      "h2": "What Is the Best Refrigerator Lock for Toddlers With No Drilling?",
+      "intent": "direct answer and quick picks",
+      "h3": [
+        "Quick picks by fridge type",
+        "Why adhesive and strap locks suit renters"
+      ]
+    },
+    {
+      "h2": "How We Chose These No-Drill Fridge Locks",
+      "intent": "trust and method",
+      "h3": [
+        "What we checked",
+        "What we could not test"
+      ]
+    },
+    {
+      "h2": "The 4 Best No-Drill Refrigerator Locks for Toddlers",
+      "intent": "product roundup",
+      "h3": [
+        "Product 1",
+        "Product 2",
+        "Product 3",
+        "Product 4"
+      ]
+    },
+    {
+      "h2": "Comparison Table: Fridge Locks at a Glance",
+      "intent": "quick comparison",
+      "h3": []
+    },
+    {
+      "h2": "Refrigerator Lock Buying Guide for Renters",
+      "intent": "decision criteria",
+      "h3": [
+        "Side-by-side vs French door vs top freezer",
+        "Adhesive vs strap vs key lock",
+        "Door gap and handle fit",
+        "Stainless steel and textured finishes"
+      ]
+    },
+    {
+      "h2": "How to Install a Fridge Lock Without Drilling",
+      "intent": "how-to steps",
+      "h3": [
+        "Clean and prep the surface",
+        "Press and cure the adhesive",
+        "Test the lock"
+      ]
+    },
+    {
+      "h2": "Lease Rules and Removing a Fridge Lock at Move-Out",
+      "intent": "renter gap",
+      "h3": [
+        "Do you need landlord approval",
+        "Removing adhesive without residue"
+      ]
+    },
+    {
+      "h2": "Fridge Lock FAQ",
+      "intent": "PAA and long-tail",
+      "h3": []
+    }
+  ],
+  "targetWords": 1300,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://restaurantstella.com/best-fridge-lock-for-toddlers/",
+      "https://pixelfy.me/guides/home/best-refrigerator-locks-for-children/",
+      "https://www.walmart.com/ip/830207478",
+      "https://www.desertcart.com.sa/products/204881743-fridge-lock.md",
+      "https://www.desertcart.tw/products/378054780-french-fridge-lock.md"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "Listicle-style guides and retailer pages summarize each lock with feature bullets and drawbacks (adhesive fade, fit limits), so a pros and cons list per product matches.",
+    "avgWords": 1000,
+    "avgProducts": 5,
+    "commonSections": [
+      "intro",
+      "top picks",
+      "buying guide",
+      "how to install",
+      "FAQ"
+    ],
+    "usesComparisonTable": false,
+    "usesFaq": true,
+    "usesBuyingGuide": true,
+    "note": "WebFetch was blocked and Ahrefs not used; structure inferred from one WebSearch's result snippets, so avgWords and avgProducts are estimates. SERP is thin and dominated by retailer listings and low-authority sites. Eudemon and Lazy Daisy recur and WeGuard appears, but verify the top-10 serpProducts (2+ pages each) per ROUTINE step 3."
+  },
+  "internalLinkCandidates": [
+    {
+      "slug": "best-magnetic-cabinet-locks-for-renters",
+      "title": "Best Magnetic Cabinet Locks for Renters in 2026 (6 Picks)"
+    },
+    {
+      "slug": "how-to-baby-proof-a-rental-without-damage",
+      "title": "How to Baby-Proof a Rental Without Damage"
+    },
+    {
+      "slug": "best-pressure-mounted-baby-gate-for-renters",
+      "title": "Best Pressure-Mounted Baby Gate for Renters"
+    },
+    {
+      "slug": "best-heavy-duty-adhesive-hooks-for-renters",
+      "title": "Best Heavy-Duty Adhesive Hooks for Renters"
+    }
+  ],
+  "secondaryKeywords": [
+    "fridge lock for toddlers",
+    "adhesive refrigerator lock",
+    "child proof fridge lock no drilling",
+    "fridge lock for stainless steel"
+  ]
+}

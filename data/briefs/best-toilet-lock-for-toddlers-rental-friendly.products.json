@@ -1,0 +1,12 @@
+{
+ "products": [],
+ "skip": true,
+ "skipReason": "Only Wappa Baby Toilet Lock is clearly recommended by 2+ top-10 pages. Munchkin Xtraguard is confirmed on one page (talkofthehouse.com) as a toilet pick and is not marketed as a toilet lock; ZENTIVOR 2-Pack only on mayfairfarms.com; Safety 1st Swing Shut only on journeymanhq.com; Mommy's Helper Lid-Lok only a mention (Lucie's List, SafeWise) and called flimsy. Fewer than 3 qualify, and no real owner posts (Reddit/forum/retailer review pages) were found for owners.read. WebFetch was blocked; pages were seen only through WebSearch summaries.",
+ "serpProducts": [
+  {"name": "Wappa Baby Toilet Lock (2-Pack)", "pages": ["https://www.talkofthehouse.com/best-toilet-locks/", "https://www.mayfairfarms.com/best-toilet-locks-for-babyproofing/", "https://www.journeymanhq.com/254963/6-best-toilet-locks-for-potty-training-that-childproofers-swear-by/", "https://www.lucieslist.com/guides/baby-proofing/babyproofing-toilet-lock/", "https://pixelfy.me/guides/home/best-toilet-lock/"]},
+  {"name": "Munchkin Xtraguard Dual-Lock", "pages": ["https://www.talkofthehouse.com/best-toilet-locks/"], "note": "only 1 page confirmed; not marketed as a toilet lock"},
+  {"name": "ZENTIVOR Toilet Locks 2-Pack", "pages": ["https://www.mayfairfarms.com/best-toilet-locks-for-babyproofing/"], "note": "only 1 page confirmed"},
+  {"name": "Safety 1st Swing Shut toilet lock", "pages": ["https://www.journeymanhq.com/254963/6-best-toilet-locks-for-potty-training-that-childproofers-swear-by/"], "note": "only 1 page confirmed"},
+  {"name": "Mommy's Helper Lid-Lok", "pages": ["https://www.lucieslist.com/guides/baby-proofing/babyproofing-toilet-lock/"], "note": "mention only, called flimsy; does not qualify"}
+ ]
+}
