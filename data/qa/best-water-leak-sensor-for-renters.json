@@ -1,13 +1,14 @@
 {
   "slug": "best-water-leak-sensor-for-renters",
-  "pass": true,
-  "checkedAt": "2026-10-17T13:00:33.029Z",
-  "errors": [],
-  "warnings": [
-    "product \"YoLink Water Leak Sensor 1 Kit (4 sensors + hub)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Eve Water Guard\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Flo by Moen Smart Water Detector\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  "pass": false,
+  "checkedAt": "2026-10-17T13:03:20.128Z",
+  "errors": [
+    "source returns 410: https://www.techhive.com/article/578595/flo-by-moen-smart-water-detector-review.html",
+    "source returns 410: https://www.techhive.com/article/616306/eve-water-guard-boasts-thread-connectivity.html",
+    "source returns 410: https://www.techhive.com/article/578879/yosmart-yolink-hub-review.html",
+    "source returns 404: https://thisoldhouse.com/shop/89967/best-water-leak-detector"
   ],
+  "warnings": [],
   "factCheck": {
     "verified": true,
     "notes": "Checked via search against TechHive (Eve 100 dB, Thread, 6.5 ft cable, no Android), Smart Home Compared (Eve reliability), Moen spec sheet (CR123A, so battery type hedged); could not fetch Universal Devices, Looria, Kimola, iPhone Life pages, so forum/summary praise softened to anecdotes; YoLink mop note scoped to valve-shutoff setups; lease and insurance statements hedged to general.",

@@ -138,8 +138,26 @@ products:
     asin: B084WYB8PM
     amazonTitle: >-
       YoLink Water Leak Sensor 1 Kit: 4-Pack + Hub | Leak Alerts via Mobile App,
-      Email and SMS
+      Email and SMS, Up to 5-Year Battery, Works with Alexa, LoRa YoLink
+      Protocol Up to 2034 Feet
     asinVerified: true
+    image:
+      url: 'https://m.media-amazon.com/images/I/41FyF5y65uL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41+XrJstBjL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41wuKLqtm-L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41nHQ0OlR4L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41mCUHTccfL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Eve Water Guard
     brand: Eve
     query: Eve Water Guard connected water leak detector HomeKit Thread
@@ -200,8 +218,25 @@ products:
     asin: B09TB72Z5N
     amazonTitle: >-
       Eve Water Guard - Smart Home Water Leak Detector, 6.5 ft Sensing Cable,
-      100 dB Siren, (Apple HomeKit), App Notifications
+      100 dB Siren, (Apple HomeKit), App Notifications, Bluetooth, Thread
     asinVerified: true
+    image:
+      url: 'https://m.media-amazon.com/images/I/21rI5MZgzIL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41g2-rr92ZL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41yDXyTp+-L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/414NKHyjlyL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51H4dm3948L._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Flo by Moen Smart Water Detector
     brand: Moen
     query: Flo by Moen Smart Water Detector
@@ -272,6 +307,23 @@ products:
       Moen Flo Smart Water Leak Detector, Drip or Flood Sensor Alarm for Home,
       1-Pack, White, 920-004
     asinVerified: true
+    image:
+      url: 'https://m.media-amazon.com/images/I/41YpP5UAS5L._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41fGp4MbhtL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41OUrP4vmML._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51JNHRLe9yL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51WBuZpo9iL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: Best smart water leak detectors (Reviewed)
     url: >-

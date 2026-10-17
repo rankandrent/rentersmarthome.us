@@ -1,15 +1,9 @@
 {
   "slug": "best-smart-light-bulbs-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-17T12:59:02.750Z",
+  "checkedAt": "2026-10-17T13:02:48.326Z",
   "errors": [],
-  "warnings": [
-    "product \"Philips Hue White and Color Ambiance A19 Bluetooth\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Wyze Bulb Color\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Kasa Smart Light Bulbs KL125\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Tapo L535E\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"WiZ A19 Color\" has no Amazon photo yet (the Amazon refresh adds it after push)"
-  ],
+  "warnings": [],
   "factCheck": {
     "verified": true,
     "notes": "Checked via web search against TP-Link/Kasa listings (Auto-White follows daylight dawn to dusk, 2500-6500K), Philips Hue bridge/retailer sheets (Zigbee hub plugs into router; HomeKit via bridge), Amazon titles for lumens/E26/A19, CNN Underscored (Tapo L535E top pick, 1,100 lm). Could not confirm CNN security claim about Wyze (CNN page blocked, search found nothing): removed it everywhere. Removed unsourced LIFX/Govee/Amazon Basics sentence. Softened research-story box. WiZ assistants left as 'check maker page'. Owner total 19 matches owners.read sum (4+4+4+4+3). General explainers (800 lm ~ 60W, enclosed-fixture heat) are hedged. ASINs untouched.",

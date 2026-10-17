@@ -119,8 +119,26 @@ products:
     asin: B08D9N7RJ4
     amazonTitle: >-
       Philips Hue A19 LED Smart Light Bulb - White and Color Ambiance - 60W
-      Indoor Light Bulb - Control with Hue App
+      Indoor Light Bulb - Control with Hue App - Works with Alexa, Google
+      Assistant and Apple Homekit - 3 Pack
     asinVerified: true
+    image:
+      url: 'https://m.media-amazon.com/images/I/41CGaLJ5ooL._SL500_.jpg'
+      width: 500
+      height: 486
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41se9OvybXL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41vKiDDrQbL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41WVmPoG8pL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41cQT7JknkL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Wyze Bulb Color
     brand: Wyze
     query: Wyze Bulb Color A19 Wi-Fi smart bulb
@@ -183,6 +201,23 @@ products:
       Wyze Bulb Color, 1100 Lumen WiFi RGB and Tunable White A19 Smart Bulb,
       Works with Alexa and Google Assistant, Two-Pack
     asinVerified: true
+    image:
+      url: 'https://m.media-amazon.com/images/I/314fECczKLL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41-VDc4+XhL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/419f7kBcyeL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51DhsQfgwtL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51FSjzsw-iL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Kasa Smart Light Bulbs KL125
     brand: TP-Link Kasa
     query: Kasa Smart Bulb KL125 A19 color Wi-Fi
@@ -242,8 +277,26 @@ products:
     asin: B08TB8QBB1
     amazonTitle: >-
       Kasa Multicolor Dimmable Wi-Fi Smart Bulb, A19, KL125 | 800LM, 9W, Full
-      Color Changing
+      Color Changing, Smart Light Bulb Works with Alexa & Google Home, No Hub
+      Required, 1-Pack
     asinVerified: true
+    image:
+      url: 'https://m.media-amazon.com/images/I/418vndsaZrL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41AxKLvzOHL._SL500_.jpg'
+        width: 383
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41VT4HZLfQL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41LWYYYlUmL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41bTaT92kkL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Tapo L535E
     brand: TP-Link Tapo
     query: TP-Link Tapo L535E Matter smart Wi-Fi color bulb
@@ -295,8 +348,26 @@ products:
     asin: B0CFG9MXKD
     amazonTitle: >-
       Tapo Multicolor Dimmable Smart Light Bulbs, L535E, A19 E26, 1100LM |
-      Matter-Certified, 16M Colors RGBW LED
+      Matter-Certified, 16M Colors RGBW LED, High Brightness(75W Equivalent),
+      CRI>90, Voice Control w/Siri, Alexa & Google Home
     asinVerified: true
+    image:
+      url: 'https://m.media-amazon.com/images/I/41xODIIAV7L._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41Ga0O0auhL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51hH64Q-ieL._SL500_.jpg'
+        width: 500
+        height: 471
+      - url: 'https://m.media-amazon.com/images/I/41euOZJ-sQL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51Z5ARaHtsL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: WiZ A19 Color
     brand: WiZ
     query: WiZ Connected A19 Color Wi-Fi smart bulb
@@ -348,8 +419,25 @@ products:
     asin: B09TL498WM
     amazonTitle: >-
       WiZ Connected Smart Light Bulbs, 2-Pack | Color A19 60W 800LM E26 Indoor
-      LED Lights
+      LED Lights, Smart Bulbs with Motion Detection, Voice or App Compatible
     asinVerified: true
+    image:
+      url: 'https://m.media-amazon.com/images/I/41ghMcJ3b+L._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31IR135nX0L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41ZyyBiQujL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41s-S8GdrNL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41khHpOeFXL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: The best smart bulbs (PCWorld)
     url: 'https://www.pcworld.com/article/582523/best-smart-bulbs.html'
