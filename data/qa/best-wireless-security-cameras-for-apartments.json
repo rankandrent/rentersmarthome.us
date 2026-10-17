@@ -1,11 +1,9 @@
 {
   "slug": "best-wireless-security-cameras-for-apartments",
   "pass": true,
-  "checkedAt": "2026-10-17T17:49:42.351Z",
+  "checkedAt": "2026-10-17T18:21:38.930Z",
   "errors": [],
-  "warnings": [
-    "source didn't respond normally (no response): https://homekitnews.com/2021/07/10/aqara-g3-camera-hub-review/"
-  ],
+  "warnings": [],
   "factCheck": {
     "verified": true,
     "notes": "Re-verified via web search against maker/retailer/review pages: Wyze Cam v4 (2.5K, 256GB microSD, Alexa/Google, Cam Plus paid), Tapo C210 (360/114 pan-tilt, 512GB, Privacy Mode), eufy C120 (no HomeBase, 2.4GHz, 125deg, 128GB per eufy listing), Aqara G3 (HKSV with iCloud+, microSD, Zigbee hub; removed unconfirmed 45deg tilt and privacy mode), Blink Mini 2 (color night vision/spotlight, Sync Module 2 local storage), Nest Cam wired 2nd gen (1080p HDR, 3h free history, no microSD), Ring Indoor Cam 2nd gen (1080p, privacy cover, siren), eufy S220 (2K, 135deg, 8GB, IP67, solar; removed unconfirmed 3-month battery claim), Reolink Argus 3 Pro (6000mAh, 122deg diagonal, solar; microSD limit hedged since listings differ). Removed first-person renter experience claim and Tapo 'largest storage' claim.",
