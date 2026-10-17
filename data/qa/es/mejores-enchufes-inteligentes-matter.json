@@ -1,0 +1,19 @@
+{
+  "slug": "es/mejores-enchufes-inteligentes-matter",
+  "lang": "es",
+  "translationOf": "best-matter-smart-plugs",
+  "pass": false,
+  "checkedAt": "2026-10-17T19:08:40.374Z",
+  "errors": [
+    "only 9 first-person words; use at least 10",
+    "facts not verified yet: compare every claim with the English post and its sources, then run `node scripts/routine.mjs factcheck es/mejores-enchufes-inteligentes-matter \"<notes>\"`"
+  ],
+  "warnings": [
+    "internal link to the English post /blog/smart-home-for-renters/; link the es version once it exists",
+    "internal link to the English post /blog/smart-home-for-renters/; link the es version once it exists",
+    "internal link to the English post /blog/best-smart-lock-for-renters/; link the es version once it exists"
+  ],
+  "factCheck": {
+    "verified": false
+  }
+}

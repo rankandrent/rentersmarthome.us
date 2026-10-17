@@ -1,0 +1,17 @@
+{
+  "slug": "nl/beste-slimme-sloten-voor-huurders",
+  "lang": "nl",
+  "translationOf": "best-smart-lock-for-renters",
+  "pass": false,
+  "checkedAt": "2026-10-17T19:08:04.065Z",
+  "errors": [
+    "facts not verified yet: compare every claim with the English post and its sources, then run `node scripts/routine.mjs factcheck nl/beste-slimme-sloten-voor-huurders \"<notes>\"`"
+  ],
+  "warnings": [
+    "internal link to the English post /blog/best-peephole-camera-for-apartments/; link the nl version once it exists",
+    "internal link to the English post /blog/smart-home-for-renters/; link the nl version once it exists"
+  ],
+  "factCheck": {
+    "verified": false
+  }
+}

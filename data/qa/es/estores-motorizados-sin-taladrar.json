@@ -1,0 +1,20 @@
+{
+  "slug": "es/estores-motorizados-sin-taladrar",
+  "lang": "es",
+  "translationOf": "no-drill-motorized-blinds",
+  "pass": false,
+  "checkedAt": "2026-10-17T19:08:43.243Z",
+  "errors": [
+    "description is 172 characters (aim for 140-160)",
+    "only 9 first-person words; use at least 10",
+    "facts not verified yet: compare every claim with the English post and its sources, then run `node scripts/routine.mjs factcheck es/estores-motorizados-sin-taladrar \"<notes>\"`"
+  ],
+  "warnings": [
+    "internal link to the English post /blog/smart-home-for-renters/; link the es version once it exists",
+    "internal link to the English post /blog/alexa-vs-google-home/; link the es version once it exists",
+    "internal link to the English post /blog/best-smart-lock-for-renters/; link the es version once it exists"
+  ],
+  "factCheck": {
+    "verified": false
+  }
+}
