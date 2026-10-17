@@ -1,10 +1,8 @@
 {
   "slug": "best-smart-smoke-detector-for-apartments",
-  "pass": false,
-  "checkedAt": "2026-10-16T13:12:15.472Z",
-  "errors": [
-    "source returns 404: https://support.google.com/googlehome/answer/16322160"
-  ],
+  "pass": true,
+  "checkedAt": "2026-10-17T12:38:29.686Z",
+  "errors": [],
   "warnings": [],
   "factCheck": {
     "verified": true,

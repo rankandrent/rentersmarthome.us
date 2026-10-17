@@ -413,8 +413,6 @@ sources:
   - title: Zircon StudSensor Pro55 SL Stud Finder (Do it Best)
     url: >-
       https://www.doitbest.com/product/360252/zircon-studsensor-pro55-sl-stud-finder-360252
-  - title: Bosch GMS 120 Professional Multi Detector (Data Power Tools)
-    url: 'https://datapowertools.co.uk/Products/Detectors/BOS0601081000'
   - title: Zircon MetalliScanner m40 (RONA)
     url: >-
       https://rona.ca/en/product/zircon-metalliscanner-m40-scan-depth-object-detection-finder-zir62518-331005146

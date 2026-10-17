@@ -1,15 +1,9 @@
 {
   "slug": "best-stud-finder-for-thick-walls",
-  "pass": false,
-  "checkedAt": "2026-10-16T14:13:56.502Z",
-  "errors": [
-    "source returns 404: https://datapowertools.co.uk/Products/Detectors/BOS0601081000"
-  ],
-  "warnings": [
-    "source didn't respond normally (403): https://www.supplyhouse.com/Zircon-74239-StudSensor-Pro55-Stud-Finder",
-    "source didn't respond normally (403): https://rona.ca/en/product/zircon-metalliscanner-m40-scan-depth-object-detection-finder-zir62518-331005146",
-    "source didn't respond normally (429): https://en.wikipedia.org/wiki/Stud_finder"
-  ],
+  "pass": true,
+  "checkedAt": "2026-10-17T12:38:30.199Z",
+  "errors": [],
+  "warnings": [],
   "factCheck": {
     "verified": true,
     "notes": "Re-verified via web search against maker/retailer pages: Franklin MAX (13 sensors, 2.5 in max, lath/plaster mode no calibration; instruction sheet gives ~1.75 in wood studs and mesh caveat, added to post), Franklin M210 (13 sensors, 1.7 in, live AC), Zircon i520 (DeepScan 1.5in/38mm, AC 2in, metal 3in), Zircon HD70 (StudScan 0.75in, DeepScan 1.5in, WireWarning; 9V battery unconfirmed so removed), Bosch GMS 120 (wood 38, magnetic 120, non-magnetic 80, live 50 mm), Zircon m40 (ferrous 4in, non-ferrous 2in, lath and plaster, Wide/Pinpoint). No ownership/testing/price/rating claims.",

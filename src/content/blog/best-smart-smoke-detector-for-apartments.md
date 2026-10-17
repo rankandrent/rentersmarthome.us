@@ -187,7 +187,6 @@ products:
       - >-
         https://www.firstalert.com/products/sc5-battery-smart-smoke-carbon-monoxide-alarm
       - 'https://store.google.com/product/first_alert_smart_smoke_alarm?hl=en-us'
-      - 'https://support.google.com/googlehome/answer/16322160'
       - >-
         https://customer.resideo.com/resources/Techlit/TechLitDocuments/BRK-First
         Alert/FSMCO600NVACL1_SMCO600NV-A_SC5__SpecSheet.pdf
@@ -317,8 +316,6 @@ sources:
       https://www.firstalert.com/products/sc5-battery-smart-smoke-carbon-monoxide-alarm
   - title: First Alert Smart Smoke Alarm (Google Store)
     url: 'https://store.google.com/product/first_alert_smart_smoke_alarm?hl=en-us'
-  - title: First Alert smart alarms in Google Home (Google Help)
-    url: 'https://support.google.com/googlehome/answer/16322160'
   - title: SC5 SMCO600NV spec sheet (Resideo)
     url: >-
       https://customer.resideo.com/resources/Techlit/TechLitDocuments/BRK-First%20Alert/FSMCO600NVACL1_SMCO600NV-A_SC5__SpecSheet.pdf
@@ -414,7 +411,7 @@ The [Kidde Smart Smoke & CO Alarm](amzn:Kidde+Smart+Smoke+Carbon+Monoxide+Detect
 
 ### First Alert SC5 Battery Smart Smoke & Carbon Monoxide Alarm (SMCO600NV): Best for Google Home
 
-The [First Alert SC5](amzn:First+Alert+SC5+Battery+Smart+Smoke+and+Carbon+Monoxide+Alarm+SMCO600NV) is Google's named successor to the discontinued Google Nest Protect, and the battery version suits renters who want that Nest-style alarm without wiring. It pairs a photoelectric smoke sensor (the type that catches smoldering fires) with an electrochemical CO sensor, gives voice alerts, and lets you silence or run a test from the Google Home or First Alert app. It reuses the Nest Protect mounting bracket and, per [Google's help page](https://support.google.com/googlehome/answer/16322160), interconnects with First Alert and Nest Protect alarms in Google Home. Battery and hardwired versions can be mixed. On battery life, sources disagree: one spec sheet lists six CR123A cells, while a review site claims a 10-year sealed battery, so check the box before you buy. Reviewers at Bob Vila and Tom's Guide like the quick three-minute setup with voice prompts. The common complaints are the premium price, fewer features than the Nest Protect, alerts that need internet, and no listed Matter support.
+The [First Alert SC5](amzn:First+Alert+SC5+Battery+Smart+Smoke+and+Carbon+Monoxide+Alarm+SMCO600NV) is Google's named successor to the discontinued Google Nest Protect, and the battery version suits renters who want that Nest-style alarm without wiring. It pairs a photoelectric smoke sensor (the type that catches smoldering fires) with an electrochemical CO sensor, gives voice alerts, and lets you silence or run a test from the Google Home or First Alert app. It reuses the Nest Protect mounting bracket and, per [Google's store page](https://store.google.com/product/first_alert_smart_smoke_alarm?hl=en-us), works with the Google Home app. Battery and hardwired versions can be mixed. On battery life, sources disagree: one spec sheet lists six CR123A cells, while a review site claims a 10-year sealed battery, so check the box before you buy. Reviewers at Bob Vila and Tom's Guide like the quick three-minute setup with voice prompts. The common complaints are the premium price, fewer features than the Nest Protect, alerts that need internet, and no listed Matter support.
 
 ### Ring Smoke & CO Listener: Best keep-the-landlord's-alarm option
 
