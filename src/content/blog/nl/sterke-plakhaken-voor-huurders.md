@@ -270,7 +270,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-heavy-duty-adhesive-hooks-for-renters.png
 heroAlt: >-
-  De beste sterke plakhaken voor huurders (zonder boren): koopgids van
+  De beste sterke plakhaken voor huurders (zonder boren) – koopgids van
   RenterSmartHome
 ---
 

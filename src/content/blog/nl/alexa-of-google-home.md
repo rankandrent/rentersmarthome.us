@@ -291,7 +291,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/alexa-vs-google-home.png
 heroAlt: >-
-  Alexa of Google Home in 2026: wat past beter in een huurwoning? Vergelijking
+  Alexa of Google Home in 2026 – wat past beter in een huurwoning? Vergelijking
   van RenterSmartHome
 ---
 

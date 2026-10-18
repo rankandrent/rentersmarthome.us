@@ -616,7 +616,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/door-camera-for-apartment.png
 heroAlt: >-
-  Mejor timbre con cámara para piso de alquiler: 6 sin cables (2026), guía de
+  Mejor timbre con cámara para piso de alquiler – 6 sin cables (2026), guía de
   compra de RenterSmartHome
 ---
 

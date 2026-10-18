@@ -268,7 +268,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-heavy-duty-adhesive-hooks-for-renters.png
 heroAlt: >-
-  Die besten starken Klebehaken für Mieter (ohne Bohren): Kaufberatung von
+  Die besten starken Klebehaken für Mieter (ohne Bohren) – Kaufberatung von
   RenterSmartHome
 ---
 

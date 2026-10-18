@@ -261,7 +261,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/blink-vs-ring-subscription.png
 heroAlt: >-
-  Blink oder Ring: Welches Kamera-Abo kostet Mieter weniger? Vergleich von
+  Blink oder Ring – Welches Kamera-Abo kostet Mieter weniger? Vergleich von
   RenterSmartHome
 ---
 

@@ -296,7 +296,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-video-doorbell-without-subscription-for-renters.png
 heroAlt: >-
-  Videodeurbel zonder abonnement voor huurders: 3 keuzes: koopgids van
+  Videodeurbel zonder abonnement voor huurders – 3 keuzes – koopgids van
   RenterSmartHome
 ---
 

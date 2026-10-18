@@ -285,7 +285,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/philips-hue-vs-wiz.png
 heroAlt: >-
-  Philips Hue oder WiZ: Welche smarten Lampen lohnen sich für Mieter?
+  Philips Hue oder WiZ – Welche smarten Lampen lohnen sich für Mieter?
   RenterSmartHome-Vergleich
 ---
 

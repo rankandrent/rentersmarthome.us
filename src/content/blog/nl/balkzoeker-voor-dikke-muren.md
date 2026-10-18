@@ -418,7 +418,7 @@ faqs:
     meet voor dezelfde klus dieper.
 author: editorial-team
 heroImage: /images/featured/best-stud-finder-for-thick-walls.png
-heroAlt: 'Beste balkzoeker voor dikke muren 2026 (6 modellen met deep scan): koopgids
+heroAlt: 'Beste balkzoeker voor dikke muren 2026 (6 modellen met deep scan) – koopgids
   van RenterSmartHome'
 ---
 

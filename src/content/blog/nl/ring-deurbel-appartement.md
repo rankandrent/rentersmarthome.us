@@ -246,7 +246,7 @@ faqs:
     de deurbel op je nieuwe adres opnieuw in via de Ring-app.
 author: editorial-team
 heroImage: /images/featured/ring-doorbell-in-apartment.png
-heroAlt: 'Ring deurbel in je huurappartement: gids voor huurders van RenterSmartHome'
+heroAlt: 'Ring deurbel in je huurappartement – gids voor huurders van RenterSmartHome'
 ---
 
 Kun je een Ring deurbel in een huurappartement plaatsen? **Ja: de meeste huurders kunnen een Ring deurbel toevoegen zonder te boren, met de Ring Peephole Cam of met een Ring Battery Doorbell op de Ring No-Drill Mount, zolang het huurcontract het toestaat.** Het probleem zit zelden in de hardware. Het zit in het huurcontract, de deur en je buren.

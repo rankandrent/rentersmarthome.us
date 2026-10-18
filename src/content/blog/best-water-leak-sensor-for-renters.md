@@ -1,6 +1,6 @@
 ---
-title: 'Best Water Leak Sensor for Renters – 3 No-Drill Picks (2026)'
-seoTitle: 'Best Water Leak Sensor for Renters (2026) – 3 No-Drill Picks'
+title: Best Water Leak Sensor for Renters – 3 No-Drill Picks (2026)
+seoTitle: Best Water Leak Sensor for Renters (2026) – 3 No-Drill Picks
 description: >-
   Compare the best water leak sensor for renters: 3 no-drill picks with phone
   alerts, plus where to place them, what to tell your landlord and move-out
@@ -367,8 +367,8 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-water-leak-sensor-for-renters.png
 heroAlt: >-
-  3 Best Water Leak Sensors for Renters (No-Drill, 2026): RenterSmartHome buying
-  guide
+  Best Water Leak Sensor for Renters – 3 No-Drill Picks (2026) – RenterSmartHome
+  buying guide
 ---
 
 The best water leak sensor for renters is a small, battery or plug-in device that sits on the floor, sends a phone alert the moment it gets wet, and goes back in the box on move-out day. A water leak sensor (also called a smart water leak detector or flood sensor) uses metal probes or a sensing cable to detect water, then sounds an alarm or pushes a notification through an app. We picked three that need no drilling, no plumbing and no landlord tools, and we explain where to put them, what your lease likely says about leaks, and how to document water damage.

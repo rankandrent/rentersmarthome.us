@@ -252,7 +252,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-pressure-mounted-baby-gate-for-renters.png
 heroAlt: >-
-  Traphekje zonder boren: de beste klemhekjes voor huurders, koopgids van
+  Traphekje zonder boren – de beste klemhekjes voor huurders, koopgids van
   RenterSmartHome
 ---
 

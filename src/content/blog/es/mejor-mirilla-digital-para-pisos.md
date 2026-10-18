@@ -361,7 +361,7 @@ faqs:
       videotimbre a batería con un soporte sin taladrar.
 heroImage: /images/featured/best-peephole-camera-for-apartments.png
 heroAlt: >-
-  La mejor mirilla digital para pisos: seguridad en la puerta sin taladrar:
+  La mejor mirilla digital para pisos – seguridad en la puerta sin taladrar:
   guía de compra de RenterSmartHome
 ---
 

@@ -493,7 +493,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/how-to-baby-proof-a-rental-without-damage.png
 heroAlt: >-
-  Huurwoning babyproof maken zonder schade (gids 2026): RenterSmartHome-gids
+  Huurwoning babyproof maken zonder schade (gids 2026) – RenterSmartHome-gids
   voor huurders
 ---
 

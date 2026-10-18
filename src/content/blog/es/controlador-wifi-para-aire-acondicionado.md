@@ -277,7 +277,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/smart-ac-controller.png
 heroAlt: >-
-  Controlador WiFi para aire acondicionado: 3 opciones para inquilinos, guía de
+  Controlador WiFi para aire acondicionado – 3 opciones para inquilinos, guía de
   compra de RenterSmartHome
 ---
 

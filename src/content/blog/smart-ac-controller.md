@@ -1,6 +1,6 @@
 ---
-title: 'Smart AC Controller for Renters – 3 Picks for Any Remote AC (2026)'
-seoTitle: 'Smart AC Controller for Renters (2026) – 3 Best Picks'
+title: Smart AC Controller for Renters – 3 Picks for Any Remote AC (2026)
+seoTitle: Smart AC Controller for Renters (2026) – 3 Best Picks
 description: >-
   The best smart AC controller for renters adds app control, schedules and
   automations to window, portable and mini split units with no wiring at all.
@@ -262,7 +262,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/smart-ac-controller.png
 heroAlt: >-
-  Best Smart AC Controller for Renters: 3 Picks for Any Remote AC:
+  Smart AC Controller for Renters – 3 Picks for Any Remote AC (2026) –
   RenterSmartHome buying guide
 related:
   - how-to-cool-apartment-without-ac

@@ -391,7 +391,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-water-leak-sensor-for-renters.png
 heroAlt: >-
-  Die 3 besten Wassermelder für Mieter (ohne Bohren, 2026): Kaufberatung von
+  Die 3 besten Wassermelder für Mieter (ohne Bohren, 2026) – Kaufberatung von
   RenterSmartHome
 ---
 

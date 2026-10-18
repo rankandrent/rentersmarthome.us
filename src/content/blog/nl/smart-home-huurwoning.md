@@ -373,7 +373,7 @@ faqs:
       een lijst met je apparaten en hun apps maakt het sneller.
 heroImage: /images/featured/smart-home-for-renters.png
 heroAlt: >-
-  Smart home in je huurwoning: de complete gids zonder boren, huurdersgids van
+  Smart home in je huurwoning – de complete gids zonder boren, huurdersgids van
   RenterSmartHome
 ---
 

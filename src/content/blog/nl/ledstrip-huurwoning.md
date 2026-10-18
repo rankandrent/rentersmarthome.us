@@ -270,7 +270,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-led-strip-lights-for-renters.png
 heroAlt: >-
-  De beste ledstrips voor je huurwoning (zonder loslatende verf): koopgids van
+  De beste ledstrips voor je huurwoning (zonder loslatende verf) – koopgids van
   RenterSmartHome
 ---
 

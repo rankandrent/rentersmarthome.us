@@ -286,7 +286,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/philips-hue-vs-wiz.png
 heroAlt: >-
-  Philips Hue o WiZ: ¿qué bombillas inteligentes comprar si alquilas?
+  Philips Hue o WiZ – ¿qué bombillas inteligentes comprar si alquilas?
   Comparativa de RenterSmartHome
 ---
 

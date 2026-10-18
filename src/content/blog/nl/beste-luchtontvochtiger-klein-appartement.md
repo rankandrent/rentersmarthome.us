@@ -565,7 +565,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-dehumidifier-for-small-apartment.png
 heroAlt: >-
-  Beste luchtontvochtiger voor een klein appartement: 6 keuzes, koopgids van
+  Beste luchtontvochtiger voor een klein appartement – 6 keuzes, koopgids van
   RenterSmartHome
 ---
 

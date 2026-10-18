@@ -1,6 +1,6 @@
 ---
-title: 'Philips Hue vs WiZ – Which Smart Bulbs Should Renters Buy?'
-seoTitle: 'Philips Hue vs WiZ (2026) – Which Is Better for Renters?'
+title: Philips Hue vs WiZ – Which Smart Bulbs Should Renters Buy?
+seoTitle: Philips Hue vs WiZ (2026) – Which Is Better for Renters?
 description: >-
   Philips Hue vs WiZ for renters: WiZ is simpler and cheaper with no hub, while
   Hue builds a bigger, steadier system with the Hue Bridge. Here's how to pick.
@@ -271,7 +271,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/philips-hue-vs-wiz.png
 heroAlt: >-
-  Philips Hue vs WiZ: Which Smart Bulbs Should Renters Buy?: RenterSmartHome
+  Philips Hue vs WiZ – Which Smart Bulbs Should Renters Buy? – RenterSmartHome
   comparison
 related:
   - best-led-strip-lights-for-renters

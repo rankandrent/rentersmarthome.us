@@ -300,7 +300,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-video-doorbell-without-subscription-for-renters.png
 heroAlt: >-
-  Video-Türklingel ohne Abo für Mieter: 3 Empfehlungen: RenterSmartHome
+  Video-Türklingel ohne Abo für Mieter – 3 Empfehlungen – RenterSmartHome
   Kaufberatung
 ---
 

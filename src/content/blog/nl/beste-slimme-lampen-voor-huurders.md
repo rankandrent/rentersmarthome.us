@@ -509,7 +509,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-smart-light-bulbs-for-renters.png
 heroAlt: >-
-  De 5 beste slimme lampen voor huurders (zonder bedrading, 2026): koopgids van
+  De 5 beste slimme lampen voor huurders (zonder bedrading, 2026) – koopgids van
   RenterSmartHome
 ---
 

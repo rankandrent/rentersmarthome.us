@@ -285,7 +285,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/philips-hue-vs-wiz.png
 heroAlt: >-
-  Philips Hue of WiZ: welke slimme lampen kies je als huurder?
+  Philips Hue of WiZ – welke slimme lampen kies je als huurder?
   RenterSmartHome-vergelijking
 ---
 

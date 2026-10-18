@@ -260,7 +260,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/blink-vs-ring-subscription.png
 heroAlt: >-
-  Blink o Ring: ¿qué suscripción le sale más barata a un inquilino?
+  Blink o Ring – ¿qué suscripción le sale más barata a un inquilino?
   Comparativa de RenterSmartHome
 ---
 

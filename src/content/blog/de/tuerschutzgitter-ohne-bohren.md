@@ -254,7 +254,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-pressure-mounted-baby-gate-for-renters.png
 heroAlt: >-
-  Türschutzgitter ohne Bohren: die besten Klemmgitter für Mieter, Kaufberatung
+  Türschutzgitter ohne Bohren – die besten Klemmgitter für Mieter, Kaufberatung
   von RenterSmartHome
 ---
 

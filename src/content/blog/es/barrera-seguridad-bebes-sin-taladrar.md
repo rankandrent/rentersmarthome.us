@@ -254,7 +254,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-pressure-mounted-baby-gate-for-renters.png
 heroAlt: >-
-  Barrera de seguridad para bebés sin taladrar: las mejores barreras a presión
+  Barrera de seguridad para bebés sin taladrar – las mejores barreras a presión
   para pisos de alquiler, guía de compra de RenterSmartHome
 ---
 

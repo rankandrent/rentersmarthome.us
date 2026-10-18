@@ -331,7 +331,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/smart-thermostat-in-apartment.png
 heroAlt: >-
-  Slimme thermostaat in je huurwoning: mag ik die installeren? Gids voor
+  Slimme thermostaat in je huurwoning – mag ik die installeren? Gids voor
   huurders van RenterSmartHome
 ---
 

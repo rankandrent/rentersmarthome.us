@@ -365,7 +365,7 @@ faqs:
       drücken, vor allem in Wohnungen, in denen du den Strom selbst zahlst.
 heroImage: /images/featured/best-matter-smart-plugs.png
 heroAlt: >-
-  Die besten Matter-Steckdosen für die Mietwohnung 2026: Kaufberatung von
+  Die besten Matter-Steckdosen für die Mietwohnung 2026 – Kaufberatung von
   RenterSmartHome
 ---
 

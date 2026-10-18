@@ -430,7 +430,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-magnetic-stud-finder.png
 heroAlt: >-
-  De beste magnetische balkzoeker voor huurders in 2026 (5 keuzes): koopgids van
+  De beste magnetische balkzoeker voor huurders in 2026 (5 keuzes) – koopgids van
   RenterSmartHome
 ---
 

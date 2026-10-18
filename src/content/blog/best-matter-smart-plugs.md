@@ -1,6 +1,6 @@
 ---
 title: Matter Smart Plug Guide for Apartments – 4 Best Picks for 2026
-seoTitle: 'Matter Smart Plug Buying Guide (2026) – 4 Picks for Renters'
+seoTitle: Matter Smart Plug Buying Guide (2026) – 4 Picks for Renters
 description: >-
   The best Matter smart plugs work with Alexa, Google Home and Apple Home at
   once. Compare Wi-Fi and Thread picks with energy monitoring for renters.
@@ -348,7 +348,9 @@ faqs:
       devices can trim your electric bill, especially in apartments where you
       pay utilities.
 heroImage: /images/featured/best-matter-smart-plugs.png
-heroAlt: 'Best Matter Smart Plugs for Apartments in 2026: RenterSmartHome buying guide'
+heroAlt: >-
+  Matter Smart Plug Guide for Apartments – 4 Best Picks for 2026 –
+  RenterSmartHome buying guide
 related:
   - best-voice-assistant-speaker-for-small-apartments
   - smart-ac-controller

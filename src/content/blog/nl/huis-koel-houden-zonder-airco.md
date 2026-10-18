@@ -274,7 +274,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/how-to-cool-apartment-without-ac.png
 heroAlt: >-
-  Huis koel houden zonder airco: 12 tips voor huurders, een gids van
+  Huis koel houden zonder airco – 12 tips voor huurders, een gids van
   RenterSmartHome
 ---
 

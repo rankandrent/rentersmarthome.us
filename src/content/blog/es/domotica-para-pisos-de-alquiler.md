@@ -379,7 +379,7 @@ faqs:
       lista de dispositivos y sus apps acelera el proceso.
 heroImage: /images/featured/smart-home-for-renters.png
 heroAlt: >-
-  Domótica para pisos de alquiler: la guía completa sin taladrar, guía para
+  Domótica para pisos de alquiler – la guía completa sin taladrar, guía para
   inquilinos de RenterSmartHome
 ---
 

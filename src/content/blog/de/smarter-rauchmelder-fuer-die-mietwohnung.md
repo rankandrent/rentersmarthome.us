@@ -322,7 +322,7 @@ faqs:
     es mit. Erwähne den Austausch und die Prüfung in deiner Auszugs-E-Mail.
 author: editorial-team
 heroImage: /images/featured/best-smart-smoke-detector-for-apartments.png
-heroAlt: 'Die 3 besten smarten Rauchmelder für Mietwohnungen (2026): Kaufberatung
+heroAlt: 'Die 3 besten smarten Rauchmelder für Mietwohnungen (2026) – Kaufberatung
   von RenterSmartHome'
 ---
 

@@ -323,7 +323,7 @@ faqs:
     Menciona el cambio y la comprobación en tu correo de salida del piso.
 author: editorial-team
 heroImage: /images/featured/best-smart-smoke-detector-for-apartments.png
-heroAlt: 'Los 3 mejores detectores de humo inteligentes para pisos (2026): guía de
+heroAlt: 'Los 3 mejores detectores de humo inteligentes para pisos (2026) – guía de
   compra de RenterSmartHome'
 ---
 

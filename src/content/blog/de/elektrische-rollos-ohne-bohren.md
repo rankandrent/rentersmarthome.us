@@ -301,7 +301,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/no-drill-motorized-blinds.png
 heroAlt: >-
-  Elektrische Rollos ohne Bohren für Mieter (2026): Kaufratgeber von
+  Elektrische Rollos ohne Bohren für Mieter (2026) – Kaufratgeber von
   RenterSmartHome
 ---
 

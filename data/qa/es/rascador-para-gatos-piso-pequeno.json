@@ -3,11 +3,9 @@
   "lang": "es",
   "translationOf": "best-cat-tree-for-small-apartment",
   "pass": true,
-  "checkedAt": "2026-10-18T13:58:59.254Z",
+  "checkedAt": "2026-10-18T14:15:54.547Z",
   "errors": [],
-  "warnings": [
-    "source didn't respond normally (403): https://www.nytimes.com/wirecutter/reviews/best-cat-trees/"
-  ],
+  "warnings": [],
   "factCheck": {
     "verified": true,
     "notes": "Compared section by section with English best-cat-tree-for-small-apartment: products, ASINs, specs, owner counts, claims, FAQs match; all metric conversions recomputed and match imperial; internal links exist; no prices/testing/local-store claims; research-not-testing sentence present. Fixed mistranslation of 'tester/reviewer' (analista). Compared against English post only; sources not re-opened.",

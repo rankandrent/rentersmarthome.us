@@ -491,7 +491,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/how-to-baby-proof-a-rental-without-damage.png
 heroAlt: >-
-  Piso de alquiler a prueba de bebés sin daños (guía 2026): guía de
+  Piso de alquiler a prueba de bebés sin daños (guía 2026) – guía de
   RenterSmartHome para inquilinos
 ---
 

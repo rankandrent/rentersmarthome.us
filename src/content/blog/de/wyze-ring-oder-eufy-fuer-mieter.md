@@ -401,7 +401,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/wyze-vs-ring-vs-eufy-for-renters.png
 heroAlt: >-
-  Wyze, Ring oder eufy für Mieter: Vergleich von drei Überwachungskameras für
+  Wyze, Ring oder eufy für Mieter – Vergleich von drei Überwachungskameras für
   die Steckdose, RenterSmartHome
 ---
 

@@ -510,7 +510,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-smart-light-bulbs-for-renters.png
 heroAlt: >-
-  Las 5 mejores bombillas inteligentes para inquilinos (sin obras, 2026): guía
+  Las 5 mejores bombillas inteligentes para inquilinos (sin obras, 2026) – guía
   de compra de RenterSmartHome
 ---
 

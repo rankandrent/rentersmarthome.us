@@ -406,7 +406,7 @@ faqs:
       und baue das Original vor dem Auszug wieder ein.
 heroImage: /images/featured/best-smart-lock-for-renters.png
 heroAlt: >-
-  Die besten Smart Locks für Mieter 2026 (rückbaubar): Kaufratgeber von
+  Die besten Smart Locks für Mieter 2026 (rückbaubar) – Kaufratgeber von
   RenterSmartHome
 ---
 

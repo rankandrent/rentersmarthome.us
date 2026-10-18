@@ -1,11 +1,8 @@
 {
   "slug": "door-camera-for-apartment",
-  "pass": false,
-  "checkedAt": "2026-10-18T13:54:30.819Z",
-  "errors": [
-    "source returns 404: https://support.google.com/googlehome/answer/9259110?hl=en",
-    "source returns 404: https://support.google.com/googlehome/answer/11830989?hl=en"
-  ],
+  "pass": true,
+  "checkedAt": "2026-10-18T14:15:54.253Z",
+  "errors": [],
   "warnings": [],
   "factCheck": {
     "verified": true,

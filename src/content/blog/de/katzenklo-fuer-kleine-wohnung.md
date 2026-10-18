@@ -564,7 +564,7 @@ faqs:
       lautet: ein Klo pro Katze plus eins. In einer Einzimmerwohnung mit einer
       Katze kann das zweite Klo eine kompakte Schale im Schrank oder Bad sein.
 heroAlt: >-
-  Katzenklo für kleine Wohnungen (2026): die 7 besten Modelle,
+  Katzenklo für kleine Wohnungen (2026) – die 7 besten Modelle,
   RenterSmartHome-Kaufberatung
 related:
   - de/starke-klebehaken-fuer-mieter

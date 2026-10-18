@@ -548,7 +548,7 @@ faqs:
       arenero por gato más uno. En un estudio con un gato, el segundo puede ser
       una bandeja compacta en un armario o en el baño.
 heroAlt: >-
-  Mejor arenero para piso pequeño (2026): 7 opciones que ahorran sitio, guía de
+  Mejor arenero para piso pequeño (2026) – 7 opciones que ahorran sitio, guía de
   compra de RenterSmartHome
 related:
   - es/ganchos-adhesivos-resistentes

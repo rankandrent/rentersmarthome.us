@@ -327,7 +327,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/smart-thermostat-in-apartment.png
 heroAlt: >-
-  Smartes Thermostat in der Mietwohnung: Darf ich es einbauen? Ratgeber für
+  Smartes Thermostat in der Mietwohnung – Darf ich es einbauen? Ratgeber für
   Mieter von RenterSmartHome
 ---
 

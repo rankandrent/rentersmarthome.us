@@ -399,7 +399,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/wyze-vs-ring-vs-eufy-for-renters.png
 heroAlt: >-
-  Wyze, Ring o eufy para inquilinos: comparativa de tres cámaras de seguridad de
+  Wyze, Ring o eufy para inquilinos – comparativa de tres cámaras de seguridad de
   enchufe, RenterSmartHome
 ---
 

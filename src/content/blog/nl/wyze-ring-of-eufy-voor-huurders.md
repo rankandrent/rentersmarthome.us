@@ -395,7 +395,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/wyze-vs-ring-vs-eufy-for-renters.png
 heroAlt: >-
-  Wyze, Ring of eufy voor huurders: vergelijking van drie beveiligingscamera’s
+  Wyze, Ring of eufy voor huurders – vergelijking van drie beveiligingscamera’s
   voor het stopcontact, RenterSmartHome
 ---
 

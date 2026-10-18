@@ -356,7 +356,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-voice-assistant-speaker-for-small-apartments.png
 heroAlt: >-
-  Mejor altavoz inteligente para pisos pequeños: 4 opciones compactas, guía de
+  Mejor altavoz inteligente para pisos pequeños – 4 opciones compactas, guía de
   compra de RenterSmartHome
 ---
 

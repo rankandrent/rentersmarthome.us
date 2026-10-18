@@ -1,5 +1,5 @@
 ---
-title: 'Smart Home for Renters – 4 No-Drill Steps and a Move-Out Checklist'
+title: Smart Home for Renters – 4 No-Drill Steps and a Move-Out Checklist
 seoTitle: 'Smart Home for Renters (2026) – 4 Steps, Zero Drilling'
 description: >-
   How to build a smart home in a rental: renter-safe smart plugs, bulbs, locks,
@@ -354,8 +354,8 @@ faqs:
       speed it up.
 heroImage: /images/featured/smart-home-for-renters.png
 heroAlt: >-
-  Smart Home for Renters: The Complete No-Drill Guide: RenterSmartHome renter
-  guide
+  Smart Home for Renters – 4 No-Drill Steps and a Move-Out Checklist –
+  RenterSmartHome renter guide
 related:
   - smart-thermostat-in-apartment
   - no-drill-motorized-blinds

@@ -616,7 +616,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/door-camera-for-apartment.png
 heroAlt: >-
-  Beste videodeurbel voor je huurappartement: 6 zonder bedrading (2026),
+  Beste videodeurbel voor je huurappartement – 6 zonder bedrading (2026),
   koopgids van RenterSmartHome
 ---
 

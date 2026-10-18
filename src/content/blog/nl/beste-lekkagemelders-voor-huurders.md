@@ -387,7 +387,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-water-leak-sensor-for-renters.png
 heroAlt: >-
-  De 3 beste lekkagemelders voor huurders (zonder boren, 2026): koopgids van
+  De 3 beste lekkagemelders voor huurders (zonder boren, 2026) – koopgids van
   RenterSmartHome
 ---
 

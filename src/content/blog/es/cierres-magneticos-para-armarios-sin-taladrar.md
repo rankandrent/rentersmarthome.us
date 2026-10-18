@@ -526,7 +526,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-magnetic-cabinet-locks-for-renters.png
 heroAlt: >-
-  Cierres magnéticos para armarios sin taladrar: 6 kits (2026), guía de compra
+  Cierres magnéticos para armarios sin taladrar – 6 kits (2026), guía de compra
   de RenterSmartHome
 ---
 

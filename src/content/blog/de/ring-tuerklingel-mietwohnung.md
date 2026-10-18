@@ -246,7 +246,7 @@ faqs:
     und richte die Türklingel in der neuen Wohnung in der Ring-App neu ein.
 author: editorial-team
 heroImage: /images/featured/ring-doorbell-in-apartment.png
-heroAlt: 'Ring-Türklingel in der Mietwohnung: Ratgeber für Mieter von RenterSmartHome'
+heroAlt: 'Ring-Türklingel in der Mietwohnung – Ratgeber für Mieter von RenterSmartHome'
 ---
 
 Darf man eine Ring-Türklingel in der Mietwohnung anbringen? **Ja: Die meisten Mieter können eine Ring-Türklingel ohne Bohren nachrüsten, entweder mit der Ring Peephole Cam oder mit einer Ring Battery Doorbell auf der Ring No-Drill Mount, solange der Mietvertrag es erlaubt.** Das Problem ist selten die Technik. Es sind der Mietvertrag, die Tür und die Nachbarn.

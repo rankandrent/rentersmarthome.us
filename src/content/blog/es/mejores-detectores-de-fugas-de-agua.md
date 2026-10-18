@@ -385,7 +385,7 @@ author: editorial-team
 heroImage: /images/featured/best-water-leak-sensor-for-renters.png
 heroAlt: >-
   Los 3 mejores detectores de fugas de agua para inquilinos (sin taladrar,
-  2026): guía de compra de RenterSmartHome
+  2026) – guía de compra de RenterSmartHome
 ---
 
 El mejor detector de fugas de agua para inquilinos es un aparato pequeño, a pilas o enchufable, que se queda en el suelo, te manda un aviso al móvil en cuanto se moja y vuelve a su caja el día de la mudanza. Un detector de fugas de agua (también llamado detector de agua inteligente o sensor de inundación) detecta el agua con unas sondas metálicas o un cable sensor y después hace sonar una alarma o envía una notificación a través de una app. Nosotros hemos elegido tres que no necesitan taladrar, ni fontanería, ni herramientas del casero, y te explicamos dónde ponerlos, qué dice probablemente tu contrato sobre las fugas y cómo documentar los daños por agua.

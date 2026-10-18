@@ -553,7 +553,7 @@ faqs:
       per kat plus één extra. In een studio met één kat kan de tweede bak een
       compacte open bak in een kast of de badkamer zijn.
 heroAlt: >-
-  Beste kattenbak voor klein appartement (2026): 7 ruimtebespaarders, koopgids
+  Beste kattenbak voor klein appartement (2026) – 7 ruimtebespaarders, koopgids
   van RenterSmartHome
 related:
   - nl/sterke-plakhaken-voor-huurders

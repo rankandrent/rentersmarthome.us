@@ -417,7 +417,7 @@ faqs:
     dieselbe Aufgabe tiefer.
 author: editorial-team
 heroImage: /images/featured/best-stud-finder-for-thick-walls.png
-heroAlt: 'Balkenfinder für dicke Wände 2026 (6 Geräte mit Tiefenscan): Kaufberatung
+heroAlt: 'Balkenfinder für dicke Wände 2026 (6 Geräte mit Tiefenscan) – Kaufberatung
   von RenterSmartHome'
 ---
 

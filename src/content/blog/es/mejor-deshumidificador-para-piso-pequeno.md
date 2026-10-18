@@ -572,7 +572,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-dehumidifier-for-small-apartment.png
 heroAlt: >-
-  Mejor deshumidificador para piso pequeño: 6 opciones de alquiler, guía de
+  Mejor deshumidificador para piso pequeño – 6 opciones de alquiler, guía de
   compra de RenterSmartHome
 ---
 

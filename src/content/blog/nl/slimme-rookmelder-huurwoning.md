@@ -324,7 +324,7 @@ faqs:
     mee. Vermeld de wissel en de controle in je e-mail bij het opleveren.
 author: editorial-team
 heroImage: /images/featured/best-smart-smoke-detector-for-apartments.png
-heroAlt: 'De 3 beste slimme rookmelders voor een huurwoning (2026): koopgids van RenterSmartHome'
+heroAlt: 'De 3 beste slimme rookmelders voor een huurwoning (2026) – koopgids van RenterSmartHome'
 ---
 
 De beste slimme rookmelder voor een huurwoning heeft geen bedrading nodig, stuurt een melding naar je telefoon als hij afgaat en gaat op de verhuisdag gewoon terug in de doos. Een slimme rookmelder is een rookmelder (vaak een gecombineerde rook- en CO-melder) die via wifi of een andere draadloze verbinding met een app praat, zodat je van een probleem hoort, ook als je niet thuis bent. Ik heb deze lijst beperkt tot drie modellen, omdat huurders te maken hebben met een regel die de meeste reviews overslaan: de melder aan je plafond is meestal van je verhuurder, en die moet blijven werken.

@@ -258,7 +258,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/blink-vs-ring-subscription.png
 heroAlt: >-
-  Blink of Ring: welk camera-abonnement kost huurders het minst? Vergelijking
+  Blink of Ring – welk camera-abonnement kost huurders het minst? Vergelijking
   van RenterSmartHome
 ---
 

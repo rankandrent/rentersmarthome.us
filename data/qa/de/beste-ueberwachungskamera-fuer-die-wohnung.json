@@ -3,11 +3,9 @@
   "lang": "de",
   "translationOf": "best-wireless-security-cameras-for-apartments",
   "pass": true,
-  "checkedAt": "2026-10-18T13:55:44.849Z",
+  "checkedAt": "2026-10-18T14:15:54.440Z",
   "errors": [],
-  "warnings": [
-    "source didn't respond normally (no response): https://homekitnews.com/2021/07/10/aqara-g3-camera-hub-review/"
-  ],
+  "warnings": [],
   "factCheck": {
     "verified": true,
     "notes": "Compared against English post best-wireless-security-cameras-for-apartments (English QA pass, no dead sources reported): same 9 products/ASINs/names/queries/scores, same sources and owner sources, same owner praise/complaint counts; every claim and number (256/128/512GB, 8GB, 2.5K, 125/135/122/360/114/340 degrees, 6000 mAh, 3h free history, 1.5 years) matches the English post; no added facts, prices, star ratings or local Amazon claims; US audio/privacy law statements kept and marked as US-specific; notes block uses only English-post facts; internal links point to localized sister posts.",

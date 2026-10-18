@@ -365,7 +365,7 @@ faqs:
       de la luz, sobre todo en pisos donde pagas tú los suministros.
 heroImage: /images/featured/best-matter-smart-plugs.png
 heroAlt: >-
-  Los mejores enchufes inteligentes Matter para pisos de alquiler en 2026: guía
+  Los mejores enchufes inteligentes Matter para pisos de alquiler en 2026 – guía
   de compra de RenterSmartHome
 ---
 

@@ -363,7 +363,7 @@ faqs:
       naar een video deurbel op accu met een houder zonder boren.
 heroImage: /images/featured/best-peephole-camera-for-apartments.png
 heroAlt: >-
-  De beste deurspion camera voor appartementen: beveiliging zonder boren:
+  De beste deurspion camera voor appartementen – beveiliging zonder boren:
   koopgids van RenterSmartHome
 ---
 

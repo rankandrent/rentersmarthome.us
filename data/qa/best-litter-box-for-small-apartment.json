@@ -1,14 +1,10 @@
 {
   "slug": "best-litter-box-for-small-apartment",
   "pass": true,
-  "checkedAt": "2026-10-18T13:53:10.462Z",
+  "checkedAt": "2026-10-18T14:15:53.833Z",
   "errors": [],
   "warnings": [
-    "product \"Petmate Booda Clean Step Cat Litter Box Dome\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://www.catster.com/lifestyle/best-cat-litter-boxes-for-small-apartments",
-    "source didn't respond normally (403): https://articles.hepper.com/best-cat-litter-boxes-for-small-apartments/",
-    "source didn't respond normally (no response): https://www.naturesmiracle.com/products/other-messes/hooded-corner-litter-box",
-    "product \"Petmate Booda Clean Step Cat Litter Box Dome\" (B0002DH8KU) is no longer returned by Amazon"
+    "product \"Petmate Booda Clean Step Cat Litter Box Dome\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,

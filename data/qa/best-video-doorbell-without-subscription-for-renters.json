@@ -1,11 +1,9 @@
 {
   "slug": "best-video-doorbell-without-subscription-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-18T13:54:17.419Z",
+  "checkedAt": "2026-10-18T14:15:54.062Z",
   "errors": [],
-  "warnings": [
-    "source didn't respond normally (403): https://www.currys.co.uk/techtalk/smart-tech/smart-home/best-video-doorbell-cameras-without-a-subscription.html"
-  ],
+  "warnings": [],
   "factCheck": {
     "verified": true,
     "notes": "2026-10-14: eufy E340 dual cameras, 8GB built-in storage, battery or wired (Amazon listing title, review roundups); eufy S220 stores locally on HomeBase (16GB), needs a HomeBase, battery or wired (eufy.com, Coolblue) - text updated; Tapo D210 microSD local storage. Wrong S220 listing (third-party battery) cleared.",

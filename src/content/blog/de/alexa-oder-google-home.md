@@ -293,7 +293,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/alexa-vs-google-home.png
 heroAlt: >-
-  Alexa oder Google Home 2026: Was passt besser in die Mietwohnung? Vergleich
+  Alexa oder Google Home 2026 – Was passt besser in die Mietwohnung? Vergleich
   von RenterSmartHome
 ---
 

@@ -364,7 +364,7 @@ faqs:
       Bohren.
 heroImage: /images/featured/best-peephole-camera-for-apartments.png
 heroAlt: >-
-  Die beste Türspion-Kamera für Wohnungen: Türsicherheit ohne Bohren:
+  Die beste Türspion-Kamera für Wohnungen – Türsicherheit ohne Bohren:
   Kaufratgeber von RenterSmartHome
 ---
 

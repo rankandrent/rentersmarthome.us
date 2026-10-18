@@ -1,6 +1,6 @@
 ---
-title: 'Best Smart Smoke Detector for Apartments – 3 Renter-Safe Picks (2026)'
-seoTitle: 'Best Smart Smoke Detector for Apartments – 3 No-Wire Picks'
+title: Best Smart Smoke Detector for Apartments – 3 Renter-Safe Picks (2026)
+seoTitle: Best Smart Smoke Detector for Apartments – 3 No-Wire Picks
 description: >-
   The best smart smoke detector for apartments needs no wiring and sends phone
   alerts. Compare 3 renter picks, landlord rules and move-out steps for 2026.
@@ -370,7 +370,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-smart-smoke-detector-for-apartments.png
 heroAlt: >-
-  3 Best Smart Smoke Detectors for Apartments (Renter-Safe, 2026):
+  Best Smart Smoke Detector for Apartments – 3 Renter-Safe Picks (2026) –
   RenterSmartHome buying guide
 related:
   - best-water-leak-sensor-for-renters

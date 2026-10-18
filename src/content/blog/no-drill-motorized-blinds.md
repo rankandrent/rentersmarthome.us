@@ -1,6 +1,6 @@
 ---
 title: No Drill Motorized Blinds for Renters (2026) – 3 Hole-Free Picks
-seoTitle: 'No Drill Motorized Blinds – 3 Renter-Safe Picks (2026)'
+seoTitle: No Drill Motorized Blinds – 3 Renter-Safe Picks (2026)
 description: >-
   No-drill motorized blinds for renters: tension-mount smart shades and stick-on
   motors that automate your windows without screws, wiring or a lost deposit.
@@ -286,8 +286,8 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/no-drill-motorized-blinds.png
 heroAlt: >-
-  Best No Drill Motorized Blinds for Renters (2026): RenterSmartHome buying
-  guide
+  No Drill Motorized Blinds for Renters (2026) – 3 Hole-Free Picks –
+  RenterSmartHome buying guide
 related:
   - best-smart-light-bulbs-for-renters
   - best-led-strip-lights-for-renters

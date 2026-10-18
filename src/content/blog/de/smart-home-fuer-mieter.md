@@ -375,7 +375,7 @@ faqs:
       Liste deiner Geräte und der zugehörigen Apps beschleunigt das.
 heroImage: /images/featured/smart-home-for-renters.png
 heroAlt: >-
-  Smart Home für Mieter: der komplette Ratgeber ohne Bohren, Mieter-Ratgeber von
+  Smart Home für Mieter – der komplette Ratgeber ohne Bohren, Mieter-Ratgeber von
   RenterSmartHome
 ---
 

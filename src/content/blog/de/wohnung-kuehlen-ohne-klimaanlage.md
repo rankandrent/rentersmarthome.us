@@ -275,7 +275,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/how-to-cool-apartment-without-ac.png
 heroAlt: >-
-  Wohnung kühlen ohne Klimaanlage: 12 Tipps für Mieter, ein Ratgeber von
+  Wohnung kühlen ohne Klimaanlage – 12 Tipps für Mieter, ein Ratgeber von
   RenterSmartHome
 ---
 

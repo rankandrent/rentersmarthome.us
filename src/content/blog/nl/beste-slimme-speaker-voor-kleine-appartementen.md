@@ -357,7 +357,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-voice-assistant-speaker-for-small-apartments.png
 heroAlt: >-
-  Beste slimme speaker voor kleine appartementen: 4 compacte keuzes,
+  Beste slimme speaker voor kleine appartementen – 4 compacte keuzes,
   koopgids van RenterSmartHome
 ---
 

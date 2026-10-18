@@ -516,7 +516,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-magnetic-cabinet-locks-for-renters.png
 heroAlt: >-
-  Magnetische Kindersicherung für Schränke ohne Bohren: 6 Sets (2026),
+  Magnetische Kindersicherung für Schränke ohne Bohren – 6 Sets (2026),
   Kaufratgeber von RenterSmartHome
 ---
 

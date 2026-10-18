@@ -270,7 +270,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-led-strip-lights-for-renters.png
 heroAlt: >-
-  Las mejores tiras LED para pisos de alquiler (sin levantar la pintura): guía
+  Las mejores tiras LED para pisos de alquiler (sin levantar la pintura) – guía
   de compra de RenterSmartHome
 ---
 

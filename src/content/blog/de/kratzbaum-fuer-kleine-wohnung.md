@@ -325,7 +325,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-cat-tree-for-small-apartment.png
 heroAlt: >-
-  Kratzbaum für kleine Wohnungen: Die 3 besten Modelle (2026), Kaufratgeber von
+  Kratzbaum für kleine Wohnungen – Die 3 besten Modelle (2026), Kaufratgeber von
   RenterSmartHome
 ---
 

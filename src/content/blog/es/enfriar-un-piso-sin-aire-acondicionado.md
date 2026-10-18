@@ -277,7 +277,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/how-to-cool-apartment-without-ac.png
 heroAlt: >-
-  Cómo enfriar un piso sin aire acondicionado: 12 trucos para inquilinos, guía
+  Cómo enfriar un piso sin aire acondicionado – 12 trucos para inquilinos, guía
   de RenterSmartHome
 ---
 

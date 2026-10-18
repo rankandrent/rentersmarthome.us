@@ -617,7 +617,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/door-camera-for-apartment.png
 heroAlt: >-
-  Türklingel mit Kamera für die Mietwohnung: 6 Modelle ohne Kabel (2026),
+  Türklingel mit Kamera für die Mietwohnung – 6 Modelle ohne Kabel (2026),
   Kaufberatung von RenterSmartHome
 ---
 

@@ -515,7 +515,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-magnetic-cabinet-locks-for-renters.png
 heroAlt: >-
-  Magnetisch kinderslot voor kastjes zonder boren: 6 sets (2026), koopgids van
+  Magnetisch kinderslot voor kastjes zonder boren – 6 sets (2026), koopgids van
   RenterSmartHome
 ---
 

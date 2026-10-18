@@ -1,6 +1,6 @@
 ---
-title: 'Best Door Camera for Apartment Renters – 6 No-Wiring Picks (2026)'
-seoTitle: 'Door Camera for Apartment (2026) – 6 No-Wiring Renter Picks'
+title: Best Door Camera for Apartment Renters – 6 No-Wiring Picks (2026)
+seoTitle: Door Camera for Apartment (2026) – 6 No-Wiring Renter Picks
 description: >-
   The best door camera for an apartment runs on a battery and mounts without
   drilling. Compare 6 renter picks, storage costs, landlord rules and move-out
@@ -587,7 +587,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/door-camera-for-apartment.png
 heroAlt: >-
-  Best Door Camera for Apartment Renters: 6 No-Wiring Picks (2026):
+  Best Door Camera for Apartment Renters – 6 No-Wiring Picks (2026) –
   RenterSmartHome buying guide
 related:
   - best-litter-box-for-small-apartment

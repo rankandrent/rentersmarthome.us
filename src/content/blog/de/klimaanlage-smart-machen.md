@@ -277,7 +277,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/smart-ac-controller.png
 heroAlt: >-
-  Klimaanlage smart machen: 3 smarte AC-Controller für Mieter, Kaufberatung
+  Klimaanlage smart machen – 3 smarte AC-Controller für Mieter, Kaufberatung
   von RenterSmartHome
 ---
 

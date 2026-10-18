@@ -318,8 +318,8 @@ related:
   - ring-doorbell-in-apartment
 heroImage: /images/featured/smart-thermostat-in-apartment.png
 heroAlt: >-
-  Can I Install a Smart Thermostat in My Apartment?: RenterSmartHome renter
-  guide
+  Can I Install a Smart Thermostat in My Apartment? The C-Wire Check –
+  RenterSmartHome renter guide
 ---
 
 Can you install a smart thermostat in your apartment? **Often yes: if your landlord approves and your apartment has a compatible 24V heating and cooling system, you can swap in a smart thermostat and put the old one back when you move out.** The two things that stop most renters are the lease and the wiring, so we'll check both before you spend anything.

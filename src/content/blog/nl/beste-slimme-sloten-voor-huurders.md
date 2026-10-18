@@ -404,7 +404,7 @@ faqs:
       voordat je verhuist.
 heroImage: /images/featured/best-smart-lock-for-renters.png
 heroAlt: >-
-  De beste slimme sloten voor huurders in 2026 (omkeerbaar): koopgids van
+  De beste slimme sloten voor huurders in 2026 (omkeerbaar) – koopgids van
   RenterSmartHome
 ---
 

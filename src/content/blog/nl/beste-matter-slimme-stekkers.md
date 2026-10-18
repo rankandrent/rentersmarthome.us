@@ -363,7 +363,7 @@ faqs:
       vooral in woningen waar je zelf de energie betaalt.
 heroImage: /images/featured/best-matter-smart-plugs.png
 heroAlt: >-
-  De beste Matter slimme stekkers voor huurwoningen in 2026: koopgids van
+  De beste Matter slimme stekkers voor huurwoningen in 2026 – koopgids van
   RenterSmartHome
 ---
 

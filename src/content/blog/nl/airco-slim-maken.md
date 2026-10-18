@@ -274,7 +274,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/smart-ac-controller.png
 heroAlt: >-
-  Airco slim maken: 3 slimme airco-controllers voor huurders, koopgids van
+  Airco slim maken – 3 slimme airco-controllers voor huurders, koopgids van
   RenterSmartHome
 ---
 

@@ -356,7 +356,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-voice-assistant-speaker-for-small-apartments.png
 heroAlt: >-
-  Die besten Smart Speaker für kleine Wohnungen: 4 kompakte Modelle,
+  Die besten Smart Speaker für kleine Wohnungen – 4 kompakte Modelle,
   Kaufberatung von RenterSmartHome
 ---
 

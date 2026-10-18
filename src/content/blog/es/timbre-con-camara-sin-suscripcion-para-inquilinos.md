@@ -301,7 +301,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-video-doorbell-without-subscription-for-renters.png
 heroAlt: >-
-  Timbre con cámara sin suscripción para inquilinos: 3 opciones: guía de compra
+  Timbre con cámara sin suscripción para inquilinos – 3 opciones – guía de compra
   de RenterSmartHome
 ---
 

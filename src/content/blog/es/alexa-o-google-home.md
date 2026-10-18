@@ -292,7 +292,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/alexa-vs-google-home.png
 heroAlt: >-
-  Alexa o Google Home en 2026: ¿cuál es mejor para un piso de alquiler?
+  Alexa o Google Home en 2026 – ¿cuál es mejor para un piso de alquiler?
   Comparativa de RenterSmartHome
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: How to Baby Proof a Rental Without Damage, Room by Room (2026)
+title: 'How to Baby Proof a Rental Without Damage, Room by Room (2026)'
 seoTitle: How to Baby Proof a Rental Without Damage – 2026 Room Guide
 description: >-
   How to baby proof a rental without damage: a room-by-room plan, what needs
@@ -471,8 +471,8 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/how-to-baby-proof-a-rental-without-damage.png
 heroAlt: >-
-  How to Baby Proof a Rental Without Damage (2026 Renter Guide): RenterSmartHome
-  renter guide
+  How to Baby Proof a Rental Without Damage, Room by Room (2026) –
+  RenterSmartHome renter guide
 ---
 
 Learning how to baby proof a rental without damage comes down to one rule we repeat to every renter we talk to: clamp, plug, snap or stick wherever you can, and screw into the wall only where safety demands it. Baby proofing a rental is the same job as baby proofing any home (block stairs, lock cabinets, cover outlets, stop furniture from tipping), with one extra goal: getting your full security deposit back. In this renter baby proofing guide we'll walk you through what needs landlord permission, a room-by-room plan, a landlord email you can copy, move-out day, and six tools that do the work without drilling.

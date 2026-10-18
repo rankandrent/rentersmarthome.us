@@ -3,12 +3,9 @@
   "lang": "es",
   "translationOf": "best-stud-finder-for-thick-walls",
   "pass": true,
-  "checkedAt": "2026-10-18T13:57:47.891Z",
+  "checkedAt": "2026-10-18T14:15:54.508Z",
   "errors": [],
-  "warnings": [
-    "source didn't respond normally (403): https://www.supplyhouse.com/Zircon-74239-StudSensor-Pro55-Stud-Finder",
-    "source didn't respond normally (403): https://rona.ca/en/product/zircon-metalliscanner-m40-scan-depth-object-detection-finder-zir62518-331005146"
-  ],
+  "warnings": [],
   "factCheck": {
     "verified": true,
     "notes": "Compared claim by claim with the English post (QA pass, factcheck verified): same 6 products/ASINs/order, same specs converted cm-first (6,4/4,4/4,3/3,8/1,9/5/7,6/10,2/5,1 cm; Bosch 120/80/50/38 mm), same sources, same owner praise/complaints counts. No new facts. US wood/metal stud + drywall/lath construction and 16 in (40,6 cm) stud spacing marked as US-specific. No prices, no testing claims, no local Amazon claims.",

@@ -574,7 +574,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-dehumidifier-for-small-apartment.png
 heroAlt: >-
-  Luftentfeuchter für kleine Wohnungen: Die 6 besten für Mieter, Kaufberatung
+  Luftentfeuchter für kleine Wohnungen – Die 6 besten für Mieter, Kaufberatung
   von RenterSmartHome
 ---
 

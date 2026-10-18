@@ -341,7 +341,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-cat-tree-for-small-apartment.png
 heroAlt: >-
-  Mejor rascador para gatos para pisos pequeños (2026): guía de compra de
+  Mejor rascador para gatos para pisos pequeños (2026) – guía de compra de
   RenterSmartHome
 ---
 

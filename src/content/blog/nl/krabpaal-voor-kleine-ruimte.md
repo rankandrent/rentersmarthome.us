@@ -327,7 +327,7 @@ faqs:
       regels voor wat als schade telt.
 author: editorial-team
 heroImage: /images/featured/best-cat-tree-for-small-apartment.png
-heroAlt: 'Beste krabpaal voor een kleine ruimte (2026): koopgids van RenterSmartHome'
+heroAlt: 'Beste krabpaal voor een kleine ruimte (2026) – koopgids van RenterSmartHome'
 ---
 
 De beste krabpaal voor een kleine ruimte geeft je kat hoogte zonder je vloer op te slokken, en blijft stevig staan zonder één gat in de muur. We hebben de krabpalen vergeleken die de best scorende gidsen steeds weer aanraden, en alleen de modellen gehouden met een voet van ongeveer 0,33 m² (3.5 sq ft) of minder, een echte Amazon-vermelding en veel feedback van eigenaren. Drie bleven er over. Hieronder lees je per krabpaal hoeveel vloer hij inneemt, wat eigenaren goed en minder goed vinden, en de huurdersdetails die de meeste gidsen overslaan: waar een krabpaal in een klein appartement moet staan, wanneer hij een anker nodig heeft en hoe je dat met je verhuurder regelt.

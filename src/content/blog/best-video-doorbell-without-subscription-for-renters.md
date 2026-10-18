@@ -292,8 +292,8 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-video-doorbell-without-subscription-for-renters.png
 heroAlt: >-
-  Best Video Doorbell Without Subscription for Renters: 3 Picks: RenterSmartHome
-  buying guide
+  Best Video Doorbell Without Subscription for Renters (Top 3, No Drill) –
+  RenterSmartHome buying guide
 related:
   - best-water-leak-sensor-for-renters
   - best-wireless-security-cameras-for-apartments
