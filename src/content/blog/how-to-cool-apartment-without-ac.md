@@ -265,6 +265,7 @@ heroAlt: >-
   How to Cool an Apartment Without AC: 12 Renter-Friendly Tips: RenterSmartHome
   renter guide
 related:
+  - best-dehumidifier-for-small-apartment
   - how-to-baby-proof-a-rental-without-damage
 ---
 

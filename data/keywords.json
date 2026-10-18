@@ -1734,7 +1734,7 @@
     }
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-14T08:48:40.167Z",
     "secondaryKeywords": [],
@@ -1758,7 +1758,8 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     },
-    "productCount": 8
+    "productCount": 8,
+    "publishedAt": "2026-10-18T13:06:27.362Z"
   },
   {
     "status": "pending",

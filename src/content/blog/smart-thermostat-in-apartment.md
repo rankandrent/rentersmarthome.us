@@ -313,6 +313,7 @@ faqs:
       heaters that are rated for them.
 author: editorial-team
 related:
+  - best-dehumidifier-for-small-apartment
   - how-to-cool-apartment-without-ac
   - ring-doorbell-in-apartment
 heroImage: /images/featured/smart-thermostat-in-apartment.png

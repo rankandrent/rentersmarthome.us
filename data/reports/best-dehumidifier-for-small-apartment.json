@@ -1,0 +1,323 @@
+{
+  "keyword": "best dehumidifier for small apartment",
+  "createdAt": "2026-10-18T13:06:27.365Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "dehumidifier for small apartment",
+    "entityVariants": [
+      "best dehumidifier for small apartment",
+      "dehumidifier for small apartment",
+      "small apartment dehumidifier",
+      "dehumidifier for a small apartment",
+      "apartment dehumidifier",
+      "small dehumidifier",
+      "dehumidifier"
+    ],
+    "entities": [
+      {
+        "name": "Midea Cube",
+        "type": "product line",
+        "relation": "compressor dehumidifier line with a nesting tank; the consensus small-space pick"
+      },
+      {
+        "name": "Eva-Dry",
+        "type": "brand",
+        "relation": "maker of mini thermoelectric and renewable desiccant dehumidifiers"
+      },
+      {
+        "name": "Pro Breeze",
+        "type": "brand",
+        "relation": "maker of the PB-03 mini thermoelectric dehumidifier"
+      },
+      {
+        "name": "compressor",
+        "type": "technology",
+        "relation": "refrigerant-based dehumidifiers that pull pints per day, needed for whole rooms"
+      },
+      {
+        "name": "thermoelectric",
+        "type": "technology",
+        "relation": "Peltier mini dehumidifiers that remove ounces per day; closets and bathrooms only"
+      },
+      {
+        "name": "Peltier",
+        "type": "technology",
+        "relation": "the solid-state cooling plate inside thermoelectric minis"
+      },
+      {
+        "name": "silica gel",
+        "type": "material",
+        "relation": "desiccant inside renewable dehumidifiers such as the E-333"
+      },
+      {
+        "name": "relative humidity",
+        "type": "attribute",
+        "relation": "what a dehumidifier lowers; EPA suggests 30-50%"
+      },
+      {
+        "name": "humidistat",
+        "type": "component",
+        "relation": "built-in sensor that turns the unit on and off at a set humidity"
+      },
+      {
+        "name": "drain hose",
+        "type": "component",
+        "relation": "continuous drainage option instead of emptying the bucket"
+      },
+      {
+        "name": "pints per day",
+        "type": "attribute",
+        "relation": "capacity rating used to size a dehumidifier"
+      },
+      {
+        "name": "Energy Star",
+        "type": "standard",
+        "relation": "efficiency certification for dehumidifiers"
+      },
+      {
+        "name": "EPA",
+        "type": "organization",
+        "relation": "publishes mold and moisture guidance for renters"
+      },
+      {
+        "name": "mold",
+        "type": "problem",
+        "relation": "what high humidity feeds in apartments"
+      },
+      {
+        "name": "landlord",
+        "type": "person",
+        "relation": "responsible for leaks and ventilation; tenant handles plug-in fixes"
+      }
+    ],
+    "attributes": [
+      "pints per day",
+      "tank size",
+      "noise",
+      "footprint",
+      "drain hose",
+      "humidistat accuracy",
+      "Energy Star",
+      "Wi-Fi app",
+      "weight",
+      "operating temperature"
+    ],
+    "ngrams": [
+      "small apartment",
+      "pints per day",
+      "relative humidity",
+      "drain hose",
+      "water tank",
+      "compressor dehumidifier",
+      "mini dehumidifier",
+      "studio apartment",
+      "one-bedroom apartment",
+      "humidity sensor",
+      "Energy Star"
+    ],
+    "skipgrams": [
+      "dehumidifier…apartment",
+      "humidity…percent",
+      "tank…empty",
+      "compressor…pints",
+      "closet…bathroom",
+      "landlord…mold"
+    ],
+    "nlpTerms": [
+      "renters",
+      "lease",
+      "landlord",
+      "mold",
+      "mildew",
+      "condensation",
+      "musty",
+      "bedroom",
+      "bathroom",
+      "closet",
+      "studio",
+      "humid",
+      "moisture",
+      "quiet",
+      "bucket",
+      "hygrometer",
+      "basement",
+      "laundry",
+      "outlet",
+      "square feet",
+      "Peltier",
+      "desiccant",
+      "move-out"
+    ],
+    "questions": [
+      "What size dehumidifier do I need for a small apartment?",
+      "Do mini dehumidifiers work in a whole room?",
+      "Where should I put a dehumidifier in an apartment?",
+      "What humidity should an apartment be?",
+      "Is a 20 pint dehumidifier enough for a studio apartment?",
+      "Who is responsible for mold in a rental?"
+    ],
+    "contentGaps": [
+      "Why coverage square footage on listings is unreliable (the same 20 pint unit is listed at 300, 500 and 1,500 sq ft)",
+      "Compressor vs thermoelectric vs desiccant explained for renters",
+      "Where to place a dehumidifier in a studio or one-bedroom and where to drain it",
+      "When humidity is the landlord's problem (leaks, broken bathroom fan) and how to document it",
+      "Moving out: storing and carrying a dehumidifier between apartments"
+    ],
+    "outline": [
+      {
+        "h2": "The best dehumidifier for a small apartment: short answer",
+        "intent": "verdict + top picks",
+        "h3": []
+      },
+      {
+        "h2": "How we picked these small apartment dehumidifiers",
+        "intent": "method / trust",
+        "h3": []
+      },
+      {
+        "h2": "The 6 best dehumidifiers for small apartments",
+        "intent": "product reviews",
+        "h3": [
+          "Midea Cube 20 Pint Dehumidifier: best overall",
+          "Midea Cube 35 Pint Dehumidifier: best for a damp one-bedroom",
+          "Midea Cube 50 Pint Dehumidifier: best for ground-floor units",
+          "Eva-Dry EDV-1100: best for a bathroom",
+          "Pro Breeze PB-03: best mini with a bigger tank",
+          "Eva-Dry E-333: best cordless for closets"
+        ]
+      },
+      {
+        "h2": "Compare the picks",
+        "intent": "comparison table",
+        "h3": []
+      },
+      {
+        "h2": "What size dehumidifier does a small apartment need?",
+        "intent": "sizing / buying guide",
+        "h3": []
+      },
+      {
+        "h2": "Compressor vs mini dehumidifiers",
+        "intent": "technology explainer",
+        "h3": []
+      },
+      {
+        "h2": "Where to put a dehumidifier in an apartment",
+        "intent": "placement / setup",
+        "h3": []
+      },
+      {
+        "h2": "Renter notes: landlord, mold and move-out",
+        "intent": "renter-specific",
+        "h3": []
+      },
+      {
+        "h2": "Our verdict",
+        "intent": "choose X if / Y if",
+        "h3": []
+      }
+    ],
+    "targetWords": 2900,
+    "serpProducts": [
+      {
+        "name": "Midea Cube 20 Pint (MAD20S1QWT)",
+        "pages": [
+          "https://www.dehumidifierbuyersguide.com/",
+          "https://www.dehumidifierbuyersguide.com/low-capacity-dehumidifier-reviews/",
+          "https://www.rtings.com/dehumidifier/reviews/best/small",
+          "https://www.consumerreports.org/appliances/dehumidifiers/best-dehumidifiers-under-250-a7084416641/",
+          "https://www.wired.com/gallery/best-dehumidifier/"
+        ]
+      },
+      {
+        "name": "Midea Cube 35 Pint (MAD35S1QWT)",
+        "pages": [
+          "https://www.consumerreports.org/appliances/dehumidifiers/best-dehumidifiers-under-250-a7084416641/",
+          "https://housefresh.com/best-dehumidifiers-we-tested/",
+          "https://www.dehumidifierbuyersguide.com/"
+        ]
+      },
+      {
+        "name": "Midea Cube 50 Pint (MAD50S1QWT)",
+        "pages": [
+          "https://www.dehumidifierbuyersguide.com/",
+          "https://www.listful.com/guides/article/15-best-dehumidifiers-for-small-spaces-2026",
+          "https://housefresh.com/best-dehumidifiers-we-tested/",
+          "https://www.nytimes.com/wirecutter/reviews/best-dehumidifier/"
+        ]
+      },
+      {
+        "name": "Eva-Dry EDV-1100",
+        "pages": [
+          "https://www.rtings.com/dehumidifier/reviews/best/small",
+          "https://www.listful.com/guides/article/15-best-dehumidifiers-for-small-spaces-2026",
+          "https://www.bhg.com/decorating/home-accessories/best-small-dehumidifier/"
+        ]
+      },
+      {
+        "name": "Pro Breeze PB-03 mini",
+        "pages": [
+          "https://www.rtings.com/dehumidifier/reviews/best/small",
+          "https://www.listful.com/guides/article/15-best-dehumidifiers-for-small-spaces-2026",
+          "https://www.bhg.com/decorating/home-accessories/best-small-dehumidifier/"
+        ]
+      },
+      {
+        "name": "Eva-Dry E-333",
+        "pages": [
+          "https://www.dehumidifierbuyersguide.com/",
+          "https://www.wired.com/gallery/best-dehumidifier/",
+          "https://www.listful.com/guides/article/15-best-dehumidifiers-for-small-spaces-2026"
+        ]
+      },
+      {
+        "name": "GoveeLife Smart Dehumidifier (H7151) - dropped: 4,500 sq ft basement unit, reviewers flag noise and heat",
+        "pages": [
+          "https://www.dehumidifierbuyersguide.com/",
+          "https://www.wired.com/gallery/best-dehumidifier/",
+          "https://www.listful.com/guides/article/15-best-dehumidifiers-for-small-spaces-2026"
+        ]
+      }
+    ],
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://www.dehumidifierbuyersguide.com/",
+        "https://www.rtings.com/dehumidifier/reviews/best/small",
+        "https://www.wired.com/gallery/best-dehumidifier/",
+        "https://housefresh.com/best-dehumidifiers-we-tested/",
+        "https://www.consumerreports.org/appliances/dehumidifiers/best-dehumidifiers-under-250-a7084416641/",
+        "https://www.listful.com/guides/article/15-best-dehumidifiers-for-small-spaces-2026"
+      ],
+      "productStyle": "pros-cons",
+      "productStyleReason": "Wired (Wired/Tired), HouseFresh (pros/cons + spec table) and Listful (What we like / Room for improvement) give each product a pros and cons list; RTINGS and Consumer Reports use prose only.",
+      "avgWords": 2640,
+      "avgProducts": 7,
+      "commonSections": [
+        "how we test / how we chose",
+        "product picks by role",
+        "comparison or spec data",
+        "buying guide: size and capacity",
+        "why mini (Peltier) units are weak",
+        "mold and humidity basics"
+      ],
+      "usesComparisonTable": false,
+      "usesFaq": false,
+      "usesBuyingGuide": true
+    }
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-voice-assistant-speaker-for-small-apartments",
+      "mode": "related-box"
+    },
+    {
+      "slug": "how-to-cool-apartment-without-ac",
+      "mode": "related-box"
+    },
+    {
+      "slug": "smart-thermostat-in-apartment",
+      "mode": "related-box"
+    }
+  ]
+}

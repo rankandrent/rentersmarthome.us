@@ -1,0 +1,19 @@
+{
+  "slug": "best-dehumidifier-for-small-apartment",
+  "pass": true,
+  "checkedAt": "2026-10-18T13:05:58.973Z",
+  "errors": [],
+  "warnings": [
+    "product \"Midea Cube 20 Pint Dehumidifier\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Midea Cube 35 Pint Dehumidifier\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Midea Cube 50 Pint Dehumidifier\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Eva-Dry EDV-1100 Petite Dehumidifier\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Pro Breeze PB-03 Mini Dehumidifier\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Eva-Dry E-333 Renewable Mini Dehumidifier\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified product picks against top-10 SERP pages (DBG home + low-capacity, RTINGS best small, Consumer Reports under-250, Wired, HouseFresh, Listful, BHG excerpt, Wirecutter excerpt): every product recommended by >=2. Specs checked: Midea Cube 20 (20 pints/day, 13.5 in cube, 33.07 lb, Energy Star, Wi-Fi/voice, drain hose, nested bucket, 35-85% RH) vs Sylvane + Home Depot + Wired (42 dB high) + CR (top small-capacity, timer, hose); coverage 300/500/1,500 sq ft vs Sylvane/Home Depot/Amazon title. Cube 35 (35 pints, 3,500 sq ft, 14.45x14.76x14.57 in, 39.62 lb, no pump, nested/extended, 1-yr warranty) vs midea.com MAD35S1QWT page; CR highest-rated/quiet. Cube 50 (50 pints, 35-85%, hose, Wi-Fi) vs Amazon listing; Wirecutter top pick + quietest (SERP excerpt), DBG #1. EDV-1100 (1,100 cu ft, 33 dB, 22 W, auto shutoff, auto restart, 1-yr) vs eva-dry.com; RTINGS quieter/cooler than TABYIK. PB-03 (2,200 cu ft/250 sq ft, 52 oz tank, no compressor, auto shutoff) vs Amazon/Home Depot listing + Listful; RTINGS/HouseFresh weakness claims. E-333 (333 cu ft, up to 13 oz, color beads, 10-12 h recharge, 5-yr warranty) vs eva-dry.com. EPA 30-50%/below 60% vs epa.gov mold guide. DBG thermoelectric 60x slower + 20-pint for >50 sq ft rooms vs DBG excerpt. ASINs matched by model on Amazon: B08ZMY8BC8 (MAD20S1QWT), B0GL7Q7173 (MAD35S1QWT-A), B0GL7B1FC8 (Cube 50), B000H0ZDD2 (EDV-1100), B01HXVUT7C (PB-03 2200 cu ft), B000H0XFCS (E-333). Owner counts are reviews actually read. Removed speculative claims (compressor cycling).",
+    "at": "2026-10-18T13:05:58.576Z"
+  }
+}
