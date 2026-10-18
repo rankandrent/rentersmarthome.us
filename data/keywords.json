@@ -3153,7 +3153,7 @@
     }
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-14T08:48:40.168Z",
     "secondaryKeywords": [],
@@ -3176,7 +3176,8 @@
       "parentTopic": "small litter box",
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
-    }
+    },
+    "publishedAt": "2026-10-18T13:08:50.073Z"
   },
   {
     "status": "pending",
@@ -3581,5 +3582,29 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     }
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-18T13:08:50.467Z",
+    "secondaryKeywords": [],
+    "questions": [
+      "Can you put a litter box in the bathroom?",
+      "Where should a litter box not go?"
+    ],
+    "priority": 5,
+    "keyword": "where to put litter box in small apartment",
+    "category": "pets",
+    "articleType": "guide",
+    "intent": "informational",
+    "funnel": "tofu",
+    "workingTitle": "Where to Put a Litter Box in a Small Apartment",
+    "cluster": "small-apartment pets",
+    "rationale": "Found by the litter-box post research: Ahrefs 350/KD 1, different intent from the roundup (placement guide); supports best-litter-box-for-small-apartment",
+    "ahrefs": {
+      "volume": 350,
+      "kd": 1
+    },
+    "slug": "where-to-put-litter-box-in-small-apartment"
   }
 ]

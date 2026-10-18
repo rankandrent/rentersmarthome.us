@@ -353,6 +353,7 @@ heroAlt: >-
   Best Voice Assistant Speaker for Small Apartments: 4 Compact Picks:
   RenterSmartHome buying guide
 related:
+  - best-litter-box-for-small-apartment
   - best-dehumidifier-for-small-apartment
   - best-smart-smoke-detector-for-apartments
   - best-stud-finder-for-thick-walls

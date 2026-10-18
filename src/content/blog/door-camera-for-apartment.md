@@ -465,6 +465,8 @@ heroImage: /images/featured/door-camera-for-apartment.png
 heroAlt: >-
   Best Door Camera for Apartment Renters: 6 No-Wiring Picks (2026):
   RenterSmartHome buying guide
+related:
+  - best-litter-box-for-small-apartment
 ---
 
 A door camera for an apartment lets you see who knocked, talk to couriers and catch a package grab, all without the doorbell wiring most rentals never give tenants. We compared the door cameras that the top-ranking guides keep recommending and kept the six that run on batteries and can go up without drilling. Below you'll find our picks, a side-by-side table, how we chose them, a landlord email and a move-out plan.

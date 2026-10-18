@@ -1,0 +1,350 @@
+{
+  "keyword": "best litter box for small apartment",
+  "createdAt": "2026-10-18T13:08:50.075Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "litter box for small apartment",
+    "entityVariants": [
+      "litter box",
+      "litter boxes",
+      "small-apartment litter box",
+      "compact litter box",
+      "space-saving litter box",
+      "litter box for small spaces",
+      "cat litter box"
+    ],
+    "entities": [
+      {
+        "name": "top-entry litter box",
+        "type": "product type",
+        "relation": "enclosed box entered through the lid; cuts scatter and tracking in tight rooms"
+      },
+      {
+        "name": "corner litter box",
+        "type": "product type",
+        "relation": "triangular box that uses dead corner space"
+      },
+      {
+        "name": "hooded litter box",
+        "type": "product type",
+        "relation": "covered box that contains spray and hides waste"
+      },
+      {
+        "name": "self-cleaning litter box",
+        "type": "product type",
+        "relation": "automatic box that sifts waste into a drawer; large footprint, needs an outlet"
+      },
+      {
+        "name": "litter box enclosure",
+        "type": "product type",
+        "relation": "furniture or planter that hides a box in a living space"
+      },
+      {
+        "name": "Litter-Robot 4",
+        "type": "product",
+        "relation": "most-recommended automatic box across the top results"
+      },
+      {
+        "name": "IRIS",
+        "type": "brand",
+        "relation": "maker of the compact top-entry box"
+      },
+      {
+        "name": "Van Ness",
+        "type": "brand",
+        "relation": "maker of budget high-sided and corner pans"
+      },
+      {
+        "name": "Nature's Miracle",
+        "type": "brand",
+        "relation": "maker of the hooded corner box with charcoal filter"
+      },
+      {
+        "name": "Booda",
+        "type": "brand",
+        "relation": "Petmate dome box with paw-cleaning steps"
+      },
+      {
+        "name": "Good Pet Stuff",
+        "type": "brand",
+        "relation": "maker of the hidden planter litter box"
+      },
+      {
+        "name": "charcoal filter",
+        "type": "feature",
+        "relation": "odor control in hooded boxes"
+      },
+      {
+        "name": "litter mat",
+        "type": "accessory",
+        "relation": "catches tracked litter and protects rental floors"
+      },
+      {
+        "name": "clumping litter",
+        "type": "consumable",
+        "relation": "litter type most boxes and the Litter-Robot use"
+      },
+      {
+        "name": "security deposit",
+        "type": "renter concept",
+        "relation": "urine and scratches on floors can be deducted at move-out"
+      },
+      {
+        "name": "lease",
+        "type": "renter concept",
+        "relation": "pet clauses and pet addenda set cleanliness expectations"
+      }
+    ],
+    "attributes": [
+      "footprint",
+      "height",
+      "entry height",
+      "interior space",
+      "high sides",
+      "covered or open",
+      "odor control",
+      "tracking",
+      "ease of cleaning",
+      "cat size",
+      "power needs",
+      "price tier"
+    ],
+    "ngrams": [
+      "litter box for small apartment",
+      "small spaces",
+      "top entry",
+      "high sides",
+      "corner litter box",
+      "litter scatter",
+      "urine spray",
+      "floor space",
+      "self-cleaning litter box",
+      "charcoal filter",
+      "litter tracking",
+      "litter mat"
+    ],
+    "skipgrams": [
+      "litter…scatter",
+      "high…sides",
+      "top…entry",
+      "floor…space",
+      "urine…spray",
+      "corner…space",
+      "waste…drawer"
+    ],
+    "nlpTerms": [
+      "footprint",
+      "corner",
+      "hooded",
+      "enclosed",
+      "odor",
+      "tracking",
+      "scoop",
+      "clumping",
+      "spray",
+      "studio",
+      "bathroom",
+      "closet",
+      "renters",
+      "deposit",
+      "landlord",
+      "outlet",
+      "kitten",
+      "senior",
+      "dimensions",
+      "filter"
+    ],
+    "questions": [
+      "What is the best litter box for a small apartment?",
+      "Where should you put a litter box in a small apartment?",
+      "Are top-entry litter boxes good for small spaces?",
+      "Is an automatic litter box worth it in a small apartment?",
+      "How big should a litter box be?",
+      "How do you stop litter box smell in a studio?"
+    ],
+    "contentGaps": [
+      "measuring the spot before buying (box footprint vs clearance for a top entry or a robot globe)",
+      "protecting rental floors and baseboards from urine and scatter (mats, trays, wall guards)",
+      "pet clauses and pet addenda in a lease and move-out cleaning",
+      "where the outlet is for an automatic box and cord safety",
+      "one box per cat plus one rule in a studio"
+    ],
+    "outline": [
+      {
+        "h2": "Best litter box for small apartments: the short answer",
+        "intent": "direct answer and top picks",
+        "h3": []
+      },
+      {
+        "h2": "Small-apartment litter boxes compared",
+        "intent": "comparison table",
+        "h3": []
+      },
+      {
+        "h2": "The 7 best litter boxes for small apartments",
+        "intent": "product picks",
+        "h3": [
+          "IRIS USA Large Top Entry Cat Litter Box",
+          "Van Ness Corner High Sides Cat Litter Pan",
+          "Nature's Miracle Advanced Hooded Corner Cat Litter Box",
+          "Van Ness High Sides Cat Litter Pan",
+          "Petmate Booda Clean Step Cat Litter Box Dome",
+          "Good Pet Stuff Original Hidden Litter Box Planter",
+          "Whisker Litter-Robot 4"
+        ]
+      },
+      {
+        "h2": "How to choose a litter box for small spaces",
+        "intent": "buying guide",
+        "h3": [
+          "Footprint vs interior space",
+          "Open, hooded or top entry",
+          "Automatic boxes and outlets"
+        ]
+      },
+      {
+        "h2": "Where to put a litter box in a small apartment",
+        "intent": "placement",
+        "h3": []
+      },
+      {
+        "h2": "Protecting your rental and deposit",
+        "intent": "renter angle",
+        "h3": []
+      },
+      {
+        "h2": "Which small-apartment litter box should you buy?",
+        "intent": "verdict",
+        "h3": []
+      }
+    ],
+    "targetWords": 2800,
+    "secondaryKeywords": [
+      "best litter box for small spaces",
+      "litter box for small spaces",
+      "cat litter box for small spaces",
+      "narrow litter box for small spaces",
+      "best automatic litter box for small spaces",
+      "litter box for studio apartment"
+    ],
+    "serpProducts": [
+      {
+        "name": "Whisker Litter-Robot 4",
+        "pages": [
+          "https://cats.com/best-litter-boxes-for-a-small-apartment",
+          "https://www.consumerreports.org/home-garden/pets/best-cat-litter-boxes-a7688686907/",
+          "https://www.catster.com/lifestyle/best-cat-litter-boxes-for-small-apartments",
+          "https://articles.hepper.com/best-cat-litter-boxes-for-small-apartments/"
+        ]
+      },
+      {
+        "name": "Good Pet Stuff Original Hidden Litter Box Planter",
+        "pages": [
+          "https://cats.com/best-litter-boxes-for-a-small-apartment",
+          "https://www.catster.com/lifestyle/best-cat-litter-boxes-for-small-apartments",
+          "https://articles.hepper.com/best-cat-litter-boxes-for-small-apartments/"
+        ]
+      },
+      {
+        "name": "Nature's Miracle Advanced Hooded Corner Cat Litter Box",
+        "pages": [
+          "https://www.catster.com/lifestyle/best-cat-litter-boxes-for-small-apartments",
+          "https://articles.hepper.com/best-cat-litter-boxes-for-small-apartments/"
+        ]
+      },
+      {
+        "name": "IRIS USA Large Top Entry Cat Litter Box",
+        "pages": [
+          "https://cats.com/best-litter-boxes-for-a-small-apartment",
+          "https://articles.hepper.com/best-cat-litter-boxes-for-small-apartments/"
+        ]
+      },
+      {
+        "name": "Van Ness Corner High Sides Cat Litter Pan",
+        "pages": [
+          "https://cats.com/best-litter-boxes-for-a-small-apartment",
+          "https://petcorner.pangovet.com/pet-lifestyle/cats/best-litter-boxes-for-a-small-apartment"
+        ]
+      },
+      {
+        "name": "Van Ness High Sides Cat Litter Pan",
+        "pages": [
+          "https://articles.hepper.com/best-cat-litter-boxes-for-small-apartments/",
+          "https://petcorner.pangovet.com/pet-lifestyle/cats/best-litter-boxes-for-a-small-apartment"
+        ]
+      },
+      {
+        "name": "Petmate Booda Clean Step Cat Litter Box Dome",
+        "pages": [
+          "https://www.catster.com/lifestyle/best-cat-litter-boxes-for-small-apartments",
+          "https://articles.hepper.com/best-cat-litter-boxes-for-small-apartments/"
+        ]
+      },
+      {
+        "name": "Frisco Multi-Function Covered Cat Litter Box (dropped: Chewy house brand, no Amazon US listing)",
+        "pages": [
+          "https://cats.com/best-litter-boxes-for-a-small-apartment",
+          "https://www.catster.com/lifestyle/best-cat-litter-boxes-for-small-apartments"
+        ]
+      }
+    ],
+    "internalLinkCandidates": [
+      {
+        "slug": "best-heavy-duty-adhesive-hooks-for-renters",
+        "reason": "hang the scoop and broom next to the box without drilling"
+      },
+      {
+        "slug": "best-wireless-security-cameras-for-apartments",
+        "reason": "indoor camera to check on the cat and the box while away"
+      },
+      {
+        "slug": "smart-home-for-renters",
+        "reason": "app-connected automatic boxes fit a renter smart home"
+      },
+      {
+        "slug": "best-matter-smart-plugs",
+        "reason": "outlet and smart plug caution for automatic boxes"
+      }
+    ],
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://cats.com/best-litter-boxes-for-a-small-apartment",
+        "https://www.catster.com/lifestyle/best-cat-litter-boxes-for-small-apartments",
+        "https://articles.hepper.com/best-cat-litter-boxes-for-small-apartments/",
+        "https://petcorner.pangovet.com/pet-lifestyle/cats/best-litter-boxes-for-a-small-apartment",
+        "https://www.consumerreports.org/home-garden/pets/best-cat-litter-boxes-a7688686907/",
+        "https://www.apartmenttherapy.com/editor-tested-litter-box-enclosures-review-37183259",
+        "https://www.furrbby.com/blogs/blogs/top-5-compact-litter-box-designs-for-small-spaces"
+      ],
+      "productStyle": "pros-cons",
+      "productStyleReason": "Cats.com, Catster, Hepper and PangoVet/The Vet Desk all give each litter box a pros and cons list under a short review.",
+      "avgWords": 2550,
+      "avgProducts": 7.6,
+      "commonSections": [
+        "quick comparison table",
+        "product reviews with pros and cons",
+        "buyer's guide",
+        "how we picked / selection process",
+        "final thoughts"
+      ],
+      "usesComparisonTable": true,
+      "usesFaq": false,
+      "usesBuyingGuide": true
+    }
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-dehumidifier-for-small-apartment",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-voice-assistant-speaker-for-small-apartments",
+      "mode": "related-box"
+    },
+    {
+      "slug": "door-camera-for-apartment",
+      "mode": "related-box"
+    }
+  ]
+}
