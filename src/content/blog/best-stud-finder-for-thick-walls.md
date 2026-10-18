@@ -460,7 +460,7 @@ heroAlt: >-
   buying guide
 ---
 
-The best stud finder for plaster walls, and for thick walls in general, is one that can read past an inch and a half of material without lighting up on every lump of old plaster. If you rent in an older building, I know the feeling: you sweep a cheap stud finder across the wall, it beeps everywhere, and you end up drilling test holes you'll have to patch before move-out. We compared six deep scan and multi-mode stud finders using manufacturer specs and retailer listings, and I'll say it plainly up front: very thick or metal-lath plaster can defeat any electronic stud finder, so every pick here comes with a way to double-check.
+The best stud finder for plaster walls, and for thick walls in general, is one that can read past an inch and a half of material without lighting up on every lump of old plaster. If you rent in an older building, we know the feeling: you sweep a cheap stud finder across the wall, it beeps everywhere, and you end up drilling test holes you'll have to patch before move-out. We compared six deep scan and multi-mode stud finders using manufacturer specs and retailer listings, and we'll say it plainly up front: very thick or metal-lath plaster can defeat any electronic stud finder, so every pick here comes with a way to double-check.
 
 ## Our picks for the best stud finder for plaster and thick walls
 
@@ -479,25 +479,25 @@ The table below compares the six picks on detection depth and the extras that ma
 
 ## The best stud finders for thick walls, reviewed
 
-**Each stud finder below handles thick walls differently: the Franklins read deepest for wood, the Zircon and Bosch scanners add wire and metal modes, and the MetalliScanner skips density altogether.** I've written each section around the wall you actually have, so you can skip to the one that matches your apartment.
+**Each stud finder below handles thick walls differently: the Franklins read deepest for wood, the Zircon and Bosch scanners add wire and metal modes, and the MetalliScanner skips density altogether.** We've written each section around the wall you actually have, so you can skip to the one that matches your apartment.
 
 ### Franklin Sensors ProSensor MAX: Best for thick plaster
 
 The Franklin Sensors ProSensor MAX is Franklin's deepest-reading stud finder, and the maker lists a 2.5-inch max detection depth, the deepest of anything in this roundup. It has a mode aimed at lath and plaster, double-layer drywall and large tile, and that mode needs no calibration. Its 13-sensor array lights up the stud position across a wide area in one placement, so you aren't sweeping back and forth on a wall that already confuses sensors.
 
-This is the stud finder for plaster walls I'd reach for first in a prewar apartment. The honest catch is that the 2.5 inches is a maximum, and Franklin's instruction sheet lists about 1.75 inches for wood studs. Franklin also does not guarantee detection on thick or irregular plaster, and says detection may fail if the plaster has metal mesh reinforcement, and it sits at the higher end of the price range. If your building has double-layer, fire-rated drywall between units, or plaster you suspect is thick, the [Franklin Sensors ProSensor MAX](amzn:Franklin+Sensors+ProSensor+MAX+stud+finder) gives you the best odds of a clean reading.
+This is the stud finder for plaster walls we'd reach for first in a prewar apartment. The honest catch is that the 2.5 inches is a maximum, and Franklin's instruction sheet lists about 1.75 inches for wood studs. Franklin also does not guarantee detection on thick or irregular plaster, and says detection may fail if the plaster has metal mesh reinforcement, and it sits at the higher end of the price range. If your building has double-layer, fire-rated drywall between units, or plaster you suspect is thick, the [Franklin Sensors ProSensor MAX](amzn:Franklin+Sensors+ProSensor+MAX+stud+finder) gives you the best odds of a clean reading.
 
 ### Franklin Sensors ProSensor M210: Best for drywall plus AC detection
 
-The Franklin Sensors ProSensor M210 uses the same 13-sensor idea as the MAX but scans up to 1.7 inches deep and adds an indicator that lights when it detects a live AC wire. It shows the whole stud area at once rather than making you sweep, which helps you see the stud center instead of guessing from one edge.
+Built on the same 13-sensor idea as the MAX, the Franklin Sensors ProSensor M210 scans up to 1.7 inches deep and adds an indicator that lights when it detects a live AC wire. It shows the whole stud area at once rather than making you sweep, which helps you see the stud center instead of guessing from one edge.
 
-For renters in newer buildings with thick or doubled drywall, this is the sweet spot. I like that the wire indicator sits on the same tool, because the place you want a TV mount is often the place an outlet cable runs. Franklin says plainly that it cannot guarantee detection over old wood lath, and it is less suited to heavy plaster than the MAX. If your walls are drywall, the [Franklin Sensors ProSensor M210](amzn:Franklin+Sensors+ProSensor+M210+stud+finder) is the deep scan stud finder I'd pick.
+For renters in newer buildings with thick or doubled drywall, this is the sweet spot. We like that the wire indicator sits on the same tool, because the place you want a TV mount is often the place an outlet cable runs. Franklin says plainly that it cannot guarantee detection over old wood lath, and it is less suited to heavy plaster than the MAX. If your walls are drywall, the [Franklin Sensors ProSensor M210](amzn:Franklin+Sensors+ProSensor+M210+stud+finder) is the deep scan stud finder we'd pick.
 
 ### Zircon MultiScanner i520 OneStep: Best multi-mode scanner
 
 The Zircon MultiScanner i520 OneStep combines a DeepScan stud mode with separate modes for live AC wire and metal. DeepScan is rated to 1.5 inches (38 mm), live unshielded AC wire detection to 2 inches (50 mm), and ferrous metal such as rebar to 3 inches (76 mm).
 
-That metal mode is what makes it interesting for thick walls. When the stud mode struggles, you can switch over and look for the nails and screws that hold the wall to the framing. The downsides are real: 1.5-inch DeepScan may be marginal on thick plaster, and it costs noticeably more than basic finders for roughly the same stud depth as the cheaper Pro55. I'd choose the [Zircon MultiScanner i520 OneStep](amzn:Zircon+MultiScanner+i520+OneStep+stud+finder) if you want one tool that covers studs, wires and metal without carrying three.
+That metal mode is what makes it interesting for thick walls. When the stud mode struggles, you can switch over and look for the nails and screws that hold the wall to the framing. The downsides are real: 1.5-inch DeepScan may be marginal on thick plaster, and it costs noticeably more than basic finders for roughly the same stud depth as the cheaper Pro55. We'd choose the [Zircon MultiScanner i520 OneStep](amzn:Zircon+MultiScanner+i520+OneStep+stud+finder) if you want one tool that covers studs, wires and metal without carrying three.
 
 ### Zircon StudSensor Pro55 Stud Finder with Deep Scan: Best budget deep scan
 
@@ -509,21 +509,21 @@ For a renter who hangs things a few times a year, this is the best stud finder w
 
 The Bosch GMS 120 is a multi-material scanner with Metal, Drywall and Live Wire settings. It detects magnetic metal to 120 mm, non-magnetic metal to 80 mm and live cables to 50 mm, and its LED ring shows red, yellow or green so you know at a glance whether it's safe to drill.
 
-The Center Finder with a marking hole is the renter-friendly part: you mark through the hole with a pencil instead of tracing around the tool or driving test holes. For wood studs, though, its detection depth is 38 mm, no deeper than Zircon DeepScan, and it's bulkier than the others. I'd pick the [Bosch GMS 120](amzn:Bosch+GMS+120+digital+multi+scanner) when a steel stud, pipe or deep cable is a bigger worry than wood depth, which is common in apartment buildings framed with metal.
+The Center Finder with a marking hole is the renter-friendly part: you mark through the hole with a pencil instead of tracing around the tool or driving test holes. For wood studs, though, its detection depth is 38 mm, no deeper than Zircon DeepScan, and it's bulkier than the others. We'd pick the [Bosch GMS 120](amzn:Bosch+GMS+120+digital+multi+scanner) when a steel stud, pipe or deep cable is a bigger worry than wood depth, which is common in apartment buildings framed with metal.
 
 ### Zircon MetalliScanner m40: Best for plaster fasteners
 
 The Zircon MetalliScanner m40 is an electronic metal scanner, not a density stud finder. It finds the nails and screws holding studs and lath, rated for ferrous metal up to about 4 inches (102 mm) and non-ferrous up to about 2 inches (51 mm). It has Wide Scan and Pinpoint Scan modes and is listed for drywall, concrete, lath and plaster, and stucco.
 
-On old plaster this approach often works when density sensing fails, because the lath strips are nailed into every stud and those nails line up vertically. The trade-off is that it finds metal only, not wood studs directly, so you read the pattern of nails to locate the stud. Several model numbers exist, so check the package. As a stud finder for lath and plaster, the [Zircon MetalliScanner m40](amzn:Zircon+MetalliScanner+m40+metal+scanner) is my pick for the walls that beat everything else.
+On old plaster this approach often works when density sensing fails, because the lath strips are nailed into every stud and those nails line up vertically. The trade-off is that it finds metal only, not wood studs directly, so you read the pattern of nails to locate the stud. Several model numbers exist, so check the package. As a stud finder for lath and plaster, the [Zircon MetalliScanner m40](amzn:Zircon+MetalliScanner+m40+metal+scanner) is our pick for the walls that beat everything else.
 
-> **From our notes:** When I lined up the depth specs for these six, I expected the most expensive scanners to read deepest for wood. They didn't. The Zircon i520, the budget Pro55 and the Bosch GMS 120 all land at about 1.5 inches (38 mm) for studs, and the big depth numbers on the multi-scanners are for metal and cables. Only the Franklin ProSensor MAX lists more, a 2.5-inch maximum (about 1.75 inches for wood studs per its manual). That changed how we ranked them: for thick plaster, we sorted by stud depth first and by extra modes second.
+> **From our notes:** When we lined up the depth specs for these six, we expected the most expensive scanners to read deepest for wood. They didn't. The Zircon i520, the budget Pro55 and the Bosch GMS 120 all land at about 1.5 inches (38 mm) for studs, and the big depth numbers on the multi-scanners are for metal and cables. Only the Franklin ProSensor MAX lists more, a 2.5-inch maximum (about 1.75 inches for wood studs per its manual). That changed how we ranked them: for thick plaster, we sorted by stud depth first and by extra modes second.
 
 ## What deep scan mode is and how stud finders work
 
 **Deep scan mode raises an electronic stud finder's sensitivity so it can read farther into the wall, usually about twice its normal depth.** Most electronic stud finders are capacitance sensors: they measure changes in density behind the surface, and a wood stud is denser than the hollow cavity beside it, as the [Wikipedia overview of stud finders](https://en.wikipedia.org/wiki/Stud_finder) explains.
 
-The trade-off is precision. In deep scan mode the reading spreads wider, so the tool tells you a stud is roughly here rather than marking a crisp edge. That's why I always mark the center of the reading area, not the first beep. [HowStuffWorks' explainer on stud finders](https://home.howstuffworks.com/question271.htm) covers the same idea: the sensor compares density, and anything that changes density, from a pipe to a lump of plaster, can register.
+The trade-off is precision. In deep scan mode the reading spreads wider, so the tool tells you a stud is roughly here rather than marking a crisp edge. That's why we always mark the center of the reading area, not the first beep. [HowStuffWorks' explainer on stud finders](https://home.howstuffworks.com/question271.htm) covers the same idea: the sensor compares density, and anything that changes density, from a pipe to a lump of plaster, can register.
 
 Here's how the main detection types compare on thick walls:
 
@@ -536,7 +536,7 @@ Here's how the main detection types compare on thick walls:
 
 **A stud finder can work on plaster walls, but thick plaster over wood lath often confuses density sensors, and metal lath can make any electronic stud finder read a stud everywhere.** Plaster is dense and varies in thickness, and the wood lath strips behind it run horizontally, so the sensor sees bands of density that aren't studs.
 
-Metal lath is the worst case. The wire mesh behind the plaster looks like metal to a metal scanner and like solid material to a density sensor, so you get false readings across the whole wall. In that situation no tool here is guaranteed, and I'd rather tell you that than promise a gadget fixes it. Your best bets are the Franklin ProSensor MAX's plaster mode, the MetalliScanner m40 to find lath nails, and the confirmation steps below.
+Metal lath is the worst case. The wire mesh behind the plaster looks like metal to a metal scanner and like solid material to a density sensor, so you get false readings across the whole wall. In that situation no tool here is guaranteed, and we'd rather tell you that than promise a gadget fixes it. Your best bets are the Franklin ProSensor MAX's plaster mode, the MetalliScanner m40 to find lath nails, and the confirmation steps below.
 
 If you're on a budget, a magnetic stud finder is the cheap alternative worth trying first. It finds the nails holding the lath to each stud, needs no batteries and is the low-cost option, though thick plaster weakens its pull. Our guide to the [best magnetic stud finders for renters](/blog/best-magnetic-stud-finder/) compares five that work this way.
 
@@ -544,7 +544,7 @@ If you're on a budget, a magnetic stud finder is the cheap alternative worth try
 
 **A stud finder for thick walls should be chosen by matching its rated stud detection depth to your wall, then adding wire or metal detection if you'll drill near outlets or in an older building.** The headline depth on a box is often for metal or cables, so look for the wood or stud figure.
 
-When I'm narrowing it down, I check these points in order:
+When we're narrowing it down, we check these points in order:
 
 1. **Stud detection depth:** 1.5 inches covers most thick drywall; plaster may need the 2.5-inch reach of the ProSensor MAX.
 2. **Plaster mode or metal mode:** a dedicated plaster setting or a metal scanner is your plan B on old walls.
@@ -557,7 +557,7 @@ When I'm narrowing it down, I check these points in order:
 
 **To find a stud in a thick or plaster wall, scan in deep scan mode, mark the center of the reading, confirm with a second method, and only then drill.** Studs are usually 16 inches on center, which gives you a built-in sanity check.
 
-These are the steps I'd follow:
+These are the steps we'd follow:
 
 1. Clear the wall area and place the stud finder flat against it before switching it on, so it calibrates on the wall, not on air (skip this on tools that need no calibration).
 2. Switch to deep scan mode or the plaster setting and scan slowly, horizontally.
@@ -570,12 +570,12 @@ These are the steps I'd follow:
 
 **Renters should scan thoroughly, confirm with a non-destructive method and drill once, because every miss is a hole to patch before your security deposit inspection.** Painter's tape for marks keeps pencil off the paint, and a tiny finish nail hole is far easier to spackle than a drill bit test hole.
 
-Before mounting a heavy TV or shelf, I check the lease for language about "alterations," "holes," or "mounting," and send a short note. Something like: "Hi, I'd like to mount a TV on the living room wall into the studs using four screws. I'll patch and touch up the holes when I move out. Is that okay?" Getting a yes in writing protects you later. If the answer is no, or the stud is in the wrong spot, a toggle anchor in the drywall or no-hole options like [heavy-duty adhesive hooks for renters](/blog/best-heavy-duty-adhesive-hooks-for-renters/) may be enough for lighter items.
+Before mounting a heavy TV or shelf, we check the lease for language about "alterations," "holes," or "mounting," and send a short note. Something like: "Hi, we'd like to mount a TV on the living room wall into the studs using four screws. We'll patch and touch up the holes when we move out. Is that okay?" Getting a yes in writing protects you later. If the answer is no, or the stud is in the wrong spot, a toggle anchor in the drywall or no-hole options like [heavy-duty adhesive hooks for renters](/blog/best-heavy-duty-adhesive-hooks-for-renters/) may be enough for lighter items.
 
 On move-out day, fill each screw hole with spackle, let it dry, sand it flush and dab on matching paint. Add those steps to your [renter move-out checklist](/renter-checklist/) so nothing gets missed. And if the stud finder is part of a bigger setup, our [smart home guide for renters](/blog/smart-home-for-renters/) covers what you can add without drilling at all.
 
 ## Our verdict on the best stud finder for thick walls
 
-**For thick plaster, I'd buy the Franklin Sensors ProSensor MAX; for thick drywall on a budget, the Zircon StudSensor Pro55; and for old lath and plaster that beats density sensors, the Zircon MetalliScanner m40.** The ProSensor M210 is the drywall pick if you want wire detection, while the Zircon i520 and Bosch GMS 120 make sense when metal and cables matter as much as studs.
+**For thick plaster, we'd buy the Franklin Sensors ProSensor MAX; for thick drywall on a budget, the Zircon StudSensor Pro55; and for old lath and plaster that beats density sensors, the Zircon MetalliScanner m40.** The ProSensor M210 is the drywall pick if you want wire detection, while the Zircon i520 and Bosch GMS 120 make sense when metal and cables matter as much as studs.
 
-Whatever you choose, we always tell renters the same thing: no stud finder is guaranteed on very thick plaster, so confirm before you drill, and your walls and deposit will thank you.
+Whatever you choose, we always tell renters the same thing: no stud finder is guaranteed on very thick plaster, so confirm before you drill, and your walls and deposit will thank you. For more no-damage hanging and organizing ideas, browse our [renter storage and decor guides](/category/storage-decor/).

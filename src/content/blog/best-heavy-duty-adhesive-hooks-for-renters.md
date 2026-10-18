@@ -267,7 +267,7 @@ heroAlt: >-
 
 Heavy duty adhesive hooks are the renter's version of a hammer and nails. **The best heavy duty adhesive hooks for renters are Command's large hooks, like the Command Jumbo Utility Hook (7.5 lb) and the Command Large Utility Hook (5 lb), because their strips are designed to come off painted walls cleanly.** For anything heavier, the 3M CLAW Drywall Picture Hanger leaves only a pinhole.
 
-Nail holes are one of the most common deposit deductions renters face. In this guide I'll cover the hooks we'd use, the weight limits that matter, and the exact way to remove them so the paint stays put. Our [renter checklist](/renter-checklist/) covers the rest of the move-in list.
+Nail holes are one of the most common deposit deductions renters face. In this guide we cover the hooks we'd use, the weight limits that matter, and the exact way to remove them so the paint stays put. Our [renter checklist](/renter-checklist/) covers the rest of the move-in list.
 
 ## Heavy duty adhesive hooks: the short answer
 
@@ -326,7 +326,7 @@ Try these instead:
 - **Leaning shelves:** ladder shelves lean against the wall and need nothing attached.
 - **Picture ledges on a CLAW hanger:** if your lease allows pinholes, a ledge lets you swap art without new holes.
 
-If you're unsure what your lease allows, ask your landlord before you hang anything heavy. A two-line email asking "are small pinholes OK?" saves arguments at move-out.
+If you're unsure what your lease allows, ask your landlord before you hang anything heavy. A two-line email asking "are small pinholes OK?" saves arguments at move-out. If a hanger does go into the wall, our [magnetic stud finder picks](/blog/best-magnetic-stud-finder/) help you place it right the first time.
 
 ## Common mistakes to avoid
 

@@ -3,13 +3,9 @@
   "lang": "de",
   "translationOf": "best-magnetic-cabinet-locks-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-17T19:46:43.623Z",
+  "checkedAt": "2026-10-18T10:04:25.192Z",
   "errors": [],
-  "warnings": [
-    "LIVE POST, FIX: source returns 404: https://www.momease.ca/products/safety-1st-secure-to-explore-adhesive-magnetic-lock-system",
-    "source didn't respond normally (403): https://www.woolworths.com.au/shop/productdetails/1122750099",
-    "source didn't respond normally (403): https://fuhrmannmanagement.com/best-cabinet-locks/"
-  ],
+  "warnings": [],
   "factCheck": {
     "verified": true,
     "notes": "Compared section by section with the English post best-magnetic-cabinet-locks-for-renters (passes QA): same 6 products, order, ASINs, scores, sources and owner sources; every claim (lock/key counts, 3M adhesive, template, particle board/old paint screws, 24 h cure, ~2 in / 1.5 in key range converted to 5 cm / 3.8 cm, EZY-Check, Starter-Tape, removal steps, lease advice) comes from the English post. No new facts, prices, currencies, testing claims or local Amazon wording; untranslated internal links marked as English.",

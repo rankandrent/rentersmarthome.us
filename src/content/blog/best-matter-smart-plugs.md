@@ -336,7 +336,7 @@ faqs:
       mesh for battery sensors and locks. Wi-Fi Matter plugs are cheaper and
       need no border router. Both are good choices; pick Thread if you already
       have a border router.
-  - q: Can I plug a space heater into a smart plug?
+  - q: Can you plug a space heater into a smart plug?
     a: >-
       Only if the smart plug is rated for the heater's continuous wattage, and
       many manufacturers advise against it. A space heater with built-in smart

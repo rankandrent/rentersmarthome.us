@@ -350,7 +350,7 @@ faqs:
       Most peephole cameras fit standard door viewer holes and doors within a
       specific thickness range. Measure your door thickness and peephole
       diameter and compare them with the manufacturer's specs before buying.
-  - q: What if my apartment door has no peephole?
+  - q: What if your apartment door has no peephole?
     a: >-
       Without a peephole, use an indoor camera such as the Wyze Cam v4 or Blink
       Mini 2 pointed at the inside of the door, or ask your landlord about a

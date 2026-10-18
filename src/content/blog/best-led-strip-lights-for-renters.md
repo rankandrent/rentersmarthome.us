@@ -260,7 +260,7 @@ related:
 
 LED strip lights for renters are one of the easiest ways to make a rental feel like yours, as long as they don't take the paint with them when you leave. **The best LED strip lights for renters are the Govee RGBIC LED Strip Lights for value, the Philips Hue Lightstrip Plus for Hue owners and the Govee COB Strip Light Pro for smooth, dot-free light.** All three plug into an outlet, so there's no wiring.
 
-The light strip isn't the risky part for a renter; the adhesive is. In this guide I'll cover our picks and the mounting tricks we'd use to protect your deposit. If you're choosing a lighting system first, start with our [Philips Hue vs WiZ comparison](/blog/philips-hue-vs-wiz/).
+The light strip isn't the risky part for a renter; the adhesive is. In this guide we cover our picks and the mounting tricks we'd use to protect your deposit. If you're choosing a lighting system first, start with our [Philips Hue vs WiZ comparison](/blog/philips-hue-vs-wiz/).
 
 ## Best LED strip lights for renters: the short answer
 

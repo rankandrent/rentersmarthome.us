@@ -333,12 +333,12 @@ faqs:
       for its size and controls Matter smart plugs and bulbs. Google and Apple
       users should pick the Nest Mini or HomePod mini instead, and the Echo Spot
       suits anyone who wants a bedside alarm clock with a screen.
-  - q: 'Should I choose Alexa, Google Assistant or Siri?'
+  - q: 'Should you choose Alexa, Google Assistant or Siri?'
     a: >-
       Pick the assistant that matches your phone and the devices you already
       own. Alexa has the widest device support, Google is strongest with Google
       services, and Siri works best with an iPhone.
-  - q: Will a smart speaker bother my neighbors?
+  - q: Will a smart speaker bother your neighbors?
     a: >-
       Small speakers rarely do at normal volume. Keep them off shared walls,
       lower the volume at night, and use a schedule or quiet hours if your
@@ -359,7 +359,7 @@ related:
 
 The best voice assistant speaker for small apartments has to do three things: fit on a narrow shelf, run your smart home, and keep the peace with the neighbors. **For most renters the Amazon Echo Dot (5th Gen) is the best pick; choose the Google Nest Mini for a Google household, the Apple HomePod mini for an iPhone household and the Amazon Echo Spot (newest model) if you want an Alexa alarm clock by the bed.** All four speakers in this guide plug into an outlet and need no mounting.
 
-We think a compact speaker is the best first smart home device for a renter because it becomes the remote for everything else. In this guide I'll explain how we'd choose between Alexa, Google and Siri in a small space. If you're still deciding on an assistant, our [Alexa vs Google Home comparison](/blog/alexa-vs-google-home/) goes deeper.
+We think a compact speaker is the best first smart home device for a renter because it becomes the remote for everything else. In this guide we explain how we'd choose between Alexa, Google and Siri in a small space. If you're still deciding on an assistant, our [Alexa vs Google Home comparison](/blog/alexa-vs-google-home/) goes deeper.
 
 ## The best voice assistant speaker for small apartments: short answer
 
@@ -376,7 +376,7 @@ We think a compact speaker is the best first smart home device for a renter beca
 
 ### Amazon Echo Dot (5th Gen): best overall
 
-The [Amazon Echo Dot (5th Gen)](amzn:Echo+Dot+5th+Gen+smart+speaker) is the voice assistant speaker we'd put in most apartments. The Echo Dot is small enough for a nightstand, includes a temperature sensor you can use in Alexa routines, and controls Matter smart plugs and bulbs. If I were starting from zero in a one-bedroom, this is where I'd begin.
+The [Amazon Echo Dot (5th Gen)](amzn:Echo+Dot+5th+Gen+smart+speaker) is the voice assistant speaker we'd put in most apartments. The Echo Dot is small enough for a nightstand, includes a temperature sensor you can use in Alexa routines, and controls Matter smart plugs and bulbs. If we were starting from zero in a one-bedroom, this is where we'd begin.
 
 ### Amazon Echo Spot (newest model): best for bedside
 

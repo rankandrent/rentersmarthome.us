@@ -261,11 +261,11 @@ related:
 
 Ring vs Blink is really a subscription question, and the Blink vs Ring subscription answer decides what a camera costs you over a lease. **Blink is the better choice for most renters on a budget because a Blink camera can save clips locally with no subscription, while a Ring camera needs a Ring Home subscription to save any recordings.** Both brands are owned by Amazon, both work with Alexa, and both sell plug-in cameras that never need a drill.
 
-In this guide we break down what each subscription unlocks, what works for free, and which camera system I'd put in a one-bedroom apartment and why. If you need a camera on your front door specifically, start with our [peephole camera guide](/blog/best-peephole-camera-for-apartments/).
+In this guide we break down what each subscription unlocks, what works for free, and which camera system we'd put in a one-bedroom apartment and why. If you need a camera on your front door specifically, start with our [peephole camera guide](/blog/best-peephole-camera-for-apartments/).
 
 ## Blink vs Ring subscription: the short answer
 
-**Choose Blink if you want to avoid a subscription entirely; choose Ring if you're happy to pay for Ring Home in exchange for stronger features and an alarm system.** If I were furnishing my own rental on a tight budget, I'd start with a Blink Mini 2 and a Sync Module 2 and only move to Ring if I wanted a monitored alarm.
+**Choose Blink if you want to avoid a subscription entirely; choose Ring if you're happy to pay for Ring Home in exchange for stronger features and an alarm system.** If we were furnishing a rental of our own on a tight budget, we'd start with a Blink Mini 2 and a Sync Module 2 and only move to Ring if we wanted a monitored alarm.
 
 ## Ring vs Blink side by side
 
@@ -301,7 +301,7 @@ Before you subscribe to anything, we suggest running your cameras for two weeks 
 - **Without a Blink plan:** live view, motion alerts, and clips saved to a USB flash drive plugged into the Sync Module 2 (the drive is sold separately).
 - **With a Blink plan:** cloud storage for clips and smarter alerts on top of the free basics.
 
-The catch is the extra hardware: to save clips from a Blink Mini 2 without a plan, you need the Sync Module 2 and a USB drive. Owners also report that recording and cloud clips push them toward a monthly subscription, so I'd set up the Sync Module 2 and a USB drive on day one and decide on a plan later.
+The catch is the extra hardware: to save clips from a Blink Mini 2 without a plan, you need the Sync Module 2 and a USB drive. Owners also report that recording and cloud clips push them toward a monthly subscription, so we'd set up the Sync Module 2 and a USB drive on day one and decide on a plan later.
 
 ## Subscriptions and local storage
 

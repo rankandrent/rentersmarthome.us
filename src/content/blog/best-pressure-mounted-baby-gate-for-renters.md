@@ -229,7 +229,7 @@ faqs:
     a: >-
       Yes, in doorways, hallways and at the bottom of stairs when installed
       tightly per the instructions. They are not safe at the top of stairs.
-  - q: Can I use a pressure gate at the top of stairs?
+  - q: Can you use a pressure gate at the top of stairs?
     a: >-
       No. A child pushing on a pressure gate can dislodge it. The top of stairs
       needs a hardware-mounted gate screwed into studs or a banister, so ask
@@ -238,7 +238,7 @@ faqs:
     a: >-
       It can leave marks if overtightened. Use wall cups or protective pads and
       check the tension regularly.
-  - q: How do I measure for a baby gate?
+  - q: How do you measure for a baby gate?
     a: >-
       Measure the opening at the height where the gate's pressure points sit,
       then buy a gate (plus extensions) whose width range covers it.
@@ -256,7 +256,7 @@ related:
 
 A pressure mounted baby gate is the renter's answer to childproofing: it wedges into a doorway with tension instead of screws. **Our top pick is the Regalo Easy Step Walk Thru Gate for doorways and the bottom of stairs, with the Summer Infant Extra Tall gate for climbers and the Cumbor Auto Close gate for busy parents.** One rule matters more than any product: a pressure gate never goes at the top of stairs.
 
-We know childproofing a rental feels tricky, because most gate guides assume you can drill into the walls. In this guide I'll cover the gates we'd choose, where they're safe, and how to keep your walls clean for move-out. For the rest of your apartment, our [renter smart home checklist](/renter-checklist/) covers what to check before you buy anything.
+We know childproofing a rental feels tricky, because most gate guides assume you can drill into the walls. In this guide we cover the gates we'd choose, where they're safe, and how to keep your walls clean for move-out. For the rest of your apartment, our [renter smart home checklist](/renter-checklist/) covers what to check before you buy anything.
 
 ## Best pressure mounted baby gate: the short answer
 
@@ -309,7 +309,7 @@ If you're unsure, a banister adapter kit can reduce or avoid holes in the banist
 
 ## Where to put gates in an apartment
 
-**In most apartments, a toddler needs a gate in two or three places: the kitchen doorway, the hallway to the bathroom and the bottom of any stairs.** Walk your home on your knees and look for the openings that lead to hazards.
+**In most apartments, a toddler needs a gate in two or three places: the kitchen doorway, the hallway to the bathroom and the bottom of any stairs.** Walk your home on your knees and look for the openings that lead to hazards. Our [room-by-room guide to baby-proofing a rental](/blog/how-to-baby-proof-a-rental-without-damage/) covers the cabinets, outlets and furniture beyond the gates.
 
 - **Kitchen doorway:** a gate in this doorway keeps a crawling toddler away from the stove and cleaning products.
 - **Hallway:** a hallway gate closes off bathrooms and bedrooms at once.

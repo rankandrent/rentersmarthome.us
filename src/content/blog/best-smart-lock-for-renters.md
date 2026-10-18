@@ -364,7 +364,7 @@ faqs:
       out. With the three retrofit locks the exterior keyhole is untouched, so
       your physical key still works. The Aqara U100 ships with its own
       mechanical keys and has a USB-C port for emergency power from outside.
-  - q: How do I remove a smart lock when I move out?
+  - q: How do you remove a smart lock when you move out?
     a: >-
       Unscrew or peel off a retrofit smart lock, reinstall the original
       thumbturn and mounting plate you saved, and test the deadbolt with your
@@ -422,7 +422,7 @@ If you are browsing smart locks for an apartment, filter for "retrofit" or "fits
 
 The [August Wi-Fi Smart Lock](amzn:August+Wi-Fi+Smart+Lock+4th+Gen) is the retrofit smart lock most renters should buy first. The 4th-generation August lock builds Wi-Fi into the lock itself, so remote locking, activity history and guest access work without a separate bridge plugged into the wall. DoorSense, a small sensor on the door frame, confirms whether the door is actually shut, which makes auto-lock far more reliable.
 
-The August smart lock works with Amazon Alexa, Google Assistant and Apple Home, so it fits whichever voice assistant you already use. The main trade-offs are CR123 batteries (less common than AA) and the occasional deadbolt that needs an adapter plate, so run August's compatibility check before ordering.
+The August smart lock works with Amazon Alexa, Google Assistant and Apple Home, so it fits whichever voice assistant you already use (our [Alexa vs Google Home comparison](/blog/alexa-vs-google-home/) helps if you haven't picked one yet). The main trade-offs are CR123 batteries (less common than AA) and the occasional deadbolt that needs an adapter plate, so run August's compatibility check before ordering.
 
 ### SwitchBot Lock Pro: best no-tools install
 
@@ -456,7 +456,7 @@ The catch for renters is the install. You remove the landlord's deadbolt and fit
 
 **Most leases include a clause like "tenant shall not change or add locks without written consent." A retrofit smart lock arguably doesn't change the lock, but written approval protects your deposit.** A short, specific request works best:
 
-> "I'd like to install a retrofit smart lock on the inside of my front door. It replaces only the interior thumbturn, the existing deadbolt and exterior keyhole stay the same, and your key will continue to work. I'll reinstall the original part when I move out."
+> "We'd like to install a retrofit smart lock on the inside of our front door. It replaces only the interior thumbturn, the existing deadbolt and exterior keyhole stay the same, and your key will continue to work. We'll reinstall the original part when we move out."
 
 Mention that the landlord's master key keeps working; for property managers, that point usually settles it. If you want a full smart deadbolt like the Aqara U100 instead, say so plainly: the original deadbolt comes out, you'll store it and reinstall it at move-out, and you'll hand over a copy of the new key if the lease requires landlord access. Keep the email reply with your lease documents. For more renter-safe security ideas, see our guide to the [best peephole cameras for apartments](/blog/best-peephole-camera-for-apartments/).
 

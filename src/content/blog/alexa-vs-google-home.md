@@ -250,12 +250,12 @@ faqs:
       for Amazon Prime, which includes Alexa+. Google Home is better for natural
       conversations with Gemini for Home and for Android users. For smart home
       control alone, both are excellent thanks to Matter.
-  - q: Can I use Alexa and Google Home at the same time?
+  - q: Can you use Alexa and Google Home at the same time?
     a: >-
       Yes. Matter's multi-admin feature lets one Matter device, such as a smart
       plug or lock, be added to both Alexa and Google Home, so roommates on
       different phones can each use the assistant they prefer.
-  - q: Do I need a subscription for Alexa+ or Gemini for Home?
+  - q: Do you need a subscription for Alexa+ or Gemini for Home?
     a: >-
       Alexa+ is included with Amazon Prime and available as a paid standalone
       plan without it. Gemini for Home offers core features for free, while
@@ -266,7 +266,7 @@ faqs:
       Both work well in rentals because the speakers simply plug in. Choose the
       ecosystem that matches your phone and services, and buy Matter devices so
       your setup keeps working if you move or switch assistants.
-  - q: Do I need a separate smart home hub?
+  - q: Do you need a separate smart home hub?
     a: >-
       Usually not. Speakers like the Echo Dot Max, Echo Studio and Google Home
       Speaker include a Thread border router and Matter support, so they act as
@@ -304,7 +304,7 @@ This comparison covers how Alexa+ and Gemini for Home differ in 2026, which smar
 
 **Alexa+ is stronger at getting multi-step tasks done, while Gemini for Home is stronger at understanding and answering in natural language.** Both assistants are generative-AI upgrades of the voice assistants you may already know, and both were still improving through 2026.
 
-Alexa+ is Amazon's new version of Alexa. Alexa+ handles chained requests well, such as "turn off the lights, lock the door and remind me to take out the trash," and it fits tightly with Ring cameras and Fire TV. Reviewers also report that Alexa+ can still be inconsistent as Amazon rolls out new features.
+Alexa+ is Amazon's new version of Alexa. Alexa+ handles chained requests well, such as "turn off the lights, lock the door and remind us to take out the trash," and it fits tightly with Ring cameras and Fire TV. Reviewers also report that Alexa+ can still be inconsistent as Amazon rolls out new features.
 
 Gemini for Home is Google's Gemini-based assistant for Google Home devices. Gemini for Home is better at follow-up questions and general knowledge, and with a Google Home Premium plan it can search your Nest camera history in plain language, for example "did a package arrive this afternoon?"
 

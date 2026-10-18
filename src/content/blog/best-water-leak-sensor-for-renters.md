@@ -340,7 +340,7 @@ faqs:
       Ethernet or 2.4 GHz Wi-Fi, and the Eve Water Guard uses Thread and
       Bluetooth with an Apple home hub for remote alerts. The Eve also sounds
       its own 100 dB alarm in the room.
-  - q: Where should I put a water leak sensor in an apartment?
+  - q: Where should you put a water leak sensor in an apartment?
     a: >-
       Put a sensor on the floor at the most likely leak points: under the
       kitchen and bathroom sink, behind the toilet, next to the water heater,
@@ -353,13 +353,13 @@ faqs:
       plumbed into the main water line, which changes the building's plumbing.
       Renters should stick to floor sensors and ask the landlord in writing
       about anything that touches pipes.
-  - q: Will a leak sensor lower my renters insurance?
+  - q: Will a leak sensor lower your renters insurance?
     a: >-
       It depends on your insurer. Ask your agent whether they offer a discount
       for smart water sensors, and keep the sensor's alert history in case you
       ever need to file a claim. Check your policy for what water damage it
       covers.
-  - q: Can I take leak sensors with me when I move out?
+  - q: Can you take leak sensors with you when you move out?
     a: >-
       Yes. All three picks here sit loose on the floor or plug into an outlet,
       so you unplug the hub or base, pick up the sensors and remove them from
@@ -371,13 +371,13 @@ heroAlt: >-
   guide
 ---
 
-The best water leak sensor for renters is a small, battery or plug-in device that sits on the floor, sends a phone alert the moment it gets wet, and goes back in the box on move-out day. A water leak sensor (also called a smart water leak detector or flood sensor) uses metal probes or a sensing cable to detect water, then sounds an alarm or pushes a notification through an app. I picked three that need no drilling, no plumbing and no landlord tools, and I explain where to put them, what your lease likely says about leaks, and how to document water damage.
+The best water leak sensor for renters is a small, battery or plug-in device that sits on the floor, sends a phone alert the moment it gets wet, and goes back in the box on move-out day. A water leak sensor (also called a smart water leak detector or flood sensor) uses metal probes or a sensing cable to detect water, then sounds an alarm or pushes a notification through an app. We picked three that need no drilling, no plumbing and no landlord tools, and we explain where to put them, what your lease likely says about leaks, and how to document water damage.
 
 ## Short answer: the best water leak sensor for renters
 
 **For most renters, the YoLink Water Leak Sensor 1 kit is the pick for big units or weak Wi-Fi, the Eve Water Guard is the pick for Apple Home, and the Flo by Moen detector is the pick for one hub-free Wi-Fi sensor.** None of them touches your pipes, and all three leave the apartment exactly as you found it.
 
-Here is how I would match them to your place:
+Here is how we would match them to your place:
 
 - **Basement unit, far-off laundry or spotty Wi-Fi:** the YoLink kit, because its LoRa radio reaches farther than Wi-Fi.
 - **iPhone household:** the Eve Water Guard, whose 6.5 ft sensing cable covers a whole run of floor.
@@ -387,15 +387,15 @@ Here is how I would match them to your place:
 
 **A water leak sensor for renters made our list only if it needs no drilling or plumbing, sends remote alerts with no required subscription mentioned in our sources, and has its own clear Amazon US listing.** That last rule matters because a link to a search page is no use to you, and it trimmed the list to three.
 
-My renter checklist looked like this:
+Our renter checklist looked like this:
 
 1. **No-drill placement.** The sensor lies on the floor or plugs in; nothing is screwed or glued.
 2. **No subscription.** None of our sources mention a required subscription for alerts on these three.
 3. **Alerts that survive a weak signal.** A Wi-Fi sensor under a sink, behind a fridge or in a closet can lose its link, so range matters.
-4. **Honest owner feedback.** I read owner reviews and forum posts online, not just spec sheets. The numbers are small (five owner sources for YoLink, two for Eve, two for Flo), so I treat them as patterns, not proof.
+4. **Honest owner feedback.** We read owner reviews and forum posts online, not just spec sheets. The numbers are small (five owner sources for YoLink, two for Eve, two for Flo), so we treat them as patterns, not proof.
 5. **Clean move-out.** Everything has to come out in minutes.
 
-> **From our notes:** When I lined up the reviews for these three leak sensors, the specs did not always agree. For the YoLink hub, one review quoted range up to about a quarter mile in open air, while other sources gave different figures, so we treat every range number as a best case. For the Flo by Moen detector, sources disagreed on what batteries it takes, and we could not settle it from the pages we read. We left both conflicts in this guide instead of picking the friendlier number. The owner threads added a third pattern: setup friction came up more often than missed leaks.
+> **From our notes:** When we lined up the reviews for these three leak sensors, the specs did not always agree. For the YoLink hub, one review quoted range up to about a quarter mile in open air, while other sources gave different figures, so we treat every range number as a best case. For the Flo by Moen detector, sources disagreed on what batteries it takes, and we could not settle it from the pages we read. We left both conflicts in this guide instead of picking the friendlier number. The owner threads added a third pattern: setup friction came up more often than missed leaks.
 
 ## Comparison table: each smart water leak detector at a glance
 
@@ -409,7 +409,7 @@ My renter checklist looked like this:
 
 ## Water leak detector for apartments: the 3 picks reviewed
 
-**A water leak detector for apartments has to fit your layout: each pick below suits a different apartment, so pick by your Wi-Fi coverage and the phone or smart home app you already use.** I base each review on manufacturer specs, professional reviews and owner reports I read online; I did not test these.
+**A water leak detector for apartments has to fit your layout: each pick below suits a different apartment, so pick by your Wi-Fi coverage and the phone or smart home app you already use.** We base each review on manufacturer specs, professional reviews and owner reports we read online; we did not test these.
 
 ### YoLink Water Leak Sensor 1 Kit (4 sensors + hub): Best for big or thick-walled apartments
 
@@ -435,7 +435,7 @@ Review summaries of this detector, such as Looria and Kimola, point to reliable 
 
 ### Wi-Fi vs hub vs Thread: how a water sensor reaches your phone
 
-A water sensor on Wi-Fi, like the Flo, joins your router directly, which is simple but depends on a strong signal at floor level. A hub-based sensor like YoLink uses its own radio to reach the hub, which helps in large or concrete-walled units. A Thread sensor like the Eve builds a mesh with other Thread devices and leans on an Apple home hub for remote alerts. If your router sits at the far end of the apartment, I would lean toward a model with a hub required, since the hub talks to Wi-Fi so the sensor does not have to. Zigbee is another low-power mesh protocol many leak sensors use, and Matter is the cross-platform smart home standard; our sources did not list Zigbee or Matter support for these three picks.
+A water sensor on Wi-Fi, like the Flo, joins your router directly, which is simple but depends on a strong signal at floor level. A hub-based sensor like YoLink uses its own radio to reach the hub, which helps in large or concrete-walled units. A Thread sensor like the Eve builds a mesh with other Thread devices and leans on an Apple home hub for remote alerts. If your router sits at the far end of the apartment, we would lean toward a model with a hub required, since the hub talks to Wi-Fi so the sensor does not have to. Zigbee is another low-power mesh protocol many leak sensors use, and Matter is the cross-platform smart home standard (our [Matter smart plug picks](/blog/best-matter-smart-plugs/) explain how Thread devices connect); our sources did not list Zigbee or Matter support for these three picks.
 
 ### Leak alarm, battery and smart home fit
 
@@ -460,7 +460,7 @@ A water leak sensor only warns you; a shutoff valve actually stops the water. Wh
 5. **Behind the refrigerator**, if it has an ice maker or water line.
 6. **Near shared walls or under a ceiling stain**, if a neighbor lives above or beside you.
 
-Smoke and water are the two alarms I want every renter to have; if you are adding phone alerts for fire too, see our [smart smoke detectors for apartments](/blog/best-smart-smoke-detector-for-apartments/) guide.
+Smoke and water are the two alarms we want every renter to have; if you are adding phone alerts for fire too, see our [smart smoke detectors for apartments](/blog/best-smart-smoke-detector-for-apartments/) guide.
 
 ## Leaks, your lease and renters insurance
 
@@ -468,9 +468,9 @@ Smoke and water are the two alarms I want every renter to have; if you are addin
 
 ### What to tell your landlord and when
 
-Look for a landlord notification clause in your lease: it usually says how fast renters must tell the landlord about a leak and how. When a sensor alerts, stop the water if you safely can, then message your landlord or super in writing right away. Here is a message I would send:
+Look for a landlord notification clause in your lease: it usually says how fast renters must tell the landlord about a leak and how. When a sensor alerts, stop the water if you safely can, then message your landlord or super in writing right away. Here is a message we would send:
 
-> Hi [name], my water sensor alerted at [time] on [date]. There is water under the [kitchen sink / water heater / toilet] in unit [number]. I turned off the valve under the sink and put down towels. Photos attached. Can someone check it today? Thanks, [your name].
+> Hi [name], our water sensor alerted at [time] on [date]. There is water under the [kitchen sink / water heater / toilet] in unit [number]. We turned off the valve under the sink and put down towels. Photos attached. Can someone check it today? Thanks, [your name].
 
 ### Documenting a leak for a claim
 
@@ -482,7 +482,7 @@ A leak sensor may or may not lower your renters insurance; some renters ask thei
 
 ## Moving out: taking your water sensor with you
 
-**A water sensor that stands on the floor is fully portable: unplug it, pick it up and remove it from the app.** Every sensor you move out with should leave no marks behind. On move-out day, I would do this:
+**A water sensor that stands on the floor is fully portable: unplug it, pick it up and remove it from the app.** Every sensor you move out with should leave no marks behind. On move-out day, we would do this:
 
 1. Remove each sensor and the hub or base, and coil any sensing cable.
 2. Delete the devices from the app, or reset them, so the next tenant can start fresh.

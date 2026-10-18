@@ -409,7 +409,7 @@ related:
   - best-magnetic-cabinet-locks-for-renters
 ---
 
-A magnetic stud finder is the simplest tool I know for hanging something heavy in a rental without turning the wall into Swiss cheese. Instead of guessing and drilling test holes, a magnetic stud finder slides across the drywall until its rare earth magnets snap onto a screw or nail, and that fastener sits in a stud. We compared the five best magnetic stud finders below on magnet strength, hands-free hold, levels and marking aids, using the makers' specs and retailer listings.
+A magnetic stud finder is the simplest tool we know of for hanging something heavy in a rental without turning the wall into Swiss cheese. Instead of guessing and drilling test holes, a magnetic stud finder slides across the drywall until its rare earth magnets snap onto a screw or nail, and that fastener sits in a stud. We compared the five best magnetic stud finders below on magnet strength, hands-free hold, levels and marking aids, using the makers' specs and retailer listings.
 
 ## Our magnetic stud finder picks at a glance
 
@@ -427,13 +427,13 @@ The table below compares the five picks on the features that matter most when yo
 
 ## The best magnetic stud finders, reviewed
 
-**Each magnetic stud finder below finds the fasteners in your studs; the differences are the level, the marking aids and how easily it hangs on the wall.** I've noted who each one suits so you can pick in a minute.
+**Each magnetic stud finder below finds the fasteners in your studs; the differences are the level, the marking aids and how easily it hangs on the wall.** We've noted who each one suits so you can pick in a minute.
 
 ### C.H. Hanson Magnetic Stud Finder 03040: Best overall
 
 The C.H. Hanson Magnetic Stud Finder 03040 uses rare earth magnets to detect nails, screws and steel studs, and it needs no batteries. Its rotating bubble level lets you check level and plumb without reaching for a second tool, which is handy when you're lining up two picture hooks or a shelf bracket.
 
-What I like for renters is how little can go wrong: there's nothing to calibrate and no battery to die in the drawer. Retailer listings disagree on its scan depth, so treat it as a tool for standard drywall rather than thick plaster. If you want one [C.H. Hanson magnetic stud finder](amzn:C.H.+Hanson+03040+Magnetic+Stud+Finder) for every hanging job in the apartment, this is the one we'd pick.
+What we like for renters is how little can go wrong: there's nothing to calibrate and no battery to die in the drawer. Retailer listings disagree on its scan depth, so treat it as a tool for standard drywall rather than thick plaster. If you want one [C.H. Hanson magnetic stud finder](amzn:C.H.+Hanson+03040+Magnetic+Stud+Finder) for every hanging job in the apartment, this is the one we'd pick.
 
 ### Kreg Magnetic Stud Finder KMM1000: Best hands-free
 
@@ -455,11 +455,11 @@ The felt pads are a small renter-friendly touch, since you'll slide it around pa
 
 ### Kreg Magnetic Stud Finder with Laser-Mark KMM1000LZ: Best with laser
 
-The Kreg Magnetic Stud Finder with Laser-Mark KMM1000LZ adds a laser that projects the stud location along the wall, lined up against its hi-viz level. It still uses two rare earth magnets, hangs hands free and has a marking notch, and it works with or without batteries (two AAA batteries are included).
+Projecting the stud location along the wall with a laser, lined up against its hi-viz level, is what the Kreg Magnetic Stud Finder with Laser-Mark KMM1000LZ adds. It still uses two rare earth magnets, hangs hands free and has a marking notch, and it works with or without batteries (two AAA batteries are included).
 
 The laser is useful when you're placing a row of holes, like a long shelf or a curtain rod, because you can follow the line instead of drawing one. It costs more than the basic magnetic models, so we'd only choose the [Kreg KMM1000LZ](amzn:Kreg+KMM1000LZ+Magnetic+Stud+Finder+with+Laser) if you'll use the laser often.
 
-> **From our notes:** When I lined up the spec sheets for these five, the thing that stood out was how similar the core is: every one relies on rare earth magnets finding a fastener, and none needs a battery to do that. The real differences were the extras. Kreg put its effort into marking (centered notches, then a laser), C.H. Hanson into a rotating level, and StudBuddy into keeping it simple and cheap. That told us to choose by how you hang things, not by "strength" claims.
+> **From our notes:** When we lined up the spec sheets for these five, the thing that stood out was how similar the core is: every one relies on rare earth magnets finding a fastener, and none needs a battery to do that. The real differences were the extras. Kreg put its effort into marking (centered notches, then a laser), C.H. Hanson into a rotating level, and StudBuddy into keeping it simple and cheap. That told us to choose by how you hang things, not by "strength" claims.
 
 ## How a magnetic stud finder works
 
@@ -504,7 +504,7 @@ Use this checklist before you buy:
 
 **For renters, a magnetic stud finder pays for itself by preventing extra test holes that you'd have to patch before move-out.** Every hole in a stud is a hole you meant to make, and fewer holes means less to argue about when the landlord checks your security deposit.
 
-Before mounting anything heavy, I'd check the lease and send the landlord a short note: "I'd like to mount a shelf into the wall studs using two screws; I'll fill and touch up the holes when I move out. Is that OK?" Keep their reply in writing. For light items, skip the drill entirely with our picks of [heavy duty adhesive hooks for renters](/blog/best-heavy-duty-adhesive-hooks-for-renters/), and see our [renter's smart home guide](/blog/smart-home-for-renters/) for other no-damage upgrades.
+Before mounting anything heavy, we'd check the lease and send the landlord a short note: "We'd like to mount a shelf into the wall studs using two screws; we'll fill and touch up the holes when we move out. Is that OK?" Keep their reply in writing. For light items, skip the drill entirely with our picks of [heavy duty adhesive hooks for renters](/blog/best-heavy-duty-adhesive-hooks-for-renters/), and see our [renter's smart home guide](/blog/smart-home-for-renters/) for other no-damage upgrades.
 
 On move-out day, fill each screw hole with spackle, let it dry, sand lightly and touch up with matching paint. If you're adding lighting along a shelf you just mounted, our guide to [LED strip lights for renters](/blog/best-led-strip-lights-for-renters/) covers peel-safe options, and our [renter checklist](/renter-checklist/) covers the rest of move-out.
 

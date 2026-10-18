@@ -242,7 +242,7 @@ sources:
     url: 'https://www.scientificamerican.com/article/how-to-keep-cool-without-a-c'
 reviewedDate: '2026-10-14T00:00:00.000Z'
 faqs:
-  - q: How can I cool my apartment without AC?
+  - q: How can you cool your apartment without AC?
     a: >-
       Block the sun during the day, open windows and run fans when it's cooler
       outside, create cross ventilation and avoid using heat-producing
@@ -255,7 +255,7 @@ faqs:
     a: >-
       Yes. They block direct sunlight, which is a major source of daytime heat
       in apartments with sun-facing windows.
-  - q: Can my landlord stop me using a portable AC?
+  - q: Can your landlord stop you using a portable AC?
     a: >-
       Some leases restrict window units or portable ACs. Check your lease, and
       ask your landlord before installing anything in a window.

@@ -285,7 +285,7 @@ faqs:
       the microSD card in the C31 or Tapo D210, go with it. An optional indoor
       eufy HomeBase keeps a copy inside, and you can download important clips to
       your phone.
-  - q: Do I lose features without a subscription?
+  - q: Do you lose features without a subscription?
     a: >-
       Usually only cloud backup and some extras. Live view, motion alerts and
       local recording keep working on our picks.
