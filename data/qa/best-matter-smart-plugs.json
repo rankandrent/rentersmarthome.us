@@ -1,10 +1,11 @@
 {
   "slug": "best-matter-smart-plugs",
   "pass": true,
-  "checkedAt": "2026-10-15T14:24:12.958Z",
+  "checkedAt": "2026-10-18T10:07:43.648Z",
   "errors": [],
   "warnings": [
-    "no semantic brief (data/briefs), SEO audit skipped"
+    "no semantic brief (data/briefs), SEO audit skipped",
+    "source didn't respond normally (no response): https://www.meross.com/"
   ],
   "factCheck": {
     "verified": true,

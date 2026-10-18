@@ -3,9 +3,13 @@
   "lang": "nl",
   "translationOf": "best-smart-lock-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-18T10:04:25.297Z",
+  "checkedAt": "2026-10-18T10:13:51.311Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "LIVE POST, FIX: source returns 404: https://www.seam.co/img/device-db/aqara/manuals/aqara_smart-lock-u100_user_manual.pdf",
+    "source didn't respond normally (no response): https://www.businesswire.com/news/home/20230608005033/en/Aqara-Introduces-its-First-Deadbolt-Smart-Lock-U100",
+    "source didn't respond normally (no response): https://homekitnews.com/2023/06/14/aqara-smart-lock-u100-review/"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Compared against English best-smart-lock-for-renters: same 4 products/ASINs/specs, backset 2-3/8 in = 60 mm and 2-3/4 in = 70 mm, no new facts, no prices, no testing/ownership claims, removed added research/local-Amazon-store disclaimer, notes block repeats English bag-and-label tip, English links labeled. Spec sources are the English post's sources (maker pages, Aqara manual/Wellbots).",

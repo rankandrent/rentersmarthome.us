@@ -1,9 +1,13 @@
 {
   "slug": "how-to-baby-proof-a-rental-without-damage",
   "pass": true,
-  "checkedAt": "2026-10-18T09:56:44.450Z",
+  "checkedAt": "2026-10-18T10:08:36.300Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "source didn't respond normally (403): https://homedepot.com/p/Safety-1st-Grip-n-Twist-Doorknob-Covers-4-Pack-48394/202259354",
+    "source didn't respond normally (403): https://homedepot.com/p/QuakeHOLD-Black-Nylon-Furniture-Safety-Strap-4160/100137023",
+    "source didn't respond normally (403): https://www.cpsc.gov/Safety-Education/Safety-Guides/Kids-and-Babies"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Re-verified via web search against Safety 1st product pages (HS294 adhesive + screws for particle board; Easy Install Walk-Through Gate 29-38 in, pressure mount, JPMA certified, never top of stairs; HS209 adhesive strip removes easily, finish-removal caution; Grip n Twist snap-on knob covers 48394; Press Tab non-adhesive removable plugs), plus Home Depot/Ready America/Ace listings for QuakeHOLD 4160 (adhesive pad on furniture, screw into wall stud). Softened removal tips to hair dryer on low, removed cheap/cost-nothing wording and front-door suggestion.",
