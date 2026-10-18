@@ -132,5 +132,6 @@
   "list.empty": "Noch keine Ratgeber. Schau bald wieder vorbei.",
   "list.newer": "Neuere Ratgeber",
   "list.older": "Ältere Ratgeber",
-  "list.pagination": "Seitennavigation"
+  "list.pagination": "Seitennavigation",
+  "score.name": "RenterSmartHome Spec-Score"
 }

@@ -132,5 +132,6 @@
   "list.empty": "Todavía no hay guías. Vuelve pronto.",
   "list.newer": "Guías más recientes",
   "list.older": "Guías anteriores",
-  "list.pagination": "Paginación"
+  "list.pagination": "Paginación",
+  "score.name": "Puntuación técnica RenterSmartHome"
 }
