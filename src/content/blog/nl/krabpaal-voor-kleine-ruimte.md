@@ -41,12 +41,12 @@ readingTime: 11
 tldr:
   - >-
     De beste krabpaal voor een kleine ruimte staat op een voet van ongeveer 51
-    tot 61 cm (20 tot 24 in) per zijde, neemt dus zo'n 0,28 m² (3 sq ft) vloer in
-    beslag, en blijft staan zonder muuranker.
+    tot 61 cm (20 tot 24 in) per zijde, neemt dus zo'n 0,28 m² (3 sq ft) vloer
+    in beslag, en blijft staan zonder muuranker.
   - >-
     De New Cat Condos Premier Triple Cat Perch is onze beste keuze overall: een
-    voet van massief hout van 51 x 51 cm (20 x 20 in), 81 cm (32 in) hoog, en hij
-    wordt volledig gemonteerd geleverd.
+    voet van massief hout van 51 x 51 cm (20 x 20 in), 81 cm (32 in) hoog, en
+    hij wordt volledig gemonteerd geleverd.
   - >-
     Kies de Mau Cento als uiterlijk het belangrijkst is, of de Catit Vesper High
     Base als je de meeste hoogte (ongeveer 122 cm, 48 in) op een kleine voet
@@ -68,8 +68,8 @@ products:
       cm (20 x 20 in) die klaar voor gebruik aankomt, voor huurders die
       stabiliteit willen zonder gereedschap of pluggen.
     renterNote: >-
-      Vrijstaand en volledig gemonteerd, dus niets raakt de muren en hij gaat
-      in één stuk mee bij de verhuizing.
+      Vrijstaand en volledig gemonteerd, dus niets raakt de muren en hij gaat in
+      één stuk mee bij de verhuizing.
     pros:
       - 'Kleine voet van 51 x 51 cm (20 x 20 in), ongeveer 0,26 m² (2.8 sq ft)'
       - Wordt volledig gemonteerd geleverd; geen gereedschap nodig
@@ -79,8 +79,8 @@ products:
       - Sommige eigenaren vinden het bovenste en middelste plateau klein
     specs:
       Dimensions: 51 x 51 x 81 cm (20 x 20 x 32 in) (b x d x h)
-      Footprint: Ongeveer 0,26 m² (2.8 sq ft)
-      Weight: 15,0 kg (33 lb)
+      Footprint: 'Ongeveer 0,26 m² (2.8 sq ft)'
+      Weight: '15,0 kg (33 lb)'
       Levels: '3'
       Materials: 'Massief hout, tapijt van woonkwaliteit, onbehandeld natuurlijk sisal'
       Assembly: Wordt volledig gemonteerd geleverd
@@ -107,6 +107,14 @@ products:
           url: >-
             https://www.newcatcondos.com/premier-triple-cat-perch-3-level-solid-wood-window-perch-with-sisal-posts/
           reviews: 41
+    image:
+      url: 'https://m.media-amazon.com/images/I/41TiNI3T+3L._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51hlhdIp2kL._SL500_.jpg'
+        width: 282
+        height: 500
   - name: Mau Cento Modern Cat Tree
     brand: Mau
     query: Mau Cento Modern Cat Tree Tower
@@ -128,15 +136,17 @@ products:
     pros:
       - 'Uiterlijk van een meubelstuk: echte houten takken, manden, imitatiebont'
       - In de wasmachine wasbare kussens en vervangbare onderdelen
-      - Draagt volgens de Amazon-vermelding katten tot 10,4 kg (23 lb)
+      - 'Draagt volgens de Amazon-vermelding katten tot 10,4 kg (23 lb)'
     cons:
       - De montage is priegelig en de handleiding summier
-      - Volgens eigenaren kunnen sommige katten de bovenste mand moeilijk bereiken
+      - >-
+        Volgens eigenaren kunnen sommige katten de bovenste mand moeilijk
+        bereiken
       - Hoge prijs
     specs:
       Dimensions: 60 x 46 x 117 cm (23.5 x 18 x 46 in) (l x b x h)
-      Footprint: Ongeveer 0,27 m² (2.9 sq ft)
-      Max cat weight: 10,4 kg (23 lb) (Amazon-vermelding)
+      Footprint: 'Ongeveer 0,27 m² (2.9 sq ft)'
+      Max cat weight: '10,4 kg (23 lb) (Amazon-vermelding)'
       Materials: 'Echte houten takken, sisaltouw, gevlochten manden, imitatiebont'
       Cushions: Wasbaar in de wasmachine
       Assembly: 'Nodig, ongeveer 40 minuten volgens een reviewer'
@@ -156,7 +166,9 @@ products:
         - Katten gebruiken hem om te krabben en te slapen
       complaints:
         - De bovenste mand zit hoog en is voor sommige katten lastig te bereiken
-        - Wiebelende manden of palen die na verloop van tijd losraken; bouten aandraaien helpt
+        - >-
+          Wiebelende manden of palen die na verloop van tijd losraken; bouten
+          aandraaien helpt
         - Frustrerende montage met stammen zonder label
       sources:
         - title: 'Mau Cento owner reviews, Chewy'
@@ -165,6 +177,23 @@ products:
         - title: 'Mau cat tree review, Reviewed'
           url: >-
             https://reviewed.com/pets/content/mau-cat-tree-review-gorgeous-and-worth-splurge
+    image:
+      url: 'https://m.media-amazon.com/images/I/31Nt214OkGL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41liWnCJk9L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41jAQKETI3L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41EsvYCQ1pL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41x7NcwXREL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Catit Vesper High Base
     brand: Catit
     query: Catit Vesper High Base Cat Tree 52045
@@ -181,7 +210,9 @@ products:
       Vrijstaand op een vierkante voet van 56 cm (22.1 in); hij wordt in elkaar
       geschroefd en kan voor een verhuizing weer uit elkaar.
     pros:
-      - De meeste hoogte van onze keuzes op een vierkante voet van 56 cm (22.1 in)
+      - >-
+        De meeste hoogte van onze keuzes op een vierkante voet van 56 cm (22.1
+        in)
       - Laminaat is schoon te vegen en de kussens kunnen eraf om te wassen
       - 'Kubushol met twee ingangen, plus een uitkijkpost bovenop'
     cons:
@@ -190,7 +221,7 @@ products:
       - Grotere katten vinden de kubus en het bovenste niveau misschien krap
     specs:
       Dimensions: 56 x 56 x 122 cm (22.1 x 22.1 x 47.9 in) (l x b x h)
-      Footprint: Ongeveer 0,32 m² (3.4 sq ft)
+      Footprint: 'Ongeveer 0,32 m² (3.4 sq ft)'
       Levels: '4'
       Materials: 'Gelamineerd mdf, krabpalen van zeegras'
       Cushions: Afneembaar traagschuim
@@ -201,8 +232,8 @@ products:
       value: 8
       portability: 9
     scoreNote: >-
-      Vrijstaand zonder muurbevestiging en in het middensegment geprijsd; moet in
-      elkaar gezet worden, en de zeegraspalen slijten sneller dan sisal.
+      Vrijstaand zonder muurbevestiging en in het middensegment geprijsd; moet
+      in elkaar gezet worden, en de zeegraspalen slijten sneller dan sisal.
     owners:
       read: 16
       praise:
@@ -224,6 +255,23 @@ products:
         - title: 'Vesper High Base reviews, Aquapet via REVIEWS.io'
           url: 'https://www.reviews.io/product-reviews/store/aquapet/52045'
           reviews: 7
+    image:
+      url: 'https://m.media-amazon.com/images/I/41ETa7uXwJL._SL500_.jpg'
+      width: 500
+      height: 468
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41lvbEK+PcL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41pyfdXBbGL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51BYfhyA9ZL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41H9qxRnsiL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: 'The Best Cat Trees, Wirecutter'
     url: 'https://www.nytimes.com/wirecutter/reviews/best-cat-trees/'
@@ -247,15 +295,15 @@ faqs:
     a: >-
       Voor de meeste huurders de New Cat Condos Premier Triple Cat Perch: een
       voet van 51 x 51 cm (20 x 20 in), 81 cm (32 in) hoog, massief hout, en hij
-      komt volledig gemonteerd aan. Wil je meer hoogte op een vergelijkbare voet,
-      dan haalt de Catit Vesper High Base ongeveer 122 cm (48 in) op een vierkante
-      voet van 56 cm (22.1 in).
+      komt volledig gemonteerd aan. Wil je meer hoogte op een vergelijkbare
+      voet, dan haalt de Catit Vesper High Base ongeveer 122 cm (48 in) op een
+      vierkante voet van 56 cm (22.1 in).
   - q: Hoeveel ruimte neemt een krabpaal in?
     a: >-
       Alleen de voet telt. Een voet van 51 x 51 cm (20 x 20 in) neemt ongeveer
-      0,26 m² (2.8 sq ft) in, ongeveer zoveel als een eetkamerstoel, en onze drie
-      keuzes zitten tussen ongeveer 0,26 en 0,32 m² (2.8 tot 3.4 sq ft). Meet de
-      hoek die je in gedachten hebt voordat je bestelt.
+      0,26 m² (2.8 sq ft) in, ongeveer zoveel als een eetkamerstoel, en onze
+      drie keuzes zitten tussen ongeveer 0,26 en 0,32 m² (2.8 tot 3.4 sq ft).
+      Meet de hoek die je in gedachten hebt voordat je bestelt.
   - q: Is een hoge of een lage krabpaal beter voor een kleine ruimte?
     a: >-
       Hoog en smal geeft je kat meer territorium per vierkante meter; Pets
@@ -268,17 +316,18 @@ faqs:
       Perfect raadt een muurband aan voor hoge torens als je kat er vanaf andere
       meubels op springt. In een huurwoning betekent een band een schroef in de
       muur, dus vraag het eerst schriftelijk aan je verhuurder.
-  - q: Kan ik een krabpaal in een huurwoning vastzetten zonder mijn borg te verliezen?
+  - q: >-
+      Kan ik een krabpaal in een huurwoning vastzetten zonder mijn borg te
+      verliezen?
     a: >-
       Meestal wel, als je verhuurder schriftelijk akkoord gaat. Zet de schroef
       van de band in een regel of stijl in de muur, bewaar de toestemming bij je
       huurcontract, en verwijder op de verhuisdag de schroef, vul het gat met
-      plamuur en werk de verf bij. Controleer je huurcontract en de lokale regels
-      voor wat als schade telt.
+      plamuur en werk de verf bij. Controleer je huurcontract en de lokale
+      regels voor wat als schade telt.
 author: editorial-team
 heroImage: /images/featured/best-cat-tree-for-small-apartment.png
-heroAlt: >-
-  Beste krabpaal voor een kleine ruimte (2026): koopgids van RenterSmartHome
+heroAlt: 'Beste krabpaal voor een kleine ruimte (2026): koopgids van RenterSmartHome'
 ---
 
 De beste krabpaal voor een kleine ruimte geeft je kat hoogte zonder je vloer op te slokken, en blijft stevig staan zonder één gat in de muur. We hebben de krabpalen vergeleken die de best scorende gidsen steeds weer aanraden, en alleen de modellen gehouden met een voet van ongeveer 0,33 m² (3.5 sq ft) of minder, een echte Amazon-vermelding en veel feedback van eigenaren. Drie bleven er over. Hieronder lees je per krabpaal hoeveel vloer hij inneemt, wat eigenaren goed en minder goed vinden, en de huurdersdetails die de meeste gidsen overslaan: waar een krabpaal in een klein appartement moet staan, wanneer hij een anker nodig heeft en hoe je dat met je verhuurder regelt.

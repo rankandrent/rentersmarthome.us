@@ -104,6 +104,27 @@ products:
         - title: 'r/Appliances: How is the Midea Cube 20 pint'
           url: >-
             https://www.reddit.com/r/Appliances/comments/1uwsd9m/how_is_the_midea_cube_20_pint/
+    image:
+      url: 'https://m.media-amazon.com/images/I/31X4HslPrAL._SL500_.jpg'
+      width: 385
+      height: 500
+    amazonTitle: >-
+      Midea Cube 20 Pint Dehumidifier for Basement, 1,500 Sq. Ft, Energy star |
+      Large Capacity Water Tank with Drain Hose, Wi-Fi Enabled, Works with
+      Alexa, Quiet Operation for Home, Bedroom
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41xZgLzCJOL._SL500_.jpg'
+        width: 385
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41c9m3i9zuL._SL500_.jpg'
+        width: 385
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41Qoa+h8NXL._SL500_.jpg'
+        width: 385
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41upB2+8zeL._SL500_.jpg'
+        width: 385
+        height: 500
   - name: Midea Cube 35 Pint Dehumidifier
     brand: Midea
     query: Midea Cube 35 Pint Dehumidifier MAD35S1QWT
@@ -214,6 +235,27 @@ products:
         - title: 'r/Midea: Midea Cube humidity level reading'
           url: >-
             https://www.reddit.com/r/Midea/comments/1n9ycz8/midea_cube_humidity_level_reading/
+    image:
+      url: 'https://m.media-amazon.com/images/I/31m6sBV6kuL._SL500_.jpg'
+      width: 385
+      height: 500
+    amazonTitle: >-
+      Midea Cube 50 Pint Dehumidifier for Basement, 4,500 Sq. Ft, Energy star |
+      Large Capacity Water Tank with Drain Hose, Wi-Fi Enabled, Works with
+      Alexa, Quiet Operation for Home, Bedroom
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41xZgLzCJOL._SL500_.jpg'
+        width: 385
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41W1-2ZB2WL._SL500_.jpg'
+        width: 385
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/413DfCUR1AL._SL500_.jpg'
+        width: 385
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41upB2+8zeL._SL500_.jpg'
+        width: 385
+        height: 500
   - name: Eva-Dry EDV-1100 Petite Dehumidifier
     brand: Eva-Dry
     query: Eva-Dry EDV-1100 Electric Petite Dehumidifier
@@ -252,6 +294,27 @@ products:
         - title: Eva-Dry EDV-1100 product page customer reviews
           url: 'https://eva-dry.com/products/edv-1100-petite-dehumidifier'
           reviews: 2038
+    image:
+      url: 'https://m.media-amazon.com/images/I/41RjA8oZPeL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Eva-Dry EDV-1100 Whisper-quiet 16 OZ Dehumidifier with Auto Shut Off and
+      Restart for small spaces in your Home, RV, Automobile, and Storage up to
+      122 sq. ft
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41qjUUk2UdL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51q2VSisHyL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41u1wmU2YbL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51J8c9wA3pL._SL500_.jpg'
+        width: 477
+        height: 500
   - name: Pro Breeze PB-03 Mini Dehumidifier
     brand: Pro Breeze
     query: Pro Breeze Electric Mini Dehumidifier 2200 Cubic Feet
@@ -303,6 +366,27 @@ products:
           url: >-
             https://www.homedepot.com/p/reviews/Pro-Breeze-0-9-Pint-Bucket-Dehumidifier-PB-03-US/312836607/1
           reviews: 382
+    image:
+      url: 'https://m.media-amazon.com/images/I/41qq9hL4YpL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Pro Breeze Electric Mini Dehumidifier, 2200 Cubic Feet (250 sq ft),
+      Compact and Portable for High Humidity in Home, Kitchen, Bedroom,
+      Basement, Caravan, Office, Garage
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51AmsJElg1L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51z6okQUWUL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/515XyqqIRsL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51yH9lddG8L._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Eva-Dry E-333 Renewable Mini Dehumidifier
     brand: Eva-Dry
     query: Eva-Dry E-333 Renewable Mini Dehumidifier
@@ -346,6 +430,24 @@ products:
         - title: 'r/vandwellers: Anyone tried Eva-Dry renewable mini dehumidifier?'
           url: >-
             https://www.reddit.com/r/vandwellers/comments/6h9luv/anyone_tried_evadry_renewable_mini_dehumidifier/
+    image:
+      url: 'https://m.media-amazon.com/images/I/31Mbr9Br-uL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: 'Eva-Dry Wireless Mini Dehumidifier, White (E-333)'
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31qrZdy37JL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41KLomEcbzL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/519aBBETDOL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/31OPZqqjTTL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: 'EPA: A Brief Guide to Mold, Moisture and Your Home'
     url: 'https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home'

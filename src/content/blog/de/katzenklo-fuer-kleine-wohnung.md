@@ -91,17 +91,38 @@ products:
     owners:
       read: 9
       praise:
-        - Die Streu bleibt drinnen, und viel weniger wird durch die Wohnung getragen
-        - Stabiler Deckel mit Löchern, die Streu von den Pfoten klopfen
+        - >-
+          Die Streu bleibt drinnen, und viel weniger wird durch die Wohnung
+          getragen
+        - 'Stabiler Deckel mit Löchern, die Streu von den Pfoten klopfen'
         - Hält Hunde von der Toilette fern
       complaints:
         - Mitgelieferte Schaufel ist klein und wackelig
         - Etwas klein für große Katzen
-        - Durch die gewölbten Seiten dauert das Abkratzen festklebender Streu länger
+        - >-
+          Durch die gewölbten Seiten dauert das Abkratzen festklebender Streu
+          länger
       sources:
         - title: 'IRIS Large Round Top Entry Cat Litter Box reviews, Chewy'
           url: 'https://www.chewy.com/iris-usa-large-round-top-entry-cat/dp/183620'
           reviews: 629
+    image:
+      url: 'https://m.media-amazon.com/images/I/314HSZan7pL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41RIs+7el6L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41TYzFTcjWL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51NHkeV6uhL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41dZLWhYq1L._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Van Ness Corner High Sides Cat Litter Pan
     brand: Van Ness
     query: Van Ness Corner High Sides Cat Litter Pan Large
@@ -120,7 +141,7 @@ products:
     pros:
       - Nutzt tote Ecken hinter der Toilette oder Tür
       - Hohe Rückwände fangen Urin und weggescharrte Streu ab
-      - Glatter Kunststoff, der sich leicht abwischen lässt
+      - 'Glatter Kunststoff, der sich leicht abwischen lässt'
     cons:
       - Die Dreiecksform begrenzt die Streufläche für große Katzen
       - Durch den niedrigen Einstieg kann Streu herausfallen
@@ -141,11 +162,24 @@ products:
       complaints:
         - Streu wird durch den Einstieg nach draußen gescharrt
         - Für manche erwachsenen Katzen zu klein
-        - 'Ein Besitzer berichtet, dass sie nach vorn kippte, als die Katze ausstieg'
+        - >-
+          Ein Besitzer berichtet, dass sie nach vorn kippte, als die Katze
+          ausstieg
       sources:
         - title: 'Van Ness High Side Corner Cat Litter Box reviews, Chewy'
           url: 'https://www.chewy.com/van-ness-high-side-corner-cat-litter/dp/114110'
           reviews: 747
+    image:
+      url: 'https://m.media-amazon.com/images/I/31Mpy8ePIRL._SL500_.jpg'
+      width: 500
+      height: 375
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31gFdyKcCAL._SL500_.jpg'
+        width: 500
+        height: 375
+      - url: 'https://m.media-amazon.com/images/I/41R5DwrPGlL._SL500_.jpg'
+        width: 500
+        height: 302
   - name: Nature's Miracle Advanced Hooded Corner Cat Litter Box
     brand: Nature's Miracle
     query: Nature's Miracle Advanced Hooded Corner Cat Litter Box
@@ -168,7 +202,9 @@ products:
     pros:
       - Eckform mit geräumigem Innenraum für große Katzen
       - Haube und hoher Einstieg halten Urin und Streu drinnen
-      - Aktivkohlefilter und Antihaftoberfläche gegen Geruch und für leichte Reinigung
+      - >-
+        Aktivkohlefilter und Antihaftoberfläche gegen Geruch und für leichte
+        Reinigung
     cons:
       - 'Groß: Nature''s Miracle gibt 66 x 58 x 51 cm (26 x 23 x 20 in) an'
       - Manche Besitzer berichten von klemmenden Verschlüssen
@@ -179,18 +215,22 @@ products:
       value: 8
       portability: 8
     scoreNote: >-
-      Kein Aufbau und starker Spritzschutz, aber für eine kleine Wohnung ist
-      sie groß.
+      Kein Aufbau und starker Spritzschutz, aber für eine kleine Wohnung ist sie
+      groß.
     owners:
       read: 13
       praise:
-        - Geräumig genug für große Katzen und Katzen, die im Stehen pinkeln
+        - 'Geräumig genug für große Katzen und Katzen, die im Stehen pinkeln'
         - Hoher Einstieg hält weggescharrte Streu drinnen
-        - Antihaft-Kunststoff, der Gerüche abweist und sich leicht reinigen lässt
+        - >-
+          Antihaft-Kunststoff, der Gerüche abweist und sich leicht reinigen
+          lässt
       complaints:
         - 'Ein klemmender Verschluss, von mehr als einem Besitzer gemeldet'
         - Ersatzfilter und Hauben schwer zu finden
-        - 'Ein Besitzer meldet Lecks an der Naht bei einer Katze, die im Stehen pinkelt'
+        - >-
+          Ein Besitzer meldet Lecks an der Naht bei einer Katze, die im Stehen
+          pinkelt
       sources:
         - title: 'Hooded Corner Litter Box reviews, Nature''s Miracle'
           url: >-
@@ -204,6 +244,23 @@ products:
         - title: 'Nature''s Miracle Hooded Corner Litter Box reviews, Petco'
           url: >-
             https://www.petco.com/product/natures-miracle-advanced-corner-hooded-cat-litter-box
+    image:
+      url: 'https://m.media-amazon.com/images/I/41ioak06kbL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31gLoYO1cTL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41OKazRIreL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41MpskVVs7L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51woTNDjFYL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Van Ness High Sides Cat Litter Pan
     brand: Van Ness
     query: VanNessPets HighSides Cat Litter Pan Large
@@ -226,7 +283,7 @@ products:
       - 'Glatter, hochglänzender Kunststoff'
     cons:
       - 'Leicht genug, um umzukippen, laut einem Besitzer'
-      - Innen kleiner, als die Außenmaße vermuten lassen
+      - 'Innen kleiner, als die Außenmaße vermuten lassen'
     scores:
       install: 10
       reversibility: 10
@@ -237,16 +294,21 @@ products:
       read: 9
       praise:
         - Hohe Wände stoppen den Großteil der weggescharrten Streu
-        - Passt in enge Ecken, etwa neben die Toilette
-        - Glatte Innenseite, Klumpen lösen sich leicht
+        - 'Passt in enge Ecken, etwa neben die Toilette'
+        - 'Glatte Innenseite, Klumpen lösen sich leicht'
       complaints:
-        - Ein Besitzer berichtet, dass Katzen die leichte Schale umkippen
+        - 'Ein Besitzer berichtet, dass Katzen die leichte Schale umkippen'
         - Innen kleiner als erwartet
         - 'Falsche Farbe geliefert, von mehr als einem Käufer gemeldet'
       sources:
         - title: 'Van Ness High Sides Cat Litter Box reviews, Chewy'
           url: 'https://www.chewy.com/van-ness-high-sides-cat-litter-box/dp/55357'
           reviews: 2293
+    image:
+      url: 'https://m.media-amazon.com/images/I/41Y05ZuSY5L._SL500_.jpg'
+      width: 500
+      height: 367
+    gallery: []
   - name: Petmate Booda Clean Step Cat Litter Box Dome
     brand: Petmate
     query: Petmate Booda Clean Step Cat Litter Box Dome
@@ -278,7 +340,9 @@ products:
       reversibility: 10
       value: 8
       portability: 7
-    scoreNote: 'Kein Aufbau und viel weniger verschleppte Streu, aber die Kuppel braucht echten Platz.'
+    scoreNote: >-
+      Kein Aufbau und viel weniger verschleppte Streu, aber die Kuppel braucht
+      echten Platz.
     owners:
       read: 19
       praise:
@@ -319,7 +383,9 @@ products:
       - Geräumiger runder Innenraum von 48 cm (19 in)
       - Aktivkohlefilter und geschlossene Seiten
     cons:
-      - Dünner Kunststoff; manche Exemplare kommen verbogen an oder passen schwer zusammen
+      - >-
+        Dünner Kunststoff; manche Exemplare kommen verbogen an oder passen
+        schwer zusammen
       - 'Der Einstieg liegt nah am Boden, daher kann Streu herausfliegen'
     scores:
       install: 9
@@ -332,19 +398,36 @@ products:
     owners:
       read: 9
       praise:
-        - Überzeugende Tarnung, die Gäste täuscht
+        - 'Überzeugende Tarnung, die Gäste täuscht'
         - Geräumig genug für große Katzen
-        - Hält Hunde fern, wenn die Öffnung zur Wand zeigt
+        - 'Hält Hunde fern, wenn die Öffnung zur Wand zeigt'
       complaints:
         - Kommt verbogen an oder die Teile passen nicht zusammen
         - Durch den niedrigen Einstieg landet Streu auf dem Boden
-        - Ein Besitzer meldet Urin, der durch die Naht sickert
+        - 'Ein Besitzer meldet Urin, der durch die Naht sickert'
       sources:
         - title: >-
             Good Pet Stuff The Original Hidden Planter Cat Litter Box reviews,
             Chewy
           url: 'https://www.chewy.com/good-pet-stuff-original-hidden/dp/1033982'
           reviews: 9
+    image:
+      url: 'https://m.media-amazon.com/images/I/41RmpdaH0bL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41zvjA5HqPL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/412iKZCca9L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51fexuNzx0L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51C9VS45VGL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Whisker Litter-Robot 4
     brand: Whisker
     query: Whisker Litter-Robot 4
@@ -366,7 +449,9 @@ products:
       einstecken; braucht eine Steckdose in der Nähe und rund 56 x 69 cm (22 x
       27 in) Boden, und es zieht mit dir um.
     pros:
-      - Verschlossene Abfallschublade hält Gerüche in der Einzimmerwohnung in Schach
+      - >-
+        Verschlossene Abfallschublade hält Gerüche in der Einzimmerwohnung in
+        Schach
       - 'Die App zeigt Besuche, Gewicht der Katze und Füllstand der Schublade'
       - 'Für bis zu vier Katzen, laut Whisker'
     cons:
@@ -385,13 +470,17 @@ products:
     owners:
       read: 29
       praise:
-        - 'Geruchskontrolle, bei der eine kleine Wohnung riecht, als lebte dort keine Katze'
+        - >-
+          Geruchskontrolle, bei der eine kleine Wohnung riecht, als lebte dort
+          keine Katze
         - Einfache Einrichtung und eine hilfreiche App
         - Leiser Reinigungszyklus und viel weniger Schaufeln
       complaints:
         - Hoher Preis
         - Nasse Streu klebt am Einsatz oder Unterteil
-        - Gewichtsangaben bei leichten Katzen ungenau; manche Geräte kamen defekt an
+        - >-
+          Gewichtsangaben bei leichten Katzen ungenau; manche Geräte kamen
+          defekt an
       sources:
         - title: 'Litter-Robot 4 reviews, Best Buy'
           url: >-
@@ -402,6 +491,23 @@ products:
           reviews: 99
         - title: 'Litter-Robot 4 in a tiny NYC apartment, Apartment Therapy'
           url: 'https://www.apartmenttherapy.com/litter-robot-4-review-37340563'
+    image:
+      url: 'https://m.media-amazon.com/images/I/31M4HFaG0sL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41FN13G3gaL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51rIogGESEL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41FLB-Ys2RL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51VRjdyv0HL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: 'The 8 Best Litter Boxes for a Small Apartment, Cats.com'
     url: 'https://cats.com/best-litter-boxes-for-a-small-apartment'
@@ -442,10 +548,10 @@ faqs:
       fernzuhalten.
   - q: Lohnt sich ein automatisches Katzenklo in einer kleinen Wohnung?
     a: >-
-      Sie halten Gerüche gut in Schach, sind aber meist groß. Das Litter-Robot
-      4 braucht 56 x 69 cm (22 x 27 in) Stellfläche, ist 75 cm (29.5 in) hoch und
-      muss an den Strom, also miss den Platz und prüf, ob eine Steckdose da
-      ist, bevor du kaufst.
+      Sie halten Gerüche gut in Schach, sind aber meist groß. Das Litter-Robot 4
+      braucht 56 x 69 cm (22 x 27 in) Stellfläche, ist 75 cm (29.5 in) hoch und
+      muss an den Strom, also miss den Platz und prüf, ob eine Steckdose da ist,
+      bevor du kaufst.
   - q: Wie groß sollte ein Katzenklo für eine kleine Wohnung sein?
     a: >-
       Cats.com empfiehlt eine Toilette, die mindestens so lang ist wie deine

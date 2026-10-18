@@ -118,6 +118,27 @@ products:
         - title: 'Tapo doorbell owner post, Tapo Smart Home Facebook group'
           url: >-
             https://www.facebook.com/groups/taposmarthome/posts/1594841208178937/
+    image:
+      url: 'https://m.media-amazon.com/images/I/41Fr37pRH1L._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Tapo 2K+ Wired or Battery Powered Smart Video Doorbell with Chime, D225 |
+      180° Field of View, Person/Vehicle/Package Detection, Ring Call, 2-Way
+      Audio, Subscription-Free Local Storage or Cloud
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41SJQIFT63L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41ydd0YpX+L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51PsUG+DhAL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41N4p2mbQnL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: eufy Video Doorbell E340
     brand: eufy
     query: eufy Video Doorbell E340
@@ -178,6 +199,27 @@ products:
         - title: 'Looking for E340 feedback, r/EufyCam'
           url: >-
             https://www.reddit.com/r/EufyCam/comments/1el0yja/looking_for_e340_doorbell_feedback/
+    image:
+      url: 'https://m.media-amazon.com/images/I/31bPy4fJvOL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      eufy Security Video Doorbell E340, Dual Cameras, 2K FHD, 8GB Local Storage
+      | No Subscription,Head-to-Toe view,Wireless or Wired,Color night
+      vision,Two-way talk,AI motion/package detection, 2.4 GHz Wi-Fi
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41kKAqJnvJL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41e591NHWIL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41tstr05QzL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41v5jdJzg+L._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Ring Battery Doorbell 4K Pro
     brand: Ring
     query: Ring Battery Doorbell 4K Pro
@@ -237,6 +279,27 @@ products:
         - title: 'First video doorbell post, Ring Doorbell Users Facebook group'
           url: >-
             https://www.facebook.com/groups/ringdoorbellusersgroup/posts/2715954695422917/
+    image:
+      url: 'https://m.media-amazon.com/images/I/21wTVEgbZpL._SL500_.jpg'
+      width: 313
+      height: 500
+    amazonTitle: >-
+      Ring Battery Doorbell 4K Pro (newest model), Retinal 4K with wide-angle
+      video, up to 10x Enhanced Zoom, Night Vision, and Quick Release Ultra
+      Battery Pack, Deep Silver
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41bb2BZ1anL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51APpmBSHkL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/417hygJrUOL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41BVzTDyFcL._SL500_.jpg'
+        width: 313
+        height: 500
   - name: Google Nest Doorbell (Battery)
     brand: Google Nest
     query: Google Nest Doorbell Battery
@@ -294,6 +357,26 @@ products:
         - title: 'Nest doorbell battery complaints thread, r/Nest'
           url: >-
             https://www.reddit.com/r/Nest/comments/wl9myj/why_is_google_nest_doorbell_battery_such_a_bad/
+    image:
+      url: 'https://m.media-amazon.com/images/I/21in0ahznSL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Google Nest Doorbell (Battery) - Snow | 6x digital zoom video doorbell,
+      HD, 24/7 live view, Night vision, HDR, works with Google Home & Gemini
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/21seeO+bTHL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/21sF-XD7qQL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/21xek-iTIBL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/21yxc+0A38L._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Arlo Video Doorbell 2K (2nd Gen)
     brand: Arlo
     query: Arlo Video Doorbell 2K 2nd Gen
@@ -352,6 +435,27 @@ products:
         - title: 'Arlo Video Doorbell 2K (2nd Gen) owner reviews, Home Depot'
           url: >-
             https://www.homedepot.com/p/Arlo-Video-Doorbell-2K-2nd-Gen-Wired-Wireless-Smart-Video-Doorbell-Camera-with-Head-To-Toe-View-and-Night-Vision-White-AVD4001-100NAS/327729311
+    image:
+      url: 'https://m.media-amazon.com/images/I/212B4JiHCdL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Arlo Video Doorbell 2K (2nd Gen) Wireless or Wired - 1-Cam | 2K HDR
+      head-to-toe video; Front door security; Package & person detection; Night
+      vision, 2-way audio; 1-mo Secure plan incl.
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51WSmmtihsL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51ZrL7OR6VL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/517RvcC1EyL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41ALBk-GxqL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Blink Video Doorbell (2nd Gen)
     brand: Blink
     query: Blink Video Doorbell 2nd Gen
@@ -405,6 +509,26 @@ products:
             https://www.reddit.com/r/blinkcameras/comments/1ng9727/video_doorbell_2nd_gen_no_benefits_without_a/
         - title: 'Blink Video Doorbell Review (2nd Gen), YouTube comments'
           url: 'https://www.youtube.com/watch?v=34uaBHCuFU8'
+    image:
+      url: 'https://m.media-amazon.com/images/I/31jAesiVibL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Blink Video Doorbell – Head-to-toe HD view, two-year battery life, and
+      simple setup. Sync Module Core included – System (Black)
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41JWEVTllrL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/416YSsuwYyL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41dZtgypqcL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/5106nq72nhL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: 'Tapo D225 product page, TP-Link Tapo'
     url: >-

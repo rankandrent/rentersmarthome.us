@@ -3,9 +3,14 @@
   "lang": "de",
   "translationOf": "best-litter-box-for-small-apartment",
   "pass": true,
-  "checkedAt": "2026-10-18T13:23:40.170Z",
+  "checkedAt": "2026-10-18T13:37:07.890Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "source didn't respond normally (403): https://www.catster.com/lifestyle/best-cat-litter-boxes-for-small-apartments",
+    "source didn't respond normally (403): https://articles.hepper.com/best-cat-litter-boxes-for-small-apartments/",
+    "source didn't respond normally (no response): https://www.naturesmiracle.com/products/other-messes/hooded-corner-litter-box",
+    "product \"Petmate Booda Clean Step Cat Litter Box Dome\" (B0002DH8KU) is no longer returned by Amazon"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Compared section by section with English best-litter-box-for-small-apartment: 7 products, ASINs, scores, owner counts, review URLs and source list identical (scripted diff); every metric/imperial pair re-checked (in to cm, lb to kg, sq in to cm2, 10 ft to 3 m); specs, ratings (Cats.com, Hepper, Catster, CR, Chewy, PetSmart, Whisker 90-day trial, 4 cats, charcoal filter 3 months) match English and its sources; FAQs, tldr, renter tips match; no prices, currencies, local-store/availability claims, check-price CTAs or hands-on testing claims.",

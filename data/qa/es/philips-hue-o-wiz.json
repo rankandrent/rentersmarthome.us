@@ -3,11 +3,9 @@
   "lang": "es",
   "translationOf": "philips-hue-vs-wiz",
   "pass": true,
-  "checkedAt": "2026-10-18T10:12:37.488Z",
+  "checkedAt": "2026-10-18T13:40:00.093Z",
   "errors": [],
-  "warnings": [
-    "source didn't respond normally (no response): https://homekitnews.com/2023/04/26/wiz-gains-matter-support-for-most-products-via-app-update/"
-  ],
+  "warnings": [],
   "factCheck": {
     "verified": true,
     "notes": "2026-10-17: compared with English post philips-hue-vs-wiz (factcheck verified 2026-10-14): same 3 products/ASINs, same claims (Signify owns both; WiZ Wi-Fi no hub, 2.4GHz; Hue Zigbee via Bridge or Bluetooth; Matter via Bridge update, many WiZ products; ~6-bulb rule; 50-light owner complaint). Only addition: US-specific note that US bulbs use E26 (as in the amazonTitles), Europe E27, check socket/230 V. No prices, no testing claims.",

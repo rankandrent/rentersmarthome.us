@@ -1,12 +1,10 @@
 {
   "slug": "best-cat-tree-for-small-apartment",
   "pass": true,
-  "checkedAt": "2026-10-18T13:12:26.168Z",
+  "checkedAt": "2026-10-18T13:33:57.659Z",
   "errors": [],
   "warnings": [
-    "product \"New Cat Condos Premier Triple Cat Perch\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Mau Cento Modern Cat Tree\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Catit Vesper High Base\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "source didn't respond normally (403): https://www.nytimes.com/wirecutter/reviews/best-cat-trees/"
   ],
   "factCheck": {
     "verified": true,

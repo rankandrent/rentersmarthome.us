@@ -2,9 +2,11 @@
   "slug": "es/cierres-magneticos-para-armarios-sin-taladrar",
   "lang": "es",
   "translationOf": "best-magnetic-cabinet-locks-for-renters",
-  "pass": true,
-  "checkedAt": "2026-10-18T10:11:14.328Z",
-  "errors": [],
+  "pass": false,
+  "checkedAt": "2026-10-18T13:38:44.601Z",
+  "errors": [
+    "sources must be the English post's URLs (added: https://www.momease.ca/products/safety-1st-secure-to-explore-adhesive-magnetic-lock-system; missing: none)"
+  ],
   "warnings": [
     "LIVE POST, FIX: source returns 404: https://www.momease.ca/products/safety-1st-secure-to-explore-adhesive-magnetic-lock-system",
     "source didn't respond normally (403): https://www.woolworths.com.au/shop/productdetails/1122750099",

@@ -1,16 +1,14 @@
 {
   "slug": "best-litter-box-for-small-apartment",
   "pass": true,
-  "checkedAt": "2026-10-18T13:08:19.115Z",
+  "checkedAt": "2026-10-18T13:34:22.484Z",
   "errors": [],
   "warnings": [
-    "product \"IRIS USA Large Top Entry Cat Litter Box\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Van Ness Corner High Sides Cat Litter Pan\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Nature's Miracle Advanced Hooded Corner Cat Litter Box\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Van Ness High Sides Cat Litter Pan\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Petmate Booda Clean Step Cat Litter Box Dome\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Good Pet Stuff Original Hidden Litter Box Planter\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Whisker Litter-Robot 4\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "source didn't respond normally (403): https://www.catster.com/lifestyle/best-cat-litter-boxes-for-small-apartments",
+    "source didn't respond normally (403): https://articles.hepper.com/best-cat-litter-boxes-for-small-apartments/",
+    "source didn't respond normally (no response): https://www.naturesmiracle.com/products/other-messes/hooded-corner-litter-box",
+    "product \"Petmate Booda Clean Step Cat Litter Box Dome\" (B0002DH8KU) is no longer returned by Amazon"
   ],
   "factCheck": {
     "verified": true,

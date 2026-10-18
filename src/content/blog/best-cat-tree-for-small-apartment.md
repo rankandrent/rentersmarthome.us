@@ -100,6 +100,14 @@ products:
           url: >-
             https://www.newcatcondos.com/premier-triple-cat-perch-3-level-solid-wood-window-perch-with-sisal-posts/
           reviews: 41
+    image:
+      url: 'https://m.media-amazon.com/images/I/41TiNI3T+3L._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51hlhdIp2kL._SL500_.jpg'
+        width: 282
+        height: 500
   - name: Mau Cento Modern Cat Tree
     brand: Mau
     query: Mau Cento Modern Cat Tree Tower
@@ -157,6 +165,23 @@ products:
         - title: 'Mau cat tree review, Reviewed'
           url: >-
             https://reviewed.com/pets/content/mau-cat-tree-review-gorgeous-and-worth-splurge
+    image:
+      url: 'https://m.media-amazon.com/images/I/31Nt214OkGL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41liWnCJk9L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41jAQKETI3L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41EsvYCQ1pL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41x7NcwXREL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Catit Vesper High Base
     brand: Catit
     query: Catit Vesper High Base Cat Tree 52045
@@ -215,6 +240,23 @@ products:
         - title: 'Vesper High Base reviews, Aquapet via REVIEWS.io'
           url: 'https://www.reviews.io/product-reviews/store/aquapet/52045'
           reviews: 7
+    image:
+      url: 'https://m.media-amazon.com/images/I/41ETa7uXwJL._SL500_.jpg'
+      width: 500
+      height: 468
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41lvbEK+PcL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41pyfdXBbGL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51BYfhyA9ZL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41H9qxRnsiL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: 'The Best Cat Trees, Wirecutter'
     url: 'https://www.nytimes.com/wirecutter/reviews/best-cat-trees/'

@@ -97,6 +97,23 @@ products:
         - title: 'IRIS Large Round Top Entry Cat Litter Box reviews, Chewy'
           url: 'https://www.chewy.com/iris-usa-large-round-top-entry-cat/dp/183620'
           reviews: 629
+    image:
+      url: 'https://m.media-amazon.com/images/I/314HSZan7pL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41RIs+7el6L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41TYzFTcjWL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51NHkeV6uhL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41dZLWhYq1L._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Van Ness Corner High Sides Cat Litter Pan
     brand: Van Ness
     query: Van Ness Corner High Sides Cat Litter Pan Large
@@ -141,6 +158,17 @@ products:
         - title: 'Van Ness High Side Corner Cat Litter Box reviews, Chewy'
           url: 'https://www.chewy.com/van-ness-high-side-corner-cat-litter/dp/114110'
           reviews: 747
+    image:
+      url: 'https://m.media-amazon.com/images/I/31Mpy8ePIRL._SL500_.jpg'
+      width: 500
+      height: 375
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31gFdyKcCAL._SL500_.jpg'
+        width: 500
+        height: 375
+      - url: 'https://m.media-amazon.com/images/I/41R5DwrPGlL._SL500_.jpg'
+        width: 500
+        height: 302
   - name: Nature's Miracle Advanced Hooded Corner Cat Litter Box
     brand: Nature's Miracle
     query: Nature's Miracle Advanced Hooded Corner Cat Litter Box
@@ -198,6 +226,23 @@ products:
         - title: 'Nature''s Miracle Hooded Corner Litter Box reviews, Petco'
           url: >-
             https://www.petco.com/product/natures-miracle-advanced-corner-hooded-cat-litter-box
+    image:
+      url: 'https://m.media-amazon.com/images/I/41ioak06kbL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31gLoYO1cTL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41OKazRIreL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41MpskVVs7L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51woTNDjFYL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Van Ness High Sides Cat Litter Pan
     brand: Van Ness
     query: VanNessPets HighSides Cat Litter Pan Large
@@ -240,6 +285,11 @@ products:
         - title: 'Van Ness High Sides Cat Litter Box reviews, Chewy'
           url: 'https://www.chewy.com/van-ness-high-sides-cat-litter-box/dp/55357'
           reviews: 2293
+    image:
+      url: 'https://m.media-amazon.com/images/I/41Y05ZuSY5L._SL500_.jpg'
+      width: 500
+      height: 367
+    gallery: []
   - name: Petmate Booda Clean Step Cat Litter Box Dome
     brand: Petmate
     query: Petmate Booda Clean Step Cat Litter Box Dome
@@ -332,6 +382,23 @@ products:
             Chewy
           url: 'https://www.chewy.com/good-pet-stuff-original-hidden/dp/1033982'
           reviews: 9
+    image:
+      url: 'https://m.media-amazon.com/images/I/41RmpdaH0bL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41zvjA5HqPL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/412iKZCca9L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51fexuNzx0L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51C9VS45VGL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Whisker Litter-Robot 4
     brand: Whisker
     query: Whisker Litter-Robot 4
@@ -387,6 +454,23 @@ products:
           reviews: 99
         - title: 'Litter-Robot 4 in a tiny NYC apartment, Apartment Therapy'
           url: 'https://www.apartmenttherapy.com/litter-robot-4-review-37340563'
+    image:
+      url: 'https://m.media-amazon.com/images/I/31M4HFaG0sL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41FN13G3gaL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51rIogGESEL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41FLB-Ys2RL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51VRjdyv0HL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: 'The 8 Best Litter Boxes for a Small Apartment, Cats.com'
     url: 'https://cats.com/best-litter-boxes-for-a-small-apartment'

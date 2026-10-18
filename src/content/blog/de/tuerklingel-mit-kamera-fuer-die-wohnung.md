@@ -1,395 +1,624 @@
 ---
 title: 'Türklingel mit Kamera für die Mietwohnung: 6 Modelle ohne Kabel (2026)'
 seoTitle: 'Türklingel mit Kamera für die Wohnung (2026): 6 Modelle'
-description: 'Die beste Türklingel mit Kamera für die Wohnung läuft mit Akku und hält ohne Bohren. 6 Modelle
-  für Mieter im Vergleich: Speicher, Vermieter-Regeln und Auszug.'
+description: >-
+  Die beste Türklingel mit Kamera für die Wohnung läuft mit Akku und hält ohne
+  Bohren. 6 Modelle für Mieter im Vergleich: Speicher, Vermieter-Regeln und
+  Auszug.
 pubDate: '2026-10-19T01:05:00.000Z'
 lang: de
 translationOf: door-camera-for-apartment
 category: security
 keyword: türklingel mit kamera für die wohnung
 secondaryKeywords:
-- türkamera wohnung
-- video türklingel mietwohnung
-- beste türklingel mit kamera für die wohnung
-- türklingel mit kamera ohne kabel
-- türkamera ohne bohren
-- kabellose video türklingel wohnung
+  - türkamera wohnung
+  - video türklingel mietwohnung
+  - beste türklingel mit kamera für die wohnung
+  - türklingel mit kamera ohne kabel
+  - türkamera ohne bohren
+  - kabellose video türklingel wohnung
 entities:
-- door camera for apartment
-- video doorbell
-- peephole camera
-- no-drill mount
-- head-to-toe view
-- local storage
-- Tapo D225
-- eufy Video Doorbell E340
-- Ring Battery Doorbell 4K Pro
-- Google Nest Doorbell (Battery)
-- Arlo Video Doorbell 2K (2nd Gen)
-- Blink Video Doorbell (2nd Gen)
-- Sync Module
-- lease
-- landlord approval
+  - door camera for apartment
+  - video doorbell
+  - peephole camera
+  - no-drill mount
+  - head-to-toe view
+  - local storage
+  - Tapo D225
+  - eufy Video Doorbell E340
+  - Ring Battery Doorbell 4K Pro
+  - Google Nest Doorbell (Battery)
+  - Arlo Video Doorbell 2K (2nd Gen)
+  - Blink Video Doorbell (2nd Gen)
+  - Sync Module
+  - lease
+  - landlord approval
 tags:
-- türkameras
-- video-türklingeln
-- wohnungssicherheit
-- ohne bohren
+  - türkameras
+  - video-türklingeln
+  - wohnungssicherheit
+  - ohne bohren
 articleType: roundup
 funnel: bofu
 productStyle: paragraph
 productCount: 6
 readingTime: 10
 tldr:
-- Die beste Türklingel mit Kamera für die Wohnung läuft mit Akku, braucht also keine Klingelleitung, und
-  hält mit Klebepad oder einer Halterung ohne Bohren.
-- 'Die Tapo D225 ist unsere Empfehlung für die meisten Mieter: 180-Grad-Blickwinkel, Steckdosen-Gong,
-  Klebemontage und kostenlose Aufnahme auf microSD.'
-- Nimm die eufy E340 für Pakete auf dem Flurboden, die Blink Video Doorbell (2nd Gen), wenn du nie aufladen
-  willst, oder Ring, Nest bzw. Arlo, wenn du schon in deren App zu Hause bist.
-- Frag deinen Vermieter schriftlich, bevor du etwas an Tür oder Rahmen klebst, und richte die Kamera von
-  der Tür deiner Nachbarn weg.
+  - >-
+    Die beste Türklingel mit Kamera für die Wohnung läuft mit Akku, braucht also
+    keine Klingelleitung, und hält mit Klebepad oder einer Halterung ohne
+    Bohren.
+  - >-
+    Die Tapo D225 ist unsere Empfehlung für die meisten Mieter:
+    180-Grad-Blickwinkel, Steckdosen-Gong, Klebemontage und kostenlose Aufnahme
+    auf microSD.
+  - >-
+    Nimm die eufy E340 für Pakete auf dem Flurboden, die Blink Video Doorbell
+    (2nd Gen), wenn du nie aufladen willst, oder Ring, Nest bzw. Arlo, wenn du
+    schon in deren App zu Hause bist.
+  - >-
+    Frag deinen Vermieter schriftlich, bevor du etwas an Tür oder Rahmen klebst,
+    und richte die Kamera von der Tür deiner Nachbarn weg.
 products:
-- name: Tapo D225 Smart Video Doorbell
-  brand: Tapo (TP-Link)
-  query: Tapo D225 Smart Video Doorbell
-  matchName: Tapo D225 Smart Video Doorbell
-  asin: B0D8MKQ5RC
-  asinVerified: true
-  badge: Beste Wahl insgesamt
-  summary: Eine 2K-Türklingel für Akku- oder Kabelbetrieb mit 180-Grad-Blickwinkel und Steckdosen-Gong
-    im Karton. Ideal für Mieter, die kostenlos lokal aufnehmen und per Klebepad montieren wollen.
-  renterNote: 'Für Mieter, die ohne Abo lokal aufnehmen wollen: Laut Tapo halten die Türklingeln mit dem
-    mitgelieferten Klebepad statt Schrauben, und der Gong kommt in die Steckdose, an Leitungen musst du
-    also nichts machen.'
-  pros:
-  - 180-Grad-Blickwinkel (diagonal) zeigt Besucher und Pakete
-  - Steckdosen-Gong dabei; Akku- oder Kabelbetrieb
-  - Speichert ohne Pflicht-Abo auf eine microSD-Karte
-  cons:
-  - Besitzer berichten von Akkuverlust selbst bei fester Verkabelung
-  - microSD-Karte separat erhältlich
-  scores:
-    install: 9
-    reversibility: 9
-    value: 9
-    compatibility: 8
-    portability: 8
-  scoreNote: Klebemontage und Steckdosen-Gong machen sie mieterfreundlich; kostenlose microSD-Aufnahme
-    und Alexa- plus Google-Unterstützung heben Nutzwert und Kompatibilität.
-  sources:
-  - https://us.store.tapo.com/products/tapo-2k-qhd-smart-battery-video-doorbell
-  - https://us.store.tapo.com/collections/video-doorbell-for-apartments
-  - https://www.nytimes.com/wirecutter/reviews/best-smart-doorbell-camera/
-  owners:
-    read: 6
-    praise:
-    - Funktionsumfang ohne Abo, verglichen mit Ring
-    - Wahlweise Akku- oder Kabelbetrieb
-    complaints:
-    - Akku entlädt sich oder lädt bei manchen verkabelten Installationen nicht
-    - Ein Besitzer berichtet von verpassten Fahrzeugerkennungen
+  - name: Tapo D225 Smart Video Doorbell
+    brand: Tapo (TP-Link)
+    query: Tapo D225 Smart Video Doorbell
+    matchName: Tapo D225 Smart Video Doorbell
+    asin: B0D8MKQ5RC
+    asinVerified: true
+    badge: Beste Wahl insgesamt
+    summary: >-
+      Eine 2K-Türklingel für Akku- oder Kabelbetrieb mit 180-Grad-Blickwinkel
+      und Steckdosen-Gong im Karton. Ideal für Mieter, die kostenlos lokal
+      aufnehmen und per Klebepad montieren wollen.
+    renterNote: >-
+      Für Mieter, die ohne Abo lokal aufnehmen wollen: Laut Tapo halten die
+      Türklingeln mit dem mitgelieferten Klebepad statt Schrauben, und der Gong
+      kommt in die Steckdose, an Leitungen musst du also nichts machen.
+    pros:
+      - 180-Grad-Blickwinkel (diagonal) zeigt Besucher und Pakete
+      - Steckdosen-Gong dabei; Akku- oder Kabelbetrieb
+      - Speichert ohne Pflicht-Abo auf eine microSD-Karte
+    cons:
+      - Besitzer berichten von Akkuverlust selbst bei fester Verkabelung
+      - microSD-Karte separat erhältlich
+    scores:
+      install: 9
+      reversibility: 9
+      value: 9
+      compatibility: 8
+      portability: 8
+    scoreNote: >-
+      Klebemontage und Steckdosen-Gong machen sie mieterfreundlich; kostenlose
+      microSD-Aufnahme und Alexa- plus Google-Unterstützung heben Nutzwert und
+      Kompatibilität.
     sources:
-    - title: D225 hardwired battery not charging, r/Tapo
-      url: https://www.reddit.com/r/Tapo/comments/1t34u84/d225_doorbell_hardwired_camera_tapo_h100_chime/
-    - title: D225 drawing power from battery while hardwired, r/Tapo
-      url: https://www.reddit.com/r/Tapo/comments/1h8kthe/tapo_d225_drawing_power_from_battery_although_its/
-    - title: Tapo 2K battery doorbell battery life, r/Tapo
-      url: https://www.reddit.com/r/Tapo/comments/1heoi2p/tapo_2k_battery_doorbell_battery_life/
-    - title: D225 vs D130, r/Tapo
-      url: https://www.reddit.com/r/Tapo/comments/1pn9ftx/d225_vs_d130_doorbell_cams/
-    - title: D225 not detecting motion well, r/Tapo
-      url: https://www.reddit.com/r/Tapo/comments/1trlh2j/d225_doorbell_not_detecting_motion_well/
-    - title: Tapo doorbell owner post, Tapo Smart Home Facebook group
-      url: https://www.facebook.com/groups/taposmarthome/posts/1594841208178937/
-- name: eufy Video Doorbell E340
-  brand: eufy
-  query: eufy Video Doorbell E340
-  matchName: eufy Video Doorbell E340
-  asin: B0CD7NT4Y9
-  asinVerified: true
-  badge: Beste Wahl für Pakete
-  summary: Eine Türklingel mit zwei Kameras, davon eine nach unten auf den Boden gerichtet, und 8 GB Speicher
-    im Gerät. Ideal für Mieter, deren Lieferungen im Hausflur landen.
-  renterNote: 'Für Mieter mit Paketen im Flur: Sie läuft mit abnehmbarem Akku ohne Verkabelung; plane
-    eine Halterung ohne Bohren ein oder frag deinen Vermieter, bevor du die Schraubplatte nutzt.'
-  pros:
-  - Zweite Kamera behält Pakete auf dem Boden im Blick
-  - 8 GB Speicher im Gerät, kein Abo nötig
-  - Abnehmbarer Akku lädt in der Wohnung
-  cons:
-  - Akkulaufzeit schwankt stark von Besitzer zu Besitzer
-  - Nur 2,4-GHz-WLAN (802.11 b/g/n)
-  scores:
-    install: 7
-    reversibility: 8
-    value: 8
-    compatibility: 8
-    portability: 8
-  scoreNote: Kabellos mit kostenlosem Speicher im Gerät; für eine Montage ohne Schrauben braucht sie eine
-    No-Drill-Halterung von Drittanbietern, was die Installationswertung bremst.
-  sources:
-  - https://service.eufy.com/article-description/Understanding-the-Specifications-of-the-Video-Doorbell-E340
-  - https://www.eufy.com/video-doorbell-e340
-  - https://www.eufy.com/products/t8214111
-  owners:
-    read: 5
-    praise:
-    - Erfasst Bewegungen an der Tür zuverlässig
-    - Ein Besitzer betrieb sie fast zwei Jahre problemlos mit Akku
-    complaints:
-    - Kurze Akkulaufzeit bei manchen Besitzern (einmal unter drei Wochen)
-    - Akkuverlust bei fester Verkabelung
-    - Ein Besitzer berichtet von Verbindungsabbrüchen und verpassten Ereignissen
+      - >-
+        https://us.store.tapo.com/products/tapo-2k-qhd-smart-battery-video-doorbell
+      - 'https://us.store.tapo.com/collections/video-doorbell-for-apartments'
+      - 'https://www.nytimes.com/wirecutter/reviews/best-smart-doorbell-camera/'
+    owners:
+      read: 6
+      praise:
+        - 'Funktionsumfang ohne Abo, verglichen mit Ring'
+        - Wahlweise Akku- oder Kabelbetrieb
+      complaints:
+        - >-
+          Akku entlädt sich oder lädt bei manchen verkabelten Installationen
+          nicht
+        - Ein Besitzer berichtet von verpassten Fahrzeugerkennungen
+      sources:
+        - title: 'D225 hardwired battery not charging, r/Tapo'
+          url: >-
+            https://www.reddit.com/r/Tapo/comments/1t34u84/d225_doorbell_hardwired_camera_tapo_h100_chime/
+        - title: 'D225 drawing power from battery while hardwired, r/Tapo'
+          url: >-
+            https://www.reddit.com/r/Tapo/comments/1h8kthe/tapo_d225_drawing_power_from_battery_although_its/
+        - title: 'Tapo 2K battery doorbell battery life, r/Tapo'
+          url: >-
+            https://www.reddit.com/r/Tapo/comments/1heoi2p/tapo_2k_battery_doorbell_battery_life/
+        - title: 'D225 vs D130, r/Tapo'
+          url: >-
+            https://www.reddit.com/r/Tapo/comments/1pn9ftx/d225_vs_d130_doorbell_cams/
+        - title: 'D225 not detecting motion well, r/Tapo'
+          url: >-
+            https://www.reddit.com/r/Tapo/comments/1trlh2j/d225_doorbell_not_detecting_motion_well/
+        - title: 'Tapo doorbell owner post, Tapo Smart Home Facebook group'
+          url: >-
+            https://www.facebook.com/groups/taposmarthome/posts/1594841208178937/
+    amazonTitle: >-
+      Tapo 2K+ Wired or Battery Powered Smart Video Doorbell with Chime, D225 |
+      180° Field of View, Person/Vehicle/Package Detection, Ring Call, 2-Way
+      Audio, Subscription-Free Local Storage or Cloud
+    image:
+      url: 'https://m.media-amazon.com/images/I/41Fr37pRH1L._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41SJQIFT63L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41ydd0YpX+L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51PsUG+DhAL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41N4p2mbQnL._SL500_.jpg'
+        width: 500
+        height: 500
+  - name: eufy Video Doorbell E340
+    brand: eufy
+    query: eufy Video Doorbell E340
+    matchName: eufy Video Doorbell E340
+    asin: B0CD7NT4Y9
+    asinVerified: true
+    badge: Beste Wahl für Pakete
+    summary: >-
+      Eine Türklingel mit zwei Kameras, davon eine nach unten auf den Boden
+      gerichtet, und 8 GB Speicher im Gerät. Ideal für Mieter, deren Lieferungen
+      im Hausflur landen.
+    renterNote: >-
+      Für Mieter mit Paketen im Flur: Sie läuft mit abnehmbarem Akku ohne
+      Verkabelung; plane eine Halterung ohne Bohren ein oder frag deinen
+      Vermieter, bevor du die Schraubplatte nutzt.
+    pros:
+      - Zweite Kamera behält Pakete auf dem Boden im Blick
+      - '8 GB Speicher im Gerät, kein Abo nötig'
+      - Abnehmbarer Akku lädt in der Wohnung
+    cons:
+      - Akkulaufzeit schwankt stark von Besitzer zu Besitzer
+      - 'Nur 2,4-GHz-WLAN (802.11 b/g/n)'
+    scores:
+      install: 7
+      reversibility: 8
+      value: 8
+      compatibility: 8
+      portability: 8
+    scoreNote: >-
+      Kabellos mit kostenlosem Speicher im Gerät; für eine Montage ohne
+      Schrauben braucht sie eine No-Drill-Halterung von Drittanbietern, was die
+      Installationswertung bremst.
     sources:
-    - title: Has anyone got the Eufy E340? r/EufyCam
-      url: https://www.reddit.com/r/EufyCam/comments/1qxerup/has_anyone_got_the_eufy_e340_doorbell_worth_it/
-    - title: Do people still like their eufy E340? r/EufyCam
-      url: https://www.reddit.com/r/EufyCam/comments/1ut3oc4/looking_to_buy_a_video_doorbell_do_people_still/
-    - title: E340 hardwired but battery still drained, r/EufyCam
-      url: https://www.reddit.com/r/EufyCam/comments/1ix18yl/eufy_e340_doorbell_hardwired_but_battery_still/
-    - title: Hard wiring the E340, r/EufyCam
-      url: https://www.reddit.com/r/EufyCam/comments/1704aez/if_you_are_hard_wiring_the_new_e340_dual_camera/
-    - title: Looking for E340 feedback, r/EufyCam
-      url: https://www.reddit.com/r/EufyCam/comments/1el0yja/looking_for_e340_doorbell_feedback/
-- name: Ring Battery Doorbell 4K Pro
-  brand: Ring
-  query: Ring Battery Doorbell 4K Pro
-  matchName: Ring Battery Doorbell 4K Pro
-  asin: B0FPPWKMGK
-  asinVerified: true
-  badge: Schärfstes Video
-  summary: 'Rings Spitzenmodell mit Akku: 4K-Video, bis zu 10-facher erweiterter Zoom und ein Schnellwechsel-Akku.
-    Ideal für Mieter, die schon ein Ring-Abo haben.'
-  renterNote: 'Für Mieter, die schon ein Ring-Abo zahlen: Akkubetrieb ohne Verkabelung, und laut Rings
-    Produktseite funktioniert sie mit einer Halterung ohne Bohren; der Akku lässt sich zum Laden herausnehmen.'
-  pros:
-  - 4K-Video mit bis zu 10-fachem erweitertem Zoom
-  - Schnellwechsel-Akku lädt, ohne die Klingel abzunehmen
-  - Dualband-WLAN (2,4 und 5 GHz)
-  cons:
-  - Videoaufnahme und Verlauf brauchen ein Ring-Abo
-  - Akkulaufzeit an viel genutzten Türen enttäuscht manche Besitzer
-  scores:
-    install: 8
-    reversibility: 8
-    value: 6
-    compatibility: 6
-    portability: 8
-  scoreNote: Unterstützung für Halterungen ohne Bohren und ein Wechselakku helfen Mietern; ein Bezahl-Abo
-    für Aufnahmen und das Ring-zentrierte Ökosystem drücken Nutzwert und Kompatibilität.
-  sources:
-  - https://ring.com/products/battery-doorbell-pro-2nd-gen
-  - https://ring.com/video-doorbell-cameras
-  owners:
-    read: 5
-    praise:
-    - Scharfe 4K-Details, beim Zoomen klarer als ältere 1080p-Ring-Modelle
-    - Einrichtung in rund 20 Minuten, laut einem Besitzer
-    complaints:
-    - Akku bei einem Besitzer an einer stark frequentierten Tür nach etwa zwei Wochen leer
-    - Ein Besitzer findet die Akkulaufzeit schlechter als beim Vorgänger-Pro
+      - >-
+        https://service.eufy.com/article-description/Understanding-the-Specifications-of-the-Video-Doorbell-E340
+      - 'https://www.eufy.com/video-doorbell-e340'
+      - 'https://www.eufy.com/products/t8214111'
+    owners:
+      read: 5
+      praise:
+        - Erfasst Bewegungen an der Tür zuverlässig
+        - Ein Besitzer betrieb sie fast zwei Jahre problemlos mit Akku
+      complaints:
+        - Kurze Akkulaufzeit bei manchen Besitzern (einmal unter drei Wochen)
+        - Akkuverlust bei fester Verkabelung
+        - >-
+          Ein Besitzer berichtet von Verbindungsabbrüchen und verpassten
+          Ereignissen
+      sources:
+        - title: Has anyone got the Eufy E340? r/EufyCam
+          url: >-
+            https://www.reddit.com/r/EufyCam/comments/1qxerup/has_anyone_got_the_eufy_e340_doorbell_worth_it/
+        - title: Do people still like their eufy E340? r/EufyCam
+          url: >-
+            https://www.reddit.com/r/EufyCam/comments/1ut3oc4/looking_to_buy_a_video_doorbell_do_people_still/
+        - title: 'E340 hardwired but battery still drained, r/EufyCam'
+          url: >-
+            https://www.reddit.com/r/EufyCam/comments/1ix18yl/eufy_e340_doorbell_hardwired_but_battery_still/
+        - title: 'Hard wiring the E340, r/EufyCam'
+          url: >-
+            https://www.reddit.com/r/EufyCam/comments/1704aez/if_you_are_hard_wiring_the_new_e340_dual_camera/
+        - title: 'Looking for E340 feedback, r/EufyCam'
+          url: >-
+            https://www.reddit.com/r/EufyCam/comments/1el0yja/looking_for_e340_doorbell_feedback/
+    amazonTitle: >-
+      eufy Security Video Doorbell E340, Dual Cameras, 2K FHD, 8GB Local Storage
+      | No Subscription,Head-to-Toe view,Wireless or Wired,Color night
+      vision,Two-way talk,AI motion/package detection, 2.4 GHz Wi-Fi
+    image:
+      url: 'https://m.media-amazon.com/images/I/31bPy4fJvOL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41kKAqJnvJL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41e591NHWIL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41tstr05QzL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41v5jdJzg+L._SL500_.jpg'
+        width: 500
+        height: 500
+  - name: Ring Battery Doorbell 4K Pro
+    brand: Ring
+    query: Ring Battery Doorbell 4K Pro
+    matchName: Ring Battery Doorbell 4K Pro
+    asin: B0FPPWKMGK
+    asinVerified: true
+    badge: Schärfstes Video
+    summary: >-
+      Rings Spitzenmodell mit Akku: 4K-Video, bis zu 10-facher erweiterter Zoom
+      und ein Schnellwechsel-Akku. Ideal für Mieter, die schon ein Ring-Abo
+      haben.
+    renterNote: >-
+      Für Mieter, die schon ein Ring-Abo zahlen: Akkubetrieb ohne Verkabelung,
+      und laut Rings Produktseite funktioniert sie mit einer Halterung ohne
+      Bohren; der Akku lässt sich zum Laden herausnehmen.
+    pros:
+      - 4K-Video mit bis zu 10-fachem erweitertem Zoom
+      - 'Schnellwechsel-Akku lädt, ohne die Klingel abzunehmen'
+      - 'Dualband-WLAN (2,4 und 5 GHz)'
+    cons:
+      - Videoaufnahme und Verlauf brauchen ein Ring-Abo
+      - Akkulaufzeit an viel genutzten Türen enttäuscht manche Besitzer
+    scores:
+      install: 8
+      reversibility: 8
+      value: 6
+      compatibility: 6
+      portability: 8
+    scoreNote: >-
+      Unterstützung für Halterungen ohne Bohren und ein Wechselakku helfen
+      Mietern; ein Bezahl-Abo für Aufnahmen und das Ring-zentrierte Ökosystem
+      drücken Nutzwert und Kompatibilität.
     sources:
-    - title: Had to return my doorbell 4K Pro, r/Ring
-      url: https://www.reddit.com/r/Ring/comments/1t5mo1i/had_to_return_my_doorbell_4k_pro/
-    - title: Newest gen battery doorbell performance, r/Ring
-      url: https://www.reddit.com/r/Ring/comments/1uhyk6l/newest_gen_battery_doorbell_performance/
-    - title: Last gen battery vs new Pro, r/Ring
-      url: https://www.reddit.com/r/Ring/comments/1t7lw0f/if_i_have_a_last_gen_ring_doorbell_battery_will/
-    - title: Ring Battery Doorbell 4K Pro owner reviews, Home Depot
-      url: https://www.homedepot.com/p/Ring-Battery-Doorbell-4K-Pro-Retinal-4K-with-Wide-Angle-Video-up-to-10x-Enhanced-Zoom-Quick-Release-Ultra-Battery-B0FPPWKMGK/340840610
-    - title: First video doorbell post, Ring Doorbell Users Facebook group
-      url: https://www.facebook.com/groups/ringdoorbellusersgroup/posts/2715954695422917/
-- name: Google Nest Doorbell (Battery)
-  brand: Google Nest
-  query: Google Nest Doorbell Battery
-  matchName: Google Nest Doorbell Battery
-  asin: B09GZQ1MHC
-  asinVerified: true
-  badge: Beste Wahl für Google Home
-  summary: Eine schlanke Akku-Türklingel mit drei Stunden Ereignis-Videoverlauf ohne Abo. Ideal für Mieter,
-    die ihr Zuhause mit Google Home steuern.
-  renterNote: 'Für Google-Home-Nutzer: kabellose Montage; der Akku ist fest eingebaut, daher nimmst du
-    die ganze Klingel von ihrer Verriegelungshalterung ab, um sie drinnen zu laden.'
-  pros:
-  - Drei Stunden kostenloser Ereignisverlauf
-  - Schlankes Gehäuse passt an schmale Türrahmen
-  - Funktioniert in der Google-Home-App
-  cons:
-  - Akku lädt unter 0 °C (32 °F) nicht
-  - Fest eingebauter Akku, zum Laden muss sie ab
-  scores:
-    install: 7
-    reversibility: 8
-    value: 6
-    compatibility: 6
-    portability: 7
-  scoreNote: Kabellos, aber verschraubt, außer du ergänzt eine No-Drill-Halterung; längerer Verlauf braucht
-    ein Bezahl-Abo, und das Laden bei Kälte begrenzt die Mitnahmefreundlichkeit.
-  sources:
-  - https://support.google.com/googlehome/answer/9259110?hl=en
-  - https://support.google.com/googlehome/answer/11830989?hl=en
-  - https://store.google.com/product/nest_doorbell_specs
-  owners:
-    read: 5
-    praise:
-    - Etwa 2,5 bis 3 Monate pro Ladung bei normalem Betrieb, laut zwei Besitzern
-    - Hält die Ladung und funktioniert einfach, sagen manche Besitzer
-    complaints:
-    - Akku hält an einer belebten Straße nur Tage
-    - Schneller Akkuverlust kurz nach der Einrichtung
+      - 'https://ring.com/products/battery-doorbell-pro-2nd-gen'
+      - 'https://ring.com/video-doorbell-cameras'
+    owners:
+      read: 5
+      praise:
+        - 'Scharfe 4K-Details, beim Zoomen klarer als ältere 1080p-Ring-Modelle'
+        - 'Einrichtung in rund 20 Minuten, laut einem Besitzer'
+      complaints:
+        - >-
+          Akku bei einem Besitzer an einer stark frequentierten Tür nach etwa
+          zwei Wochen leer
+        - Ein Besitzer findet die Akkulaufzeit schlechter als beim Vorgänger-Pro
+      sources:
+        - title: 'Had to return my doorbell 4K Pro, r/Ring'
+          url: >-
+            https://www.reddit.com/r/Ring/comments/1t5mo1i/had_to_return_my_doorbell_4k_pro/
+        - title: 'Newest gen battery doorbell performance, r/Ring'
+          url: >-
+            https://www.reddit.com/r/Ring/comments/1uhyk6l/newest_gen_battery_doorbell_performance/
+        - title: 'Last gen battery vs new Pro, r/Ring'
+          url: >-
+            https://www.reddit.com/r/Ring/comments/1t7lw0f/if_i_have_a_last_gen_ring_doorbell_battery_will/
+        - title: 'Ring Battery Doorbell 4K Pro owner reviews, Home Depot'
+          url: >-
+            https://www.homedepot.com/p/Ring-Battery-Doorbell-4K-Pro-Retinal-4K-with-Wide-Angle-Video-up-to-10x-Enhanced-Zoom-Quick-Release-Ultra-Battery-B0FPPWKMGK/340840610
+        - title: 'First video doorbell post, Ring Doorbell Users Facebook group'
+          url: >-
+            https://www.facebook.com/groups/ringdoorbellusersgroup/posts/2715954695422917/
+    amazonTitle: >-
+      Ring Battery Doorbell 4K Pro (newest model), Retinal 4K with wide-angle
+      video, up to 10x Enhanced Zoom, Night Vision, and Quick Release Ultra
+      Battery Pack, Deep Silver
+    image:
+      url: 'https://m.media-amazon.com/images/I/21wTVEgbZpL._SL500_.jpg'
+      width: 313
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41bb2BZ1anL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51APpmBSHkL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/417hygJrUOL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41BVzTDyFcL._SL500_.jpg'
+        width: 313
+        height: 500
+  - name: Google Nest Doorbell (Battery)
+    brand: Google Nest
+    query: Google Nest Doorbell Battery
+    matchName: Google Nest Doorbell Battery
+    asin: B09GZQ1MHC
+    asinVerified: true
+    badge: Beste Wahl für Google Home
+    summary: >-
+      Eine schlanke Akku-Türklingel mit drei Stunden Ereignis-Videoverlauf ohne
+      Abo. Ideal für Mieter, die ihr Zuhause mit Google Home steuern.
+    renterNote: >-
+      Für Google-Home-Nutzer: kabellose Montage; der Akku ist fest eingebaut,
+      daher nimmst du die ganze Klingel von ihrer Verriegelungshalterung ab, um
+      sie drinnen zu laden.
+    pros:
+      - Drei Stunden kostenloser Ereignisverlauf
+      - Schlankes Gehäuse passt an schmale Türrahmen
+      - Funktioniert in der Google-Home-App
+    cons:
+      - Akku lädt unter 0 °C (32 °F) nicht
+      - 'Fest eingebauter Akku, zum Laden muss sie ab'
+    scores:
+      install: 7
+      reversibility: 8
+      value: 6
+      compatibility: 6
+      portability: 7
+    scoreNote: >-
+      Kabellos, aber verschraubt, außer du ergänzt eine No-Drill-Halterung;
+      längerer Verlauf braucht ein Bezahl-Abo, und das Laden bei Kälte begrenzt
+      die Mitnahmefreundlichkeit.
     sources:
-    - title: Why I think the Nest Doorbell (battery) is one of the best, r/Nest
-      url: https://www.reddit.com/r/Nest/comments/wzvnyi/heres_why_i_think_the_nest_doorbell_battery_is/
-    - title: Is Nest Doorbell (battery) worth buying? r/Nest
-      url: https://www.reddit.com/r/Nest/comments/1gptyww/is_nest_doorbell_battery_worth_buying_in_2024/
-    - title: Nest doorbell battery drains fast, r/Nest
-      url: https://www.reddit.com/r/Nest/comments/wq39v4/nest_doorbell_battery_version_drains_battery/
-    - title: Battery does not last 2 days on a busy street, r/Nest
-      url: https://www.reddit.com/r/Nest/comments/s0rqv3/my_nest_doorbell_battery_doesnt_even_last_2_days/
-    - title: Nest doorbell battery complaints thread, r/Nest
-      url: https://www.reddit.com/r/Nest/comments/wl9myj/why_is_google_nest_doorbell_battery_such_a_bad/
-- name: Arlo Video Doorbell 2K (2nd Gen)
-  brand: Arlo
-  query: Arlo Video Doorbell 2K 2nd Gen
-  matchName: Arlo Video Doorbell 2K 2nd Gen
-  asin: B0C683F516
-  asinVerified: true
-  badge: Größter Blickwinkel
-  summary: Eine 2K-Türklingel im quadratischen Format mit 180-Grad-Blickwinkel (diagonal) und eingebauter
-    Sirene. Ideal für Mieter mit tiefen oder versetzten Eingängen, die Boden und Besucher sehen wollen.
-  renterNote: 'Für Mieter mit tiefen oder versetzten Eingängen: Akkubetrieb ohne Verkabelung; der Akku
-    ist nicht herausnehmbar, daher muss die Klingel zum Laden ab.'
-  pros:
-  - 180-Grad-Blickwinkel (diagonal) im 1:1-Format
-  - Eingebaute Sirene, per App auslösbar
-  - Funktioniert mit Alexa, Google Assistant und IFTTT
-  cons:
-  - Cloud-Aufnahme braucht ein Arlo-Secure-Abo
-  - Akku nicht herausnehmbar; nur 2,4-GHz-WLAN
-  scores:
-    install: 7
-    reversibility: 8
-    value: 6
-    compatibility: 8
-    portability: 7
-  scoreNote: Kabellos mit flacher und abgewinkelter Montageplatte; ein Bezahl-Abo für Cloud-Clips und
-    der eingebaute Akku bremsen Nutzwert und Mitnahmefreundlichkeit.
-  sources:
-  - https://kb.arlo.com/000063725/Arlo-Video-Doorbell-2K-2nd-Generation-Spec-Sheet-AVD4001
-  - https://kb.arlo.com/000063193/Arlo-Video-Doorbell-2nd-Generation-FAQ
-  owners:
-    read: 5
-    praise:
-    - Klares 2K-Video und Ganzkörperansicht von Besuchern und Paketen
-    - Einfache Einrichtung
-    complaints:
-    - Verkabelte Installationen, die den Akku nicht laden
-    - Bei einem Besitzer war der Akku nach wenigen Tagen leer und musste manuell geladen werden
+      - 'https://support.google.com/googlehome/answer/9259110?hl=en'
+      - 'https://support.google.com/googlehome/answer/11830989?hl=en'
+      - 'https://store.google.com/product/nest_doorbell_specs'
+    owners:
+      read: 5
+      praise:
+        - >-
+          Etwa 2,5 bis 3 Monate pro Ladung bei normalem Betrieb, laut zwei
+          Besitzern
+        - 'Hält die Ladung und funktioniert einfach, sagen manche Besitzer'
+      complaints:
+        - Akku hält an einer belebten Straße nur Tage
+        - Schneller Akkuverlust kurz nach der Einrichtung
+      sources:
+        - title: 'Why I think the Nest Doorbell (battery) is one of the best, r/Nest'
+          url: >-
+            https://www.reddit.com/r/Nest/comments/wzvnyi/heres_why_i_think_the_nest_doorbell_battery_is/
+        - title: Is Nest Doorbell (battery) worth buying? r/Nest
+          url: >-
+            https://www.reddit.com/r/Nest/comments/1gptyww/is_nest_doorbell_battery_worth_buying_in_2024/
+        - title: 'Nest doorbell battery drains fast, r/Nest'
+          url: >-
+            https://www.reddit.com/r/Nest/comments/wq39v4/nest_doorbell_battery_version_drains_battery/
+        - title: 'Battery does not last 2 days on a busy street, r/Nest'
+          url: >-
+            https://www.reddit.com/r/Nest/comments/s0rqv3/my_nest_doorbell_battery_doesnt_even_last_2_days/
+        - title: 'Nest doorbell battery complaints thread, r/Nest'
+          url: >-
+            https://www.reddit.com/r/Nest/comments/wl9myj/why_is_google_nest_doorbell_battery_such_a_bad/
+    amazonTitle: >-
+      Google Nest Doorbell (Battery) - Snow | 6x digital zoom video doorbell,
+      HD, 24/7 live view, Night vision, HDR, works with Google Home & Gemini
+    image:
+      url: 'https://m.media-amazon.com/images/I/21in0ahznSL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/21seeO+bTHL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/21sF-XD7qQL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/21xek-iTIBL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/21yxc+0A38L._SL500_.jpg'
+        width: 500
+        height: 500
+  - name: Arlo Video Doorbell 2K (2nd Gen)
+    brand: Arlo
+    query: Arlo Video Doorbell 2K 2nd Gen
+    matchName: Arlo Video Doorbell 2K 2nd Gen
+    asin: B0C683F516
+    asinVerified: true
+    badge: Größter Blickwinkel
+    summary: >-
+      Eine 2K-Türklingel im quadratischen Format mit 180-Grad-Blickwinkel
+      (diagonal) und eingebauter Sirene. Ideal für Mieter mit tiefen oder
+      versetzten Eingängen, die Boden und Besucher sehen wollen.
+    renterNote: >-
+      Für Mieter mit tiefen oder versetzten Eingängen: Akkubetrieb ohne
+      Verkabelung; der Akku ist nicht herausnehmbar, daher muss die Klingel zum
+      Laden ab.
+    pros:
+      - '180-Grad-Blickwinkel (diagonal) im 1:1-Format'
+      - 'Eingebaute Sirene, per App auslösbar'
+      - 'Funktioniert mit Alexa, Google Assistant und IFTTT'
+    cons:
+      - Cloud-Aufnahme braucht ein Arlo-Secure-Abo
+      - 'Akku nicht herausnehmbar; nur 2,4-GHz-WLAN'
+    scores:
+      install: 7
+      reversibility: 8
+      value: 6
+      compatibility: 8
+      portability: 7
+    scoreNote: >-
+      Kabellos mit flacher und abgewinkelter Montageplatte; ein Bezahl-Abo für
+      Cloud-Clips und der eingebaute Akku bremsen Nutzwert und
+      Mitnahmefreundlichkeit.
     sources:
-    - title: 2K 2nd Gen doorbell not charging through the wires, r/arlo
-      url: https://www.reddit.com/r/arlo/comments/1nc4c5i/wiredbattery_2k_2nd_gen_doorbell_not_charging/
-    - title: Arlo 2K 2nd gen video doorbell not charging, r/arlo
-      url: https://www.reddit.com/r/arlo/comments/1ulwcs5/arlo_2k_2nd_gen_video_doorbell_not_charging/
-    - title: Video Doorbell hardwired battery, r/arlo
-      url: https://www.reddit.com/r/arlo/comments/1qeihzd/video_doorbell_2x_hardwired_battery/
-    - title: Video Doorbell (2nd Gen) wired configuration won't charge, r/arlo
-      url: https://www.reddit.com/r/arlo/comments/1rxfzjl/arlo_video_doorbell_2nd_generation_in_wired/
-    - title: Arlo Video Doorbell 2K (2nd Gen) owner reviews, Home Depot
-      url: https://www.homedepot.com/p/Arlo-Video-Doorbell-2K-2nd-Gen-Wired-Wireless-Smart-Video-Doorbell-Camera-with-Head-To-Toe-View-and-Night-Vision-White-AVD4001-100NAS/327729311
-- name: Blink Video Doorbell (2nd Gen)
-  brand: Blink
-  query: Blink Video Doorbell 2nd Gen
-  matchName: Blink Video Doorbell
-  asin: B0DGQZ8JZK
-  asinVerified: true
-  badge: Längste Akkulaufzeit
-  summary: Eine Türklingel mit AA-Batterien, ausgelegt auf bis zu zwei Jahre pro Satz, verkauft mit einem
-    Sync Module Core. Ideal für Mieter, die eine Klingel nie zum Laden abnehmen wollen.
-  renterNote: 'Für Mieter, die nie laden wollen: Sie läuft mit drei AA-Lithiumbatterien ohne Verkabelung,
-    und für dieses Modell gibt es No-Drill-Halterungen von Drittanbietern; ein Sync Module ist Pflicht.'
-  pros:
-  - Bis zu zwei Jahre mit drei AA-Lithiumbatterien (Standardeinstellungen)
-  - 150-Grad-Blickwinkel, bis zu 1440p
-  - Leichtes, schlichtes Gehäuse für den Türrahmen
-  cons:
-  - Funktioniert nur mit einem Sync Module
-  - Lokaler Speicher braucht ein Sync Module 2 oder XR, nicht das mitgelieferte Core
-  scores:
-    install: 8
-    reversibility: 8
-    value: 7
-    compatibility: 6
-    portability: 7
-  scoreNote: Kein Laden und Halterungen ohne Bohren machen es Mietern leicht; der Pflicht-Hub und das
-    Alexa-zentrierte Ökosystem bremsen Kompatibilität und Mitnahmefreundlichkeit.
-  sources:
-  - https://support.blinkforhome.com/video-doorbell-gen-2-faq
-  - https://support.blinkforhome.com/video-doorbell-gen-2-tech-specs/blink-video-doorbell-gen-2-tech-specs
-  owners:
-    read: 4
-    praise:
-    - Live-Ansicht lädt schneller als bei der Klingel der 1. Generation, laut einem Besitzer
-    complaints:
-    - Langsame Live-Ansicht mit dem Sync Module 2
-    - Wenige Funktionen ohne Abo
+      - >-
+        https://kb.arlo.com/000063725/Arlo-Video-Doorbell-2K-2nd-Generation-Spec-Sheet-AVD4001
+      - 'https://kb.arlo.com/000063193/Arlo-Video-Doorbell-2nd-Generation-FAQ'
+    owners:
+      read: 5
+      praise:
+        - Klares 2K-Video und Ganzkörperansicht von Besuchern und Paketen
+        - Einfache Einrichtung
+      complaints:
+        - 'Verkabelte Installationen, die den Akku nicht laden'
+        - >-
+          Bei einem Besitzer war der Akku nach wenigen Tagen leer und musste
+          manuell geladen werden
+      sources:
+        - title: '2K 2nd Gen doorbell not charging through the wires, r/arlo'
+          url: >-
+            https://www.reddit.com/r/arlo/comments/1nc4c5i/wiredbattery_2k_2nd_gen_doorbell_not_charging/
+        - title: 'Arlo 2K 2nd gen video doorbell not charging, r/arlo'
+          url: >-
+            https://www.reddit.com/r/arlo/comments/1ulwcs5/arlo_2k_2nd_gen_video_doorbell_not_charging/
+        - title: 'Video Doorbell hardwired battery, r/arlo'
+          url: >-
+            https://www.reddit.com/r/arlo/comments/1qeihzd/video_doorbell_2x_hardwired_battery/
+        - title: 'Video Doorbell (2nd Gen) wired configuration won''t charge, r/arlo'
+          url: >-
+            https://www.reddit.com/r/arlo/comments/1rxfzjl/arlo_video_doorbell_2nd_generation_in_wired/
+        - title: 'Arlo Video Doorbell 2K (2nd Gen) owner reviews, Home Depot'
+          url: >-
+            https://www.homedepot.com/p/Arlo-Video-Doorbell-2K-2nd-Gen-Wired-Wireless-Smart-Video-Doorbell-Camera-with-Head-To-Toe-View-and-Night-Vision-White-AVD4001-100NAS/327729311
+    amazonTitle: >-
+      Arlo Video Doorbell 2K (2nd Gen) Wireless or Wired - 1-Cam | 2K HDR
+      head-to-toe video; Front door security; Package & person detection; Night
+      vision, 2-way audio; 1-mo Secure plan incl.
+    image:
+      url: 'https://m.media-amazon.com/images/I/212B4JiHCdL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51WSmmtihsL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51ZrL7OR6VL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/517RvcC1EyL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41ALBk-GxqL._SL500_.jpg'
+        width: 500
+        height: 500
+  - name: Blink Video Doorbell (2nd Gen)
+    brand: Blink
+    query: Blink Video Doorbell 2nd Gen
+    matchName: Blink Video Doorbell
+    asin: B0DGQZ8JZK
+    asinVerified: true
+    badge: Längste Akkulaufzeit
+    summary: >-
+      Eine Türklingel mit AA-Batterien, ausgelegt auf bis zu zwei Jahre pro
+      Satz, verkauft mit einem Sync Module Core. Ideal für Mieter, die eine
+      Klingel nie zum Laden abnehmen wollen.
+    renterNote: >-
+      Für Mieter, die nie laden wollen: Sie läuft mit drei AA-Lithiumbatterien
+      ohne Verkabelung, und für dieses Modell gibt es No-Drill-Halterungen von
+      Drittanbietern; ein Sync Module ist Pflicht.
+    pros:
+      - Bis zu zwei Jahre mit drei AA-Lithiumbatterien (Standardeinstellungen)
+      - '150-Grad-Blickwinkel, bis zu 1440p'
+      - 'Leichtes, schlichtes Gehäuse für den Türrahmen'
+    cons:
+      - Funktioniert nur mit einem Sync Module
+      - >-
+        Lokaler Speicher braucht ein Sync Module 2 oder XR, nicht das
+        mitgelieferte Core
+    scores:
+      install: 8
+      reversibility: 8
+      value: 7
+      compatibility: 6
+      portability: 7
+    scoreNote: >-
+      Kein Laden und Halterungen ohne Bohren machen es Mietern leicht; der
+      Pflicht-Hub und das Alexa-zentrierte Ökosystem bremsen Kompatibilität und
+      Mitnahmefreundlichkeit.
     sources:
-    - title: Blink Video Doorbell 2nd Gen review and setup, r/blinkcameras
-      url: https://www.reddit.com/r/blinkcameras/comments/1l2bkcj/new_blink_video_doorbell_2nd_gen_review_full_setup/
-    - title: Blink Video Doorbell (newest model) questions, r/blinkcameras
-      url: https://www.reddit.com/r/blinkcameras/comments/1qtgyu7/blink_video_doorbell_newest_model_a_few_questions/
-    - title: Video Doorbell (2nd gen) without a subscription, r/blinkcameras
-      url: https://www.reddit.com/r/blinkcameras/comments/1ng9727/video_doorbell_2nd_gen_no_benefits_without_a/
-    - title: Blink Video Doorbell Review (2nd Gen), YouTube comments
-      url: https://www.youtube.com/watch?v=34uaBHCuFU8
+      - 'https://support.blinkforhome.com/video-doorbell-gen-2-faq'
+      - >-
+        https://support.blinkforhome.com/video-doorbell-gen-2-tech-specs/blink-video-doorbell-gen-2-tech-specs
+    owners:
+      read: 4
+      praise:
+        - >-
+          Live-Ansicht lädt schneller als bei der Klingel der 1. Generation,
+          laut einem Besitzer
+      complaints:
+        - Langsame Live-Ansicht mit dem Sync Module 2
+        - Wenige Funktionen ohne Abo
+      sources:
+        - title: 'Blink Video Doorbell 2nd Gen review and setup, r/blinkcameras'
+          url: >-
+            https://www.reddit.com/r/blinkcameras/comments/1l2bkcj/new_blink_video_doorbell_2nd_gen_review_full_setup/
+        - title: 'Blink Video Doorbell (newest model) questions, r/blinkcameras'
+          url: >-
+            https://www.reddit.com/r/blinkcameras/comments/1qtgyu7/blink_video_doorbell_newest_model_a_few_questions/
+        - title: 'Video Doorbell (2nd gen) without a subscription, r/blinkcameras'
+          url: >-
+            https://www.reddit.com/r/blinkcameras/comments/1ng9727/video_doorbell_2nd_gen_no_benefits_without_a/
+        - title: 'Blink Video Doorbell Review (2nd Gen), YouTube comments'
+          url: 'https://www.youtube.com/watch?v=34uaBHCuFU8'
+    amazonTitle: >-
+      Blink Video Doorbell – Head-to-toe HD view, two-year battery life, and
+      simple setup. Sync Module Core included – System (Black)
+    image:
+      url: 'https://m.media-amazon.com/images/I/31jAesiVibL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41JWEVTllrL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/416YSsuwYyL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41dZtgypqcL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/5106nq72nhL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
-- title: Tapo D225 product page, TP-Link Tapo
-  url: https://us.store.tapo.com/products/tapo-2k-qhd-smart-battery-video-doorbell
-- title: Doorbell cameras for apartments FAQ, TP-Link Tapo
-  url: https://us.store.tapo.com/collections/video-doorbell-for-apartments
-- title: Video Doorbell E340 specifications, eufy
-  url: https://service.eufy.com/article-description/Understanding-the-Specifications-of-the-Video-Doorbell-E340
-- title: Battery Doorbell 4K Pro, Ring
-  url: https://ring.com/products/battery-doorbell-pro-2nd-gen
-- title: Technical specs for Nest cameras and doorbells, Google
-  url: https://support.google.com/googlehome/answer/9259110?hl=en
-- title: Cold weather battery charging in Nest doorbells, Google
-  url: https://support.google.com/googlehome/answer/11830989?hl=en
-- title: Arlo Video Doorbell 2K (2nd Generation) spec sheet, Arlo
-  url: https://kb.arlo.com/000063725/Arlo-Video-Doorbell-2K-2nd-Generation-Spec-Sheet-AVD4001
-- title: Video Doorbell (2nd Gen) FAQ, Blink
-  url: https://support.blinkforhome.com/video-doorbell-gen-2-faq
-- title: Door camera for apartment guide, Reolink
-  url: https://reolink.com/blog/door-camera-for-apartment/
-- title: Best doorbell cameras for apartments, SmartRent
-  url: https://smartrent.com/news/best-doorbell-camera-for-apartments/
+  - title: 'Tapo D225 product page, TP-Link Tapo'
+    url: >-
+      https://us.store.tapo.com/products/tapo-2k-qhd-smart-battery-video-doorbell
+  - title: 'Doorbell cameras for apartments FAQ, TP-Link Tapo'
+    url: 'https://us.store.tapo.com/collections/video-doorbell-for-apartments'
+  - title: 'Video Doorbell E340 specifications, eufy'
+    url: >-
+      https://service.eufy.com/article-description/Understanding-the-Specifications-of-the-Video-Doorbell-E340
+  - title: 'Battery Doorbell 4K Pro, Ring'
+    url: 'https://ring.com/products/battery-doorbell-pro-2nd-gen'
+  - title: 'Technical specs for Nest cameras and doorbells, Google'
+    url: 'https://support.google.com/googlehome/answer/9259110?hl=en'
+  - title: 'Cold weather battery charging in Nest doorbells, Google'
+    url: 'https://support.google.com/googlehome/answer/11830989?hl=en'
+  - title: 'Arlo Video Doorbell 2K (2nd Generation) spec sheet, Arlo'
+    url: >-
+      https://kb.arlo.com/000063725/Arlo-Video-Doorbell-2K-2nd-Generation-Spec-Sheet-AVD4001
+  - title: 'Video Doorbell (2nd Gen) FAQ, Blink'
+    url: 'https://support.blinkforhome.com/video-doorbell-gen-2-faq'
+  - title: 'Door camera for apartment guide, Reolink'
+    url: 'https://reolink.com/blog/door-camera-for-apartment/'
+  - title: 'Best doorbell cameras for apartments, SmartRent'
+    url: 'https://smartrent.com/news/best-doorbell-camera-for-apartments/'
 reviewedDate: '2026-10-18'
 faqs:
-- q: Welche Türklingel mit Kamera ist die beste für die Wohnung?
-  a: 'Für die meisten Mieter empfehlen wir die Tapo D225: Sie läuft mit Akku, laut Tapo lässt sie sich
-    mit dem mitgelieferten Klebepad montieren, der Gong kommt in die Steckdose und sie speichert ohne
-    Pflicht-Abo auf eine microSD-Karte. Nimm die eufy E340, wenn Pakete auf dem Flurboden landen.'
-- q: Darf ich in der Mietwohnung eine Kamera an der Wohnungstür anbringen?
-  a: Meist ja, wenn dein Mietvertrag es erlaubt und die Kamera nur deinen eigenen Eingang erfasst. Frag
-    deinen Vermieter vorher schriftlich, nutze eine Halterung ohne Bohren und richte Privatzonen ein,
-    damit die Tür deiner Nachbarn nicht aufgezeichnet wird. Prüfe deinen Mietvertrag und das örtliche
-    Recht, denn die Regeln sind unterschiedlich.
-- q: Welche Video-Türklingel funktioniert ohne Kabel?
-  a: Jedes Modell hier funktioniert ohne Kabel. Tapo D225, eufy E340, Ring Battery Doorbell 4K Pro, Nest
-    Doorbell (Battery) und Arlo 2K (2nd Gen) nutzen Akkus, die Blink Video Doorbell (2nd Gen) läuft mit
-    drei AA-Lithiumbatterien.
-- q: Brauchen Türkameras für die Wohnung ein Abo?
-  a: Nicht alle. Die Tapo D225 speichert auf eine microSD-Karte und die eufy E340 auf 8 GB internen Speicher.
-    Ring braucht ein Abo für Aufnahmen, Nest enthält drei Stunden Ereignisverlauf und Arlo braucht Arlo
-    Secure für Cloud-Clips.
-- q: Wie bringe ich eine Türkamera ohne Bohren an?
-  a: Nutze das Klebepad, das manche Marken beilegen, eine passende No-Drill-Halterung von Drittanbietern
-    für dein Modell oder eine Türspion-Kamera, die den Türspion ersetzt. Reinige die Fläche vorher und
-    lass die vorhandenen Schraublöcher unberührt.
+  - q: Welche Türklingel mit Kamera ist die beste für die Wohnung?
+    a: >-
+      Für die meisten Mieter empfehlen wir die Tapo D225: Sie läuft mit Akku,
+      laut Tapo lässt sie sich mit dem mitgelieferten Klebepad montieren, der
+      Gong kommt in die Steckdose und sie speichert ohne Pflicht-Abo auf eine
+      microSD-Karte. Nimm die eufy E340, wenn Pakete auf dem Flurboden landen.
+  - q: Darf ich in der Mietwohnung eine Kamera an der Wohnungstür anbringen?
+    a: >-
+      Meist ja, wenn dein Mietvertrag es erlaubt und die Kamera nur deinen
+      eigenen Eingang erfasst. Frag deinen Vermieter vorher schriftlich, nutze
+      eine Halterung ohne Bohren und richte Privatzonen ein, damit die Tür
+      deiner Nachbarn nicht aufgezeichnet wird. Prüfe deinen Mietvertrag und das
+      örtliche Recht, denn die Regeln sind unterschiedlich.
+  - q: Welche Video-Türklingel funktioniert ohne Kabel?
+    a: >-
+      Jedes Modell hier funktioniert ohne Kabel. Tapo D225, eufy E340, Ring
+      Battery Doorbell 4K Pro, Nest Doorbell (Battery) und Arlo 2K (2nd Gen)
+      nutzen Akkus, die Blink Video Doorbell (2nd Gen) läuft mit drei
+      AA-Lithiumbatterien.
+  - q: Brauchen Türkameras für die Wohnung ein Abo?
+    a: >-
+      Nicht alle. Die Tapo D225 speichert auf eine microSD-Karte und die eufy
+      E340 auf 8 GB internen Speicher. Ring braucht ein Abo für Aufnahmen, Nest
+      enthält drei Stunden Ereignisverlauf und Arlo braucht Arlo Secure für
+      Cloud-Clips.
+  - q: Wie bringe ich eine Türkamera ohne Bohren an?
+    a: >-
+      Nutze das Klebepad, das manche Marken beilegen, eine passende
+      No-Drill-Halterung von Drittanbietern für dein Modell oder eine
+      Türspion-Kamera, die den Türspion ersetzt. Reinige die Fläche vorher und
+      lass die vorhandenen Schraublöcher unberührt.
 author: editorial-team
 heroImage: /images/featured/door-camera-for-apartment.png
-heroAlt: 'Türklingel mit Kamera für die Mietwohnung: 6 Modelle ohne Kabel (2026), Kaufberatung von RenterSmartHome'
+heroAlt: >-
+  Türklingel mit Kamera für die Mietwohnung: 6 Modelle ohne Kabel (2026),
+  Kaufberatung von RenterSmartHome
 ---
 
 Mit einer Türklingel mit Kamera für die Wohnung siehst du, wer geklopft hat, sprichst mit dem Paketboten und erwischst einen Paketdiebstahl, und das alles ohne die Klingelleitung, an die Mieter in den meisten Wohnungen nie herankommen. Wir haben die Türkameras verglichen, die von den bestplatzierten Ratgebern immer wieder empfohlen werden, und die sechs behalten, die mit Akku laufen und sich ohne Bohren anbringen lassen. Unten findest du unsere Auswahl, eine Vergleichstabelle, wie wir ausgewählt haben, eine Mustermail an den Vermieter und einen Plan für den Auszug.

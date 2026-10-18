@@ -44,9 +44,9 @@ tldr:
     etwa 51 bis 61 cm (20 bis 24 in) Seitenlänge, braucht also rund 0,28 m² (3
     sq ft) Boden und bleibt ohne Wandbefestigung stehen.
   - >-
-    Der New Cat Condos Premier Triple Cat Perch ist unser Favorit
-    insgesamt: Massivholzsockel mit 51 x 51 cm (20 x 20 in), 81 cm (32
-    in) hoch und komplett vormontiert geliefert.
+    Der New Cat Condos Premier Triple Cat Perch ist unser Favorit insgesamt:
+    Massivholzsockel mit 51 x 51 cm (20 x 20 in), 81 cm (32 in) hoch und
+    komplett vormontiert geliefert.
   - >-
     Nimm den Mau Cento, wenn die Optik am wichtigsten ist, oder den Catit Vesper
     High Base, wenn du auf kleiner Fläche die meiste Höhe willst (etwa 122 cm,
@@ -79,8 +79,8 @@ products:
       - Manchen Besitzern sind die obere und mittlere Liegefläche zu klein
     specs:
       Dimensions: 51 x 51 x 81 cm (20 x 20 x 32 in) (B x T x H)
-      Footprint: Etwa 0,26 m² (2.8 sq ft)
-      Weight: 15,0 kg (33 lb)
+      Footprint: 'Etwa 0,26 m² (2.8 sq ft)'
+      Weight: '15,0 kg (33 lb)'
       Levels: '3'
       Materials: 'Massivholz, Teppich in Wohnqualität, unbehandelter Natursisal'
       Assembly: Wird komplett montiert geliefert
@@ -90,8 +90,8 @@ products:
       value: 8
       portability: 10
     scoreNote: >-
-      Freistehend und vormontiert, also nichts zu bohren oder aufzubauen; kompakt
-      genug für jede Wohnung und leicht in die nächste mitzunehmen.
+      Freistehend und vormontiert, also nichts zu bohren oder aufzubauen;
+      kompakt genug für jede Wohnung und leicht in die nächste mitzunehmen.
     owners:
       read: 10
       praise:
@@ -106,6 +106,14 @@ products:
           url: >-
             https://www.newcatcondos.com/premier-triple-cat-perch-3-level-solid-wood-window-perch-with-sisal-posts/
           reviews: 41
+    image:
+      url: 'https://m.media-amazon.com/images/I/41TiNI3T+3L._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51hlhdIp2kL._SL500_.jpg'
+        width: 282
+        height: 500
   - name: Mau Cento Modern Cat Tree
     brand: Mau
     query: Mau Cento Modern Cat Tree Tower
@@ -126,15 +134,15 @@ products:
     pros:
       - 'Optik wie ein Möbelstück: echte Holzäste, Körbe, Kunstfell'
       - Waschmaschinenfeste Kissen und austauschbare Teile
-      - Laut Amazon-Angebot für Katzen bis 10,4 kg (23 lb)
+      - 'Laut Amazon-Angebot für Katzen bis 10,4 kg (23 lb)'
     cons:
       - Der Aufbau ist fummelig und die Anleitung dürftig
-      - 'Laut Besitzern kommen manche Katzen schwer in den oberen Korb'
+      - Laut Besitzern kommen manche Katzen schwer in den oberen Korb
       - Hoher Preis
     specs:
       Dimensions: 60 x 46 x 117 cm (23.5 x 18 x 46 in) (L x B x H)
-      Footprint: Etwa 0,27 m² (2.9 sq ft)
-      Max cat weight: 10,4 kg (23 lb) (Amazon-Angebot)
+      Footprint: 'Etwa 0,27 m² (2.9 sq ft)'
+      Max cat weight: '10,4 kg (23 lb) (Amazon-Angebot)'
       Materials: 'Echte Holzäste, Sisalseil, geflochtene Körbe, Kunstfell'
       Cushions: Waschmaschinenfest
       Assembly: 'Erforderlich, laut einem Rezensenten etwa 40 Minuten'
@@ -154,7 +162,9 @@ products:
         - Katzen nutzen ihn zum Kratzen und zum Schlafen
       complaints:
         - Der obere Korb sitzt hoch und ist für manche Katzen schwer erreichbar
-        - Wackelnde Körbe oder Stämme, die sich mit der Zeit lockern; Nachziehen der Schrauben hilft
+        - >-
+          Wackelnde Körbe oder Stämme, die sich mit der Zeit lockern; Nachziehen
+          der Schrauben hilft
         - Frustrierender Aufbau mit unbeschrifteten Stämmen
       sources:
         - title: 'Mau Cento owner reviews, Chewy'
@@ -163,6 +173,23 @@ products:
         - title: 'Mau cat tree review, Reviewed'
           url: >-
             https://reviewed.com/pets/content/mau-cat-tree-review-gorgeous-and-worth-splurge
+    image:
+      url: 'https://m.media-amazon.com/images/I/31Nt214OkGL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41liWnCJk9L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41jAQKETI3L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41EsvYCQ1pL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41x7NcwXREL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Catit Vesper High Base
     brand: Catit
     query: Catit Vesper High Base Cat Tree 52045
@@ -179,16 +206,18 @@ products:
       Freistehend auf einer quadratischen Grundfläche von 56 cm (22.1 in); er
       wird verschraubt und lässt sich für einen Umzug wieder zerlegen.
     pros:
-      - Die meiste Höhe unserer Auswahl auf einer quadratischen Grundfläche von 56 cm (22.1 in)
-      - Laminat lässt sich abwischen, die Kissen sind abnehmbar und waschbar
-      - 'Würfelhöhle mit zwei Eingängen plus Aussichtsplattform oben'
+      - >-
+        Die meiste Höhe unserer Auswahl auf einer quadratischen Grundfläche von
+        56 cm (22.1 in)
+      - 'Laminat lässt sich abwischen, die Kissen sind abnehmbar und waschbar'
+      - Würfelhöhle mit zwei Eingängen plus Aussichtsplattform oben
     cons:
-      - 'Die Seegrasstämme fasern laut Besitzern aus und verlieren Fasern'
+      - Die Seegrasstämme fasern laut Besitzern aus und verlieren Fasern
       - Manche Exemplare kommen beschädigt an; der Aufbau braucht Geduld
       - Größeren Katzen sind Würfel und oberste Ebene eventuell zu eng
     specs:
       Dimensions: 56 x 56 x 122 cm (22.1 x 22.1 x 47.9 in) (L x B x H)
-      Footprint: Etwa 0,32 m² (3.4 sq ft)
+      Footprint: 'Etwa 0,32 m² (3.4 sq ft)'
       Levels: '4'
       Materials: 'Laminierte MDF-Platten, Kratzstämme aus Seegras'
       Cushions: Abnehmbarer Memory-Schaum
@@ -222,6 +251,23 @@ products:
         - title: 'Vesper High Base reviews, Aquapet via REVIEWS.io'
           url: 'https://www.reviews.io/product-reviews/store/aquapet/52045'
           reviews: 7
+    image:
+      url: 'https://m.media-amazon.com/images/I/41ETa7uXwJL._SL500_.jpg'
+      width: 500
+      height: 468
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41lvbEK+PcL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41pyfdXBbGL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51BYfhyA9ZL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41H9qxRnsiL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: 'The Best Cat Trees, Wirecutter'
     url: 'https://www.nytimes.com/wirecutter/reviews/best-cat-trees/'
@@ -244,10 +290,10 @@ faqs:
   - q: Welcher Kratzbaum ist der beste für eine kleine Wohnung?
     a: >-
       Für die meisten Mieter der New Cat Condos Premier Triple Cat Perch: eine
-      Grundfläche von 51 x 51 cm (20 x 20 in), 81 cm (32 in) hoch, aus Massivholz
-      und komplett montiert geliefert. Wenn du auf ähnlicher Fläche mehr Höhe
-      willst, erreicht der Catit Vesper High Base etwa 122 cm (48 in) auf einer
-      quadratischen Grundfläche von 56 cm (22.1 in).
+      Grundfläche von 51 x 51 cm (20 x 20 in), 81 cm (32 in) hoch, aus
+      Massivholz und komplett montiert geliefert. Wenn du auf ähnlicher Fläche
+      mehr Höhe willst, erreicht der Catit Vesper High Base etwa 122 cm (48 in)
+      auf einer quadratischen Grundfläche von 56 cm (22.1 in).
   - q: Wie viel Platz braucht ein Kratzbaum?
     a: >-
       Es zählt nur der Sockel. Eine Grundfläche von 51 x 51 cm (20 x 20 in)
@@ -258,22 +304,24 @@ faqs:
     a: >-
       Hoch und schmal gibt deiner Katze mehr Revier pro Quadratmeter; Pets
       Perfect empfiehlt bei den meisten Deckenhöhen von 244 cm (96 in) eine Höhe
-      von 127 bis 183 cm (50 bis 72 in). Ein niedriger Baum wie der 81 cm (32 in)
-      hohe Premier Triple Cat Perch steht stabiler und ist leichter für ältere
-      Katzen.
+      von 127 bis 183 cm (50 bis 72 in). Ein niedriger Baum wie der 81 cm (32
+      in) hohe Premier Triple Cat Perch steht stabiler und ist leichter für
+      ältere Katzen.
   - q: Muss ich einen Kratzbaum an der Wand befestigen?
     a: >-
       Nicht immer. Niedrige, schwere Kratzbäume stehen meist von selbst. Pets
       Perfect empfiehlt einen Wandgurt für hohe Türme, wenn deine Katze von
       anderen Möbeln aus daraufspringt. In einer Mietwohnung bedeutet ein Gurt
       eine Schraube in der Wand, also frag vorher schriftlich deinen Vermieter.
-  - q: Darf ich einen Kratzbaum in der Mietwohnung befestigen, ohne die Kaution zu riskieren?
+  - q: >-
+      Darf ich einen Kratzbaum in der Mietwohnung befestigen, ohne die Kaution
+      zu riskieren?
     a: >-
       Meistens ja, wenn dein Vermieter schriftlich zustimmt. Setz die Schraube
-      des Gurts in einen Wandständer, bewahre die Zustimmung beim Mietvertrag auf,
-      und am Auszugstag entfernst du die Schraube, spachtelst das Loch zu und
-      streichst nach. Prüfe deinen Mietvertrag und die örtlichen Regeln, was als
-      Schaden gilt.
+      des Gurts in einen Wandständer, bewahre die Zustimmung beim Mietvertrag
+      auf, und am Auszugstag entfernst du die Schraube, spachtelst das Loch zu
+      und streichst nach. Prüfe deinen Mietvertrag und die örtlichen Regeln, was
+      als Schaden gilt.
 author: editorial-team
 heroImage: /images/featured/best-cat-tree-for-small-apartment.png
 heroAlt: >-

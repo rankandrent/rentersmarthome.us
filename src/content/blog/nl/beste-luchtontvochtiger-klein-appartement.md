@@ -42,9 +42,9 @@ readingTime: 12
 tldr:
   - >-
     Voor een studio of een appartement met één slaapkamer is een
-    compressor-luchtontvochtiger van 9,5 l (20 pints) per dag het kleinste formaat
-    dat een hele kamer droger krijgt; over de Midea Cube 20 Pint zijn de meeste
-    grote reviewsites het eens.
+    compressor-luchtontvochtiger van 9,5 l (20 pints) per dag het kleinste
+    formaat dat een hele kamer droger krijgt; over de Midea Cube 20 Pint zijn de
+    meeste grote reviewsites het eens.
   - >-
     Kies de Midea Cube 35 of 50 Pint als je woning op de begane grond of onder
     straatniveau ligt, of de hele zomer benauwd blijft.
@@ -74,11 +74,11 @@ products:
       slaapkamer: stekker erin en vrijstaand. Laat het water met de meegeleverde
       slang in gootsteen of bad lopen, of leeg het reservoir.
     pros:
-      - Topkeuze in de kleine klasse bij Consumer Reports, RTINGS en Wired
+      - 'Topkeuze in de kleine klasse bij Consumer Reports, RTINGS en Wired'
       - >-
         Groot reservoir voor zijn formaat; schuift in elkaar om in een kast op
         te bergen
-      - Wifi-app, timer en afvoerslang meegeleverd
+      - 'Wifi-app, timer en afvoerslang meegeleverd'
       - Energy Star-gecertificeerd
     cons:
       - >-
@@ -102,7 +102,7 @@ products:
         - >-
           Brengt de luchtvochtigheid in een benauwde kamer binnen een paar dagen
           merkbaar omlaag
-        - Compact voor een compressormodel, dus past naast een bed of bureau
+        - 'Compact voor een compressormodel, dus past naast een bed of bureau'
         - >-
           Gaat langer mee tussen het legen door dan oudere modellen met een
           emmer
@@ -112,17 +112,38 @@ products:
           het apparaat uit blijft
         - Geeft wat warmte af tijdens het draaien
       sources:
-        - title: Sylvane customer reviews, Midea Cube 20 Pint
+        - title: 'Sylvane customer reviews, Midea Cube 20 Pint'
           url: >-
             https://www.sylvane.com/collections/dehumidifiers/products/midea-cube-mad20s1qwt-20-pint-smart-dehumidifier
           reviews: 8
-        - title: Home Depot customer reviews, Midea Cube 20 pt. MAD20S1QWT
+        - title: 'Home Depot customer reviews, Midea Cube 20 pt. MAD20S1QWT'
           url: >-
             https://www.homedepot.com/p/Midea-20-pt-Coverage-area-500-sq-ft-CUBE-Dehumidifier-in-White-with-Pump-ENERGY-STAR-MOST-EFFICIENT-for-basement-or-bedroom-MAD20S1QWT/320468284
           reviews: 681
         - title: 'r/Appliances: How is the Midea Cube 20 pint'
           url: >-
             https://www.reddit.com/r/Appliances/comments/1uwsd9m/how_is_the_midea_cube_20_pint/
+    amazonTitle: >-
+      Midea Cube 20 Pint Dehumidifier for Basement, 1,500 Sq. Ft, Energy star |
+      Large Capacity Water Tank with Drain Hose, Wi-Fi Enabled, Works with
+      Alexa, Quiet Operation for Home, Bedroom
+    image:
+      url: 'https://m.media-amazon.com/images/I/31X4HslPrAL._SL500_.jpg'
+      width: 385
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41xZgLzCJOL._SL500_.jpg'
+        width: 385
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41c9m3i9zuL._SL500_.jpg'
+        width: 385
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41Qoa+h8NXL._SL500_.jpg'
+        width: 385
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41upB2+8zeL._SL500_.jpg'
+        width: 385
+        height: 500
   - name: Midea Cube 35 Pint Dehumidifier
     brand: Midea
     query: Midea Cube 35 Pint Dehumidifier MAD35S1QWT
@@ -146,7 +167,7 @@ products:
       - Groter reservoir betekent minder vaak naar de gootsteen
       - Bediening via app en spraakassistent
     cons:
-      - Zo'n 18,1 kg (40 lb) en een vol reservoir is zwaar om te dragen
+      - 'Zo''n 18,1 kg (40 lb) en een vol reservoir is zwaar om te dragen'
       - >-
         Eén eigenaar meldt dat het reservoir overliep terwijl het apparaat bleef
         draaien
@@ -178,7 +199,7 @@ products:
         - title: Midea store page customer reviews (MAD35S1QWT)
           url: >-
             https://www.midea.com/us/store/cooling-and-heating/dehumidifiers/midea-cube-20-pt-dehumidifier-for-basement--room--or-garage---co.mad35s1qwt
-        - title: Home Depot customer reviews, Midea 35 pt. Cube
+        - title: 'Home Depot customer reviews, Midea 35 pt. Cube'
           url: >-
             https://www.homedepot.com/p/reviews/Midea-35-pt-Cube-Smart-Dehumidifier-up-to-3-500-sq-ft-3x-More-Water-Capacity-Wi-Fi-Enabled-in-White-MAD35S1QWT/320468342/5
           reviews: 585
@@ -187,7 +208,7 @@ products:
             https://www.lowes.com/pd/Midea-Midea-Cube-35-Pint-Dehumidifier/5013220877
           reviews: 115
         - title: RTINGS Midea MAD35S1QWT review and owner comments
-          url: https://www.rtings.com/dehumidifier/reviews/midea/mad35s1qwt
+          url: 'https://www.rtings.com/dehumidifier/reviews/midea/mad35s1qwt'
   - name: Midea Cube 50 Pint Dehumidifier
     brand: Midea
     query: Midea Cube 50 Pint Dehumidifier MAD50S1QWT
@@ -238,19 +259,40 @@ products:
         - title: Midea store page customer reviews (MAD50S1QWT)
           url: >-
             https://www.midea.com/us/store/cooling-and-heating/dehumidifiers/midea-cube-20-pt-dehumidifier-for-basement--room--or-garage---co.mad50s1qwt
-        - title: Home Depot customer reviews, Midea 50 pt. Smart Cube
+        - title: 'Home Depot customer reviews, Midea 50 pt. Smart Cube'
           url: >-
             https://www.homedepot.com/p/reviews/Midea-50-pt-Smart-Cube-Dehumidifier-up-to-4-500-sq-ft-3X-More-Water-Capacity-Wi-Fi-Enabled-in-White-MAD50S1QWT/326887600/1
           reviews: 528
-        - title: Lowe's reviews, Midea MAD50S1QWT
+        - title: 'Lowe''s reviews, Midea MAD50S1QWT'
           url: >-
             https://www.lowes.com/reviews/midea-mad50s1qwt-dehumidifiers/5013242427
           reviews: 103
         - title: HouseFresh Midea Cube long-term review and comments
-          url: https://housefresh.com/midea-cube-50-pint-dehumidifier-review/
+          url: 'https://housefresh.com/midea-cube-50-pint-dehumidifier-review/'
         - title: 'r/Midea: Midea Cube humidity level reading'
           url: >-
             https://www.reddit.com/r/Midea/comments/1n9ycz8/midea_cube_humidity_level_reading/
+    amazonTitle: >-
+      Midea Cube 50 Pint Dehumidifier for Basement, 4,500 Sq. Ft, Energy star |
+      Large Capacity Water Tank with Drain Hose, Wi-Fi Enabled, Works with
+      Alexa, Quiet Operation for Home, Bedroom
+    image:
+      url: 'https://m.media-amazon.com/images/I/31m6sBV6kuL._SL500_.jpg'
+      width: 385
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41xZgLzCJOL._SL500_.jpg'
+        width: 385
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41W1-2ZB2WL._SL500_.jpg'
+        width: 385
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/413DfCUR1AL._SL500_.jpg'
+        width: 385
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41upB2+8zeL._SL500_.jpg'
+        width: 385
+        height: 500
   - name: Eva-Dry EDV-1100 Petite Dehumidifier
     brand: Eva-Dry
     query: Eva-Dry EDV-1100 Electric Petite Dehumidifier
@@ -272,7 +314,7 @@ products:
       - Schakelt uit als hij vol is en start weer op na een stroomstoring
       - Piepklein en zuinig (22 W volgens Eva-Dry)
     cons:
-      - Haalt centiliters per dag weg, geen liters; te zwak voor een hele kamer
+      - 'Haalt centiliters per dag weg, geen liters; te zwak voor een hele kamer'
       - Het kleine reservoir moet bij vochtig weer vaak geleegd worden
     scores:
       install: 10
@@ -287,16 +329,37 @@ products:
       read: 5
       praise:
         - Houdt kasten en kleine badkamers droog en vrij van meeldauw
-        - Volgens veel eigenaren stil, onderhoudsarm en duurzaam
+        - 'Volgens veel eigenaren stil, onderhoudsarm en duurzaam'
       complaints:
-        - Het reservoir is klein, sommige eigenaren legen het dagelijks
+        - 'Het reservoir is klein, sommige eigenaren legen het dagelijks'
         - >-
           Sommige eigenaren van het eerste uur vinden nieuwere exemplaren luider
           of minder efficiënt
       sources:
         - title: Eva-Dry EDV-1100 product page customer reviews
-          url: https://eva-dry.com/products/edv-1100-petite-dehumidifier
+          url: 'https://eva-dry.com/products/edv-1100-petite-dehumidifier'
           reviews: 2038
+    amazonTitle: >-
+      Eva-Dry EDV-1100 Whisper-quiet 16 OZ Dehumidifier with Auto Shut Off and
+      Restart for small spaces in your Home, RV, Automobile, and Storage up to
+      122 sq. ft
+    image:
+      url: 'https://m.media-amazon.com/images/I/41RjA8oZPeL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41qjUUk2UdL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51q2VSisHyL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41u1wmU2YbL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51J8c9wA3pL._SL500_.jpg'
+        width: 477
+        height: 500
   - name: Pro Breeze PB-03 Mini Dehumidifier
     brand: Pro Breeze
     query: Pro Breeze Electric Mini Dehumidifier 2200 Cubic Feet
@@ -319,7 +382,7 @@ products:
       - >-
         Te zwak om een hele kamer te drogen, volgens de praktijkproef van
         HouseFresh
-      - Groter en luider dan de kleinste mini's, volgens RTINGS
+      - 'Groter en luider dan de kleinste mini''s, volgens RTINGS'
     scores:
       install: 10
       reversibility: 10
@@ -348,10 +411,31 @@ products:
         - title: 'r/SantaMonica: Favorite dehumidifiers?'
           url: >-
             https://www.reddit.com/r/SantaMonica/comments/1wvxh69/favorite_dehumidifiers/
-        - title: Home Depot reviews, Pro Breeze PB-03-US
+        - title: 'Home Depot reviews, Pro Breeze PB-03-US'
           url: >-
             https://www.homedepot.com/p/reviews/Pro-Breeze-0-9-Pint-Bucket-Dehumidifier-PB-03-US/312836607/1
           reviews: 382
+    amazonTitle: >-
+      Pro Breeze Electric Mini Dehumidifier, 2200 Cubic Feet (250 sq ft),
+      Compact and Portable for High Humidity in Home, Kitchen, Bedroom,
+      Basement, Caravan, Office, Garage
+    image:
+      url: 'https://m.media-amazon.com/images/I/41qq9hL4YpL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51AmsJElg1L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51z6okQUWUL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/515XyqqIRsL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51yH9lddG8L._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Eva-Dry E-333 Renewable Mini Dehumidifier
     brand: Eva-Dry
     query: Eva-Dry E-333 Renewable Mini Dehumidifier
@@ -369,7 +453,7 @@ products:
       een stopcontact als de indicator verandert.
     pros:
       - Snoerloos en geruisloos tijdens het werk
-      - Herbruikbaar, geen navullingen nodig
+      - 'Herbruikbaar, geen navullingen nodig'
       - Volgens Eva-Dry 5 jaar beperkte garantie
     cons:
       - Alleen bedoeld voor afgesloten ruimtes tot 9 m³ (333 cu ft)
@@ -385,7 +469,7 @@ products:
     owners:
       read: 6
       praise:
-        - Stopt condens en muffe lucht in kleine, afgesloten ruimtes
+        - 'Stopt condens en muffe lucht in kleine, afgesloten ruimtes'
         - Werkt zonder snoer en laadt daarna op aan elk stopcontact
       complaints:
         - >-
@@ -396,43 +480,61 @@ products:
           handleiding in de doos
       sources:
         - title: Eva-Dry E-333 product page customer reviews
-          url: https://eva-dry.com/products/renewable-mini-dehumidifier-e-333
+          url: 'https://eva-dry.com/products/renewable-mini-dehumidifier-e-333'
           reviews: 3519
         - title: 'r/vandwellers: Anyone tried Eva-Dry renewable mini dehumidifier?'
           url: >-
             https://www.reddit.com/r/vandwellers/comments/6h9luv/anyone_tried_evadry_renewable_mini_dehumidifier/
+    amazonTitle: 'Eva-Dry Wireless Mini Dehumidifier, White (E-333)'
+    image:
+      url: 'https://m.media-amazon.com/images/I/31Mbr9Br-uL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31qrZdy37JL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41KLomEcbzL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/519aBBETDOL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/31OPZqqjTTL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: 'EPA: A Brief Guide to Mold, Moisture and Your Home'
-    url: https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home
+    url: 'https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home'
   - title: 'Dehumidifier Buyer''s Guide: Small dehumidifier reviews'
-    url: https://www.dehumidifierbuyersguide.com/low-capacity-dehumidifier-reviews/
+    url: 'https://www.dehumidifierbuyersguide.com/low-capacity-dehumidifier-reviews/'
   - title: 'Dehumidifier Buyer''s Guide: The best dehumidifier'
-    url: https://www.dehumidifierbuyersguide.com/
+    url: 'https://www.dehumidifierbuyersguide.com/'
   - title: 'RTINGS: The best small dehumidifiers'
-    url: https://www.rtings.com/dehumidifier/reviews/best/small
+    url: 'https://www.rtings.com/dehumidifier/reviews/best/small'
   - title: 'Consumer Reports: Best dehumidifiers under $250'
     url: >-
       https://www.consumerreports.org/appliances/dehumidifiers/best-dehumidifiers-under-250-a7084416641/
   - title: 'Wired: Best dehumidifiers'
-    url: https://www.wired.com/gallery/best-dehumidifier/
+    url: 'https://www.wired.com/gallery/best-dehumidifier/'
   - title: 'HouseFresh: The best dehumidifiers'
-    url: https://housefresh.com/best-dehumidifiers-we-tested/
+    url: 'https://housefresh.com/best-dehumidifiers-we-tested/'
   - title: Midea 35 pt. Cube Dehumidifier (MAD35S1QWT)
     url: >-
       https://www.midea.com/us/air-conditioners/dehumidifiers/35-pint-cube-dehumidifier-mad35s1qwt
   - title: Eva-Dry EDV-1100 Petite Dehumidifier
-    url: https://eva-dry.com/products/edv-1100-petite-dehumidifier
+    url: 'https://eva-dry.com/products/edv-1100-petite-dehumidifier'
   - title: Eva-Dry E-333 Renewable Mini Dehumidifier
-    url: https://eva-dry.com/products/renewable-mini-dehumidifier-e-333
+    url: 'https://eva-dry.com/products/renewable-mini-dehumidifier-e-333'
 reviewedDate: '2026-10-18T00:00:00.000Z'
 faqs:
   - q: Welke maat luchtontvochtiger heb ik nodig voor een klein appartement?
     a: >-
       Begin voor een studio of een appartement met één slaapkamer met een
-      compressor-luchtontvochtiger van 9,5 l (20 pints) per dag. Ga naar 17 of 24
-      l (35 of 50 pints) als de woning op de begane grond of onder straatniveau
-      ligt of de hele zomer benauwd blijft. Thermo-elektrische mini's zijn
-      alleen voor kasten en kleine badkamers.
+      compressor-luchtontvochtiger van 9,5 l (20 pints) per dag. Ga naar 17 of
+      24 l (35 of 50 pints) als de woning op de begane grond of onder
+      straatniveau ligt of de hele zomer benauwd blijft. Thermo-elektrische
+      mini's zijn alleen voor kasten en kleine badkamers.
   - q: Werkt een mini-luchtontvochtiger in een hele kamer?
     a: >-
       Eigenlijk niet. Thermo-elektrische (Peltier-)mini's halen maar een paar

@@ -3,9 +3,11 @@
   "lang": "de",
   "translationOf": "best-cat-tree-for-small-apartment",
   "pass": true,
-  "checkedAt": "2026-10-18T13:20:43.796Z",
+  "checkedAt": "2026-10-18T13:37:10.483Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "source didn't respond normally (403): https://www.nytimes.com/wirecutter/reviews/best-cat-trees/"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Compared section by section with English best-cat-tree-for-small-apartment: 3 products, ASINs (B00VBBPKEI, B07X1TKTN2, B00SOTG05S), all specs/owner counts/claims, FAQ answers match. Recomputed every metric conversion (cm, kg, m2, 244cm ceilings, 30cm perch, 152cm) and values match imperial. Internal links exist. No prices, testing claims or local-store claims; 'not in our homes' sentence present. Compared against English post only; sources not re-opened.",
