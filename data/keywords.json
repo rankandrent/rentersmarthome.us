@@ -3407,15 +3407,16 @@
     "attempts": 0,
     "addedAt": "2026-10-14T15:34:32.962Z",
     "secondaryKeywords": [
-      "best stud finder with deep scan",
-      "stud finder for plaster walls"
+      "stud finder for plaster walls",
+      "best stud finder for thick walls",
+      "best stud finder with deep scan"
     ],
     "questions": [
       "Which stud finder works through thick walls?",
       "What is deep scan mode?"
     ],
     "priority": 59,
-    "keyword": "best stud finder for thick walls",
+    "keyword": "best stud finder for plaster walls",
     "category": "storage-decor",
     "articleType": "roundup",
     "intent": "commercial",
@@ -3432,7 +3433,10 @@
     "productCount": 6,
     "publishedAt": "2026-10-15T19:14:18.888Z",
     "ahrefs": {
-      "volume": 20,
+      "volume": 350,
+      "kd": 5,
+      "trafficPotential": 200,
+      "parentTopic": "best stud finder for plaster walls",
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     }
@@ -3509,15 +3513,17 @@
     "attempts": 0,
     "addedAt": "2026-10-14T15:34:32.962Z",
     "secondaryKeywords": [
-      "wireless security camera for apartment",
-      "best security camera for apartment"
+      "best security camera for apartment",
+      "apartment security camera",
+      "best wireless security cameras for apartments",
+      "wireless security camera for apartment"
     ],
     "questions": [
       "Can I put security cameras in my apartment?",
       "Do wireless cameras need a subscription?"
     ],
     "priority": 56,
-    "keyword": "best wireless security cameras for apartments",
+    "keyword": "security cameras for apartments",
     "category": "security",
     "articleType": "roundup",
     "intent": "commercial",
@@ -3532,7 +3538,10 @@
     "slug": "best-wireless-security-cameras-for-apartments",
     "publishedAt": "2026-10-15T19:35:51.948Z",
     "ahrefs": {
-      "volume": 0,
+      "volume": 300,
+      "kd": 2,
+      "trafficPotential": 1400,
+      "parentTopic": "security cameras for apartments",
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     }

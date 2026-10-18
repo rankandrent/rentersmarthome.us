@@ -1,14 +1,15 @@
 ---
 title: '5 Best Smart Light Bulbs for Renters (No Wiring, 2026)'
-seoTitle: 'Best Smart Light Bulbs for Renters: 5 Picks (2026)'
+seoTitle: 'Best Smart Bulbs for Renters (2026): 5 No-Wiring Picks'
 description: >-
-  The best smart light bulbs for renters screw into lamps you already have and
-  swap back on move-out. Compare 5 picks by hub, Matter, Wi-Fi and voice
-  support.
+  The best smart bulbs for renters screw into lamps you already have and swap
+  back on move-out. Compare 5 picks by hub, Matter, Wi-Fi and voice support.
 pubDate: '2026-10-17T14:16:00.000Z'
+updatedDate: '2026-10-18T09:29:00.000Z'
 category: lighting
 keyword: best smart light bulbs for renters
 secondaryKeywords:
+  - best smart bulbs
   - best smart bulbs for renters
   - smart bulbs for apartments
   - best smart bulbs no hub
