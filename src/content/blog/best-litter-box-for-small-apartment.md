@@ -1,6 +1,6 @@
 ---
-title: 'Best Litter Box for Small Apartment Living (2026) – 7 Picks'
-seoTitle: 'Best Litter Box for Small Apartment (2026) – 7 Space Savers'
+title: 'Best Litter Box for Small Apartment – 7 Deposit-Safe Picks for 2026'
+seoTitle: 'Best Litter Box for Small Apartment – 7 Deposit-Safe Picks'
 description: >-
   The best litter box for a small apartment is compact, high-sided and easy to
   hide. Compare 7 picks by footprint, mess control and odor, plus renter tips.

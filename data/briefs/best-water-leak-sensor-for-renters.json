@@ -321,5 +321,18 @@
     "usesFaq": true,
     "usesBuyingGuide": true,
     "note": "WebFetch blocked and Ahrefs unavailable; structure inferred from WebSearch result snippets only (not full page reads). avgWords/avgProducts are estimates. Several results were low-quality or scraped pages."
-  }
+  },
+  "serpTitles": [
+    {"position":1,"url":"https://www.cnet.com/home/security/the-best-leak-detectors-stop-water-damage-in-its-tracks/","title":"The Best Leak Detectors of 2026: Catch Your Frozen Pipes Before ..."},
+    {"position":2,"url":"https://www.consumerreports.org/home-garden/water-leak-detectors/best-smart-water-leak-detectors-a6274166619/","title":"Best Smart Water Leak Detectors - Consumer Reports"},
+    {"position":3,"url":"https://www.reddit.com/r/Plumbing/comments/1dxbkr0/water_leak_detectors_for_rental_property/","title":"Water leak detectors for rental property. : r/Plumbing - Reddit"},
+    {"position":4,"url":"https://www.nytimes.com/wirecutter/reviews/the-best-smart-leak-detector/","title":"The 3 Best Smart Water-Leak Detectors | Reviews by Wirecutter"},
+    {"position":5,"url":"https://www.frizzlife.com/blogs/guide/water-leak-detector-for-apartments-smart-water-leak-protection?srsltid=AU7gw4XvBtRC551SehiZ5ciswlmbpdgoVuiqDQxMLGlM9daAIsqYht0q","title":"Water Leak Detector for Apartments: Smart Water Leak Protection - Frizzlife"},
+    {"position":6,"url":"https://www.homedepot.com/b/Plumbing-Valves-Water-Leak-Detectors/N-5yc1vZckvo","title":"Water Leak Detectors - The Home Depot"},
+    {"position":7,"url":"https://www.pcmag.com/picks/the-best-smart-water-leak-detectors","title":"The Best Smart Water Leak Detectors We've Tested for 2026 | PCMag"},
+    {"position":8,"url":"https://support.suretyhome.com/t/best-water-leak-detector-to-prevent-costly-damage-in-your-house/43514","title":"Best Water Leak Detector to Prevent Costly Damage in Your House"},
+    {"position":9,"url":"https://www.amazon.com/Geevon-Water-Detectors-Sensor-Alarms/dp/B09S6LFGQB","title":"Geevon 4 Pack Water Leak Detectors,100dB Sensor Alarms for ..."},
+    {"position":10,"url":"https://www.travelers.com/resources/home/smart-home/4-smart-home-leak-detection-devices-to-help-avoid-water-damage","title":"4 Smart Home Leak Detection Devices to Help Avoid Water Damage"}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":2,"withNumber":2,"commonModifiers":["smart water leak detectors","for rental property / apartments","2026"],"gap":"No-drill placement in a rental plus how leaks interact with your lease and renters insurance"}
 }

@@ -1,0 +1,15 @@
+{
+  "serpTitles": [
+    {"position":1,"url":"https://www.reddit.com/r/homeautomation/comments/1rm2gag/best_renter_friendly_smart_lock/","title":"Best renter friendly smart lock? : r/homeautomation - Reddit"},
+    {"position":2,"url":"https://august.com/pages/renters?srsltid=AU7gw4WbdhcP_4W_jy6JWcNeH3TKnJcwGKAw07NW-5PkPG8pD4LOVJTc","title":"Smart Locks for Apartment Renters | August"},
+    {"position":3,"url":"https://www.cnet.com/home/security/best-smart-locks/","title":"Best Smart Locks of 2026: Your Door Deserves This - CNET"},
+    {"position":4,"url":"https://www.safehome.org/smart-locks/best/","title":"The Best Smart Locks of 2026 - SafeHome.org"},
+    {"position":5,"url":"https://www.youtube.com/watch?v=9sp68pS104Y","title":"Best Smart Locks For Airbnb & Rental Properties 2026 - YouTube"},
+    {"position":6,"url":"https://www.landlordstudio.com/blog/whats-the-best-lock-for-a-rental-property","title":"Best Locks for a Rental Property, Keyed, Keypad and Smart"},
+    {"position":7,"url":"https://www.amazon.com/smart-lock-apartment-door/s?k=smart+lock+for+apartment+door","title":"Smart Lock For Apartment Door - Amazon.com"},
+    {"position":8,"url":"https://www.pcmag.com/picks/the-best-smart-locks","title":"The Best Smart Locks We've Tested for 2026 - PCMag"},
+    {"position":9,"url":"https://www.bestbuy.com/site/shop/smart-locks-for-apartments","title":"Smart Locks For Apartments - Best Buy"},
+    {"position":10,"url":"https://www.nytimes.com/wirecutter/reviews/the-best-smart-lock/","title":"The 6 Best Smart Locks of 2026 | Reviews by Wirecutter"}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":5,"withNumber":1,"commonModifiers":["2026","smart locks for apartments / rental properties","keyless / keypad"],"gap":"Reversible retrofit picks plus a check of whether a smart lock fits your existing deadbolt before you ask the landlord"}
+}

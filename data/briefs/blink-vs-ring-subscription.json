@@ -202,5 +202,18 @@
       "h3": []
     }
   ],
-  "targetWords": 1200
+  "targetWords": 1200,
+  "serpTitles": [
+    {"position":1,"url":"https://www.security.org/security-cameras/blink-vs-ring/","title":"Blink vs Ring – Which Brand Offers Better Security Cameras?"},
+    {"position":2,"url":"https://www.reddit.com/r/Ring/comments/11mxur1/ring_or_blink/","title":"Ring or Blink : r/Ring - Reddit"},
+    {"position":3,"url":"https://www.safehome.org/compare/ring-vs-blink/","title":"Ring vs Blink Security Camera Systems | SafeHome.org"},
+    {"position":4,"url":"https://moderncastle.com/home-security/blink-vs-ring/","title":"Blink vs. Ring: Security Camera Comparisons - Modern Castle"},
+    {"position":5,"url":"https://www.youtube.com/watch?v=b9egRKtRxKo","title":"Ring vs Nest vs Blink in 2026: The Subscription Math Nobody Talks ..."},
+    {"position":6,"url":"https://www.facebook.com/groups/surpriseaz1/posts/3196644253855421/","title":"What's better ring or Blink? - Facebook"},
+    {"position":7,"url":"https://www.zdnet.com/home-and-office/smart-home/ring-vs-blink/","title":"I compared Ring and Blink security setups at home - this Amazon brand ..."},
+    {"position":8,"url":"https://www.pcmag.com/comparisons/blink-vs-ring-which-home-security-system-is-better","title":"Blink vs. Ring: Which Home Security System Is Better? - PCMag"},
+    {"position":9,"url":"https://www.trustedreviews.com/versus/blink-vs-ring-4588237","title":"Blink vs Ring: The home security systems explained - Trusted Reviews"},
+    {"position":10,"url":"https://www.youtube.com/watch?v=G6JA22RN-OQ","title":"Why I Regret Replacing Our Blink Video Doorbell with the ... - YouTube"}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":1,"withNumber":0,"commonModifiers":["Blink vs Ring","Which ... is better","security camera(s)"],"gap":"Which subscription costs a renter less over a lease, including Blink's local storage option"}
 }

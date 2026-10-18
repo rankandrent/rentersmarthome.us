@@ -1,0 +1,15 @@
+{
+  "serpTitles": [
+    {"position":1,"url":"https://us.store.tapo.com/products/tp-link-tapo-matter-compatible-smart-plug-mini-15a-1800w-tapo-p125m?srsltid=AU7gw4V1MkjKUz14RwQ-exGB_odmNdSOnK8ENN_zmOzO_p6q0dRn4Myz","title":"Matter-Certified Smart Plug Mini 15A, Tapo P125M (3-Pack)"},
+    {"position":2,"url":"https://www.amazon.com/junlit-TY-Smart-Plug/dp/B0D6K3N8KW","title":"Matter Smart Plug 15A, Apple, Alexa & Google, Siri, Homekit, 2.4Ghz, 2 PK"},
+    {"position":3,"url":"https://www.reddit.com/r/HomeKit/comments/1al67xv/can_anyone_recommend_a_specific_model_of_matter/","title":"Can anyone recommend a specific model of Matter over WiFi smart plug?"},
+    {"position":4,"url":"https://linkind.com/products/linkind-wifi-matter-smart-plug?srsltid=AU7gw4WPRo-hxmr0n5qJR3gwOM47OGWWCEW6FuxCqH2913UD6LOesvJC","title":"Linkind Matter Smart Plug | Works with Apple Home & Alexa"},
+    {"position":5,"url":"https://matterdevices.io/device-type/plug/","title":"Matter Smart Plugs - MatterDevices.io"},
+    {"position":6,"url":"https://www.youtube.com/watch?v=UZmcaAxAqoo","title":"Watch this before you buy a smart plug (Matter)! - YouTube"},
+    {"position":7,"url":"https://www.engadget.com/home/smart-home/best-smart-plug-131542429.html","title":"The best smart plugs in 2026 - Engadget"},
+    {"position":8,"url":"https://www.apple.com/shop/product/hqeq2zm/a/eve-energy-matter-smart-plug-power-meter-2-pack","title":"Eve Energy (Matter) - Smart Plug & Power Meter - 2-pack - Apple"},
+    {"position":9,"url":"https://www.matteralpha.com/explainer/5-best-matter-compatible-plugs","title":"The 5 Best Matter-Compatible Plugs"},
+    {"position":10,"url":"https://www.homedepot.com/p/eve-Energy-Matter-Smart-Plug-Matter-Thread-Enabled-works-w-Apple-Home-SmartThings-Alexa-Google-Home-2-Pack-White-10037873/326969063","title":"eve Energy (Matter) - Smart Plug, Matter & Thread Enabled, works w ..."}
+  ],
+  "titlePattern": {"keywordAtStart":2,"withYear":1,"withNumber":1,"commonModifiers":["works with Apple Home, Alexa & Google","Matter-certified","Wi-Fi / Thread","15A"],"gap":"Using Matter smart plugs safely in a rental apartment (outlet and load rules) and taking them to the next place"}
+}

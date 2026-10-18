@@ -37,5 +37,18 @@
     {"h2": "Moving apartments with Alexa or Google Home", "intent": "information gain", "h3": []},
     {"h2": "Our recommendation", "intent": "verdict", "h3": []}
   ],
-  "targetWords": 1500
+  "targetWords": 1500,
+  "serpTitles": [
+    {"position":1,"url":"https://www.reddit.com/r/googlehome/comments/1gopb0d/google_home_or_alexa/","title":"Google Home or Alexa? : r/googlehome - Reddit"},
+    {"position":2,"url":"https://www.facebook.com/groups/AmazonAlexaUsersGroup/posts/2421321738302829/","title":"Which is better: Alexa or Google? Pros and cons - Facebook"},
+    {"position":3,"url":"https://www.cnet.com/home/smart-home/ten-years-of-testing-google-nest-amazon-echo-smart-speakers-what-i-like-best/","title":"After Nearly a Decade of Testing Google Nest and Amazon Echo ..."},
+    {"position":4,"url":"https://www.wired.com/story/best-smart-speakers/","title":"5 Best Smart Speakers (2026): Alexa, Google, Apple | WIRED"},
+    {"position":5,"url":"https://www.safewise.com/smart-home/google-home-vs-alexa/","title":"Google Home vs. Alexa: Which Assistant is Best? - SafeWise"},
+    {"position":6,"url":"https://www.youtube.com/watch?v=U5wVisnPeOg&vl=en","title":"The State of Smart Assistants in 2025: Alexa vs Google vs Siri - YouTube"},
+    {"position":7,"url":"https://www.quora.com/Which-one-s-better-Google-Home-or-Alexa","title":"Which one's better, Google Home or Alexa? - Quora"},
+    {"position":8,"url":"https://www.facebook.com/groups/lapeernews/posts/2413032569192473/","title":"Alexa vs Google Home: Which smart speaker is better for your home?"},
+    {"position":9,"url":"https://everydayhomecomfort.com/alexa-vs-google-home/","title":"Alexa vs Google Home: Avoid the Wrong Pick in 2026 | EHC"},
+    {"position":10,"url":"https://lifehacker.com/tech/how-to-choose-between-alexa-and-google-home","title":"How to Choose Between Alexa and Google Home | Lifehacker"}
+  ],
+  "titlePattern": {"keywordAtStart":2,"withYear":3,"withNumber":1,"commonModifiers":["Which ... is better","Google Home vs. Alexa","smart speaker","2026"],"gap":"Which ecosystem is better for renters, including moving apartments with Alexa or Google Home and what's free without a subscription"}
 }

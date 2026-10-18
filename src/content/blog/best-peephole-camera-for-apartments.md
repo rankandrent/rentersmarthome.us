@@ -1,6 +1,6 @@
 ---
-title: 'Best Peephole Cameras for Apartments – No-Drill Door Security'
-seoTitle: 'Best Peephole Camera for Apartments (2026) – 4 Picks'
+title: 'Peephole Camera for Apartments 2026 – 4 No-Drill Picks, Privacy Rules'
+seoTitle: 'Peephole Camera for Apartments (2026) – 4 No-Drill Picks'
 description: >-
   A peephole camera turns your apartment door viewer into a video doorbell. Here
   are the best renter-safe peephole cameras and no-drill alternatives.

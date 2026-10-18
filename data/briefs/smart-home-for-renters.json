@@ -1,0 +1,15 @@
+{
+  "serpTitles": [
+    {"position":1,"url":"https://www.reddit.com/r/homeautomation/comments/sw1mf1/recommendations_for_smart_devices_when_renting/","title":"Recommendations for smart devices when renting new house... - Reddit"},
+    {"position":2,"url":"https://www.pcmag.com/picks/the-best-smart-home-products-for-renters","title":"The Best Smart Home Products for Renters in 2026 | PCMag"},
+    {"position":3,"url":"https://smartrent.com/","title":"SmartRent | Smart Home Solutions for Multifamily Communities"},
+    {"position":4,"url":"https://www.cnet.com/home/smart-home/top-smart-home-tech-for-renters/","title":"The Best Smart Home Devices for Renters: Portable and Powerful"},
+    {"position":5,"url":"https://www.realtor.com/advice/real-estate-summary-advice/making-your-rental-a-smart-home-5-key-ideas/","title":"Making Your Rental a Smart Home: 5 Key Ideas - Realtor.com"},
+    {"position":6,"url":"https://store.google.com/us/magazine/smart-home-for-renters?hl=en-US&srsltid=AU7gw4WJ3opfM7ccE7gELthR_UJ-LGHADOBHJ_7aVFM7N3pveZTan9LV","title":"Smart Home Automation for Renters - Google Store"},
+    {"position":7,"url":"https://jaspercurry.medium.com/how-i-turned-my-rental-apartment-into-the-ultimate-smart-home-9855af8bad7b","title":"How I turned my rental apartment into the ultimate smart home - Medium"},
+    {"position":8,"url":"https://www.facebook.com/groups/HomeAssistant/posts/3955172634754077/","title":"Renter-friendly smart devices and automations - Facebook"},
+    {"position":9,"url":"https://www.rentalready.com/blog/smart-home-property-management/","title":"Smart home property management: Technology - RentalReady"},
+    {"position":10,"url":"https://www.pcworld.com/article/2109185/best-smart-home-devices-for-apartment-dwellers.html","title":"Renters, rejoice! 8 easy smart home upgrades that won't leave a trace"}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":1,"withNumber":2,"commonModifiers":["best smart home devices / products for renters","renter-friendly","N ideas / upgrades"],"gap":"A step-by-step build order with a move-out checklist instead of a product list"}
+}

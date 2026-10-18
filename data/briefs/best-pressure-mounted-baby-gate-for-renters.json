@@ -24,5 +24,18 @@
     {"h2": "Never at the top of stairs", "intent": "safety", "h3": []},
     {"h2": "Protecting walls", "intent": "renter", "h3": []}
   ],
-  "targetWords": 1100
+  "targetWords": 1100,
+  "serpTitles": [
+    {"position":1,"url":"https://www.reddit.com/r/BabyBumps/comments/126x8b9/any_recommendations_for_baby_gates_for_stairs_in/","title":"Any recommendations for baby gates for stairs in a rental house? - Reddit"},
+    {"position":2,"url":"https://www.amazon.com/no-drill-baby-gate/s?k=no+drill+baby+gate","title":"No Drill Baby Gate - Amazon.com"},
+    {"position":3,"url":"https://www.consumerreports.org/babies-kids/safety-gates/buying-guide/","title":"Baby Safety Gate Guide: Types, Safety, Expert Tips - Consumer Reports"},
+    {"position":4,"url":"https://www.facebook.com/groups/119236565416688/posts/1946525492687777/","title":"What are renter-friendly toddler gates for top of stairs? - Facebook"},
+    {"position":5,"url":"https://www.nytimes.com/wirecutter/reviews/best-baby-gate/","title":"The Best Baby Gate | Reviews by Wirecutter - The New York Times"},
+    {"position":6,"url":"https://permachildsafety.com/?srsltid=AU7gw4XeMr220xYKeYNB1_R6lhg93iYlIwLD3Ur6xNn2MVGVmMXUTwZ4","title":"Perma Child Safety: Rental-Friendly Baby Gates, Playpens & Protectors ..."},
+    {"position":7,"url":"https://www.babygearlab.com/topics/nursery-furniture/best-baby-gate","title":"The Best Baby Gates | Tested & Ranked - BabyGearLab"},
+    {"position":8,"url":"https://www.stumpscustomwood.com/keeping-up/best-baby-gate-for-renters-no-damage-no-hassle","title":"Best Baby Gate for Renters (No Damage, No Hassle)"},
+    {"position":9,"url":"https://babeliobaby.com/pages/best-stair-safety-gates","title":"Best Safety Gates for Stairs | No-Trip & Banister Compatible - babeliobaby"},
+    {"position":10,"url":"https://www.consumerreports.org/babies-kids/safety-gates/best-baby-safety-gates-from-consumer-reports-tests-a3593548805/","title":"Best Baby Gates of 2026, Lab Tested and Reviewed - Consumer Reports"}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":1,"withNumber":0,"commonModifiers":["rental / renter-friendly","no drill","for stairs","no damage"],"gap":"Protecting walls and door frames (wall cups) so the deposit survives, plus why a pressure gate never goes at the top of stairs"}
 }

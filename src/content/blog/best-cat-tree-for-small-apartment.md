@@ -1,6 +1,6 @@
 ---
-title: 'Best Cat Tree for Small Apartment Living (2026, 3 Picks)'
-seoTitle: 'Best Cat Tree for Small Apartment (2026) – 3 Compact Picks'
+title: 'Best Cat Tree for Small Apartment Living – 3 Freestanding Picks (2026)'
+seoTitle: 'Best Cat Tree for Small Apartment – 3 Freestanding Picks'
 description: >-
   The best cat tree for a small apartment has a base under 3.5 square feet and
   stands without drilling. Compare 3 compact picks, footprints and renter tips.

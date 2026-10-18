@@ -1,6 +1,6 @@
 ---
-title: How to Baby Proof a Rental Without Damage (2026 Renter Guide)
-seoTitle: How to Baby Proof a Rental Without Damage (2026)
+title: How to Baby Proof a Rental Without Damage, Room by Room (2026)
+seoTitle: How to Baby Proof a Rental Without Damage – 2026 Room Guide
 description: >-
   How to baby proof a rental without damage: a room-by-room plan, what needs
   landlord permission, a ready-to-send email, move-out tips and 6 renter-safe

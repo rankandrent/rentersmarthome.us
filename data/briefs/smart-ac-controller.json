@@ -25,5 +25,18 @@
     {"h2": "The best smart AC controllers for renters", "intent": "products", "h3": ["Cielo Breez Max", "Sensibo Air Pro", "Cielo Breez Lite"]},
     {"h2": "Setting it up in an apartment", "intent": "setup", "h3": []}
   ],
-  "targetWords": 1100
+  "targetWords": 1100,
+  "serpTitles": [
+    {"position":1,"url":"https://www.amazon.com/smart-air-conditioner-controller/s?k=smart+air+conditioner+controller","title":"Smart Air Conditioner Controller - Amazon.com"},
+    {"position":2,"url":"https://www.consumerreports.org/appliances/thermostats/best-smart-ac-controllers-of-the-year-a1349637034/","title":"4 Best Smart AC Controllers of 2026, Tested By Our Experts"},
+    {"position":3,"url":"https://www.reddit.com/r/homeautomation/comments/1nj1ofz/best_split_ac_smart_controller/","title":"Best split ac smart controller? : r/homeautomation - Reddit"},
+    {"position":4,"url":"https://www.daikinmea.com/en_us/knowledge-center/smart-ac-controllers-explained-how-wifi-thermostats-and-remote-controls-work.html","title":"Smart AC controllers explained: How wifi thermostats and remote controls ..."},
+    {"position":5,"url":"https://www.youtube.com/watch?v=9g7DOJVnIbU","title":"A WORLD FIRST! The Wire-Free Taruie Smart AC Controller, with ..."},
+    {"position":6,"url":"https://www.reddit.com/r/HomeKit/comments/1mq3iyk/the_worlds_first_truly_wirefree_ac_controller_w/","title":"The World's First Truly Wire-Free AC Controller w/ Matter Over Thread"},
+    {"position":7,"url":"https://sensibo.com/products/sensibo-air?srsltid=AU7gw4VzDCn5pTZ7aR9CXz-QJpWFkMBc5ec0OwhgireE-JP2VMCsFGoq","title":"Smart AC Controller for Any Air Conditioner - Sensibo"},
+    {"position":8,"url":"https://www.instructables.com/DIY-Smart-AC-Controller-Use-ESPHome-Infrared-to-Re/","title":"DIY Smart AC Controller: Use ESPHome & Infrared to Replace a ..."},
+    {"position":9,"url":"https://airconditionerlab.com/the-best-smart-ac-controllers-for-window-and-mini-split-units-2026-review/","title":"The Best Smart AC Controllers for Window and Mini-Split Units (2026 ..."},
+    {"position":10,"url":"https://cielowigle.com/smart-mini-split-thermostats/","title":"Smart Thermostats for Mini-Split, Window & Portable ACs - CieloWiGle"}
+  ],
+  "titlePattern": {"keywordAtStart":2,"withYear":2,"withNumber":1,"commonModifiers":["window / mini-split / portable","for any air conditioner","best smart AC controllers","2026"],"gap":"Renter rules for landlord-owned mini-splits and shared units, with no rewiring"}
 }

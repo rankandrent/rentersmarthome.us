@@ -1,5 +1,5 @@
 ---
-title: Can I Install a Smart Thermostat in My Apartment?
+title: Can I Install a Smart Thermostat in My Apartment? The C-Wire Check
 seoTitle: Can I Install a Smart Thermostat in My Apartment? (2026)
 description: >-
   Can you install a smart thermostat in your apartment? Often yes, with landlord

@@ -24,5 +24,18 @@
     {"h2": "How to choose", "intent": "criteria", "h3": []},
     {"h2": "Thin walls and neighbors", "intent": "apartment concerns", "h3": []}
   ],
-  "targetWords": 1100
+  "targetWords": 1100,
+  "serpTitles": [
+    {"position":1,"url":"https://www.nytimes.com/wirecutter/reviews/best-smart-speakers/","title":"The 6 Best Smart Speakers for Your Home in 2026 | Reviews by Wirecutter"},
+    {"position":2,"url":"https://www.cnet.com/home/smart-home/best-smart-speaker/","title":"Best Smart Speakers for 2026: Big Sound and So Much More - CNET"},
+    {"position":3,"url":"https://www.reddit.com/r/smarthome/comments/1ahbcrl/what_is_the_current_best_smart_speaker/","title":"What is the current best smart speaker? : r/smarthome - Reddit"},
+    {"position":4,"url":"https://www.rtings.com/speaker/reviews/best/smart","title":"The 5 Best Smart Speakers of 2026 - RTINGS.com"},
+    {"position":5,"url":"https://www.bestbuy.com/site/home-security-safety/smart-speakers-displays/pcmcat1477674238305.c?id=pcmcat1477674238305","title":"Smart Speakers & Displays: Voice Assistants - Best Buy"},
+    {"position":6,"url":"https://www.whathifi.com/best-buys/best-smart-speakers-the-best-voice-assistant-speakers","title":"Best smart speakers 2026: top voice-assistant ... - What Hi-Fi?"},
+    {"position":7,"url":"https://www.wired.com/story/best-smart-speakers/","title":"5 Best Smart Speakers (2026): Alexa, Google, Apple | WIRED"},
+    {"position":8,"url":"https://www.youtube.com/watch?v=6VUCbPGMCv4","title":"Best smart speakers 2026: top voice-assistant speakers - YouTube"},
+    {"position":9,"url":"https://smartzenhome.com/best-smart-speakers-for-small-apartments/","title":"Best Smart Speakers for Small Apartments (2026 USA Guide)"},
+    {"position":10,"url":"https://www.speakerranking.com/powered/voice-assistant-speakers/","title":"Every Speaker With a Built-In Voice Assistant"}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":7,"withNumber":3,"commonModifiers":["Best Smart Speakers ... 2026","voice-assistant speakers","for small apartments","N Best"],"gap":"Thin walls and neighbors: picks that suit a small apartment's noise limits, plus roommate privacy"}
 }

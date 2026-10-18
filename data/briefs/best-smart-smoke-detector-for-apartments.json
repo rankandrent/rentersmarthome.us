@@ -52,5 +52,18 @@
 "commonSections":["quick picks / summary","product reviews","how we chose","buying guide (battery vs hardwired, CO, connectivity)","landlord and lease rules","installation and placement","FAQ"],
 "usesComparisonTable":true,
 "usesFaq":true,
-"usesBuyingGuide":true}
+"usesBuyingGuide":true},
+  "serpTitles": [
+    {"position":1,"url":"https://www.wired.com/story/should-smoke-alarms-be-smart/","title":"Best Smart Smoke Detector (and Why You Still Need a Dumb One) - WIRED"},
+    {"position":2,"url":"https://www.consumerreports.org/home-garden/smoke-carbon-monoxide-detectors/best-smoke-and-carbon-monoxide-detectors-of-the-year-a9237799621/","title":"Best Smoke and Carbon Monoxide Detectors of 2026"},
+    {"position":3,"url":"https://www.reddit.com/r/smarthome/comments/1lqyv75/what_are_the_best_hardwired_smart_smoke_and_co/","title":"What are the best hardwired smart smoke and CO detectors out there ..."},
+    {"position":4,"url":"https://www.nytimes.com/wirecutter/reviews/best-smart-smoke-alarm/","title":"The 3 Best Smart Smoke Alarms of 2026 | Reviews by Wirecutter"},
+    {"position":5,"url":"https://www.matteralpha.com/explainer/best-matter-smoke-carbon-monoxide-detectors","title":"The fire alarm that talks to your smart home: Best Matter smoke detectors"},
+    {"position":6,"url":"https://www.firstalert.com/collections/smart-smoke-carbon-monoxide-alarms","title":"Smart Smoke & Carbon Monoxide Alarms | Smart Fire Detection"},
+    {"position":7,"url":"https://www.youtube.com/watch?v=OTqR_QiHWDU","title":"Top 10 Best Smart Smoke Detectors in 2026 | WiFi Fire & CO Alarms ..."},
+    {"position":8,"url":"https://www.cnet.com/home/security/best-smoke-detector/","title":"Best Smoke Detectors and Dual Alarms for 2026: Lab Tested - CNET"},
+    {"position":9,"url":"https://www.homedepot.com/b/Smart-Home-Smart-Devices-Smart-Home-Security-Smart-Smoke-Detectors/N-5yc1vZc7ca","title":"Smart Smoke Detectors - The Home Depot"},
+    {"position":10,"url":"https://www.pcworld.com/article/3014777/place-any-space-smart-smoke-and-carbon-monoxide-detector-review.html","title":"Place Any Space Smart Smoke and Carbon Monoxide Detector review"}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":4,"withNumber":2,"commonModifiers":["smoke and carbon monoxide","smart","2026","N Best"],"gap":"Battery, no-wire models a renter can add without touching the landlord's hardwired alarms, plus landlord-approval and move-out notes"}
 }

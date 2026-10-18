@@ -24,5 +24,18 @@
     {"h2": "Install without damaging paint", "intent": "how-to", "h3": []},
     {"h2": "Removal", "intent": "how-to", "h3": []}
   ],
-  "targetWords": 1000
+  "targetWords": 1000,
+  "serpTitles": [
+    {"position":1,"url":"https://www.reddit.com/r/led/comments/pl6zy2/ways_to_mount_led_lights_rented_accommodation/","title":"Ways to mount LED lights (rented accommodation) - Reddit"},
+    {"position":2,"url":"https://www.amazon.com/renter-friendly-led-lights/s?k=renter+friendly+led+lights","title":"Renter Friendly Led Lights - Amazon.com"},
+    {"position":3,"url":"https://www.youtube.com/watch?v=octigR4LmLo&vl=en","title":"EASY, NO TOOLS Required, Renter Friendly COVE LIGHTING! - YouTube"},
+    {"position":4,"url":"https://suntechlite.com/how-to-install-led-strip-lights-on-the-wall-damage-free-hacks-for-renters-homeowners/","title":"Damagefree LED Strip Wall Install Guide - SuntechLite"},
+    {"position":5,"url":"https://www.inspiredled.com/inspired-led-products/renters-guide-led-lighting/?srsltid=AU7gw4X4emOiT9LD4VSjFo41pA783M7GS9UFY4VduxJ4pFmwMWQAkLvv","title":"A Renter's Guide to LED Lighting - Inspired LED"},
+    {"position":6,"url":"https://therentaltech.com/led-strips-no-drill-hacks-renters/","title":"LED Strips Don't Buy Until You See These 5 Hacks in 2026"},
+    {"position":7,"url":"https://www.nytimes.com/wirecutter/reviews/best-smart-strip-lights/","title":"The 3 Best Smart Strip Lights of 2026 | Reviews by Wirecutter"},
+    {"position":8,"url":"https://e-conolight.com/blogs/news/rental-friendly-lighting-ideas?srsltid=AU7gw4Xc6BrxnA6R3yvqmkeyunKy9xJxlgEeqSXzmfDwYHNBAL2XHm5H","title":"Rental-Friendly Lighting Ideas: Easy Upgrades That Won't Risk Your ..."},
+    {"position":9,"url":"https://www.facebook.com/groups/homedesign/posts/2121557275233781/","title":"What are renter-friendly lighting options for a living room? - Facebook"},
+    {"position":10,"url":"https://www.techgearlab.com/topics/home/best-led-strip-lights","title":"The Best LED Strip Lights | Tested & Ranked - TechGearLab"}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":2,"withNumber":2,"commonModifiers":["renter-friendly / rental-friendly","damage-free / no tools","guide","2026"],"gap":"Installing and removing LED strips at move-out without peeling the landlord's paint"}
 }

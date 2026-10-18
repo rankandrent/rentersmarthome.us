@@ -36,5 +36,18 @@
     {"h2": "Move-out day: removing no-drill blinds", "intent": "renter gap", "h3": []},
     {"h2": "Which no-drill motorized blinds should you buy?", "intent": "verdict", "h3": []}
   ],
-  "targetWords": 1300
+  "targetWords": 1300,
+  "serpTitles": [
+    {"position":1,"url":"https://www.graywind.com/products/no-drill-roller-shades?srsltid=AU7gw4WCsqxUgNrOq1_IvubQU6rwqSpOR4yxSSdwqC-YsMTN2hjBerEt","title":"Graywind Motorized No Drill Roller Shades"},
+    {"position":2,"url":"https://www.amazon.com/Motorized-Automatic-Windows-Cordless-Electric/dp/B0CX1RW6S3","title":"Motorized Blinds No Drill Automatic Roller Shades with Remote Control ..."},
+    {"position":3,"url":"https://www.ihomeblinds.com/collections/no-drill-collection?srsltid=AU7gw4WocHc_VN_jr9vMjFgjq7klMN5Y_pBmZ_oPa2zBi6BCrd-G64Fa","title":"NO-Drill Collection - iHomeBlinds"},
+    {"position":4,"url":"https://www.bringnox.com/products/bringnox-no-drill-motorized-roller-shades-100-blackout-cream?srsltid=AU7gw4XlhsHAhPe_TM-GF4gNFikRi1oMw3Lyvymbv9NJ5dqVOVpf7Lyg","title":"No Drill Motorized Roller Shades 100% Blackout Cream - Bringnox"},
+    {"position":5,"url":"https://www.selectblinds.com/collections/no-drill-blinds?srsltid=AU7gw4VgaruF9eH73VObrvzPmDW0Ay6ihHFjxk0S1ADXYRTPYHbek9ls","title":"No-Drill Blinds & Shades - Select Blinds"},
+    {"position":6,"url":"https://www.reddit.com/r/HomeKit/comments/1ux8xd5/nodrill_matter_over_thread_smart_blinds_video/","title":"NO-DRILL Matter over Thread Smart Blinds (video) : r/HomeKit - Reddit"},
+    {"position":7,"url":"https://allesin.com/products/allesin-no-drill-motorized-blackout-roller-shades?srsltid=AU7gw4WxW5Nj_K8Qvf5Bo3vjepKHBUEhNVIXBQ34FiGLu_g0-lyMUza_","title":"Allesin No-Drill Motorized Roller Shades | Blackout & Easy Install"},
+    {"position":8,"url":"https://www.youtube.com/watch?v=-3M2ED3diR0","title":"\"No Drill Blinds\" Keego Motorized Zebra Shades Full Review - YouTube"},
+    {"position":9,"url":"https://www.kincmo.com/collections/no-drill-blackout-roller-shades?srsltid=AU7gw4U1E7Yq7KnXPcykAamNGxBTw2lYVW1Xv3TPO9IU883yR73NDETH","title":"Kincmo No Drill Roller Shades, Motorized 100% Blackout"},
+    {"position":10,"url":"https://www.keegoblinds.com/collections/no-drill?srsltid=AU7gw4UPFJvXOwR_6EtVZeYHiz6k4vb_SkL4D0fWW2CrbeNJWRxLNqzo","title":"Keego No Drill Blinds & Shades | Easy Install"}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":0,"withNumber":0,"commonModifiers":["roller shades","blackout","easy install","no-drill collection"],"gap":"Renter guidance on retrofit vs replace and removing the blinds at move-out (most results are single-brand product pages)"}
 }

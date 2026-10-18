@@ -1,6 +1,6 @@
 ---
-title: 'Best Voice Assistant Speaker for Small Apartments – 4 Compact Picks'
-seoTitle: 'Best Voice Assistant Speaker for Small Apartments – 4 Picks'
+title: 'Best Voice Assistant Speaker for Small Apartments (2026) – 4 Picks'
+seoTitle: 'Best Voice Assistant Speaker for Small Apartments in 2026'
 description: >-
   The best voice assistant speaker for small apartments is compact, controls
   your smart home and won't shake shared walls. Our picks for Alexa, Google and

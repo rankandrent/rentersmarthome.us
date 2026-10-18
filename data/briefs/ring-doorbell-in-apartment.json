@@ -25,5 +25,18 @@
     {"h2": "Hallway privacy and neighbors", "intent": "privacy", "h3": []},
     {"h2": "Taking it with you when you move", "intent": "move-out", "h3": []}
   ],
-  "targetWords": 1100
+  "targetWords": 1100,
+  "serpTitles": [
+    {"position":1,"url":"https://www.reddit.com/r/Apartmentliving/comments/1e5nmem/whats_everyones_opinion_on_doorbell_ring_cameras/","title":"what's everyone's opinion on doorbell ring cameras in apartments - Reddit"},
+    {"position":2,"url":"https://www.facebook.com/groups/1054189874617862/posts/24012057085071149/","title":"Hi just wondering if anyone knows if you are legally allowed put a ring ..."},
+    {"position":3,"url":"https://www.nexlar.com/doorbell/ring-doorbell-for-apartments/","title":"Ring Doorbell For Apartments: Complete Guide (2025)"},
+    {"position":4,"url":"https://blog.ring.com/home-security/best-ring-devices-for-renters/","title":"Which Ring Devices Are Best for Renters?"},
+    {"position":5,"url":"https://gatewise.com/blog/ring-doorbell-for-apartments","title":"Should You Install a Ring Doorbell in Your Apartment? - Gatewise"},
+    {"position":6,"url":"https://www.quora.com/Can-I-legally-have-a-ring-doorbell-installed-outside-of-my-apartment-door-if-I-have-other-neighbors","title":"Can I legally have a ring doorbell installed outside of my apartment ..."},
+    {"position":7,"url":"https://www.youtube.com/watch?v=SxMgDnsToBs","title":"How to Install the Ring Video Doorbell at Apartments and Townhomes"},
+    {"position":8,"url":"https://smartrent.com/news/best-ring-doorbells-for-multifamily-apartment/","title":"The Best Ring Doorbells for Apartment Buildings & Units - SmartRent"},
+    {"position":9,"url":"https://www.justanswer.com/landlord-tenant/na93t-ring-camera-apartment-door.html","title":"Can I have a ring camera on my apartment door - JustAnswer"},
+    {"position":10,"url":"https://getsafeandsound.com/blog/ring-doorbell-for-apartments/","title":"Ring Doorbell for Apartments: Complete Guide (2025)"}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":2,"withNumber":0,"commonModifiers":["Ring Doorbell for Apartments","complete guide","legally allowed","apartment door"],"gap":"Three specific no-drill ways to mount a Ring on an apartment door"}
 }

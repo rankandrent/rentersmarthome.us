@@ -71,5 +71,18 @@
     "usesComparisonTable": true,
     "usesFaq": true,
     "usesBuyingGuide": true
-  }
+  },
+  "serpTitles": [
+    {"position":1,"url":"https://www.reddit.com/r/toddlers/comments/1r2t6ud/brands_for_magnetic_childproof_cabinet_locks/","title":"brands for magnetic childproof cabinet locks? : r/toddlers - Reddit"},
+    {"position":2,"url":"https://www.babygearlab.com/topics/nursery-furniture/best-cabinet-locks","title":"The Best Cabinet Locks | Tested & Ranked - BabyGearLab"},
+    {"position":3,"url":"https://www.amazon.com/Child-Safety-Magnetic-Cabinet-Locks/dp/B07C2QFVT9","title":"Vmaisi 20 Pack Magnetic Cabinet Locks Baby Proofing and 2 Keys"},
+    {"position":4,"url":"https://www.consumerreports.org/babyproofing/best-cabinet-locks-for-babyproofing-a5776582255/","title":"Best Babyproofing Cabinet Locks of 2026, Tested by Experts"},
+    {"position":5,"url":"https://www.alzstore.com/invisible-cabinet-lock-p/0114.htm?srsltid=AU7gw4Up6sLe7aN9AW6eTZsr5sDH6tbkA-SQDi6lPPBnVe8QiTQcrtVD","title":"Invisible Cabinet Lock - The Alzheimer's Store"},
+    {"position":6,"url":"https://www.youtube.com/watch?v=fBh6EhtdYl8","title":"Comparing magnetic child safety locks. Which one is best? - YouTube"},
+    {"position":7,"url":"https://babyproofme.com/blogs/the-parenting-journal/best-magnetic-cabinet-locks-2026-top-7-tested-and-ranked?srsltid=AU7gw4WZlnSLN3j9N8d7Rvh7gEdNmyOqQaDRTivlbrno1Dx0-NlpkOx9","title":"Best Magnetic Cabinet Locks 2026: Top 7 Tested and Ranked"},
+    {"position":8,"url":"https://www.tiktok.com/discover/best-cabinet-baby-locks-renter-friendly","title":"Best Cabinet Baby Locks Renter Friendly | TikTok"},
+    {"position":9,"url":"https://rev-a-shelf.com/rl-series","title":"Rev-A-Lock Cabinet Security - Rev-A-Shelf"},
+    {"position":10,"url":"https://justbestfor.com/for-groups/family-with-newborn/home-safety-basics/renter-friendly-cabinet-locks/","title":"Magnetic vs. Adhesive Cabinet Locks: Renter-Friendly Baby Proofing That ..."}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":2,"withNumber":1,"commonModifiers":["renter-friendly","baby proofing","tested and ranked","magnetic vs adhesive"],"gap":"No-drill adhesive install and how the locks come off on move-out, with lease and landlord-approval notes"}
 }

@@ -24,5 +24,18 @@
     {"h2": "Gear that helps", "intent": "products", "h3": []},
     {"h2": "Sleeping cool", "intent": "how-to", "h3": []}
   ],
-  "targetWords": 1100
+  "targetWords": 1100,
+  "serpTitles": [
+    {"position":1,"url":"https://www.reddit.com/r/astoria/comments/ummblr/prewar_living_101_how_to_keep_your_apartment_cool/","title":"Prewar living, 101: How to keep your apartment cool without AC : r/astoria"},
+    {"position":2,"url":"https://www.apartmenttherapy.com/how-to-cool-apartment-without-ac-37277295","title":"I Learned to Keep My Apartment Cool Without AC the Hard Way"},
+    {"position":3,"url":"https://www.thehappysleeper.com/blog/how-to-cool-a-room-with-no-ac","title":"How To Cool a Room With No Air Conditioning! - The Happy Sleeper"},
+    {"position":4,"url":"https://www.youtube.com/watch?v=N1nktKX9hBk","title":"Beat the Heat Without Using AC - YouTube"},
+    {"position":5,"url":"https://www.lemonade.com/renters/explained/how-to-keep-apartment-cool/","title":"13 Tips to Keep Your Apartment Cool in the Summer | Lemonade"},
+    {"position":6,"url":"https://www.facebook.com/groups/mnrentals/posts/34750533901261505/","title":"How to keep apartment cool without ac? - Facebook"},
+    {"position":7,"url":"https://www.efficiencyvermont.com/blog/how-to/summer-guide-to-energy-savings-comfort","title":"9 tips to keep your house cool without air conditioning | Efficiency Vermont"},
+    {"position":8,"url":"https://www.npr.org/2026/07/31/g-s1-136442/extreme-heat-air-conditioning-keeping-cool","title":"Keeping cool without AC: Our readers share their tips - NPR"},
+    {"position":9,"url":"https://www.youtube.com/watch?v=qoIwJRsK29c","title":"Your Fan is Lying. I'm Not. (How to Cool an Apartment With No AC)"},
+    {"position":10,"url":"https://beyond.ubc.ca/5-tips-for-staying-cool-at-home-without-air-conditioning/","title":"5 tips for staying cool at home without air conditioning - Beyond: UBC"}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":0,"withNumber":3,"commonModifiers":["keep (your) apartment cool","without AC / air conditioning","N tips"],"gap":"Renter-specific fixes for top-floor and small-window apartments, plus lease rules before adding an AC"}
 }

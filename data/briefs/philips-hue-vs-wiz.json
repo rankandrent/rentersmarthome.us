@@ -25,5 +25,18 @@
     {"h2": "Our picks", "intent": "products", "h3": []},
     {"h2": "Which is better for an apartment?", "intent": "decision", "h3": []}
   ],
-  "targetWords": 1100
+  "targetWords": 1100,
+  "serpTitles": [
+    {"position":1,"url":"https://www.reddit.com/r/wiz/comments/1p0o74l/wiz_or_hue/","title":"Wiz or Hue? : r/wiz - Reddit"},
+    {"position":2,"url":"https://www.nhcnow.com/blog/philips-hue-vs-other-color-changing-smart-bulbs-including-wiz-wyze-govee-more/","title":"Philips Hue vs. WiZ & Smart Bulb Alternatives - New Home Collective"},
+    {"position":3,"url":"https://www.the-ambient.com/reviews/philips-hue-vs-wiz/","title":"Philips Hue vs WiZ: which smart lighting is worth your money?"},
+    {"position":4,"url":"https://www.facebook.com/groups/HomeAssistant/posts/3932840693653938/","title":"What is the difference between Hue and Hue with WIZ smart bulbs?"},
+    {"position":5,"url":"https://forum.aqara.com/t/exploring-smart-lighting-options-philips-hue-vs-wiz/134024","title":"Exploring Smart Lighting Options: Philips Hue vs. Wiz - Aqara Forum"},
+    {"position":6,"url":"https://www.youtube.com/watch?v=1zlaj5K9-yM","title":"Philips Hue vs Philips Wiz Smart Light Bulbs - YouTube"},
+    {"position":7,"url":"https://www.t3.com/news/philips-hue-vs-wiz-which-smart-home-lighting-is-right-for-you","title":"Philips Hue vs WiZ: which smart home lighting is right for you? - T3"},
+    {"position":8,"url":"https://www.signify.com/global/our-company/blog/showcase/smart-home-lighting-with-hue-and-wiz","title":"Smart home lighting with Philips Hue and WiZ | Signify Company Website"},
+    {"position":9,"url":"https://www.galaxus.at/en/page/philips-hue-versus-wiz-which-is-the-better-smart-light-for-your-tv-38743","title":"Philips Hue versus Wiz: which is the better smart light for your TV?"},
+    {"position":10,"url":"https://www.youtube.com/watch?v=YqpCplxBMVM","title":"Philips Wiz vs Hue Lights Comparison ( Pros & Cons ) - YouTube"}
+  ],
+  "titlePattern": {"keywordAtStart":3,"withYear":0,"withNumber":0,"commonModifiers":["Philips Hue vs WiZ","which ... is right for you / worth your money","smart lighting"],"gap":"Which works better with rented fixtures and wall switches, hub vs no hub for renters"}
 }

@@ -65,5 +65,18 @@
     "usesComparisonTable": true,
     "usesFaq": true,
     "usesBuyingGuide": true
-  }
+  },
+  "serpTitles": [
+    {"position":1,"url":"https://www.reddit.com/r/Tools/comments/199fzl8/best_studfinder_for_lathe_and_plaster_walls/","title":"Best Studfinder for lathe and plaster walls? : r/Tools - Reddit"},
+    {"position":2,"url":"https://uk.zircon.com/project/secret-finding-wood-studs-lath-plaster-walls/","title":"The Secret to Finding Wood Studs in Lath and Plaster Walls - Zircon"},
+    {"position":3,"url":"https://www.facebook.com/groups/1706748102970911/posts/4249613785350984/","title":"What are the best stud finders for lath and plaster walls? - Facebook"},
+    {"position":4,"url":"https://www.outdoorlife.com/gear/best-stud-finders/","title":"The Best Stud Finders of 2026, Tested and Reviewed - Outdoor Life"},
+    {"position":5,"url":"https://www.youtube.com/watch?v=nRC1-65mko4","title":"What are the Best Stud Finders for Lath and Plaster Walls? - YouTube"},
+    {"position":6,"url":"https://sawmillcreek.org/threads/stud-finder-for-plaster-walls.178100/","title":"Stud finder for plaster walls? - Sawmill Creek Woodworking Community"},
+    {"position":7,"url":"https://www.amazon.com/clp/B00FRI5TMY","title":"Original StudPoP Moving Magnet Stud Finder, for Any Construction, 1 ..."},
+    {"position":8,"url":"https://www.facebook.com/thespruceofficial/posts/we-tested-30-stud-finders-against-drywall-paneling-and-plaster-walls-to-find-the/1274324558061850/","title":"We tested 30 stud finders against drywall, paneling, and plaster walls ..."},
+    {"position":9,"url":"https://www.homedepot.com/b/Tools-Hand-Tools-Stud-Finders/N-5yc1vZc23h","title":"Stud Finders - The Home Depot"},
+    {"position":10,"url":"https://www.nytimes.com/wirecutter/reviews/best-stud-finder/","title":"The Best Stud Finder for Home Use | Reviews by Wirecutter"}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":1,"withNumber":1,"commonModifiers":["lath and plaster","plaster walls","2026"],"gap":"Deep-scan picks for thick walls plus scanning without extra holes and patching at move-out"}
 }

@@ -86,5 +86,18 @@
     {"slug": "smart-home-for-renters", "anchor": "smart home for renters guide", "reason": "Pillar page"},
     {"slug": "alexa-vs-google-home", "anchor": "Alexa vs Google Home", "reason": "Voice assistant choice"},
     {"slug": "best-voice-assistant-speaker-for-small-apartments", "anchor": "voice assistant speaker for small apartments", "reason": "Voice control for bulbs"}
-  ]
+  ],
+  "serpTitles": [
+    {"position":1,"url":"https://www.reddit.com/r/smarthome/comments/180iflj/best_smart_bulb_option_for_a_shared_rental/","title":"Best Smart Bulb Option For A Shared Rental? : r/smarthome - Reddit"},
+    {"position":2,"url":"https://www.cnet.com/home/kitchen-and-household/best-smart-lights/","title":"Best Smart Lights for 2026: Major Upgrades for Any Home - CNET"},
+    {"position":3,"url":"https://www.nytimes.com/wirecutter/reviews/best-smart-led-light-bulbs/","title":"The 4 Best Smart LED Light Bulbs of 2026 | Reviews by Wirecutter"},
+    {"position":4,"url":"https://www.gearbrain.com/install-smart-lighting-rented-house-2559623062.html","title":"Installing smart lights in a rented home: Your complete guide - Gearbrain"},
+    {"position":5,"url":"https://www.youtube.com/watch?v=8ReqtMlA0fA","title":"5 Best Smart Light Switches for Renters 2026 — No Wiring Needed"},
+    {"position":6,"url":"https://budgetlightforum.com/t/i-just-finished-testing-over-150-of-the-best-smart-lights-here-s-all-the-data/225316","title":"I just finished testing over 150 of the best smart lights... here's all the data!"},
+    {"position":7,"url":"https://smartrent.com/hardware/smart-lighting/","title":"Smart Lighting Apartment Solutions - SmartRent"},
+    {"position":8,"url":"https://everydayhomecomfort.com/best-smart-bulbs/","title":"Best Smart Bulbs: Complete 2026 Buying Guide | EHC"},
+    {"position":9,"url":"https://www.parkerandsons.com/blog/smart-lighting-simplified-choosing-the-best-smart-bulbs-and-switches-for-your-home","title":"Choosing the Best Smart Bulbs and Switches for Your Home"},
+    {"position":10,"url":"https://topratedbycraig.com/best-alexa-smart-bulbs-for-renters/","title":"Best Smart Light Bulbs for Renters (No Hub, Alexa Compatible)"}
+  ],
+  "titlePattern": {"keywordAtStart":1,"withYear":4,"withNumber":3,"commonModifiers":["no wiring / no hub","complete guide","2026","N Best"],"gap":"Making smart bulbs work with the rental's existing wall switches without rewiring"}
 }

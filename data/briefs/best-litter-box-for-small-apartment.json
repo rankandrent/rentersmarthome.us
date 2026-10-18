@@ -83,5 +83,18 @@
     "usesComparisonTable": true,
     "usesFaq": false,
     "usesBuyingGuide": true
-  }
+  },
+  "serpTitles": [
+    {"position":1,"url":"https://cats.com/best-litter-boxes-for-a-small-apartment","title":"The 8 Best Litter Boxes for a Small Apartment in 2026 - Cats.com"},
+    {"position":2,"url":"https://www.reddit.com/r/CatAdvice/comments/1h84ion/best_litter_box_for_small_apartment/","title":"Best litter box for small apartment? : r/CatAdvice - Reddit"},
+    {"position":3,"url":"https://www.apartmenttherapy.com/editor-tested-litter-box-enclosures-review-37183259","title":"I Found the Best Hidden Litter Box After Testing Several"},
+    {"position":4,"url":"https://neakasa.com/blogs/all/where-to-put-litter-box-in-small-apartment","title":"Tiny Apartment? Where to Put the Litter Box to Save Space & Stop ..."},
+    {"position":5,"url":"https://www.consumerreports.org/home-garden/pets/best-cat-litter-boxes-a7688686907/","title":"Best Cat Litter Boxes - Consumer Reports"},
+    {"position":6,"url":"https://www.facebook.com/groups/1165744147800004/posts/1618381185869629/","title":"What are the best litter box arrangements for small apartments ..."},
+    {"position":7,"url":"https://www.tuftandpaw.com/blogs/modern-cat-blog/best-cat-litter-for-small-apartments?srsltid=AU7gw4Vg_S4t_XbLhzLvqSxQc71yWOMV8U1VRr5lUR2_ZgD5EcH8gdXy","title":"Best Cat Litter for Small Apartments - Tuft & Paw"},
+    {"position":8,"url":"https://www.youtube.com/watch?v=0RqBNvXH72s","title":"10 Creative Litter Box Setups for Small Apartments (NYC Edition) - YouTube"},
+    {"position":9,"url":"https://www.kristinskittycare.com/cat-caretaker-blog/hide-litter-box-sf-apartment","title":"8 Ways to Hide Your Litter Box (And Shame!) In A Tiny Apartment"},
+    {"position":10,"url":"https://www.amazon.com/small-space-litter-box/s?k=small+space+litter+box","title":"Small Space Litter Box - Amazon.com"}
+  ],
+  "titlePattern": {"keywordAtStart":1,"withYear":1,"withNumber":3,"commonModifiers":["small apartment(s)","tiny apartment","hide / hidden litter box","small space"],"gap":"Protecting the rental's floors and your security deposit from litter and odor, not just saving space"}
 }

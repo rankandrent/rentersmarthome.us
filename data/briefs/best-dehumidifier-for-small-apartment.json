@@ -83,5 +83,18 @@
     "usesComparisonTable": false,
     "usesFaq": false,
     "usesBuyingGuide": true
-  }
+  },
+  "serpTitles": [
+    {"position":1,"url":"https://www.dehumidifierbuyersguide.com/","title":"The Best Dehumidifier: Our Top Picks After Testing 50+ Units"},
+    {"position":2,"url":"https://www.reddit.com/r/BuyItForLife/comments/1lyiibq/best_dehumidifier_for_small_apartment/","title":"best dehumidifier for small apartment? : r/BuyItForLife - Reddit"},
+    {"position":3,"url":"https://housefresh.com/best-dehumidifiers-we-tested/","title":"The best dehumidifiers you can buy in 2026 - HouseFresh"},
+    {"position":4,"url":"https://www.rtings.com/dehumidifier/reviews/best/small","title":"The 3 Best Small Dehumidifiers of 2026 - RTINGS.com"},
+    {"position":5,"url":"https://www.consumerreports.org/appliances/dehumidifiers/best-dehumidifiers-under-250-a7084416641/","title":"6 Best Dehumidifiers Under $250, Tested by Our Experts"},
+    {"position":6,"url":"https://www.amazon.com/Best-Sellers-Dehumidifiers/zgbs/home-garden/267557011","title":"Amazon Best Sellers: Best Dehumidifiers"},
+    {"position":7,"url":"https://www.nytimes.com/wirecutter/reviews/best-dehumidifier/","title":"The 3 Best Dehumidifiers of 2026 | Reviews by Wirecutter"},
+    {"position":8,"url":"https://www.youtube.com/watch?v=KO7TCMZ6lsc","title":"The Best Small Dehumidifier We've Tested - YouTube"},
+    {"position":9,"url":"https://www.homedepot.com/b/Heating-Venting-Cooling-Dehumidifiers/Small-0-300-sq-ft/N-5yc1vZc4l8Z1z23l0e","title":"Small (0-300 sq ft) - Dehumidifiers - The Home Depot"},
+    {"position":10,"url":"https://www.dehumidifierbuyersguide.com/low-capacity-dehumidifier-reviews/","title":"Small Dehumidifier Reviews | 20, 22 Pint"}
+  ],
+  "titlePattern": {"keywordAtStart":1,"withYear":3,"withNumber":3,"commonModifiers":["small dehumidifiers","N Best ... of 2026","tested","pint capacity"],"gap":"What size (pints, compressor vs mini) a small apartment actually needs, with renter notes on mold, the landlord and move-out"}
 }

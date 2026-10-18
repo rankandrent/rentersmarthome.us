@@ -80,5 +80,18 @@
     "usesComparisonTable": true,
     "usesFaq": true,
     "usesBuyingGuide": true
-  }
+  },
+  "serpTitles": [
+    {"position":1,"url":"https://www.amazon.com/apartment-security-cameras/s?k=apartment+security+cameras","title":"Apartment Security Cameras - Amazon.com"},
+    {"position":2,"url":"https://www.reddit.com/r/homeautomation/comments/1bajgfm/cameras_for_an_apartment_complex/","title":"Cameras for an apartment complex? : r/homeautomation - Reddit"},
+    {"position":3,"url":"https://www.safehome.org/home-security-cameras/best/apartments/","title":"Best Security Cameras for Apartments in 2026 - SafeHome.org"},
+    {"position":4,"url":"https://www.security.org/security-cameras/best/apartment/","title":"Best Security Cameras for Apartments in 2026 - Security.org"},
+    {"position":5,"url":"https://www.bestbuy.com/site/shop/apartment-surveillance-cameras","title":"Apartment Surveillance Cameras - Best Buy"},
+    {"position":6,"url":"https://www.youtube.com/watch?v=8o0O7CKaLmU","title":"Best Wireless Security Camera Setup for Renters 2026 - YouTube"},
+    {"position":7,"url":"https://www.eufy.com/collections/apartment-security-camera","title":"Apartment Security Cameras Local Storage No Fees eufy US"},
+    {"position":8,"url":"https://www.avigilon.com/blog/apartment-building-security-cameras","title":"Residential Building & Apartment Complex Security Cameras - Avigilon"},
+    {"position":9,"url":"https://store.reolink.com/us/apartment-security-system/","title":"Apartment Security Cameras & Video Systems | Reolink US"},
+    {"position":10,"url":"https://www.truehomeprotection.com/security-cameras-for-apartment-buildings/","title":"Security Cameras for Apartment Buildings: 2026 Guide"}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":4,"withNumber":0,"commonModifiers":["Best Security Cameras for Apartments in 2026","apartment security cameras","local storage / no fees","apartment buildings"],"gap":"Renter-installed cameras with no drilling and a move-out checklist (most results target building owners or pro monitoring)"}
 }

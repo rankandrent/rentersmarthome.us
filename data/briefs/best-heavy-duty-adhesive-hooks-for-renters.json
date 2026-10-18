@@ -24,5 +24,18 @@
     {"h2": "How to install", "intent": "how-to", "h3": []},
     {"h2": "How to remove", "intent": "how-to", "h3": []}
   ],
-  "targetWords": 1000
+  "targetWords": 1000,
+  "serpTitles": [
+    {"position":1,"url":"https://www.reddit.com/r/ApartmentHacks/comments/1gue1an/renter_friendly_hooks/","title":"Renter friendly hooks : r/ApartmentHacks - Reddit"},
+    {"position":2,"url":"https://www.amazon.com/renter-friendly-hooks/s?k=renter+friendly+hooks","title":"Renter Friendly Hooks - Amazon.com"},
+    {"position":3,"url":"https://simplespaceideas.com/best-wall-hooks-and-adhesive-hooks-for-renters/","title":"Best Wall Hooks and Adhesive Hooks for Renters"},
+    {"position":4,"url":"https://www.facebook.com/groups/1019448162828926/posts/1229812398459167/","title":"Renter-friendly alternatives to Command Strips? - Facebook"},
+    {"position":5,"url":"https://www.consumerreports.org/home-garden/home-organization/best-adhesive-strips-and-hooks-a2522406797/","title":"4 Best Adhesive Strips and Hooks, Tested by Our Experts"},
+    {"position":6,"url":"https://www.refinery29.com/en-us/renter-friendly-products-on-amazon","title":"24 Renter-Friendly Amazon Fixtures & Storage Solutions for Small Spaces"},
+    {"position":7,"url":"https://jellysub.com/blogs/journal/renter-friendly-wall-hanging-solutions-2025-picture-hanging-vertical-storage-without-damage?srsltid=AU7gw4WTYLEd5S05-kzDChgHEzI3E4MmmvsbHdj3cO2hfr2WGZRPg6_x","title":"Renter-Friendly Wall Hanging Solutions 2025 - jellysub"},
+    {"position":8,"url":"https://www.etsy.com/market/renter_friendly_hooks","title":"Renter Friendly Hooks - Etsy"},
+    {"position":9,"url":"https://strathalbynhhardware.com.au/blogs/news/the-best-adhesive-hooks-strips-clips-for-renters-that-actually-work?srsltid=AU7gw4W-lG8V_g3THvg4G_wJMaQSIVGTzh7bpJdUenbKZhCVcq8VrW-H","title":"Adhesive hooks and strips for renters that actually hold"},
+    {"position":10,"url":"https://www.realhomes.com/buying-guides/best-adhesive-hooks","title":"These are the best adhesive hooks for creating a fab and functional rental"}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":1,"withNumber":2,"commonModifiers":["renter-friendly","for renters","adhesive hooks and strips","that actually hold"],"gap":"Step-by-step removal at move-out so the hooks come off without peeling paint, plus when adhesive is the wrong choice"}
 }

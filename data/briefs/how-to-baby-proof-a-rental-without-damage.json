@@ -72,5 +72,18 @@
     "usesComparisonTable": false,
     "usesFaq": false,
     "usesBuyingGuide": false
-  }
+  },
+  "serpTitles": [
+    {"position":1,"url":"https://www.amazon.com/renter-friendly-baby-proofing/s?k=renter+friendly+baby+proofing","title":"Renter Friendly Baby Proofing - Amazon.com"},
+    {"position":2,"url":"https://www.reddit.com/r/Parenting/comments/74r7fb/babyproofingchildproofing_an_apartment/","title":"Babyproofing/childproofing an apartment : r/Parenting - Reddit"},
+    {"position":3,"url":"https://www.apartmenttherapy.com/how-to-baby-proof-your-apartment-renters-solutions-186884","title":"How To Baby Proof Your Rental - Apartment Therapy"},
+    {"position":4,"url":"https://iamhome.app/blog/how-to-handle-baby-proofing-a-rental-without-damage","title":"How to Handle Baby Proofing a Rental Without Damage - I'm Home"},
+    {"position":5,"url":"https://www.facebook.com/groups/150904640187587/posts/896461312298579/","title":"How to childproof a large opening in a rental home without blocking ..."},
+    {"position":6,"url":"https://homelet.co.uk/tenants/tips-for-tenants/baby-proofing-your-rented-home","title":"Baby Proofing Your Rented Home | Tips for tenants - HomeLet"},
+    {"position":7,"url":"https://www.realestate.com.au/lifestyle/how-do-you-baby-proof-a-rental-home/","title":"How Do You Baby Proof a Rental Home? - realestate.com.au"},
+    {"position":8,"url":"https://www.rentecdirect.com/blog/child-proofing/?srsltid=AU7gw4UYkeLTjTiDVfAWo3rpjGHAsfAc9j29EhtgfhRU1P8V_muEeALw","title":"Child-Proofing Your Rental Property - Rentec Direct"},
+    {"position":9,"url":"https://babyproofme.com/blogs/the-parenting-journal/baby-proofing-for-renters-no-damage-solutions-that-work?srsltid=AU7gw4Udt0lhQ2_BDe69Hl3xp8--vz6hOS4B4N1b4zcf3biWj3lc5MtA","title":"Baby Proofing for Renters: No-Damage Solutions That Work"},
+    {"position":10,"url":"https://www.youtube.com/watch?v=-YVTqm8Ws9k","title":"Rental Friendly Gates, Cabinet Locks, Safety Products | How To Baby Proof"}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":0,"withNumber":0,"commonModifiers":["baby proof your rental / rented home","renter friendly","no-damage solutions"],"gap":"A room-by-room plan that separates what needs landlord permission from what doesn't"}
 }

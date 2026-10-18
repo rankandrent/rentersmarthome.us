@@ -59,5 +59,18 @@
     "usesComparisonTable": true,
     "usesFaq": true,
     "usesBuyingGuide": true
-  }
+  },
+  "serpTitles": [
+    {"position":1,"url":"https://www.outdoorlife.com/gear/best-stud-finders/","title":"The Best Stud Finders of 2026, Tested and Reviewed - Outdoor Life"},
+    {"position":2,"url":"https://www.reddit.com/r/Tools/comments/1lum5g3/best_stud_finder_for_someone_who_knows_nothing/","title":"Best Stud Finder For Someone Who Knows Nothing About Walls & Studs?"},
+    {"position":3,"url":"https://www.protoolreviews.com/best-stud-finder/","title":"Best Stud Finder: We Tested the Most Popular Models - Pro Tool Reviews"},
+    {"position":4,"url":"https://www.nytimes.com/wirecutter/reviews/best-stud-finder/","title":"The Best Stud Finder for Home Use | Reviews by Wirecutter"},
+    {"position":5,"url":"https://www.homedepot.com/b/Tools-Hand-Tools-Stud-Finders/N-5yc1vZc23h","title":"Stud Finders - The Home Depot"},
+    {"position":6,"url":"https://rack-a-tiers.com/product/stud-ball-magnetic-stud-finder/","title":"Stud Ball Magnetic Stud Finder - Rack-A-Tiers Since 1995"},
+    {"position":7,"url":"https://www.youtube.com/watch?v=oFtHCudbtxM","title":"Best Stud Finder? We Tested the 5 Top-Selling Models in 2026"},
+    {"position":8,"url":"https://www.amazon.com/clp/B08DY3MKXQ","title":"Amazon.com: CH Hanson Magnetic Stud Finder - Amazon.com"},
+    {"position":9,"url":"https://www.techgearlab.com/topics/tools/best-stud-finder","title":"The Best Stud Finders | Tested & Ranked - TechGearLab"},
+    {"position":10,"url":"https://www.youtube.com/watch?v=3CssXO0e9dg","title":"Top-Rated Magnetic Stud Finders for Accurate Wall Detection! - YouTube"}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":2,"withNumber":1,"commonModifiers":["tested and reviewed / tested & ranked","Best Stud Finder(s)","2026"],"gap":"Renter angle: finding studs with fewer test holes and an easy patch at move-out"}
 }

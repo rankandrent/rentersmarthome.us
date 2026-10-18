@@ -1,5 +1,5 @@
 ---
-title: '5 Best Smart Light Bulbs for Renters (No Wiring, 2026)'
+title: 'Best Smart Light Bulbs for Renters 2026 – 5 Picks + Wall Switch Fixes'
 seoTitle: 'Best Smart Light Bulbs for Renters (2026) – 5 No-Wire Picks'
 description: >-
   The best smart bulbs for renters screw into lamps you already have and swap

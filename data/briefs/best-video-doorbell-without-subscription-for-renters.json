@@ -24,5 +24,18 @@
     {"h2": "Installing without drilling", "intent": "renter install", "h3": []},
     {"h2": "Local storage tradeoffs", "intent": "caveats", "h3": []}
   ],
-  "targetWords": 1100
+  "targetWords": 1100,
+  "serpTitles": [
+    {"position":1,"url":"https://www.consumerreports.org/home-garden/home-security-cameras/best-video-doorbell-cameras-without-a-subscription-a1134473783/","title":"Best Video Doorbell Cameras Without a Subscription - Consumer Reports"},
+    {"position":2,"url":"https://www.cnet.com/home/security/best-video-doorbell-cameras/","title":"The Best Video Doorbells of 2026: Reinvent Your Front Door - CNET"},
+    {"position":3,"url":"https://www.reddit.com/r/BuyItForLife/comments/1k8kzd9/best_doorbell_camera_that_doesnt_require_a/","title":"Best Doorbell Camera That Doesn't Require A Subscription? - Reddit"},
+    {"position":4,"url":"https://goabode.com/blog/best-doorbell-camera-no-subscription/","title":"Best No-Subscription Doorbell Cameras 2026 - Abode"},
+    {"position":5,"url":"https://www.safehome.org/doorbell-cameras/best/no-subscription/","title":"A Guide to Subscription-Free Smart Doorbell Cameras | SafeHome.org"},
+    {"position":6,"url":"https://www.facebook.com/groups/275583976143836/posts/2075480136154202/","title":"What are some renter-friendly video doorbell options with free or ..."},
+    {"position":7,"url":"https://frostedevents.com/best-doorbell-camera-without-subscription/","title":"Best Doorbell Camera Without Subscription - Frosted Events"},
+    {"position":8,"url":"https://www.bestbuy.com/site/shop/wireless-doorbell-camera-no-subscription","title":"Wireless Doorbell Camera No Subscription - Best Buy"},
+    {"position":9,"url":"https://www.nytimes.com/wirecutter/reviews/best-smart-doorbell-camera/?eafs_enabled=false","title":"The 3 Best Smart Doorbell Cameras of 2026 | Reviews by Wirecutter"},
+    {"position":10,"url":"https://www.eufy.com/collections/video-doorbell-for-apartments","title":"Video Doorbell for Apartments | Door Camera for Apartment - eufy US"}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":3,"withNumber":1,"commonModifiers":["without a subscription / no-subscription","renter-friendly","for apartments","2026"],"gap":"No-drill mounting for a rental door plus privacy in shared hallways"}
 }

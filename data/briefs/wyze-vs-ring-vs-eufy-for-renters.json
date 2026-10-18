@@ -67,5 +67,18 @@
     {"slug": "best-video-doorbell-without-subscription-for-renters", "title": "Best Video Doorbell Without Subscription for Renters: 3 Picks"},
     {"slug": "best-wireless-security-cameras-for-apartments", "title": "Best Wireless Security Cameras for Apartments in 2026 (9 Picks)"},
     {"slug": "alexa-vs-google-home", "title": "Alexa vs Google Home in 2026: Which Is Better for a Rental?"}
-  ]
+  ],
+  "serpTitles": [
+    {"position":1,"url":"https://www.reddit.com/r/wyzecam/comments/1gcecg9/why_i_prefer_wyzecam_as_a_user_of_eufy_tapo_ring/","title":"Why I prefer Wyzecam as a user of Eufy / Tapo / Ring / Nest and other ..."},
+    {"position":2,"url":"https://www.techgearlab.com/topics/smart-home/best-security-camera","title":"The Best Home Security Cameras | Lab Tested & Ranked - TechGearLab"},
+    {"position":3,"url":"https://www.youtube.com/watch?v=xDxOn9ltva0","title":"Best Home Security Cameras of 2025 [Eufy vs Wyze vs Ring] - YouTube"},
+    {"position":4,"url":"https://realestate.usnews.com/home-services/home-security-systems/wyze-vs-ring-alarm","title":"Wyze vs. Ring Alarm | Home Security Systems Reviewed (2026)"},
+    {"position":5,"url":"https://www.facebook.com/groups/castrovalleyasksharediscuss/posts/4713860202236066/","title":"Looking into renter friendly security options for a single family home."},
+    {"position":6,"url":"https://www.wyze.com/blogs/smart-home/wyze-vs-eufy?srsltid=AU7gw4WPmwKwL2IELvUyjvIUEtoUzBQUFRTFvjdjUEx_XfKcb5Q5DRzF","title":"Wyze vs Eufy: Which Home Security Camera Should You Choose?"},
+    {"position":7,"url":"https://sipkosecurity.com/ring-vs-eufy-ultimate-security-camera-comparison-2026-guide/","title":"Ring vs Eufy: Which Security Camera Is Better in 2026?"},
+    {"position":8,"url":"https://www.facebook.com/groups/545990332638815/posts/1914286042475897/","title":"What are good security camera alternatives to Ring for rentals?"},
+    {"position":9,"url":"https://forums.redflagdeals.com/doorbell-wyze-vs-eufy-vs-ring-2493297/","title":"Doorbell: Wyze vs Eufy vs Ring - RedFlagDeals.com Forums"},
+    {"position":10,"url":"https://www.youtube.com/watch?v=q4mt7QLv-Hk","title":"Wyze Cam vs. Eufy Indoor Cam 2K: 5 MAJOR Differences! - YouTube"}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":3,"withNumber":1,"commonModifiers":["Which ... should you choose / is better","home security camera(s)","vs"],"gap":"Subscription cost over a lease and no-drill, plug-in setups for renters"}
 }

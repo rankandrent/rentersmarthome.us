@@ -133,5 +133,18 @@
     "usesComparisonTable": true,
     "usesFaq": true,
     "usesBuyingGuide": true
-  }
+  },
+  "serpTitles": [
+    {"position":1,"url":"https://www.maupets.com/collections/cat-trees-for-small-apartments?srsltid=AU7gw4UIoK22LEbMYvcSQx1Ccmx7gqrh5ZXe3a6AN1S0KeIA7H-_ca0c","title":"Shop Luxury Cat Trees, Beds, and Caves for Small Apartment Living"},
+    {"position":2,"url":"https://www.reddit.com/r/CatAdvice/comments/1n3lrsa/best_cat_tree_for_small_spaces/","title":"Best cat tree for small spaces? : r/CatAdvice - Reddit"},
+    {"position":3,"url":"https://kittyclysm.com/narrow-cat-trees/","title":"For Small Spaces & Apartment Life: Narrow Cat Trees, Thin & Tall"},
+    {"position":4,"url":"https://www.nytimes.com/wirecutter/reviews/best-cat-trees/","title":"11 Best Cat Trees of 2026 | Reviews by Wirecutter - The New York Times"},
+    {"position":5,"url":"https://www.quora.com/Whats-the-best-cat-tree-for-a-small-apartment","title":"What's the best cat tree for a small apartment? - Quora"},
+    {"position":6,"url":"https://brainsreport.com/review/best-cat-trees/","title":"Best Cat Trees for All Budgets and Ages - Brains Report"},
+    {"position":7,"url":"https://www.amazon.com/cat-tree-small/s?k=cat+tree+small","title":"Cat Tree Small - Amazon.com"},
+    {"position":8,"url":"https://www.wired.com/story/fancy-cat-furniture/","title":"The Best Cat Furniture, Scratching Posts, and Litter Boxes (2024)"},
+    {"position":9,"url":"https://cats.com/reviews/best-cat-trees","title":"The 13 Best Cat Trees: We Tested Them All: Unbiased Review"},
+    {"position":10,"url":"https://www.facebook.com/groups/686510075163293/posts/2114038449077108/","title":"What are tall cat trees for small apartments? - Facebook"}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":2,"withNumber":2,"commonModifiers":["small spaces","small apartment(s)","narrow / tall","N Best Cat Trees"],"gap":"Freestanding picks a renter can use without screwing an anti-tip strap into the landlord's wall, plus the landlord email and patch steps if anchoring is ever needed"}
 }

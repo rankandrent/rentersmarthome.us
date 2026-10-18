@@ -26,5 +26,18 @@
     {"h2": "When you can't change the thermostat", "intent": "alternatives", "h3": []},
     {"h2": "Move-out: put the old thermostat back", "intent": "move-out", "h3": []}
   ],
-  "targetWords": 1100
+  "targetWords": 1100,
+  "serpTitles": [
+    {"position":1,"url":"https://www.reddit.com/r/Frugal/comments/2xzh2r/installing_a_programmable_thermostat_in_an/","title":"Installing a programmable thermostat in an apartment. : r/Frugal - Reddit"},
+    {"position":2,"url":"https://www.cnet.com/home/smart-home/how-smart-thermostats-can-work-and-save-for-renters/","title":"We Found Out How Renters Can Use Smart Thermostats to Save Money"},
+    {"position":3,"url":"https://getmysa.com/en-us/blogs/all/can-i-install-a-smart-thermostat-in-my-apartment?srsltid=AU7gw4VqMXpiu_o4p_Fd7BoYEPrm9PrzxxfTzH5Qg5GfNgNI6Qj9UVUL","title":"Can I Install a Smart Thermostat in My Apartment? | Mysa"},
+    {"position":4,"url":"https://www.quora.com/Can-a-tenant-install-a-smart-thermostat","title":"Can a tenant install a smart thermostat? - Quora"},
+    {"position":5,"url":"https://www.youtube.com/watch?v=y_Af5uDtZAA","title":"Smart apartment tech #1 - Nest Thermostat - YouTube"},
+    {"position":6,"url":"https://smartrent.com/hardware/thermostats/","title":"Smart Thermostat for Apartment & Multifamily Homes | SmartRent"},
+    {"position":7,"url":"https://www.justanswer.com/hvac/as724-thermostat-apartment-compatible-replaced.html","title":"Expert Answers on Smart Thermostats for Apartments | JustAnswer HVAC"},
+    {"position":8,"url":"https://www.facebook.com/groups/983295315800436/posts/1908605376602754/","title":"How to install a thermostat in an apartment? - Facebook"},
+    {"position":9,"url":"https://brinkshome.com/smartcenter/smart-thermostats-for-renters","title":"Smart Thermostats for Renters - Brinks Home Security"},
+    {"position":10,"url":"https://homeautocentral.com/smart-thermostat-for-apartment/","title":"Can I Install a Smart Thermostat in My Apartment? Yes! - Home Auto Central"}
+  ],
+  "titlePattern": {"keywordAtStart":2,"withYear":0,"withNumber":0,"commonModifiers":["Can I install a smart thermostat in my apartment?","renters","landlord"],"gap":"The C-wire check and what to do when you can't change the thermostat, plus putting the old one back at move-out"}
 }

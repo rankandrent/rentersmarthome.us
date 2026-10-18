@@ -149,5 +149,18 @@
     {"name": "Google Nest Doorbell (Battery)", "pages": ["https://smartrent.com/news/best-doorbell-camera-for-apartments/", "https://www.safehome.org/doorbell-cameras/best/"]},
     {"name": "Arlo Video Doorbell 2K (2nd Gen) / Arlo Essential Video Doorbell", "pages": ["https://smartrent.com/news/best-doorbell-camera-for-apartments/", "https://www.cnet.com/home/security/best-video-doorbell-cameras/"]},
     {"name": "Blink Video Doorbell (2nd Gen)", "pages": ["https://smartrent.com/news/best-doorbell-camera-for-apartments/", "https://www.cnet.com/home/security/best-video-doorbell-cameras/"]}
-  ]
+  ],
+  "serpTitles": [
+    {"position":1,"url":"https://www.amazon.com/apartment-doorbell/s?k=apartment+doorbell","title":"Apartment Doorbell - Amazon.com"},
+    {"position":2,"url":"https://www.reddit.com/r/homeautomation/comments/1jsa476/choosing_between_3_video_doorbells_for_an/","title":"Choosing between 3 video doorbells for an apartment : r/homeautomation"},
+    {"position":3,"url":"https://www.bestbuy.com/site/shop/front-door-camera-for-apartment","title":"Front Door Camera For Apartment - Best Buy"},
+    {"position":4,"url":"https://smartrent.com/news/best-doorbell-camera-for-apartments/","title":"The Best Doorbell Cameras for Apartments: A 2025 Guide for ..."},
+    {"position":5,"url":"https://us.store.tapo.com/collections/video-doorbell-for-apartments?srsltid=AU7gw4UrddNSBFK0t67XK5Fy2oXJIsIBG1XJpMNrqceJplw9nyicjtEP","title":"Doorbell Camera for Apartments | Secure and Easy Setup - Tapo Store"},
+    {"position":6,"url":"https://www.facebook.com/groups/157508431114996/posts/2752771418255338/","title":"What doorbell cam for apartment unit? - Facebook"},
+    {"position":7,"url":"https://www.cnet.com/home/security/best-video-doorbell-cameras/","title":"The Best Video Doorbells of 2026: Reinvent Your Front Door - CNET"},
+    {"position":8,"url":"https://www.youtube.com/watch?v=zF9f5z5C_Ug","title":"The 3 Best Doorbell Cameras for Renters - YouTube"},
+    {"position":9,"url":"https://ring.com/video-doorbell-cameras?srsltid=AU7gw4Uzfp3mkduV37Rnt8R-k8C0-LGmZB07yhADQngSM3qT2HyOXx-N","title":"Doorbell Cameras - Wireless & Wired Doorbells - Ring"},
+    {"position":10,"url":"https://www.eufy.com/collections/apartment-security-camera","title":"Apartment Security Cameras Local Storage No Fees eufy US"}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":2,"withNumber":2,"commonModifiers":["doorbell camera(s) for apartments","renters","no-drill setup"],"gap":"Landlord rules and hallway privacy for a door camera, plus taking it with you on move-out day"}
 }
