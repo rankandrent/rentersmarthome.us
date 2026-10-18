@@ -751,6 +751,27 @@
       "lang": "nl",
       "translationOf": "best-cat-tree-for-small-apartment",
       "pubDate": "2026-10-18T23:30:00.000Z"
+    },
+    {
+      "date": "2026-10-18",
+      "id": "de/tuerklingel-mit-kamera-fuer-die-wohnung",
+      "lang": "de",
+      "translationOf": "door-camera-for-apartment",
+      "pubDate": "2026-10-19T01:05:00.000Z"
+    },
+    {
+      "date": "2026-10-18",
+      "id": "es/timbre-con-camara-para-piso",
+      "lang": "es",
+      "translationOf": "door-camera-for-apartment",
+      "pubDate": "2026-10-19T00:35:00.000Z"
+    },
+    {
+      "date": "2026-10-18",
+      "id": "nl/videodeurbel-voor-appartement",
+      "lang": "nl",
+      "translationOf": "door-camera-for-apartment",
+      "pubDate": "2026-10-19T01:25:00.000Z"
     }
   ]
 }

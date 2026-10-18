@@ -1,0 +1,14 @@
+{
+  "slug": "nl/videodeurbel-voor-appartement",
+  "lang": "nl",
+  "translationOf": "door-camera-for-apartment",
+  "pass": true,
+  "checkedAt": "2026-10-18T13:20:34.309Z",
+  "errors": [],
+  "warnings": [],
+  "factCheck": {
+    "verified": true,
+    "notes": "Independent QA re-check against English door-camera-for-apartment (read in full): parsed frontmatter and confirmed 6 products with identical names, ASINs, scores, sources, owner source lists, pros/cons/praise/complaint counts, entities and top-level sources; compared every body section, table row, tldr and 5 FAQ answers for specs (2K, 180/140x140/145/150 deg, 2048x1536, 960x1280, 1944x1944, 8 GB, 6 Ah, IP65/IP54, 2.4/5 GHz, 8 months, two years on 3 AA, 10x/12x zoom, 3 h Nest history, 32F=0C, 30 owner posts, 1440p) and claims (adhesive per Tapo FAQ, Ring no-drill per Ring page, Sync Module Core vs 2/XR, Nest cold charging, Arlo Secure/SmartHub); research-not-testing wording present; no hands-on claims, no prices or local availability. Fixed price-suggesting link text on the eufy E340 CTA and rating wording.",
+    "at": "2026-10-18T13:21:47.655Z"
+  }
+}
