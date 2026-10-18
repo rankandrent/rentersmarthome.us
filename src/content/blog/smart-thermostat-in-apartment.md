@@ -321,11 +321,11 @@ heroAlt: >-
   guide
 ---
 
-Can I install a smart thermostat in my apartment? **Often yes: if your landlord approves and your apartment has a compatible 24V heating and cooling system, you can swap in a smart thermostat and put the old one back when you move out.** The two things that stop most renters are the lease and the wiring, so we'll check both before you spend anything.
+Can you install a smart thermostat in your apartment? **Often yes: if your landlord approves and your apartment has a compatible 24V heating and cooling system, you can swap in a smart thermostat and put the old one back when you move out.** The two things that stop most renters are the lease and the wiring, so we'll check both before you spend anything.
 
-I've seen renters buy a thermostat, open the wall plate and find two thin wires and no plan. This guide is the checklist we wish they'd had. If you're new to renter-friendly upgrades, our [smart home for renters guide](/blog/smart-home-for-renters/) is the best place to start.
+It's a common story: a renter buys a thermostat, opens the wall plate and finds two thin wires and no plan. This guide is the checklist we wish every renter had. If you're new to renter-friendly upgrades, our [smart home for renters guide](/blog/smart-home-for-renters/) is the best place to start.
 
-## Can I install a smart thermostat in my apartment?
+## Can you install a smart thermostat in your apartment?
 
 **You can install a smart thermostat in your apartment when three things line up: permission, a compatible system and the right power.** Here's the quick version:
 
@@ -368,19 +368,19 @@ You have two clean options. Some thermostats, like the Google Nest Thermostat, a
 
 ### Google Nest Thermostat: best for most apartments
 
-The [Google Nest Thermostat](amzn:Google+Nest+Thermostat) is the one we'd check first for a typical apartment. Google designed it to work without a C-wire in many systems, and the Google Home app handles scheduling. Some systems still need a Nest Power Connector, so the compatibility checker matters.
+For a typical apartment, the model we'd check first is the [Google Nest Thermostat](amzn:Google+Nest+Thermostat). Google designed it to work without a C-wire in many systems, and the Google Home app handles scheduling. Some systems still need a Nest Power Connector, so the compatibility checker matters.
 
 ### ecobee Smart Thermostat Essential: best if you have no C-wire
 
-The [ecobee Smart Thermostat Essential](amzn:ecobee+Smart+Thermostat+Essential) supports ecobee's Power Extender Kit, which adds the missing power at the furnace for most 24V systems. It's a good match if your building's maintenance team can reach the equipment.
+Missing a C-wire? The [ecobee Smart Thermostat Essential](amzn:ecobee+Smart+Thermostat+Essential) supports ecobee's Power Extender Kit, which adds the missing power at the furnace for most 24V systems. It's a good match if your building's maintenance team can reach the equipment.
 
 ### Mysa Smart Thermostat for Electric Baseboard Heaters: best for baseboard heat
 
-The [Mysa Smart Thermostat for Electric Baseboard Heaters](amzn:Mysa+Smart+Thermostat+for+Electric+Baseboard+Heaters) is a line-voltage smart thermostat for 120V and 240V heaters. Line-voltage wiring is dangerous, so in a rental we'd only let the landlord's electrician install it.
+Built for 120V and 240V heaters, the [Mysa Smart Thermostat for Electric Baseboard Heaters](amzn:Mysa+Smart+Thermostat+for+Electric+Baseboard+Heaters) is a line-voltage smart thermostat. Line-voltage wiring is dangerous, so in a rental we'd only let the landlord's electrician install it.
 
 ## When you can't change the thermostat
 
-**If your heat is controlled by the building, you can still automate cooling and comfort without touching the wiring.** A [smart AC controller](/blog/smart-ac-controller/) adds app control and schedules to any window, portable or mini-split unit with a remote. For plug-in fans, our [Matter smart plug guide](/blog/best-matter-smart-plugs/) covers plugs that can run them on a schedule.
+**If your heat is controlled by the building, you can still automate cooling and comfort without touching the wiring.** A [smart AC controller](/blog/smart-ac-controller/) adds app control and schedules to any window, portable or mini-split unit with a remote. For plug-in fans, our [Matter smart plug guide](/blog/best-matter-smart-plugs/) covers plugs that can run them on a schedule. Our tips on [how to cool an apartment without AC](/blog/how-to-cool-apartment-without-ac/) and the rest of our [heating and cooling guides](/category/climate/) cover options that never touch the wall.
 
 ## Move-out: put the old thermostat back
 

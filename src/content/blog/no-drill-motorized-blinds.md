@@ -312,19 +312,19 @@ Renters have three renter-safe choices:
 
 ### Graywind No Drill Motorized Roller Shades: best no-drill replacement shade
 
-The [Graywind No Drill Motorized Roller Shades](amzn:Graywind+No+Drill+Motorized+Roller+Shades) are the best choice when you want true up-and-down automation. Graywind's no-drill shades sit inside the window recess and hold by tension instead of screws. Check the listing for the minimum inside-mount depth before you order.
+For true up-and-down automation, the [Graywind No Drill Motorized Roller Shades](amzn:Graywind+No+Drill+Motorized+Roller+Shades) are the best choice. These no-drill shades sit inside the window recess and hold by tension instead of screws. Check the listing for the minimum inside-mount depth before you order.
 
-Graywind no-drill shades are made to measure and come in light-filtering and blackout fabrics, which makes them a strong pick for bedrooms in apartments where streetlights shine in. Check the listing for Alexa/Google Assistant support.
+They are made to measure and come in light-filtering and blackout fabrics, which makes them a strong pick for bedrooms in apartments where streetlights shine in. Confirm Alexa/Google Assistant support on the listing too.
 
 ### SwitchBot Blind Tilt: best for existing venetian blinds
 
-The [SwitchBot Blind Tilt](amzn:SwitchBot+Blind+Tilt) is the cheapest way to automate the blinds your landlord already installed. The SwitchBot Blind Tilt attaches to the twisting tilt wand of venetian blinds with adhesive strips, then opens and closes the slats on a schedule, at sunrise or by voice.
+Already living with the landlord's venetian blinds? The [SwitchBot Blind Tilt](amzn:SwitchBot+Blind+Tilt) is the cheapest way to automate them. This small motor attaches to the twisting tilt wand of venetian blinds with adhesive strips, then opens and closes the slats on a schedule, at sunrise or by voice.
 
 The trade-off is that the Blind Tilt only angles the slats; it cannot raise or lower the blind. It runs on a rechargeable battery with an optional solar panel, and a SwitchBot hub adds Alexa, Google Home and Apple Home control.
 
 ### SwitchBot Curtain 3: best for curtains
 
-The [SwitchBot Curtain 3](amzn:SwitchBot+Curtain+3) automates curtains instead of blinds. The SwitchBot Curtain 3 hooks onto your existing curtain rod or track and pulls the curtains open or closed, which makes it ideal for living rooms and sliding doors where renters often hang their own curtains.
+Curtains rather than blinds are the job of the [SwitchBot Curtain 3](amzn:SwitchBot+Curtain+3). The robot hooks onto your existing curtain rod or track and pulls the curtains open or closed, which makes it ideal for living rooms and sliding doors where renters often hang their own curtains.
 
 ## Replace or retrofit: which approach fits your rental?
 
@@ -378,4 +378,4 @@ If you ever want to compare the landlord's blinds with a motorized replacement, 
 
 ## Which no-drill motorized blinds should you buy?
 
-**Choose Graywind no-drill shades for full blackout automation, SwitchBot Blind Tilt to upgrade existing venetian blinds cheaply, and SwitchBot Curtain 3 for curtains.** Each of these no-drill motorized blinds keeps your window frames untouched, which is exactly what your security deposit needs.
+**Choose Graywind no-drill shades for full blackout automation, SwitchBot Blind Tilt to upgrade existing venetian blinds cheaply, and SwitchBot Curtain 3 for curtains.** Each of these no-drill motorized blinds keeps your window frames untouched, which is exactly what your security deposit needs. To finish the room, our roundup of [smart light bulbs for renters](/blog/best-smart-light-bulbs-for-renters/) and the rest of our [renter-friendly smart lighting guides](/category/lighting/) pair well with a sunrise or sunset blind schedule.

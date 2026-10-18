@@ -279,11 +279,11 @@ related:
 
 Philips Hue vs WiZ is the first choice most renters face when they want smart lighting. **WiZ is the better pick for a few bulbs because it connects straight to Wi-Fi with no hub, while Philips Hue is the better pick for a whole apartment because the Hue Bridge makes a bigger system faster and more reliable.** Both are owned by Signify, both work with Alexa and Google Home, and both screw into the lamps you already own.
 
-Smart bulbs are where we tell most renters to begin, since they need no wiring, no landlord approval and no tools. In this comparison I'll cover how the two systems connect, what that means for your router, and which kit we'd buy for a studio versus a two-bedroom. If you're building a full setup, our [smart home for renters guide](/blog/smart-home-for-renters/) shows where lighting fits.
+Smart bulbs are where we tell most renters to begin, since they need no wiring, no landlord approval and no tools. In this comparison we cover how the two systems connect, what that means for your router, and which kit we'd buy for a studio versus a two-bedroom. If you're building a full setup, our [smart home for renters guide](/blog/smart-home-for-renters/) shows where lighting fits.
 
 ## Philips Hue vs WiZ: the short answer
 
-**Pick WiZ if you want one or two smart lamps on a budget; pick Philips Hue if you want more than a handful of lights, switches and sensors.** If I were lighting my own one-bedroom, I'd start with Hue in the living room and bedroom, because I know I'd keep adding to it.
+**Pick WiZ if you want one or two smart lamps on a budget; pick Philips Hue if you want more than a handful of lights, switches and sensors.** If we were lighting a one-bedroom of our own, we'd start with Hue in the living room and bedroom, because we know we'd keep adding to it.
 
 ## Side by side
 
@@ -315,19 +315,19 @@ Many renters use the internet provider's router, and a basic router isn't built 
 
 ### Philips Hue White and Color Ambiance Starter Kit: best for a whole apartment
 
-The [Philips Hue White and Color Ambiance Starter Kit](amzn:Philips+Hue+White+and+Color+Ambiance+Starter+Kit+Bridge) bundles color bulbs with the Hue Bridge, which is the cheapest way into a full Hue system. Put the bulbs in your existing lamps and ceiling fixtures, plug the Bridge into your router, and you can add switches and motion sensors later.
+Color bulbs and the Hue Bridge come together in the [Philips Hue White and Color Ambiance Starter Kit](amzn:Philips+Hue+White+and+Color+Ambiance+Starter+Kit+Bridge), which is the cheapest way into a full Hue system. Put the bulbs in your existing lamps and ceiling fixtures, plug the Bridge into your router, and you can add switches and motion sensors later.
 
 ### WiZ Color A19 Smart Bulb: best budget smart bulb
 
-The [WiZ Color A19 Smart Bulb](amzn:WiZ+Color+A19+smart+bulb) is the one we'd suggest for a desk lamp or a bedside light. It joins your 2.4GHz Wi-Fi with no hub, works with Alexa and Google Home, and costs less per bulb than Hue.
+For a desk lamp or a bedside light, we'd suggest the [WiZ Color A19 Smart Bulb](amzn:WiZ+Color+A19+smart+bulb). This bulb joins your 2.4GHz Wi-Fi with no hub, works with Alexa and Google Home, and costs less per bulb than Hue.
 
 ### Philips Hue Bridge: best upgrade for Hue
 
-The [Philips Hue Bridge](amzn:Philips+Hue+Bridge) is worth adding if you started with Hue Bluetooth bulbs. The Bridge unlocks control when you're away, automations, Hue accessories and Matter support through a software update.
+Started with Hue Bluetooth bulbs? Then the [Philips Hue Bridge](amzn:Philips+Hue+Bridge) is worth adding. It unlocks control when you're away, automations, Hue accessories and Matter support through a software update.
 
 ## Ecosystems, Matter and mixing brands
 
-**Signify keeps Hue and WiZ in separate apps, but Matter lets both appear in one smart home app.** The Hue Bridge supports Matter, and many WiZ products do too, so Google Home or Apple Home can control both side by side. We'd still choose one brand for scenes and schedules, since each app works best with its own bulbs.
+**Signify keeps Hue and WiZ in separate apps, but Matter lets both appear in one smart home app.** The Hue Bridge supports Matter, and many WiZ products do too, so Google Home or Apple Home can control both side by side. We'd still choose one brand for scenes and schedules, since each app works best with its own bulbs. Our roundup of the [best smart light bulbs for renters](/blog/best-smart-light-bulbs-for-renters/) looks at more bulb options if neither brand fits.
 
 ## Rented fixtures and wall switches
 
@@ -335,7 +335,7 @@ The [Philips Hue Bridge](amzn:Philips+Hue+Bridge) is worth adding if you started
 
 ## Which is better for an apartment?
 
-**For a studio or a couple of lamps, WiZ wins on cost and simplicity; for a one- or two-bedroom you plan to fill with lights, Hue wins on reliability and accessories.** Either way, the bulbs come with you on move-out day. Just swap the original bulbs back in and keep the smart ones for your next place.
+**For a studio or a couple of lamps, WiZ wins on cost and simplicity; for a one- or two-bedroom you plan to fill with lights, Hue wins on reliability and accessories.** Either way, the bulbs come with you on move-out day, and if you want accent lighting too, our guide to [LED strip lights for renters](/blog/best-led-strip-lights-for-renters/) covers adhesive that won't peel paint. Just swap the original bulbs back in and keep the smart ones for your next place.
 
 ## Our verdict on Philips Hue vs WiZ
 

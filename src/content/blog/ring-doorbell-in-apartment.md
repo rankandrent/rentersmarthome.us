@@ -299,7 +299,7 @@ related:
 
 Can you put a Ring doorbell on an apartment? **Yes: most renters can add a Ring doorbell without drilling, using either the Ring Peephole Cam or a Ring Battery Doorbell on the Ring No-Drill Mount, as long as the lease allows it.** The catch is rarely the hardware. It's the lease, the door and your neighbors.
 
-We get this question more than almost any other from renters. In this guide I'll walk you through what to check first, the three no-drill setups we recommend, and how to keep the camera friendly to your building. If you want a wider look at door cameras, our [peephole camera guide](/blog/best-peephole-camera-for-apartments/) compares more options.
+We get this question more than almost any other from renters. In this guide we walk you through what to check first, the three no-drill setups we recommend, and how to keep the camera friendly to your building. If you want a wider look at door cameras, our [peephole camera guide](/blog/best-peephole-camera-for-apartments/) compares more options.
 
 ## Can you put a Ring doorbell on an apartment?
 
@@ -316,14 +316,14 @@ Both come off at move-out, which is what protects your security deposit.
 
 **Before you buy anything, read your lease for rules about door alterations and ask your landlord in writing.** Most refusals we hear about are about drilling or hallway recording, and a no-drill plan answers the first worry.
 
-Here's the short message I'd send a landlord:
+Here's the short message we'd send a landlord:
 
 1. Say which device you want (for example, a Ring Peephole Cam).
 2. Explain that it needs no drilling and that you'll reinstall the original peephole when you leave.
 3. Confirm the camera will point at your own door, not your neighbors'.
 4. Ask for a reply by email so you have a record.
 
-Some buildings ban anything on the door's exterior face. If yours does, an indoor camera facing your entry is the fallback; our [Blink vs Ring subscription comparison](/blog/blink-vs-ring-subscription/) covers the best indoor options.
+Some buildings ban anything on the door's exterior face. If yours does, an indoor camera facing your entry is the fallback; our [Blink vs Ring subscription comparison](/blog/blink-vs-ring-subscription/) covers the best indoor options, and our [Wyze vs Ring vs eufy comparison for renters](/blog/wyze-vs-ring-vs-eufy-for-renters/) weighs local recording against a plan.
 
 ## Three no-drill ways to add a Ring doorbell
 
@@ -337,15 +337,15 @@ Some buildings ban anything on the door's exterior face. If yours does, an indoo
 
 ### Ring Peephole Cam: best for apartment doors
 
-The [Ring Peephole Cam](amzn:Ring+Peephole+Cam+2K) is the Ring doorbell we suggest to most renters first. It unscrews your existing peephole and fits through the same hole, so the door is untouched. From the hallway it looks like an ordinary peephole with a doorbell button, and inside you still get a small viewer. Before ordering, measure your door thickness and peephole diameter against Ring's listed range.
+For most renters, the first Ring doorbell we suggest is the [Ring Peephole Cam](amzn:Ring+Peephole+Cam+2K). It unscrews your existing peephole and fits through the same hole, so the door is untouched. From the hallway it looks like an ordinary peephole with a doorbell button, and inside you still get a small viewer. Before ordering, measure your door thickness and peephole diameter against Ring's listed range.
 
 ### Ring Battery Doorbell: best if you have no peephole
 
-The [Ring Battery Doorbell](amzn:Ring+Battery+Doorbell) runs on a rechargeable battery, so it doesn't need doorbell wiring. It works with Alexa and Ring Alarm, and it's on Ring's compatibility list for the No-Drill Mount. Like every Ring camera, saving clips requires a Ring Home subscription.
+Because it runs on a rechargeable battery, the [Ring Battery Doorbell](amzn:Ring+Battery+Doorbell) doesn't need doorbell wiring. It works with Alexa and Ring Alarm, and it's on Ring's compatibility list for the No-Drill Mount. Like every Ring camera, saving clips requires a Ring Home subscription.
 
 ### Ring No-Drill Mount: best renter accessory
 
-The [Ring No-Drill Mount](amzn:Ring+No-Drill+Mount+battery+doorbell) is Ring's own adhesive bracket for its battery doorbells. Ring says it works best on smooth, even surfaces and advises against brick, shingles and rough stucco. We'd test the spot with a clean, dry cloth first and let the adhesive cure before mounting the doorbell.
+Ring makes its own adhesive bracket for its battery doorbells: the [Ring No-Drill Mount](amzn:Ring+No-Drill+Mount+battery+doorbell). The company says it works best on smooth, even surfaces and advises against brick, shingles and rough stucco. We'd test the spot with a clean, dry cloth first and let the adhesive cure before mounting the doorbell.
 
 ## Do you need a subscription?
 
@@ -353,7 +353,7 @@ The [Ring No-Drill Mount](amzn:Ring+No-Drill+Mount+battery+doorbell) is Ring's o
 
 ## Hallway privacy and neighbors
 
-**Point your Ring doorbell at your own doorway and use motion settings so it doesn't record neighbors' doors all day.** Shared hallways are the main reason buildings push back on doorbell cameras.
+**Point your Ring doorbell at your own doorway and use motion settings so it doesn't record neighbors' doors all day.** Shared hallways are the main reason buildings push back on doorbell cameras, and the same courtesy applies to every device in our [cameras and security guides for renters](/category/security/).
 
 Our habits for a neighbor-friendly setup:
 

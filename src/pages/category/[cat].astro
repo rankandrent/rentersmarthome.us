@@ -12,6 +12,9 @@ export async function getStaticPaths() {
   }));
 }
 const { category, posts } = Astro.props;
+// Evergreen buying guide per category (src/content/category-guides/<slug>.md), shown only when the category has posts.
+const guides = import.meta.glob<{ Content: any }>('../../content/category-guides/*.md', { eager: true });
+const Guide = posts.length ? guides[`../../content/category-guides/${category.slug}.md`]?.Content : undefined;
 const jsonLd = [{
   '@context': 'https://schema.org',
   '@type': 'CollectionPage',
@@ -40,5 +43,6 @@ const jsonLd = [{
       <p class="dek">{category.blurb}</p>
     </header>
     {posts.length ? <div class="posts">{posts.map((p) => <PostItem post={p} />)}</div> : <p class="empty">Guides for this category are being researched right now.</p>}
+    {Guide && <section class="category-guide prose"><Guide /></section>}
   </div>
 </Base>

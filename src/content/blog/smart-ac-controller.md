@@ -270,7 +270,7 @@ related:
 
 An AC remote that lives on Wi-Fi is the easiest climate upgrade a renter can make. **The best smart AC controller for most renters is the Cielo Breez Max, because it works with window, portable and mini split units that have an infrared remote, and it needs no wiring or landlord approval.** If your apartment has a remote-controlled AC, you can make it smart in about ten minutes.
 
-We like smart AC controllers because they solve a problem renters actually have: the thermostat belongs to the building, but the AC remote is in your hand. In this guide I'll explain how they work, how to check compatibility and which three we'd buy. If you can control your thermostat, read [can I install a smart thermostat in my apartment](/blog/smart-thermostat-in-apartment/) first.
+We like smart AC controllers because they solve a problem renters actually have: the thermostat belongs to the building, but the AC remote is in your hand. In this guide we explain how they work, how to check compatibility and which three we'd buy. If you can control your thermostat, read [our guide to installing a smart thermostat in an apartment](/blog/smart-thermostat-in-apartment/) first.
 
 ## What a smart AC controller does
 
@@ -308,15 +308,15 @@ With one in place you can:
 
 ### Cielo Breez Max: best overall
 
-The [Cielo Breez Max](amzn:Cielo+Breez+Max+smart+AC+controller) is the controller we'd put in most apartments. Cielo lists it for mini-split, window and portable units that come with an IR remote. You get 7-day schedules, geofencing and groups for controlling more than one unit, plus touch controls on the device for roommates who don't want the app.
+In most apartments, the controller we'd reach for is the [Cielo Breez Max](amzn:Cielo+Breez+Max+smart+AC+controller). Cielo lists it for mini-split, window and portable units that come with an IR remote. You get 7-day schedules, geofencing and groups for controlling more than one unit, plus touch controls on the device for roommates who don't want the app.
 
 ### Sensibo Air Pro: best for smart-home fans
 
-The [Sensibo Air Pro](amzn:Sensibo+Air+Pro+smart+AC+controller) is the one to choose if you love automations. Its Climate React feature turns the AC on when the room crosses a temperature you set, and the built-in sensor tracks temperature, humidity and air quality. Sensibo's spec sheet lists window, split, portable and other remote-controlled units, and it connects over 2.4GHz Wi-Fi.
+If you love automations, choose the [Sensibo Air Pro](amzn:Sensibo+Air+Pro+smart+AC+controller). Its Climate React feature turns the AC on when the room crosses a temperature you set, and the built-in sensor tracks temperature, humidity and air quality. Sensibo's spec sheet lists window, split, portable and other remote-controlled units, and it connects over 2.4GHz Wi-Fi.
 
 ### Cielo Breez Lite: best budget pick
 
-The [Cielo Breez Lite](amzn:Cielo+Breez+Lite+smart+AC+controller) covers the basics for less: app control, schedules and no wiring. If you just want the AC cooling the bedroom before you get home, this mini split smart controller alternative is all you need.
+For less money, the [Cielo Breez Lite](amzn:Cielo+Breez+Lite+smart+AC+controller) covers the basics: app control, schedules and no wiring. If you just want the AC cooling the bedroom before you get home, this mini split smart controller alternative is all you need.
 
 ## Setting it up in an apartment
 
@@ -344,7 +344,7 @@ Use removable adhesive strips if you mount it on the wall, and peel them slowly 
 
 **A controller is usually fine on a landlord-owned mini split, because it only sends the same infrared commands as the remote.** It doesn't open the unit, change settings in the wall or touch wiring. We'd still mention it to your landlord if the unit serves more than one apartment, and we'd keep the original remote in a drawer so it's there at move-out.
 
-If your AC has no remote at all, a controller can't help. In that case look at a smart plug for a fan instead; our [Matter smart plug guide](/blog/best-matter-smart-plugs/) covers plugs that handle schedules well.
+If your AC has no remote at all, a controller can't help. In that case look at a smart plug for a fan instead; our [Matter smart plug guide](/blog/best-matter-smart-plugs/) covers plugs that handle schedules well, and our list of [ways to cool an apartment without AC](/blog/how-to-cool-apartment-without-ac/) has more no-wiring ideas. You'll find every cooling and heating guide in our [heating and cooling section](/category/climate/).
 
 ## Do you need a subscription?
 

@@ -388,7 +388,7 @@ The [Kasa Smart Plug Mini with Matter](amzn:Kasa+Smart+Plug+Mini+Matter+KP125M) 
 
 **Smart bulbs turn existing light fixtures into dimmable, color-tunable, schedulable lights.** Unscrew the landlord's bulbs, keep them in a labeled drawer, and screw in smart bulbs. When you move, swap them back.
 
-The [Philips Hue starter kit](amzn:Philips+Hue+White+and+Color+Ambiance+Starter+Kit) is the most reliable smart lighting system thanks to the Hue Bridge, and Hue's battery-powered dimmer switches stick to the wall with adhesive. For a cheaper Wi-Fi option, look at Matter-compatible bulbs from brands like WiZ or Govee.
+The [Philips Hue starter kit](amzn:Philips+Hue+White+and+Color+Ambiance+Starter+Kit) is the most reliable smart lighting system thanks to the Hue Bridge, and Hue's battery-powered dimmer switches stick to the wall with adhesive. For a cheaper Wi-Fi option, look at Matter-compatible bulbs from brands like WiZ or Govee; our [Philips Hue vs WiZ comparison](/blog/philips-hue-vs-wiz/) explains the hub versus no-hub trade-off.
 
 If your apartment's light switches control ceiling fixtures, a stick-on smart switch or the [SwitchBot Bot](amzn:SwitchBot+Bot), a small robot that physically presses the existing switch, keeps the wall wiring untouched.
 
@@ -416,7 +416,7 @@ Replacing a wall thermostat is different: it touches HVAC wiring, so ask your la
 | Google Home | Use Android and want Nest cameras or displays | Nest hubs act as Thread border routers |
 | Apple Home | Use iPhone and value privacy | Apple TV and HomePod run automations locally |
 
-Whichever voice assistant you choose, prioritize **Matter** devices. Matter is the cross-platform smart home standard backed by Amazon, Google, Apple and Samsung, so a Matter smart plug or lock works with all of them. **Thread**, a low-power mesh network used by many Matter devices, makes battery sensors and locks faster and more reliable.
+If you haven't picked one yet, our [Alexa vs Google Home comparison](/blog/alexa-vs-google-home/) walks through the choice. Whichever voice assistant you choose, prioritize **Matter** devices. Matter is the cross-platform smart home standard backed by Amazon, Google, Apple and Samsung, so a Matter smart plug or lock works with all of them. **Thread**, a low-power mesh network used by many Matter devices, makes battery sensors and locks faster and more reliable.
 
 ## What to ask your landlord (and what you can skip)
 
