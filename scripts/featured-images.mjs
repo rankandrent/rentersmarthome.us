@@ -105,7 +105,7 @@ export async function renderPageImages() {
   const dir = path.join(ROOT, 'public/images/og');
   const pages = [
     { slug: 'home', title: 'Smart home gear your lease already allows', kicker: SITE.tagline ? 'Renter-friendly smart home' : 'RenterSmartHome', label: 'No drilling', iconName: 'home' },
-    { slug: 'renter-checklist', title: `The ${SITE.name} Checklist: smart home setup for renters`, kicker: 'Free renter tool', label: 'Checklist', iconName: 'check' },
+    { slug: 'renter-checklist', title: `The ${SITE.name} Checklist – smart home setup for renters`, kicker: 'Free renter tool', label: 'Checklist', iconName: 'check' },
     { slug: 'blog', title: 'Every renter-friendly smart home guide', kicker: 'All guides', label: 'Guides', iconName: 'home' },
     ...SITE.categories.map((c) => ({ slug: `category-${c.slug}`, title: `${c.name} for renters`, kicker: c.name, category: c.slug, label: 'Category' })),
   ];
