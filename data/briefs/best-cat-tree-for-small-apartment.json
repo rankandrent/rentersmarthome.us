@@ -1,0 +1,137 @@
+{
+  "centralEntity": "cat tree for small apartment",
+  "entityVariants": [
+    "cat tree for a small apartment",
+    "cat trees for small apartments",
+    "cat tree for small spaces",
+    "small cat tree",
+    "small-space cat tree",
+    "compact cat tree",
+    "apartment cat tree"
+  ],
+  "entities": [
+    { "name": "cat tree", "type": "product type", "relation": "the central product category" },
+    { "name": "cat tower", "type": "product type", "relation": "synonym for a tall cat tree" },
+    { "name": "footprint", "type": "attribute", "relation": "floor area the base takes up, the main constraint in a small apartment" },
+    { "name": "base", "type": "part", "relation": "determines stability and floor space" },
+    { "name": "perch", "type": "part", "relation": "platform where the cat sits; size decides whether it gets used" },
+    { "name": "sisal", "type": "material", "relation": "common scratching-post wrap" },
+    { "name": "seagrass", "type": "material", "relation": "scratching-post wrap used on the Catit Vesper" },
+    { "name": "anti-tip strap", "type": "hardware", "relation": "anchors a tall cat tree to the wall; needs a screw and landlord OK" },
+    { "name": "wall stud", "type": "building element", "relation": "where an anti-tip strap screw should go" },
+    { "name": "window perch", "type": "product type", "relation": "zero-footprint alternative or companion to a cat tree" },
+    { "name": "New Cat Condos", "type": "brand", "relation": "US maker of the Premier Triple Cat Perch" },
+    { "name": "Mau", "type": "brand", "relation": "maker of the Cento modern cat tree" },
+    { "name": "Catit Vesper", "type": "product line", "relation": "modern laminated cat furniture line including the High Base" },
+    { "name": "security deposit", "type": "lease concept", "relation": "what renters protect when they avoid wall damage" },
+    { "name": "lease", "type": "lease concept", "relation": "sets rules for wall holes and pets" }
+  ],
+  "attributes": [
+    "base footprint in inches",
+    "height versus ceiling height",
+    "perch size",
+    "stability without wall anchoring",
+    "weight capacity",
+    "scratching surface material",
+    "assembly",
+    "washable cushions",
+    "replaceable parts",
+    "looks in a living room"
+  ],
+  "ngrams": [
+    "small apartment",
+    "small spaces",
+    "cat tree",
+    "base footprint",
+    "floor space",
+    "vertical space",
+    "scratching posts",
+    "wall strap",
+    "tall and narrow",
+    "top perch",
+    "weight capacity",
+    "washable cushions"
+  ],
+  "skipgrams": [
+    "base…footprint",
+    "cat…perch",
+    "wall…strap",
+    "scratching…posts",
+    "ceiling…height",
+    "floor…space"
+  ],
+  "nlpTerms": [
+    "sturdy",
+    "wobble",
+    "stable",
+    "corner",
+    "window",
+    "carpet",
+    "sisal",
+    "seagrass",
+    "laminate",
+    "solid wood",
+    "assembly",
+    "hammock",
+    "condo",
+    "cube",
+    "kitten",
+    "senior cat",
+    "large cat",
+    "landlord",
+    "deposit",
+    "move-out"
+  ],
+  "questions": [
+    "What is the best cat tree for a small apartment?",
+    "How much floor space does a cat tree take?",
+    "Is a tall or a short cat tree better for a small apartment?",
+    "Do I need to anchor a cat tree to the wall?",
+    "Can I anchor a cat tree in a rental without losing my deposit?",
+    "Where should I put a cat tree in a small apartment?"
+  ],
+  "contentGaps": [
+    "Renter-specific anchoring: freestanding first, anti-tip strap only with written landlord OK, patching the hole on move-out",
+    "Exact base footprint of each pick in inches and square feet",
+    "Moving day: which trees ship assembled and which break down",
+    "Measuring ceiling height and the corner before ordering",
+    "Owner complaints summarized (shedding seagrass, high baskets, small top perch)"
+  ],
+  "outline": [
+    { "h2": "The best cat tree for a small apartment, in short", "intent": "direct answer and picks", "h3": [] },
+    { "h2": "Our picks for cat trees for small spaces", "intent": "product reviews", "h3": ["New Cat Condos Premier Triple Cat Perch: best overall", "Mau Cento Modern Cat Tree: best looking", "Catit Vesper High Base: tallest on a small base"] },
+    { "h2": "Small cat tree comparison", "intent": "compare footprint, height, assembly", "h3": [] },
+    { "h2": "How to choose a cat tree for a small apartment", "intent": "buying guide", "h3": ["Measure the footprint, not the box", "Tall and narrow or short and wide", "Perch size and weight capacity", "Scratching surfaces"] },
+    { "h2": "Where to put a small-space cat tree", "intent": "placement", "h3": [] },
+    { "h2": "Anchoring a cat tree in a rental", "intent": "landlord and move-out", "h3": [] },
+    { "h2": "Which small cat tree should you choose?", "intent": "verdict", "h3": [] }
+  ],
+  "targetWords": 2450,
+  "serpProducts": [
+    { "name": "Mau Cento Modern Cat Tree", "pages": ["https://brainsreport.com/review/best-cat-trees/", "https://www.wired.com/story/fancy-cat-furniture/"] },
+    { "name": "Catit Vesper High Base", "pages": ["https://brainsreport.com/review/best-cat-trees/", "https://www.wired.com/story/fancy-cat-furniture/"] },
+    { "name": "New Cat Condos Premier Triple Cat Perch", "pages": ["https://brainsreport.com/review/best-cat-trees/", "https://www.nytimes.com/wirecutter/reviews/best-cat-trees/"] },
+    { "name": "Hey-brother Cat Tree MPJ006SW (dropped: no non-Amazon owner reviews found)", "pages": ["https://brainsreport.com/review/best-cat-trees/", "https://cats.com/reviews/best-cat-trees"] },
+    { "name": "EliteField 40-in Faux Fur Cat Tree (dropped: no Amazon US listing, Chewy only)", "pages": ["https://cats.com/reviews/best-cat-trees", "https://www.nytimes.com/wirecutter/reviews/best-cat-trees/"] }
+  ],
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://kittyclysm.com/narrow-cat-trees/",
+      "https://www.nytimes.com/wirecutter/reviews/best-cat-trees/",
+      "https://brainsreport.com/review/best-cat-trees/",
+      "https://www.wired.com/story/fancy-cat-furniture/",
+      "https://cats.com/reviews/best-cat-trees",
+      "https://petsperfect.com/blogs/cats/cat-trees-for-small-apartments",
+      "https://www.webvet.com/small-cat-trees/",
+      "https://www.quora.com/Whats-the-best-cat-tree-for-a-small-apartment"
+    ],
+    "productStyle": "specs",
+    "productStyleReason": "The small-space results lead with dimensions: Brains Report and Cats.com give each tree a spec list (footprint, height, weight capacity, materials) before the write-up, and Kittyclysm puts footprint and height next to every pick.",
+    "avgWords": 2170,
+    "avgProducts": 7,
+    "commonSections": ["product picks", "dimensions per product", "buying guide / what to measure", "placement and stability", "FAQ"],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true
+  }
+}

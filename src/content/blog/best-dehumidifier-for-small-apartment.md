@@ -406,6 +406,7 @@ heroAlt: >-
   Best Dehumidifier for Small Apartment Living: 6 Renter Picks: RenterSmartHome
   buying guide
 related:
+  - best-cat-tree-for-small-apartment
   - best-litter-box-for-small-apartment
 ---
 

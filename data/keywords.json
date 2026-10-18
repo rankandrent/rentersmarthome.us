@@ -3180,7 +3180,7 @@
     "publishedAt": "2026-10-18T13:08:50.073Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-14T08:48:40.168Z",
     "secondaryKeywords": [],
@@ -3203,7 +3203,8 @@
       "parentTopic": "small cat tree",
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
-    }
+    },
+    "publishedAt": "2026-10-18T13:12:50.002Z"
   },
   {
     "status": "pending",

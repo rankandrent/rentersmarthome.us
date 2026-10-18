@@ -1,0 +1,16 @@
+{
+  "slug": "best-cat-tree-for-small-apartment",
+  "pass": true,
+  "checkedAt": "2026-10-18T13:12:26.168Z",
+  "errors": [],
+  "warnings": [
+    "product \"New Cat Condos Premier Triple Cat Perch\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Mau Cento Modern Cat Tree\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Catit Vesper High Base\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified against sources: New Cat Condos Premier Triple Cat Perch 20x20x32 in, 33 lb, solid wood/carpet/unoiled sisal, ships fully assembled, made in USA (Amazon B00VBBPKEI listing + newcatcondos.com product page; 10 owner reviews read there); Wirecutter snippet recommends it for a shorter tree with big perches and as a former top pick; Brains Report names it best for senior cats. Mau Cento 23.5x18x46 in and 23 lb limit (Amazon B07X1TKTN2 listing, matches Brains Report Cento specs), materials and ~40 min assembly (Reviewed), machine-washable cushions and replaceable parts (Chewy, 10 owner reviews read), no lead/cadmium/formaldehyde detected per Mau test results (Wired), high price (Brains Report, Wired). Catit Vesper High Base 52045 22.1x22.1x47.9 in (Amazon B00SOTG05S, matches Brains Report), four levels (Brains Report), laminated MDF, memory foam cushions, cube with two entrances, seagrass posts (The Dodo, Costco), owner praise/complaints from Costco (8), Dodo (3), REVIEWS.io (5). Placement and sizing guidance (16-20 in base = 1.8-2.8 sq ft, 50-72 in for 96 in ceilings, 12 in top perch, shove test, wall strap for launches) from Pets Perfect. Footprints computed from listed dimensions. No prices, star ratings or testing claims. Dropped Hey-brother MPJ006SW (no non-Amazon owner reviews) and EliteField 40-in (no Amazon US listing).",
+    "at": "2026-10-18T13:12:25.777Z"
+  }
+}

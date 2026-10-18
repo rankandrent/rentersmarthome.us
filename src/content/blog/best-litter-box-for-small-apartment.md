@@ -442,6 +442,7 @@ heroAlt: >-
   Best Litter Box for Small Apartment Living (2026): 7 Picks: RenterSmartHome
   buying guide
 related:
+  - best-cat-tree-for-small-apartment
   - best-heavy-duty-adhesive-hooks-for-renters
   - best-wireless-security-cameras-for-apartments
   - smart-home-for-renters
