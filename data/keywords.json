@@ -28,8 +28,11 @@
     "addedAt": "2026-10-13T00:00:00.000Z",
     "ahrefs": {
       "volume": 1600,
-      "kd": 15,
-      "trafficPotential": 4600
+      "kd": 11,
+      "trafficPotential": 3500,
+      "parentTopic": "apartment security system",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
     },
     "funnel": "bofu",
     "lastError": "volume 1600 > 250 cap (long-tail rule)"
@@ -60,7 +63,10 @@
     "ahrefs": {
       "volume": 1300,
       "kd": 2,
-      "trafficPotential": 800
+      "trafficPotential": 800,
+      "parentTopic": "alexa vs google home",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
     },
     "publishedAt": "2026-10-13T19:59:22.757Z",
     "funnel": "mofu"
@@ -91,7 +97,10 @@
     "ahrefs": {
       "volume": 70,
       "kd": 7,
-      "trafficPotential": 1100
+      "trafficPotential": 1100,
+      "parentTopic": "best indoor security camera without subscription",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
     },
     "funnel": "bofu",
     "mergedInto": "best-wireless-security-cameras-for-apartments",
@@ -156,7 +165,10 @@
     "ahrefs": {
       "volume": 900,
       "kd": 0,
-      "trafficPotential": 500
+      "trafficPotential": 500,
+      "parentTopic": "apartment doorbell camera",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
     },
     "funnel": "bofu",
     "lastError": "volume 900 > 250 cap (long-tail rule)"
@@ -188,7 +200,10 @@
     "ahrefs": {
       "volume": 1000,
       "kd": 0,
-      "trafficPotential": 20
+      "trafficPotential": 20,
+      "parentTopic": "smart heaters",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
     },
     "funnel": "bofu",
     "lastError": "volume 1000 > 250 cap (long-tail rule)"
@@ -219,7 +234,10 @@
     "ahrefs": {
       "volume": 200,
       "kd": 4,
-      "trafficPotential": 70
+      "trafficPotential": 70,
+      "parentTopic": "smart home starter kit",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
     },
     "funnel": "bofu"
   },
@@ -250,7 +268,10 @@
     "ahrefs": {
       "volume": 30,
       "kd": 0,
-      "trafficPotential": 60
+      "trafficPotential": 60,
+      "parentTopic": "smart mini split controller",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
     },
     "funnel": "bofu",
     "mergedInto": "smart ac controller (queued)"
@@ -282,7 +303,10 @@
     "ahrefs": {
       "volume": 20,
       "kd": 1,
-      "trafficPotential": 60
+      "trafficPotential": 60,
+      "parentTopic": "smart light switch no wiring",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
     },
     "funnel": "bofu"
   },
@@ -307,10 +331,16 @@
     "priority": 6,
     "rationale": "renter lighting cluster",
     "slug": "smart-bulbs-for-apartment",
-    "status": "pending",
+    "status": "needs-data",
     "attempts": 0,
     "addedAt": "2026-10-13T00:00:00.000Z",
-    "funnel": "bofu"
+    "funnel": "bofu",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    },
+    "lastError": "not in Ahrefs database: record a proxy (closest broader keyword with real volume and a matching SERP) via set-ahrefs, or drop it"
   },
   {
     "keyword": "can i install a smart thermostat in my apartment",
@@ -337,9 +367,12 @@
     "attempts": 0,
     "addedAt": "2026-10-13T00:00:00.000Z",
     "ahrefs": {
-      "volume": 200,
+      "volume": 80,
       "kd": 0,
-      "trafficPotential": 200
+      "trafficPotential": 250,
+      "parentTopic": "can i install a smart thermostat in my apartment",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
     },
     "funnel": "tofu",
     "publishedAt": "2026-10-13T20:25:30.539Z"
@@ -369,7 +402,12 @@
     "addedAt": "2026-10-13T00:00:00.000Z",
     "funnel": "tofu",
     "mergedInto": "best-smart-lock-for-renters",
-    "lastError": "cannibalization: \"how to install a smart lock in an apartment\" overlaps \"best smart lock for renters\" (100%)"
+    "lastError": "cannibalization: \"how to install a smart lock in an apartment\" overlaps \"best smart lock for renters\" (100%)",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "keyword": "no drill motorized blinds",
@@ -400,7 +438,10 @@
     "ahrefs": {
       "volume": 200,
       "kd": 0,
-      "trafficPotential": 30
+      "trafficPotential": 30,
+      "parentTopic": "no drill motorized blinds",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
     },
     "publishedAt": "2026-10-13T20:05:36.376Z"
   },
@@ -424,10 +465,16 @@
     "priority": 5,
     "rationale": "information gain topic",
     "slug": "how-to-move-your-smart-home-to-a-new-apartment",
-    "status": "pending",
+    "status": "needs-data",
     "attempts": 0,
     "addedAt": "2026-10-13T00:00:00.000Z",
-    "funnel": "tofu"
+    "funnel": "tofu",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    },
+    "lastError": "not in Ahrefs database: record a proxy (closest broader keyword with real volume and a matching SERP) via set-ahrefs, or drop it"
   },
   {
     "keyword": "apartment security camera",
@@ -456,7 +503,10 @@
     "ahrefs": {
       "volume": 350,
       "kd": 1,
-      "trafficPotential": 500
+      "trafficPotential": 500,
+      "parentTopic": "security cameras for apartments",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
     },
     "funnel": "bofu",
     "lastError": "volume 350 > 250 cap (long-tail rule)"
@@ -487,7 +537,10 @@
     "ahrefs": {
       "volume": 800,
       "kd": 1,
-      "trafficPotential": 350
+      "trafficPotential": 350,
+      "parentTopic": "locked out of apartment how to get in",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
     },
     "funnel": "tofu",
     "lastError": "volume 800 > 250 cap (long-tail rule)"
@@ -520,7 +573,10 @@
     "ahrefs": {
       "volume": 700,
       "kd": 0,
-      "trafficPotential": 250
+      "trafficPotential": 250,
+      "parentTopic": "building access control system",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
     },
     "funnel": "mofu",
     "lastError": "volume 700 > 250 cap (long-tail rule)"
@@ -552,7 +608,10 @@
     "ahrefs": {
       "volume": 300,
       "kd": 0,
-      "trafficPotential": 800
+      "trafficPotential": 800,
+      "parentTopic": "dorm lights",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
     },
     "funnel": "bofu",
     "lastError": "volume 300 > 250 cap (long-tail rule)"
@@ -584,7 +643,10 @@
     "ahrefs": {
       "volume": 200,
       "kd": 0,
-      "trafficPotential": 250
+      "trafficPotential": 250,
+      "parentTopic": "apartment lighting ideas",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
     },
     "funnel": "tofu",
     "mergedInto": "smart-home-for-renters",
@@ -616,7 +678,10 @@
     "ahrefs": {
       "volume": 300,
       "kd": 0,
-      "trafficPotential": 50
+      "trafficPotential": 50,
+      "parentTopic": "is it legal to put a camera outside your apartment",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
     },
     "funnel": "tofu",
     "lastError": "volume 300 > 250 cap (long-tail rule)"
@@ -648,7 +713,10 @@
     "ahrefs": {
       "volume": 150,
       "kd": 0,
-      "trafficPotential": 1700
+      "trafficPotential": 1700,
+      "parentTopic": "who owns blink",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
     },
     "slug": "blink-vs-ring-subscription",
     "publishedAt": "2026-10-13T20:19:05.274Z"
@@ -678,7 +746,10 @@
     "ahrefs": {
       "volume": 400,
       "kd": 0,
-      "trafficPotential": 300
+      "trafficPotential": 300,
+      "parentTopic": "kasa vs tapo",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
     },
     "slug": "kasa-vs-tapo",
     "lastError": "volume 400 > 250 cap; variants only 10-20/mo"
@@ -708,7 +779,10 @@
     "ahrefs": {
       "volume": 400,
       "kd": 0,
-      "trafficPotential": 250
+      "trafficPotential": 250,
+      "parentTopic": "matter vs zigbee",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
     },
     "slug": "matter-vs-zigbee",
     "lastError": "volume 400 > 250 cap (long-tail rule)"
@@ -737,7 +811,10 @@
     "ahrefs": {
       "volume": 400,
       "kd": 3,
-      "trafficPotential": 1900
+      "trafficPotential": 1900,
+      "parentTopic": "ring vs nest",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
     },
     "slug": "ring-vs-nest-doorbell",
     "lastError": "volume 400 > 250 cap (long-tail rule)"
@@ -766,7 +843,10 @@
     "ahrefs": {
       "volume": 350,
       "kd": 1,
-      "trafficPotential": 400
+      "trafficPotential": 400,
+      "parentTopic": "wyze vs blink",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
     },
     "slug": "wyze-vs-blink",
     "lastError": "volume 350 > 250 cap (long-tail rule)"
@@ -795,7 +875,10 @@
     "ahrefs": {
       "volume": 200,
       "kd": 0,
-      "trafficPotential": 200
+      "trafficPotential": 200,
+      "parentTopic": "philips hue vs wiz",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
     },
     "slug": "philips-hue-vs-wiz",
     "publishedAt": "2026-10-13T20:25:31.830Z"
@@ -827,7 +910,9 @@
       "volume": 150,
       "kd": 0,
       "trafficPotential": 100,
-      "parentTopic": "are ring cameras allowed in apartments"
+      "parentTopic": "are ring cameras allowed in apartments",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
     },
     "slug": "ring-doorbell-in-apartment",
     "publishedAt": "2026-10-13T20:25:29.876Z"
@@ -860,7 +945,9 @@
       "volume": 250,
       "kd": 0,
       "trafficPotential": 350,
-      "parentTopic": "smart ac controller"
+      "parentTopic": "smart ac controller",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
     },
     "slug": "smart-ac-controller",
     "publishedAt": "2026-10-13T20:25:31.190Z"
@@ -892,7 +979,9 @@
       "volume": 200,
       "kd": 1,
       "trafficPotential": 5800,
-      "parentTopic": "apartment security"
+      "parentTopic": "apartment security",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
     },
     "slug": "alarm-system-for-apartment-renters"
   },
@@ -921,7 +1010,9 @@
       "volume": 150,
       "kd": 0,
       "trafficPotential": 100,
-      "parentTopic": "can my landlord have cameras outside my house"
+      "parentTopic": "can my landlord have cameras outside my house",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
     },
     "slug": "can-a-landlord-put-cameras-outside-the-house"
   },
@@ -942,7 +1033,12 @@
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
     "slug": "best-video-doorbell-without-subscription-for-renters",
-    "publishedAt": "2026-10-14T12:41:24.526Z"
+    "publishedAt": "2026-10-14T12:41:24.526Z",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -961,7 +1057,12 @@
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
     "duplicateOf": "best-smart-lock-for-renters",
-    "slug": "best-smart-door-lock-for-apartment-renters"
+    "slug": "best-smart-door-lock-for-apartment-renters",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -979,7 +1080,12 @@
     "cluster": "security",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-indoor-security-camera-for-renters-no-drilling"
+    "slug": "best-indoor-security-camera-for-renters-no-drilling",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "published",
@@ -999,7 +1105,12 @@
     "rationale": "user-provided keyword list (2026-10-14)",
     "slug": "best-smart-smoke-detector-for-apartments",
     "productCount": 3,
-    "publishedAt": "2026-10-16T13:09:59.021Z"
+    "publishedAt": "2026-10-16T13:09:59.021Z",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "published",
@@ -1019,7 +1130,12 @@
     "rationale": "user-provided keyword list (2026-10-14)",
     "slug": "best-water-leak-sensor-for-renters",
     "productCount": 6,
-    "publishedAt": "2026-10-17T13:00:47.925Z"
+    "publishedAt": "2026-10-17T13:00:47.925Z",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1038,7 +1154,12 @@
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
     "duplicateOf": "blink-vs-ring-subscription",
-    "slug": "ring-vs-blink-for-apartment-renters"
+    "slug": "ring-vs-blink-for-apartment-renters",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1057,7 +1178,12 @@
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
     "duplicateOf": "best-matter-smart-plugs",
-    "slug": "best-smart-plug-for-renters"
+    "slug": "best-smart-plug-for-renters",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "published",
@@ -1076,7 +1202,12 @@
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
     "slug": "best-voice-assistant-speaker-for-small-apartments",
-    "publishedAt": "2026-10-14T08:49:59.059Z"
+    "publishedAt": "2026-10-14T08:49:59.059Z",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1095,7 +1226,12 @@
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
     "duplicateOf": "smart-home-for-renters",
-    "slug": "how-to-make-apartment-smart-without-drilling"
+    "slug": "how-to-make-apartment-smart-without-drilling",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1114,7 +1250,12 @@
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
     "duplicateOf": "smart-thermostat-in-apartment",
-    "slug": "best-smart-thermostat-for-renters-no-wiring"
+    "slug": "best-smart-thermostat-for-renters-no-wiring",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1134,7 +1275,12 @@
     "rationale": "user-provided keyword list (2026-10-14)",
     "slug": "best-apartment-intercom-buzzer-alternative",
     "productCount": 4,
-    "note": "2026-10-17: skipped, too few Amazon-listed retrofit products in the SERP (only Ring Intercom)"
+    "note": "2026-10-17: skipped, too few Amazon-listed retrofit products in the SERP (only Ring Intercom)",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1152,7 +1298,12 @@
     "cluster": "security",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "eufy-vs-wyze-video-doorbell-for-renters"
+    "slug": "eufy-vs-wyze-video-doorbell-for-renters",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1172,7 +1323,12 @@
     "rationale": "user-provided keyword list (2026-10-14)",
     "slug": "best-no-drill-mailbox-lock-for-apartment-renters",
     "productCount": 4,
-    "note": "2026-10-17: skipped, no no-drill mailbox lock recommended by 2+ top-10 pages; USPS/landlord own cluster box locks. Consider a guide \"can a renter change an apartment mailbox lock\"."
+    "note": "2026-10-17: skipped, no no-drill mailbox lock recommended by 2+ top-10 pages; USPS/landlord own cluster box locks. Consider a guide \"can a renter change an apartment mailbox lock\".",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "published",
@@ -1192,7 +1348,12 @@
     "rationale": "user-provided keyword list (2026-10-14)",
     "slug": "best-smart-light-bulbs-for-renters",
     "productCount": 7,
-    "publishedAt": "2026-10-17T12:59:18.935Z"
+    "publishedAt": "2026-10-17T12:59:18.935Z",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1212,7 +1373,12 @@
     "rationale": "user-provided keyword list (2026-10-14)",
     "slug": "how-to-secure-sliding-glass-door-in-rental",
     "productCount": 4,
-    "note": "2026-10-17: skipped, top pages recommend methods not models; retry as a method guide or with page access."
+    "note": "2026-10-17: skipped, top pages recommend methods not models; retry as a method guide or with page access.",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "published",
@@ -1231,7 +1397,12 @@
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
     "slug": "best-pressure-mounted-baby-gate-for-renters",
-    "publishedAt": "2026-10-14T12:41:25.169Z"
+    "publishedAt": "2026-10-14T12:41:25.169Z",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1251,7 +1422,12 @@
     "rationale": "user-provided keyword list (2026-10-14)",
     "slug": "best-toilet-lock-for-toddlers-rental-friendly",
     "productCount": 4,
-    "note": "2026-10-17: skipped, only Wappa had 2+ pages; no owner evidence (page fetch blocked)"
+    "note": "2026-10-17: skipped, only Wappa had 2+ pages; no owner evidence (page fetch blocked)",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1271,7 +1447,12 @@
     "rationale": "user-provided keyword list (2026-10-14)",
     "slug": "best-stove-knob-covers-for-renters",
     "productCount": 5,
-    "note": "2026-10-17: skipped, only 2 products with 2+ pages and owner reviews nearly empty"
+    "note": "2026-10-17: skipped, only 2 products with 2+ pages and owner reviews nearly empty",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1291,7 +1472,12 @@
     "rationale": "user-provided keyword list (2026-10-14)",
     "slug": "best-refrigerator-lock-for-toddlers-no-drill",
     "productCount": 4,
-    "note": "2026-10-17: skipped, only EUDEMON on 2 low-quality pages; no owner evidence (page fetch blocked)"
+    "note": "2026-10-17: skipped, only EUDEMON on 2 low-quality pages; no owner evidence (page fetch blocked)",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1309,7 +1495,12 @@
     "cluster": "baby-proofing",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-window-guards-for-toddler-safety-rental"
+    "slug": "best-window-guards-for-toddler-safety-rental",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1329,7 +1520,12 @@
     "rationale": "user-provided keyword list (2026-10-14)",
     "slug": "best-playpen-for-small-apartments",
     "productCount": 5,
-    "note": "2026-10-17: skipped, owner evidence only for Graco; same-domain page evidence (page fetch blocked)"
+    "note": "2026-10-17: skipped, owner evidence only for Graco; same-domain page evidence (page fetch blocked)",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1347,7 +1543,12 @@
     "cluster": "baby-proofing",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "how-to-baby-proof-fireplace-in-rental"
+    "slug": "how-to-baby-proof-fireplace-in-rental",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1365,7 +1566,12 @@
     "cluster": "baby-proofing",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-cord-cover-for-baby-proofing-rental"
+    "slug": "best-cord-cover-for-baby-proofing-rental",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1383,7 +1589,12 @@
     "cluster": "baby-proofing",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-door-pinch-guard-for-toddlers"
+    "slug": "best-door-pinch-guard-for-toddlers",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1401,7 +1612,12 @@
     "cluster": "baby-proofing",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-crib-for-small-apartment-renters"
+    "slug": "best-crib-for-small-apartment-renters",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1419,7 +1635,12 @@
     "cluster": "baby-proofing",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "regalo-vs-summer-infant-baby-gate-for-renters"
+    "slug": "regalo-vs-summer-infant-baby-gate-for-renters",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1455,7 +1676,12 @@
     "cluster": "climate",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-portable-air-conditioner-for-renters"
+    "slug": "best-portable-air-conditioner-for-renters",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1473,7 +1699,12 @@
     "cluster": "climate",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-window-insulation-kit-for-renters"
+    "slug": "best-window-insulation-kit-for-renters",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1491,7 +1722,12 @@
     "cluster": "climate",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-draft-stopper-for-apartment-doors"
+    "slug": "best-draft-stopper-for-apartment-doors",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1509,7 +1745,15 @@
     "cluster": "climate",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-dehumidifier-for-small-apartment"
+    "slug": "best-dehumidifier-for-small-apartment",
+    "ahrefs": {
+      "volume": 60,
+      "kd": 0,
+      "trafficPotential": 94000,
+      "parentTopic": "dehumidifier",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1527,7 +1771,12 @@
     "cluster": "climate",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-air-purifier-for-apartment-renters"
+    "slug": "best-air-purifier-for-apartment-renters",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1545,7 +1794,12 @@
     "cluster": "climate",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-tower-fan-for-small-bedroom-rental"
+    "slug": "best-tower-fan-for-small-bedroom-rental",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1563,7 +1817,12 @@
     "cluster": "climate",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-humidifier-for-dry-apartment-air"
+    "slug": "best-humidifier-for-dry-apartment-air",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "published",
@@ -1582,7 +1841,15 @@
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
     "slug": "how-to-cool-apartment-without-ac",
-    "publishedAt": "2026-10-14T12:41:25.766Z"
+    "publishedAt": "2026-10-14T12:41:25.766Z",
+    "ahrefs": {
+      "volume": 200,
+      "kd": 3,
+      "trafficPotential": 200,
+      "parentTopic": "how to cool apartment without ac",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1600,7 +1867,12 @@
     "cluster": "climate",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-thermal-curtains-for-renters"
+    "slug": "best-thermal-curtains-for-renters",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1618,7 +1890,12 @@
     "cluster": "security",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-window-lock-for-apartment-security"
+    "slug": "best-window-lock-for-apartment-security",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1636,7 +1913,12 @@
     "cluster": "climate",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "portable-ac-vs-window-fan-for-apartments"
+    "slug": "portable-ac-vs-window-fan-for-apartments",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1654,7 +1936,12 @@
     "cluster": "climate",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-smart-air-quality-monitor-for-renters"
+    "slug": "best-smart-air-quality-monitor-for-renters",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1672,7 +1959,12 @@
     "cluster": "kitchen-bath",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-suction-cup-shower-caddy-for-renters"
+    "slug": "best-suction-cup-shower-caddy-for-renters",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1690,7 +1982,12 @@
     "cluster": "kitchen-bath",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-over-door-towel-hook-for-rental-bathroom"
+    "slug": "best-over-door-towel-hook-for-rental-bathroom",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1708,7 +2005,12 @@
     "cluster": "kitchen-bath",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-no-drill-toilet-paper-holder-for-renters"
+    "slug": "best-no-drill-toilet-paper-holder-for-renters",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1726,7 +2028,12 @@
     "cluster": "kitchen-bath",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-adhesive-soap-dispenser-for-rental-bathroom"
+    "slug": "best-adhesive-soap-dispenser-for-rental-bathroom",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1744,7 +2051,12 @@
     "cluster": "kitchen-bath",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-renter-friendly-kitchen-faucet"
+    "slug": "best-renter-friendly-kitchen-faucet",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1762,7 +2074,12 @@
     "cluster": "kitchen-bath",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-under-sink-organizer-for-rental-kitchen"
+    "slug": "best-under-sink-organizer-for-rental-kitchen",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1780,7 +2097,12 @@
     "cluster": "kitchen-bath",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-magnetic-spice-rack-for-renters"
+    "slug": "best-magnetic-spice-rack-for-renters",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1798,7 +2120,12 @@
     "cluster": "kitchen-bath",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-over-the-sink-dish-rack-for-small-rental-kitchen"
+    "slug": "best-over-the-sink-dish-rack-for-small-rental-kitchen",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1818,7 +2145,12 @@
     "rationale": "user-provided keyword list (2026-10-14)",
     "slug": "how-to-organize-small-rental-kitchen-without-drilling",
     "productCount": 5,
-    "note": "2026-10-17: skipped, only 1 product had both an Amazon listing and owner reviews"
+    "note": "2026-10-17: skipped, only 1 product had both an Amazon listing and owner reviews",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1836,7 +2168,12 @@
     "cluster": "kitchen-bath",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-no-drill-paper-towel-holder-for-renters"
+    "slug": "best-no-drill-paper-towel-holder-for-renters",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1854,7 +2191,12 @@
     "cluster": "kitchen-bath",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-shower-head-filter-for-hard-water-apartments"
+    "slug": "best-shower-head-filter-for-hard-water-apartments",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1872,7 +2214,12 @@
     "cluster": "kitchen-bath",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-bathtub-caddy-for-renters"
+    "slug": "best-bathtub-caddy-for-renters",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1890,7 +2237,12 @@
     "cluster": "kitchen-bath",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-kitchen-cart-for-small-apartment"
+    "slug": "best-kitchen-cart-for-small-apartment",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1908,7 +2260,12 @@
     "cluster": "kitchen-bath",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-adhesive-bathroom-mirror-for-renters"
+    "slug": "best-adhesive-bathroom-mirror-for-renters",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1926,7 +2283,12 @@
     "cluster": "kitchen-bath",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "oxo-vs-simplehuman-shower-caddy-for-renters"
+    "slug": "oxo-vs-simplehuman-shower-caddy-for-renters",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "published",
@@ -1945,7 +2307,12 @@
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
     "slug": "best-heavy-duty-adhesive-hooks-for-renters",
-    "publishedAt": "2026-10-14T12:41:26.364Z"
+    "publishedAt": "2026-10-14T12:41:26.364Z",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1963,7 +2330,12 @@
     "cluster": "storage-decor",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-floating-shelves-no-drill-for-renters"
+    "slug": "best-floating-shelves-no-drill-for-renters",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1981,7 +2353,12 @@
     "cluster": "storage-decor",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-over-door-organizer-for-renters"
+    "slug": "best-over-door-organizer-for-renters",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -1999,7 +2376,12 @@
     "cluster": "storage-decor",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-under-bed-storage-for-small-apartments"
+    "slug": "best-under-bed-storage-for-small-apartments",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2017,7 +2399,12 @@
     "cluster": "storage-decor",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-closet-organizer-for-rental-no-drilling"
+    "slug": "best-closet-organizer-for-rental-no-drilling",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2035,7 +2422,12 @@
     "cluster": "storage-decor",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-freestanding-coat-rack-for-renters"
+    "slug": "best-freestanding-coat-rack-for-renters",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2053,7 +2445,12 @@
     "cluster": "storage-decor",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-room-divider-for-studio-apartment"
+    "slug": "best-room-divider-for-studio-apartment",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2071,7 +2468,12 @@
     "cluster": "storage-decor",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "how-to-hang-curtains-without-drilling-in-rental"
+    "slug": "how-to-hang-curtains-without-drilling-in-rental",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2089,7 +2491,12 @@
     "cluster": "storage-decor",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-tension-rod-for-apartment-windows"
+    "slug": "best-tension-rod-for-apartment-windows",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2107,7 +2514,12 @@
     "cluster": "storage-decor",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-shoe-storage-for-small-apartment-entryway"
+    "slug": "best-shoe-storage-for-small-apartment-entryway",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2125,7 +2537,12 @@
     "cluster": "storage-decor",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-no-drill-bookshelf-for-renters"
+    "slug": "best-no-drill-bookshelf-for-renters",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2161,7 +2578,12 @@
     "cluster": "storage-decor",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "command-hooks-vs-monkey-hooks-for-renters"
+    "slug": "command-hooks-vs-monkey-hooks-for-renters",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2179,7 +2601,12 @@
     "cluster": "storage-decor",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-jewelry-organizer-for-small-apartment"
+    "slug": "best-jewelry-organizer-for-small-apartment",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2197,7 +2624,12 @@
     "cluster": "storage-decor",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-laundry-hamper-for-small-apartment"
+    "slug": "best-laundry-hamper-for-small-apartment",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2215,7 +2647,12 @@
     "cluster": "home-office",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-small-desk-for-apartment-bedroom"
+    "slug": "best-small-desk-for-apartment-bedroom",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2251,7 +2688,12 @@
     "cluster": "home-office",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-laptop-desk-for-couch-renters"
+    "slug": "best-laptop-desk-for-couch-renters",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2269,7 +2711,12 @@
     "cluster": "home-office",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-noise-cancelling-headphones-for-thin-walls"
+    "slug": "best-noise-cancelling-headphones-for-thin-walls",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2287,7 +2734,12 @@
     "cluster": "home-office",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-desk-lamp-for-small-apartment-office"
+    "slug": "best-desk-lamp-for-small-apartment-office",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2305,7 +2757,12 @@
     "cluster": "home-office",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-file-organizer-for-small-home-office"
+    "slug": "best-file-organizer-for-small-home-office",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2323,7 +2780,12 @@
     "cluster": "home-office",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "how-to-soundproof-home-office-in-rental"
+    "slug": "how-to-soundproof-home-office-in-rental",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2341,7 +2803,12 @@
     "cluster": "home-office",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-webcam-for-work-from-home-apartment"
+    "slug": "best-webcam-for-work-from-home-apartment",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2359,7 +2826,12 @@
     "cluster": "home-office",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-ring-light-for-small-apartment-desk"
+    "slug": "best-ring-light-for-small-apartment-desk",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2377,7 +2849,12 @@
     "cluster": "home-office",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-printer-for-small-apartment"
+    "slug": "best-printer-for-small-apartment",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2395,7 +2872,12 @@
     "cluster": "lighting",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-battery-operated-wall-sconces-for-renters"
+    "slug": "best-battery-operated-wall-sconces-for-renters",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2413,7 +2895,12 @@
     "cluster": "lighting",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-puck-lights-for-rental-kitchen-cabinets"
+    "slug": "best-puck-lights-for-rental-kitchen-cabinets",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2431,7 +2918,12 @@
     "cluster": "lighting",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-floor-lamp-for-dark-apartment"
+    "slug": "best-floor-lamp-for-dark-apartment",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "published",
@@ -2450,7 +2942,12 @@
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
     "slug": "best-led-strip-lights-for-renters",
-    "publishedAt": "2026-10-14T12:41:26.938Z"
+    "publishedAt": "2026-10-14T12:41:26.938Z",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2468,7 +2965,12 @@
     "cluster": "lighting",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-rechargeable-table-lamp-for-renters"
+    "slug": "best-rechargeable-table-lamp-for-renters",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2486,7 +2988,12 @@
     "cluster": "lighting",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-motion-sensor-night-light-for-hallway"
+    "slug": "best-motion-sensor-night-light-for-hallway",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2504,7 +3011,12 @@
     "cluster": "lighting",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "how-to-add-lighting-to-rental-without-wiring"
+    "slug": "how-to-add-lighting-to-rental-without-wiring",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2522,7 +3034,12 @@
     "cluster": "lighting",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-plug-in-pendant-light-for-renters"
+    "slug": "best-plug-in-pendant-light-for-renters",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2540,7 +3057,12 @@
     "cluster": "lighting",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-stick-on-vanity-lights-for-rental-bathroom"
+    "slug": "best-stick-on-vanity-lights-for-rental-bathroom",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2558,7 +3080,12 @@
     "cluster": "lighting",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "philips-hue-vs-govee-for-renters"
+    "slug": "philips-hue-vs-govee-for-renters",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2576,7 +3103,12 @@
     "cluster": "pets",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-pet-gate-for-renters-no-drill"
+    "slug": "best-pet-gate-for-renters-no-drill",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2594,7 +3126,12 @@
     "cluster": "pets",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-couch-cover-for-apartment-with-dog"
+    "slug": "best-couch-cover-for-apartment-with-dog",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2612,7 +3149,15 @@
     "cluster": "pets",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-litter-box-for-small-apartment"
+    "slug": "best-litter-box-for-small-apartment",
+    "ahrefs": {
+      "volume": 70,
+      "kd": 3,
+      "trafficPotential": 400,
+      "parentTopic": "small litter box",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2630,7 +3175,15 @@
     "cluster": "pets",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-cat-tree-for-small-apartment"
+    "slug": "best-cat-tree-for-small-apartment",
+    "ahrefs": {
+      "volume": 30,
+      "kd": 0,
+      "trafficPotential": 700,
+      "parentTopic": "small cat tree",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2648,7 +3201,12 @@
     "cluster": "pets",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-dog-crate-for-apartment-living"
+    "slug": "best-dog-crate-for-apartment-living",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2666,7 +3224,12 @@
     "cluster": "pets",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-pet-hair-remover-for-rental-furniture"
+    "slug": "best-pet-hair-remover-for-rental-furniture",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2684,7 +3247,12 @@
     "cluster": "pets",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "how-to-protect-rental-carpet-from-pets"
+    "slug": "how-to-protect-rental-carpet-from-pets",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2702,7 +3270,12 @@
     "cluster": "pets",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-window-perch-for-apartment-cats"
+    "slug": "best-window-perch-for-apartment-cats",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2720,7 +3293,12 @@
     "cluster": "pets",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-no-drill-cat-door-for-interior-doors"
+    "slug": "best-no-drill-cat-door-for-interior-doors",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2738,7 +3316,12 @@
     "cluster": "pets",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-odor-eliminator-for-small-apartment-with-pets"
+    "slug": "best-odor-eliminator-for-small-apartment-with-pets",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -2756,7 +3339,12 @@
     "cluster": "pets",
     "source": "user",
     "rationale": "user-provided keyword list (2026-10-14)",
-    "slug": "best-washable-rug-for-renters-with-dogs"
+    "slug": "best-washable-rug-for-renters-with-dogs",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "published",
@@ -2787,7 +3375,15 @@
     "rationale": "restores an old indexed URL",
     "slug": "best-magnetic-stud-finder",
     "productCount": 5,
-    "publishedAt": "2026-10-15T12:48:55.728Z"
+    "publishedAt": "2026-10-15T12:48:55.728Z",
+    "ahrefs": {
+      "volume": 100,
+      "kd": 0,
+      "trafficPotential": 0,
+      "parentTopic": "the best stud finders",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "published",
@@ -2846,7 +3442,12 @@
     ],
     "rationale": "restores an old indexed URL",
     "slug": "how-to-baby-proof-a-rental-without-damage",
-    "publishedAt": "2026-10-15T19:34:54.099Z"
+    "publishedAt": "2026-10-15T19:34:54.099Z",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "published",
@@ -2874,7 +3475,12 @@
     ],
     "rationale": "restores an old indexed URL",
     "slug": "best-magnetic-cabinet-locks-for-renters",
-    "publishedAt": "2026-10-15T19:34:52.813Z"
+    "publishedAt": "2026-10-15T19:34:52.813Z",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "published",
@@ -2902,7 +3508,12 @@
     ],
     "rationale": "restores an old indexed URL",
     "slug": "best-wireless-security-cameras-for-apartments",
-    "publishedAt": "2026-10-15T19:35:51.948Z"
+    "publishedAt": "2026-10-15T19:35:51.948Z",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "published",
@@ -2931,6 +3542,11 @@
     "rationale": "restores an old indexed URL",
     "slug": "wyze-vs-ring-vs-eufy-for-renters",
     "productCount": 3,
-    "publishedAt": "2026-10-16T13:00:34.660Z"
+    "publishedAt": "2026-10-16T13:00:34.660Z",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   }
 ]

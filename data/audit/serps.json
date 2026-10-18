@@ -1,0 +1,3623 @@
+{
+ "collected": "2026-10-18",
+ "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+ "country": "us",
+ "units_spent_serp": 4949,
+ "rentersmarthome_found_in_any_top10": false,
+ "notes": [
+  "Only organic positions requested (type=organic). Position numbers are Ahrefs SERP positions, which count SERP features, so fewer than 10 organic URLs within top_positions=10 is normal.",
+  "inferred_format is a heuristic from URL/title/Ahrefs page_type; review manually before acting.",
+  "Rows with proxy_for are head-term SERPs used because the post primary keyword had no Ahrefs data; they approximate, not equal, the post target SERP.",
+  "google.com/goto URLs are Google redirect links Ahrefs recorded (titles indicate forum threads); excluded from overlap calculation."
+ ],
+ "serps": [
+  {
+   "keyword": "alexa vs google home",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 544,
+   "role": "post primary: alexa-vs-google-home",
+   "organic_results_returned": 7,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "forum/UGC": 3,
+    "comparison": 4
+   },
+   "dominant_format": "comparison",
+   "min_dr_top10": 33,
+   "count_dr_below_40": 1,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.reddit.com/r/googlehome/comments/1gopb0d/google_home_or_alexa/",
+     "title": "Google Home or Alexa? : r/googlehome",
+     "domain_rating": 95,
+     "traffic": 853,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 4,
+     "url": "https://www.facebook.com/groups/AmazonAlexaUsersGroup/posts/2421321738302829/",
+     "title": "Which is better: Alexa or Google? Pros and cons",
+     "domain_rating": 100,
+     "traffic": 583,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 5,
+     "url": "https://www.cnet.com/home/smart-home/ten-years-of-testing-google-nest-amazon-echo-smart-speakers-what-i-like-best/",
+     "title": "After Nearly a Decade of Testing Google Nest and Amazon ...",
+     "domain_rating": 91,
+     "traffic": 534,
+     "ahrefs_page_type": "/Article/Comparisons",
+     "inferred_format": "comparison"
+    },
+    {
+     "position": 6,
+     "url": "https://www.safewise.com/smart-home/google-home-vs-alexa/",
+     "title": "Google Home vs. Alexa: Which Assistant is Best?",
+     "domain_rating": 78,
+     "traffic": 216,
+     "ahrefs_page_type": "/Article/Comparisons",
+     "inferred_format": "comparison"
+    },
+    {
+     "position": 7,
+     "url": "https://www.quora.com/Which-one-s-better-Google-Home-or-Alexa",
+     "title": "Which one's better, Google Home or Alexa?",
+     "domain_rating": 92,
+     "traffic": 146,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 9,
+     "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/alexa-vs-google-home/",
+     "title": "Alexa Versus Google Home 2026 - Forbes Vetted",
+     "domain_rating": 94,
+     "traffic": 97,
+     "ahrefs_page_type": "/Article/Comparisons",
+     "inferred_format": "comparison"
+    },
+    {
+     "position": 10,
+     "url": "https://simpled.uk/google-assistant-vs-alexa/",
+     "title": "Alexa vs Google Home: Best UK Smart Home Ecosystem 2026",
+     "domain_rating": 33,
+     "traffic": 75,
+     "ahrefs_page_type": "/Article/Comparisons",
+     "inferred_format": "comparison"
+    }
+   ]
+  },
+  {
+   "keyword": "best smart lock for renters",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 90,
+   "role": "post primary: best-smart-lock-for-renters",
+   "organic_results_returned": 6,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "forum/UGC": 1,
+    "roundup/review": 4,
+    "category/listing": 1
+   },
+   "dominant_format": "roundup/review",
+   "min_dr_top10": 44,
+   "count_dr_below_40": 0,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.reddit.com/r/homeautomation/comments/1rm2gag/best_renter_friendly_smart_lock/",
+     "title": "Best renter friendly smart lock? : r/homeautomation",
+     "domain_rating": 95,
+     "traffic": 168,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 3,
+     "url": "https://august.com/pages/renters",
+     "title": "Smart Locks for Apartment Renters",
+     "domain_rating": 73,
+     "traffic": 451,
+     "ahrefs_page_type": "/Article/Roundup",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 4,
+     "url": "https://www.cnet.com/home/security/best-smart-locks/",
+     "title": "Best Smart Locks of 2026: Excellent Door Upgrades",
+     "domain_rating": 91,
+     "traffic": 11267,
+     "ahrefs_page_type": "/Article/Roundup",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 6,
+     "url": "https://www.safehome.org/smart-locks/best/",
+     "title": "The Best Smart Locks of 2026",
+     "domain_rating": 75,
+     "traffic": 12568,
+     "ahrefs_page_type": "/Article/Roundup",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 8,
+     "url": "https://treasurevalleysolutions.com/blog/smart-locks-for-short-term-rentals",
+     "title": "8 Best Smart Locks for Short-Term Rentals (2026) | TVS Blog",
+     "domain_rating": 44,
+     "traffic": 23,
+     "ahrefs_page_type": "/Article/Listicle",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 9,
+     "url": "https://www.amazon.com/smart-lock-apartment-door/s?k=smart+lock+for+apartment+door",
+     "title": "Smart Lock For Apartment Door",
+     "domain_rating": 96,
+     "traffic": 137,
+     "ahrefs_page_type": null,
+     "inferred_format": "category/listing"
+    }
+   ]
+  },
+  {
+   "keyword": "best magnetic cabinet locks for renters",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 50,
+   "role": "post primary: best-magnetic-cabinet-locks-for-renters",
+   "organic_results_returned": 0,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {},
+   "dominant_format": "unavailable",
+   "min_dr_top10": null,
+   "count_dr_below_40": 0,
+   "organic": [],
+   "note": "empty SERP: keyword not in Ahrefs database",
+   "status": "unavailable (Ahrefs returned an empty SERP for this keyword)"
+  },
+  {
+   "keyword": "best magnetic stud finder",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 90,
+   "role": "post primary: best-magnetic-stud-finder",
+   "organic_results_returned": 6,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "video": 2,
+    "guide": 1,
+    "forum/UGC": 2,
+    "product": 1
+   },
+   "dominant_format": "video",
+   "min_dr_top10": 36,
+   "count_dr_below_40": 1,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.youtube.com/watch?v=YK6SKZjIk3Y",
+     "title": "Top 5 Stud finder Shoot Out, see in the wall, Walabot, Zircon ...",
+     "domain_rating": 99,
+     "traffic": 41,
+     "ahrefs_page_type": "/Video/Listicle",
+     "inferred_format": "video"
+    },
+    {
+     "position": 3,
+     "url": "https://www.chhanson.com/magnetic-stud-finder.html",
+     "title": "Magnetic Stud Finder - No Batteries, Built-In Level",
+     "domain_rating": 36,
+     "traffic": 332,
+     "ahrefs_page_type": "/Article/Tutorial_or_Guide",
+     "inferred_format": "guide"
+    },
+    {
+     "position": 4,
+     "url": "https://www.reddit.com/r/HomeImprovement/comments/856u3l/best_studfinder/",
+     "title": "Best Studfinder : r/HomeImprovement",
+     "domain_rating": 95,
+     "traffic": 12,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 6,
+     "url": "https://www.youtube.com/watch?v=wNP5JlcLW0I",
+     "title": "The Best Stud Finder I've Ever Used (And It's Not Electronic)",
+     "domain_rating": 99,
+     "traffic": 23,
+     "ahrefs_page_type": "/Video/Product_or_Brand_Review",
+     "inferred_format": "video"
+    },
+    {
+     "position": 8,
+     "url": "https://www.amazon.com/The-StudBuddy-StudBuddy%C2%AE-Magnetic-Finder/dp/B0DCZWTLPY",
+     "title": "The Original StudBuddy Magnetic Stud Finder",
+     "domain_rating": 96,
+     "traffic": 274,
+     "ahrefs_page_type": null,
+     "inferred_format": "product"
+    },
+    {
+     "position": 9,
+     "url": "https://www.reddit.com/r/DIYUK/comments/ru6hbg/any_stud_detectors_that_are_actually_good/",
+     "title": "Any stud detectors that are actually good? : r/DIYUK",
+     "domain_rating": 95,
+     "traffic": 9,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    }
+   ]
+  },
+  {
+   "keyword": "best stud finder for thick walls",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 50,
+   "role": "post primary: best-stud-finder-for-thick-walls",
+   "organic_results_returned": 0,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {},
+   "dominant_format": "unavailable",
+   "min_dr_top10": null,
+   "count_dr_below_40": 0,
+   "organic": [],
+   "note": "empty SERP in Ahrefs",
+   "status": "unavailable (Ahrefs returned an empty SERP for this keyword)"
+  },
+  {
+   "keyword": "blink vs ring subscription",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 120,
+   "role": "post primary: blink-vs-ring-subscription",
+   "organic_results_returned": 8,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "comparison": 4,
+    "forum/UGC": 2,
+    "video": 1,
+    "roundup/review": 1
+   },
+   "dominant_format": "comparison",
+   "min_dr_top10": 17,
+   "count_dr_below_40": 1,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.security.org/security-cameras/blink-vs-ring/",
+     "title": "Blink vs Ring - Which Brand Offers Better Security Cameras?",
+     "domain_rating": 82,
+     "traffic": 2032,
+     "ahrefs_page_type": "/Article/Comparisons",
+     "inferred_format": "comparison"
+    },
+    {
+     "position": 4,
+     "url": "https://www.reddit.com/r/Ring/comments/11mxur1/ring_or_blink/",
+     "title": "Ring or Blink : r/Ring",
+     "domain_rating": 95,
+     "traffic": 1881,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 5,
+     "url": "https://www.safehome.org/compare/ring-vs-blink/",
+     "title": "Ring vs Blink Security Camera Systems",
+     "domain_rating": 75,
+     "traffic": 1428,
+     "ahrefs_page_type": "/Article/Comparisons",
+     "inferred_format": "comparison"
+    },
+    {
+     "position": 6,
+     "url": "https://moderncastle.com/home-security/blink-vs-ring/",
+     "title": "Blink vs. Ring: Security Camera Comparisons",
+     "domain_rating": 50,
+     "traffic": 778,
+     "ahrefs_page_type": null,
+     "inferred_format": "comparison"
+    },
+    {
+     "position": 7,
+     "url": "https://www.youtube.com/watch?v=b9egRKtRxKo",
+     "title": "Ring vs Nest vs Blink in 2026: The Subscription Math Nobody ...",
+     "domain_rating": 99,
+     "traffic": 114,
+     "ahrefs_page_type": null,
+     "inferred_format": "video"
+    },
+    {
+     "position": 8,
+     "url": "https://www.facebook.com/groups/surpriseaz1/posts/3196644253855421/",
+     "title": "What's better ring or Blink?",
+     "domain_rating": 100,
+     "traffic": 406,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 9,
+     "url": "https://www.zdnet.com/home-and-office/smart-home/ring-vs-blink/",
+     "title": "I compared Ring and Blink security setups at home",
+     "domain_rating": 91,
+     "traffic": 404,
+     "ahrefs_page_type": "/Article/Product_or_Brand_Review",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 10,
+     "url": "https://www.doorbellmount.com/blogs/doorbell/blink-doorbell",
+     "title": "Blink vs Ring, Nest & Eufy Video Doorbells",
+     "domain_rating": 17,
+     "traffic": 126,
+     "ahrefs_page_type": "/Article/Comparisons",
+     "inferred_format": "comparison"
+    }
+   ]
+  },
+  {
+   "keyword": "best wireless security cameras for apartments",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 50,
+   "role": "post primary: best-wireless-security-cameras-for-apartments",
+   "organic_results_returned": 0,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {},
+   "dominant_format": "unavailable",
+   "min_dr_top10": null,
+   "count_dr_below_40": 0,
+   "organic": [],
+   "note": "empty SERP in Ahrefs",
+   "status": "unavailable (Ahrefs returned an empty SERP for this keyword)"
+  },
+  {
+   "keyword": "can you put ring doorbell on apartment",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 120,
+   "role": "post primary: ring-doorbell-in-apartment",
+   "organic_results_returned": 8,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "forum/UGC": 4,
+    "product": 1,
+    "video": 1,
+    "homepage/index": 1,
+    "category/listing": 1
+   },
+   "dominant_format": "forum/UGC",
+   "min_dr_top10": 40,
+   "count_dr_below_40": 0,
+   "organic": [
+    {
+     "position": 1,
+     "url": "google.com/goto (redirect; title suggests forum/Reddit thread)",
+     "title": "what's everyone's opinion on doorbell ring cameras in ...",
+     "domain_rating": 100,
+     "traffic": 44,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 3,
+     "url": "google.com/goto (redirect; forum/Q&A)",
+     "title": "Hi just wondering if anyone knows if you are legally ...",
+     "domain_rating": 100,
+     "traffic": 14,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 4,
+     "url": "https://en-uk.ring.com/pages/apartments",
+     "title": "Ring for Apartments",
+     "domain_rating": 83,
+     "traffic": 20,
+     "ahrefs_page_type": "/Landing_Page/Product_Page",
+     "inferred_format": "product"
+    },
+    {
+     "position": 5,
+     "url": "https://www.youtube.com/watch?v=SxMgDnsToBs",
+     "title": "How to Install the Ring Video Doorbell at Apartments and ...",
+     "domain_rating": 99,
+     "traffic": 85,
+     "ahrefs_page_type": "/Video/How_to",
+     "inferred_format": "video"
+    },
+    {
+     "position": 6,
+     "url": "google.com/goto (redirect; forum/Q&A)",
+     "title": "Can I legally have a ring doorbell installed outside of my ...",
+     "domain_rating": 100,
+     "traffic": 7,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 7,
+     "url": "https://gatewise.com/blog",
+     "title": "Should You Install a Ring Doorbell in Your Apartment?",
+     "domain_rating": 40,
+     "traffic": 106,
+     "ahrefs_page_type": "/Core_Page/Blog_Index",
+     "inferred_format": "homepage/index"
+    },
+    {
+     "position": 8,
+     "url": "https://blog.ring.com/home-security",
+     "title": "Which Ring Devices Are Best for Renters?",
+     "domain_rating": 83,
+     "traffic": 199,
+     "ahrefs_page_type": "/Listing_Collection/Article",
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 9,
+     "url": "https://www.justanswer.com/Landlord-Tenant",
+     "title": "Can I have a ring camera on my apartment door",
+     "domain_rating": 76,
+     "traffic": 677,
+     "ahrefs_page_type": "/Listing/Location",
+     "inferred_format": "forum/UGC"
+    }
+   ]
+  },
+  {
+   "keyword": "smart home for renters",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 105,
+   "role": "post primary: smart-home-for-renters",
+   "organic_results_returned": 7,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "forum/UGC": 1,
+    "roundup/review": 3,
+    "homepage/index": 1,
+    "article/other": 1,
+    "guide": 1
+   },
+   "dominant_format": "roundup/review",
+   "min_dr_top10": 68,
+   "count_dr_below_40": 0,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.reddit.com/r/homeautomation/comments/sw1mf1/recommendations_for_smart_devices_when_renting/",
+     "title": "Recommendations for smart devices when renting new ...",
+     "domain_rating": 95,
+     "traffic": 66,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 3,
+     "url": "https://www.pcmag.com/picks/the-best-smart-home-products-for-renters",
+     "title": "The Best Smart Home Products for Renters in 2026",
+     "domain_rating": 91,
+     "traffic": 155,
+     "ahrefs_page_type": "/Article/Listicle",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 5,
+     "url": "https://smartrent.com/",
+     "title": "SmartRent | Smart Home Solutions for Multifamily Communities",
+     "domain_rating": 68,
+     "traffic": 1307,
+     "ahrefs_page_type": "/Core_Page/Homepage",
+     "inferred_format": "homepage/index"
+    },
+    {
+     "position": 6,
+     "url": "https://www.cnet.com/home/smart-home/top-smart-home-tech-for-renters/",
+     "title": "The Best Smart Home Devices for Renters: Portable and ...",
+     "domain_rating": 91,
+     "traffic": 55,
+     "ahrefs_page_type": "/Article/Listicle",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 7,
+     "url": "https://jaspercurry.medium.com/how-i-turned-my-rental-apartment-into-the-ultimate-smart-home-9855af8bad7b",
+     "title": "How I turned my rental apartment into the ultimate smart home",
+     "domain_rating": 94,
+     "traffic": 74,
+     "ahrefs_page_type": "/Article/Story",
+     "inferred_format": "article/other"
+    },
+    {
+     "position": 8,
+     "url": "https://www.realtor.com/advice/real-estate-summary-advice/making-your-rental-a-smart-home-5-key-ideas/",
+     "title": "Making Your Rental a Smart Home: 5 Key Ideas",
+     "domain_rating": 91,
+     "traffic": 8,
+     "ahrefs_page_type": "/Article/Listicle",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 10,
+     "url": "https://store.google.com/us/magazine/smart-home-for-renters?hl=en-US",
+     "title": "Smart Home Automation for Renters",
+     "domain_rating": 100,
+     "traffic": 20,
+     "ahrefs_page_type": "/Article/Tutorial_or_Guide",
+     "inferred_format": "guide"
+    }
+   ]
+  },
+  {
+   "keyword": "matter smart plug",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 90,
+   "role": "post primary: best-matter-smart-plugs",
+   "organic_results_returned": 6,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "product": 3,
+    "forum/UGC": 1,
+    "category/listing": 1,
+    "roundup/review": 1
+   },
+   "dominant_format": "product",
+   "min_dr_top10": 21,
+   "count_dr_below_40": 1,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://us.store.tapo.com/products/tp-link-tapo-matter-compatible-smart-plug-mini-15a-1800w-tapo-p125m",
+     "title": "Matter-Certified Smart Plug Mini 15A, Tapo P125M (3-Pack)",
+     "domain_rating": 71,
+     "traffic": 165,
+     "ahrefs_page_type": "/Listing/Product",
+     "inferred_format": "product"
+    },
+    {
+     "position": 4,
+     "url": "https://www.amazon.com/junlit-TY-Smart-Plug/dp/B0D6K3N8KW",
+     "title": "Matter Smart Plug 15A, Apple, Alexa & Google, Siri ...",
+     "domain_rating": 96,
+     "traffic": 58,
+     "ahrefs_page_type": "/Listing/Product",
+     "inferred_format": "product"
+    },
+    {
+     "position": 5,
+     "url": "https://www.reddit.com/r/HomeKit/comments/1al67xv/can_anyone_recommend_a_specific_model_of_matter/",
+     "title": "Can anyone recommend a specific model of Matter over ...",
+     "domain_rating": 95,
+     "traffic": 46,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 7,
+     "url": "https://linkind.com/products/linkind-wifi-matter-smart-plug",
+     "title": "Linkind Matter Smart Plug | Works with Apple Home & Alexa",
+     "domain_rating": 51,
+     "traffic": 30,
+     "ahrefs_page_type": "/Listing/Product",
+     "inferred_format": "product"
+    },
+    {
+     "position": 9,
+     "url": "https://matterdevices.io/device-type/plug/",
+     "title": "Matter Smart Plugs",
+     "domain_rating": 21,
+     "traffic": 23,
+     "ahrefs_page_type": "/Listing_Collection/Product",
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 10,
+     "url": "https://www.engadget.com/home/smart-home/best-smart-plug-131542429.html",
+     "title": "The best smart plugs in 2026",
+     "domain_rating": 90,
+     "traffic": 742,
+     "ahrefs_page_type": "/Article/Product_or_Brand_Review",
+     "inferred_format": "roundup/review"
+    }
+   ]
+  },
+  {
+   "keyword": "peephole camera",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 60,
+   "role": "post primary: best-peephole-camera-for-apartments",
+   "organic_results_returned": 4,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "category/listing": 1,
+    "product": 2,
+    "forum/UGC": 1
+   },
+   "dominant_format": "product",
+   "min_dr_top10": 34,
+   "count_dr_below_40": 1,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.amazon.com/apartment-peephole-camera/s?k=apartment+peephole+camera",
+     "title": "Apartment Peephole Camera",
+     "domain_rating": 96,
+     "traffic": 2878,
+     "ahrefs_page_type": null,
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 6,
+     "url": "https://theconnectedshop.com/products/smart-door-peephole-camera",
+     "title": "Smart Door Peephole Camera",
+     "domain_rating": 34,
+     "traffic": 224,
+     "ahrefs_page_type": "/Listing/Product",
+     "inferred_format": "product"
+    },
+    {
+     "position": 7,
+     "url": "https://ring.com/products/peephole-cam-2k",
+     "title": "Peephole Cam 2K - Doorbell Camera",
+     "domain_rating": 83,
+     "traffic": 3018,
+     "ahrefs_page_type": "/Listing/Product",
+     "inferred_format": "product"
+    },
+    {
+     "position": 9,
+     "url": "https://www.reddit.com/r/homeautomation/comments/1ch6yne/is_there_any_peephole_camera_that_can_be_placed/",
+     "title": "Is there any peephole camera that can be placed in the ...",
+     "domain_rating": 95,
+     "traffic": 188,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    }
+   ]
+  },
+  {
+   "keyword": "best water leak sensor for renters",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 50,
+   "role": "post primary: best-water-leak-sensor-for-renters",
+   "organic_results_returned": 0,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {},
+   "dominant_format": "unavailable",
+   "min_dr_top10": null,
+   "count_dr_below_40": 0,
+   "organic": [],
+   "note": "empty SERP in Ahrefs",
+   "status": "unavailable (Ahrefs returned an empty SERP for this keyword)"
+  },
+  {
+   "keyword": "how to cool apartment without ac",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 105,
+   "role": "post primary: how-to-cool-apartment-without-ac",
+   "organic_results_returned": 7,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "forum/UGC": 2,
+    "guide": 3,
+    "roundup/review": 2
+   },
+   "dominant_format": "guide",
+   "min_dr_top10": 38,
+   "count_dr_below_40": 1,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.reddit.com/r/astoria/comments/ummblr/prewar_living_101_how_to_keep_your_apartment_cool/",
+     "title": "How to keep your apartment cool without AC : r/astoria",
+     "domain_rating": 95,
+     "traffic": 209,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 3,
+     "url": "https://www.apartmenttherapy.com/how-to-cool-apartment-without-ac-37277295",
+     "title": "I Learned to Keep My Apartment Cool Without AC the Hard ...",
+     "domain_rating": 87,
+     "traffic": 372,
+     "ahrefs_page_type": "/Article/How_to",
+     "inferred_format": "guide"
+    },
+    {
+     "position": 5,
+     "url": "https://www.thehappysleeper.com/blog/how-to-cool-a-room-with-no-ac",
+     "title": "How To Cool a Room With No Air Conditioning!",
+     "domain_rating": 38,
+     "traffic": 1151,
+     "ahrefs_page_type": "/Article/How_to",
+     "inferred_format": "guide"
+    },
+    {
+     "position": 7,
+     "url": "https://www.lemonade.com/renters/explained/how-to-keep-apartment-cool/",
+     "title": "13 Tips to Keep Your Apartment Cool in the Summer",
+     "domain_rating": 79,
+     "traffic": 86,
+     "ahrefs_page_type": "/Article/Listicle",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 8,
+     "url": "https://www.efficiencyvermont.com/blog/how-to/summer-guide-to-energy-savings-comfort",
+     "title": "9 tips to keep your house cool without air conditioning",
+     "domain_rating": 72,
+     "traffic": 2022,
+     "ahrefs_page_type": "/Article/Listicle",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 9,
+     "url": "https://www.facebook.com/groups/mnrentals/posts/34750533901261505/",
+     "title": "How to keep apartment cool without ac?",
+     "domain_rating": 100,
+     "traffic": 69,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 10,
+     "url": "https://www.npr.org/2026/07/31/g-s1-136442/extreme-heat-air-conditioning-keeping-cool",
+     "title": "Keeping cool without AC: Our readers share their tips",
+     "domain_rating": 92,
+     "traffic": 386,
+     "ahrefs_page_type": "/Article/How_to",
+     "inferred_format": "guide"
+    }
+   ]
+  },
+  {
+   "keyword": "no drill motorized blinds",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 60,
+   "role": "post primary: no-drill-motorized-blinds",
+   "organic_results_returned": 4,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "product": 2,
+    "category/listing": 2
+   },
+   "dominant_format": "product",
+   "min_dr_top10": 6,
+   "count_dr_below_40": 3,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.graywind.com/products/no-drill-roller-shades",
+     "title": "No Drill Motorized Roller Shades",
+     "domain_rating": 24,
+     "traffic": 30,
+     "ahrefs_page_type": "/Listing/Product",
+     "inferred_format": "product"
+    },
+    {
+     "position": 6,
+     "url": "https://allesin.com/products/allesin-no-drill-motorized-blackout-roller-shades",
+     "title": "Allesin No-Drill Motorized Roller Shades | Blackout",
+     "domain_rating": 10,
+     "traffic": 15,
+     "ahrefs_page_type": "/Listing/Product",
+     "inferred_format": "product"
+    },
+    {
+     "position": 8,
+     "url": "https://www.amazon.com/clp/B0DNYJRN1N",
+     "title": "Motorized Blinds No Drill Automatic Blinds for Windows ...",
+     "domain_rating": 96,
+     "traffic": 41,
+     "ahrefs_page_type": null,
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 9,
+     "url": "https://www.ihomeblinds.com/collections/no-drill-collection",
+     "title": "NO-Drill Collection",
+     "domain_rating": 6,
+     "traffic": 27,
+     "ahrefs_page_type": "/Listing_Collection/Product",
+     "inferred_format": "category/listing"
+    }
+   ]
+  },
+  {
+   "keyword": "philips hue vs wiz",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 105,
+   "role": "post primary: philips-hue-vs-wiz",
+   "organic_results_returned": 7,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "forum/UGC": 2,
+    "comparison": 4,
+    "article/other": 1
+   },
+   "dominant_format": "comparison",
+   "min_dr_top10": 13,
+   "count_dr_below_40": 1,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.reddit.com/r/wiz/comments/1p0o74l/wiz_or_hue/",
+     "title": "Wiz or Hue? : r/wiz",
+     "domain_rating": 95,
+     "traffic": 184,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 5,
+     "url": "https://forum.aqara.com/t/exploring-smart-lighting-options-philips-hue-vs-wiz/134024",
+     "title": "Exploring Smart Lighting Options: Philips Hue vs. Wiz",
+     "domain_rating": 74,
+     "traffic": 49,
+     "ahrefs_page_type": "/User_Generated_Content/Forum_Thread",
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 6,
+     "url": "https://www.the-ambient.com/reviews/philips-hue-vs-wiz/",
+     "title": "Philips Hue vs WiZ: which smart lighting is worth your ...",
+     "domain_rating": 62,
+     "traffic": 36,
+     "ahrefs_page_type": "/Article/Comparisons",
+     "inferred_format": "comparison"
+    },
+    {
+     "position": 7,
+     "url": "https://www.nhcnow.com/blog/philips-hue-vs-other-color-changing-smart-bulbs-including-wiz-wyze-govee-more/",
+     "title": "Philips Hue vs. WiZ & Smart Bulb Alternatives",
+     "domain_rating": 13,
+     "traffic": 32,
+     "ahrefs_page_type": null,
+     "inferred_format": "comparison"
+    },
+    {
+     "position": 8,
+     "url": "https://www.galaxus.at/en/page/philips-hue-versus-wiz-which-is-the-better-smart-light-for-your-tv-38743",
+     "title": "Philips Hue versus Wiz: which is the better smart light for ...",
+     "domain_rating": 51,
+     "traffic": 27,
+     "ahrefs_page_type": "/Article/Comparisons",
+     "inferred_format": "comparison"
+    },
+    {
+     "position": 9,
+     "url": "https://www.t3.com/news/philips-hue-vs-wiz-which-smart-home-lighting-is-right-for-you",
+     "title": "Philips Hue vs WiZ: which smart home lighting is right for you?",
+     "domain_rating": 78,
+     "traffic": 18,
+     "ahrefs_page_type": "/Article/Comparisons",
+     "inferred_format": "comparison"
+    },
+    {
+     "position": 10,
+     "url": "https://www.signify.com/global/our-company/blog/showcase/smart-home-lighting-with-hue-and-wiz",
+     "title": "Smart home lighting with Philips Hue and WiZ - Signify",
+     "domain_rating": 80,
+     "traffic": 26,
+     "ahrefs_page_type": "/Article/Thought_Leadership",
+     "inferred_format": "article/other"
+    }
+   ]
+  },
+  {
+   "keyword": "smart ac controller",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 75,
+   "role": "post primary: smart-ac-controller",
+   "organic_results_returned": 5,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "category/listing": 1,
+    "roundup/review": 1,
+    "product": 1,
+    "guide": 1,
+    "forum/UGC": 1
+   },
+   "dominant_format": "category/listing",
+   "min_dr_top10": 54,
+   "count_dr_below_40": 0,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.amazon.com/smart-air-conditioner-controller/s?k=smart+air+conditioner+controller",
+     "title": "Smart Air Conditioner Controller",
+     "domain_rating": 96,
+     "traffic": 265,
+     "ahrefs_page_type": null,
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 3,
+     "url": "https://www.consumerreports.org/appliances/thermostats/best-smart-ac-controllers-of-the-year-a1349637034/",
+     "title": "4 Best Smart AC Controllers of 2026, Tested By Our Experts",
+     "domain_rating": 91,
+     "traffic": 115,
+     "ahrefs_page_type": null,
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 7,
+     "url": "https://sensibo.com/products/sensibo-air",
+     "title": "Smart AC Controller for Any Air Conditioner",
+     "domain_rating": 63,
+     "traffic": 128,
+     "ahrefs_page_type": "/Listing/Product",
+     "inferred_format": "product"
+    },
+    {
+     "position": 8,
+     "url": "https://www.daikinmea.com/en_us/knowledge-center/smart-ac-controllers-explained-how-wifi-thermostats-and-remote-controls-work.html",
+     "title": "Smart AC controllers explained: How wifi thermostats and ...",
+     "domain_rating": 54,
+     "traffic": 89,
+     "ahrefs_page_type": "/Article/Tutorial_or_Guide",
+     "inferred_format": "guide"
+    },
+    {
+     "position": 10,
+     "url": "https://www.reddit.com/r/HomeKit/comments/1mq3iyk/the_worlds_first_truly_wirefree_ac_controller_w/",
+     "title": "The World's First Truly Wire-Free AC Controller w/ Matter Over ...",
+     "domain_rating": 95,
+     "traffic": 22,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    }
+   ]
+  },
+  {
+   "keyword": "can i install a smart thermostat in my apartment",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 120,
+   "role": "post primary: smart-thermostat-in-apartment",
+   "organic_results_returned": 8,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "forum/UGC": 7,
+    "guide": 1
+   },
+   "dominant_format": "forum/UGC",
+   "min_dr_top10": 0,
+   "count_dr_below_40": 1,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.reddit.com/r/AirConditioners/comments/1khy97a/i_have_an_ac_with_these_controls_in_my_rental_apt/",
+     "title": "I have an AC with these controls in my rental apt. Any ...",
+     "domain_rating": 95,
+     "traffic": 77,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 4,
+     "url": "https://simplifysmarthome.com/smart-thermostat-in-an-apartment/",
+     "title": "Can You Install a Smart Thermostat in An Apartment? (6 ...",
+     "domain_rating": 0,
+     "traffic": 9,
+     "ahrefs_page_type": "/Article/How_to",
+     "inferred_format": "guide"
+    },
+    {
+     "position": 5,
+     "url": "https://www.justanswer.com/hvac/hwdzc-home-separate-accessory-apartment.html",
+     "title": "Control Thermostat in Accessory Apartment? Expert Q&A ...",
+     "domain_rating": 76,
+     "traffic": 11,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 6,
+     "url": "https://www.facebook.com/groups/157708940553962/posts/1035551882769659/",
+     "title": "Is Ecobee smart thermostat compatible with apartment ...",
+     "domain_rating": 100,
+     "traffic": 7,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 7,
+     "url": "https://community.home-assistant.io/t/what-room-thermostat-to-buy/650094",
+     "title": "What room thermostat to buy? - Hardware",
+     "domain_rating": 85,
+     "traffic": 13,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 8,
+     "url": "https://community.withairbnb.com/t5/Support-with-your-bookings/How-do-you-manage-the-thermostat/m-p/934630",
+     "title": "Re: How do you manage the thermostat? - Airbnb Community",
+     "domain_rating": 72,
+     "traffic": 4,
+     "ahrefs_page_type": "/User_Generated_Content/Forum_Thread",
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 9,
+     "url": "https://www.disboards.com/threads/nest-thermostat-for-an-apartment.3696494/",
+     "title": "Nest Thermostat for an apartment | Community Board",
+     "domain_rating": 56,
+     "traffic": 6,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 10,
+     "url": "https://www.quora.com/Can-a-landlord-install-a-smart-lock-on-the-main-entry-doors-and-a-smart-thermostat-inside-and-then-begin-billing-you-an-extra-charge-of-40-per-month-on-your-rent",
+     "title": "Can a landlord install a smart lock on the main entry doors ...",
+     "domain_rating": 92,
+     "traffic": 4,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    }
+   ]
+  },
+  {
+   "keyword": "heavy duty adhesive hooks",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 75,
+   "role": "proxy for best-heavy-duty-adhesive-hooks-for-renters",
+   "organic_results_returned": 5,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "category/listing": 3,
+    "product": 1,
+    "video": 1
+   },
+   "dominant_format": "category/listing",
+   "min_dr_top10": 8,
+   "count_dr_below_40": 1,
+   "organic": [
+    {
+     "position": 3,
+     "url": "https://www.amazon.com/strong-adhesive-hooks/s?k=strong+adhesive+hooks",
+     "title": "Strong Adhesive Hooks",
+     "domain_rating": 96,
+     "traffic": 48,
+     "ahrefs_page_type": null,
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 5,
+     "url": "https://www.homedepot.com/b/Storage-Organization-Hooks/Adhesive/N-5yc1vZc89iZ1z0jnis",
+     "title": "Adhesive - Hooks",
+     "domain_rating": 90,
+     "traffic": 121,
+     "ahrefs_page_type": null,
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 7,
+     "url": "https://cityballoonsdallas.com/products/heavy-duty-adhesive-hook-40-lbs",
+     "title": "Heavy Duty Adhesive Hook - 40 lbs (single unit)",
+     "domain_rating": 8,
+     "traffic": 8,
+     "ahrefs_page_type": "/Listing/Product",
+     "inferred_format": "product"
+    },
+    {
+     "position": 8,
+     "url": "https://www.lowes.com/pl/hooks-racks/utility-hooks-racks/adhesive/3011064769857-4294698341",
+     "title": "Adhesive Utility Hooks & Racks at Lowes.com",
+     "domain_rating": 88,
+     "traffic": 20,
+     "ahrefs_page_type": null,
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 10,
+     "url": "https://www.youtube.com/watch?v=Bu3Xa0Fdw00",
+     "title": "Everyone Needs These Invisible & Heavy Duty Wall Hooks!",
+     "domain_rating": 99,
+     "traffic": 24,
+     "ahrefs_page_type": null,
+     "inferred_format": "video"
+    }
+   ]
+  },
+  {
+   "keyword": "best led strip lights",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 90,
+   "role": "proxy for best-led-strip-lights-for-renters",
+   "organic_results_returned": 6,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "category/listing": 2,
+    "roundup/review": 1,
+    "forum/UGC": 1,
+    "comparison": 1,
+    "homepage/index": 1
+   },
+   "dominant_format": "category/listing",
+   "min_dr_top10": 6,
+   "count_dr_below_40": 2,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.amazon.com/Best-Sellers-LED-Strip-Lights/zgbs/hi/17534489011",
+     "title": "Best LED Strip Lights",
+     "domain_rating": 96,
+     "traffic": 3086,
+     "ahrefs_page_type": "/Listing_Collection/Product",
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 3,
+     "url": "https://www.nytimes.com/wirecutter/reviews/best-smart-strip-lights/",
+     "title": "The 3 Best Smart Strip Lights of 2026 - The New York Times",
+     "domain_rating": 94,
+     "traffic": 2925,
+     "ahrefs_page_type": "/Article/Product_or_Brand_Review",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 5,
+     "url": "https://www.reddit.com/r/homeassistant/comments/1rmhw4w/what_led_strips_are_you_all_using_these_days/",
+     "title": "What LED strips are you all using these days?",
+     "domain_rating": 95,
+     "traffic": 162,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 7,
+     "url": "https://smarthomesolver.com/reviews/ultimate-smart-light-strip-comparison/",
+     "title": "Ultimate Smart Light Strip Comparison",
+     "domain_rating": 31,
+     "traffic": 178,
+     "ahrefs_page_type": "/Article/Comparisons",
+     "inferred_format": "comparison"
+    },
+    {
+     "position": 9,
+     "url": "https://www.bestledstrip.com/",
+     "title": "LED Strip Lights, LED Strip Kit, Linear Lighting Store",
+     "domain_rating": 6,
+     "traffic": 158,
+     "ahrefs_page_type": "/Core_Page/Homepage",
+     "inferred_format": "homepage/index"
+    },
+    {
+     "position": 10,
+     "url": "https://www.bestbuy.com/site/smart-lighting/led-light-strips/pcmcat345400050003.c?id=pcmcat345400050003",
+     "title": "LED Light Strips",
+     "domain_rating": 89,
+     "traffic": 112,
+     "ahrefs_page_type": "/Core_Page/Homepage",
+     "inferred_format": "category/listing"
+    }
+   ]
+  },
+  {
+   "keyword": "magnetic cabinet locks",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 90,
+   "role": "proxy for best-magnetic-cabinet-locks-for-renters",
+   "organic_results_returned": 6,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "product": 5,
+    "forum/UGC": 1
+   },
+   "dominant_format": "product",
+   "min_dr_top10": 35,
+   "count_dr_below_40": 1,
+   "organic": [
+    {
+     "position": 3,
+     "url": "https://www.amazon.com/SKYLA-HOMES-Safety-Magnetic-Cabinet/dp/B01AW3XLBE",
+     "title": "SKYLA HOMES Magnetic Cabinet Locks for Baby Proofing ...",
+     "domain_rating": 96,
+     "traffic": 148,
+     "ahrefs_page_type": null,
+     "inferred_format": "product"
+    },
+    {
+     "position": 4,
+     "url": "https://safety1st.com/products/secure-to-explore-adhesive-magnetic-locks-20-locks-2-keys-hs402",
+     "title": "Secure-to-Explore Adhesive Magnetic Locks (20 locks, 2 keys)",
+     "domain_rating": 68,
+     "traffic": 90,
+     "ahrefs_page_type": "/Listing/Product",
+     "inferred_format": "product"
+    },
+    {
+     "position": 5,
+     "url": "https://www.reddit.com/r/toddlers/comments/1r2t6ud/brands_for_magnetic_childproof_cabinet_locks/",
+     "title": "brands for magnetic childproof cabinet locks? : r/toddlers",
+     "domain_rating": 95,
+     "traffic": 44,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 6,
+     "url": "https://rev-a-shelf.com/rl-series",
+     "title": "Rev-A-Lock Cabinet Security",
+     "domain_rating": 71,
+     "traffic": 136,
+     "ahrefs_page_type": "/Listing/Product",
+     "inferred_format": "product"
+    },
+    {
+     "position": 7,
+     "url": "https://regalo-baby.com/products/regalo-home-safety-magnetic-cabinet-lock-4pk",
+     "title": "Home Safety Magnetic Cabinet Lock (4pk)",
+     "domain_rating": 35,
+     "traffic": 54,
+     "ahrefs_page_type": "/Listing/Product",
+     "inferred_format": "product"
+    },
+    {
+     "position": 10,
+     "url": "https://www.amazon.com/live/video/0e9691823b46469da29ee27a90607ebb",
+     "title": "Magnetic Cabinet Locks - Installation and Review",
+     "domain_rating": 96,
+     "traffic": 2,
+     "ahrefs_page_type": null,
+     "inferred_format": "product"
+    }
+   ]
+  },
+  {
+   "keyword": "best pressure mounted baby gate",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 105,
+   "role": "proxy for best-pressure-mounted-baby-gate-for-renters",
+   "organic_results_returned": 7,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "guide": 1,
+    "category/listing": 3,
+    "roundup/review": 2,
+    "forum/UGC": 1
+   },
+   "dominant_format": "category/listing",
+   "min_dr_top10": 27,
+   "count_dr_below_40": 2,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.consumerreports.org/babies-kids/safety-gates/buying-guide/",
+     "title": "Baby Safety Gate Guide: Types, Safety, Expert Tips",
+     "domain_rating": 91,
+     "traffic": 4933,
+     "ahrefs_page_type": null,
+     "inferred_format": "guide"
+    },
+    {
+     "position": 3,
+     "url": "https://babeliobaby.com/pages/best-stair-safety-gates",
+     "title": "Best Safety Gates for Stairs | No-Trip & Banister Compatible",
+     "domain_rating": 27,
+     "traffic": 5166,
+     "ahrefs_page_type": "/Listing_Collection/Product",
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 4,
+     "url": "https://www.amazon.com/Best-Sellers-Indoor-Safety-Gates-Gate-Extensions/zgbs/baby-products/166868011",
+     "title": "Best Indoor Safety Gates & Gate Extensions",
+     "domain_rating": 96,
+     "traffic": 233,
+     "ahrefs_page_type": null,
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 5,
+     "url": "https://www.nytimes.com/wirecutter/reviews/best-baby-gate/",
+     "title": "The Best Baby Gate | Reviews by Wirecutter",
+     "domain_rating": 94,
+     "traffic": 2536,
+     "ahrefs_page_type": "/Article/Product_or_Brand_Review",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 6,
+     "url": "https://www.reddit.com/r/BabyBumpsCanada/comments/djcp5s/pressuremounted_baby_gate_recommendations/",
+     "title": "Pressure-mounted baby gate recommendations?",
+     "domain_rating": 95,
+     "traffic": 7,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 8,
+     "url": "https://www.dreambaby.com/collections/pressure-mounted-baby-gates",
+     "title": "Pressure-Mounted Baby Gates - Dreambaby",
+     "domain_rating": 38,
+     "traffic": 491,
+     "ahrefs_page_type": "/Listing_Collection/Product",
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 10,
+     "url": "https://www.babygearlab.com/topics/nursery-furniture/best-baby-gate",
+     "title": "The Best Baby Gates | Tested & Ranked",
+     "domain_rating": 60,
+     "traffic": 908,
+     "ahrefs_page_type": "/Article/Product_or_Brand_Review",
+     "inferred_format": "roundup/review"
+    }
+   ]
+  },
+  {
+   "keyword": "best smart bulbs",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 90,
+   "role": "proxy for best-smart-light-bulbs-for-renters",
+   "organic_results_returned": 6,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "comparison": 1,
+    "forum/UGC": 3,
+    "category/listing": 1,
+    "roundup/review": 1
+   },
+   "dominant_format": "forum/UGC",
+   "min_dr_top10": 0,
+   "count_dr_below_40": 2,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.lumarysmart.com/blogs/news-and-blogs/wifi-smart-light-bulbs-which-ones-shine-brightest",
+     "title": "WiFi Smart Light Bulbs: Which Ones Shine Brightest?",
+     "domain_rating": 45,
+     "traffic": 888,
+     "ahrefs_page_type": "/Article/Comparisons",
+     "inferred_format": "comparison"
+    },
+    {
+     "position": 4,
+     "url": "https://www.reddit.com/r/homeassistant/comments/1o90px0/product_recommendation_smart_bulbs/",
+     "title": "Product recommendation smart bulbs. : r/homeassistant",
+     "domain_rating": 95,
+     "traffic": 155,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 5,
+     "url": "https://www.homeappliancepicks.com/smart-home/smart-lights",
+     "title": "Best Smart Lights 2026: Bulbs, Strips & Panels Guide",
+     "domain_rating": 0,
+     "traffic": 76,
+     "ahrefs_page_type": "/Listing_Collection/Product",
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 7,
+     "url": "https://www.androidcentral.com/best-lights-support-google-assistant",
+     "title": "Best lights that support Google Assistant",
+     "domain_rating": 83,
+     "traffic": 15,
+     "ahrefs_page_type": "/Article/Listicle",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 8,
+     "url": "https://www.shine.lighting/threads/top-brands-for-smart-light-bulbs.7/",
+     "title": "Top Brands for Smart Light Bulbs | Global Lighting Forum",
+     "domain_rating": 37,
+     "traffic": 75,
+     "ahrefs_page_type": "/User_Generated_Content/Forum_Thread",
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 10,
+     "url": "https://community.hubitat.com/t/best-smart-bulbs-to-buy/94035?page=2",
+     "title": "Best smart bulbs to buy? - Page 2 - Lounge",
+     "domain_rating": 61,
+     "traffic": 1,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    }
+   ]
+  },
+  {
+   "keyword": "best smart smoke detector",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 105,
+   "role": "proxy for best-smart-smoke-detector-for-apartments",
+   "organic_results_returned": 7,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "roundup/review": 4,
+    "forum/UGC": 1,
+    "category/listing": 2
+   },
+   "dominant_format": "roundup/review",
+   "min_dr_top10": 47,
+   "count_dr_below_40": 0,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.wired.com/story/should-smoke-alarms-be-smart/",
+     "title": "The Best Smart Smoke Alarms-and Why You Still Need ...",
+     "domain_rating": 92,
+     "traffic": 2095,
+     "ahrefs_page_type": "/Article/Product_or_Brand_Review",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 3,
+     "url": "https://www.consumerreports.org/home-garden/smoke-carbon-monoxide-detectors/best-smoke-and-carbon-monoxide-detectors-of-the-year-a9237799621/",
+     "title": "Best Smoke and Carbon Monoxide Detectors of 2026",
+     "domain_rating": 91,
+     "traffic": 13844,
+     "ahrefs_page_type": null,
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 4,
+     "url": "https://www.reddit.com/r/smarthome/comments/1lqyv75/what_are_the_best_hardwired_smart_smoke_and_co/",
+     "title": "What are the best hardwired smart smoke and CO ...",
+     "domain_rating": 95,
+     "traffic": 532,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 5,
+     "url": "https://www.firstalert.com/collections/smart-smoke-carbon-monoxide-alarms",
+     "title": "Smart Smoke & Carbon Monoxide Alarms",
+     "domain_rating": 71,
+     "traffic": 2996,
+     "ahrefs_page_type": "/Listing_Collection/Product",
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 7,
+     "url": "https://www.nytimes.com/wirecutter/reviews/best-smart-smoke-alarm/",
+     "title": "The Best Smart Smoke Alarm - The New York Times",
+     "domain_rating": 94,
+     "traffic": 710,
+     "ahrefs_page_type": "/Article/Product_or_Brand_Review",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 8,
+     "url": "https://www.matteralpha.com/explainer/best-matter-smoke-carbon-monoxide-detectors",
+     "title": "The fire alarm that talks to your smart home",
+     "domain_rating": 48,
+     "traffic": 414,
+     "ahrefs_page_type": "/Article/Listicle",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 10,
+     "url": "https://www.firstalertstore.com/store/category/smart-smoke-and-carbon-monoxide-detectors.htm",
+     "title": "Smart Smoke and Carbon Monoxide Detectors",
+     "domain_rating": 47,
+     "traffic": 92,
+     "ahrefs_page_type": "/Listing_Collection/Product",
+     "inferred_format": "category/listing"
+    }
+   ]
+  },
+  {
+   "keyword": "best video doorbell without subscription",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 120,
+   "role": "proxy for best-video-doorbell-without-subscription-for-renters",
+   "organic_results_returned": 8,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "guide": 1,
+    "forum/UGC": 1,
+    "roundup/review": 4,
+    "category/listing": 1,
+    "video": 1
+   },
+   "dominant_format": "roundup/review",
+   "min_dr_top10": 65,
+   "count_dr_below_40": 0,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.safehome.org/doorbell-cameras/best/no-subscription/",
+     "title": "A Guide to Subscription-Free Smart Doorbell Cameras",
+     "domain_rating": 75,
+     "traffic": 6236,
+     "ahrefs_page_type": "/Article/Tutorial_or_Guide",
+     "inferred_format": "guide"
+    },
+    {
+     "position": 3,
+     "url": "https://www.reddit.com/r/smarthome/comments/1lz8nno/best_video_doorbell_without_subscription_and_with/",
+     "title": "Best video doorbell without subscription, and with local ...",
+     "domain_rating": 95,
+     "traffic": 483,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 4,
+     "url": "https://www.consumerreports.org/home-garden/home-security-cameras/best-video-doorbell-cameras-without-a-subscription-a1134473783/",
+     "title": "Best Video Doorbell Cameras Without a Subscription",
+     "domain_rating": 91,
+     "traffic": 9157,
+     "ahrefs_page_type": null,
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 5,
+     "url": "https://www.cnet.com/home/security/best-video-doorbell-cameras/",
+     "title": "The Best Video Doorbells of 2026: Reinvent Your Front Door",
+     "domain_rating": 91,
+     "traffic": 5140,
+     "ahrefs_page_type": "/Article/Roundup",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 7,
+     "url": "https://www.bestbuy.com/site/shop/wireless-doorbell-camera-no-subscription",
+     "title": "Wireless Doorbell Camera No Subscription",
+     "domain_rating": 89,
+     "traffic": 1590,
+     "ahrefs_page_type": "/Listing/Product",
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 8,
+     "url": "https://www.youtube.com/watch?v=r7Y9iymhyjI&vl=en",
+     "title": "Best Video Doorbells 2026 (With No Subscription)",
+     "domain_rating": 99,
+     "traffic": 88,
+     "ahrefs_page_type": null,
+     "inferred_format": "video"
+    },
+    {
+     "position": 9,
+     "url": "https://goabode.com/blog/best-doorbell-camera-no-subscription/",
+     "title": "Best No-Subscription Doorbell Cameras 2026",
+     "domain_rating": 65,
+     "traffic": 651,
+     "ahrefs_page_type": "/Article/Product_or_Brand_Review",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 10,
+     "url": "https://www.wired.com/gallery/best-video-doorbells/",
+     "title": "The Best Video Doorbell Cameras",
+     "domain_rating": 92,
+     "traffic": 8294,
+     "ahrefs_page_type": "/Article/Roundup",
+     "inferred_format": "roundup/review"
+    }
+   ]
+  },
+  {
+   "keyword": "how to baby proof apartment",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 105,
+   "role": "proxy for how-to-baby-proof-a-rental-without-damage",
+   "organic_results_returned": 7,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "forum/UGC": 1,
+    "guide": 5,
+    "roundup/review": 1
+   },
+   "dominant_format": "guide",
+   "min_dr_top10": 49,
+   "count_dr_below_40": 0,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.reddit.com/r/Parenting/comments/74r7fb/babyproofingchildproofing_an_apartment/",
+     "title": "Babyproofing/childproofing an apartment : r/Parenting",
+     "domain_rating": 95,
+     "traffic": 103,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 3,
+     "url": "https://inspiralized.com/lifestyle/babyproofing-our-apartment-the-living-room/",
+     "title": "Babyproofing Our Apartment: The Living Room",
+     "domain_rating": 62,
+     "traffic": 52,
+     "ahrefs_page_type": "/Article/How_to",
+     "inferred_format": "guide"
+    },
+    {
+     "position": 5,
+     "url": "https://www.thebump.com/a/checklist-babyproofing-part-1",
+     "title": "Baby Proofing Checklist",
+     "domain_rating": 79,
+     "traffic": 1851,
+     "ahrefs_page_type": "/Article/Checklists",
+     "inferred_format": "guide"
+    },
+    {
+     "position": 6,
+     "url": "https://www.babycenter.com/health/safety-and-childproofing/babyproofing-your-home_40007732",
+     "title": "Babyproofing your house: A room by room checklist",
+     "domain_rating": 83,
+     "traffic": 112,
+     "ahrefs_page_type": "/Article/How_to",
+     "inferred_format": "guide"
+    },
+    {
+     "position": 8,
+     "url": "https://www.babylist.com/hello-baby/doctor-childproofing-checklist",
+     "title": "Childproofing Checklist: 21 Tips from an ER Doctor",
+     "domain_rating": 79,
+     "traffic": 2952,
+     "ahrefs_page_type": "/Article/Listicle",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 9,
+     "url": "https://www.greystar.com/blog/how-to-baby-proof-your-apartment",
+     "title": "How to Baby Proof Your Apartment",
+     "domain_rating": 83,
+     "traffic": 7,
+     "ahrefs_page_type": "/Article/How_to",
+     "inferred_format": "guide"
+    },
+    {
+     "position": 10,
+     "url": "https://www.apartmentadvisor.com/blog/post/how-to-baby-proof-your-apartment",
+     "title": "How to Baby Proof Your Apartment",
+     "domain_rating": 49,
+     "traffic": 6,
+     "ahrefs_page_type": "/Article/How_to",
+     "inferred_format": "guide"
+    }
+   ]
+  },
+  {
+   "keyword": "security cameras for apartments",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 90,
+   "role": "proxy for best-wireless-security-cameras-for-apartments",
+   "organic_results_returned": 6,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "roundup/review": 2,
+    "category/listing": 2,
+    "forum/UGC": 1,
+    "guide": 1
+   },
+   "dominant_format": "roundup/review",
+   "min_dr_top10": 75,
+   "count_dr_below_40": 0,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.safehome.org/home-security-cameras/best/apartments/",
+     "title": "Best Security Cameras for Apartments in 2026",
+     "domain_rating": 75,
+     "traffic": 953,
+     "ahrefs_page_type": "/Article/Roundup",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 3,
+     "url": "https://www.amazon.com/apartment-security-cameras/s?k=apartment+security+cameras",
+     "title": "Apartment Security Cameras",
+     "domain_rating": 96,
+     "traffic": 803,
+     "ahrefs_page_type": null,
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 6,
+     "url": "https://www.reddit.com/r/homeautomation/comments/1bajgfm/cameras_for_an_apartment_complex/",
+     "title": "Cameras for an apartment complex? : r/homeautomation",
+     "domain_rating": 95,
+     "traffic": 702,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 7,
+     "url": "https://www.security.org/security-cameras/best/apartment/",
+     "title": "Best Security Cameras for Apartments in 2026",
+     "domain_rating": 82,
+     "traffic": 336,
+     "ahrefs_page_type": "/Article/Roundup",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 8,
+     "url": "https://www.bestbuy.com/site/shop/apartment-surveillance-cameras",
+     "title": "Apartment Surveillance Cameras",
+     "domain_rating": 89,
+     "traffic": 138,
+     "ahrefs_page_type": "/Listing_Collection/Product",
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 9,
+     "url": "https://www.avigilon.com/blog/apartment-building-security-cameras",
+     "title": "Residential Building & Apartment Complex Security Cameras",
+     "domain_rating": 78,
+     "traffic": 351,
+     "ahrefs_page_type": "/Article/Tutorial_or_Guide",
+     "inferred_format": "guide"
+    }
+   ]
+  },
+  {
+   "keyword": "best water leak detector",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 75,
+   "role": "proxy for best-water-leak-sensor-for-renters",
+   "organic_results_returned": 5,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "forum/UGC": 2,
+    "video": 1,
+    "product": 1,
+    "roundup/review": 1
+   },
+   "dominant_format": "forum/UGC",
+   "min_dr_top10": 61,
+   "count_dr_below_40": 0,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.reddit.com/r/hvacadvice/comments/1pkdzjq/good_leak_detectors/",
+     "title": "Good leak detectors : r/hvacadvice",
+     "domain_rating": 95,
+     "traffic": 323,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 3,
+     "url": "https://www.youtube.com/watch?v=ovXhged6KR8",
+     "title": "Best Water Leak Detector? 5-Year Battery & Loud Alarm Tested",
+     "domain_rating": 99,
+     "traffic": 140,
+     "ahrefs_page_type": null,
+     "inferred_format": "video"
+    },
+    {
+     "position": 4,
+     "url": "https://community.hubitat.com/t/best-large-area-leak-detector/135030",
+     "title": "Best Large Area Leak Detector - Devices",
+     "domain_rating": 61,
+     "traffic": 118,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 6,
+     "url": "https://www.amazon.com/Zircon-Detector-Flashing-Batteries-72313/dp/B09CWXCFL8",
+     "title": "Zircon Leak Alert + LED! Water Leak Detector & Flood ...",
+     "domain_rating": 96,
+     "traffic": 74,
+     "ahrefs_page_type": null,
+     "inferred_format": "product"
+    },
+    {
+     "position": 10,
+     "url": "https://www.gearbrain.com/review-insteon-water-leak-detector-2345145736.html",
+     "title": "Review Insteon Water Sensor, an affordable leak detector",
+     "domain_rating": 67,
+     "traffic": 29,
+     "ahrefs_page_type": "/Article/Product_or_Brand_Review",
+     "inferred_format": "roundup/review"
+    }
+   ]
+  },
+  {
+   "keyword": "best stud finder for plaster walls",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 135,
+   "role": "proxy for best-stud-finder-for-thick-walls",
+   "organic_results_returned": 9,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "forum/UGC": 2,
+    "roundup/review": 4,
+    "video": 2,
+    "category/listing": 1
+   },
+   "dominant_format": "roundup/review",
+   "min_dr_top10": 70,
+   "count_dr_below_40": 0,
+   "organic": [
+    {
+     "position": 1,
+     "url": "https://www.reddit.com/r/Tools/comments/199fzl8/best_studfinder_for_lathe_and_plaster_walls/",
+     "title": "Best Studfinder for lathe and plaster walls? : r/Tools",
+     "domain_rating": 95,
+     "traffic": 187,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 2,
+     "url": "https://www.facebook.com/groups/1706748102970911/posts/4249613785350984/",
+     "title": "What are the best stud finders for lath and plaster walls?",
+     "domain_rating": 100,
+     "traffic": 114,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 3,
+     "url": "https://www.outdoorlife.com/gear/best-stud-finders/",
+     "title": "The Best Stud Finders of 2026, Tested and Reviewed",
+     "domain_rating": 77,
+     "traffic": 7080,
+     "ahrefs_page_type": "/Article/Product_or_Brand_Review",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 5,
+     "url": "https://www.nytimes.com/wirecutter/reviews/best-stud-finder/",
+     "title": "The Best Stud Finder for Home Use | Reviews by Wirecutter",
+     "domain_rating": 94,
+     "traffic": 673,
+     "ahrefs_page_type": "/Article/Product_or_Brand_Review",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 6,
+     "url": "https://www.protoolreviews.com/best-stud-finder/",
+     "title": "Best Stud Finder: We Tested the Most Popular Models",
+     "domain_rating": 70,
+     "traffic": 11342,
+     "ahrefs_page_type": "/Article/Product_or_Brand_Review",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 7,
+     "url": "https://www.youtube.com/watch?v=ZQjDHvq79QM",
+     "title": "What is the best way to find studs behind plaster walls",
+     "domain_rating": 99,
+     "traffic": 25,
+     "ahrefs_page_type": null,
+     "inferred_format": "video"
+    },
+    {
+     "position": 8,
+     "url": "https://www.amazon.com/Best-Sellers-Stud-Finders-Scanners/zgbs/hi/553280",
+     "title": "Best Stud Finders & Scanners",
+     "domain_rating": 96,
+     "traffic": 2019,
+     "ahrefs_page_type": "/Listing_Collection/Product",
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 9,
+     "url": "https://www.thespruce.com/best-stud-finders-4155616",
+     "title": "The 10 Best Stud Finders of 2026, Tested and Reviewed",
+     "domain_rating": 90,
+     "traffic": 35,
+     "ahrefs_page_type": "/Article/Roundup",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 10,
+     "url": "https://www.youtube.com/watch?v=Pm51LD7Q-Pg",
+     "title": "Finding Studs in Lath and Plaster Walls with Zircon ...",
+     "domain_rating": 99,
+     "traffic": 13,
+     "ahrefs_page_type": null,
+     "inferred_format": "video"
+    }
+   ]
+  },
+  {
+   "keyword": "wyze vs ring",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 105,
+   "role": "proxy for wyze-vs-ring-vs-eufy-for-renters",
+   "organic_results_returned": 7,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "comparison": 5,
+    "forum/UGC": 2
+   },
+   "dominant_format": "comparison",
+   "min_dr_top10": 43,
+   "count_dr_below_40": 0,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://realestate.usnews.com/home-services/home-security-systems/wyze-vs-ring-alarm",
+     "title": "Wyze vs. Ring Alarm | Home Security Systems Reviewed ...",
+     "domain_rating": 91,
+     "traffic": 141,
+     "ahrefs_page_type": null,
+     "inferred_format": "comparison"
+    },
+    {
+     "position": 4,
+     "url": "https://www.reddit.com/r/wyzecam/comments/1e3igws/wyze_is_better_than_ring_if_you_dont_have_a/",
+     "title": "Wyze is better than Ring (if you don't have a subscription)",
+     "domain_rating": 95,
+     "traffic": 232,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 6,
+     "url": "https://www.facebook.com/groups/ringdoorbellusersgroup/posts/2666180710400316/",
+     "title": "Ring Doorbell Users Group",
+     "domain_rating": 100,
+     "traffic": 58,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 7,
+     "url": "https://www.cnet.com/home/security/ring-indoor-cam-vs-wyze-cam/",
+     "title": "Ring Indoor Cam vs. Wyze Cam",
+     "domain_rating": 91,
+     "traffic": 3,
+     "ahrefs_page_type": "/Article/Comparisons",
+     "inferred_format": "comparison"
+    },
+    {
+     "position": 8,
+     "url": "https://www.wyze.com/blogs/smart-home/wyze-vs-ring",
+     "title": "Wyze vs. Ring: Which Smart Home Camera Fits Your Needs?",
+     "domain_rating": 75,
+     "traffic": 54,
+     "ahrefs_page_type": "/Article/Comparisons",
+     "inferred_format": "comparison"
+    },
+    {
+     "position": 9,
+     "url": "https://www.security.org/security-cameras/wyze/alternatives/",
+     "title": "Best Wyze Security Camera Alternatives in 2026",
+     "domain_rating": 82,
+     "traffic": 4,
+     "ahrefs_page_type": "/Article/Comparisons",
+     "inferred_format": "comparison"
+    },
+    {
+     "position": 10,
+     "url": "https://wasserstein-home.com/blogs/smart-home/wyze-vs-ring-which-one-is-better",
+     "title": "Wyze vs. Ring - Which One Is Better?",
+     "domain_rating": 43,
+     "traffic": 1,
+     "ahrefs_page_type": "/Article/Comparisons",
+     "inferred_format": "comparison"
+    }
+   ],
+   "note": "volume for 'wyze vs ring' not pulled (not in overview batch)"
+  },
+  {
+   "keyword": "best smart speaker for small apartment",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 50,
+   "role": "proxy for best-voice-assistant-speaker-for-small-apartments",
+   "organic_results_returned": 0,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {},
+   "dominant_format": "unavailable",
+   "min_dr_top10": null,
+   "count_dr_below_40": 0,
+   "organic": [],
+   "note": "empty SERP in Ahrefs",
+   "status": "unavailable (Ahrefs returned an empty SERP for this keyword)"
+  },
+  {
+   "keyword": "door camera for apartment",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 75,
+   "role": "queued keyword (keywords.json)",
+   "organic_results_returned": 5,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "category/listing": 3,
+    "forum/UGC": 1,
+    "roundup/review": 1
+   },
+   "dominant_format": "category/listing",
+   "min_dr_top10": 68,
+   "count_dr_below_40": 0,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.amazon.com/apartment-doorbell/s?k=apartment+doorbell",
+     "title": "Apartment Doorbell",
+     "domain_rating": 96,
+     "traffic": 807,
+     "ahrefs_page_type": null,
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 6,
+     "url": "https://us.store.tapo.com/collections/video-doorbell-for-apartments",
+     "title": "Doorbell Camera for Apartments | Secure and Easy Setup",
+     "domain_rating": 71,
+     "traffic": 509,
+     "ahrefs_page_type": "/Listing_Collection/Product",
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 7,
+     "url": "https://www.reddit.com/r/homeautomation/comments/1jsa476/choosing_between_3_video_doorbells_for_an/",
+     "title": "Choosing between 3 video doorbells for an apartment",
+     "domain_rating": 95,
+     "traffic": 587,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 8,
+     "url": "https://www.bestbuy.com/site/shop/front-door-camera-for-apartment",
+     "title": "Front Door Camera For Apartment",
+     "domain_rating": 89,
+     "traffic": 197,
+     "ahrefs_page_type": "/Listing_Collection/Product",
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 9,
+     "url": "https://smartrent.com/news/best-doorbell-camera-for-apartments/",
+     "title": "The Best Doorbell Cameras for Apartments: A 2025 Guide ...",
+     "domain_rating": 68,
+     "traffic": 264,
+     "ahrefs_page_type": "/Article/Tutorial_or_Guide",
+     "inferred_format": "roundup/review"
+    }
+   ]
+  },
+  {
+   "keyword": "apartment security camera",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 90,
+   "role": "queued keyword (keywords.json)",
+   "organic_results_returned": 6,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "category/listing": 2,
+    "forum/UGC": 1,
+    "roundup/review": 2,
+    "guide": 1
+   },
+   "dominant_format": "category/listing",
+   "min_dr_top10": 75,
+   "count_dr_below_40": 0,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.amazon.com/apartment-security-cameras/s?k=apartment+security+cameras",
+     "title": "Apartment Security Cameras",
+     "domain_rating": 96,
+     "traffic": 803,
+     "ahrefs_page_type": null,
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 4,
+     "url": "https://www.reddit.com/r/homeautomation/comments/1bajgfm/cameras_for_an_apartment_complex/",
+     "title": "Cameras for an apartment complex? : r/homeautomation",
+     "domain_rating": 95,
+     "traffic": 702,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 7,
+     "url": "https://www.safehome.org/home-security-cameras/best/apartments/",
+     "title": "Best Security Cameras for Apartments in 2026",
+     "domain_rating": 75,
+     "traffic": 953,
+     "ahrefs_page_type": "/Article/Roundup",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 8,
+     "url": "https://www.security.org/security-cameras/best/apartment/",
+     "title": "Best Security Cameras for Apartments in 2026",
+     "domain_rating": 82,
+     "traffic": 336,
+     "ahrefs_page_type": "/Article/Roundup",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 9,
+     "url": "https://www.bestbuy.com/site/shop/apartment-surveillance-cameras",
+     "title": "Apartment Surveillance Cameras",
+     "domain_rating": 89,
+     "traffic": 138,
+     "ahrefs_page_type": "/Listing_Collection/Product",
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 10,
+     "url": "https://www.avigilon.com/blog/apartment-building-security-cameras",
+     "title": "Residential Building & Apartment Complex Security Cameras",
+     "domain_rating": 78,
+     "traffic": 351,
+     "ahrefs_page_type": "/Article/Tutorial_or_Guide",
+     "inferred_format": "guide"
+    }
+   ]
+  },
+  {
+   "keyword": "indoor security camera no subscription",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 90,
+   "role": "queued keyword (keywords.json)",
+   "organic_results_returned": 6,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "forum/UGC": 1,
+    "roundup/review": 4,
+    "category/listing": 1
+   },
+   "dominant_format": "roundup/review",
+   "min_dr_top10": 75,
+   "count_dr_below_40": 0,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.reddit.com/r/homesecurity/comments/1gzrvo8/any_indoor_cameras_that_dont_require_a/",
+     "title": "Any indoor cameras that don't require a subscription?",
+     "domain_rating": 95,
+     "traffic": 1177,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 3,
+     "url": "https://www.wyze.com/blogs/smart-home/the-best-home-security-camera-without-a-subscription",
+     "title": "The Best Home Security Camera without a Subscription",
+     "domain_rating": 75,
+     "traffic": 3177,
+     "ahrefs_page_type": "/Article/Product_or_Brand_Review",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 4,
+     "url": "https://www.amazon.com/indoor-security-camera-no-subscription/s?k=indoor+security+camera+no+subscription",
+     "title": "Indoor Security Camera No Subscription",
+     "domain_rating": 96,
+     "traffic": 474,
+     "ahrefs_page_type": null,
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 7,
+     "url": "https://www.cnet.com/home/security/best-home-security-cameras-without-subscriptions/",
+     "title": "Best Home Security Cameras Without Subscriptions in 2026",
+     "domain_rating": 91,
+     "traffic": 2338,
+     "ahrefs_page_type": "/Article/Roundup",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 9,
+     "url": "https://www.safehome.org/home-security-cameras/best/no-subscription/",
+     "title": "Best Security Cameras With No Subscription in 2026",
+     "domain_rating": 75,
+     "traffic": 9726,
+     "ahrefs_page_type": "/Article/Roundup",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 10,
+     "url": "https://www.security.org/security-cameras/best/no-fee/",
+     "title": "Best Security Cameras Without a Subscription",
+     "domain_rating": 82,
+     "traffic": 162,
+     "ahrefs_page_type": "/Article/Roundup",
+     "inferred_format": "roundup/review"
+    }
+   ]
+  },
+  {
+   "keyword": "apartment security system",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 90,
+   "role": "queued keyword (keywords.json)",
+   "organic_results_returned": 6,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "roundup/review": 3,
+    "forum/UGC": 1,
+    "guide": 1,
+    "comparison": 1
+   },
+   "dominant_format": "roundup/review",
+   "min_dr_top10": 65,
+   "count_dr_below_40": 0,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.safehome.org/security-systems/best/apartments/",
+     "title": "Best Home Security Systems for Apartments in 2026",
+     "domain_rating": 75,
+     "traffic": 3527,
+     "ahrefs_page_type": "/Article/Roundup",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 3,
+     "url": "https://www.reddit.com/r/homesecurity/comments/18zp4mb/apartment_security_recommendations_requested/",
+     "title": "Apartment security recommendations requested",
+     "domain_rating": 95,
+     "traffic": 1291,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 6,
+     "url": "https://goabode.com/blog/best-home-security-system-for-renters-2026-no-drilling-no-contracts-5-systems-tested-one-costs-0-month/",
+     "title": "Best Security System for Renters 2026: 5 Systems Tested",
+     "domain_rating": 65,
+     "traffic": 920,
+     "ahrefs_page_type": "/Article/Listicle",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 7,
+     "url": "https://www.adt.com/resources/diy/do-i-need-a-security-system-in-an-apartment",
+     "title": "Security Alarm Systems for Apartment Renters",
+     "domain_rating": 77,
+     "traffic": 533,
+     "ahrefs_page_type": "/Article/Tutorial_or_Guide",
+     "inferred_format": "guide"
+    },
+    {
+     "position": 9,
+     "url": "https://www.security.org/home-security-systems/best/apartment/",
+     "title": "Best Security Systems for Apartments & Renters in 2026",
+     "domain_rating": 82,
+     "traffic": 578,
+     "ahrefs_page_type": "/Article/Comparisons",
+     "inferred_format": "comparison"
+    },
+    {
+     "position": 10,
+     "url": "https://realestate.usnews.com/home-services/home-security-systems/best-home-security-systems-for-renters",
+     "title": "Best Home Security Systems for Renters",
+     "domain_rating": 91,
+     "traffic": 318,
+     "ahrefs_page_type": null,
+     "inferred_format": "roundup/review"
+    }
+   ]
+  },
+  {
+   "keyword": "alarm system for apartment renters",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 105,
+   "role": "queued keyword (keywords.json)",
+   "organic_results_returned": 7,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "roundup/review": 3,
+    "forum/UGC": 1,
+    "category/listing": 1,
+    "guide": 1,
+    "comparison": 1
+   },
+   "dominant_format": "roundup/review",
+   "min_dr_top10": 65,
+   "count_dr_below_40": 0,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.safehome.org/security-systems/best/apartments/",
+     "title": "Best Home Security Systems for Apartments in 2026",
+     "domain_rating": 75,
+     "traffic": 3527,
+     "ahrefs_page_type": "/Article/Roundup",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 4,
+     "url": "https://goabode.com/blog/best-home-security-system-for-renters-2026-no-drilling-no-contracts-5-systems-tested-one-costs-0-month/",
+     "title": "Best Security System for Renters 2026: 5 Systems Tested",
+     "domain_rating": 65,
+     "traffic": 920,
+     "ahrefs_page_type": "/Article/Listicle",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 5,
+     "url": "https://www.reddit.com/r/homesecurity/comments/p1ckcd/home_security_for_renters_is_it_really_possible/",
+     "title": "Home security for renters, is it really possible?",
+     "domain_rating": 95,
+     "traffic": 208,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 6,
+     "url": "https://ring.com/collections/renter-friendly-security",
+     "title": "Renter Friendly Security - Apartments, Homes, and more",
+     "domain_rating": 83,
+     "traffic": 1529,
+     "ahrefs_page_type": null,
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 7,
+     "url": "https://www.vivint.com/resources/article/home-security-systems-for-renters",
+     "title": "The Renter's Guide to Home Security Systems: Affordable ...",
+     "domain_rating": 75,
+     "traffic": 188,
+     "ahrefs_page_type": "/Article/Tutorial_or_Guide",
+     "inferred_format": "guide"
+    },
+    {
+     "position": 8,
+     "url": "https://realestate.usnews.com/home-services/home-security-systems/best-home-security-systems-for-renters",
+     "title": "Best Home Security Systems for Renters",
+     "domain_rating": 91,
+     "traffic": 318,
+     "ahrefs_page_type": null,
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 10,
+     "url": "https://www.security.org/home-security-systems/best/apartment/",
+     "title": "Best Security Systems for Apartments & Renters in 2026",
+     "domain_rating": 82,
+     "traffic": 578,
+     "ahrefs_page_type": "/Article/Comparisons",
+     "inferred_format": "comparison"
+    }
+   ]
+  },
+  {
+   "keyword": "ring vs blink",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 90,
+   "role": "secondary of blink-vs-ring-subscription",
+   "organic_results_returned": 6,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "forum/UGC": 1,
+    "comparison": 4,
+    "roundup/review": 1
+   },
+   "dominant_format": "comparison",
+   "min_dr_top10": 50,
+   "count_dr_below_40": 0,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.reddit.com/r/blinkcameras/comments/1o5wqfb/blink_vs_ring/",
+     "title": "Blink vs Ring : r/blinkcameras",
+     "domain_rating": 95,
+     "traffic": 2429,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 4,
+     "url": "https://www.security.org/security-cameras/blink-vs-ring/",
+     "title": "Blink vs Ring - Which Brand Offers Better Security Cameras?",
+     "domain_rating": 82,
+     "traffic": 2032,
+     "ahrefs_page_type": "/Article/Comparisons",
+     "inferred_format": "comparison"
+    },
+    {
+     "position": 5,
+     "url": "https://www.safehome.org/compare/ring-vs-blink/",
+     "title": "Ring vs Blink Security Camera Systems",
+     "domain_rating": 75,
+     "traffic": 1428,
+     "ahrefs_page_type": "/Article/Comparisons",
+     "inferred_format": "comparison"
+    },
+    {
+     "position": 6,
+     "url": "https://moderncastle.com/home-security/blink-vs-ring/",
+     "title": "Blink vs. Ring: Security Camera Comparisons",
+     "domain_rating": 50,
+     "traffic": 778,
+     "ahrefs_page_type": null,
+     "inferred_format": "comparison"
+    },
+    {
+     "position": 8,
+     "url": "https://www.pcmag.com/comparisons/blink-vs-ring-which-home-security-system-is-better",
+     "title": "Blink vs. Ring: Which Home Security System Is Better?",
+     "domain_rating": 91,
+     "traffic": 446,
+     "ahrefs_page_type": "/Article/Comparisons",
+     "inferred_format": "comparison"
+    },
+    {
+     "position": 9,
+     "url": "https://www.zdnet.com/home-and-office/smart-home/ring-vs-blink/",
+     "title": "I compared Ring and Blink security setups at home",
+     "domain_rating": 91,
+     "traffic": 404,
+     "ahrefs_page_type": "/Article/Product_or_Brand_Review",
+     "inferred_format": "roundup/review"
+    }
+   ]
+  },
+  {
+   "keyword": "ring vs nest doorbell",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 105,
+   "role": "queued keyword (keywords.json)",
+   "organic_results_returned": 7,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "forum/UGC": 1,
+    "comparison": 5,
+    "video": 1
+   },
+   "dominant_format": "comparison",
+   "min_dr_top10": 17,
+   "count_dr_below_40": 1,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.reddit.com/r/Nest/comments/1n8lovn/nest_vs_ring/",
+     "title": "Nest VS Ring",
+     "domain_rating": 95,
+     "traffic": 1566,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 3,
+     "url": "https://www.safehome.org/compare/ring-vs-nest/",
+     "title": "Ring vs. Google Nest Home Security Comparison",
+     "domain_rating": 75,
+     "traffic": 967,
+     "ahrefs_page_type": "/Article/Comparisons",
+     "inferred_format": "comparison"
+    },
+    {
+     "position": 5,
+     "url": "https://www.security.org/home-security-systems/ring-vs-nest/",
+     "title": "Ring vs Nest | Which of These DIY Systems is Best?",
+     "domain_rating": 82,
+     "traffic": 503,
+     "ahrefs_page_type": "/Article/Comparisons",
+     "inferred_format": "comparison"
+    },
+    {
+     "position": 7,
+     "url": "https://www.cnet.com/home/security/ring-vs-nest-price-durability-ai-and-more-compared/",
+     "title": "Ring vs. Nest: Price, Durability, AI and More Compared",
+     "domain_rating": 91,
+     "traffic": 287,
+     "ahrefs_page_type": "/Article/Comparisons",
+     "inferred_format": "comparison"
+    },
+    {
+     "position": 8,
+     "url": "https://www.youtube.com/watch?v=2V0KqfudmTA",
+     "title": "Ring 4 vs Nest Doorbell Battery: The battle for best wireless ...",
+     "domain_rating": 99,
+     "traffic": 30,
+     "ahrefs_page_type": "/Video/Comparisons",
+     "inferred_format": "video"
+    },
+    {
+     "position": 9,
+     "url": "https://www.pcmag.com/news/nest-vs-ring-which-video-doorbell-is-right-for-you",
+     "title": "Nest vs. Ring: Which Video Doorbell Is Right for You?",
+     "domain_rating": 91,
+     "traffic": 123,
+     "ahrefs_page_type": "/Article/Comparisons",
+     "inferred_format": "comparison"
+    },
+    {
+     "position": 10,
+     "url": "https://www.doorbellmount.com/blogs/doorbell/google-nest-doorbell-vs-ring-which-smart-doorbell-is-better",
+     "title": "Google Nest Doorbell vs. Ring",
+     "domain_rating": 17,
+     "traffic": 118,
+     "ahrefs_page_type": "/Article/Comparisons",
+     "inferred_format": "comparison"
+    }
+   ]
+  },
+  {
+   "keyword": "wyze vs blink",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 120,
+   "role": "queued keyword (keywords.json)",
+   "organic_results_returned": 8,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "forum/UGC": 2,
+    "article/other": 1,
+    "comparison": 4,
+    "roundup/review": 1
+   },
+   "dominant_format": "comparison",
+   "min_dr_top10": 62,
+   "count_dr_below_40": 0,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.reddit.com/r/homedefense/comments/12yhld2/wyze_cameras_or_blink_cameras/",
+     "title": "Wyze cameras or Blink cameras? : r/homedefense",
+     "domain_rating": 95,
+     "traffic": 272,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 4,
+     "url": "https://staceyoniot.com/blink-mini-vs-wyze-cam-2020-review/",
+     "title": "Blink Mini review: Should you drop $35 on it or save money ...",
+     "domain_rating": 62,
+     "traffic": 78,
+     "ahrefs_page_type": null,
+     "inferred_format": "article/other"
+    },
+    {
+     "position": 5,
+     "url": "https://www.wyze.com/blogs/smart-home/wyze-vs-blink",
+     "title": "Wyze vs. Blink: Who Delivers Best Value for Home Security?",
+     "domain_rating": 75,
+     "traffic": 77,
+     "ahrefs_page_type": "/Article/Comparisons",
+     "inferred_format": "comparison"
+    },
+    {
+     "position": 6,
+     "url": "https://www.facebook.com/groups/1138661109830138/posts/2247987935564111/",
+     "title": "Which camera is better for home security, Blink or Wyze?",
+     "domain_rating": 100,
+     "traffic": 31,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 7,
+     "url": "https://www.safewise.com/home-security-systems/wyze-vs-blink-cameras/",
+     "title": "Wyze vs. Blink Security Cameras",
+     "domain_rating": 78,
+     "traffic": 49,
+     "ahrefs_page_type": "/Article/Comparisons",
+     "inferred_format": "comparison"
+    },
+    {
+     "position": 8,
+     "url": "https://www.cnet.com/home/security/blink-video-doorbell-vs-wyze-video-doorbell-pro/",
+     "title": "Blink Video Doorbell vs. Wyze Video Doorbell Pro",
+     "domain_rating": 91,
+     "traffic": 34,
+     "ahrefs_page_type": "/Article/Comparisons",
+     "inferred_format": "comparison"
+    },
+    {
+     "position": 9,
+     "url": "https://www.techgearlab.com/topics/smart-home/best-security-camera",
+     "title": "The Best Home Security Cameras | Lab Tested & Ranked",
+     "domain_rating": 69,
+     "traffic": 80,
+     "ahrefs_page_type": "/Article/Roundup",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 10,
+     "url": "https://www.digitaltrends.com/home/wyze-cam-floodlight-vs-blink-wired-floodlight-cam/",
+     "title": "Wyze Cam floodlight vs Blink Wired Floodlight Cam",
+     "domain_rating": 89,
+     "traffic": 11,
+     "ahrefs_page_type": "/Article/Comparisons",
+     "inferred_format": "comparison"
+    }
+   ]
+  },
+  {
+   "keyword": "kasa vs tapo",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 120,
+   "role": "queued keyword (keywords.json)",
+   "organic_results_returned": 8,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "forum/UGC": 4,
+    "product": 1,
+    "article/other": 2,
+    "comparison": 1
+   },
+   "dominant_format": "forum/UGC",
+   "min_dr_top10": 61,
+   "count_dr_below_40": 0,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.reddit.com/r/TPLinkKasa/comments/15r26o5/tplink_kasa_or_tplink_tapo/",
+     "title": "TP-Link Kasa or TP-Link Tapo : r/TPLinkKasa",
+     "domain_rating": 95,
+     "traffic": 266,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 4,
+     "url": "https://www.tp-link.com/us/technology/matter/",
+     "title": "Tapo, Kasa, and Deco: Matter-Certified | TP-Link",
+     "domain_rating": 87,
+     "traffic": 131,
+     "ahrefs_page_type": "/Landing_Page/Product_Page",
+     "inferred_format": "product"
+    },
+    {
+     "position": 5,
+     "url": "https://www.facebook.com/groups/wemousersgroup/posts/2274154856378341/",
+     "title": "Started switching over to Kasa. Anyone know if the Tapo ...",
+     "domain_rating": 100,
+     "traffic": 69,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 6,
+     "url": "https://community.hubitat.com/t/tapo-vs-kasa-smart-plugs-which-to-buy-in-the-us/123200",
+     "title": "Tapo vs Kasa smart plugs: which to buy in the US?",
+     "domain_rating": 61,
+     "traffic": 66,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 7,
+     "url": "https://www.tp-link.com/us/support/faq/3614/",
+     "title": "Linking Kasa Devices to the Tapo App - TP-Link",
+     "domain_rating": 87,
+     "traffic": 30,
+     "ahrefs_page_type": "/Core_Page/FAQ_Page",
+     "inferred_format": "article/other"
+    },
+    {
+     "position": 8,
+     "url": "https://www.tapo.com/us/news/396/",
+     "title": "TP-Link Unveils Tapo App 3.0, Enabling Seamless ...",
+     "domain_rating": 71,
+     "traffic": 20,
+     "ahrefs_page_type": "/Article/News_Update",
+     "inferred_format": "article/other"
+    },
+    {
+     "position": 9,
+     "url": "https://forum.aqara.com/t/exploring-tapo-vs-kasa-smart-plugs-for-us-users/136862",
+     "title": "Exploring Tapo vs Kasa Smart Plugs for US Users",
+     "domain_rating": 74,
+     "traffic": 36,
+     "ahrefs_page_type": "/User_Generated_Content/Forum_Thread",
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 10,
+     "url": "https://www.safewise.com/home-security-systems/cameras/tp-link/",
+     "title": "TP-Link Cameras Review: Tapo vs. Kasa 2026",
+     "domain_rating": 78,
+     "traffic": 73,
+     "ahrefs_page_type": "/Article/Product_or_Brand_Review",
+     "inferred_format": "comparison"
+    }
+   ]
+  },
+  {
+   "keyword": "smart home starter kit",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 75,
+   "role": "queued keyword (keywords.json)",
+   "organic_results_returned": 5,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "category/listing": 2,
+    "forum/UGC": 1,
+    "product": 1,
+    "roundup/review": 1
+   },
+   "dominant_format": "category/listing",
+   "min_dr_top10": 63,
+   "count_dr_below_40": 0,
+   "organic": [
+    {
+     "position": 1,
+     "url": "https://www.amazon.com/smart-home-starter-kit/s?k=smart+home+starter+kit",
+     "title": "Smart Home Starter Kit",
+     "domain_rating": 96,
+     "traffic": 68,
+     "ahrefs_page_type": null,
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 2,
+     "url": "https://www.reddit.com/r/smarthome/comments/11lzbsu/smart_home_starter_pack/",
+     "title": "Smart Home Starter Pack : r/smarthome",
+     "domain_rating": 95,
+     "traffic": 31,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 4,
+     "url": "https://www.homedepot.com/b/Smart-Home-Smart-Devices-Smart-Home-Systems-Smart-Home-Starter-Kits/N-5yc1vZ1z18gh7",
+     "title": "Smart Home Starter Kits",
+     "domain_rating": 90,
+     "traffic": 28,
+     "ahrefs_page_type": null,
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 7,
+     "url": "https://www.casetawireless.com/us/en/products/smart-kits",
+     "title": "Smart Home Starter Kits | Caseta by Lutron",
+     "domain_rating": 63,
+     "traffic": 149,
+     "ahrefs_page_type": "/Listing/Product",
+     "inferred_format": "product"
+    },
+    {
+     "position": 8,
+     "url": "https://www.zdnet.com/home-and-office/smart-home/everything-you-need-to-start-a-smart-home-setup/",
+     "title": "Smart home starter pack: Top 5 devices you need",
+     "domain_rating": 91,
+     "traffic": 10,
+     "ahrefs_page_type": "/Article/Roundup",
+     "inferred_format": "roundup/review"
+    }
+   ]
+  },
+  {
+   "keyword": "apartment security camera laws for tenants",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 120,
+   "role": "queued keyword (keywords.json)",
+   "organic_results_returned": 8,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "guide": 3,
+    "forum/UGC": 4,
+    "article/other": 1
+   },
+   "dominant_format": "forum/UGC",
+   "min_dr_top10": 52,
+   "count_dr_below_40": 0,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://mammothsecurity.com/blog/security-cameras-for-rental-properties-guide",
+     "title": "Guide to Security Cameras for Rental Properties",
+     "domain_rating": 56,
+     "traffic": 122,
+     "ahrefs_page_type": "/Article/Tutorial_or_Guide",
+     "inferred_format": "guide"
+    },
+    {
+     "position": 4,
+     "url": "https://www.rentecdirect.com/blog/security-cameras-rental-property/",
+     "title": "What to Consider When Installing Security Cameras on a ...",
+     "domain_rating": 77,
+     "traffic": 44,
+     "ahrefs_page_type": "/Article/How_to",
+     "inferred_format": "guide"
+    },
+    {
+     "position": 5,
+     "url": "https://www.reddit.com/r/legaladvice/comments/193j879/illinois_what_rights_do_i_have_as_a_tenant/",
+     "title": "Illinois: What rights do I have as a tenant against a landlord ...",
+     "domain_rating": 95,
+     "traffic": 32,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 6,
+     "url": "https://www.quora.com/Is-it-legal-in-Oregon-for-a-tenant-to-use-security-cameras-if-not-restricted-in-the-lease",
+     "title": "Is it legal in Oregon for a tenant to use security cameras if ...",
+     "domain_rating": 92,
+     "traffic": 23,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 7,
+     "url": "https://www.justanswer.com/ca-real-estate/latex-state-california-legal-landlord.html",
+     "title": "California Landlord and Tenant Security Camera Laws",
+     "domain_rating": 76,
+     "traffic": 33,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 8,
+     "url": "https://reolink.com/blog/legality-reason-for-security-cameras-in-rental-property/",
+     "title": "Can a Landlord Put Cameras Outside/Inside the House?",
+     "domain_rating": 77,
+     "traffic": 17,
+     "ahrefs_page_type": "/Article/Tutorial_or_Guide",
+     "inferred_format": "guide"
+    },
+    {
+     "position": 9,
+     "url": "https://www.facebook.com/groups/dfwsection8housing/posts/4159689994268262/",
+     "title": "Do security cameras violate tenant privacy in DFW Section ...",
+     "domain_rating": 100,
+     "traffic": 13,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 10,
+     "url": "https://guardianprotection.com/blog/home-security-camera-laws-wisconsin",
+     "title": "Home Security Camera Laws in Wisconsin",
+     "domain_rating": 52,
+     "traffic": 12,
+     "ahrefs_page_type": null,
+     "inferred_format": "article/other"
+    }
+   ]
+  },
+  {
+   "keyword": "can a landlord put cameras outside the house",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 135,
+   "role": "queued keyword (keywords.json)",
+   "organic_results_returned": 9,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "guide": 2,
+    "forum/UGC": 6,
+    "article/other": 1
+   },
+   "dominant_format": "forum/UGC",
+   "min_dr_top10": 19,
+   "count_dr_below_40": 1,
+   "organic": [
+    {
+     "position": 1,
+     "url": "https://innago.com/what-to-know-before-installing-cameras-at-your-rental-property/",
+     "title": "What To Know Before Installing Cameras at Your Rental ...",
+     "domain_rating": 76,
+     "traffic": 56,
+     "ahrefs_page_type": "/Article/Tutorial_or_Guide",
+     "inferred_format": "guide"
+    },
+    {
+     "position": 3,
+     "url": "https://www.facebook.com/groups/askmidlandd/posts/26691094533873010/",
+     "title": "I'm not sure if this is right or not? I rent from these people",
+     "domain_rating": 100,
+     "traffic": 16,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 4,
+     "url": "https://www.reddit.com/r/AskALawyer/comments/181m0n2/is_it_legal_to_install_a_camera_outside_an/",
+     "title": "Is it legal to install a Camera outside an apartment as ...",
+     "domain_rating": 95,
+     "traffic": 33,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 5,
+     "url": "https://www.justanswer.com/ca-real-estate/latex-state-california-legal-landlord.html",
+     "title": "California Landlord and Tenant Security Camera Laws",
+     "domain_rating": 76,
+     "traffic": 33,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 6,
+     "url": "https://www.quora.com/Is-it-legal-to-have-security-cameras-outdoor-in-Texas-at-rental-property-by-landlords",
+     "title": "Is it legal to have security cameras outdoor in Texas at ...",
+     "domain_rating": 92,
+     "traffic": 8,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 7,
+     "url": "https://www.cleveland19.com/2021/08/24/can-your-landlord-legally-install-cameras-where-you-live/",
+     "title": "Can your landlord legally install cameras where you live?",
+     "domain_rating": 75,
+     "traffic": 7,
+     "ahrefs_page_type": "/Article/News_Update",
+     "inferred_format": "article/other"
+    },
+    {
+     "position": 8,
+     "url": "https://www.justanswer.com/landlord-tenant/iks39-question-legal-rights-landlord-s.html",
+     "title": "Legal Rights and Regulations for Security Cameras in ...",
+     "domain_rating": 76,
+     "traffic": 6,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 9,
+     "url": "https://www.justanswer.com/real-estate-law/k1iw5-live-florida-rent-house-family-5.html",
+     "title": "I live in Florida and rent a house for my family of 5. ...",
+     "domain_rating": 76,
+     "traffic": 5,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 10,
+     "url": "https://dyezz.com/apartment-security-camera-laws-texas/",
+     "title": "Apartment Security Camera Laws in Texas - Dyezz Surveillance",
+     "domain_rating": 19,
+     "traffic": 8,
+     "ahrefs_page_type": "/Article/Tutorial_or_Guide",
+     "inferred_format": "guide"
+    }
+   ]
+  },
+  {
+   "keyword": "apartment door security",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 75,
+   "role": "queued keyword (keywords.json)",
+   "organic_results_returned": 5,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "roundup/review": 2,
+    "forum/UGC": 3
+   },
+   "dominant_format": "forum/UGC",
+   "min_dr_top10": 49,
+   "count_dr_below_40": 0,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.hellodata.ai/help-articles/most-popular-apartment-access-control-systems",
+     "title": "What are the Most Popular Apartment Access Control ...",
+     "domain_rating": 49,
+     "traffic": 622,
+     "ahrefs_page_type": "/Article/Listicle",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 3,
+     "url": "https://www.reddit.com/r/neighborsfromhell/comments/1wo980u/unhinged_neighbor_is_stalkingfilming_my_apartment/",
+     "title": "Unhinged neighbor is stalking/filming my apartment door ...",
+     "domain_rating": 95,
+     "traffic": 95,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 7,
+     "url": "https://www.facebook.com/groups/lowvoltagenation/posts/3701899583433177/",
+     "title": "Looking for feedback on CDVI Atrium for access control ...",
+     "domain_rating": 100,
+     "traffic": 74,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 8,
+     "url": "https://forums.wyze.com/t/feature-request-lens-tube-for-mounting-through-door/5415",
+     "title": "Feature Request - Lens tube for mounting through door",
+     "domain_rating": 75,
+     "traffic": 41,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 9,
+     "url": "https://www.loveproperty.com/galleries/121728/common-home-security-mistakes-that-make-you-a-target-for-burglars",
+     "title": "Common home security mistakes that make you a target for ...",
+     "domain_rating": 58,
+     "traffic": 63,
+     "ahrefs_page_type": "/Article/Listicle",
+     "inferred_format": "roundup/review"
+    }
+   ]
+  },
+  {
+   "keyword": "peephole camera for apartment door",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 75,
+   "role": "secondary of best-peephole-camera-for-apartments",
+   "organic_results_returned": 5,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "product": 2,
+    "category/listing": 1,
+    "forum/UGC": 1,
+    "roundup/review": 1
+   },
+   "dominant_format": "product",
+   "min_dr_top10": 34,
+   "count_dr_below_40": 1,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://ring.com/products/peephole-cam-2k",
+     "title": "Peephole Cam 2K - Doorbell Camera",
+     "domain_rating": 83,
+     "traffic": 3018,
+     "ahrefs_page_type": "/Listing/Product",
+     "inferred_format": "product"
+    },
+    {
+     "position": 3,
+     "url": "https://www.amazon.com/apartment-peephole-camera/s?k=apartment+peephole+camera",
+     "title": "Apartment Peephole Camera",
+     "domain_rating": 96,
+     "traffic": 2878,
+     "ahrefs_page_type": null,
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 4,
+     "url": "https://www.reddit.com/r/homeassistant/comments/13o40d8/apartment_peephole_camera_recommendations/",
+     "title": "Apartment Peephole camera recommendations",
+     "domain_rating": 95,
+     "traffic": 468,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 7,
+     "url": "https://theconnectedshop.com/products/smart-door-peephole-camera",
+     "title": "Smart Door Peephole Camera",
+     "domain_rating": 34,
+     "traffic": 224,
+     "ahrefs_page_type": "/Listing/Product",
+     "inferred_format": "product"
+    },
+    {
+     "position": 10,
+     "url": "https://www.techradar.com/home/home-security/i-installed-this-brilliant-peephole-camera-in-10-minutes-and-its-a-great-subscription-free-alternative-to-a-video-doorbell-for-renters-and-apartment-dwellers",
+     "title": "I installed this brilliant peephole camera in 10 minutes, and ...",
+     "domain_rating": 91,
+     "traffic": 17,
+     "ahrefs_page_type": "/Article/Product_or_Brand_Review",
+     "inferred_format": "roundup/review"
+    }
+   ]
+  },
+  {
+   "keyword": "renter friendly smart lock",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 120,
+   "role": "secondary of best-smart-lock-for-renters",
+   "organic_results_returned": 8,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "forum/UGC": 2,
+    "roundup/review": 3,
+    "category/listing": 2,
+    "video": 1
+   },
+   "dominant_format": "roundup/review",
+   "min_dr_top10": 55,
+   "count_dr_below_40": 0,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.reddit.com/r/homeautomation/comments/1rm2gag/best_renter_friendly_smart_lock/",
+     "title": "Best renter friendly smart lock? : r/homeautomation",
+     "domain_rating": 95,
+     "traffic": 168,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 3,
+     "url": "https://august.com/pages/renters",
+     "title": "Smart Locks for Apartment Renters",
+     "domain_rating": 73,
+     "traffic": 451,
+     "ahrefs_page_type": "/Article/Roundup",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 4,
+     "url": "https://www.instagram.com/reel/DViAuEljmSp/",
+     "title": "A no B.S renter friendly smart lock recommendation",
+     "domain_rating": 100,
+     "traffic": 17,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 5,
+     "url": "https://www.amazon.com/smart-lock-apartment-door/s?k=smart+lock+for+apartment+door",
+     "title": "Smart Lock For Apartment Door",
+     "domain_rating": 96,
+     "traffic": 137,
+     "ahrefs_page_type": null,
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 7,
+     "url": "https://www.cnet.com/home/security/best-smart-locks/",
+     "title": "Best Smart Locks of 2026: Your Door Deserves This",
+     "domain_rating": 91,
+     "traffic": 11267,
+     "ahrefs_page_type": "/Article/Roundup",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 8,
+     "url": "https://www.youtube.com/watch?v=WtChYNwplFk",
+     "title": "SwitchBot Lock Pro - for those who rent!",
+     "domain_rating": 99,
+     "traffic": 10,
+     "ahrefs_page_type": null,
+     "inferred_format": "video"
+    },
+    {
+     "position": 9,
+     "url": "https://lockin.com/blogs/articles/best-smart-lock-for-renters-a-lease-friendly-decision-guide",
+     "title": "Best Smart Lock for Renters? A Lease-Friendly Decision ...",
+     "domain_rating": 55,
+     "traffic": 4,
+     "ahrefs_page_type": "/Article/Tutorial_or_Guide",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 10,
+     "url": "https://www.bestbuy.com/site/shop/smart-locks-for-apartments",
+     "title": "Smart Locks For Apartments",
+     "domain_rating": 89,
+     "traffic": 10,
+     "ahrefs_page_type": null,
+     "inferred_format": "category/listing"
+    }
+   ]
+  },
+  {
+   "keyword": "ring doorbell for apartment",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 75,
+   "role": "secondary of ring-doorbell-in-apartment",
+   "organic_results_returned": 5,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "category/listing": 2,
+    "forum/UGC": 1,
+    "product": 1,
+    "roundup/review": 1
+   },
+   "dominant_format": "category/listing",
+   "min_dr_top10": 83,
+   "count_dr_below_40": 0,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://ring.com/collections/renter-friendly-security",
+     "title": "Renter Friendly Security - Apartments, Homes, and more",
+     "domain_rating": 83,
+     "traffic": 1529,
+     "ahrefs_page_type": null,
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 4,
+     "url": "https://www.reddit.com/r/Apartmentliving/comments/1e5nmem/whats_everyones_opinion_on_doorbell_ring_cameras/",
+     "title": "what's everyone's opinion on doorbell ring cameras in ...",
+     "domain_rating": 95,
+     "traffic": 388,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 5,
+     "url": "https://www.amazon.com/stores/Ring/page/4B964AAB-E6F6-4F91-BDDC-22B9F7A1FAEF",
+     "title": "Ring for Apartment Dwellers",
+     "domain_rating": 96,
+     "traffic": 386,
+     "ahrefs_page_type": null,
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 7,
+     "url": "https://ring.com/products/peephole-cam-2k",
+     "title": "Peephole Cam 2K - Doorbell Camera",
+     "domain_rating": 83,
+     "traffic": 3018,
+     "ahrefs_page_type": "/Listing/Product",
+     "inferred_format": "product"
+    },
+    {
+     "position": 9,
+     "url": "https://blog.ring.com/home-security/best-ring-devices-for-renters/",
+     "title": "Which Ring Devices Are Best for Renters?",
+     "domain_rating": 83,
+     "traffic": 199,
+     "ahrefs_page_type": "/Article/Listicle",
+     "inferred_format": "roundup/review"
+    }
+   ]
+  },
+  {
+   "keyword": "video doorbell without subscription",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 75,
+   "role": "secondary of best-video-doorbell-without-subscription-for-renters",
+   "organic_results_returned": 5,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "forum/UGC": 1,
+    "guide": 1,
+    "category/listing": 2,
+    "roundup/review": 1
+   },
+   "dominant_format": "category/listing",
+   "min_dr_top10": 75,
+   "count_dr_below_40": 0,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.reddit.com/r/homeautomation/comments/1qzewca/best_no_subscription_doorbell_cameras/",
+     "title": "Best no subscription doorbell cameras? : r/homeautomation",
+     "domain_rating": 95,
+     "traffic": 2561,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 4,
+     "url": "https://www.safehome.org/doorbell-cameras/best/no-subscription/",
+     "title": "A Guide to Subscription-Free Smart Doorbell Cameras",
+     "domain_rating": 75,
+     "traffic": 6236,
+     "ahrefs_page_type": "/Article/Tutorial_or_Guide",
+     "inferred_format": "guide"
+    },
+    {
+     "position": 5,
+     "url": "https://www.eufy.com/collections/video-doorbell",
+     "title": "Video Doorbells",
+     "domain_rating": 78,
+     "traffic": 7258,
+     "ahrefs_page_type": "/Listing_Collection/Product",
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 6,
+     "url": "https://www.consumerreports.org/home-garden/home-security-cameras/best-video-doorbell-cameras-without-a-subscription-a1134473783/",
+     "title": "Best Video Doorbell Cameras Without a Subscription",
+     "domain_rating": 91,
+     "traffic": 9157,
+     "ahrefs_page_type": null,
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 9,
+     "url": "https://www.bestbuy.com/site/shop/wireless-doorbell-camera-no-subscription",
+     "title": "Wireless Doorbell Camera No Subscription",
+     "domain_rating": 89,
+     "traffic": 1590,
+     "ahrefs_page_type": "/Listing/Product",
+     "inferred_format": "category/listing"
+    }
+   ]
+  },
+  {
+   "keyword": "best stud finder",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 105,
+   "role": "extra check",
+   "organic_results_returned": 7,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "roundup/review": 3,
+    "forum/UGC": 1,
+    "category/listing": 2,
+    "video": 1
+   },
+   "dominant_format": "roundup/review",
+   "min_dr_top10": 70,
+   "count_dr_below_40": 0,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.protoolreviews.com/best-stud-finder/",
+     "title": "Best Stud Finder: We Tested the Most Popular Models",
+     "domain_rating": 70,
+     "traffic": 11342,
+     "ahrefs_page_type": "/Article/Product_or_Brand_Review",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 3,
+     "url": "https://www.outdoorlife.com/gear/best-stud-finders/",
+     "title": "The Best Stud Finders of 2026, Tested and Reviewed",
+     "domain_rating": 77,
+     "traffic": 7080,
+     "ahrefs_page_type": "/Article/Product_or_Brand_Review",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 4,
+     "url": "https://www.reddit.com/r/Tools/comments/1lum5g3/best_stud_finder_for_someone_who_knows_nothing/",
+     "title": "Best Stud Finder For Someone Who Knows Nothing About ...",
+     "domain_rating": 95,
+     "traffic": 2939,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 6,
+     "url": "https://www.amazon.com/Best-Sellers-Stud-Finders-Scanners/zgbs/hi/553280",
+     "title": "Best Stud Finders & Scanners",
+     "domain_rating": 96,
+     "traffic": 2019,
+     "ahrefs_page_type": "/Listing_Collection/Product",
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 8,
+     "url": "https://www.homedepot.com/b/Tools-Hand-Tools-Stud-Finders/Highly-Rated/N-5yc1vZc23hZbwo5o",
+     "title": "Highly Rated - Stud Finders",
+     "domain_rating": 90,
+     "traffic": 292,
+     "ahrefs_page_type": null,
+     "inferred_format": "category/listing"
+    },
+    {
+     "position": 9,
+     "url": "https://www.nytimes.com/wirecutter/reviews/best-stud-finder/",
+     "title": "The Best Stud Finder for Home Use | Reviews by Wirecutter",
+     "domain_rating": 94,
+     "traffic": 673,
+     "ahrefs_page_type": "/Article/Product_or_Brand_Review",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 10,
+     "url": "https://www.youtube.com/watch?v=DOMDg4bGLDI&vl=en",
+     "title": "We Tested a $20 Stud Finder vs a High-Tech One",
+     "domain_rating": 99,
+     "traffic": 3714,
+     "ahrefs_page_type": null,
+     "inferred_format": "video"
+    }
+   ]
+  },
+  {
+   "keyword": "best security camera for apartment",
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: serp-overview (country=us, type=organic, top_positions=10)",
+   "units": 90,
+   "role": "secondary of best-wireless-security-cameras-for-apartments",
+   "organic_results_returned": 6,
+   "rentersmarthome_in_top10": false,
+   "format_counts": {
+    "forum/UGC": 4,
+    "product": 1,
+    "roundup/review": 1
+   },
+   "dominant_format": "forum/UGC",
+   "min_dr_top10": 31,
+   "count_dr_below_40": 1,
+   "organic": [
+    {
+     "position": 2,
+     "url": "https://www.reddit.com/r/homesecurity/comments/sc14di/peephole_camera_recommendations_for_an_apartment/",
+     "title": "Peephole camera recommendations for an apartment",
+     "domain_rating": 95,
+     "traffic": 81,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 3,
+     "url": "https://www.pioneersecurity.com/industries/apartments-multifamily-complexes/",
+     "title": "Live Video Monitoring for Apartments & Complexes (2026)",
+     "domain_rating": 31,
+     "traffic": 34,
+     "ahrefs_page_type": "/Landing_Page/Product_Page",
+     "inferred_format": "product"
+    },
+    {
+     "position": 4,
+     "url": "https://www.facebook.com/groups/518034226831382/posts/1230990208869110/",
+     "title": "What are internet-free camera options for apartment ...",
+     "domain_rating": 100,
+     "traffic": 23,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 5,
+     "url": "https://www.quora.com/What-security-camera-brand-do-you-prefer-and-why",
+     "title": "What security camera brand do you prefer and why?",
+     "domain_rating": 92,
+     "traffic": 23,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    },
+    {
+     "position": 6,
+     "url": "https://www.blog.heykangaroo.com/blog/secure-your-lease-best-wireless-doorbells-for-apartment-renters",
+     "title": "Best Wireless Doorbells for Apartment Renters",
+     "domain_rating": 41,
+     "traffic": 21,
+     "ahrefs_page_type": "/Article/Roundup",
+     "inferred_format": "roundup/review"
+    },
+    {
+     "position": 10,
+     "url": "https://community.spiceworks.com/t/apartment-complex-resident-viewable-entry-camera/782298/3",
+     "title": "Apartment complex resident viewable entry camera",
+     "domain_rating": 87,
+     "traffic": 6,
+     "ahrefs_page_type": null,
+     "inferred_format": "forum/UGC"
+    }
+   ]
+  }
+ ],
+ "pairwise_serp_overlap": [
+  {
+   "a": "security cameras for apartments",
+   "b": "apartment security camera",
+   "shared": 6,
+   "urls": [
+    "amazon.com/apartment-security-cameras/s",
+    "avigilon.com/blog/apartment-building-security-cameras",
+    "bestbuy.com/site/shop/apartment-surveillance-cameras",
+    "reddit.com/r/homeautomation/comments/1bajgfm/cameras_for_an_apartment_complex",
+    "safehome.org/home-security-cameras/best/apartments",
+    "security.org/security-cameras/best/apartment"
+   ]
+  },
+  {
+   "a": "best smart lock for renters",
+   "b": "renter friendly smart lock",
+   "shared": 4,
+   "urls": [
+    "amazon.com/smart-lock-apartment-door/s?k=smart+lock+for+apartment+door",
+    "august.com/pages/renters",
+    "cnet.com/home/security/best-smart-locks",
+    "reddit.com/r/homeautomation/comments/1rm2gag/best_renter_friendly_smart_lock"
+   ]
+  },
+  {
+   "a": "blink vs ring subscription",
+   "b": "ring vs blink",
+   "shared": 4,
+   "urls": [
+    "moderncastle.com/home-security/blink-vs-ring",
+    "safehome.org/compare/ring-vs-blink",
+    "security.org/security-cameras/blink-vs-ring",
+    "zdnet.com/home-and-office/smart-home/ring-vs-blink"
+   ]
+  },
+  {
+   "a": "best stud finder for plaster walls",
+   "b": "best stud finder",
+   "shared": 4,
+   "urls": [
+    "amazon.com/Best-Sellers-Stud-Finders-Scanners/zgbs/hi/553280",
+    "nytimes.com/wirecutter/reviews/best-stud-finder",
+    "outdoorlife.com/gear/best-stud-finders",
+    "protoolreviews.com/best-stud-finder"
+   ]
+  },
+  {
+   "a": "apartment security system",
+   "b": "alarm system for apartment renters",
+   "shared": 4,
+   "urls": [
+    "goabode.com/blog/best-home-security-system-for-renters-2026-no-drilling-no-contracts-5-systems-tested-one-costs-0-month",
+    "realestate.usnews.com/home-services/home-security-systems/best-home-security-systems-for-renters",
+    "safehome.org/security-systems/best/apartments",
+    "security.org/home-security-systems/best/apartment"
+   ]
+  },
+  {
+   "a": "peephole camera",
+   "b": "peephole camera for apartment door",
+   "shared": 3,
+   "urls": [
+    "amazon.com/apartment-peephole-camera/s",
+    "ring.com/products/peephole-cam-2k",
+    "theconnectedshop.com/products/smart-door-peephole-camera"
+   ]
+  },
+  {
+   "a": "best video doorbell without subscription",
+   "b": "video doorbell without subscription",
+   "shared": 3,
+   "urls": [
+    "bestbuy.com/site/shop/wireless-doorbell-camera-no-subscription",
+    "consumerreports.org/home-garden/home-security-cameras/best-video-doorbell-cameras-without-a-subscription-a1134473783",
+    "safehome.org/doorbell-cameras/best/no-subscription"
+   ]
+  },
+  {
+   "a": "peephole camera",
+   "b": "ring doorbell for apartment",
+   "shared": 1,
+   "urls": [
+    "ring.com/products/peephole-cam-2k"
+   ]
+  },
+  {
+   "a": "alarm system for apartment renters",
+   "b": "ring doorbell for apartment",
+   "shared": 1,
+   "urls": [
+    "ring.com/collections/renter-friendly-security"
+   ]
+  },
+  {
+   "a": "apartment security camera laws for tenants",
+   "b": "can a landlord put cameras outside the house",
+   "shared": 1,
+   "urls": [
+    "justanswer.com/ca-real-estate/latex-state-california-legal-landlord.html"
+   ]
+  },
+  {
+   "a": "peephole camera for apartment door",
+   "b": "ring doorbell for apartment",
+   "shared": 1,
+   "urls": [
+    "ring.com/products/peephole-cam-2k"
+   ]
+  }
+ ]
+}

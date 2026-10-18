@@ -1,0 +1,35 @@
+{
+  "target": "rentersmarthome.us",
+  "collected": "2026-10-18",
+  "source": "Ahrefs API v3 via MCP",
+  "domain_rating": {"tool": "site-explorer-domain-rating", "date": "2026-10-18", "domain_rating": 0.0, "ahrefs_rank": null, "units": 50},
+  "organic_metrics": {
+    "tool": "site-explorer-metrics",
+    "mode_domain": {"org_keywords": 0, "org_keywords_1_3": 0, "org_traffic": 0, "org_cost": null, "paid_keywords": 0, "paid_traffic": 0, "units": 50},
+    "mode_subdomains": {"org_keywords": 0, "org_keywords_1_3": 0, "org_traffic": 0, "org_cost": null, "paid_keywords": 0, "paid_traffic": 0, "units": 50},
+    "note": "Ahrefs shows no ranking keywords in its index for either mode. Posts were published 2026-10-10..2026-10-17, so Ahrefs may simply not have crawled rankings yet; this does not prove the pages are not indexed by Google."
+  },
+  "backlinks": {
+    "tool": "site-explorer-backlinks-stats (mode=domain)",
+    "live_backlinks": 53, "all_time_backlinks": 53, "live_refdomains": 53, "all_time_refdomains": 53, "units": 50
+  },
+  "referring_domains_detail": {
+    "tool": "site-explorer-referring-domains (mode=domain, history=live, limit=60)",
+    "units": 318,
+    "summary": {
+      "refdomains_returned": 53,
+      "flagged_is_spam_by_ahrefs": 53,
+      "dofollow_links_total": 0,
+      "pattern": "52 numbered .xyz domains (8762xxxx.xyz, DR 51 each) + lancelot88-lucky.xyz (DR 54); 1 link each",
+      "first_seen_range": "2026-10-11 .. 2026-10-14"
+    },
+    "interpretation": "Every referring domain is flagged spam by Ahrefs and all links are nofollow. There are no editorial backlinks. Origin of these links (negative SEO, scraper network, leftover from the previous owner of the domain) is not verifiable from this data."
+  },
+  "gsc": {
+    "gsc-keywords": "error: 'Either project_id or portfolio_id must be provided'",
+    "gsc-pages": "error: 'Either project_id or portfolio_id must be provided'",
+    "management-projects": "No Ahrefs project for rentersmarthome.us exists in the workspace reachable by this API key (the listing contains only unrelated projects owned by another account). GSC data via Ahrefs is therefore unavailable / not connected.",
+    "status": "unavailable"
+  },
+  "context_from_repo": "data/redirects.json says the domain previously hosted an older site whose URLs Google indexed (/reviews/..., /categories/...); redirects to the new /blog/ posts are configured. Not verified live in this audit."
+}

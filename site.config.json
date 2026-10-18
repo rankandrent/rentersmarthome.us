@@ -175,8 +175,7 @@
   "keywordRules": {
     "maxVolume": 250,
     "minWords": 3,
-    "maxKd": 10,
-    "requireAhrefs": false
+    "maxKd": 10
   },
   "qa": {
     "requiredFrom": "2026-10-14T13:30:00Z",

@@ -1,0 +1,3669 @@
+{
+ "collected": "2026-10-18",
+ "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+ "country": "us",
+ "language_note": "Ahrefs keywords-explorer has no language parameter; US database used.",
+ "units_spent": 5238,
+ "select_batch1": "keyword,volume,difficulty,traffic_potential,cpc,parent_topic,parent_volume,intents,serp_features,global_volume (serp_features stored as a subset of notable features only)",
+ "select_batch2_3": "keyword,volume,difficulty,traffic_potential,cpc,parent_topic,intents",
+ "counts": {
+  "requested": 248,
+  "with_data": 98,
+  "zero_volume": 16,
+  "unavailable": 134
+ },
+ "keywords": [
+  {
+   "keyword": "alexa vs google home",
+   "roles": [
+    "post_primary:alexa-vs-google-home",
+    "keywords.json:published"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 1300,
+   "kd": 2,
+   "traffic_potential": 800,
+   "cpc_usd": 0.3,
+   "parent_topic": "alexa vs google home",
+   "parent_volume": 1300,
+   "intents": [
+    "informational",
+    "commercial",
+    "branded"
+   ],
+   "global_volume": 2800,
+   "serp_features_subset": [
+    "ai_overview",
+    "news"
+   ],
+   "previous_keywords_json_ahrefs": {
+    "volume": 1300,
+    "kd": 2,
+    "trafficPotential": 800
+   }
+  },
+  {
+   "keyword": "best heavy duty adhesive hooks for renters",
+   "roles": [
+    "post_primary:best-heavy-duty-adhesive-hooks-for-renters",
+    "keywords.json:published"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best led strip lights for renters",
+   "roles": [
+    "post_primary:best-led-strip-lights-for-renters",
+    "keywords.json:published"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best magnetic cabinet locks for renters",
+   "roles": [
+    "post_primary:best-magnetic-cabinet-locks-for-renters",
+    "keywords.json:published"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best magnetic stud finder",
+   "roles": [
+    "post_primary:best-magnetic-stud-finder",
+    "keywords.json:published"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 100,
+   "kd": 0,
+   "traffic_potential": 0,
+   "cpc_usd": 0.25,
+   "parent_topic": "the best stud finders",
+   "parent_volume": 10,
+   "intents": [
+    "informational",
+    "commercial"
+   ],
+   "global_volume": 100,
+   "serp_features_subset": [
+    "ai_overview",
+    "video",
+    "organic_shopping"
+   ]
+  },
+  {
+   "keyword": "matter smart plug",
+   "roles": [
+    "post_primary:best-matter-smart-plugs"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 300,
+   "kd": 1,
+   "traffic_potential": 90,
+   "cpc_usd": 0.3,
+   "parent_topic": "matter smart plug",
+   "parent_volume": 300,
+   "intents": [
+    "informational",
+    "commercial",
+    "transactional",
+    "branded"
+   ],
+   "global_volume": 900,
+   "serp_features_subset": [
+    "ai_overview",
+    "organic_shopping"
+   ]
+  },
+  {
+   "keyword": "peephole camera",
+   "roles": [
+    "post_primary:best-peephole-camera-for-apartments"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 4500,
+   "kd": 0,
+   "traffic_potential": 200,
+   "cpc_usd": 0.25,
+   "parent_topic": "peephole camera for apartment door",
+   "parent_volume": 250,
+   "intents": [
+    "informational",
+    "commercial",
+    "transactional"
+   ],
+   "global_volume": 8200,
+   "serp_features_subset": [
+    "ai_overview",
+    "discussion",
+    "organic_shopping",
+    "video"
+   ]
+  },
+  {
+   "keyword": "best pressure mounted baby gate for renters",
+   "roles": [
+    "post_primary:best-pressure-mounted-baby-gate-for-renters",
+    "keywords.json:published"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best smart light bulbs for renters",
+   "roles": [
+    "post_primary:best-smart-light-bulbs-for-renters",
+    "keywords.json:published"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best smart lock for renters",
+   "roles": [
+    "post_primary:best-smart-lock-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 30,
+   "kd": 9,
+   "traffic_potential": 200,
+   "cpc_usd": 0.8,
+   "parent_topic": "renter friendly smart lock",
+   "parent_volume": 90,
+   "intents": [
+    "informational",
+    "commercial"
+   ],
+   "global_volume": 100,
+   "serp_features_subset": [
+    "ai_overview",
+    "discussion",
+    "video",
+    "news"
+   ]
+  },
+  {
+   "keyword": "best smart smoke detector for apartments",
+   "roles": [
+    "post_primary:best-smart-smoke-detector-for-apartments",
+    "keywords.json:published"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best stud finder for thick walls",
+   "roles": [
+    "post_primary:best-stud-finder-for-thick-walls",
+    "keywords.json:published"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 20,
+   "kd": null,
+   "traffic_potential": null,
+   "cpc_usd": 0.2,
+   "parent_topic": null,
+   "parent_volume": null,
+   "intents": [
+    "informational",
+    "commercial"
+   ],
+   "global_volume": 30,
+   "serp_features_subset": [],
+   "kd_note": "KD/traffic potential not computed by Ahrefs (null)"
+  },
+  {
+   "keyword": "best video doorbell without subscription for renters",
+   "roles": [
+    "post_primary:best-video-doorbell-without-subscription-for-renters",
+    "keywords.json:published"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best voice assistant speaker for small apartments",
+   "roles": [
+    "post_primary:best-voice-assistant-speaker-for-small-apartments",
+    "keywords.json:published"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best water leak sensor for renters",
+   "roles": [
+    "post_primary:best-water-leak-sensor-for-renters",
+    "keywords.json:published"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "zero_volume",
+   "volume": 0,
+   "kd": null,
+   "traffic_potential": null,
+   "cpc_usd": null,
+   "parent_topic": null,
+   "parent_volume": null,
+   "intents": [],
+   "global_volume": 70,
+   "serp_features_subset": [],
+   "kd_note": "KD/traffic potential not computed by Ahrefs (null)"
+  },
+  {
+   "keyword": "best wireless security cameras for apartments",
+   "roles": [
+    "post_primary:best-wireless-security-cameras-for-apartments",
+    "keywords.json:published"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "zero_volume",
+   "volume": 0,
+   "kd": null,
+   "traffic_potential": null,
+   "cpc_usd": null,
+   "parent_topic": null,
+   "parent_volume": null,
+   "intents": [],
+   "global_volume": 0,
+   "serp_features_subset": [],
+   "kd_note": "KD/traffic potential not computed by Ahrefs (null)"
+  },
+  {
+   "keyword": "blink vs ring subscription",
+   "roles": [
+    "post_primary:blink-vs-ring-subscription",
+    "keywords.json:published"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 150,
+   "kd": 0,
+   "traffic_potential": 1700,
+   "cpc_usd": null,
+   "parent_topic": "who owns blink",
+   "parent_volume": 900,
+   "intents": [
+    "informational",
+    "commercial",
+    "branded"
+   ],
+   "global_volume": 150,
+   "serp_features_subset": [
+    "ai_overview"
+   ],
+   "previous_keywords_json_ahrefs": {
+    "volume": 150,
+    "kd": 0,
+    "trafficPotential": 1700
+   }
+  },
+  {
+   "keyword": "how to baby proof a rental without damage",
+   "roles": [
+    "post_primary:how-to-baby-proof-a-rental-without-damage",
+    "keywords.json:published"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "how to cool apartment without ac",
+   "roles": [
+    "post_primary:how-to-cool-apartment-without-ac",
+    "keywords.json:published"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 200,
+   "kd": 3,
+   "traffic_potential": 200,
+   "cpc_usd": 0.04,
+   "parent_topic": "how to cool apartment without ac",
+   "parent_volume": 200,
+   "intents": [
+    "informational"
+   ],
+   "global_volume": 300,
+   "serp_features_subset": [
+    "ai_overview",
+    "video"
+   ]
+  },
+  {
+   "keyword": "no drill motorized blinds",
+   "roles": [
+    "post_primary:no-drill-motorized-blinds",
+    "keywords.json:published"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 200,
+   "kd": 0,
+   "traffic_potential": 30,
+   "cpc_usd": 1.1,
+   "parent_topic": "no drill motorized blinds",
+   "parent_volume": 200,
+   "intents": [
+    "informational",
+    "commercial",
+    "transactional"
+   ],
+   "global_volume": 250,
+   "serp_features_subset": [
+    "organic_shopping",
+    "ai_overview"
+   ],
+   "previous_keywords_json_ahrefs": {
+    "volume": 200,
+    "kd": 0,
+    "trafficPotential": 30
+   }
+  },
+  {
+   "keyword": "philips hue vs wiz",
+   "roles": [
+    "post_primary:philips-hue-vs-wiz",
+    "keywords.json:published"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 200,
+   "kd": 0,
+   "traffic_potential": 200,
+   "cpc_usd": 0.4,
+   "parent_topic": "philips hue vs wiz",
+   "parent_volume": 200,
+   "intents": [
+    "informational",
+    "commercial",
+    "branded"
+   ],
+   "global_volume": 600,
+   "serp_features_subset": [
+    "ai_overview",
+    "discussion"
+   ],
+   "previous_keywords_json_ahrefs": {
+    "volume": 200,
+    "kd": 0,
+    "trafficPotential": 200
+   }
+  },
+  {
+   "keyword": "can you put ring doorbell on apartment",
+   "roles": [
+    "post_primary:ring-doorbell-in-apartment",
+    "keywords.json:published"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 150,
+   "kd": 0,
+   "traffic_potential": 100,
+   "cpc_usd": 0.09,
+   "parent_topic": "are ring cameras allowed in apartments",
+   "parent_volume": 50,
+   "intents": [
+    "informational",
+    "branded"
+   ],
+   "global_volume": 150,
+   "serp_features_subset": [
+    "news"
+   ],
+   "previous_keywords_json_ahrefs": {
+    "volume": 150,
+    "kd": 0,
+    "trafficPotential": 100,
+    "parentTopic": "are ring cameras allowed in apartments"
+   }
+  },
+  {
+   "keyword": "smart ac controller",
+   "roles": [
+    "post_primary:smart-ac-controller",
+    "keywords.json:published"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 250,
+   "kd": 0,
+   "traffic_potential": 350,
+   "cpc_usd": 0.45,
+   "parent_topic": "smart ac controller",
+   "parent_volume": 250,
+   "intents": [
+    "informational",
+    "commercial",
+    "transactional"
+   ],
+   "global_volume": 1000,
+   "serp_features_subset": [
+    "ai_overview",
+    "organic_shopping"
+   ],
+   "previous_keywords_json_ahrefs": {
+    "volume": 250,
+    "kd": 0,
+    "trafficPotential": 350,
+    "parentTopic": "smart ac controller"
+   }
+  },
+  {
+   "keyword": "smart home for renters",
+   "roles": [
+    "post_primary:smart-home-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 60,
+   "kd": 6,
+   "traffic_potential": 70,
+   "cpc_usd": 0.4,
+   "parent_topic": "smart home for rental property",
+   "parent_volume": 100,
+   "intents": [
+    "informational",
+    "commercial"
+   ],
+   "global_volume": 90,
+   "serp_features_subset": [
+    "ai_overview",
+    "discussion"
+   ]
+  },
+  {
+   "keyword": "can i install a smart thermostat in my apartment",
+   "roles": [
+    "post_primary:smart-thermostat-in-apartment",
+    "keywords.json:published"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 80,
+   "kd": 0,
+   "traffic_potential": 250,
+   "cpc_usd": 0.6,
+   "parent_topic": "can i install a smart thermostat in my apartment",
+   "parent_volume": 90,
+   "intents": [
+    "informational",
+    "commercial"
+   ],
+   "global_volume": 80,
+   "serp_features_subset": [
+    "ai_overview"
+   ],
+   "previous_keywords_json_ahrefs": {
+    "volume": 200,
+    "kd": 0,
+    "trafficPotential": 200
+   }
+  },
+  {
+   "keyword": "wyze vs ring vs eufy for renters",
+   "roles": [
+    "post_primary:wyze-vs-ring-vs-eufy-for-renters",
+    "keywords.json:published"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "apartment security system",
+   "roles": [
+    "keywords.json:parked"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 1600,
+   "kd": 11,
+   "traffic_potential": 3500,
+   "cpc_usd": 8.0,
+   "parent_topic": "apartment security system",
+   "intents": [
+    "informational",
+    "commercial"
+   ],
+   "previous_keywords_json_ahrefs": {
+    "volume": 1600,
+    "kd": 15,
+    "trafficPotential": 4600
+   }
+  },
+  {
+   "keyword": "indoor security camera no subscription",
+   "roles": [
+    "keywords.json:merged"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 70,
+   "kd": 7,
+   "traffic_potential": 1100,
+   "cpc_usd": 0.4,
+   "parent_topic": "best indoor security camera without subscription",
+   "intents": [
+    "informational",
+    "commercial",
+    "transactional"
+   ],
+   "previous_keywords_json_ahrefs": {
+    "volume": 70,
+    "kd": 7,
+    "trafficPotential": 1100
+   }
+  },
+  {
+   "keyword": "switchbot lock pro review",
+   "roles": [
+    "keywords.json:parked"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 20,
+   "kd": null,
+   "traffic_potential": null,
+   "cpc_usd": null,
+   "parent_topic": null,
+   "intents": [
+    "informational",
+    "commercial",
+    "branded"
+   ],
+   "kd_note": "KD/traffic potential not computed by Ahrefs (null)",
+   "previous_keywords_json_ahrefs": {
+    "volume": 600,
+    "kd": 8,
+    "trafficPotential": 600
+   }
+  },
+  {
+   "keyword": "door camera for apartment",
+   "roles": [
+    "keywords.json:parked"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 900,
+   "kd": 0,
+   "traffic_potential": 500,
+   "cpc_usd": 0.8,
+   "parent_topic": "apartment doorbell camera",
+   "intents": [
+    "informational",
+    "commercial",
+    "transactional"
+   ],
+   "previous_keywords_json_ahrefs": {
+    "volume": 900,
+    "kd": 0,
+    "trafficPotential": 500
+   }
+  },
+  {
+   "keyword": "smart space heater",
+   "roles": [
+    "keywords.json:parked"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 1000,
+   "kd": 0,
+   "traffic_potential": 20,
+   "cpc_usd": 0.25,
+   "parent_topic": "smart heaters",
+   "intents": [
+    "informational",
+    "commercial",
+    "transactional"
+   ],
+   "previous_keywords_json_ahrefs": {
+    "volume": 1000,
+    "kd": 0,
+    "trafficPotential": 20
+   }
+  },
+  {
+   "keyword": "smart home starter kit",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 200,
+   "kd": 4,
+   "traffic_potential": 70,
+   "cpc_usd": 0.4,
+   "parent_topic": "smart home starter kit",
+   "intents": [
+    "informational",
+    "commercial",
+    "transactional"
+   ],
+   "previous_keywords_json_ahrefs": {
+    "volume": 200,
+    "kd": 4,
+    "trafficPotential": 70
+   }
+  },
+  {
+   "keyword": "mini split smart controller",
+   "roles": [
+    "post_secondary:smart-ac-controller",
+    "keywords.json:merged"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 30,
+   "kd": 0,
+   "traffic_potential": 60,
+   "cpc_usd": 0.7,
+   "parent_topic": "smart mini split controller",
+   "intents": [
+    "informational",
+    "commercial"
+   ],
+   "previous_keywords_json_ahrefs": {
+    "volume": 30,
+    "kd": 0,
+    "trafficPotential": 60
+   }
+  },
+  {
+   "keyword": "smart light switch no wiring",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 20,
+   "kd": 1,
+   "traffic_potential": 60,
+   "cpc_usd": 0.3,
+   "parent_topic": "smart light switch no wiring",
+   "intents": [
+    "informational",
+    "commercial"
+   ],
+   "previous_keywords_json_ahrefs": {
+    "volume": 20,
+    "kd": 1,
+    "trafficPotential": 60
+   }
+  },
+  {
+   "keyword": "smart bulbs for apartment",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "how to install a smart lock in an apartment",
+   "roles": [
+    "keywords.json:merged"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "how to move your smart home to a new apartment",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "apartment security camera",
+   "roles": [
+    "keywords.json:parked"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 350,
+   "kd": 1,
+   "traffic_potential": 500,
+   "cpc_usd": 1.9,
+   "parent_topic": "security cameras for apartments",
+   "intents": [
+    "informational",
+    "commercial",
+    "transactional"
+   ],
+   "previous_keywords_json_ahrefs": {
+    "volume": 350,
+    "kd": 1,
+    "trafficPotential": 500
+   }
+  },
+  {
+   "keyword": "locked out of apartment",
+   "roles": [
+    "keywords.json:parked"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 800,
+   "kd": 1,
+   "traffic_potential": 350,
+   "cpc_usd": 3.0,
+   "parent_topic": "locked out of apartment how to get in",
+   "intents": [
+    "informational"
+   ],
+   "previous_keywords_json_ahrefs": {
+    "volume": 800,
+    "kd": 1,
+    "trafficPotential": 350
+   }
+  },
+  {
+   "keyword": "apartment door security",
+   "roles": [
+    "keywords.json:parked"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 700,
+   "kd": 0,
+   "traffic_potential": 250,
+   "cpc_usd": 0.45,
+   "parent_topic": "building access control system",
+   "intents": [
+    "informational",
+    "commercial"
+   ],
+   "previous_keywords_json_ahrefs": {
+    "volume": 700,
+    "kd": 0,
+    "trafficPotential": 250
+   }
+  },
+  {
+   "keyword": "dorm room lights",
+   "roles": [
+    "keywords.json:parked"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 300,
+   "kd": 0,
+   "traffic_potential": 800,
+   "cpc_usd": 0.25,
+   "parent_topic": "dorm lights",
+   "intents": [
+    "informational",
+    "commercial",
+    "transactional"
+   ],
+   "previous_keywords_json_ahrefs": {
+    "volume": 300,
+    "kd": 0,
+    "trafficPotential": 800
+   }
+  },
+  {
+   "keyword": "apartment lighting ideas",
+   "roles": [
+    "keywords.json:merged"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 200,
+   "kd": 0,
+   "traffic_potential": 250,
+   "cpc_usd": 0.25,
+   "parent_topic": "apartment lighting ideas",
+   "intents": [
+    "informational"
+   ],
+   "previous_keywords_json_ahrefs": {
+    "volume": 200,
+    "kd": 0,
+    "trafficPotential": 250
+   }
+  },
+  {
+   "keyword": "apartment security camera laws for tenants",
+   "roles": [
+    "keywords.json:parked"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 300,
+   "kd": 0,
+   "traffic_potential": 50,
+   "cpc_usd": 0.15,
+   "parent_topic": "is it legal to put a camera outside your apartment",
+   "intents": [
+    "informational"
+   ],
+   "previous_keywords_json_ahrefs": {
+    "volume": 300,
+    "kd": 0,
+    "trafficPotential": 50
+   }
+  },
+  {
+   "keyword": "kasa vs tapo",
+   "roles": [
+    "keywords.json:skipped"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 400,
+   "kd": 0,
+   "traffic_potential": 300,
+   "cpc_usd": 0.15,
+   "parent_topic": "kasa vs tapo",
+   "intents": [
+    "informational",
+    "commercial",
+    "branded"
+   ],
+   "previous_keywords_json_ahrefs": {
+    "volume": 400,
+    "kd": 0,
+    "trafficPotential": 300
+   }
+  },
+  {
+   "keyword": "matter vs zigbee",
+   "roles": [
+    "keywords.json:parked"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 400,
+   "kd": 0,
+   "traffic_potential": 250,
+   "cpc_usd": 0.02,
+   "parent_topic": "matter vs zigbee",
+   "intents": [
+    "informational",
+    "commercial",
+    "branded"
+   ],
+   "previous_keywords_json_ahrefs": {
+    "volume": 400,
+    "kd": 0,
+    "trafficPotential": 250
+   }
+  },
+  {
+   "keyword": "ring vs nest doorbell",
+   "roles": [
+    "keywords.json:parked"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 400,
+   "kd": 3,
+   "traffic_potential": 1900,
+   "cpc_usd": 0.1,
+   "parent_topic": "ring vs nest",
+   "intents": [
+    "informational",
+    "commercial",
+    "branded"
+   ],
+   "previous_keywords_json_ahrefs": {
+    "volume": 400,
+    "kd": 3,
+    "trafficPotential": 1900
+   }
+  },
+  {
+   "keyword": "wyze vs blink",
+   "roles": [
+    "keywords.json:parked"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 350,
+   "kd": 1,
+   "traffic_potential": 400,
+   "cpc_usd": 0.09,
+   "parent_topic": "wyze vs blink",
+   "intents": [
+    "informational",
+    "commercial",
+    "branded"
+   ],
+   "previous_keywords_json_ahrefs": {
+    "volume": 350,
+    "kd": 1,
+    "trafficPotential": 400
+   }
+  },
+  {
+   "keyword": "alarm system for apartment renters",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 200,
+   "kd": 1,
+   "traffic_potential": 5800,
+   "cpc_usd": 5.0,
+   "parent_topic": "apartment security",
+   "intents": [
+    "informational",
+    "commercial"
+   ],
+   "previous_keywords_json_ahrefs": {
+    "volume": 200,
+    "kd": 1,
+    "trafficPotential": 5800,
+    "parentTopic": "apartment security"
+   }
+  },
+  {
+   "keyword": "can a landlord put cameras outside the house",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 150,
+   "kd": 0,
+   "traffic_potential": 100,
+   "cpc_usd": 2.0,
+   "parent_topic": "can my landlord have cameras outside my house",
+   "intents": [
+    "informational"
+   ],
+   "previous_keywords_json_ahrefs": {
+    "volume": 150,
+    "kd": 0,
+    "trafficPotential": 100,
+    "parentTopic": "can my landlord have cameras outside my house"
+   }
+  },
+  {
+   "keyword": "best smart door lock for apartment renters",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best indoor security camera for renters no drilling",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "ring vs blink for apartment renters",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best smart plug for renters",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "zero_volume",
+   "volume": 0,
+   "kd": null,
+   "traffic_potential": null,
+   "cpc_usd": null,
+   "parent_topic": null,
+   "intents": [],
+   "kd_note": "KD/traffic potential not computed by Ahrefs (null)"
+  },
+  {
+   "keyword": "how to make apartment smart without drilling",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best smart thermostat for renters no wiring",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best apartment intercom buzzer alternative",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "eufy vs wyze video doorbell for renters",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best no-drill mailbox lock for apartment renters",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "how to secure sliding glass door in rental",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best toilet lock for toddlers rental friendly",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best stove knob covers for renters",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best refrigerator lock for toddlers no drill",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best window guards for toddler safety rental",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best playpen for small apartments",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "how to baby proof fireplace in rental",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best cord cover for baby proofing rental",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best door pinch guard for toddlers",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best crib for small apartment renters",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "regalo vs summer infant baby gate for renters",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best high chair for small apartment",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 10,
+   "kd": null,
+   "traffic_potential": null,
+   "cpc_usd": null,
+   "parent_topic": null,
+   "intents": [],
+   "kd_note": "KD/traffic potential not computed by Ahrefs (null)"
+  },
+  {
+   "keyword": "best portable air conditioner for renters",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "zero_volume",
+   "volume": 0,
+   "kd": null,
+   "traffic_potential": null,
+   "cpc_usd": null,
+   "parent_topic": null,
+   "intents": [],
+   "kd_note": "KD/traffic potential not computed by Ahrefs (null)"
+  },
+  {
+   "keyword": "best window insulation kit for renters",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best draft stopper for apartment doors",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best dehumidifier for small apartment",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 60,
+   "kd": 0,
+   "traffic_potential": 94000,
+   "cpc_usd": 0.7,
+   "parent_topic": "dehumidifier",
+   "intents": [
+    "informational",
+    "commercial"
+   ]
+  },
+  {
+   "keyword": "best air purifier for apartment renters",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best tower fan for small bedroom rental",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best humidifier for dry apartment air",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best thermal curtains for renters",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best window lock for apartment security",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "portable ac vs window fan for apartments",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best smart air quality monitor for renters",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best suction cup shower caddy for renters",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best over door towel hook for rental bathroom",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best no-drill toilet paper holder for renters",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best adhesive soap dispenser for rental bathroom",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best renter friendly kitchen faucet",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best under sink organizer for rental kitchen",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best magnetic spice rack for renters",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best over the sink dish rack for small rental kitchen",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "how to organize small rental kitchen without drilling",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best no-drill paper towel holder for renters",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best shower head filter for hard water apartments",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best bathtub caddy for renters",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best kitchen cart for small apartment",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best adhesive bathroom mirror for renters",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "oxo vs simplehuman shower caddy for renters",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best floating shelves no drill for renters",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best over door organizer for renters",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best under bed storage for small apartments",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best closet organizer for rental no drilling",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best freestanding coat rack for renters",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best room divider for studio apartment",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "how to hang curtains without drilling in rental",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best tension rod for apartment windows",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best shoe storage for small apartment entryway",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best no-drill bookshelf for renters",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best vacuum for apartment with pets",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 10,
+   "kd": null,
+   "traffic_potential": null,
+   "cpc_usd": null,
+   "parent_topic": null,
+   "intents": [],
+   "kd_note": "KD/traffic potential not computed by Ahrefs (null)"
+  },
+  {
+   "keyword": "command hooks vs monkey hooks for renters",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best jewelry organizer for small apartment",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best laundry hamper for small apartment",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best small desk for apartment bedroom",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best office chair for small apartment",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 10,
+   "kd": null,
+   "traffic_potential": null,
+   "cpc_usd": null,
+   "parent_topic": null,
+   "intents": [],
+   "kd_note": "KD/traffic potential not computed by Ahrefs (null)"
+  },
+  {
+   "keyword": "best laptop desk for couch renters",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best noise cancelling headphones for thin walls",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best desk lamp for small apartment office",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best file organizer for small home office",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "how to soundproof home office in rental",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best webcam for work from home apartment",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best ring light for small apartment desk",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best printer for small apartment",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "zero_volume",
+   "volume": 0,
+   "kd": null,
+   "traffic_potential": null,
+   "cpc_usd": 0.7,
+   "parent_topic": null,
+   "intents": [
+    "informational",
+    "commercial"
+   ],
+   "kd_note": "KD/traffic potential not computed by Ahrefs (null)"
+  },
+  {
+   "keyword": "best battery operated wall sconces for renters",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best puck lights for rental kitchen cabinets",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best floor lamp for dark apartment",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best rechargeable table lamp for renters",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best motion sensor night light for hallway",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "how to add lighting to rental without wiring",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best plug in pendant light for renters",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best stick on vanity lights for rental bathroom",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "philips hue vs govee for renters",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best pet gate for renters no drill",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best couch cover for apartment with dog",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best litter box for small apartment",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 70,
+   "kd": 3,
+   "traffic_potential": 400,
+   "cpc_usd": 0.35,
+   "parent_topic": "small litter box",
+   "intents": [
+    "informational",
+    "commercial"
+   ]
+  },
+  {
+   "keyword": "best cat tree for small apartment",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 30,
+   "kd": 0,
+   "traffic_potential": 700,
+   "cpc_usd": 0.15,
+   "parent_topic": "small cat tree",
+   "intents": [
+    "informational",
+    "commercial"
+   ]
+  },
+  {
+   "keyword": "best dog crate for apartment living",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best pet hair remover for rental furniture",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "how to protect rental carpet from pets",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best window perch for apartment cats",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best no-drill cat door for interior doors",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best odor eliminator for small apartment with pets",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best washable rug for renters with dogs",
+   "roles": [
+    "keywords.json:pending"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "amazon echo vs google nest",
+   "roles": [
+    "post_secondary:alexa-vs-google-home"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 40,
+   "kd": 0,
+   "traffic_potential": 150,
+   "cpc_usd": null,
+   "parent_topic": "google nest vs alexa",
+   "intents": [
+    "informational",
+    "commercial",
+    "branded"
+   ]
+  },
+  {
+   "keyword": "alexa or google home for apartment",
+   "roles": [
+    "post_secondary:alexa-vs-google-home"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best smart speaker ecosystem",
+   "roles": [
+    "post_secondary:alexa-vs-google-home"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "alexa+ vs gemini for home",
+   "roles": [
+    "post_secondary:alexa-vs-google-home"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "heavy duty adhesive hooks",
+   "roles": [
+    "post_secondary:best-heavy-duty-adhesive-hooks-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 100,
+   "kd": 0,
+   "traffic_potential": 50,
+   "cpc_usd": 0.3,
+   "parent_topic": "strongest adhesive hooks",
+   "intents": [
+    "commercial",
+    "transactional"
+   ]
+  },
+  {
+   "keyword": "damage free hooks for renters",
+   "roles": [
+    "post_secondary:best-heavy-duty-adhesive-hooks-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "command hooks for heavy items",
+   "roles": [
+    "post_secondary:best-heavy-duty-adhesive-hooks-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 100,
+   "kd": 0,
+   "traffic_potential": 600,
+   "cpc_usd": 0.25,
+   "parent_topic": "strongest command strips",
+   "intents": [
+    "informational",
+    "commercial",
+    "transactional",
+    "branded"
+   ]
+  },
+  {
+   "keyword": "led strip lights for apartment",
+   "roles": [
+    "post_secondary:best-led-strip-lights-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "renter friendly led strip lights",
+   "roles": [
+    "post_secondary:best-led-strip-lights-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "zero_volume",
+   "volume": 0,
+   "kd": null,
+   "traffic_potential": null,
+   "cpc_usd": null,
+   "parent_topic": null,
+   "intents": [],
+   "kd_note": "KD/traffic potential not computed by Ahrefs (null)"
+  },
+  {
+   "keyword": "led strip lights without damaging walls",
+   "roles": [
+    "post_secondary:best-led-strip-lights-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "adhesive magnetic cabinet locks",
+   "roles": [
+    "post_secondary:best-magnetic-cabinet-locks-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 20,
+   "kd": null,
+   "traffic_potential": null,
+   "cpc_usd": null,
+   "parent_topic": null,
+   "intents": [
+    "informational",
+    "commercial",
+    "transactional"
+   ],
+   "kd_note": "KD/traffic potential not computed by Ahrefs (null)"
+  },
+  {
+   "keyword": "no drill cabinet locks",
+   "roles": [
+    "post_secondary:best-magnetic-cabinet-locks-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 20,
+   "kd": 0,
+   "traffic_potential": 0,
+   "cpc_usd": 0.4,
+   "parent_topic": "cupboard locks for adults",
+   "intents": [
+    "informational",
+    "commercial",
+    "transactional"
+   ]
+  },
+  {
+   "keyword": "child proof cabinet locks without drilling",
+   "roles": [
+    "post_secondary:best-magnetic-cabinet-locks-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best budget stud finder",
+   "roles": [
+    "post_secondary:best-magnetic-stud-finder"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 20,
+   "kd": 0,
+   "traffic_potential": 0,
+   "cpc_usd": 0.25,
+   "parent_topic": "project farm stud finder",
+   "intents": [
+    "informational",
+    "commercial"
+   ]
+  },
+  {
+   "keyword": "magnetic stud finder for renters",
+   "roles": [
+    "post_secondary:best-magnetic-stud-finder"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "magnetic vs electronic stud finder",
+   "roles": [
+    "post_secondary:best-magnetic-stud-finder"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 10,
+   "kd": null,
+   "traffic_potential": null,
+   "cpc_usd": 0.3,
+   "parent_topic": null,
+   "intents": [
+    "informational",
+    "commercial"
+   ],
+   "kd_note": "KD/traffic potential not computed by Ahrefs (null)"
+  },
+  {
+   "keyword": "do magnetic stud finders work on plaster",
+   "roles": [
+    "post_secondary:best-magnetic-stud-finder"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best matter smart plug",
+   "roles": [
+    "post_secondary:best-matter-smart-plugs"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 20,
+   "kd": 51,
+   "traffic_potential": 40,
+   "cpc_usd": 0.4,
+   "parent_topic": "matter smart plug",
+   "intents": [
+    "informational",
+    "commercial"
+   ]
+  },
+  {
+   "keyword": "smart plug for apartment",
+   "roles": [
+    "post_secondary:best-matter-smart-plugs"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "thread smart plug",
+   "roles": [
+    "post_secondary:best-matter-smart-plugs"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 60,
+   "kd": 0,
+   "traffic_potential": 40,
+   "cpc_usd": 0.4,
+   "parent_topic": "thread smart plug",
+   "intents": [
+    "informational",
+    "commercial"
+   ]
+  },
+  {
+   "keyword": "matter smart plug energy monitoring",
+   "roles": [
+    "post_secondary:best-matter-smart-plugs"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 10,
+   "kd": null,
+   "traffic_potential": null,
+   "cpc_usd": null,
+   "parent_topic": null,
+   "intents": [],
+   "kd_note": "KD/traffic potential not computed by Ahrefs (null)"
+  },
+  {
+   "keyword": "peephole camera for apartment",
+   "roles": [
+    "post_secondary:best-peephole-camera-for-apartments"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 450,
+   "kd": 0,
+   "traffic_potential": 10,
+   "cpc_usd": 0.25,
+   "parent_topic": "inside peephole camera",
+   "intents": [
+    "informational",
+    "commercial",
+    "transactional"
+   ]
+  },
+  {
+   "keyword": "ring peephole camera",
+   "roles": [
+    "post_secondary:best-peephole-camera-for-apartments"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 4800,
+   "kd": 0,
+   "traffic_potential": 3300,
+   "cpc_usd": 0.5,
+   "parent_topic": "ring peephole camera",
+   "intents": [
+    "informational",
+    "commercial",
+    "transactional",
+    "branded"
+   ]
+  },
+  {
+   "keyword": "door viewer camera",
+   "roles": [
+    "post_secondary:best-peephole-camera-for-apartments"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 70,
+   "kd": 4,
+   "traffic_potential": 600,
+   "cpc_usd": 0.2,
+   "parent_topic": "door peephole camera",
+   "intents": [
+    "informational",
+    "commercial",
+    "transactional"
+   ]
+  },
+  {
+   "keyword": "apartment door camera no drilling",
+   "roles": [
+    "post_secondary:best-peephole-camera-for-apartments"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "peephole camera for apartment door",
+   "roles": [
+    "post_secondary:best-peephole-camera-for-apartments"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 250,
+   "kd": 0,
+   "traffic_potential": 2200,
+   "cpc_usd": 0.4,
+   "parent_topic": "ring peephole cam",
+   "intents": [
+    "informational",
+    "commercial",
+    "transactional"
+   ]
+  },
+  {
+   "keyword": "pressure mounted baby gate",
+   "roles": [
+    "post_secondary:best-pressure-mounted-baby-gate-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 1000,
+   "kd": 0,
+   "traffic_potential": 500,
+   "cpc_usd": null,
+   "parent_topic": "dreambaby gate",
+   "intents": [
+    "informational",
+    "commercial",
+    "transactional"
+   ]
+  },
+  {
+   "keyword": "baby gate for renters no drill",
+   "roles": [
+    "post_secondary:best-pressure-mounted-baby-gate-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "baby gate for apartment",
+   "roles": [
+    "post_secondary:best-pressure-mounted-baby-gate-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "zero_volume",
+   "volume": 0,
+   "kd": null,
+   "traffic_potential": null,
+   "cpc_usd": null,
+   "parent_topic": null,
+   "intents": [
+    "informational",
+    "commercial"
+   ],
+   "kd_note": "KD/traffic potential not computed by Ahrefs (null)"
+  },
+  {
+   "keyword": "best smart bulbs for renters",
+   "roles": [
+    "post_secondary:best-smart-light-bulbs-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "smart bulbs for apartments",
+   "roles": [
+    "post_secondary:best-smart-light-bulbs-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best smart bulbs no hub",
+   "roles": [
+    "post_secondary:best-smart-light-bulbs-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "zero_volume",
+   "volume": 0,
+   "kd": null,
+   "traffic_potential": null,
+   "cpc_usd": null,
+   "parent_topic": null,
+   "intents": [],
+   "kd_note": "KD/traffic potential not computed by Ahrefs (null)"
+  },
+  {
+   "keyword": "smart bulbs without a hub",
+   "roles": [
+    "post_secondary:best-smart-light-bulbs-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "zero_volume",
+   "volume": 0,
+   "kd": null,
+   "traffic_potential": null,
+   "cpc_usd": null,
+   "parent_topic": null,
+   "intents": [],
+   "kd_note": "KD/traffic potential not computed by Ahrefs (null)"
+  },
+  {
+   "keyword": "matter smart bulbs",
+   "roles": [
+    "post_secondary:best-smart-light-bulbs-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 40,
+   "kd": 0,
+   "traffic_potential": 30,
+   "cpc_usd": 0.6,
+   "parent_topic": "matter bulbs",
+   "intents": [
+    "informational",
+    "commercial",
+    "branded"
+   ]
+  },
+  {
+   "keyword": "do smart bulbs need a hub",
+   "roles": [
+    "post_secondary:best-smart-light-bulbs-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "zero_volume",
+   "volume": 0,
+   "kd": null,
+   "traffic_potential": null,
+   "cpc_usd": null,
+   "parent_topic": null,
+   "intents": [],
+   "kd_note": "KD/traffic potential not computed by Ahrefs (null)"
+  },
+  {
+   "keyword": "renter friendly smart lock",
+   "roles": [
+    "post_secondary:best-smart-lock-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 80,
+   "kd": 3,
+   "traffic_potential": 100,
+   "cpc_usd": 0.45,
+   "parent_topic": "renter friendly smart lock",
+   "intents": [
+    "informational",
+    "commercial",
+    "transactional"
+   ]
+  },
+  {
+   "keyword": "smart lock for apartment",
+   "roles": [
+    "post_secondary:best-smart-lock-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 150,
+   "kd": 16,
+   "traffic_potential": 150,
+   "cpc_usd": 0.6,
+   "parent_topic": "smart lock deadbolt",
+   "intents": [
+    "informational",
+    "commercial",
+    "transactional"
+   ]
+  },
+  {
+   "keyword": "smart lock that fits over existing deadbolt",
+   "roles": [
+    "post_secondary:best-smart-lock-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 20,
+   "kd": 32,
+   "traffic_potential": 21000,
+   "cpc_usd": 0.6,
+   "parent_topic": "smart lock",
+   "intents": [
+    "informational",
+    "commercial",
+    "transactional"
+   ]
+  },
+  {
+   "keyword": "retrofit smart lock",
+   "roles": [
+    "post_secondary:best-smart-lock-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 300,
+   "kd": 2,
+   "traffic_potential": 21000,
+   "cpc_usd": 0.7,
+   "parent_topic": "smart lock",
+   "intents": [
+    "informational",
+    "commercial",
+    "transactional"
+   ]
+  },
+  {
+   "keyword": "smart smoke alarm for renters",
+   "roles": [
+    "post_secondary:best-smart-smoke-detector-for-apartments"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "battery-powered smart smoke detector",
+   "roles": [
+    "post_secondary:best-smart-smoke-detector-for-apartments"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "smart smoke and co detector",
+   "roles": [
+    "post_secondary:best-smart-smoke-detector-for-apartments"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 200,
+   "kd": 31,
+   "traffic_potential": 5300,
+   "cpc_usd": 0.8,
+   "parent_topic": "smoke and carbon monoxide detector",
+   "intents": [
+    "informational",
+    "commercial",
+    "transactional"
+   ]
+  },
+  {
+   "keyword": "wi-fi smoke detector for apartment",
+   "roles": [
+    "post_secondary:best-smart-smoke-detector-for-apartments"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best stud finder with deep scan",
+   "roles": [
+    "post_secondary:best-stud-finder-for-thick-walls"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "stud finder for plaster walls",
+   "roles": [
+    "post_secondary:best-stud-finder-for-thick-walls"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 400,
+   "kd": 0,
+   "traffic_potential": 150,
+   "cpc_usd": 0.25,
+   "parent_topic": "stud finder for plaster walls",
+   "intents": [
+    "informational",
+    "commercial"
+   ]
+  },
+  {
+   "keyword": "deep scan stud finder",
+   "roles": [
+    "post_secondary:best-stud-finder-for-thick-walls"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 300,
+   "kd": 6,
+   "traffic_potential": 60,
+   "cpc_usd": 0.3,
+   "parent_topic": "stud sensor",
+   "intents": [
+    "informational",
+    "commercial",
+    "transactional"
+   ]
+  },
+  {
+   "keyword": "stud finder for lath and plaster",
+   "roles": [
+    "post_secondary:best-stud-finder-for-thick-walls"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "zero_volume",
+   "volume": 0,
+   "kd": 0,
+   "traffic_potential": 50,
+   "cpc_usd": 0.35,
+   "parent_topic": "stud finder plaster walls",
+   "intents": [
+    "informational",
+    "commercial"
+   ]
+  },
+  {
+   "keyword": "video doorbell without subscription",
+   "roles": [
+    "post_secondary:best-video-doorbell-without-subscription-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 1600,
+   "kd": 13,
+   "traffic_potential": 2500,
+   "cpc_usd": 0.35,
+   "parent_topic": "video doorbell without subscription",
+   "intents": [
+    "informational",
+    "commercial"
+   ]
+  },
+  {
+   "keyword": "doorbell camera no subscription for apartment",
+   "roles": [
+    "post_secondary:best-video-doorbell-without-subscription-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "zero_volume",
+   "volume": 0,
+   "kd": null,
+   "traffic_potential": null,
+   "cpc_usd": null,
+   "parent_topic": null,
+   "intents": [],
+   "kd_note": "KD/traffic potential not computed by Ahrefs (null)"
+  },
+  {
+   "keyword": "video doorbell with local storage",
+   "roles": [
+    "post_secondary:best-video-doorbell-without-subscription-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 70,
+   "kd": 12,
+   "traffic_potential": 500,
+   "cpc_usd": 0.35,
+   "parent_topic": "best video doorbell without subscription",
+   "intents": [
+    "informational",
+    "commercial"
+   ]
+  },
+  {
+   "keyword": "best smart speaker for small apartment",
+   "roles": [
+    "post_secondary:best-voice-assistant-speaker-for-small-apartments"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "compact smart speaker for apartment",
+   "roles": [
+    "post_secondary:best-voice-assistant-speaker-for-small-apartments"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "smart speaker for studio apartment",
+   "roles": [
+    "post_secondary:best-voice-assistant-speaker-for-small-apartments"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "water leak detector for apartments",
+   "roles": [
+    "post_secondary:best-water-leak-sensor-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "smart water leak detector for renters",
+   "roles": [
+    "post_secondary:best-water-leak-sensor-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "water sensor for apartment",
+   "roles": [
+    "post_secondary:best-water-leak-sensor-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "flood sensor no wifi",
+   "roles": [
+    "post_secondary:best-water-leak-sensor-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best wifi water leak sensor",
+   "roles": [
+    "post_secondary:best-water-leak-sensor-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "zero_volume",
+   "volume": 0,
+   "kd": null,
+   "traffic_potential": null,
+   "cpc_usd": 0.6,
+   "parent_topic": null,
+   "intents": [],
+   "kd_note": "KD/traffic potential not computed by Ahrefs (null)"
+  },
+  {
+   "keyword": "battery water leak alarm",
+   "roles": [
+    "post_secondary:best-water-leak-sensor-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "wireless security camera for apartment",
+   "roles": [
+    "post_secondary:best-wireless-security-cameras-for-apartments"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 40,
+   "kd": 0,
+   "traffic_potential": 700,
+   "cpc_usd": 2.5,
+   "parent_topic": "apartment camera",
+   "intents": [
+    "informational",
+    "commercial",
+    "transactional"
+   ]
+  },
+  {
+   "keyword": "best security camera for apartment",
+   "roles": [
+    "post_secondary:best-wireless-security-cameras-for-apartments"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 200,
+   "kd": 0,
+   "traffic_potential": 1600,
+   "cpc_usd": 1.6,
+   "parent_topic": "security cameras for apartments",
+   "intents": [
+    "informational",
+    "commercial"
+   ]
+  },
+  {
+   "keyword": "apartment security camera no subscription",
+   "roles": [
+    "post_secondary:best-wireless-security-cameras-for-apartments"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "indoor security camera for renters",
+   "roles": [
+    "post_secondary:best-wireless-security-cameras-for-apartments"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "ring vs blink",
+   "roles": [
+    "post_secondary:blink-vs-ring-subscription"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 4900,
+   "kd": 2,
+   "traffic_potential": 1200,
+   "cpc_usd": 0.3,
+   "parent_topic": "ring vs blink",
+   "intents": [
+    "informational",
+    "commercial",
+    "branded"
+   ]
+  },
+  {
+   "keyword": "ring vs blink subscription",
+   "roles": [
+    "post_secondary:blink-vs-ring-subscription"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 80,
+   "kd": 31,
+   "traffic_potential": 3600,
+   "cpc_usd": null,
+   "parent_topic": "blink vs ring",
+   "intents": [
+    "informational",
+    "commercial",
+    "branded"
+   ]
+  },
+  {
+   "keyword": "blink vs ring indoor camera",
+   "roles": [
+    "post_secondary:blink-vs-ring-subscription"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 30,
+   "kd": 0,
+   "traffic_potential": 2200,
+   "cpc_usd": 0.35,
+   "parent_topic": "blink vs ring doorbell",
+   "intents": [
+    "informational",
+    "commercial",
+    "branded"
+   ]
+  },
+  {
+   "keyword": "does blink need a subscription",
+   "roles": [
+    "post_secondary:blink-vs-ring-subscription"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 200,
+   "kd": 0,
+   "traffic_potential": 18000,
+   "cpc_usd": 1.0,
+   "parent_topic": "blink subscription plan",
+   "intents": [
+    "informational",
+    "commercial",
+    "branded"
+   ]
+  },
+  {
+   "keyword": "renter baby proofing guide",
+   "roles": [
+    "post_secondary:how-to-baby-proof-a-rental-without-damage"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "baby proofing an apartment",
+   "roles": [
+    "post_secondary:how-to-baby-proof-a-rental-without-damage"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "zero_volume",
+   "volume": 0,
+   "kd": null,
+   "traffic_potential": null,
+   "cpc_usd": null,
+   "parent_topic": null,
+   "intents": [],
+   "kd_note": "KD/traffic potential not computed by Ahrefs (null)"
+  },
+  {
+   "keyword": "baby proof apartment without drilling",
+   "roles": [
+    "post_secondary:how-to-baby-proof-a-rental-without-damage"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "how to keep apartment cool without ac",
+   "roles": [
+    "post_secondary:how-to-cool-apartment-without-ac"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 150,
+   "kd": 2,
+   "traffic_potential": 150,
+   "cpc_usd": 0.02,
+   "parent_topic": "how to cool apartment without ac",
+   "intents": [
+    "informational"
+   ]
+  },
+  {
+   "keyword": "cool apartment without air conditioning",
+   "roles": [
+    "post_secondary:how-to-cool-apartment-without-ac"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "zero_volume",
+   "volume": 0,
+   "kd": null,
+   "traffic_potential": null,
+   "cpc_usd": null,
+   "parent_topic": null,
+   "intents": [],
+   "kd_note": "KD/traffic potential not computed by Ahrefs (null)"
+  },
+  {
+   "keyword": "apartment without ac tips",
+   "roles": [
+    "post_secondary:how-to-cool-apartment-without-ac"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "smart blinds for renters",
+   "roles": [
+    "post_secondary:no-drill-motorized-blinds"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "no drill smart blinds",
+   "roles": [
+    "post_secondary:no-drill-motorized-blinds"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 30,
+   "kd": null,
+   "traffic_potential": null,
+   "cpc_usd": null,
+   "parent_topic": null,
+   "intents": [],
+   "kd_note": "KD/traffic potential not computed by Ahrefs (null)"
+  },
+  {
+   "keyword": "motorized blinds no drill",
+   "roles": [
+    "post_secondary:no-drill-motorized-blinds"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 20,
+   "kd": null,
+   "traffic_potential": null,
+   "cpc_usd": null,
+   "parent_topic": null,
+   "intents": [
+    "informational",
+    "commercial",
+    "transactional"
+   ],
+   "kd_note": "KD/traffic potential not computed by Ahrefs (null)"
+  },
+  {
+   "keyword": "renter friendly motorized shades",
+   "roles": [
+    "post_secondary:no-drill-motorized-blinds"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "wiz vs philips hue",
+   "roles": [
+    "post_secondary:philips-hue-vs-wiz"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 40,
+   "kd": 0,
+   "traffic_potential": 200,
+   "cpc_usd": null,
+   "parent_topic": "philips hue vs wiz",
+   "intents": [
+    "informational",
+    "commercial",
+    "branded"
+   ]
+  },
+  {
+   "keyword": "wiz vs hue",
+   "roles": [
+    "post_secondary:philips-hue-vs-wiz"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 100,
+   "kd": 0,
+   "traffic_potential": 200,
+   "cpc_usd": null,
+   "parent_topic": "philips hue vs wiz",
+   "intents": [
+    "informational",
+    "commercial",
+    "branded"
+   ]
+  },
+  {
+   "keyword": "does wiz need a hub",
+   "roles": [
+    "post_secondary:philips-hue-vs-wiz"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "ring doorbell for apartment",
+   "roles": [
+    "post_secondary:ring-doorbell-in-apartment"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 150,
+   "kd": 0,
+   "traffic_potential": 2100,
+   "cpc_usd": 0.3,
+   "parent_topic": "ring doorbell for apartments",
+   "intents": [
+    "informational",
+    "commercial",
+    "branded"
+   ]
+  },
+  {
+   "keyword": "ring doorbell on apartment door",
+   "roles": [
+    "post_secondary:ring-doorbell-in-apartment"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 30,
+   "kd": 0,
+   "traffic_potential": 350,
+   "cpc_usd": 0.25,
+   "parent_topic": "ring doorbell for apartments",
+   "intents": [
+    "informational",
+    "branded"
+   ]
+  },
+  {
+   "keyword": "are ring cameras allowed in apartments",
+   "roles": [
+    "post_secondary:ring-doorbell-in-apartment"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 40,
+   "kd": 0,
+   "traffic_potential": 100,
+   "cpc_usd": null,
+   "parent_topic": "can you put ring doorbell on apartment",
+   "intents": [
+    "informational",
+    "branded"
+   ]
+  },
+  {
+   "keyword": "smart mini split controller",
+   "roles": [
+    "post_secondary:smart-ac-controller"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 90,
+   "kd": 0,
+   "traffic_potential": 60,
+   "cpc_usd": 0.9,
+   "parent_topic": "smart mini split controller",
+   "intents": [
+    "informational",
+    "commercial"
+   ]
+  },
+  {
+   "keyword": "smart ac controller for window unit",
+   "roles": [
+    "post_secondary:smart-ac-controller"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 10,
+   "kd": null,
+   "traffic_potential": null,
+   "cpc_usd": null,
+   "parent_topic": null,
+   "intents": [],
+   "kd_note": "KD/traffic potential not computed by Ahrefs (null)"
+  },
+  {
+   "keyword": "how to make your apartment a smart home",
+   "roles": [
+    "post_secondary:smart-home-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 70,
+   "kd": 0,
+   "traffic_potential": 100,
+   "cpc_usd": 0.35,
+   "parent_topic": "how to make your apartment a smart home",
+   "intents": [
+    "informational",
+    "commercial"
+   ]
+  },
+  {
+   "keyword": "renter friendly smart home",
+   "roles": [
+    "post_secondary:smart-home-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 10,
+   "kd": null,
+   "traffic_potential": null,
+   "cpc_usd": null,
+   "parent_topic": null,
+   "intents": [],
+   "kd_note": "KD/traffic potential not computed by Ahrefs (null)"
+  },
+  {
+   "keyword": "apartment smart home ideas",
+   "roles": [
+    "post_secondary:smart-home-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "zero_volume",
+   "volume": 0,
+   "kd": null,
+   "traffic_potential": null,
+   "cpc_usd": null,
+   "parent_topic": null,
+   "intents": [],
+   "kd_note": "KD/traffic potential not computed by Ahrefs (null)"
+  },
+  {
+   "keyword": "smart home without drilling",
+   "roles": [
+    "post_secondary:smart-home-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "smart thermostat for apartment",
+   "roles": [
+    "post_secondary:smart-thermostat-in-apartment"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 80,
+   "kd": 1,
+   "traffic_potential": 150,
+   "cpc_usd": 0.35,
+   "parent_topic": "apartment thermostat",
+   "intents": [
+    "informational",
+    "commercial"
+   ]
+  },
+  {
+   "keyword": "smart thermostat apartment no c wire",
+   "roles": [
+    "post_secondary:smart-thermostat-in-apartment"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "can renters install a smart thermostat",
+   "roles": [
+    "post_secondary:smart-thermostat-in-apartment"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "wyze vs ring vs eufy",
+   "roles": [
+    "post_secondary:wyze-vs-ring-vs-eufy-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "eufy vs wyze vs ring",
+   "roles": [
+    "post_secondary:wyze-vs-ring-vs-eufy-for-renters"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "unavailable",
+   "note": "Keyword not returned by Ahrefs (not in its US keyword database); no metrics."
+  },
+  {
+   "keyword": "best smart smoke detector",
+   "roles": [
+    "extra_head_term_check"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 1600,
+   "kd": 20,
+   "traffic_potential": 1100,
+   "cpc_usd": 0.8,
+   "parent_topic": "smart smoke detector",
+   "intents": [
+    "informational",
+    "commercial"
+   ]
+  },
+  {
+   "keyword": "best water leak detector",
+   "roles": [
+    "extra_head_term_check"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 800,
+   "kd": 0,
+   "traffic_potential": 50,
+   "cpc_usd": 0.3,
+   "parent_topic": "water leak detection device",
+   "intents": [
+    "informational",
+    "commercial"
+   ]
+  },
+  {
+   "keyword": "best video doorbell without subscription",
+   "roles": [
+    "extra_head_term_check"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 1100,
+   "kd": 14,
+   "traffic_potential": 5700,
+   "cpc_usd": 0.45,
+   "parent_topic": "best doorbell camera without subscription",
+   "intents": [
+    "informational",
+    "commercial"
+   ]
+  },
+  {
+   "keyword": "magnetic cabinet locks",
+   "roles": [
+    "extra_head_term_check"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 1300,
+   "kd": 0,
+   "traffic_potential": 150,
+   "cpc_usd": 0.3,
+   "parent_topic": "magnetic cabinet locks",
+   "intents": [
+    "informational",
+    "commercial",
+    "transactional"
+   ]
+  },
+  {
+   "keyword": "best smart bulbs",
+   "roles": [
+    "extra_head_term_check"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 1100,
+   "kd": 0,
+   "traffic_potential": 1700,
+   "cpc_usd": 0.25,
+   "parent_topic": "best smart bulbs",
+   "intents": [
+    "informational",
+    "commercial"
+   ]
+  },
+  {
+   "keyword": "best pressure mounted baby gate",
+   "roles": [
+    "extra_head_term_check"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 100,
+   "kd": 2,
+   "traffic_potential": 2900,
+   "cpc_usd": null,
+   "parent_topic": "baby gate",
+   "intents": [
+    "informational",
+    "commercial"
+   ]
+  },
+  {
+   "keyword": "best stud finder for plaster walls",
+   "roles": [
+    "extra_head_term_check"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 350,
+   "kd": 5,
+   "traffic_potential": 200,
+   "cpc_usd": 0.3,
+   "parent_topic": "best stud finder for plaster walls",
+   "intents": [
+    "informational",
+    "commercial"
+   ]
+  },
+  {
+   "keyword": "security cameras for apartments",
+   "roles": [
+    "extra_head_term_check"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 300,
+   "kd": 2,
+   "traffic_potential": 1400,
+   "cpc_usd": 1.8,
+   "parent_topic": "security cameras for apartments",
+   "intents": [
+    "informational",
+    "commercial",
+    "transactional"
+   ]
+  },
+  {
+   "keyword": "best smart lock for apartment",
+   "roles": [
+    "extra_head_term_check"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 50,
+   "kd": 62,
+   "traffic_potential": 250,
+   "cpc_usd": 0.9,
+   "parent_topic": "smart locks for apartments",
+   "intents": [
+    "informational",
+    "commercial"
+   ]
+  },
+  {
+   "keyword": "apartment doorbell camera",
+   "roles": [
+    "extra_head_term_check"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 250,
+   "kd": 0,
+   "traffic_potential": 450,
+   "cpc_usd": 0.8,
+   "parent_topic": "apartment door camera",
+   "intents": [
+    "informational",
+    "commercial"
+   ]
+  },
+  {
+   "keyword": "how to baby proof apartment",
+   "roles": [
+    "extra_head_term_check"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 200,
+   "kd": 2,
+   "traffic_potential": 150,
+   "cpc_usd": null,
+   "parent_topic": "how to baby proof apartment",
+   "intents": [
+    "informational"
+   ]
+  },
+  {
+   "keyword": "best stud finder",
+   "roles": [
+    "extra_head_term_check"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 14000,
+   "kd": 4,
+   "traffic_potential": 1700,
+   "cpc_usd": 0.3,
+   "parent_topic": "best stud finder",
+   "intents": [
+    "informational",
+    "commercial"
+   ]
+  },
+  {
+   "keyword": "best led strip lights",
+   "roles": [
+    "extra_head_term_check"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 1400,
+   "kd": 12,
+   "traffic_potential": 1800,
+   "cpc_usd": 0.3,
+   "parent_topic": "best led lights",
+   "intents": [
+    "informational",
+    "commercial"
+   ]
+  },
+  {
+   "keyword": "best adhesive hooks",
+   "roles": [
+    "extra_head_term_check"
+   ],
+   "collected": "2026-10-18",
+   "source": "Ahrefs API v3 via MCP: keywords-explorer-overview (country=us)",
+   "status": "ok",
+   "volume": 10,
+   "kd": 3,
+   "traffic_potential": 0,
+   "cpc_usd": 0.25,
+   "parent_topic": "amazon sticky hooks",
+   "intents": [
+    "informational",
+    "commercial",
+    "transactional"
+   ]
+  }
+ ]
+}
