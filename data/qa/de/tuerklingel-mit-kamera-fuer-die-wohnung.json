@@ -2,13 +2,9 @@
   "slug": "de/tuerklingel-mit-kamera-fuer-die-wohnung",
   "lang": "de",
   "translationOf": "door-camera-for-apartment",
-  "pass": false,
-  "checkedAt": "2026-10-18T13:38:13.715Z",
-  "errors": [
-    "English post \"door-camera-for-apartment\" doesn't pass QA, so it can't be translated yet",
-    "source returns 404: https://support.google.com/googlehome/answer/9259110?hl=en",
-    "source returns 404: https://support.google.com/googlehome/answer/11830989?hl=en"
-  ],
+  "pass": true,
+  "checkedAt": "2026-10-18T13:51:31.098Z",
+  "errors": [],
   "warnings": [],
   "factCheck": {
     "verified": true,
