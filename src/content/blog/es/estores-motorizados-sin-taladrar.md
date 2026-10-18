@@ -1,6 +1,6 @@
 ---
 title: Los mejores estores motorizados sin taladrar para inquilinos (2026)
-seoTitle: 'Estores motorizados sin taladrar: 3 opciones (2026)'
+seoTitle: 'Estores motorizados sin taladrar – 3 opciones (2026)'
 description: >-
   Estores motorizados sin taladrar para inquilinos: estores a presión y
   motores adhesivos que automatizan tus ventanas sin tornillos, cables ni

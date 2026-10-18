@@ -1,6 +1,6 @@
 ---
-title: 'Kratzbaum für kleine Wohnungen: Die 3 besten Modelle (2026)'
-seoTitle: 'Kratzbaum für kleine Wohnung (2026): 3 kompakte Modelle'
+title: 'Kratzbaum für kleine Wohnungen – die 3 besten Modelle (2026)'
+seoTitle: 'Kratzbaum für kleine Wohnung (2026) – 3 kompakte Modelle'
 description: >-
   Der beste Kratzbaum für eine kleine Wohnung steht auf unter 0,33 m² und hält
   ohne Bohren. 3 kompakte Modelle im Vergleich, mit Stellfläche und Mietertipps.

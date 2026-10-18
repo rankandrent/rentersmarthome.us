@@ -1,6 +1,6 @@
 ---
-title: 'Beste slimme speaker voor kleine appartementen: 4 compacte keuzes'
-seoTitle: 'Beste slimme speaker voor een klein appartement: 4 keuzes'
+title: 'Beste slimme speaker voor een klein appartement – 4 compacte keuzes'
+seoTitle: 'Beste slimme speaker voor een klein appartement – 4 keuzes'
 description: >-
   De beste slimme speaker voor een klein appartement is compact, bedient je
   smart home en laat dunne muren met rust. Onze keuzes voor Alexa, Google en Siri.

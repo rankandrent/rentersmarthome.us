@@ -1,6 +1,6 @@
 ---
-title: 'Mejor altavoz inteligente para pisos pequeños: 4 opciones compactas'
-seoTitle: 'Mejor altavoz inteligente para pisos pequeños: 4 opciones'
+title: 'Mejor altavoz inteligente para pisos pequeños – 4 opciones compactas'
+seoTitle: 'Mejor altavoz inteligente para pisos pequeños – 4 opciones'
 description: >-
   El mejor altavoz inteligente para pisos pequeños es compacto, controla tu
   casa conectada y no hace temblar las paredes. Nuestra selección: Alexa, Google y Siri.

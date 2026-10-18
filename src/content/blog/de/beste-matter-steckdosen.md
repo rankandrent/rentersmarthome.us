@@ -1,6 +1,6 @@
 ---
 title: Die besten Matter-Steckdosen für die Mietwohnung 2026
-seoTitle: 'Matter Steckdose (2026): die besten WLAN- und Thread-Modelle'
+seoTitle: 'Matter Steckdose 2026 – die besten WLAN- und Thread-Modelle'
 description: >-
   Eine Matter Steckdose läuft mit Alexa, Google Home und Apple Home zugleich.
   Wir vergleichen WLAN- und Thread-Modelle mit Strommessung für Mieter.

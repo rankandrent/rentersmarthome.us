@@ -1,6 +1,6 @@
 ---
-title: 'Die besten Smart Speaker für kleine Wohnungen: 4 kompakte Modelle'
-seoTitle: 'Smart Speaker für kleine Wohnungen: 4 kompakte Modelle'
+title: 'Die besten Smart Speaker für kleine Wohnungen – 4 kompakte Modelle'
+seoTitle: 'Smart Speaker für kleine Wohnungen – 4 kompakte Modelle'
 description: >-
   Der beste Smart Speaker für kleine Wohnungen ist kompakt, steuert dein Smart
   Home und lässt dünne Wände in Ruhe. Unsere Auswahl für Alexa, Google und Siri.

@@ -1,6 +1,6 @@
 ---
-title: Los 3 mejores detectores de fugas de agua para inquilinos (2026)
-seoTitle: 'Detector de fugas de agua (2026): 3 opciones sin taladrar'
+title: Detector de fugas de agua – los 3 mejores para inquilinos (2026)
+seoTitle: 'Detector de fugas de agua (2026) – 3 opciones sin taladrar'
 description: >-
   Comparamos el mejor detector de fugas de agua para pisos de alquiler: 3
   opciones sin taladrar con avisos en el móvil, dónde ponerlos y qué decir al

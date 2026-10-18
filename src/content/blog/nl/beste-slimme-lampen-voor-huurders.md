@@ -1,6 +1,6 @@
 ---
 title: 'De 5 beste slimme lampen voor huurders (zonder bedrading, 2026)'
-seoTitle: 'Slimme lampen voor huurders: 5 beste keuzes (2026)'
+seoTitle: 'Slimme lampen voor huurders – 5 beste keuzes (2026)'
 description: >-
   Slimme lampen voor huurders draai je in je eigen armaturen en wissel je bij
   verhuizing terug. We vergelijken er 5 op hub, Matter, wifi en spraakbediening.

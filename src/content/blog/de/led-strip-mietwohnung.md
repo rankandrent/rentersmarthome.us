@@ -1,6 +1,6 @@
 ---
-title: Die besten LED Strips für die Mietwohnung (ohne abblätternde Farbe)
-seoTitle: 'LED Strip Mietwohnung (2026): unsere 3 Empfehlungen'
+title: LED Strip Mietwohnung – die besten LED Strips ohne abblätternde Farbe
+seoTitle: 'LED Strip Mietwohnung (2026) – unsere 3 Empfehlungen'
 description: >-
   Ein LED Strip für die Mietwohnung bringt Farbe und Licht ohne Verkabelung.
   Unsere 3 Favoriten und wie du sie anbringst und abnimmst, ohne Farbe

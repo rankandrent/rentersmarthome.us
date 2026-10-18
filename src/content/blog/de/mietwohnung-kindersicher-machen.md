@@ -1,6 +1,6 @@
 ---
-title: 'Mietwohnung kindersicher machen ohne Schäden: Ratgeber 2026'
-seoTitle: 'Mietwohnung kindersicher machen (2026): ohne Bohren'
+title: 'Mietwohnung kindersicher machen ohne Schäden – Ratgeber 2026'
+seoTitle: 'Mietwohnung kindersicher machen ohne Bohren (2026)'
 description: >-
   Mietwohnung kindersicher machen ohne Schäden: Plan für jeden Raum, was der
   Vermieter erlauben muss, Mustermail, Tipps zum Auszug und 6 Helfer.

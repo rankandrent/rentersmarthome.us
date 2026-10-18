@@ -1,6 +1,6 @@
 ---
-title: Mejores tiras LED para pisos de alquiler (sin levantar la pintura)
-seoTitle: 'Tiras LED para piso de alquiler (2026): 3 opciones'
+title: Tiras LED para piso de alquiler – las mejores sin levantar la pintura
+seoTitle: 'Tiras LED para piso de alquiler (2026) – 3 opciones'
 description: >-
   Las tiras LED para piso de alquiler dan color y luz sin cables. Nuestras 3
   favoritas y cómo pegarlas y quitarlas sin levantar la pintura de la pared del

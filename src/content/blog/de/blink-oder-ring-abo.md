@@ -1,6 +1,6 @@
 ---
-title: 'Blink oder Ring: Welches Kamera-Abo kostet Mieter weniger?'
-seoTitle: 'Blink oder Ring (2026): Welches Abo brauchen Mieter?'
+title: 'Blink oder Ring – welches Kamera-Abo kostet Mieter weniger?'
+seoTitle: 'Blink oder Ring (2026) – welches Abo brauchen Mieter?'
 description: >-
   Blink oder Ring im Abo-Vergleich für Mieter: was jedes Abo freischaltet, wie
   Blink mit Sync Module gratis aufzeichnet und wann sich Ring Home lohnt.

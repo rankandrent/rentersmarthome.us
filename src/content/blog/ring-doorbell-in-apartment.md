@@ -1,6 +1,6 @@
 ---
-title: Can You Put a Ring Doorbell on an Apartment? (Renter Guide)
-seoTitle: 'Can You Put a Ring Doorbell on an Apartment? Yes, Here''s How'
+title: Can You Put Ring Doorbell on Apartment Doors? (Renter Guide)
+seoTitle: 'Can You Put Ring Doorbell on Apartment Doors? 3 Ways (2026)'
 description: >-
   Yes, you can put a Ring doorbell on an apartment without drilling. Here's how
   renters use the Peephole Cam or No-Drill Mount, and what to ask your landlord.

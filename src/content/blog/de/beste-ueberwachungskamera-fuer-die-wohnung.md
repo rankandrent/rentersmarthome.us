@@ -1,6 +1,6 @@
 ---
-title: 'Die beste Überwachungskamera für die Wohnung 2026: 9 Modelle'
-seoTitle: 'Überwachungskamera für die Wohnung: 9 Modelle (2026)'
+title: 'Die beste Überwachungskamera für die Wohnung 2026 – 9 Modelle'
+seoTitle: 'Überwachungskamera für die Wohnung – 9 Modelle (2026)'
 description: >-
   Die beste Überwachungskamera für die Wohnung kommt in die Steckdose oder läuft
   mit Akku, braucht kein Bohren und speichert ohne Abo. 9 Modelle für Mieter.

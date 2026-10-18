@@ -1,6 +1,6 @@
 ---
-title: 'Philips Hue o WiZ: ¿qué bombillas inteligentes comprar si alquilas?'
-seoTitle: 'Philips Hue o WiZ (2026): ¿cuál es mejor para inquilinos?'
+title: 'Philips Hue o WiZ – ¿qué bombillas inteligentes comprar si alquilas?'
+seoTitle: 'Philips Hue o WiZ (2026) – ¿cuál es mejor para inquilinos?'
 description: >-
   Philips Hue o WiZ para un piso de alquiler: WiZ es más sencillo y barato, sin
   hub; Hue crea un sistema más grande y estable con el Hue Bridge. Así eliges.

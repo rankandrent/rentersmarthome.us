@@ -1,6 +1,6 @@
 ---
-title: 'Best Dehumidifier for Small Apartment Living: 6 Renter Picks'
-seoTitle: 'Best Dehumidifier for Small Apartment (2026): 6 Picks'
+title: 'Best Dehumidifier for Small Apartment Living – 6 Renter Picks'
+seoTitle: 'Best Dehumidifier for Small Apartment (2026) – 6 Picks'
 description: >-
   The best dehumidifier for a small apartment is a 20-pint compressor unit like
   the Midea Cube 20. See 6 picks for studios, bathrooms and closets, plus

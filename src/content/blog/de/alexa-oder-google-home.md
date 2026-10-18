@@ -1,6 +1,6 @@
 ---
-title: 'Alexa oder Google Home 2026: Was passt besser in die Mietwohnung?'
-seoTitle: 'Alexa oder Google Home (2026): Was ist besser für Mieter?'
+title: 'Alexa oder Google Home 2026 – was passt besser in die Mietwohnung?'
+seoTitle: 'Alexa oder Google Home (2026) – was ist besser für Mieter?'
 description: >-
   Alexa oder Google Home für die Mietwohnung 2026: Alexa+ gegen Gemini,
   Kompatibilität, Matter, Abos und welcher Lautsprecher sich als Einstieg für

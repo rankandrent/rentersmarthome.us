@@ -1,6 +1,6 @@
 ---
-title: 'Alexa vs Google Home in 2026: Which Is Better for a Rental?'
-seoTitle: 'Alexa vs Google Home (2026): Which Is Better for Renters?'
+title: 'Alexa vs Google Home in 2026 – Which Is Better for a Rental?'
+seoTitle: 'Alexa vs Google Home (2026) – Which Is Better for Renters?'
 description: >-
   Alexa vs Google Home for apartments in 2026: Alexa+ vs Gemini, device
   compatibility, Matter, subscriptions and the best speaker to start with as a

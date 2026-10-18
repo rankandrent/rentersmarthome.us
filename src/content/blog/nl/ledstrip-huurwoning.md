@@ -1,6 +1,6 @@
 ---
-title: De beste ledstrips voor je huurwoning (zonder loslatende verf)
-seoTitle: 'Ledstrip huurwoning (2026): onze 3 beste keuzes'
+title: Ledstrip huurwoning – de beste ledstrips zonder loslatende verf
+seoTitle: 'Ledstrip huurwoning (2026) – onze 3 beste keuzes'
 description: >-
   Een ledstrip in je huurwoning geeft kleur en sfeer zonder bedrading. Onze 3
   favorieten, plus hoe je ze ophangt en weghaalt zonder de verf te beschadigen.

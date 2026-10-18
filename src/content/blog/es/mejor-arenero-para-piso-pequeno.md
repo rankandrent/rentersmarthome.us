@@ -1,6 +1,6 @@
 ---
-title: 'Mejor arenero para piso pequeño (2026): 7 opciones que ahorran sitio'
-seoTitle: 'Arenero para piso pequeño (2026): 7 modelos compactos'
+title: 'Mejor arenero para piso pequeño (2026) – 7 opciones que ahorran sitio'
+seoTitle: 'Arenero para piso pequeño (2026) – 7 modelos compactos'
 description: >-
   El mejor arenero para un piso pequeño es compacto, de paredes altas y fácil de
   esconder. Comparamos 7 modelos por tamaño, suciedad y olor, con consejos.

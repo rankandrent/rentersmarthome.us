@@ -1,6 +1,6 @@
 ---
 title: De 3 beste lekkagemelders voor huurders (zonder boren, 2026)
-seoTitle: 'Lekkagemelder voor huurders (2026): 3 modellen zonder boren'
+seoTitle: 'Lekkagemelder voor huurders (2026) – 3 modellen zonder boren'
 description: >-
   De beste lekkagemelder voor huurders: 3 modellen zonder boren met een melding
   op je mobiel, plus waar je ze neerlegt, wat je de verhuurder meldt en

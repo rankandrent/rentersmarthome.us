@@ -1,6 +1,6 @@
 ---
-title: 'Ring deurbel in je huurappartement: kan dat zonder boren?'
-seoTitle: 'Ring deurbel in een appartement: 3 manieren zonder boren'
+title: 'Ring deurbel in een appartement – kan dat zonder boren?'
+seoTitle: 'Ring deurbel in een appartement – 3 manieren zonder boren'
 description: Ja, een Ring deurbel kan in een huurappartement zonder boren. Zo gebruik
   je de Ring Peephole Cam of de No-Drill Mount, en dit vraag je aan je verhuurder.
 pubDate: '2026-10-17T19:00:00.000Z'

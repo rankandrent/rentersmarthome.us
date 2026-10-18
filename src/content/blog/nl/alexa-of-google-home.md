@@ -1,6 +1,6 @@
 ---
-title: 'Alexa of Google Home in 2026: wat past beter in een huurwoning?'
-seoTitle: 'Alexa of Google Home (2026): wat is beter voor huurders?'
+title: 'Alexa of Google Home in 2026 – wat past beter in een huurwoning?'
+seoTitle: 'Alexa of Google Home (2026) – wat is beter voor huurders?'
 description: >-
   Alexa of Google Home voor je huurwoning in 2026: Alexa+ tegen Gemini,
   compatibiliteit, Matter, abonnementen en met welke speaker je als huurder het

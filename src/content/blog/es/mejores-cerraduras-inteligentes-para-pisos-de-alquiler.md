@@ -1,6 +1,6 @@
 ---
-title: Las mejores cerraduras inteligentes para pisos de alquiler en 2026
-seoTitle: 'Cerradura inteligente para alquiler (2026): 4 reversibles'
+title: Cerradura inteligente para piso de alquiler – las mejores de 2026
+seoTitle: 'Cerradura inteligente para piso de alquiler (2026)'
 description: >-
   La mejor cerradura inteligente para piso de alquiler deja que la llave del
   casero siga funcionando o se retira sin rastro: tres modelos de adaptación y

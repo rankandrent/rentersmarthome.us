@@ -1,5 +1,5 @@
 ---
-title: 'Huurwoning babyproof maken zonder schade: gids voor huurders 2026'
+title: 'Huurwoning babyproof maken zonder schade – gids voor huurders 2026'
 seoTitle: Huurwoning babyproof maken zonder schade (2026)
 description: >-
   Je huurwoning babyproof maken zonder schade: plan per kamer, waar de

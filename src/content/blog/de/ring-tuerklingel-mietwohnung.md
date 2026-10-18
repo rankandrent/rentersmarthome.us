@@ -1,6 +1,6 @@
 ---
-title: 'Ring-Türklingel in der Mietwohnung: Geht das ohne Bohren?'
-seoTitle: 'Ring Türklingel in der Mietwohnung: 3 Wege ohne Bohren'
+title: 'Ring-Türklingel in der Mietwohnung – geht das ohne Bohren?'
+seoTitle: 'Ring Türklingel in der Mietwohnung – 3 Wege ohne Bohren'
 description: 'Ja, eine Ring-Türklingel geht auch in der Mietwohnung ohne Bohren: mit
   der Ring Peephole Cam oder der No-Drill Mount. Und: was du den Vermieter fragst.'
 pubDate: '2026-10-17T19:00:00.000Z'

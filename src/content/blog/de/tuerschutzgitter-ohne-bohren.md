@@ -1,6 +1,6 @@
 ---
-title: 'Türschutzgitter ohne Bohren: die besten Klemmgitter für Mieter'
-seoTitle: 'Türschutzgitter ohne Bohren (2026): 3 Klemmgitter für Mieter'
+title: 'Türschutzgitter ohne Bohren – die besten Klemmgitter für Mieter'
+seoTitle: 'Türschutzgitter ohne Bohren 2026 – 3 Klemmgitter für Mieter'
 description: >-
   Das beste Türschutzgitter ohne Bohren sichert Türen und den Treppenfuß in
   der Mietwohnung per Klemmung. Unsere Empfehlungen, Sicherheitsregeln und Tipps.

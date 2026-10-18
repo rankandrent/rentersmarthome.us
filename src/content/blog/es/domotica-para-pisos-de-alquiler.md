@@ -1,6 +1,6 @@
 ---
-title: 'Domótica para pisos de alquiler: la guía completa sin taladrar'
-seoTitle: 'Domótica para pisos de alquiler (2026): guía sin taladrar'
+title: 'Domótica para pisos de alquiler – la guía completa sin taladrar'
+seoTitle: 'Domótica para pisos de alquiler (2026) – guía sin taladrar'
 description: >-
   Domótica para pisos de alquiler: enchufes, bombillas, cerraduras, cámaras y
   control del clima que se instalan sin taladrar y se mudan contigo.

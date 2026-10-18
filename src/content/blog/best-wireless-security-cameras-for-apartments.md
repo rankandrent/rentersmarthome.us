@@ -1,6 +1,6 @@
 ---
-title: 'Best Security Cameras for Apartments in 2026: 9 Wireless Picks'
-seoTitle: 'Best Security Cameras for Apartments (2026): 9 Renter Picks'
+title: 'Best Security Cameras for Apartments in 2026 – 9 Wireless Picks'
+seoTitle: 'Best Security Cameras for Apartments (2026) – 9 Renter Picks'
 description: >-
   The best security cameras for apartments plug in or run on battery, need no
   drilling and can record without a subscription. Compare 9 wireless renter

@@ -1,6 +1,6 @@
 ---
-title: 'How to Cool an Apartment Without AC: 12 Renter-Friendly Tips'
-seoTitle: 'How to Cool Apartment Without AC: 12 Renter Tips (2026)'
+title: 'How to Cool Apartment Without AC – 12 Renter-Friendly Tips'
+seoTitle: 'How to Cool Apartment Without AC – 12 Renter Tips (2026)'
 description: >-
   How to cool an apartment without AC: block daytime sun, move air with fans at
   night and cut indoor heat. 12 renter-friendly tips that need no installation.

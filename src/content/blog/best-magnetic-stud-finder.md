@@ -1,6 +1,6 @@
 ---
 title: Best Magnetic Stud Finder for Renters in 2026 (5 Picks)
-seoTitle: 'Best Magnetic Stud Finder (2026): 5 Picks, Fewer Holes'
+seoTitle: 'Best Magnetic Stud Finder (2026) – 5 Picks, Fewer Holes'
 description: >-
   The best magnetic stud finder for renters is battery-free, sticks to the wall
   hands free and finds screws on the first pass. Compare 5 picks plus tips.

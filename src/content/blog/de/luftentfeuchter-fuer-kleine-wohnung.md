@@ -1,6 +1,6 @@
 ---
-title: 'Luftentfeuchter für kleine Wohnungen: Die 6 besten für Mieter'
-seoTitle: 'Luftentfeuchter für kleine Wohnung (2026): 6 Modelle'
+title: 'Luftentfeuchter für kleine Wohnungen – die 6 besten für Mieter'
+seoTitle: 'Luftentfeuchter für kleine Wohnung (2026) – 6 Modelle'
 description: >-
   Der beste Luftentfeuchter für eine kleine Wohnung ist ein Kompressorgerät wie
   der Midea Cube 20. 6 Modelle für Studio, Bad und Schrank, plus die richtige

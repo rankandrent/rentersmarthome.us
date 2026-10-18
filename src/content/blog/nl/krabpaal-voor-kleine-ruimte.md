@@ -1,6 +1,6 @@
 ---
-title: 'Beste krabpaal voor een kleine ruimte (2026): 3 compacte modellen'
-seoTitle: 'Krabpaal voor kleine ruimte (2026): 3 compacte modellen'
+title: 'Beste krabpaal voor kleine ruimte (2026) – 3 compacte modellen'
+seoTitle: 'Krabpaal voor kleine ruimte (2026) – 3 compacte modellen'
 description: >-
   De beste krabpaal voor een kleine ruimte staat op minder dan 0,33 m² en blijft
   staan zonder boren. Vergelijk 3 compacte modellen, hun voetafdruk en huurtips.

@@ -1,6 +1,6 @@
 ---
-title: ¿Puedo poner un termostato inteligente en un piso de alquiler?
-seoTitle: 'Termostato inteligente en piso de alquiler: guía 2026'
+title: Termostato inteligente en piso de alquiler – ¿puedo instalarlo?
+seoTitle: 'Termostato inteligente en piso de alquiler – guía 2026'
 description: >-
   Termostato inteligente en piso de alquiler: suele ser posible con permiso del
   casero y el cableado adecuado. Así compruebas la compatibilidad antes.

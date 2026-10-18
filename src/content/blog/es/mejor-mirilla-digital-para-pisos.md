@@ -1,6 +1,6 @@
 ---
-title: 'La mejor mirilla digital para pisos: seguridad sin taladrar'
-seoTitle: 'Mirilla digital para pisos (2026): 4 opciones sin taladrar'
+title: 'La mejor mirilla digital para pisos – seguridad sin taladrar'
+seoTitle: 'Mirilla digital para pisos (2026) – 4 opciones sin taladrar'
 description: >-
   Una mirilla digital convierte la mirilla de la puerta de tu piso en un
   videoportero. Estas son las mejores para inquilinos y alternativas sin

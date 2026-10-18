@@ -1,6 +1,6 @@
 ---
-title: 'Balkenfinder für dicke Wände 2026: 6 Ortungsgeräte mit Tiefenscan'
-seoTitle: 'Balkenfinder für dicke Wände (2026): 6 Modelle'
+title: 'Balkenfinder für dicke Wände 2026 – 6 Ortungsgeräte mit Tiefenscan'
+seoTitle: 'Balkenfinder für dicke Wände (2026) – 6 Modelle'
 description: Ein guter Balkenfinder für dicke Wände misst tief durch Putz und doppelte
   Gipskartonplatten. 6 Geräte mit Tiefenscan, Tipps zu Putz und zum Auszug.
 pubDate: '2026-10-17T19:00:00.000Z'

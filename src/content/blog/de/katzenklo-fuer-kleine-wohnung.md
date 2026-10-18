@@ -1,6 +1,6 @@
 ---
-title: 'Katzenklo für kleine Wohnungen (2026): die 7 besten Modelle'
-seoTitle: 'Katzenklo für kleine Wohnung (2026): 7 platzsparende Modelle'
+title: 'Katzenklo für kleine Wohnungen (2026) – die 7 besten Modelle'
+seoTitle: 'Katzenklo für kleine Wohnung 2026 – 7 platzsparende Modelle'
 description: >-
   Das beste Katzenklo für eine kleine Wohnung ist kompakt, hat hohe Wände und
   lässt sich verstecken. 7 Modelle im Vergleich, plus Tipps für Mieter.

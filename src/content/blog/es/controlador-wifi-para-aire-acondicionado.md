@@ -1,6 +1,6 @@
 ---
-title: 'Controlador WiFi para aire acondicionado: 3 opciones para inquilinos'
-seoTitle: 'Controlador WiFi para aire acondicionado (2026): 3 opciones'
+title: 'Controlador WiFi para aire acondicionado – 3 opciones para inquilinos'
+seoTitle: 'Controlador WiFi para aire acondicionado (2026) – 3 opciones'
 description: >-
   El mejor controlador wifi para aire acondicionado añade app, horarios y
   automatizaciones a equipos de ventana, portátiles y split sin tocar cables.

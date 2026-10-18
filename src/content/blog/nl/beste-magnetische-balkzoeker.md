@@ -1,6 +1,6 @@
 ---
 title: De beste magnetische balkzoeker voor huurders in 2026 (5 keuzes)
-seoTitle: 'Beste magnetische balkzoeker (2026): 5 keuzes, minder gaten'
+seoTitle: 'Magnetische balkzoeker (2026) – 5 keuzes, minder gaten'
 description: >-
   De beste magnetische balkzoeker voor huurders werkt zonder batterij, blijft
   vanzelf aan de muur hangen en vindt schroeven meteen. We vergelijken er 5.

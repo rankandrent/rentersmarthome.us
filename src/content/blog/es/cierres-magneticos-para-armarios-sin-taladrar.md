@@ -1,5 +1,5 @@
 ---
-title: 'Cierres magnéticos para armarios sin taladrar: 6 kits (2026)'
+title: 'Cierres magnéticos para armarios sin taladrar – 6 kits (2026)'
 seoTitle: Cierres magnéticos para armarios sin taladrar (2026)
 description: >-
   Cierres magnéticos para armarios sin taladrar: comparamos 6 kits adhesivos
@@ -477,9 +477,6 @@ sources:
       https://www.samsclub.com/ip/safety-1st-secure-to-explore-adhesive-locks-12-locks-white/13636904161
   - title: Safety 1st Home Safety Help Center
     url: https://safety1st.com/pages/home-safety-help-center
-  - title: Safety 1st Secure-to-Explore Adhesive Magnetic Lock System (Momease)
-    url: >-
-      https://www.momease.ca/products/safety-1st-secure-to-explore-adhesive-magnetic-lock-system
   - title: Best Cabinet Locks (BabyGearLab)
     url: https://babygearlab.com/topics/nursery-furniture/best-cabinet-locks
   - title: Dreambaby Adhesive Mag Locks 8 Locks, 1 Key (ClassWallet)

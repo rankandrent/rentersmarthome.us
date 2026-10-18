@@ -1,6 +1,6 @@
 ---
-title: 'Beste kattenbak voor klein appartement (2026): 7 ruimtebespaarders'
-seoTitle: 'Kattenbak voor klein appartement (2026): 7 compacte bakken'
+title: 'Beste kattenbak voor klein appartement (2026) – 7 ruimtebespaarders'
+seoTitle: 'Kattenbak voor klein appartement (2026) – 7 compacte bakken'
 description: >-
   De beste kattenbak voor een klein appartement is compact, heeft hoge randen en
   is makkelijk te verstoppen. 7 bakken vergeleken, plus tips voor huurders.

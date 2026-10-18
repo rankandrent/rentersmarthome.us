@@ -1,6 +1,6 @@
 ---
-title: 'Video-Türklingel ohne Abo für Mieter: Unsere 3 Empfehlungen'
-seoTitle: 'Video-Türklingel ohne Abo für Mieter (2026): 3 Modelle'
+title: 'Video-Türklingel ohne Abo für Mieter – unsere 3 Empfehlungen'
+seoTitle: 'Video-Türklingel ohne Abo für Mieter (2026) – 3 Modelle'
 description: >-
   Die beste Video-Türklingel ohne Abo für Mieter speichert Clips lokal, läuft
   mit Akku und hält ohne Bohren. Unsere 3 Empfehlungen und Tipps zur Montage.

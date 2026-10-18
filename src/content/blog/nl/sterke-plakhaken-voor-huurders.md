@@ -1,6 +1,6 @@
 ---
 title: De beste sterke plakhaken voor huurders (zonder boren)
-seoTitle: 'Sterke plakhaken voor huurders (2026): onze 3 favorieten'
+seoTitle: 'Sterke plakhaken voor huurders (2026) – onze 3 favorieten'
 description: >-
   De beste sterke plakhaken voor huurders houden jassen, tassen en handdoeken
   vast zonder spijkers. Onze keuzes, het draagvermogen en hoe je ze netjes

@@ -1,6 +1,6 @@
 ---
-title: De 3 beste slimme rookmelders voor een huurwoning (2026)
-seoTitle: 'Slimme rookmelder huurwoning: 3 modellen zonder bedrading'
+title: Slimme rookmelder huurwoning – de 3 beste modellen (2026)
+seoTitle: 'Slimme rookmelder huurwoning – 3 modellen zonder bedrading'
 description: De beste slimme rookmelder voor een huurwoning heeft geen bedrading nodig
   en waarschuwt via je telefoon. 3 modellen, regels van je verhuurder en verhuistips.
 pubDate: '2026-10-17T19:00:00.000Z'

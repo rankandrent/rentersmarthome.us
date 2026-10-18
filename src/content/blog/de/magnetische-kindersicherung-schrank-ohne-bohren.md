@@ -1,6 +1,6 @@
 ---
-title: 'Magnetische Kindersicherung für Schränke ohne Bohren: 6 Sets (2026)'
-seoTitle: 'Magnetische Kindersicherung ohne Bohren (2026): 6 Sets'
+title: 'Magnetische Kindersicherung ohne Bohren – 6 Sets für Schränke (2026)'
+seoTitle: 'Magnetische Kindersicherung ohne Bohren (2026) – 6 Sets'
 description: >-
   Magnetische Kindersicherung für Schränke ohne Bohren: 6 Sets für Mieter im
   Vergleich, die mit Klebepads unsichtbar halten, plus schonende Tipps zum
@@ -467,9 +467,6 @@ sources:
       https://www.samsclub.com/ip/safety-1st-secure-to-explore-adhesive-locks-12-locks-white/13636904161
   - title: Safety 1st Home Safety Help Center
     url: https://safety1st.com/pages/home-safety-help-center
-  - title: Safety 1st Secure-to-Explore Adhesive Magnetic Lock System (Momease)
-    url: >-
-      https://www.momease.ca/products/safety-1st-secure-to-explore-adhesive-magnetic-lock-system
   - title: Best Cabinet Locks (BabyGearLab)
     url: https://babygearlab.com/topics/nursery-furniture/best-cabinet-locks
   - title: Dreambaby Adhesive Mag Locks 8 Locks, 1 Key (ClassWallet)

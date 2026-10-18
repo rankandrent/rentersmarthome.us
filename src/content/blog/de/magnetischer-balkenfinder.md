@@ -1,6 +1,6 @@
 ---
-title: Der beste magnetische Balkenfinder für Mieter 2026 (5 Modelle)
-seoTitle: 'Magnetischer Balkenfinder (2026): 5 Modelle, weniger Löcher'
+title: Magnetischer Balkenfinder für Mieter 2026 – die 5 besten Modelle
+seoTitle: 'Magnetischer Balkenfinder (2026) – 5 Modelle, weniger Löcher'
 description: >-
   Der beste magnetische Balkenfinder für Mieter braucht keine Batterie, hält von
   selbst an der Wand und findet Schrauben sofort. 5 Modelle im Vergleich.

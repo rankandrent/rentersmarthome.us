@@ -1,6 +1,6 @@
 ---
 title: Best LED Strip Lights for Renters (Without Peeling Paint)
-seoTitle: 'Best LED Strip Lights for Renters (2026): 3 Picks'
+seoTitle: 'Best LED Strip Lights for Renters (2026) – 3 Picks'
 description: >-
   The best LED strip lights for renters add color and glow without wiring. Our
   picks, plus how to mount and remove them without peeling your landlord's

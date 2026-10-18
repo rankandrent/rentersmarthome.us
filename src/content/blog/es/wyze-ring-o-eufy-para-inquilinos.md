@@ -1,6 +1,6 @@
 ---
-title: 'Wyze, Ring o eufy para inquilinos: ¿qué cámara de enchufe gana?'
-seoTitle: 'Wyze, Ring o eufy (2026): cámaras sin taladrar'
+title: 'Wyze, Ring o eufy para inquilinos – ¿qué cámara de enchufe gana?'
+seoTitle: 'Wyze, Ring o eufy (2026) – cámaras sin taladrar'
 description: >-
   Wyze, Ring o eufy para inquilinos: qué cámara de enchufe graba sin
   suscripción, no necesita taladro y se muda contigo, según fichas técnicas y

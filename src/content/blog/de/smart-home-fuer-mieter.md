@@ -1,6 +1,6 @@
 ---
-title: 'Smart Home für Mieter: der komplette Ratgeber ohne Bohren'
-seoTitle: 'Smart Home für Mieter (2026): der Ratgeber ohne Bohren'
+title: 'Smart Home für Mieter – der komplette Ratgeber ohne Bohren'
+seoTitle: 'Smart Home für Mieter (2026) – der Ratgeber ohne Bohren'
 description: >-
   Smart Home für Mieter: Steckdosen, Lampen, Schlösser, Kameras und
   Klimasteuerung, die ohne Bohren halten, die Kaution schonen und beim Umzug

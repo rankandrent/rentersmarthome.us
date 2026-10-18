@@ -1,6 +1,6 @@
 ---
-title: 'Beste balkzoeker voor dikke muren 2026: 6 modellen met deep scan'
-seoTitle: 'Balkzoeker voor dikke muren (2026): 6 modellen'
+title: 'Beste balkzoeker voor dikke muren 2026 – 6 modellen met deep scan'
+seoTitle: 'Balkzoeker voor dikke muren (2026) – 6 modellen'
 description: De beste balkzoeker voor dikke muren meet diep door pleisterwerk en
   dubbele gipsplaat. Vergelijk 6 modellen met deep scan, tips voor stucwerk en verhuizen.
 pubDate: '2026-10-17T19:00:00.000Z'

@@ -1,6 +1,6 @@
 ---
-title: 'Magnetisch kinderslot voor kastjes zonder boren: 6 sets (2026)'
-seoTitle: 'Magnetisch kinderslot kastjes zonder boren (2026): 6 sets'
+title: 'Magnetisch kinderslot kastjes zonder boren – 6 sets (2026)'
+seoTitle: 'Magnetisch kinderslot kastjes zonder boren (2026) – 6 sets'
 description: >-
   Magnetisch kinderslot voor kastjes zonder boren: we vergelijken 6 plaksets
   voor huurders die onzichtbaar blijven, en hoe je ze bij verhuizen veilig
@@ -468,9 +468,6 @@ sources:
       https://www.samsclub.com/ip/safety-1st-secure-to-explore-adhesive-locks-12-locks-white/13636904161
   - title: Safety 1st Home Safety Help Center
     url: https://safety1st.com/pages/home-safety-help-center
-  - title: Safety 1st Secure-to-Explore Adhesive Magnetic Lock System (Momease)
-    url: >-
-      https://www.momease.ca/products/safety-1st-secure-to-explore-adhesive-magnetic-lock-system
   - title: Best Cabinet Locks (BabyGearLab)
     url: https://babygearlab.com/topics/nursery-furniture/best-cabinet-locks
   - title: Dreambaby Adhesive Mag Locks 8 Locks, 1 Key (ClassWallet)

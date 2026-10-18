@@ -1,6 +1,6 @@
 ---
-title: 'Slimme thermostaat in je huurwoning: mag ik die installeren?'
-seoTitle: 'Slimme thermostaat huurwoning: mag dat? (2026)'
+title: 'Slimme thermostaat huurwoning – mag ik die installeren?'
+seoTitle: 'Slimme thermostaat huurwoning (2026) – mag dat?'
 description: >-
   Slimme thermostaat in je huurwoning? Vaak kan dat, met toestemming van de
   verhuurder en de juiste bedrading. Zo controleer je als huurder eerst alles.

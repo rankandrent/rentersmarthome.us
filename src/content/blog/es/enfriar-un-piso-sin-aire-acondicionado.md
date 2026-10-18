@@ -1,6 +1,6 @@
 ---
-title: 'Cómo enfriar un piso sin aire acondicionado: 12 trucos para inquilinos'
-seoTitle: 'Enfriar un piso sin aire acondicionado: 12 trucos (2026)'
+title: 'Cómo enfriar un piso sin aire acondicionado – 12 trucos si alquilas'
+seoTitle: 'Enfriar un piso sin aire acondicionado – 12 trucos (2026)'
 description: >-
   Cómo enfriar un piso sin aire acondicionado: bloquea el sol de día, mueve el
   aire con ventiladores de noche y evita el calor interior. 12 trucos sin obras.

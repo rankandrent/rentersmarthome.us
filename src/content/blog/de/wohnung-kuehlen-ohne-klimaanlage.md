@@ -1,6 +1,6 @@
 ---
-title: 'Wohnung kühlen ohne Klimaanlage: 12 Tipps für Mieter'
-seoTitle: 'Wohnung kühlen ohne Klimaanlage: 12 Tipps (2026)'
+title: 'Wohnung kühlen ohne Klimaanlage – 12 Tipps für Mieter'
+seoTitle: 'Wohnung kühlen ohne Klimaanlage – 12 Tipps (2026)'
 description: >-
   Wohnung kühlen ohne Klimaanlage: Sonne tagsüber aussperren, nachts mit
   Ventilatoren lüften, Wärmequellen meiden. 12 Mieter-Tipps ganz ohne Montage.

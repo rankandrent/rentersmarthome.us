@@ -1,6 +1,6 @@
 ---
-title: 'Alexa o Google Home en 2026: ¿cuál es mejor para un piso de alquiler?'
-seoTitle: 'Alexa o Google Home (2026): ¿cuál es mejor para inquilinos?'
+title: 'Alexa o Google Home (2026) – ¿cuál es mejor para un piso de alquiler?'
+seoTitle: 'Alexa o Google Home (2026) – ¿cuál es mejor para inquilinos?'
 description: >-
   Alexa o Google Home para un piso de alquiler en 2026: Alexa+ frente a Gemini,
   compatibilidad, Matter, suscripciones y el mejor altavoz para empezar si

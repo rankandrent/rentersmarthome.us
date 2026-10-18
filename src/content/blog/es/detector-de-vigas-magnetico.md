@@ -1,6 +1,6 @@
 ---
 title: Mejor detector de vigas magnético para inquilinos 2026 (5 modelos)
-seoTitle: 'Detector de vigas magnético 2026: 5 modelos, menos agujeros'
+seoTitle: 'Detector de vigas magnético 2026 – 5 modelos, menos agujeros'
 description: >-
   El mejor detector de vigas magnético para inquilinos no usa pilas, se sujeta
   solo a la pared y encuentra los tornillos a la primera. Comparamos 5 modelos.

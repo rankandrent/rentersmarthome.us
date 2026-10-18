@@ -1,6 +1,6 @@
 ---
 title: De beste draadloze beveiligingscamera voor je appartement (2026)
-seoTitle: 'Draadloze beveiligingscamera appartement: 9 modellen (2026)'
+seoTitle: 'Draadloze beveiligingscamera appartement – 9 modellen (2026)'
 description: >-
   De beste draadloze beveiligingscamera voor je appartement gaat in het
   stopcontact of werkt op een accu, zonder boren en zonder abonnement. 9

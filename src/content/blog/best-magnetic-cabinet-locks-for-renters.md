@@ -1,6 +1,6 @@
 ---
 title: Best Magnetic Cabinet Locks for Renters in 2026 (6 Picks)
-seoTitle: 'Best Magnetic Cabinet Locks for Renters (2026): 6 Picks'
+seoTitle: 'Best Magnetic Cabinet Locks for Renters (2026) – 6 Picks'
 description: >-
   The best magnetic cabinet locks for renters mount with adhesive, stay hidden
   and need no drilling. Compare 6 picks, plus safe move-out removal steps.

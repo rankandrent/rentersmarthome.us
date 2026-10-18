@@ -1,6 +1,6 @@
 ---
-title: 'Beste deurspion camera voor appartementen: veilig zonder boren'
-seoTitle: 'Deurspion camera voor appartementen (2026): 4 zonder boren'
+title: 'Beste deurspion camera voor appartementen – veilig zonder boren'
+seoTitle: 'Deurspion camera voor appartementen (2026) – 4 zonder boren'
 description: >-
   Een deurspion camera maakt van het spionnetje in je voordeur een video
   deurbel. Dit zijn de beste huurdersvriendelijke modellen en alternatieven

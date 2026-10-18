@@ -1,6 +1,6 @@
 ---
-title: 'Traphekje zonder boren: de beste klemhekjes voor huurders'
-seoTitle: 'Traphekje zonder boren (2026): 3 klemhekjes voor huurders'
+title: 'Traphekje zonder boren – de beste klemhekjes voor huurders'
+seoTitle: 'Traphekje zonder boren (2026) – 3 klemhekjes voor huurders'
 description: >-
   Het beste traphekje zonder boren sluit deuropeningen en de onderkant van de
   trap in je huurwoning af met klemkracht. Onze keuzes, veiligheidsregels en tips.

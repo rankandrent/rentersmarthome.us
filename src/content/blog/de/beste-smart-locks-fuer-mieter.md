@@ -1,6 +1,6 @@
 ---
-title: Die besten Smart Locks für Mieter 2026 (rückbaubar)
-seoTitle: 'Smart Lock für Mieter (2026): die besten rückbaubaren Modelle'
+title: Smart Lock für Mieter – die besten rückbaubaren Modelle 2026
+seoTitle: 'Smart Lock für Mieter 2026 – die besten rückbaubaren Modelle'
 description: >-
   Das beste Smart Lock für Mieter lässt den Schlüssel des Vermieters funktionieren
   oder ist beim Auszug sauber rückgebaut: drei Nachrüst-Modelle plus ein Komplettschloss.

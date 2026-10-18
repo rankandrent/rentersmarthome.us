@@ -1,6 +1,6 @@
 ---
-title: 'Klimaanlage smart machen: 3 smarte AC-Controller für Mieter'
-seoTitle: 'Klimaanlage smart machen (2026): 3 Controller für Mieter'
+title: 'Klimaanlage smart machen – 3 smarte AC-Controller für Mieter'
+seoTitle: 'Klimaanlage smart machen (2026) – 3 Controller für Mieter'
 description: >-
   Klimaanlage smart machen ohne Kabel: Diese smarten AC-Controller bringen App,
   Zeitpläne und Automationen zu Fenster-, Mobil- und Split-Klimageräten.

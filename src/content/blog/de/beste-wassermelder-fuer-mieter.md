@@ -1,6 +1,6 @@
 ---
 title: Die 3 besten Wassermelder für Mieter (ohne Bohren, 2026)
-seoTitle: 'Wassermelder für Mieter (2026): 3 Modelle ohne Bohren'
+seoTitle: 'Wassermelder für Mieter (2026) – 3 Modelle ohne Bohren'
 description: >-
   Wassermelder für Mieter im Vergleich: 3 Modelle ohne Bohren mit Handy-Alarm,
   dazu die besten Stellen, was du dem Vermieter sagst und Tipps für den Auszug.

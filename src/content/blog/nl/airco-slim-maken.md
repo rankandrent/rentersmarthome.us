@@ -1,6 +1,6 @@
 ---
-title: 'Airco slim maken: 3 slimme airco-controllers voor huurders'
-seoTitle: 'Airco slim maken (2026): 3 beste controllers voor huurders'
+title: 'Airco slim maken – 3 slimme airco-controllers voor huurders'
+seoTitle: 'Airco slim maken (2026) – 3 beste controllers voor huurders'
 description: >-
   Airco slim maken zonder bedrading: deze slimme controllers geven raamairco's,
   mobiele airco's en split-airco's een app, schema's en automatiseringen.

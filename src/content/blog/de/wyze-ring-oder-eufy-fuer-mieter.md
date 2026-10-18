@@ -1,6 +1,6 @@
 ---
-title: 'Wyze, Ring oder eufy für Mieter: Welche Steckdosen-Kamera gewinnt?'
-seoTitle: 'Wyze, Ring oder eufy (2026): Kameras ohne Bohren'
+title: 'Wyze, Ring oder eufy für Mieter – welche Steckdosen-Kamera gewinnt?'
+seoTitle: 'Wyze, Ring oder eufy (2026) – Kameras ohne Bohren'
 description: >-
   Wyze, Ring oder eufy für Mieter: Welche Kamera für die Steckdose speichert
   ohne Abo, braucht kein Bohren, zieht mit um? Vergleich nach Daten und

@@ -1,6 +1,6 @@
 ---
-title: De beste slimme sloten voor huurders in 2026 (omkeerbaar)
-seoTitle: 'Slim slot huurwoning (2026): 4 omkeerbare keuzes'
+title: Slim slot huurwoning – de beste omkeerbare sloten in 2026
+seoTitle: 'Slim slot huurwoning (2026) – 4 omkeerbare keuzes'
 description: >-
   Het beste slimme slot voor je huurwoning laat de sleutel van de verhuurder
   werken of is netjes terug te plaatsen: drie opzetsloten plus één volledig

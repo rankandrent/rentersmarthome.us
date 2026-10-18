@@ -3,13 +3,9 @@
   "lang": "nl",
   "translationOf": "how-to-baby-proof-a-rental-without-damage",
   "pass": true,
-  "checkedAt": "2026-10-18T10:13:59.469Z",
+  "checkedAt": "2026-10-18T13:49:38.036Z",
   "errors": [],
-  "warnings": [
-    "source didn't respond normally (403): https://homedepot.com/p/Safety-1st-Grip-n-Twist-Doorknob-Covers-4-Pack-48394/202259354",
-    "source didn't respond normally (403): https://homedepot.com/p/QuakeHOLD-Black-Nylon-Furniture-Safety-Strap-4160/100137023",
-    "source didn't respond normally (403): https://www.cpsc.gov/Safety-Education/Safety-Guides/Kids-and-Babies"
-  ],
+  "warnings": [],
   "factCheck": {
     "verified": true,
     "notes": "Compared line by line with the English post (passes QA): same 6 products/ASINs/scores/sources, same claims; units converted (29-38 in = 74-97 cm, 500 lb = 227 kg, 15 in = 38 cm). Not copied: 'front door' for knob covers and 'cheap' wording in the notes block (English factcheck says both were removed). Added a US-socket fit caution for the US plug protectors; CPSC/JPMA marked as US bodies.",

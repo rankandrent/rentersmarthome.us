@@ -1,6 +1,6 @@
 ---
 title: 'Las 5 mejores bombillas inteligentes para inquilinos (sin obras, 2026)'
-seoTitle: 'Bombillas inteligentes para inquilinos: 5 opciones (2026)'
+seoTitle: 'Bombillas inteligentes para inquilinos – 5 opciones (2026)'
 description: >-
   Las bombillas inteligentes para inquilinos se enroscan en tus lámparas y se
   cambian al mudarte. Comparamos 5 por hub, Matter, wifi y control por voz.

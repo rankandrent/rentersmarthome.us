@@ -1,5 +1,5 @@
 ---
-title: 'Smartes Thermostat in der Mietwohnung: Darf ich es einbauen?'
+title: 'Smartes Thermostat in der Mietwohnung – darf ich es einbauen?'
 seoTitle: Smartes Thermostat in der Mietwohnung einbauen? (2026)
 description: >-
   Smartes Thermostat in der Mietwohnung: Oft geht das, mit Zustimmung des

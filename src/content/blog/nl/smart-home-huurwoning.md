@@ -1,6 +1,6 @@
 ---
-title: 'Smart home in je huurwoning: de complete gids zonder boren'
-seoTitle: 'Smart home huurwoning (2026): de complete gids zonder boren'
+title: 'Smart home huurwoning – de complete gids zonder boren'
+seoTitle: 'Smart home huurwoning (2026) – de complete gids zonder boren'
 description: >-
   Smart home huurwoning zonder boren: slimme stekkers, lampen, sloten, camera’s
   en klimaatregeling die je borg sparen en gewoon met je meeverhuizen.

@@ -1,6 +1,6 @@
 ---
-title: Die 3 besten smarten Rauchmelder für Mietwohnungen (2026)
-seoTitle: 'Smarter Rauchmelder für die Mietwohnung: 3 Modelle 2026'
+title: Smarter Rauchmelder für die Mietwohnung – die 3 besten (2026)
+seoTitle: 'Smarter Rauchmelder für die Mietwohnung – 3 Modelle 2026'
 description: Der beste smarte Rauchmelder für die Mietwohnung braucht keine Kabel
   und warnt per App. 3 Modelle im Vergleich, Vermieterfragen und Tipps zum Auszug.
 pubDate: '2026-10-17T19:00:00.000Z'

@@ -1,6 +1,6 @@
 ---
-title: 'Die 5 besten smarten Glühbirnen für Mieter (ohne Verkabelung, 2026)'
-seoTitle: 'Smarte Glühbirnen für Mieter: 5 Modelle im Vergleich (2026)'
+title: 'Smarte Glühbirnen für Mieter – die 5 besten ohne Verkabelung (2026)'
+seoTitle: 'Smarte Glühbirnen für Mieter – 5 Modelle im Vergleich 2026'
 description: >-
   Smarte Glühbirnen für Mieter schraubst du in vorhandene Lampen und tauschst
   sie beim Auszug zurück. 5 Modelle nach Hub, Matter, WLAN und Sprachsteuerung.

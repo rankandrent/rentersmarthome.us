@@ -1,6 +1,6 @@
 ---
-title: 'Timbre con cámara sin suscripción para inquilinos: 3 opciones'
-seoTitle: 'Timbre con cámara sin suscripción (2026): 3 para alquiler'
+title: 'Timbre con cámara sin suscripción para inquilinos – 3 opciones'
+seoTitle: 'Timbre con cámara sin suscripción (2026) – 3 para alquiler'
 description: >-
   El mejor timbre con cámara sin suscripción para inquilinos guarda clips en
   local, va con batería y se monta sin taladrar. Nuestras 3 opciones y consejos.

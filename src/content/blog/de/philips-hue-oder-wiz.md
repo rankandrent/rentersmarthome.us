@@ -1,6 +1,6 @@
 ---
-title: 'Philips Hue oder WiZ: Welche smarten Lampen lohnen sich für Mieter?'
-seoTitle: 'Philips Hue oder WiZ (2026): Was ist besser für Mieter?'
+title: 'Philips Hue oder WiZ – welche smarten Lampen lohnen sich für Mieter?'
+seoTitle: 'Philips Hue oder WiZ (2026) – was ist besser für Mieter?'
 description: >-
   Philips Hue oder WiZ für die Mietwohnung: WiZ ist einfacher und günstiger,
   ganz ohne Hub. Hue baut mit der Bridge ein größeres, stabileres System auf.

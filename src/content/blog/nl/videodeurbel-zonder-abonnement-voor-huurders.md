@@ -1,6 +1,6 @@
 ---
-title: 'Videodeurbel zonder abonnement voor huurders: onze 3 keuzes'
-seoTitle: 'Videodeurbel zonder abonnement (2026): 3 voor huurders'
+title: 'Videodeurbel zonder abonnement voor huurders – onze 3 keuzes'
+seoTitle: 'Videodeurbel zonder abonnement (2026) – 3 voor huurders'
 description: >-
   De beste videodeurbel zonder abonnement voor huurders slaat clips lokaal op,
   werkt op een accu en hangt zonder boren. Onze 3 keuzes en montagetips.

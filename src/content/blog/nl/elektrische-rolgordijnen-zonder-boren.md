@@ -1,6 +1,6 @@
 ---
 title: De beste elektrische rolgordijnen zonder boren voor huurders (2026)
-seoTitle: 'Elektrische rolgordijnen zonder boren: 3 keuzes (2026)'
+seoTitle: 'Elektrische rolgordijnen zonder boren – 3 keuzes (2026)'
 description: >-
   Elektrische rolgordijnen zonder boren voor huurders: klemrolgordijnen en
   plakmotoren automatiseren je ramen zonder schroeven, kabels of gedoe met je

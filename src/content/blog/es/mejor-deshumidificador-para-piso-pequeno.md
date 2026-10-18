@@ -1,6 +1,6 @@
 ---
-title: 'Mejor deshumidificador para piso pequeño: 6 opciones de alquiler'
-seoTitle: 'Mejor deshumidificador para piso pequeño (2026): 6 modelos'
+title: 'Mejor deshumidificador para piso pequeño – 6 opciones de alquiler'
+seoTitle: 'Mejor deshumidificador para piso pequeño (2026) – 6 modelos'
 description: >-
   El mejor deshumidificador para piso pequeño es un equipo de compresor como el
   Midea Cube 20. 6 modelos para estudios, baños y armarios, y qué tamaño elegir.

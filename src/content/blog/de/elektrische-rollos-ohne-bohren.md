@@ -1,6 +1,6 @@
 ---
 title: Elektrische Rollos ohne Bohren für Mieter (2026)
-seoTitle: 'Elektrische Rollos ohne Bohren: 3 Modelle für Mieter (2026)'
+seoTitle: 'Elektrische Rollos ohne Bohren – 3 Modelle für Mieter 2026'
 description: >-
   Elektrische Rollos ohne Bohren für Mieter: smarte Klemmrollos und aufklebbare
   Motoren automatisieren deine Fenster ohne Schrauben, Kabel oder Kautionsärger.

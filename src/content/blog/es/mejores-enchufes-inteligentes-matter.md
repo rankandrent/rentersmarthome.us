@@ -1,6 +1,6 @@
 ---
-title: Los mejores enchufes inteligentes Matter para pisos de alquiler
-seoTitle: 'Enchufe inteligente Matter (2026): mejores Wi-Fi y Thread'
+title: Enchufe inteligente Matter – los mejores para pisos de alquiler
+seoTitle: 'Enchufe inteligente Matter (2026) – mejores Wi-Fi y Thread'
 description: >-
   Un enchufe inteligente Matter funciona a la vez con Alexa, Google Home y Apple
   Home. Comparamos modelos Wi-Fi y Thread con medición de consumo para inquilinos.

@@ -1,6 +1,6 @@
 ---
-title: 'Wyze, Ring of eufy voor huurders: welke stekkercamera wint?'
-seoTitle: 'Wyze, Ring of eufy (2026): camera’s zonder boren'
+title: 'Wyze, Ring of eufy voor huurders – welke stekkercamera wint?'
+seoTitle: 'Wyze, Ring of eufy (2026) – camera’s zonder boren'
 description: >-
   Wyze, Ring of eufy voor huurders: welke stekkercamera neemt op zonder
   abonnement, vraagt geen boren en verhuist mee? Vergeleken op specs en

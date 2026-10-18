@@ -1,6 +1,6 @@
 ---
-title: 'Mejor rascador para gatos para pisos pequeños (2026): 3 modelos'
-seoTitle: 'Rascador para gatos para piso pequeño (2026): 3 modelos'
+title: 'Mejor rascador para gatos para piso pequeño (2026) – 3 modelos'
+seoTitle: 'Rascador para gatos para piso pequeño (2026) – 3 modelos'
 description: >-
   El mejor rascador para gatos para un piso pequeño ocupa menos de 0,33 m² y se
   sostiene sin taladrar. Comparamos 3 modelos compactos, su base y consejos.

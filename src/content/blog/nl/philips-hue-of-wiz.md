@@ -1,6 +1,6 @@
 ---
-title: 'Philips Hue of WiZ: welke slimme lampen kies je als huurder?'
-seoTitle: 'Philips Hue of WiZ (2026): wat is beter voor huurders?'
+title: 'Philips Hue of WiZ – welke slimme lampen kies je als huurder?'
+seoTitle: 'Philips Hue of WiZ (2026) – wat is beter voor huurders?'
 description: >-
   Philips Hue of WiZ in een huurwoning: WiZ is eenvoudiger en goedkoper, zonder
   hub; Hue bouwt met de Hue Bridge een groter, stabieler systeem. Zo kies je.

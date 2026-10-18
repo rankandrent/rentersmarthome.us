@@ -1,6 +1,6 @@
 ---
-title: 'Smart Home for Renters: The Complete No-Drill Guide'
-seoTitle: 'Smart Home for Renters (2026): The Complete No-Drill Guide'
+title: 'Smart Home for Renters – The Complete No-Drill Guide'
+seoTitle: 'Smart Home for Renters (2026) – The Complete No-Drill Guide'
 description: >-
   How to build a smart home in a rental: renter-safe smart plugs, bulbs, locks,
   cameras and climate control that install without drilling and move with you.

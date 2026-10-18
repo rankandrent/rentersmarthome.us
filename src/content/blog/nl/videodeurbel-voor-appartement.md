@@ -1,6 +1,6 @@
 ---
-title: 'Beste videodeurbel voor je huurappartement: 6 zonder bedrading (2026)'
-seoTitle: 'Videodeurbel voor appartement (2026): 6 zonder bedrading'
+title: 'Videodeurbel voor appartement – 6 beste zonder bedrading (2026)'
+seoTitle: 'Videodeurbel voor appartement (2026) – 6 zonder bedrading'
 description: >-
   De beste videodeurbel voor een appartement werkt op een accu en hangt zonder
   boren. Vergelijk 6 keuzes voor huurders: opslag, verhuurderregels en

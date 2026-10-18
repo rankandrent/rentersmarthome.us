@@ -1,5 +1,5 @@
 ---
-title: 'Piso de alquiler a prueba de bebés sin daños: guía 2026'
+title: 'Piso de alquiler a prueba de bebés sin daños – guía 2026'
 seoTitle: Piso de alquiler a prueba de bebés sin daños (2026)
 description: >-
   Cómo dejar tu piso de alquiler a prueba de bebés sin daños: plan por

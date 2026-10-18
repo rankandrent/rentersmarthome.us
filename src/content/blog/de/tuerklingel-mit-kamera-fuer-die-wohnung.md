@@ -1,6 +1,6 @@
 ---
-title: 'Türklingel mit Kamera für die Mietwohnung: 6 Modelle ohne Kabel (2026)'
-seoTitle: 'Türklingel mit Kamera für die Wohnung (2026): 6 Modelle'
+title: 'Türklingel mit Kamera für die Wohnung – 6 Modelle ohne Kabel (2026)'
+seoTitle: 'Türklingel mit Kamera für die Wohnung (2026) – 6 Modelle'
 description: >-
   Die beste Türklingel mit Kamera für die Wohnung läuft mit Akku und hält ohne
   Bohren. 6 Modelle für Mieter im Vergleich: Speicher, Vermieter-Regeln und

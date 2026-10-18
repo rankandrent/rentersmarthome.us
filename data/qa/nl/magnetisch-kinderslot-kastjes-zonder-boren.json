@@ -2,16 +2,10 @@
   "slug": "nl/magnetisch-kinderslot-kastjes-zonder-boren",
   "lang": "nl",
   "translationOf": "best-magnetic-cabinet-locks-for-renters",
-  "pass": false,
-  "checkedAt": "2026-10-18T13:41:40.674Z",
-  "errors": [
-    "sources must be the English post's URLs (added: https://www.momease.ca/products/safety-1st-secure-to-explore-adhesive-magnetic-lock-system; missing: none)"
-  ],
-  "warnings": [
-    "LIVE POST, FIX: source returns 404: https://www.momease.ca/products/safety-1st-secure-to-explore-adhesive-magnetic-lock-system",
-    "source didn't respond normally (403): https://www.woolworths.com.au/shop/productdetails/1122750099",
-    "source didn't respond normally (403): https://fuhrmannmanagement.com/best-cabinet-locks/"
-  ],
+  "pass": true,
+  "checkedAt": "2026-10-18T13:50:27.512Z",
+  "errors": [],
+  "warnings": [],
   "factCheck": {
     "verified": true,
     "notes": "Compared section by section with the English post best-magnetic-cabinet-locks-for-renters (passes QA): same 6 products, order, ASINs, scores, sources and owner sources; every claim (lock/key counts, 3M adhesive, template, particle board/old paint screws, 24 h cure, ~2 in / 1.5 in key range converted to 5 cm / 3.8 cm, EZY-Check, Starter-Tape, removal steps, lease advice) comes from the English post. No new facts, prices, currencies, testing claims or local Amazon wording; untranslated internal links marked as English.",

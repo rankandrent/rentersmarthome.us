@@ -1,6 +1,6 @@
 ---
-title: 'Huis koel houden zonder airco: 12 tips voor huurders'
-seoTitle: 'Huis koel houden zonder airco: 12 tips voor huurders (2026)'
+title: 'Huis koel houden zonder airco – 12 tips voor huurders'
+seoTitle: 'Huis koel houden zonder airco – 12 tips voor huurders (2026)'
 description: >-
   Huis koel houden zonder airco: houd overdag de zon buiten, ventileer 's nachts
   met ventilatoren en beperk warmte binnen. 12 huurderstips zonder montage.

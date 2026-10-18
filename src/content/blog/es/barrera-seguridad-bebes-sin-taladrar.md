@@ -1,6 +1,6 @@
 ---
-title: 'Barrera de seguridad para bebés sin taladrar: las mejores de presión'
-seoTitle: 'Barrera para bebés sin taladrar (2026): 3 de presión'
+title: 'Barrera de seguridad para bebés sin taladrar – las mejores de presión'
+seoTitle: 'Barrera de seguridad para bebés sin taladrar (2026)'
 description: >-
   La mejor barrera de seguridad para bebés sin taladrar cierra puertas y el pie
   de la escalera de tu piso de alquiler a presión. Nuestras opciones y consejos.

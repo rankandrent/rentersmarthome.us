@@ -1,6 +1,6 @@
 ---
-title: 'Beste Türspion-Kamera für Wohnungen: Sicherheit ohne Bohren'
-seoTitle: 'Türspion-Kamera für Wohnungen (2026): 4 Modelle ohne Bohren'
+title: 'Beste Türspion-Kamera für Wohnungen – Sicherheit ohne Bohren'
+seoTitle: 'Türspion-Kamera für Wohnungen 2026 – 4 Modelle ohne Bohren'
 description: >-
   Eine Türspion-Kamera macht aus dem Spion deiner Wohnungstür eine
   Video-Türklingel. Die besten mieterfreundlichen Modelle und Alternativen ohne

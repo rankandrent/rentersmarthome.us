@@ -1,6 +1,6 @@
 ---
-title: 'Blink of Ring: welk camera-abonnement kost huurders het minst?'
-seoTitle: 'Blink of Ring (2026): welk abonnement heb je als huurder?'
+title: 'Blink of Ring – welk camera-abonnement kost huurders het minst?'
+seoTitle: 'Blink of Ring (2026) – welk abonnement heb je als huurder?'
 description: >-
   Blink of Ring: de abonnementen vergeleken voor huurders. Wat elk abonnement
   ontgrendelt, hoe Blink gratis opneemt met Sync Module en wanneer Ring Home loont.

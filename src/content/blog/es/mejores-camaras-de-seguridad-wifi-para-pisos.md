@@ -1,6 +1,6 @@
 ---
 title: Las mejores cámaras de seguridad wifi para pisos en 2026 (9 modelos)
-seoTitle: 'Cámaras de seguridad wifi para pisos: 9 modelos (2026)'
+seoTitle: 'Cámaras de seguridad wifi para pisos – 9 modelos (2026)'
 description: >-
   Las mejores cámaras de seguridad wifi para pisos van al enchufe o con batería,
   no necesitan taladro y graban sin suscripción. Compara 9 modelos para

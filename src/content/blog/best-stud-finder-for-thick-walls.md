@@ -1,6 +1,6 @@
 ---
-title: 'Best Stud Finder for Plaster Walls in 2026: 6 Picks for Thick Walls'
-seoTitle: 'Best Stud Finder for Plaster Walls (2026): 6 Deep Scan Picks'
+title: 'Best Stud Finder for Plaster Walls in 2026 – 6 Picks for Thick Walls'
+seoTitle: 'Best Stud Finder for Plaster Walls (2026) – 6 Deep Scanners'
 description: >-
   The best stud finder for plaster walls reads deep through old plaster, lath
   and thick double drywall. Compare 6 deep scan picks and renter move-out tips.

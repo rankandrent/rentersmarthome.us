@@ -1,6 +1,6 @@
 ---
-title: 'Mejor timbre con cámara para piso de alquiler: 6 sin cables (2026)'
-seoTitle: 'Timbre con cámara para piso (2026): 6 modelos sin cables'
+title: 'Mejor timbre con cámara para piso de alquiler – 6 sin cables (2026)'
+seoTitle: 'Timbre con cámara para piso (2026) – 6 modelos sin cables'
 description: >-
   El mejor timbre con cámara para un piso funciona con batería y se monta sin
   taladrar. Comparamos 6 modelos para inquilinos: almacenamiento, casero y

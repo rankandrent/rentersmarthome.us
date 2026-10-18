@@ -1,6 +1,6 @@
 ---
-title: 'Detector de vigas para paredes gruesas 2026: 6 con escaneo profundo'
-seoTitle: 'Detector de vigas para paredes gruesas 2026: 6 modelos'
+title: 'Detector de vigas para paredes gruesas 2026 – 6 con escaneo profundo'
+seoTitle: 'Detector de vigas para paredes gruesas 2026 – 6 modelos'
 description: Un buen detector de vigas para paredes gruesas lee a fondo a través
   de yeso y pladur doble. Comparamos 6 modelos con escaneo profundo y consejos de
   mudanza.

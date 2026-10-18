@@ -1,6 +1,6 @@
 ---
-title: Best Smart Locks for Renters in 2026 (Reversible Picks)
-seoTitle: 'Best Smart Lock for Renters (2026): Reversible Picks'
+title: Best Smart Lock for Renters – 2026 Reversible Picks
+seoTitle: 'Best Smart Lock for Renters (2026) – Reversible Picks'
 description: >-
   The best smart locks for renters keep the landlord's key working or swap back
   cleanly at move-out: three retrofit picks plus one full deadbolt that needs

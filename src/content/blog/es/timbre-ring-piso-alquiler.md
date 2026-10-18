@@ -1,6 +1,6 @@
 ---
 title: ¿Se puede poner un timbre Ring en un piso de alquiler? Guía
-seoTitle: 'Timbre Ring en un piso de alquiler: 3 formas sin taladrar'
+seoTitle: 'Timbre Ring en un piso de alquiler – 3 formas sin taladrar'
 description: Sí, puedes poner un timbre Ring en un piso de alquiler sin taladrar.
   Así se usa la Ring Peephole Cam o el No-Drill Mount, y qué preguntar a tu casero.
 pubDate: '2026-10-17T19:00:00.000Z'

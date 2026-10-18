@@ -1,6 +1,6 @@
 ---
-title: Los 3 mejores detectores de humo inteligentes para pisos (2026)
-seoTitle: 'Detector de humo inteligente para pisos: 3 opciones 2026'
+title: Detector de humo inteligente para pisos – los 3 mejores (2026)
+seoTitle: 'Detector de humo inteligente para pisos – 3 opciones 2026'
 description: El mejor detector de humo inteligente para pisos no necesita cables y
   avisa en el móvil. Comparamos 3 modelos, qué decir al casero y qué hacer al mudarte.
 pubDate: '2026-10-17T19:00:00.000Z'

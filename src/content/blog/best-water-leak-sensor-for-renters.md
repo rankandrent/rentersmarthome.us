@@ -1,6 +1,6 @@
 ---
-title: '3 Best Water Leak Sensors for Renters (No-Drill, 2026)'
-seoTitle: 'Best Water Leak Sensor for Renters (2026): 3 No-Drill Picks'
+title: 'Best Water Leak Sensor for Renters – 3 No-Drill Picks (2026)'
+seoTitle: 'Best Water Leak Sensor for Renters (2026) – 3 No-Drill Picks'
 description: >-
   Compare the best water leak sensor for renters: 3 no-drill picks with phone
   alerts, plus where to place them, what to tell your landlord and move-out

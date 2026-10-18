@@ -1,6 +1,6 @@
 ---
-title: 'Beste luchtontvochtiger voor een klein appartement: 6 keuzes'
-seoTitle: 'Beste luchtontvochtiger klein appartement (2026): 6 keuzes'
+title: 'Beste luchtontvochtiger klein appartement – 6 keuzes'
+seoTitle: 'Beste luchtontvochtiger klein appartement (2026) – 6 keuzes'
 description: >-
   De beste luchtontvochtiger voor een klein appartement is een compressormodel
   zoals de Midea Cube 20. 6 keuzes voor studio, badkamer en kast, plus het
