@@ -772,6 +772,27 @@
       "lang": "nl",
       "translationOf": "door-camera-for-apartment",
       "pubDate": "2026-10-19T01:25:00.000Z"
+    },
+    {
+      "date": "2026-10-18",
+      "id": "de/luftentfeuchter-fuer-kleine-wohnung",
+      "lang": "de",
+      "translationOf": "best-dehumidifier-for-small-apartment",
+      "pubDate": "2026-10-18T19:20:00.000Z"
+    },
+    {
+      "date": "2026-10-18",
+      "id": "es/mejor-deshumidificador-para-piso-pequeno",
+      "lang": "es",
+      "translationOf": "best-dehumidifier-for-small-apartment",
+      "pubDate": "2026-10-18T17:55:00.000Z"
+    },
+    {
+      "date": "2026-10-18",
+      "id": "nl/beste-luchtontvochtiger-klein-appartement",
+      "lang": "nl",
+      "translationOf": "best-dehumidifier-for-small-apartment",
+      "pubDate": "2026-10-18T19:30:00.000Z"
     }
   ]
 }
