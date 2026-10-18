@@ -1,0 +1,60 @@
+name: AI bots access
+
+# Shows (mode=check) or turns off (mode=allow) Cloudflare's AI-bot blocking on the sites' zones,
+# so AI agents and crawlers (DeepSeek, ChatGPT, Claude, Perplexity, ...) can open the pages:
+# "Block AI bots", the Cloudflare-managed robots.txt that disallows AI crawlers, AI Labyrinth
+# and Bot Fight Mode. Then fetches robots.txt and one page with common AI user agents.
+on:
+  workflow_dispatch:
+    inputs:
+      domains:
+        description: 'Space-separated domains'
+        required: true
+        default: 'rentersmarthome.us best-tripod.com'
+      mode:
+        description: 'check or allow'
+        required: true
+        default: 'check'
+
+jobs:
+  ai-bots:
+    runs-on: ubuntu-latest
+    env:
+      RAW_CF_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      DOMAINS: ${{ inputs.domains }}
+      MODE: ${{ inputs.mode }}
+    steps:
+      - name: Cloudflare bot settings
+        run: |
+          TOKEN=$(printf '%s' "$RAW_CF_TOKEN" | tr -d '[:space:]"'"'" | sed 's/^CLOUDFLARE_API_TOKEN=//')
+          [ -n "$TOKEN" ] || { echo "CLOUDFLARE_API_TOKEN secret not set"; exit 1; }
+          API=https://api.cloudflare.com/client/v4
+          AUTH="Authorization: Bearer $TOKEN"
+          for DOMAIN in $DOMAINS; do
+            echo "=== $DOMAIN"
+            ZONE_ID=$(curl -s "$API/zones?name=$DOMAIN" -H "$AUTH" | jq -r '.result[0].id // empty')
+            [ -n "$ZONE_ID" ] || { echo "zone not found"; continue; }
+            echo "--- before"
+            curl -s "$API/zones/$ZONE_ID/bot_management" -H "$AUTH" | jq '{success, errors, result}'
+            if [ "$MODE" = "allow" ]; then
+              # One field per call, so a field this plan doesn't support can't block the others.
+              for BODY in '{"ai_bots_protection":"disabled"}' '{"is_robots_txt_managed":false}' '{"crawler_protection":"disabled"}' '{"fight_mode":false}'; do
+                echo "PUT $BODY"
+                curl -s -X PUT "$API/zones/$ZONE_ID/bot_management" -H "$AUTH" -H 'Content-Type: application/json' --data "$BODY" | jq -c '{success, errors}'
+              done
+              echo "--- after"
+              curl -s "$API/zones/$ZONE_ID/bot_management" -H "$AUTH" | jq '{success, errors, result}'
+            fi
+          done
+
+      - name: Fetch as AI agents
+        run: |
+          for DOMAIN in $DOMAINS; do
+            echo "=== https://$DOMAIN/robots.txt"
+            curl -s "https://$DOMAIN/robots.txt"
+            echo
+            for UA in "DeepSeekBot/1.0" "Mozilla/5.0 (compatible; DeepSeek)" "GPTBot/1.1" "ChatGPT-User/1.0" "ClaudeBot/1.0" "PerplexityBot/1.0" "Google-Extended" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"; do
+              CODE=$(curl -s -o /dev/null -w '%{http_code}' -A "$UA" "https://$DOMAIN/")
+              echo "$CODE  $UA"
+            done
+          done
