@@ -158,7 +158,7 @@
     "priority": 9,
     "rationale": "900/mo, KD 0, cluster TP 1.3k (Ahrefs)",
     "slug": "door-camera-for-apartment",
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-13T00:00:00.000Z",
     "ahrefs": {
@@ -169,7 +169,8 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     },
-    "funnel": "bofu"
+    "funnel": "bofu",
+    "publishedAt": "2026-10-18T13:05:05.083Z"
   },
   {
     "keyword": "smart space heater",

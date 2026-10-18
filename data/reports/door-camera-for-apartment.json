@@ -1,0 +1,390 @@
+{
+  "keyword": "door camera for apartment",
+  "createdAt": "2026-10-18T13:05:05.086Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "door camera for apartment",
+    "entityVariants": [
+      "apartment door camera",
+      "door camera",
+      "doorbell camera for apartments",
+      "apartment doorbell camera",
+      "front door camera for apartment",
+      "camera for apartment door"
+    ],
+    "entities": [
+      {
+        "name": "video doorbell",
+        "type": "product category",
+        "relation": "the most common door camera for an apartment; mounts beside or on the door"
+      },
+      {
+        "name": "peephole camera",
+        "type": "product category",
+        "relation": "door camera that replaces the door viewer; covered in our peephole guide"
+      },
+      {
+        "name": "no-drill mount",
+        "type": "hardware",
+        "relation": "adhesive or over-the-door bracket that holds an apartment door camera without screws"
+      },
+      {
+        "name": "adhesive",
+        "type": "hardware",
+        "relation": "mounting tape some door cameras include for renters"
+      },
+      {
+        "name": "rechargeable battery",
+        "type": "power",
+        "relation": "how most apartment door cameras run without doorbell wiring"
+      },
+      {
+        "name": "doorbell wiring",
+        "type": "power",
+        "relation": "low-voltage chime wires most apartments do not give tenants"
+      },
+      {
+        "name": "head-to-toe view",
+        "type": "feature",
+        "relation": "tall field of view that shows a visitor and a package on the floor"
+      },
+      {
+        "name": "package detection",
+        "type": "feature",
+        "relation": "alerts when a delivery lands in the hallway"
+      },
+      {
+        "name": "two-way audio",
+        "type": "feature",
+        "relation": "talk to couriers through the door camera"
+      },
+      {
+        "name": "local storage",
+        "type": "feature",
+        "relation": "records clips on the device or a hub without a monthly plan"
+      },
+      {
+        "name": "subscription",
+        "type": "concept",
+        "relation": "cloud plan that some door cameras need for recorded video"
+      },
+      {
+        "name": "Sync Module",
+        "type": "hardware",
+        "relation": "Blink hub required by Blink Video Doorbell (2nd Gen)"
+      },
+      {
+        "name": "2.4 GHz Wi-Fi",
+        "type": "protocol",
+        "relation": "band several door cameras require"
+      },
+      {
+        "name": "Tapo D225",
+        "type": "product",
+        "relation": "battery or wired 2K doorbell with chime and microSD storage"
+      },
+      {
+        "name": "eufy Video Doorbell E340",
+        "type": "product",
+        "relation": "dual-camera doorbell with 8 GB on-device storage"
+      },
+      {
+        "name": "Ring Battery Doorbell 4K Pro",
+        "type": "product",
+        "relation": "4K battery doorbell; recordings need a Ring plan"
+      },
+      {
+        "name": "Google Nest Doorbell (Battery)",
+        "type": "product",
+        "relation": "battery doorbell with three hours of free event history"
+      },
+      {
+        "name": "Arlo Video Doorbell 2K (2nd Gen)",
+        "type": "product",
+        "relation": "180-degree 2K doorbell with built-in siren"
+      },
+      {
+        "name": "Blink Video Doorbell (2nd Gen)",
+        "type": "product",
+        "relation": "AA-powered doorbell with up to two years of battery life"
+      },
+      {
+        "name": "lease",
+        "type": "legal concept",
+        "relation": "may restrict devices on doors, frames and common areas"
+      },
+      {
+        "name": "landlord",
+        "type": "role",
+        "relation": "approves anything attached to the door or frame"
+      },
+      {
+        "name": "hallway",
+        "type": "place",
+        "relation": "shared common area an apartment door camera faces"
+      },
+      {
+        "name": "privacy zones",
+        "type": "feature",
+        "relation": "mask neighbors' doors from recording"
+      },
+      {
+        "name": "security deposit",
+        "type": "legal concept",
+        "relation": "at risk if a mount damages paint or the door"
+      }
+    ],
+    "attributes": [
+      "power source (battery, wired, AA)",
+      "mounting method (adhesive, no-drill bracket, screws)",
+      "field of view and head-to-toe framing",
+      "video resolution",
+      "local storage vs subscription",
+      "Wi-Fi band",
+      "battery life and charging method",
+      "smart home compatibility",
+      "privacy zones",
+      "removal on move-out"
+    ],
+    "ngrams": [
+      "door camera for apartment",
+      "apartment door camera",
+      "doorbell camera for apartments",
+      "front door camera",
+      "no-drill mount",
+      "head-to-toe view",
+      "two-way audio",
+      "local storage",
+      "battery life",
+      "package detection",
+      "landlord approval",
+      "shared hallway"
+    ],
+    "skipgrams": [
+      "door…frame",
+      "battery…charge",
+      "landlord…writing",
+      "hallway…neighbors",
+      "adhesive…mount",
+      "subscription…recordings"
+    ],
+    "nlpTerms": [
+      "renters",
+      "lease",
+      "landlord",
+      "hallway",
+      "peephole",
+      "doorbell",
+      "battery",
+      "adhesive",
+      "chime",
+      "Wi-Fi",
+      "microSD",
+      "subscription",
+      "privacy",
+      "packages",
+      "night vision",
+      "resolution",
+      "deposit",
+      "move-out",
+      "couriers",
+      "alerts"
+    ],
+    "questions": [
+      "what is the best door camera for an apartment",
+      "can you put a camera on your apartment door",
+      "what doorbell camera works without wiring",
+      "do apartment door cameras need landlord permission",
+      "how do you mount a door camera without drilling",
+      "do apartment door cameras need a subscription"
+    ],
+    "contentGaps": [
+      "which door cameras charge without coming off the wall (removable battery vs built-in)",
+      "how a door camera sits on an apartment door frame with no siding or brick",
+      "a ready-to-send landlord email for a door camera",
+      "pointing the camera away from the neighbor's door across the hall",
+      "move-out removal of adhesive without peeling paint"
+    ],
+    "outline": [
+      {
+        "h2": "The best door camera for an apartment: our short answer",
+        "intent": "quick verdict",
+        "h3": []
+      },
+      {
+        "h2": "The best door cameras for apartments, reviewed",
+        "intent": "product picks",
+        "h3": [
+          "Tapo D225 Smart Video Doorbell",
+          "eufy Video Doorbell E340",
+          "Ring Battery Doorbell 4K Pro",
+          "Google Nest Doorbell (Battery)",
+          "Arlo Video Doorbell 2K (2nd Gen)",
+          "Blink Video Doorbell (2nd Gen)"
+        ]
+      },
+      {
+        "h2": "Apartment door cameras compared",
+        "intent": "comparison table",
+        "h3": []
+      },
+      {
+        "h2": "How we picked these apartment door cameras",
+        "intent": "methodology",
+        "h3": []
+      },
+      {
+        "h2": "How to choose a door camera for your apartment",
+        "intent": "buying guide",
+        "h3": [
+          "Power: battery, AA or doorbell wiring",
+          "Mounting: adhesive, bracket or peephole",
+          "Storage and subscriptions",
+          "Field of view in a narrow hallway"
+        ]
+      },
+      {
+        "h2": "Installing an apartment door camera without drilling",
+        "intent": "install steps",
+        "h3": []
+      },
+      {
+        "h2": "Landlord rules and hallway privacy for a door camera",
+        "intent": "legal/landlord",
+        "h3": [
+          "A landlord email you can send"
+        ]
+      },
+      {
+        "h2": "Taking your door camera with you on move-out day",
+        "intent": "move-out",
+        "h3": []
+      },
+      {
+        "h2": "Which door camera should you buy?",
+        "intent": "verdict",
+        "h3": []
+      }
+    ],
+    "targetWords": 2000,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://smartrent.com/news/best-doorbell-camera-for-apartments/",
+        "https://reolink.com/blog/door-camera-for-apartment/",
+        "https://www.aosulife.com/blogs/buying-guides/best-doorbell-cameras-for-apartments-top-3-picks-for-2026",
+        "https://www.safehome.org/doorbell-cameras/best/",
+        "https://us.store.tapo.com/collections/video-doorbell-for-apartments",
+        "https://ring.com/video-doorbell-cameras"
+      ],
+      "productStyle": "paragraph",
+      "productStyleReason": "The editorial results (Reolink, aosu, SmartRent) describe each door camera in a short prose block with its key features and who it suits, not strict pros/cons lists or spec tables; only SafeHome adds pros/cons.",
+      "avgWords": 1750,
+      "avgProducts": 4,
+      "commonSections": [
+        "are door cameras legal in apartments / landlord permission",
+        "types of apartment door cameras (doorbell, peephole, security camera)",
+        "how to choose (power, mounting, storage, video quality)",
+        "product picks",
+        "renter-friendly no-drill installation tips",
+        "FAQ"
+      ],
+      "usesComparisonTable": false,
+      "usesFaq": true,
+      "usesBuyingGuide": true
+    },
+    "serpProducts": [
+      {
+        "name": "Tapo D225",
+        "pages": [
+          "https://www.nytimes.com/wirecutter/reviews/best-smart-doorbell-camera/",
+          "https://www.cnet.com/home/security/best-video-doorbell-cameras/",
+          "https://us.store.tapo.com/collections/video-doorbell-for-apartments"
+        ]
+      },
+      {
+        "name": "eufy Video Doorbell E340",
+        "pages": [
+          "https://www.reddit.com/r/homeautomation/comments/1jsa476/choosing_between_3_video_doorbells_for_an/",
+          "https://www.cnet.com/home/security/best-video-doorbell-cameras/",
+          "https://www.facebook.com/groups/157508431114996/posts/2752771418255338/"
+        ]
+      },
+      {
+        "name": "Ring Battery Doorbell 4K Pro",
+        "pages": [
+          "https://www.cnet.com/home/security/best-video-doorbell-cameras/",
+          "https://ring.com/video-doorbell-cameras"
+        ]
+      },
+      {
+        "name": "Google Nest Doorbell (Battery)",
+        "pages": [
+          "https://smartrent.com/news/best-doorbell-camera-for-apartments/",
+          "https://www.safehome.org/doorbell-cameras/best/"
+        ]
+      },
+      {
+        "name": "Arlo Video Doorbell 2K (2nd Gen) / Arlo Essential Video Doorbell",
+        "pages": [
+          "https://smartrent.com/news/best-doorbell-camera-for-apartments/",
+          "https://www.cnet.com/home/security/best-video-doorbell-cameras/"
+        ]
+      },
+      {
+        "name": "Blink Video Doorbell (2nd Gen)",
+        "pages": [
+          "https://smartrent.com/news/best-doorbell-camera-for-apartments/",
+          "https://www.cnet.com/home/security/best-video-doorbell-cameras/"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "us.store.tapo.com/products/tapo-2k-qhd-smart-battery-video-doorbell",
+      "url": "https://us.store.tapo.com/products/tapo-2k-qhd-smart-battery-video-doorbell"
+    },
+    {
+      "title": "us.store.tapo.com/collections/video-doorbell-for-apartments",
+      "url": "https://us.store.tapo.com/collections/video-doorbell-for-apartments"
+    },
+    {
+      "title": "nytimes.com/wirecutter/reviews/best-smart-doorbell-camera",
+      "url": "https://www.nytimes.com/wirecutter/reviews/best-smart-doorbell-camera/"
+    },
+    {
+      "title": "service.eufy.com/article-description/Understanding-the-Specifications-of-the-Video-Doorbell-E340",
+      "url": "https://service.eufy.com/article-description/Understanding-the-Specifications-of-the-Video-Doorbell-E340"
+    },
+    {
+      "title": "eufy.com/video-doorbell-e340",
+      "url": "https://www.eufy.com/video-doorbell-e340"
+    },
+    {
+      "title": "eufy.com/products/t8214111",
+      "url": "https://www.eufy.com/products/t8214111"
+    },
+    {
+      "title": "ring.com/products/battery-doorbell-pro-2nd-gen",
+      "url": "https://ring.com/products/battery-doorbell-pro-2nd-gen"
+    },
+    {
+      "title": "ring.com/video-doorbell-cameras",
+      "url": "https://ring.com/video-doorbell-cameras"
+    }
+  ],
+  "backlinks": [
+    {
+      "slug": "best-peephole-camera-for-apartments",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-wireless-security-cameras-for-apartments",
+      "mode": "related-box"
+    },
+    {
+      "slug": "ring-doorbell-in-apartment",
+      "mode": "related-box"
+    }
+  ]
+}
