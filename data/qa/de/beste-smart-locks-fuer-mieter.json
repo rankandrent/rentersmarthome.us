@@ -3,9 +3,13 @@
   "lang": "de",
   "translationOf": "best-smart-lock-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-18T13:49:03.389Z",
+  "checkedAt": "2026-10-18T13:55:37.777Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "LIVE POST, FIX: source returns 404: https://www.seam.co/img/device-db/aqara/manuals/aqara_smart-lock-u100_user_manual.pdf",
+    "source didn't respond normally (no response): https://www.businesswire.com/news/home/20230608005033/en/Aqara-Introduces-its-First-Deadbolt-Smart-Lock-U100",
+    "source didn't respond normally (no response): https://homekitnews.com/2023/06/14/aqara-smart-lock-u100-review/"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Compared line by line with English best-smart-lock-for-renters: all products, specs (60 mm/2-3/8 in, 70 mm/2-3/4 in backsets, 4 AA, CR123, 8 months), times, steps, FAQs and owner notes match the English post; sources are English URLs; no prices, no testing/ownership claims; story block reworded to add no new facts; English links labeled (auf Englisch).",

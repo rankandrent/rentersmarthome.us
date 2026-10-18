@@ -3,9 +3,12 @@
   "lang": "es",
   "translationOf": "wyze-vs-ring-vs-eufy-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-18T13:49:30.134Z",
+  "checkedAt": "2026-10-18T13:59:26.222Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "source didn't respond normally (403): https://support.wyze.com/hc/en-us/articles/23746258989851-Wyze-Cam-v4-Tech-Specs",
+    "source didn't respond normally (no response): https://bestbuy.com/product/ring-indoor-plug-in-1080p-security-camera-2nd-generation-with-privacy-cover-white/J39HW6QGC4"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Compared line by line with English post wyze-vs-ring-vs-eufy-for-renters (factcheck verified, QA pass, no dead sources reported): same 3 products/ASINs/scores/spec keys, same sources and owners.sources; specs translated with decimal comma only (2,5K, 115,8 deg, 2,4 GHz, 128 GB, 1,5 years); no new facts, prices or testing claims; FAQ 'Ring Protect' rendered as Ring Home (formerly Ring Protect) per English body and its factcheck; added only the required note to check the adapter fits local sockets and 230 V if a US version arrives; wireless-cameras link kept English (no translation yet).",

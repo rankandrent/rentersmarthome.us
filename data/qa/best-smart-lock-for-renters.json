@@ -1,10 +1,12 @@
 {
   "slug": "best-smart-lock-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-18T13:48:55.104Z",
+  "checkedAt": "2026-10-18T13:54:05.615Z",
   "errors": [],
   "warnings": [
-    "no semantic brief (data/briefs), SEO audit skipped"
+    "no semantic brief (data/briefs), SEO audit skipped",
+    "LIVE POST, FIX: source returns 404: https://www.seam.co/img/device-db/aqara/manuals/aqara_smart-lock-u100_user_manual.pdf",
+    "source didn't respond normally (no response): https://www.businesswire.com/news/home/20230608005033/en/Aqara-Introduces-its-First-Deadbolt-Smart-Lock-U100"
   ],
   "factCheck": {
     "verified": true,

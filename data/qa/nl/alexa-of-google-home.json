@@ -3,9 +3,11 @@
   "lang": "nl",
   "translationOf": "alexa-vs-google-home",
   "pass": true,
-  "checkedAt": "2026-10-18T13:49:31.121Z",
+  "checkedAt": "2026-10-18T13:59:28.472Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "source didn't respond normally (403): https://www.the-ambient.com/versus/alexa-plus-vs-gemini/"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Compared every claim, product, ASIN, score, FAQ and table row with the English post alexa-vs-google-home and its sources (Google blog, CSA Matter, Thread Group, The Ambient, Matter Alpha); no new facts, no prices, no testing/ownership claims. Removed the untested/local Amazon store paragraph and the notes-block sentence about moving or switching assistants, which are not in the English post. English-only links labeled; translated lock guide linked where it exists.",
