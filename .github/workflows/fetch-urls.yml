@@ -1,0 +1,32 @@
+name: Fetch URLs
+
+# Prints HTTP status, content type, final URL and the first bytes of each URL, fetched from
+# GitHub's US servers (for SEO diagnostics: sitemaps, robots.txt, canonicals).
+on:
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: 'Space-separated full URLs'
+        required: true
+      bytes:
+        description: 'How many bytes of the body to print'
+        required: false
+        default: '500'
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    env:
+      URLS: ${{ inputs.urls }}
+      BYTES: ${{ inputs.bytes }}
+    steps:
+      - name: Fetch
+        run: |
+          for U in $URLS; do
+            echo "=== $U"
+            curl -s -o /tmp/body -D /tmp/headers -w 'status=%{http_code} type=%{content_type} final=%{url_effective}\n' -L "$U"
+            grep -i -E '^(location|x-robots-tag|cache-control):' /tmp/headers || true
+            head -c "$BYTES" /tmp/body; echo
+            grep -o -E '<(link rel="canonical"|meta name="robots")[^>]*>' /tmp/body | head -3 || true
+            echo "<loc> count: $(grep -o '<loc>' /tmp/body | wc -l)"
+          done
