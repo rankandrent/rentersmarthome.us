@@ -1,6 +1,6 @@
 // Builds the "Site Agent Flow" dashboard documents from the three site repos.
 // usage: node scripts/dashboard-sync.mjs <out-dir>
-// Writes <out>/site-<domain>.json (stats + every post, EN and translations) and <out>/agents/<domain>__<agent>.json.
+// Writes <out>/site-<domain>.json (stats, the 5-day plan from dashboard-plan.mjs, every post EN and translations) and <out>/agents/<domain>__<agent>.json.
 // Then send them to the dashboard artifact's db with ArtifactData set (collections "sites" and "agents").
 import fs from 'node:fs'; import path from 'node:path'; import { createRequire } from 'node:module'; import { execSync } from 'node:child_process';
 const require = createRequire(import.meta.url);
@@ -68,7 +68,9 @@ for (const s of SEED) {
   const st = JSON.parse(execSync(`cd ${s.dir} && node scripts/routine.mjs status`).toString());
   const mine = posts.filter((p) => p.site === s.id).map(({ id, site, ...p }) => p).sort((a, b) => b.pubDate.localeCompare(a.pubDate));
   const en = mine.filter((p) => p.lang === 'en'); const tr = mine.filter((p) => p.lang !== 'en');
-  const doc = { name: s.name, domain: s.domain, quotaToday: st.quotaToday, publishedToday: st.publishedToday, remainingToday: st.remainingToday,
+  let plan = [];
+  try { plan = JSON.parse(execSync(`node ${path.join(path.dirname(new URL(import.meta.url).pathname), 'dashboard-plan.mjs')} ${s.dir} 5`).toString()); } catch (e) { console.error(`plan for ${s.domain} failed: ${e.message}`); }
+  const doc = { plan, name: s.name, domain: s.domain, quotaToday: st.quotaToday, publishedToday: st.publishedToday, remainingToday: st.remainingToday,
     pendingKeywords: st.pendingKeywords, nextRun: s.nextRun, langs: s.langs, posts: mine, updatedAt: stamp };
   fs.writeFileSync(path.join(OUT, `site-${s.domain}.json`), JSON.stringify(doc));
   const lastQa = en.filter((p) => p.qaAt).sort((a, b) => b.qaAt.localeCompare(a.qaAt))[0];
