@@ -3637,7 +3637,7 @@
     "lastError": "cannibalization: \"where to put litter box in small apartment\" overlaps \"best litter box for small apartment\" (100%)"
   },
   {
-    "status": "pending",
+    "status": "merged",
     "attempts": 0,
     "addedAt": "2026-10-19T06:42:45.518Z",
     "secondaryKeywords": [
@@ -3668,7 +3668,9 @@
       "source": "ahrefs site-explorer-organic-keywords us",
       "date": "2026-10-19"
     },
-    "slug": "best-retractable-baby-gate"
+    "slug": "best-retractable-baby-gate",
+    "mergedInto": "best-pressure-mounted-baby-gate-for-renters",
+    "lastError": "cannibalization: \"best retractable baby gate\" overlaps \"baby gate for apartment\" (100%)"
   },
   {
     "status": "pending",
