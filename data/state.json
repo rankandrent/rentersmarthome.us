@@ -884,6 +884,27 @@
       "lang": "nl",
       "translationOf": "locked-out-of-apartment",
       "pubDate": "2026-10-19T20:55:00.000Z"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "de/ring-oder-nest-tuerklingel",
+      "lang": "de",
+      "translationOf": "ring-vs-nest-doorbell",
+      "pubDate": "2026-10-20T01:50:00.000Z"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "es/timbre-ring-o-nest",
+      "lang": "es",
+      "translationOf": "ring-vs-nest-doorbell",
+      "pubDate": "2026-10-20T02:20:00.000Z"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "nl/ring-of-nest-deurbel",
+      "lang": "nl",
+      "translationOf": "ring-vs-nest-doorbell",
+      "pubDate": "2026-10-20T01:20:00.000Z"
     }
   ]
 }
