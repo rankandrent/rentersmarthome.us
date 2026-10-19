@@ -543,7 +543,11 @@
       "date": "2026-10-18"
     },
     "funnel": "tofu",
-    "productCount": 6
+    "productCount": 6,
+    "painPoints": [
+      "smart-locks-battery-dies-lockout",
+      "smart-locks-lockout-charges-landlord-liability"
+    ]
   },
   {
     "keyword": "apartment door security",
@@ -613,7 +617,11 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     },
-    "funnel": "bofu"
+    "funnel": "bofu",
+    "painPoints": [
+      "lighting-led-strip-pulls-paint-on-removal",
+      "lighting-led-strip-keeps-falling-off"
+    ]
   },
   {
     "keyword": "apartment lighting ideas",
@@ -815,7 +823,13 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     },
-    "slug": "ring-vs-nest-doorbell"
+    "slug": "ring-vs-nest-doorbell",
+    "painPoints": [
+      "security-landlord-bans-cameras-doorbells",
+      "security-doorbell-records-neighbors",
+      "security-false-motion-alerts",
+      "security-battery-drain-cold"
+    ]
   },
   {
     "status": "pending",
@@ -846,7 +860,11 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     },
-    "slug": "wyze-vs-blink"
+    "slug": "wyze-vs-blink",
+    "painPoints": [
+      "security-cloud-subscription-fees",
+      "security-camera-cloud-privacy-concerns"
+    ]
   },
   {
     "status": "published",
@@ -980,7 +998,10 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     },
-    "slug": "alarm-system-for-apartment-renters"
+    "slug": "alarm-system-for-apartment-renters",
+    "painPoints": [
+      "security-cloud-subscription-fees"
+    ]
   },
   {
     "status": "pending",
@@ -1011,7 +1032,11 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     },
-    "slug": "can-a-landlord-put-cameras-outside-the-house"
+    "slug": "can-a-landlord-put-cameras-outside-the-house",
+    "painPoints": [
+      "security-landlord-bans-cameras-doorbells",
+      "security-landlord-camera-watching-tenants"
+    ]
   },
   {
     "status": "published",
@@ -3709,5 +3734,42 @@
       "date": "2026-10-19"
     },
     "slug": "lazy-susan-child-lock"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-19T06:59:55.632Z",
+    "secondaryKeywords": [
+      "no drill ring doorbell mount",
+      "anti theft ring doorbell mount",
+      "doorbell mount for apartment"
+    ],
+    "questions": [
+      "how do I stop my doorbell being stolen in an apartment",
+      "can I mount a doorbell without drilling"
+    ],
+    "priority": 6,
+    "keyword": "anti theft doorbell mount",
+    "category": "security",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Anti-Theft Doorbell Mounts for Renters (No Drilling)",
+    "cluster": "apartment doorbell",
+    "source": "pain-point",
+    "painPoints": [
+      "security-doorbell-theft-fear",
+      "security-no-drill-doorbell-mount"
+    ],
+    "rationale": "5 owners report doorbell theft fear and no-drill mounting limits (reddit/facebook/review)",
+    "ahrefs": {
+      "volume": 80,
+      "kd": 0,
+      "trafficPotential": 30,
+      "parentTopic": "anti theft ring doorbell mount",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-19"
+    },
+    "slug": "anti-theft-doorbell-mount"
   }
 ]
