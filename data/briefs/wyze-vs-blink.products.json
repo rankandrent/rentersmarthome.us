@@ -1,0 +1,305 @@
+{
+ "status": "OK: 3 products (productCount for this slug is 3). Wyze Battery Video Doorbell, Wyze Cam Floodlight v2, Blink Wired Floodlight and Blink Outdoor were not selected; see serpProducts.",
+ "products": [
+  {
+   "name": "Wyze Cam v4",
+   "brand": "Wyze",
+   "query": "Wyze Cam v4 2.5K indoor outdoor security camera",
+   "matchName": "WYZE Cam v4",
+   "badge": "Best for local storage and Google Home",
+   "summary": "A plug-in 2.5K camera with color night vision, a built-in spotlight and a microSD slot, so it records to your own card without a hub or a monthly plan. It works with Alexa, Google Assistant and IFTTT.",
+   "renterNote": "Suits a renter who wants one cheap camera on a shelf or bookcase with no drilling, and who wants recordings on a card instead of a subscription. Caveat: person, pet and package alerts and cloud clips need a paid Wyze plan, and owners report software and Wi-Fi hiccups.",
+   "pros": [
+    "Records to a microSD card (up to 256 GB, exFAT) with no hub, per Wyze's tech specs",
+    "2.5K (2560 x 1440) video with color night vision, 99 dB siren and two-way audio",
+    "Works with Alexa, Google Assistant and IFTTT, so it fits Google Home households"
+   ],
+   "cons": [
+    "Owners on Reddit report random offline drops, error codes and stuttering SD card playback",
+    "Narrower view than Blink's Mini 2K+ (115.8 degrees diagonal vs 138), and 2.4 GHz Wi-Fi only"
+   ],
+   "facts": [
+    "Resolution 2560 x 1440 (2.5K QHD); field of view 115.8 degrees diagonal, 98.5 horizontal, 53.1 vertical; 20 fps day, 15 fps night (Wyze tech specs)",
+    "Color night vision with 4 IR LEDs plus a 2-LED, 72-lumen spotlight; 99 dB siren; two-way audio (Wyze tech specs)",
+    "Local storage: microSD up to 256 GB in exFAT; the card is sold separately (Wyze tech specs and Wyze comparison page)",
+    "Power: 6 ft microUSB cable and 5V/1A adapter; 2.4 GHz Wi-Fi 6, Bluetooth 5.2 (Wyze tech specs)",
+    "Weather rating IP65 for indoor and outdoor use, -4 to 122 F; Wyze says outdoor mounting needs an outdoor power adapter (Wyze tech specs and Wyze comparison page)",
+    "Dimensions 2.64 x 2.28 x 3.98 in, weight 0.12 lb (222 g); 1-year warranty (Wyze tech specs)",
+    "Integrations: Amazon Alexa, Google Assistant, IFTTT (Wyze tech specs)",
+    "Plans (Wyze service plans page): Cam Plus $2.99/mo per camera or $29.99/yr, 14-day cloud history, person/vehicle/package/pet detection; Cam Unlimited $9.99/mo or $99.99/yr for every camera, adds Friendly Faces; Cam Unlimited Pro $19.99/mo or $199.99/yr, up to 60-day history. 30-day free trial. Core live view and microSD recording work without a plan"
+   ],
+   "sources": [
+    "https://support.wyze.com/hc/en-us/articles/23746258989851-Wyze-Cam-v4-Tech-Specs",
+    "https://www.wyze.com/products/wyze-cam",
+    "https://www.wyze.com/blogs/smart-home/wyze-vs-blink",
+    "https://www.wyze.com/pages/wyzeserviceplans",
+    "https://www.safehome.org/home-security-cameras/blink/reviews/"
+   ],
+   "scores": {
+    "install": 9,
+    "reversibility": 10,
+    "value": 9,
+    "compatibility": 8,
+    "portability": 9
+   },
+   "scoreNote": "Plug-in and shelf-ready with no drilling, microSD recording avoids a required plan, and it works with Alexa, Google Assistant and IFTTT; owners flag software and Wi-Fi reliability.",
+   "owners": {
+    "read": 5,
+    "praise": [
+     "Image quality, color video and WiFi connection for the money (Home Depot reviewer: \"Great camera! Compared to other cameras I've tried this one offers more user control, better color video and solid WiFi connections.\")",
+     "Local microSD recording with no required subscription",
+     "Easy Bluetooth setup, per retailer review summaries"
+    ],
+    "complaints": [
+     "Intermittent offline drops and error codes (Reddit: \"My V4 is having intermittent issues. It goes offline at random times. I get error code 90, but my wifi connection is stable.\")",
+     "Software problems and stuttering SD card playback (Reddit: \"V4 reviews hit a lot of problems with the software. Constant connectivity issues, stuttering during SD card playback, spotlight bugs, and event ...\")",
+     "Awkward scrubbing through SD card footage (Reddit: \"having to re-learn how to scan back in SDcard footage to find an ...\")"
+    ],
+    "sources": [
+     {
+      "title": "Very Disappointed with V4 (r/wyzecam)",
+      "url": "https://www.reddit.com/r/wyzecam/comments/1h7gbr9/very_disappointed_with_v4/"
+     },
+     {
+      "title": "Is anyone actually happy with Wyze? (r/wyzecam)",
+      "url": "https://www.reddit.com/r/wyzecam/comments/1h0g9fs/is_anyone_actually_happy_with_wyze/"
+     },
+     {
+      "title": "I don't know what wyze did but all my cameras are basically trash now (r/wyzecam)",
+      "url": "https://www.reddit.com/r/wyzecam/comments/1vp09j4/i_dont_know_what_wyze_did_but_all_my_cameras_are/"
+     },
+     {
+      "title": "r/wyzecam top posts (V4 offline, error 90)",
+      "url": "https://www.reddit.com/r/wyzecam/best/"
+     },
+     {
+      "title": "Wyze Cam v4 reviews (Home Depot, 1654 reviews shown)",
+      "url": "https://www.homedepot.com/p/reviews/Wyze-Cam-v4-Wi-Fi-2-5K-QHD-Indoor-Outdoor-Plug-In-Smart-Home-Security-Camera-Color-Night-Vision-2-Way-Audio-Gray-WYZEC4GY/328377981/2",
+      "reviews": 1654
+     },
+     {
+      "title": "Wyze Cam v4 customer summary (Best Buy)",
+      "url": "https://www.bestbuy.com/product/wyze-cam-v4-2-5k-qhd-wifi-indoor-outdoor-wired-security-camera-with-color-night-vision-black/J3GWC6TG53"
+     }
+    ]
+   },
+   "asin": "B0D7HK1TJH",
+   "amazonTitle": "WYZE Cam v4, 2.5K Indoor/Outdoor Security Camera, Color Night Vision | Easy App Setup, Enhanced Two-Way Audio and Motion Detection for Home Security, Baby Monitoring and Pet Camera",
+   "asinVerified": true
+  },
+  {
+   "name": "Blink Mini 2K+",
+   "brand": "Blink",
+   "query": "Blink Mini 2K+ plug-in security camera",
+   "matchName": "Blink Mini 2K+",
+   "badge": "Best for Alexa and wide view",
+   "summary": "Blink's third-generation plug-in camera with 2K video, a 138 degree view, 4x zoom, color vision in low light, two-way talk with noise cancellation and a built-in siren. It works without a hub, and local storage is an add-on through a Sync Module.",
+   "renterNote": "Suits a renter in an Alexa home who wants a small shelf camera with no drilling and a wider view than the Wyze Cam v4. Caveat: person and vehicle alerts and cloud history need a Blink plan, and local recording needs a Sync Module 2 plus a USB drive or a Sync Module XR with a microSD card.",
+   "pros": [
+    "Wider 138 degree view and 2560 x 1440 video, per Blink",
+    "Works without a Sync Module; a new camera starts a 30-day Blink plan trial",
+    "Alexa, IFTTT and Siri Shortcuts supported; can double as a chime for a Blink doorbell"
+   ],
+   "cons": [
+    "No microSD slot in the camera; local clips need a Sync Module 2 and USB drive (or Sync Module XR)",
+    "No Google Assistant, and Blink says color vision needs ambient light or it falls back to black and white"
+   ],
+   "facts": [
+    "Video up to 2560 x 1440 at 24 fps (Best setting); needs 6 Mbps upload at that setting, with 1080p and 720p saver modes (Blink Mini 2K+ FAQ)",
+    "Field of view 138 degrees and 4x zoom (Blink and Best Buy spec pages); color vision in low light needs ambient light, otherwise infrared black and white (Blink FAQ)",
+    "Two-way talk with noise cancellation, built-in siren and spotlight; Wyze's comparison lists the siren at 105 dB (Blink FAQ, Wyze blog)",
+    "Power: USB-C adapter of at least 5W (5V/1A); 2.4 GHz Wi-Fi only; colors White and Black (Blink FAQ)",
+    "IP65 and -4 to 113 F, but outdoor use requires the Blink Weather Resistant Power Adapter (sold separately) (Blink FAQ)",
+    "Storage: no Sync Module required; local storage works with Sync Module 2 plus a USB drive or Sync Module XR plus a microSD card; Sync Module Core does not support local storage (Blink FAQ). Wyze's blog puts Sync Module 2 at about $50 extra",
+    "Mounts on a flat surface, ceiling or wall; works with Alexa, IFTTT and Siri Shortcuts (Blink FAQ)",
+    "Plans (Blink plans page): Basic $3.99/mo or $39.99/yr for one camera; Plus $11.99/mo or $119.99/yr for unlimited cameras; both give up to 60-day cloud storage, person and vehicle detection and extended live view up to 90 minutes. Basic ai $6.99/mo and Plus ai $19.99/mo add AI descriptions. New cameras start a 30-day trial. Without a plan, live view is limited to 5 minutes"
+   ],
+   "sources": [
+    "https://support.blinkforhome.com/faq-mini-2k",
+    "https://blinkforhome.com/plans",
+    "https://blinkforhome.com/products",
+    "https://www.wyze.com/blogs/smart-home/wyze-vs-blink",
+    "https://www.safehome.org/home-security-cameras/blink/reviews/",
+    "https://www.bestbuy.com/product/blink-mini-2k-compact-plug-in-security-camera-2k-video-resolution-color-night-vision-enhanced-audio-2-cam-white/J39TLS9ST5/sku/6643195"
+   ],
+   "scores": {
+    "install": 9,
+    "reversibility": 10,
+    "value": 8,
+    "compatibility": 6,
+    "portability": 9
+   },
+   "scoreNote": "Plug-in with no drilling and a wide 138 degree view, but local storage needs an extra hub and drive, and smart-home support is Alexa, IFTTT and Siri Shortcuts only.",
+   "owners": {
+    "read": 2,
+    "praise": [
+     "Image quality, easy setup, wide view and reliable motion detection, per Best Buy's customer summary",
+     "Compact and easy to place, per SafeHome's hands-on review of the Mini line"
+    ],
+    "complaints": [
+     "Wireless Blink cameras feel sluggish to open (Reddit: \"Blink battery cameras can be sluggish from slightly to the absurd.\")",
+     "Reliability is mixed (Reddit, Mini 2K+ owner: \"great little cameras when they work\")",
+     "Local storage and person detection depend on extra hardware or a paid plan"
+    ],
+    "sources": [
+     {
+      "title": "The Great Blink Meltdown of 2025 (r/blinkcameras, mentions Mini 2K+)",
+      "url": "https://www.reddit.com/r/blinkcameras/comments/1pk7txa/the_great_blink_meltdown_of_2025/"
+     },
+     {
+      "title": "A few of my thoughts about the Blink Camera system (r/blinkcameras)",
+      "url": "https://www.reddit.com/r/blinkcameras/comments/1pdetux/a_few_of_my_thoughts_about_the_blink_camera_system/"
+     },
+     {
+      "title": "Blink Mini 2K+ customer reviews (Best Buy, 195 reviews shown)",
+      "url": "https://www.bestbuy.com/product/blink-mini-2k-compact-plug-in-security-camera-2k-video-resolution-color-night-vision-enhanced-audio-2-cam-white/J39TLS9ST5/sku/6643195",
+      "reviews": 195
+     },
+     {
+      "title": "Blink Mini 2K+ customer reviews (Target, 52 reviews shown)",
+      "url": "https://www.target.com/p/blink-mini-2k-compact-plug-in-security-camera-2k-video-resolution-color-night-vision-enhanced-audio-1-camera/-/A-95033907",
+      "reviews": 52
+     },
+     {
+      "title": "Blink Camera Review 2026 (SafeHome.org hands-on, Mini 2 and Outdoor 4)",
+      "url": "https://www.safehome.org/home-security-cameras/blink/reviews/"
+     }
+    ]
+   },
+   "asin": "B0F3BC8661",
+   "amazonTitle": "Blink Mini 2K+ | White",
+   "asinVerified": true
+  },
+  {
+   "name": "Blink Video Doorbell",
+   "brand": "Blink",
+   "query": "Blink Video Doorbell 2nd Gen battery Sync Module",
+   "matchName": "Blink Video Doorbell",
+   "badge": "Best for long battery life",
+   "summary": "Blink's second-generation doorbell runs on three AA lithium batteries (Blink says up to two years with a Sync Module), shoots up to 1440p with a 150 degree head-to-toe view, and ships with a Sync Module Core. It installs wire-free or onto existing doorbell wiring.",
+   "renterNote": "Suits a renter who wants a battery doorbell and never wants to recharge it, if the landlord allows screws at the door. Caveat: it has no storage of its own, the included Sync Module Core cannot store clips locally, and owners report laggy live view and shorter battery life than advertised.",
+   "pros": [
+    "Up to two years on three AA lithium batteries with a Sync Module, per Blink",
+    "Wire-free install; Blink includes screws, washers and mounting brackets, and wedge and corner mounts are sold",
+    "150 degree head-to-toe view with 1440 x 1440 video and two-way talk"
+   ],
+   "cons": [
+    "Needs the Sync Module; local clips need a Sync Module 2 and a USB drive, since the included Core module can't store clips",
+    "Owners report laggy live view and batteries draining faster than advertised"
+   ],
+   "facts": [
+    "Second-generation doorbell: three Energizer AA 1.5V lithium non-rechargeable batteries, Sync Module required, up to 1440p HD video, 150 degree field of view (Blink doorbell FAQ)",
+    "Amazon's listing for B0DGQZ8JZK is the Blink Video Doorbell with a Sync Module Core included; 1440 x 1440 video, 30 fps, 1:1 aspect ratio",
+    "Battery life up to two years with default settings and normal use when paired with a Sync Module (Blink doorbell FAQ)",
+    "Wired or wire-free: can ring an existing in-home chime when wired to 16-24V AC chime wiring; otherwise use a Blink Mini, Blink Chime or an Alexa device as the chime (Blink doorbell FAQ)",
+    "The doorbell cannot store clips by itself; local storage needs Sync Module 2 with a USB flash drive (Blink doorbell FAQ)",
+    "2.4 GHz Wi-Fi only; works only with Alexa and IFTTT, not Google Assistant or HomeKit (Blink doorbell FAQ)",
+    "Wyze's comparison lists Blink's doorbell with black-and-white night vision and Wyze's Battery Video Doorbell with color night vision plus a microSD slot (Wyze blog, a competitor's claim)",
+    "Plans: same Blink plans as the cameras (Basic $3.99/mo, Plus $11.99/mo; ai tiers $6.99 and $19.99); 30-day Plus trial with a new doorbell. Without a plan, live view is limited to 5 minutes and cloud history is unavailable (Blink plans page and FAQ)"
+   ],
+   "sources": [
+    "https://support.blinkforhome.com/faq-doorbell/blink-video-doorbell-faq",
+    "https://blinkforhome.com/products",
+    "https://blinkforhome.com/plans",
+    "https://www.wyze.com/blogs/smart-home/wyze-vs-blink",
+    "https://www.safewise.com/home-security-systems/wyze-vs-blink-cameras/",
+    "https://www.cnet.com/home/security/blink-video-doorbell-vs-wyze-video-doorbell-pro/"
+   ],
+   "scores": {
+    "install": 7,
+    "reversibility": 5,
+    "value": 7,
+    "compatibility": 5,
+    "portability": 6
+   },
+   "scoreNote": "Wire-free battery install but it needs screws at the door and a hub, with no local storage in the box, and it works only with Alexa and IFTTT.",
+   "owners": {
+    "read": 5,
+    "praise": [
+     "Pulls up quicker than the first-generation doorbell (Reddit 2nd Gen review: \"It still pulls up quicker than the 1st gen doorbell even with the Sync Module 2\")",
+     "Long battery life when paired with a Sync Module, per Blink and owner explanations",
+     "Simple wire-free setup"
+    ],
+    "complaints": [
+     "Laggy live view and battery drain (Reddit: \"Doorbell is so laggy, and eats batteries. I quite often have to reboot the sync module, despite it being online\")",
+     "Returned after setup trouble (Reddit: \"I had so much trouble with the new Blink doorbell, that I ended up returning it.\")",
+     "The included Sync Module Core can't store clips locally (Reddit: \"If purchased with a Sync Module, it will come with the Sync Module CORE, which does not support local storage.\")"
+    ],
+    "sources": [
+     {
+      "title": "Blink Video Doorbell (newest model) A few questions (r/blinkcameras)",
+      "url": "https://www.reddit.com/r/blinkcameras/comments/1qtgyu7/blink_video_doorbell_newest_model_a_few_questions/"
+     },
+     {
+      "title": "NEW Blink Video Doorbell 2nd Gen Review & Full Setup (r/blinkcameras)",
+      "url": "https://www.reddit.com/r/blinkcameras/comments/1l2bkcj/new_blink_video_doorbell_2nd_gen_review_full_setup/"
+     },
+     {
+      "title": "New Doorbell with Old Sync Module (r/blinkcameras)",
+      "url": "https://www.reddit.com/r/blinkcameras/comments/1maxkcu/new_doorbell_with_old_sync_module/"
+     },
+     {
+      "title": "First Doorbell Camera! (r/blinkcameras)",
+      "url": "https://www.reddit.com/r/blinkcameras/comments/1mc3oc2/first_doorbell_camera/"
+     },
+     {
+      "title": "New Doorbell w/Sync 2? (r/blinkcameras)",
+      "url": "https://www.reddit.com/r/blinkcameras/comments/1lmw3o7/new_doorbell_wsync_2/"
+     }
+    ]
+   },
+   "asin": "B0DGQZ8JZK",
+   "amazonTitle": "Blink Video Doorbell + Sync Module included",
+   "asinVerified": true
+  }
+ ],
+ "serpProducts": [
+  {
+   "name": "Wyze Cam v4",
+   "pages": [
+    "https://www.wyze.com/blogs/smart-home/wyze-vs-blink",
+    "https://www.techgearlab.com/topics/smart-home/best-security-camera"
+   ]
+  },
+  {
+   "name": "Blink Mini (current generation Mini 2K+; Mini 2 on the older pages)",
+   "pages": [
+    "https://www.wyze.com/blogs/smart-home/wyze-vs-blink",
+    "https://www.safewise.com/home-security-systems/wyze-vs-blink-cameras/",
+    "https://staceyoniot.com/blink-mini-vs-wyze-cam-2020-review/",
+    "https://www.techgearlab.com/topics/smart-home/best-security-camera"
+   ]
+  },
+  {
+   "name": "Blink Video Doorbell",
+   "pages": [
+    "https://www.wyze.com/blogs/smart-home/wyze-vs-blink",
+    "https://www.safewise.com/home-security-systems/wyze-vs-blink-cameras/",
+    "https://www.cnet.com/home/security/blink-video-doorbell-vs-wyze-video-doorbell-pro/",
+    "https://www.techgearlab.com/topics/smart-home/best-security-camera"
+   ]
+  },
+  {
+   "name": "Wyze Video Doorbell (Battery model on Wyze's page; wired and Pro models on SafeWise/CNET)",
+   "pages": [
+    "https://www.wyze.com/blogs/smart-home/wyze-vs-blink",
+    "https://www.safewise.com/home-security-systems/wyze-vs-blink-cameras/",
+    "https://www.cnet.com/home/security/blink-video-doorbell-vs-wyze-video-doorbell-pro/"
+   ]
+  },
+  {
+   "name": "Wyze Cam Floodlight v2 (not selected, product count 3)",
+   "pages": [
+    "https://www.wyze.com/blogs/smart-home/wyze-vs-blink",
+    "https://www.techgearlab.com/topics/smart-home/best-security-camera"
+   ]
+  },
+  {
+   "name": "Blink Outdoor (4th gen / Outdoor 2K+) (not selected, product count 3)",
+   "pages": [
+    "https://www.safewise.com/home-security-systems/wyze-vs-blink-cameras/",
+    "https://www.techgearlab.com/topics/smart-home/best-security-camera"
+   ]
+  }
+ ]
+}
