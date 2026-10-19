@@ -1,0 +1,15 @@
+{
+  "slug": "ring-vs-nest-doorbell",
+  "pass": false,
+  "checkedAt": "2026-10-19T13:20:47.065Z",
+  "errors": [
+    "facts not verified yet: check every product spec and claim against the sources, then run `node scripts/routine.mjs factcheck <slug> \"<notes>\"`"
+  ],
+  "warnings": [
+    "product \"Ring Battery Doorbell Plus (2nd Gen)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Google Nest Doorbell (Battery)\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": false
+  }
+}
