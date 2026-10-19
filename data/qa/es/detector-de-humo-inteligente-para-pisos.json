@@ -3,9 +3,11 @@
   "lang": "es",
   "translationOf": "best-smart-smoke-detector-for-apartments",
   "pass": true,
-  "checkedAt": "2026-10-17T19:38:49.788Z",
+  "checkedAt": "2026-10-19T19:25:47.300Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "source didn't respond normally (503): https://customer.resideo.com/resources/Techlit/TechLitDocuments/BRK-First%20Alert/FSMCO600NVACL1_SMCO600NV-A_SC5__SpecSheet.pdf"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Compared every claim with the English post best-smart-smoke-detector-for-apartments (QA pass, factcheck verified): same 3 products, order, ASINs, scores, sources and owner sources; facts match the English text and its factcheck. Units converted (6 in = 15 cm, 3 in = 7,5 cm). US-specific items marked as such: UL 217/UL 2034/UL listing, CPSC/NFPA/NFPA 72, Amazon US selection rule; sealed 10-year-battery rule framed as some places such as some US states (English factcheck: NY, MD). Added per owner instruction one line to pick an alarm certified for the reader's country (EN 14604 in the EU). No prices, testing claims, local Amazon store or availability claims.",

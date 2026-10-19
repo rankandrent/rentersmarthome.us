@@ -3,10 +3,11 @@
   "lang": "es",
   "translationOf": "best-magnetic-cabinet-locks-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-19T13:46:09.923Z",
+  "checkedAt": "2026-10-19T19:25:44.109Z",
   "errors": [],
   "warnings": [
     "source didn't respond normally (403): https://www.woolworths.com.au/shop/productdetails/1122750099",
+    "source didn't respond normally (503): https://www.rovingcove.com/products/roving-cove-magnetic-cabinet-drawer-lock-for-child-safety-baby-proof-cabinets-and-drawers-3m-adhesive-pre-taped-12-locks-2-ring-keys",
     "source didn't respond normally (403): https://fuhrmannmanagement.com/best-cabinet-locks/"
   ],
   "factCheck": {
