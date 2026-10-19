@@ -626,7 +626,10 @@
     "funnel": "bofu",
     "painPoints": [
       "lighting-led-strip-pulls-paint-on-removal",
-      "lighting-led-strip-keeps-falling-off"
+      "lighting-led-strip-keeps-falling-off",
+      "lighting-dorm-led-strip-rules-unclear",
+      "lighting-dorm-string-lights-banned-fire-code",
+      "lighting-dorm-overhead-fluorescent-harsh"
     ]
   },
   {
@@ -798,7 +801,16 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     },
-    "slug": "matter-vs-zigbee"
+    "slug": "matter-vs-zigbee",
+    "painPoints": [
+      "hubs-voice-matter-ecosystem-compat-confusion",
+      "hubs-voice-matter-pairing-fails",
+      "hubs-voice-matter-thread-devices-offline",
+      "hubs-voice-which-protocol-to-buy-confusion",
+      "hubs-voice-zigbee-devices-drop-off-network",
+      "hubs-voice-zigbee-range-through-walls",
+      "hubs-voice-zigbee-repair-everything-on-move"
+    ]
   },
   {
     "status": "pending",
@@ -3779,5 +3791,79 @@
       "date": "2026-10-19"
     },
     "slug": "anti-theft-doorbell-mount"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-19T12:55:49.433Z",
+    "secondaryKeywords": [
+      "matter over thread",
+      "what is thread smart home"
+    ],
+    "questions": [
+      "is thread the same as matter",
+      "do i need a thread border router",
+      "why do my thread devices go offline"
+    ],
+    "priority": 6,
+    "keyword": "matter vs thread",
+    "category": "hubs-voice",
+    "articleType": "how-to",
+    "intent": "informational",
+    "funnel": "mofu",
+    "workingTitle": "Matter vs Thread: What Renters Need to Know Before Buying",
+    "cluster": "voice assistants",
+    "source": "pain-point",
+    "painPoints": [
+      "hubs-voice-matter-thread-devices-offline",
+      "hubs-voice-which-protocol-to-buy-confusion",
+      "hubs-voice-matter-pairing-fails"
+    ],
+    "rationale": "5 owners report Matter over Thread devices going offline and 8 threads ask which standard to buy (reddit)",
+    "ahrefs": {
+      "volume": 250,
+      "kd": 2,
+      "trafficPotential": 700,
+      "parentTopic": "matter over thread",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-19"
+    },
+    "slug": "matter-vs-thread"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-19T12:55:49.434Z",
+    "secondaryKeywords": [
+      "thread vs zigbee"
+    ],
+    "questions": [
+      "is thread better than zigbee",
+      "does zigbee work through apartment walls"
+    ],
+    "priority": 6,
+    "keyword": "zigbee vs thread",
+    "category": "hubs-voice",
+    "articleType": "how-to",
+    "intent": "informational",
+    "funnel": "mofu",
+    "workingTitle": "Zigbee vs Thread for Apartments: Range, Hubs and Reliability",
+    "cluster": "voice assistants",
+    "source": "pain-point",
+    "painPoints": [
+      "hubs-voice-zigbee-devices-drop-off-network",
+      "hubs-voice-zigbee-range-through-walls",
+      "hubs-voice-matter-thread-devices-offline"
+    ],
+    "rationale": "5 owners report Zigbee devices dropping and 4 threads ask about range through walls (reddit)",
+    "ahrefs": {
+      "volume": 200,
+      "kd": 1,
+      "trafficPotential": 100,
+      "parentTopic": "zigbee vs thread",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-19"
+    },
+    "slug": "zigbee-vs-thread"
   }
 ]

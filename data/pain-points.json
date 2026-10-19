@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T06:59:55.252Z",
+  "updatedAt": "2026-10-19T12:55:37.912078Z",
   "categories": {
     "smart-locks": [
       {
@@ -340,6 +340,18 @@
             "platform": "review",
             "title": "Damagefree LED Strip Wall Install Guide",
             "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/williamandmary/comments/xbukcf/are_led_light_strips_prohibited_in_dorm_rooms/",
+            "platform": "reddit",
+            "title": "Are LED light strips prohibited in dorm rooms?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/ualbany/comments/1e9lh9h/dorm_room_rules/",
+            "platform": "reddit",
+            "title": "Dorm Room Rules",
+            "seen": "2026-10-19"
           }
         ],
         "quotes": [
@@ -350,6 +362,11 @@
           {
             "text": "If they are attached with an adhesive try softening the adhesive with a hair dryer.",
             "url": "https://www.quora.com/How-can-I-remove-LED-strip-lights-without-removing-paint-damaging-my-walls"
+          },
+          {
+            "text": "You can put up LED light strips but they might take the paint off.",
+            "url": "https://www.reddit.com/r/williamandmary/comments/xbukcf/are_led_light_strips_prohibited_in_dorm_rooms/",
+            "via": "search-excerpt"
           }
         ],
         "searches": [
@@ -360,7 +377,7 @@
         "keywords": [
           "dorm room lights"
         ],
-        "mentions": 4,
+        "mentions": 6,
         "coveredBy": [
           "best-led-strip-lights-for-renters"
         ],
@@ -540,6 +557,184 @@
         ],
         "keywords": [],
         "mentions": 3,
+        "coveredBy": [],
+        "foundAt": "2026-10-19"
+      },
+      {
+        "id": "lighting-dorm-led-strip-rules-unclear",
+        "pain": "Students cannot tell whether LED strip lights are allowed in their dorm and RAs give conflicting answers",
+        "details": "Incoming students ask if RAs will confiscate LED strips at inspection. Replies say rules vary by RA and school, strips are often allowed if not stuck to walls or ceilings.",
+        "mentions": 6,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/Cornell/comments/zg0sq2/dorm_inspection_confiscation/",
+            "platform": "reddit",
+            "title": "dorm inspection confiscation?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/UnethicalLifeProTips/comments/1h7sfar/ulpt_request_how_to_hideconceal_the_led_light/",
+            "platform": "reddit",
+            "title": "How to hide/conceal the LED light strips in my dorm bedroom",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/williamandmary/comments/xbukcf/are_led_light_strips_prohibited_in_dorm_rooms/",
+            "platform": "reddit",
+            "title": "Are LED light strips prohibited in dorm rooms?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/VirginiaTech/comments/m1nel9/dorm_strip_light_height_limit/",
+            "platform": "reddit",
+            "title": "dorm strip light height limit?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/berkeley/comments/ookmpy/dorm_led_lights_restriction/",
+            "platform": "reddit",
+            "title": "Dorm LED lights restriction",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/ualbany/comments/1e9lh9h/dorm_room_rules/",
+            "platform": "reddit",
+            "title": "Dorm Room Rules",
+            "seen": "2026-10-19"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "LED strips are allowed in dorms despite some RA's saying otherwise.",
+            "url": "https://www.reddit.com/r/Cornell/comments/zg0sq2/dorm_inspection_confiscation/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "LED light strips are not a fire hazard. They don't give off enough heat to start a fire.",
+            "url": "https://www.reddit.com/r/VirginiaTech/comments/m1nel9/dorm_strip_light_height_limit/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "Are dorms actually strict about these things or is this just a fire safety precaution thing?",
+            "url": "https://www.reddit.com/r/berkeley/comments/ookmpy/dorm_led_lights_restriction/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "are led strip lights allowed in dorms",
+          "can I have led lights in my dorm",
+          "dorm led light rules"
+        ],
+        "keywords": [
+          "dorm room lights"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-19"
+      },
+      {
+        "id": "lighting-dorm-string-lights-banned-fire-code",
+        "pain": "String lights and anything hung from the dorm ceiling are banned under fire code",
+        "details": "Students are told string or fairy lights are prohibited by state fire rules and that nothing may hang from ceilings. They look for lamp or floor-based alternatives.",
+        "mentions": 4,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/RPI/comments/6sder4/dorm_lighting_is_atrocious_but_no_string_lights/",
+            "platform": "reddit",
+            "title": "Dorm lighting is atrocious, but no string lights?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/UTAustin/comments/1erhi8b/no_string_lights_in_dorm/",
+            "platform": "reddit",
+            "title": "no string lights in dorm?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/williamandmary/comments/xbukcf/are_led_light_strips_prohibited_in_dorm_rooms/",
+            "platform": "reddit",
+            "title": "Are LED light strips prohibited in dorm rooms?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.quora.com/I-have-LED-string-lights-and-I-m-not-allowed-to-put-them-up-Are-they-safe-on-the-floor-under-the-bed",
+            "platform": "quora",
+            "title": "I have LED string lights and I'm not allowed to put them up. Are they safe on the floor under the bed?",
+            "seen": "2026-10-19"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "The use of strings of lights is prohibited in compliance with New York State fire safety regulations.",
+            "url": "https://www.reddit.com/r/RPI/comments/6sder4/dorm_lighting_is_atrocious_but_no_string_lights/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "you can't hang things from the ceilings because of fire code.",
+            "url": "https://www.reddit.com/r/williamandmary/comments/xbukcf/are_led_light_strips_prohibited_in_dorm_rooms/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "LED string lights are relatively safe to use on the floor, but need to avoid using under the bed.",
+            "url": "https://www.quora.com/I-have-LED-string-lights-and-I-m-not-allowed-to-put-them-up-Are-they-safe-on-the-floor-under-the-bed",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "are string lights allowed in dorms",
+          "dorm string lights fire code",
+          "dorm lights no hanging from ceiling"
+        ],
+        "keywords": [
+          "dorm room lights"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-19"
+      },
+      {
+        "id": "lighting-dorm-overhead-fluorescent-harsh",
+        "pain": "Dorm overhead fluorescent lighting is harsh and students want softer light without modifying the fixture",
+        "details": "Students ask how to soften the stock overhead light. Common answers are floor and desk lamps with warm low-wattage bulbs and LED mood lighting.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/interiordecorating/comments/k8e7mq/ways_to_adjust_my_overhead_dorm_light_to_be_less/",
+            "platform": "reddit",
+            "title": "Ways to Adjust My OverHead Dorm Light To Be Less Harsh?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/dormrooms/comments/1t8sdjn/help_dorm_decor/",
+            "platform": "reddit",
+            "title": "Help!! Dorm Decor",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/college/comments/oztv78/what_are_the_best_dorm_room_lights/",
+            "platform": "reddit",
+            "title": "What are the best dorm room lights?",
+            "seen": "2026-10-19"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Fluorescent dorm lights are harsh, so switching to LED lighting is a great idea.",
+            "url": "https://www.reddit.com/r/college/comments/oztv78/what_are_the_best_dorm_room_lights/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "A floor lamp with a low wattage bulb in a muted color could do the trick!",
+            "url": "https://www.reddit.com/r/dormrooms/comments/1t8sdjn/help_dorm_decor/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "how to make dorm lighting softer",
+          "dorm room overhead light too bright",
+          "best lamps for dorm room"
+        ],
+        "keywords": [
+          "dorm room lights"
+        ],
         "coveredBy": [],
         "foundAt": "2026-10-19"
       }
@@ -959,6 +1154,497 @@
           "ring vs nest doorbell"
         ],
         "mentions": 3,
+        "coveredBy": [],
+        "foundAt": "2026-10-19"
+      }
+    ],
+    "hubs-voice": [
+      {
+        "id": "hubs-voice-matter-thread-devices-offline",
+        "pain": "Matter over Thread devices randomly go offline and stay offline until the hub or border router is reset",
+        "details": "Owners using Apple, Eero or Home Assistant border routers report whole groups of Thread devices dropping every few days or after a restart. They tried swapping the home hub, turning off Thread on a second router, or fixing router settings.",
+        "mentions": 5,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/homeassistant/comments/1u951al/matter_over_thread_is_a_pain_after_ha_restart_all/",
+            "platform": "reddit",
+            "title": "Matter over Thread is a pain - after HA restart all devices are offline",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/MatterProtocol/comments/1ra5g8h/devices_constantly_offline/",
+            "platform": "reddit",
+            "title": "Devices constantly offline",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/HomeKit/comments/1j8pf7q/thread_devices_keep_going_out/",
+            "platform": "reddit",
+            "title": "Thread devices keep going out?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/MatterProtocol/comments/1kcxclq/one_month_later_half_of_my_matter_devices_over/",
+            "platform": "reddit",
+            "title": "One month later half of my matter devices over thread are still ...",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/homeassistant/comments/1r8fslh/an_update_on_im_done_with_matter_over_thread/",
+            "platform": "reddit",
+            "title": "An update on \"I'm done with Matter over Thread\"",
+            "seen": "2026-10-19"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Pretty much randomly every other day or so- all my thread devices just go completely offline.",
+            "url": "https://www.reddit.com/r/HomeKit/comments/1j8pf7q/thread_devices_keep_going_out/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "I had the exact same issues with Apple thread border routers (ATVs and HomePods)",
+            "url": "https://www.reddit.com/r/MatterProtocol/comments/1ra5g8h/devices_constantly_offline/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "matter thread devices keep going offline",
+          "why do my thread devices go offline",
+          "matter devices unavailable after router restart",
+          "thread border router not working"
+        ],
+        "keywords": [
+          "matter vs zigbee",
+          "matter vs thread",
+          "zigbee vs thread"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-19"
+      },
+      {
+        "id": "hubs-voice-zigbee-devices-drop-off-network",
+        "pain": "Zigbee sensors and bulbs keep dropping off the network until more router devices or a channel change are added",
+        "details": "People with Aqara, Osram and other mixed Zigbee devices see sensors disconnect for days or permanently. Fixes they report are adding mains-powered repeaters, changing channel and removing flaky brands.",
+        "mentions": 5,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/homeassistant/comments/1dyg3mk/zigbee_devices_dropping_off_do_i_have_too_many/",
+            "platform": "reddit",
+            "title": "Zigbee Devices Dropping Off - Do I have too many (Aqara) devices?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/homeassistant/comments/16iz7r7/i_am_tired_of_zigbee_disconnections_how_do_i/",
+            "platform": "reddit",
+            "title": "I am tired of zigbee disconnections. How do I strengthen my network",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/homeassistant/comments/vz6da4/question_are_zigbee_disconnects_and_crappy/",
+            "platform": "reddit",
+            "title": "Are zigbee disconnects and crappy sensors the norm?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/homeassistant/comments/1c3umcm/new_to_zigbee_having_some_trouble_figuring_it_out/",
+            "platform": "reddit",
+            "title": "New to Zigbee, having some trouble figuring it out why the range is so ...",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/homeassistant/comments/1i7714i/finally_figured_out_the_source_of_my_zigbee/",
+            "platform": "reddit",
+            "title": "Finally figured out the source of my Zigbee network issues",
+            "seen": "2026-10-19"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I had Aqara devices dropping left and right off the network.",
+            "url": "https://www.reddit.com/r/homeassistant/comments/16iz7r7/i_am_tired_of_zigbee_disconnections_how_do_i/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "you need to add a few zigbee router type devices to make the network",
+            "url": "https://www.reddit.com/r/homeassistant/comments/vz6da4/question_are_zigbee_disconnects_and_crappy/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "zigbee devices keep disconnecting",
+          "zigbee sensor drops off network",
+          "how to make zigbee mesh more reliable apartment"
+        ],
+        "keywords": [
+          "matter vs zigbee",
+          "zigbee vs thread"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-19"
+      },
+      {
+        "id": "hubs-voice-zigbee-range-through-walls",
+        "pain": "Zigbee signal does not reach through brick or concrete walls or between floors of an apartment building",
+        "details": "Renters ask how far Zigbee really reaches to a far room, hallway or mailbox. Answers say low power signals are weaker than Wi-Fi and you need mains-powered repeaters placed in between.",
+        "mentions": 4,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/smarthome/comments/1eduww7/zigbee_signal_cant_go_through_brick_wall/",
+            "platform": "reddit",
+            "title": "Zigbee signal can't go through brick wall?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/homeassistant/comments/p3f4t8/zigbee_distance/",
+            "platform": "reddit",
+            "title": "Zigbee Distance",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/homeassistant/comments/1lhoztw/is_zigbee_communication_possible_between_my/",
+            "platform": "reddit",
+            "title": "Is ZigBee communication possible between my apartment and mailbox?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/homeassistant/comments/1c3umcm/new_to_zigbee_having_some_trouble_figuring_it_out/",
+            "platform": "reddit",
+            "title": "New to Zigbee, having some trouble figuring it out why the range is so ...",
+            "seen": "2026-10-19"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "ZigBee is low powered so the signal is weaker than WiFi.",
+            "url": "https://www.reddit.com/r/smarthome/comments/1eduww7/zigbee_signal_cant_go_through_brick_wall/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "We have a very similar setup across 3 floors with 2 Zigbee outlets as extenders",
+            "url": "https://www.reddit.com/r/homeassistant/comments/1lhoztw/is_zigbee_communication_possible_between_my/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "does zigbee work through walls",
+          "zigbee range in apartment",
+          "zigbee repeater smart plug apartment"
+        ],
+        "keywords": [
+          "matter vs zigbee"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-19"
+      },
+      {
+        "id": "hubs-voice-matter-ecosystem-compat-confusion",
+        "pain": "Buyers cannot tell if a Matter device will work with their Apple, Google or Alexa setup",
+        "details": "Owners ask whether Matter means a device automatically works in Apple Home, whether Echo Matter updates matter for HomeKit users, and why Google Home will not control some Matter plugs. Support varies by device and app version.",
+        "mentions": 5,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/HomeKit/comments/1l0soq3/does_matter_automatically_mean_a_device_will_work/",
+            "platform": "reddit",
+            "title": "Does Matter automatically mean a device will work with HomeKit?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/HomeKit/comments/167zmbx/matter_contradictions/",
+            "platform": "reddit",
+            "title": "Matter contradictions",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/googlehome/comments/1lcgf60/matter_devices_and_google_home/",
+            "platform": "reddit",
+            "title": "Matter devices and Google Home",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/HomeKit/comments/1hyiyn8/for_those_on_homekit_only_no_alexa_or_google_home/",
+            "platform": "reddit",
+            "title": "For those on HomeKit only, does Matter ...",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/HomeKit/comments/136mwtz/all_of_my_amazon_echo_devices_now_have_matter/",
+            "platform": "reddit",
+            "title": "All of my Amazon Echo devices now have Matter updates",
+            "seen": "2026-10-19"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "The challenge is that Matter is evolving quickly.",
+            "url": "https://www.reddit.com/r/HomeKit/comments/1l0soq3/does_matter_automatically_mean_a_device_will_work/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "you can't control Matter devices from Google Home",
+            "url": "https://www.reddit.com/r/googlehome/comments/1lcgf60/matter_devices_and_google_home/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "does matter work with apple home",
+          "does matter work with google home",
+          "is every matter device compatible with alexa"
+        ],
+        "keywords": [
+          "matter vs zigbee",
+          "matter vs thread"
+        ],
+        "coveredBy": [
+          "alexa-vs-google-home",
+          "best-matter-smart-plugs"
+        ],
+        "foundAt": "2026-10-19"
+      },
+      {
+        "id": "hubs-voice-which-protocol-to-buy-confusion",
+        "pain": "New buyers do not understand Matter vs Zigbee vs Z-Wave vs Thread and fear buying the wrong standard",
+        "details": "First-time smart home buyers ask which protocol to start with. Replies split: stick with cheaper Zigbee for now, go Matter over Thread for speed, or run both.",
+        "mentions": 8,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/HomeKit/comments/1o3xfj6/zigbee_or_matter_whats_better_looking_into_near/",
+            "platform": "reddit",
+            "title": "Zigbee or Matter - what's better looking into near future?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/smarthome/comments/1aks24p/matter_or_zigbee_which_one_will_you_choose_for/",
+            "platform": "reddit",
+            "title": "Matter or Zigbee? which one will you choose",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/homeassistant/comments/14uh5w7/zigbee_or_matter_for_new_installation/",
+            "platform": "reddit",
+            "title": "Zigbee or Matter for new installation?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/homeautomation/comments/1eamwov/new_smart_home_what_protocol_should_i_use_zigbee/",
+            "platform": "reddit",
+            "title": "New smart home, what protocol should I use?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/homeassistant/comments/1qk3btx/advice_for_a_newbie_on_home_assistant_os_zigbee/",
+            "platform": "reddit",
+            "title": "Advice for a newbie ... Zigbee or Matter",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/homeassistant/comments/1pq31bw/should_i_slowly_transition_from_zigbee_to_matter/",
+            "platform": "reddit",
+            "title": "Should I slowly transition from Zigbee to Matter over Thread?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/homeassistant/comments/1lx5r87/zigbee_vs_thread_matter_for_new_house/",
+            "platform": "reddit",
+            "title": "Zigbee vs Thread/ Matter for new house",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/homeassistant/comments/1qkrlmw/zigbee_vs_matterthread_for_new_setup_in_2026/",
+            "platform": "reddit",
+            "title": "Zigbee vs. Matter/thread for new setup in 2026",
+            "seen": "2026-10-19"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I want to make my home smart, but I ran into difficulty understanding the differences between Zigbee, Zwave and Matter.",
+            "url": "https://www.reddit.com/r/homeautomation/comments/1eamwov/new_smart_home_what_protocol_should_i_use_zigbee/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "Zigbee and Matter are not self exclusive and shouldn't be compared.",
+            "url": "https://www.reddit.com/r/homeassistant/comments/14uh5w7/zigbee_or_matter_for_new_installation/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "Matter will be the way to go in the future, but Zigbee is way more affordable for now.",
+            "url": "https://www.reddit.com/r/homeassistant/comments/1qkrlmw/zigbee_vs_matterthread_for_new_setup_in_2026/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "matter vs zigbee",
+          "zigbee or matter for a new smart home",
+          "should I buy zigbee or matter devices"
+        ],
+        "keywords": [
+          "matter vs zigbee",
+          "matter vs thread",
+          "zigbee vs thread"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-19"
+      },
+      {
+        "id": "hubs-voice-matter-pairing-fails",
+        "pain": "Matter devices will not pair or the controller refuses to add them",
+        "details": "Users spend hours or days trying to commission Matter devices into Alexa, Apple Home or Home Assistant and get stuck on border router or network errors.",
+        "mentions": 4,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/alexa/comments/1dgisga/cant_add_any_matter_smart_home_products_to_alexa/",
+            "platform": "reddit",
+            "title": "Can't add any Matter smart home products to Alexa",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/homeassistant/comments/1qzf7q3/matter_over_thread_2_hours_and_still_not_working/",
+            "platform": "reddit",
+            "title": "Matter over Thread - 2 hours and still not working!",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/homeassistant/comments/1rgodgx/ive_been_trying_to_pair_matter_devices_for_3_days/",
+            "platform": "reddit",
+            "title": "I've been trying to pair matter devices for 3 days without success",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/homeassistant/comments/1r8fslh/an_update_on_im_done_with_matter_over_thread/",
+            "platform": "reddit",
+            "title": "An update on \"I'm done with Matter over Thread\"",
+            "seen": "2026-10-19"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Alexa suddenly won't add any Matter smart home products to its ecosystem.",
+            "url": "https://www.reddit.com/r/alexa/comments/1dgisga/cant_add_any_matter_smart_home_products_to_alexa/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "alexa won't add matter device",
+          "matter device pairing failed",
+          "can't pair matter device"
+        ],
+        "keywords": [
+          "matter vs zigbee",
+          "matter vs thread"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-19"
+      },
+      {
+        "id": "hubs-voice-alexa-having-trouble-errors",
+        "pain": "Alexa or Echo says \"I'm having trouble\" and stops controlling devices",
+        "details": "Echo owners report outages, specific devices that always fail and speakers that stop answering, which breaks voice control of lights and plugs.",
+        "mentions": 5,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/amazonecho/comments/1obdlgc/echo_down/",
+            "platform": "reddit",
+            "title": "Echo Down?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/alexa/comments/1nln3zz/alexa_is_noticeably_worse_lately_makes_many/",
+            "platform": "reddit",
+            "title": "Alexa is noticeably worse lately, makes many mistakes",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/amazonecho/comments/m0nyv7/echo_is_responding_to_alexa_turns_blue_and_then/",
+            "platform": "reddit",
+            "title": "Echo is responding to \"Alexa\", turns blue and then straight away goes off?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/amazonecho/comments/1ji2s5y/all_echo_devices_have_erratic_behavior_past_few/",
+            "platform": "reddit",
+            "title": "All echo devices have erratic behavior past few weeks",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/amazonecho/comments/1hg83uj/why_is_alexa_still_so_dumb_when_chatgpt_exists/",
+            "platform": "reddit",
+            "title": "Why is Alexa still so dumb when ChatGPT exists?",
+            "seen": "2026-10-19"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Mine just keeps saying “I'm having trouble right now. Please try again later” for a few specific devices.",
+            "url": "https://www.reddit.com/r/alexa/comments/1nln3zz/alexa_is_noticeably_worse_lately_makes_many/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "all my echo devices are down and they say",
+            "url": "https://www.reddit.com/r/amazonecho/comments/1obdlgc/echo_down/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "alexa says sorry i'm having trouble",
+          "alexa not responding to smart home commands",
+          "echo not controlling lights"
+        ],
+        "keywords": [],
+        "coveredBy": [],
+        "foundAt": "2026-10-19"
+      },
+      {
+        "id": "hubs-voice-zigbee-repair-everything-on-move",
+        "pain": "Moving or changing the Zigbee hub means resetting and re-pairing every device",
+        "details": "Renters moving out or swapping coordinators learn Zigbee devices cannot simply migrate and must be reset and joined again. Some renters pack hubs and devices to take along.",
+        "mentions": 4,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/homeassistant/comments/1k5u0k6/moving_zigbee_devices/",
+            "platform": "reddit",
+            "title": "Moving Zigbee Devices",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/homeassistant/comments/ubm53z/move_from_one_zigbee_coordinator_to_another/",
+            "platform": "reddit",
+            "title": "Move from one Zigbee coordinator to another",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/homeassistant/comments/18yiei1/in_your_experience_how_many_devices_your_zigbee/",
+            "platform": "reddit",
+            "title": "In your experience how many devices your zigbee network can support",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/homeautomation/comments/sw1mf1/recommendations_for_smart_devices_when_renting/",
+            "platform": "reddit",
+            "title": "Recommendations for smart devices when renting new house",
+            "seen": "2026-10-19"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "AFAIK, you will have to reset each device and connect it to the new coordinator.",
+            "url": "https://www.reddit.com/r/homeassistant/comments/ubm53z/move_from_one_zigbee_coordinator_to_another/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "this would require re-pairing all my devices again.",
+            "url": "https://www.reddit.com/r/homeassistant/comments/18yiei1/in_your_experience_how_many_devices_your_zigbee/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "moving zigbee hub to new apartment",
+          "do i have to re-pair zigbee devices when i move",
+          "switch zigbee coordinator re-pair"
+        ],
+        "keywords": [
+          "matter vs zigbee"
+        ],
         "coveredBy": [],
         "foundAt": "2026-10-19"
       }

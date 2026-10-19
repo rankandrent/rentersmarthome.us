@@ -1,0 +1,436 @@
+{
+  "centralEntity": "dorm room lights",
+  "entityVariants": [
+    "dorm room lights",
+    "dorm lights",
+    "dorm room lighting",
+    "dorm lighting",
+    "college dorm lights",
+    "lights for dorm room",
+    "best lights for dorm room",
+    "dorm room lamps"
+  ],
+  "entities": [
+    {
+      "name": "fluorescent overhead light (the Big Light)",
+      "type": "fixture",
+      "relation": "the harsh stock dorm ceiling light most students want to avoid"
+    },
+    {
+      "name": "LED strip lights",
+      "type": "product type",
+      "relation": "popular dorm mood lighting; adhesive can pull paint at move-out"
+    },
+    {
+      "name": "string lights / fairy lights",
+      "type": "product type",
+      "relation": "soft ambient glow; LED versions run cool"
+    },
+    {
+      "name": "clip-on / clamp lamp",
+      "type": "product type",
+      "relation": "bed or desk mounted reading light that does not wake a roommate"
+    },
+    {
+      "name": "desk lamp",
+      "type": "product type",
+      "relation": "task lighting for studying, ideally dimmable with adjustable color temperature"
+    },
+    {
+      "name": "floor lamp",
+      "type": "product type",
+      "relation": "lights dark corners and gives eyes a break from overhead light"
+    },
+    {
+      "name": "rechargeable cordless lamp",
+      "type": "product type",
+      "relation": "no outlet needed; battery runtime varies with brightness"
+    },
+    {
+      "name": "peel-and-stick wall sconce",
+      "type": "product type",
+      "relation": "removable wall light for rooms where drilling is banned"
+    },
+    {
+      "name": "smart bulb",
+      "type": "product type",
+      "relation": "app and voice control; needs the wall switch left on"
+    },
+    {
+      "name": "flameless candles",
+      "type": "product type",
+      "relation": "safe stand-in for banned open flames"
+    },
+    {
+      "name": "resident assistant (RA)",
+      "type": "person",
+      "relation": "enforces residence hall rules on lighting and extension cords"
+    },
+    {
+      "name": "residence life / housing policy",
+      "type": "policy",
+      "relation": "decides which lights, halogen lamps and cords are allowed"
+    },
+    {
+      "name": "UL listing",
+      "type": "standard",
+      "relation": "safety certification many halls require on lights and cords"
+    },
+    {
+      "name": "halogen lamp",
+      "type": "product type",
+      "relation": "commonly banned in dorms for heat and fire risk"
+    },
+    {
+      "name": "lumens",
+      "type": "attribute",
+      "relation": "brightness measure for desk and room lights"
+    },
+    {
+      "name": "color temperature (Kelvin)",
+      "type": "attribute",
+      "relation": "warm 2700K for wind-down, cooler for studying"
+    },
+    {
+      "name": "security deposit",
+      "type": "concept",
+      "relation": "damage to paint from adhesive can cost money at check-out"
+    },
+    {
+      "name": "roommate",
+      "type": "person",
+      "relation": "shared-space factor: sleep schedules and dim lighting"
+    }
+  ],
+  "attributes": [
+    "brightness (lumens)",
+    "color temperature",
+    "dimmable",
+    "power source (plug, USB, battery)",
+    "adhesive or clamp mounting",
+    "removal without damage",
+    "heat output",
+    "cord length",
+    "UL listed",
+    "roommate friendliness",
+    "portability",
+    "remote or app control"
+  ],
+  "ngrams": [
+    "dorm room",
+    "string lights",
+    "LED strip lights",
+    "desk lamp",
+    "clip-on lamp",
+    "floor lamp",
+    "fairy lights",
+    "warm white",
+    "security deposit",
+    "fluorescent lighting",
+    "rechargeable lamp",
+    "college dorm",
+    "reading light",
+    "peel and stick",
+    "move-out day"
+  ],
+  "skipgrams": [
+    "dorm…lights",
+    "dorm…lamp",
+    "lights…roommate",
+    "strip lights…paint",
+    "lights…allowed",
+    "lamp…desk",
+    "string lights…wall",
+    "clip…bed",
+    "fluorescent…harsh",
+    "lights…deposit"
+  ],
+  "nlpTerms": [
+    "residence hall",
+    "RA",
+    "roommate",
+    "fluorescent",
+    "ambient",
+    "task lighting",
+    "dimmable",
+    "Command strips",
+    "adhesive",
+    "fire safety",
+    "power strip",
+    "surge protector",
+    "UL listed",
+    "move-out",
+    "twin XL",
+    "lofted bed",
+    "warm white",
+    "USB powered",
+    "rechargeable",
+    "cordless"
+  ],
+  "questions": [
+    "What lights are allowed in dorms?",
+    "Are LED strip lights allowed in dorms?",
+    "What is the best lighting for a dorm room?",
+    "How do I light a dorm room without the overhead light?",
+    "Can I use string lights in a dorm?",
+    "How do I hang lights in a dorm without damaging the walls?",
+    "What lamp is best for reading without waking my roommate?",
+    "Are halogen lamps allowed in dorms?",
+    "Do LED strip lights ruin dorm walls?",
+    "What are the best smart lights for a dorm room?"
+  ],
+  "contentGaps": [
+    "Top results are mostly decor lists; none explain what residence halls usually allow or ban (halogen, open flame, non-UL cords) and tell readers to check their own housing policy",
+    "No SERP page covers damage-free removal of LED strips and string lights for the move-out deposit, a top reader complaint",
+    "No page ties lights to a roommate scenario (reading light that does not wake them, sharing a lamp pair, who controls a smart bulb)",
+    "Few explain why a smart bulb dies when someone flips the wall switch, or when plain beats smart in a dorm",
+    "No simple pick-by-need guide (study, mood, bedtime, no outlet) with the renter-reversible angle"
+  ],
+  "outline": [
+    {
+      "h2": "The best dorm room lights: short answer",
+      "intent": "verdict plus top picks",
+      "h3": []
+    },
+    {
+      "h2": "How we picked these dorm room lights",
+      "intent": "method and trust (research based, no testing claims)",
+      "h3": []
+    },
+    {
+      "h2": "The best dorm room lights",
+      "intent": "product reviews by role (task, mood, bedside, cordless, smart)",
+      "h3": []
+    },
+    {
+      "h2": "Compare the picks",
+      "intent": "comparison table",
+      "h3": []
+    },
+    {
+      "h2": "What lights are allowed in dorms?",
+      "intent": "rules and safety (halogen, flames, UL, cords)",
+      "h3": [
+        "Check your housing policy first",
+        "Lights that are usually fine, and ones that are usually banned"
+      ]
+    },
+    {
+      "h2": "How to light a dorm room without the overhead light",
+      "intent": "buying guide: layering task, ambient and accent light",
+      "h3": [
+        "Study light",
+        "Mood and ambient light",
+        "Bedside and roommate-friendly light"
+      ]
+    },
+    {
+      "h2": "Problems students run into, and the fix",
+      "intent": "pain points answered",
+      "h3": [
+        "LED strips that pull paint off at move-out",
+        "LED strips that keep falling off the wall",
+        "Smart bulbs that go dead when the wall switch is flipped",
+        "Smart bulbs that disconnect and the plain-bulb alternative"
+      ]
+    },
+    {
+      "h2": "Dorm room lights FAQ",
+      "intent": "People Also Ask style answers",
+      "h3": []
+    },
+    {
+      "h2": "Our verdict",
+      "intent": "choose X if / Y if",
+      "h3": []
+    }
+  ],
+  "targetWords": 2200,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.dormtherapy.com/dorm-lighting-solutions-no-big-light-100000526",
+      "https://www.hgtv.com/decorating/design-ideas/ways-to-light-up-your-dorm-room-without-burning-it-down",
+      "https://www.ikea.com/us/en/cat/dorm-room-lights-desk-lamps-for-college-700763/",
+      "https://blisslights.com/blogs/blisslights/dorm-lighting-ideas-to-glow-up-your-space",
+      "https://www.reddit.com/r/college/comments/oztv78/what_are_the_best_dorm_room_lights/",
+      "https://www.dormify.com/shop/dorm-decor/dorm-lighting/"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "The editorial results (Dorm Therapy, HGTV, BlissLights) give each pick a short prose paragraph with a personality-led description and no pros/cons lists or spec tables; the rest are retailer category pages.",
+    "avgWords": 1400,
+    "avgProducts": 11,
+    "commonSections": [
+      "intro on harsh fluorescent dorm light",
+      "numbered picks by light type (string lights, LED strips, desk, clip-on, floor, bedside lamps)",
+      "rechargeable or cordless options",
+      "renter and RA tip about paint and deposit",
+      "flameless alternatives to candles",
+      "shop links"
+    ],
+    "usesComparisonTable": false,
+    "usesFaq": false,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.dormify.com/shop/dorm-decor/dorm-lighting/",
+      "title": "Dorm Lighting - Dormify"
+    },
+    {
+      "position": 2,
+      "url": "https://www.ikea.com/us/en/cat/dorm-room-lights-desk-lamps-for-college-700763/",
+      "title": "Dorm room lights & desk lamps for college - IKEA"
+    },
+    {
+      "position": 3,
+      "url": "https://blisslights.com/blogs/blisslights/dorm-lighting-ideas-to-glow-up-your-space",
+      "title": "14 Dorm Lighting Ideas To Glow Up Your Space - BlissLights"
+    },
+    {
+      "position": 4,
+      "url": "https://brightech.com/collections/college-dorm-room-lights",
+      "title": "College Dorm Room Lights - Brightech"
+    },
+    {
+      "position": 5,
+      "url": "https://www.pinterest.com/partylights/college-room-lights/",
+      "title": "40 College Room Lights ideas | dorm christmas lights, colorful ... - Pinterest"
+    },
+    {
+      "position": 6,
+      "url": "https://www.reddit.com/r/college/comments/oztv78/what_are_the_best_dorm_room_lights/",
+      "title": "What are the best dorm room lights? : r/college - Reddit"
+    },
+    {
+      "position": 7,
+      "url": "https://www.amazon.com/dorm-lights/s?k=dorm+lights",
+      "title": "Dorm Lights - Amazon.com"
+    },
+    {
+      "position": 8,
+      "url": "https://www.dormtherapy.com/dorm-lighting-solutions-no-big-light-100000526",
+      "title": "11 of the Best Dorm Lighting Solutions If You Hate the “Big Light”"
+    },
+    {
+      "position": 9,
+      "url": "https://tapestrygirls.com/collections/dorm-room-lights",
+      "title": "Dorm Room Lights - Lighting For Dorms - Tapestry Girls"
+    },
+    {
+      "position": 10,
+      "url": "https://www.hgtv.com/decorating/design-ideas/ways-to-light-up-your-dorm-room-without-burning-it-down",
+      "title": "11 DIY Ways to Light Up Your Dorm Room (Without Burning It Down!)"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 3,
+    "withYear": 0,
+    "withNumber": 4,
+    "commonModifiers": [
+      "dorm lighting",
+      "college",
+      "best",
+      "ideas",
+      "N ways/ideas",
+      "desk lamps"
+    ],
+    "gap": "Allowed-by-the-dorm and damage-free for the deposit: none promise lights that pass residence hall rules and come off the wall cleanly. Suggested title: Dorm Room Lights – 9 Picks That Won't Cost Your Deposit"
+  },
+  "painPoints": [
+    {
+      "id": "lighting-led-strip-pulls-paint-on-removal",
+      "pain": "LED strip adhesive rips paint off the wall when removed, risking the deposit",
+      "details": "Renters and parents find the adhesive bonds to paint and takes it off at move-out; they look for heat or solvent removal methods.",
+      "sources": [
+        "https://www.reddit.com/r/HomeMaintenance/comments/13sj00r/my_led_lights_ripped_off_the_paint_around_the/",
+        "https://www.quora.com/How-can-I-remove-LED-strip-lights-without-removing-paint-damaging-my-walls",
+        "https://www.tiktok.com/@apartmentstore/video/7132475613151071534",
+        "https://suntechlite.com/how-to-install-led-strip-lights-on-the-wall-damage-free-hacks-for-renters-homeowners/"
+      ],
+      "quotes": [
+        {
+          "text": "Next time try hitting the tape with goo gone or rubbing alcohol before pulling it.",
+          "url": "https://www.reddit.com/r/HomeMaintenance/comments/13sj00r/my_led_lights_ripped_off_the_paint_around_the/"
+        },
+        {
+          "text": "If they are attached with an adhesive try softening the adhesive with a hair dryer.",
+          "url": "https://www.quora.com/How-can-I-remove-LED-strip-lights-without-removing-paint-damaging-my-walls"
+        }
+      ]
+    },
+    {
+      "id": "lighting-led-strip-keeps-falling-off",
+      "pain": "LED strip lights keep falling off the wall because the stock adhesive is weak",
+      "details": "Parents and renters report strips peeling away from walls within days; answers point to clips, channels or higher-tack removable tape.",
+      "sources": [
+        "https://www.facebook.com/groups/1841247825900748/posts/28748695164729316/",
+        "https://www.adledlights.com/stop-your-led-strips-from-falling-down-the-ultimate-mounting-guide.html",
+        "https://www.reddit.com/r/HomeMaintenance/comments/13sj00r/my_led_lights_ripped_off_the_paint_around_the/"
+      ],
+      "quotes": [
+        {
+          "text": "the adhesive backing may not be sufficient.",
+          "url": "https://www.facebook.com/groups/1841247825900748/posts/28748695164729316/"
+        }
+      ]
+    },
+    {
+      "id": "lighting-bulbs-die-when-wall-switch-flipped",
+      "pain": "Smart bulbs lose control when someone flips the wall switch",
+      "details": "Households and roommates turn off the wall switch, which cuts power to the smart bulb so voice and app control fail.",
+      "sources": [
+        "https://www.reddit.com/r/HomeKit/comments/rv0eb8/is_there_a_smart_switch_that_keep_yours_smart/",
+        "https://www.reddit.com/r/smartlife/comments/17x8orb/smart_bulbs_not_working_with_alexa/",
+        "https://www.facebook.com/groups/AmazonAlexaUsersGroup/posts/1896783667423308/",
+        "https://doitforme.solutions/blog/are-your-smart-bulbs-making-your-smart-home-dumb/"
+      ],
+      "quotes": [
+        {
+          "text": "Most smart bulb disconnection issues come down to one thing - someone's turning them off at the wall switch.",
+          "url": "https://www.facebook.com/groups/AmazonAlexaUsersGroup/posts/1896783667423308/"
+        },
+        {
+          "text": "when you flip the wall switch, all power is stopped so the smart bulb becomes totally dead.",
+          "url": "https://doitforme.solutions/blog/are-your-smart-bulbs-making-your-smart-home-dumb/"
+        }
+      ]
+    },
+    {
+      "id": "lighting-smart-bulbs-unreliable-regret",
+      "pain": "Smart bulbs disconnect from Alexa or Wi-Fi and owners regret buying them",
+      "details": "Users report unresponsive bulbs with weak Wi-Fi radios or flaky firmware and say plain bulbs would have been less hassle.",
+      "sources": [
+        "https://www.reddit.com/r/HomeKit/comments/hd9slr/3_reasons_why_you_need_smart_switches_smart/",
+        "https://www.reddit.com/r/smartlife/comments/17x8orb/smart_bulbs_not_working_with_alexa/",
+        "https://www.facebook.com/groups/AmazonAlexaUsersGroup/posts/1896783667423308/"
+      ],
+      "quotes": [
+        {
+          "text": "Every smart bulb I have in/around the house makes me regret having it.",
+          "url": "https://www.reddit.com/r/HomeKit/comments/hd9slr/3_reasons_why_you_need_smart_switches_smart/"
+        },
+        {
+          "text": "Some smart lights have unreliable firmware or weak Wi-Fi radios, making them prone to disconnections.",
+          "url": "https://www.reddit.com/r/smartlife/comments/17x8orb/smart_bulbs_not_working_with_alexa/"
+        }
+      ]
+    },
+    {
+      "id": "lighting-no-wiring-allowed-smart-switch",
+      "pain": "Renter cannot rewire the wall switch but wants phone or voice control of the light",
+      "details": "Renters ask for smart switch options that need no wiring, such as switch-cover bots or smart bulbs.",
+      "sources": [
+        "https://www.reddit.com/r/homeassistant/comments/17rp4dw/nowiring_smart_light_switches_for_apartment/",
+        "https://www.reddit.com/r/homeautomation/comments/18hm0cp/im_in_a_rental_and_cant_do_any_wiring_are_there/",
+        "https://www.reddit.com/r/homeautomation/comments/1pozfct/looking_for_renter_friendly_way_to_control_toggle/"
+      ],
+      "quotes": [
+        {
+          "text": "I use third reality zigbee switches which fit over the existing switches so I don't need to rewire an apartment.",
+          "url": "https://www.reddit.com/r/homeassistant/comments/17rp4dw/nowiring_smart_light_switches_for_apartment/"
+        }
+      ]
+    }
+  ]
+}
