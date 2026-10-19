@@ -8,7 +8,7 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "2026-10-14: Yale Approach retrofit, auto-unlock, Yale Keypad (Yale store, CEPro, Nasdaq release); SwitchBot Lock Pro AA batteries, Matter via Hub 2/Hub Mini Matter, Keypad Touch sold separately (switch-bot.com); Aqara U200 retrofit, Matter over Thread, Apple Home Key, keypad included (MacRumors, homekitnews); August Wi-Fi 4th Gen built-in Wi-Fi, DoorSense, CR123. Wrong Amazon listings (Lock Vision Pro, U400) cleared for re-match.",
-    "at": "2026-10-14T13:15:27.379Z"
+    "notes": "Re-opened Techlicious and NotEnoughTech SwitchBot Lock Pro reviews (bracket on existing lock screws / 3 grub screws, no trace on removal; not adhesive-only) and Yale shop page for Approach Wi-Fi + Keypad Touch (keypad and 4 AA included). Fixed SwitchBot adhesive/no-screws claims and scores (install 7, reversibility 8), Yale keypad-not-included claims; August/Aqara claims unchanged from prior review (Aqara hub, backset, batteries per prior sources). Set updatedDate.",
+    "at": "2026-10-19T13:09:18.742Z"
   }
 }

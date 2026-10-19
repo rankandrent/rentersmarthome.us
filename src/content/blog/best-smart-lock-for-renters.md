@@ -33,15 +33,16 @@ funnel: bofu
 readingTime: 9
 tldr:
   - >-
-    A renter-friendly smart lock is a retrofit lock that replaces only the
-    interior thumbturn, so the exterior keyhole and your landlord's key keep
+    A renter-friendly smart lock is a retrofit lock that sits on the inside of
+    the door and leaves the exterior keyhole, so your landlord's key keeps
     working.
   - >-
     The August Wi-Fi Smart Lock (4th Gen) is the best overall pick for most
     renters thanks to built-in Wi-Fi and a compact retrofit design.
   - >-
-    The SwitchBot Lock Pro is the only true no-tools option because it sticks
-    onto the thumbturn with adhesive.
+    The SwitchBot Lock Pro is the quickest install and leaves the lock itself
+    untouched: it mounts over the thumbturn on a bracket held by your existing
+    lock screws and came off with no trace in Techlicious' review.
   - >-
     The Aqara Smart Lock U100 adds a fingerprint keypad and Apple Home Key, but
     it replaces the whole deadbolt, so get written landlord approval and keep
@@ -121,15 +122,18 @@ products:
   - name: SwitchBot Lock Pro
     brand: SwitchBot
     query: SwitchBot Lock Pro
-    badge: Best no-tools install
+    badge: Best untouched-lock install
     summary: >-
-      A stick-on smart lock that turns your existing thumbturn mechanically.
-      Ideal if your lease forbids touching the lock at all.
+      A bracket-mounted smart lock that turns your existing thumbturn
+      mechanically and leaves the lock itself unmodified. Ideal if your lease
+      forbids changing the lock.
     renterNote: >-
-      Mounts over the thumbturn with adhesive; no screws, no disassembly, peel
-      off when you move.
+      Mounts over the thumbturn on a bracket that reuses your existing lock
+      screws (or grub screws that clamp to the lock barrel); the lock is not
+      modified and Techlicious found it came off with no trace. Reinstall the
+      original screws when you move out.
     pros:
-      - Zero disassembly of the landlord's lock
+      - Leaves the landlord's lock unmodified; the bracket reuses its screws
       - Optional keypad and fingerprint add-ons
       - Matter support through a SwitchBot hub
     cons:
@@ -155,14 +159,14 @@ products:
         width: 500
         height: 500
     scores:
-      install: 9
-      reversibility: 9
+      install: 7
+      reversibility: 8
       value: 7
       compatibility: 8
       portability: 8
     scoreNote: >-
-      Adhesive mount over the thumbturn with no disassembly; remote access and
-      Matter need a hub.
+      Bracket mount that reuses the existing lock screws, with no change to the
+      lock and no trace on removal; remote access and Matter need a hub.
     owners:
       read: 3
       praise:
@@ -185,17 +189,18 @@ products:
     query: Yale Approach Lock with Wi-Fi
     badge: Best with a keypad
     summary: >-
-      Yale's retrofit lock keeps your exterior hardware and pairs with Yale's
-      keypad accessories for code entry from outside.
+      Yale's retrofit lock keeps your exterior hardware and, in the Wi-Fi and
+      Keypad Touch kit, includes a biometric keypad for code or fingerprint
+      entry from outside.
     renterNote: >-
       Retrofits onto the existing deadbolt from the inside; original thumbturn
       goes back on at move-out.
     pros:
       - Keeps existing keys and exterior hardware
-      - Pairs with Yale keypad accessories
+      - Includes a biometric Keypad Touch for code and fingerprint entry
       - Auto-unlock as you approach
     cons:
-      - Keypad is a separate purchase
+      - Needs a plug-in Wi-Fi bridge for remote access (PCWorld)
       - Fit depends on your deadbolt model
     asin: B0D3VQD6YX
     image:
@@ -217,8 +222,8 @@ products:
       compatibility: 8
       portability: 8
     scoreNote: >-
-      Screwdriver retrofit that keeps exterior keys; the keypad is a separate
-      purchase.
+      Screwdriver retrofit that keeps exterior keys; the kit includes the
+      keypad, but a Wi-Fi bridge and fit checks add effort.
     owners:
       read: 3
       praise:
@@ -330,8 +335,12 @@ sources:
     url: 'https://august.com/'
   - title: SwitchBot (manufacturer)
     url: 'https://www.switch-bot.com/'
-  - title: Yale Approach Lock with Wi-Fi
-    url: 'https://shopyalehome.com/'
+  - title: Yale Approach Lock with Wi-Fi and Keypad Touch
+    url: 'https://shopyalehome.com/products/yale-approach-lock-with-wi-fi-and-keypad-touch'
+  - title: Techlicious SwitchBot Lock Pro review
+    url: 'https://techlicious.com/review/switchbot-lock-pro-review'
+  - title: NotEnoughTech SwitchBot Lock Pro review
+    url: 'https://notenoughtech.com/home-automation/switchbot-lock-pro/'
   - title: Aqara Smart Lock U100 user manual (Seam device database copy)
     url: >-
       https://www.seam.co/img/device-db/aqara/manuals/aqara_smart-lock-u100_user_manual.pdf
@@ -344,12 +353,13 @@ sources:
     url: 'https://homekitnews.com/2023/06/14/aqara-smart-lock-u100-review/'
   - title: 'Matter standard overview, Connectivity Standards Alliance'
     url: 'https://csa-iot.org/all-solutions/matter/'
-reviewedDate: '2026-10-14T00:00:00.000Z'
+reviewedDate: '2026-10-19T00:00:00.000Z'
+updatedDate: '2026-10-19T00:00:00.000Z'
 faqs:
   - q: Can renters install a smart lock without landlord permission?
     a: >-
       Many leases forbid changing or re-keying locks, so read your lease first.
-      A retrofit smart lock that only replaces the interior thumbturn keeps the
+      A retrofit smart lock that stays on the inside of the door keeps the
       landlord's key working, which is why many landlords approve it, but
       written permission is still the safe move.
   - q: Do retrofit smart locks work with every deadbolt?
@@ -366,12 +376,12 @@ faqs:
       mechanical keys and has a USB-C port for emergency power from outside.
   - q: How do you remove a smart lock when you move out?
     a: >-
-      Unscrew or peel off a retrofit smart lock, reinstall the original
+      Unscrew a retrofit or bracket-mount smart lock, reinstall the original
       thumbturn and mounting plate you saved, and test the deadbolt with your
       key. For a full replacement like the Aqara U100, remove it and reinstall
       the landlord's original deadbolt, strike plate and screws, then confirm
       the original key works.
-  - q: Is a stick-on smart lock as secure as a retrofit lock?
+  - q: Is a bracket-mount smart lock as secure as a retrofit lock?
     a: >-
       Both types leave the deadbolt itself unchanged, so the physical strength
       of the door stays the same. Security differences come down to app account
@@ -405,13 +415,13 @@ Below we break down four smart locks for renters, how to check deadbolt compatib
 There are two renter-safe smart lock designs, plus one that needs permission:
 
 - **Retrofit smart locks** (August, Yale Approach) remove two screws and the interior thumbturn, then mount the motorized unit onto the existing deadbolt's tailpiece. The deadbolt, strike plate and exterior keyhole stay untouched.
-- **Stick-on smart locks** (SwitchBot Lock Pro) mount over the thumbturn with adhesive and rotate it mechanically. No part of the lock is disassembled at all.
+- **Bracket-mount smart locks** (SwitchBot Lock Pro) clip over the thumbturn on a bracket held by your existing lock screws (or grub screws that clamp to the lock barrel) and rotate it mechanically. The lock itself is not modified, and Techlicious found it came off with no trace.
 - **Full-replacement smart deadbolts** (Aqara Smart Lock U100) replace the whole deadbolt, inside and out. Use one only with landlord approval, and keep the original deadbolt to reinstall.
 
 | Smart lock type | Tools needed | Landlord key still works | Typical removal time |
 | --- | --- | --- | --- |
 | Retrofit smart lock | Screwdriver | Yes | 10–15 minutes |
-| Stick-on smart lock | None | Yes | 5 minutes |
+| Bracket-mount smart lock | Screwdriver | Yes | 5-10 minutes |
 | Full-replacement smart deadbolt (Aqara U100) | Screwdriver, sometimes a chisel for the strike | No (new cylinder) | 20–30 minutes |
 
 If you are browsing smart locks for an apartment, filter for "retrofit" or "fits over existing deadbolt" in the product description. Those phrases are the fastest way to spot a lease-friendly smart lock.
@@ -426,13 +436,13 @@ The August smart lock works with Amazon Alexa, Google Assistant and Apple Home, 
 
 ### SwitchBot Lock Pro: best no-tools install
 
-The [SwitchBot Lock Pro](amzn:SwitchBot+Lock+Pro) is the only smart lock here that never touches a screw. The SwitchBot lock sticks over your thumbturn with adhesive pads and uses an adjustable grip to turn it, which makes it the best smart lock for strict leases that say "no alterations to locks."
+The [SwitchBot Lock Pro](amzn:SwitchBot+Lock+Pro) is the quickest install here and the one that changes the lock the least. It mounts over your thumbturn on a bracket that reuses your existing lock screws (NotEnoughTech describes grub screws that clamp to the barrel) and turns the thumbturn mechanically. Techlicious says it needs no permanent modification and leaves no trace when removed, though you do remove and refit the existing screws, so check your lease wording if it says "no alterations to locks."
 
 SwitchBot's ecosystem adds a keypad with fingerprint unlock, and pairing the lock with a SwitchBot hub unlocks remote control and Matter support. Budget for that hub if you want to lock the door from work or control it through Apple Home or Google Home.
 
 ### Yale Approach Lock with Wi-Fi: best with a keypad
 
-The [Yale Approach Lock](amzn:Yale+Approach+Lock+with+Wi-Fi) is Yale's retrofit smart lock, and it shines for renters who want code entry from outside. Pair the Yale Approach with a Yale keypad mounted beside the door (adhesive mounting works on most door frames) and roommates or dog walkers get their own codes, no key copies required.
+The [Yale Approach Lock](amzn:Yale+Approach+Lock+with+Wi-Fi) is Yale's retrofit smart lock, and it shines for renters who want code entry from outside. The Wi-Fi and Keypad Touch kit includes a biometric keypad you can stick beside the door with an adhesive pad or screw on, so roommates or dog walkers get their own codes, no key copies required. A plug-in Wi-Fi bridge handles remote access.
 
 Like other retrofit smart locks, the Yale Approach mounts over the existing deadbolt from the inside of the door, so the landlord's key keeps working and the original thumbturn goes back on when you leave.
 
@@ -484,4 +494,4 @@ Uninstalling the smart lock is the same process in reverse. Reinstall the origin
 
 ## Which smart lock should you buy?
 
-**For most renters, the August Wi-Fi Smart Lock is the best smart lock because it combines a true retrofit install with built-in Wi-Fi and support for every major assistant.** Choose the SwitchBot Lock Pro if your lease forbids touching the lock, the Yale Approach if keypad entry matters most, and the Aqara Smart Lock U100 only if your landlord approves a full deadbolt swap and you want fingerprint entry plus Apple Home Key. Because it changes the most hardware, it ranks last for renters here.
+**For most renters, the August Wi-Fi Smart Lock is the best smart lock because it combines a true retrofit install with built-in Wi-Fi and support for every major assistant.** Choose the SwitchBot Lock Pro if you want the lock itself left unmodified, the Yale Approach kit if you want a keypad and fingerprint reader included, and the Aqara Smart Lock U100 only if your landlord approves a full deadbolt swap and you want fingerprint entry plus Apple Home Key. Because it changes the most hardware, it ranks last for renters here.
