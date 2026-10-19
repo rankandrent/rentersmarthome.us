@@ -36,7 +36,7 @@ for (let i = 0; i < days; i++) {
       volume: typeof a.volume === 'number' ? a.volume : null, kd: typeof a.kd === 'number' ? a.kd : null,
       trafficPotential: a.trafficPotential ?? null, notInAhrefs: a.notInDatabase === true, proxy: a.proxy ? { keyword: a.proxy.keyword ?? null, volume: a.proxy.volume ?? null } : null,
       category: item.category ?? null, articleType: item.articleType ?? null, intent: item.intent ?? null, funnel: funnelOf(item),
-      secondary: (item.secondaryKeywords ?? []).length, source: item.source === 'user' ? 'owner' : 'research',
+      secondary: (item.secondaryKeywords ?? []).length, source: item.source === 'user' ? 'owner' : (item.source ?? 'research'), painPoints: item.painPoints ?? [], competitor: item.competitor?.domain ?? null,
     });
   }
   plan.push(day);
