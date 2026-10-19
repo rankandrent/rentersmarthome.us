@@ -777,12 +777,18 @@
     "addedAt": "2026-10-13T20:00:47.951Z",
     "secondaryKeywords": [
       "zigbee vs matter",
-      "matter vs thread vs zigbee"
+      "zigbee or matter",
+      "does matter replace zigbee"
     ],
     "questions": [
       "is matter better than zigbee",
       "does matter replace zigbee",
-      "do i need a zigbee hub"
+      "do i need a zigbee hub",
+      "can zigbee devices work with matter",
+      "do i need to replace my zigbee devices",
+      "should i buy matter or zigbee for a new smart home",
+      "is zigbee cheaper than matter",
+      "does zigbee work through walls in an apartment"
     ],
     "priority": 8,
     "keyword": "matter vs zigbee",
@@ -790,7 +796,7 @@
     "articleType": "comparison",
     "intent": "informational",
     "funnel": "mofu",
-    "workingTitle": "Matter vs Zigbee: What Renters Should Buy in 2026",
+    "workingTitle": "Matter vs Zigbee (2026) – What Renters Should Buy",
     "cluster": "voice assistants",
     "rationale": "400/mo, KD 0 (Ahrefs)",
     "ahrefs": {
