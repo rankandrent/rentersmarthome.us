@@ -590,6 +590,7 @@ heroAlt: >-
   Best Door Camera for Apartment Renters – 6 No-Wiring Picks (2026) –
   RenterSmartHome buying guide
 related:
+  - locked-out-of-apartment
   - best-litter-box-for-small-apartment
 ---
 

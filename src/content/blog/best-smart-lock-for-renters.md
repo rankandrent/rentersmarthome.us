@@ -336,7 +336,8 @@ sources:
   - title: SwitchBot (manufacturer)
     url: 'https://www.switch-bot.com/'
   - title: Yale Approach Lock with Wi-Fi and Keypad Touch
-    url: 'https://shopyalehome.com/products/yale-approach-lock-with-wi-fi-and-keypad-touch'
+    url: >-
+      https://shopyalehome.com/products/yale-approach-lock-with-wi-fi-and-keypad-touch
   - title: Techlicious SwitchBot Lock Pro review
     url: 'https://techlicious.com/review/switchbot-lock-pro-review'
   - title: NotEnoughTech SwitchBot Lock Pro review
@@ -398,10 +399,10 @@ heroAlt: >-
   Best Smart Lock for Renters 2026 – 4 Reversible Picks and Fit Check –
   RenterSmartHome buying guide
 related:
+  - locked-out-of-apartment
   - best-smart-light-bulbs-for-renters
   - best-smart-smoke-detector-for-apartments
   - best-magnetic-cabinet-locks-for-renters
-  - best-magnetic-stud-finder
 ---
 
 The best smart lock for renters is a **retrofit smart lock**: a smart lock that replaces only the interior thumbturn of your existing deadbolt, so the exterior keyhole, the bolt and your landlord's key all keep working. A retrofit smart lock gives you keyless entry, auto-lock and guest codes without re-keying, drilling, or risking your security deposit, and it moves with you to the next apartment.

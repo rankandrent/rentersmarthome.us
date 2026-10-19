@@ -189,6 +189,13 @@
       "keyword": "wyze vs blink",
       "category": "security",
       "funnel": "mofu"
+    },
+    {
+      "date": "2026-10-19",
+      "slug": "locked-out-of-apartment",
+      "keyword": "locked out of apartment",
+      "category": "smart-locks",
+      "funnel": "tofu"
     }
   ],
   "translated": [

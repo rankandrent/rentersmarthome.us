@@ -41,8 +41,8 @@ readingTime: 11
 tldr:
   - >-
     Locked out of your apartment? Check other doors safely, call anyone with a
-    spare key, then the property manager or the emergency maintenance line,
-    and only then a locksmith.
+    spare key, then the property manager or the emergency maintenance line, and
+    only then a locksmith.
   - >-
     Never climb a fire escape or force a window; it is risky and can cost you
     more than the lockout itself.
@@ -77,7 +77,9 @@ products:
       - >-
         Fits over most single-cylinder deadbolts from the inside, so the
         exterior and your key stay as they are
-      - Built-in Wi-Fi (2.4 or 5 GHz) means remote unlock without a separate bridge
+      - >-
+        Built-in Wi-Fi (2.4 or 5 GHz) means remote unlock without a separate
+        bridge
       - >-
         Auto-lock and DoorSense can re-lock the door, so you can also set up
         auto-unlock as you arrive
@@ -130,8 +132,8 @@ products:
       Mounts on the inside with brackets (SwitchBot also supplies adhesive and a
       door magnet), leaves the original lock and key in place, and Techlicious
       found it came off with no trace. The keypad and the hub for remote unlock
-      are separate purchases, and fit depends on your lock, so check
-      SwitchBot's compatibility list before you buy.
+      are separate purchases, and fit depends on your lock, so check SwitchBot's
+      compatibility list before you buy.
     pros:
       - >-
         Keeps your original lock and key, so the landlord's cylinder is
@@ -300,9 +302,7 @@ products:
         - >-
           Some reviewers report stuck mechanisms or a code that opened with
           digits wrong
-        - >-
-          Interior space is smaller than it looks, so oversized keys may not
-          fit
+        - 'Interior space is smaller than it looks, so oversized keys may not fit'
       sources:
         - title: 'Home Depot customer reviews, Master Lock 5400DHC'
           url: >-
@@ -324,10 +324,10 @@ products:
       ball, biscuit and tulip door handles. It is the pick for an apartment door
       with a lever handle, where a fixed-shackle box will not hang.
     renterNote: >-
-      The shackle adjusts from 3/4 to 1-3/4 inch and hangs on the handle with
-      no tools or drilling. Measure your door's backset, cross bore and
-      thickness first, because Amazon warns fit varies, and remember it is a
-      hidden spare, not a safe.
+      The shackle adjusts from 3/4 to 1-3/4 inch and hangs on the handle with no
+      tools or drilling. Measure your door's backset, cross bore and thickness
+      first, because Amazon warns fit varies, and remember it is a hidden spare,
+      not a safe.
     pros:
       - Adjustable shackle fits lever as well as round knob handles
       - 'Set-your-own 4-digit combination, 6-key capacity per Amazon listing'
@@ -357,9 +357,7 @@ products:
         - >-
           Tight fit on a round knob forced one owner to turn the handle with the
           box
-        - >-
-          Adjustable shackle does not open as wide as expected for one
-          reviewer
+        - Adjustable shackle does not open as wide as expected for one reviewer
         - One unit locked up while the code was being set
       sources:
         - title: 'Home Depot customer reviews, Master Lock 5420D'
@@ -374,7 +372,8 @@ sources:
   - title: SwitchBot Lock Pro review (Techlicious)
     url: 'https://techlicious.com/review/switchbot-lock-pro-review'
   - title: Yale Approach Lock with Wi-Fi and Keypad Touch (Yale)
-    url: 'https://shopyalehome.com/products/yale-approach-lock-with-wi-fi-and-keypad-touch'
+    url: >-
+      https://shopyalehome.com/products/yale-approach-lock-with-wi-fi-and-keypad-touch
   - title: Yale Approach Lock with Wi-Fi + Keypad review (PCWorld)
     url: >-
       https://www.pcworld.com/article/2331746/yale-approach-lock-with-wi-fi-keypad-review-this-is-easier.html
@@ -385,15 +384,16 @@ sources:
   - title: Best key lock boxes (Bob Vila)
     url: 'https://www.bobvila.com/articles/best-key-lock-box/'
   - title: Best lock for a rental property (Landlord Studio)
-    url: 'https://www.landlordstudio.com/blog/whats-the-best-lock-for-a-rental-property'
+    url: >-
+      https://www.landlordstudio.com/blog/whats-the-best-lock-for-a-rental-property
 reviewedDate: '2026-10-19'
 faqs:
   - q: What should I do first if I am locked out of my apartment?
     a: >-
       Check other doors you can reach safely, then call a roommate, partner or
-      friend who holds a spare key. If nobody has one, call the property
-      manager or leasing office, or the emergency maintenance line after hours,
-      before you call a locksmith.
+      friend who holds a spare key. If nobody has one, call the property manager
+      or leasing office, or the emergency maintenance line after hours, before
+      you call a locksmith.
   - q: Who do I call if I am locked out of my apartment after hours?
     a: >-
       Most buildings list an emergency maintenance or after-hours number on the
@@ -424,6 +424,10 @@ faqs:
       stamped do not duplicate. Check your lease, ask your landlord in writing,
       and return every copy at move-out.
 author: editorial-team
+heroImage: /images/featured/locked-out-of-apartment.png
+heroAlt: >-
+  Locked Out of Apartment? 7 Steps to Get Back In Fast and Prevent It –
+  RenterSmartHome how-to
 ---
 
 Being locked out of your apartment usually starts the same way: the door clicks shut behind you, your hand goes to an empty pocket, and the hallway suddenly feels very quiet. One renter on r/legaladvice described a worse version, locked out at 2 a.m. when a building smart lock failed, then billed for the locksmith and a drilled lock. We wrote this guide for both moments. First you get seven steps in the order that gets you back inside fastest and cheapest. Then we cover smart-lock lockouts, lockout fees, and the no-drill gear that stops the next one.

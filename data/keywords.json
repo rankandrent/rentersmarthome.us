@@ -537,7 +537,7 @@
     "priority": 8,
     "rationale": "800/mo, KD 1 (Ahrefs)",
     "slug": "locked-out-of-apartment",
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-13T00:00:00.000Z",
     "ahrefs": {
@@ -553,7 +553,8 @@
     "painPoints": [
       "smart-locks-battery-dies-lockout",
       "smart-locks-lockout-charges-landlord-liability"
-    ]
+    ],
+    "publishedAt": "2026-10-19T13:15:11.774Z"
   },
   {
     "keyword": "apartment door security",
@@ -854,7 +855,8 @@
       "security-landlord-bans-cameras-doorbells",
       "security-doorbell-records-neighbors",
       "security-false-motion-alerts",
-      "security-battery-drain-cold"
+      "security-battery-drain-cold",
+      "security-no-drill-doorbell-mount"
     ]
   },
   {

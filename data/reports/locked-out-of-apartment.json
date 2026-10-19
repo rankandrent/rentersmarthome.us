@@ -1,0 +1,482 @@
+{
+  "keyword": "locked out of apartment",
+  "createdAt": "2026-10-19T13:15:11.777Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "locked out of apartment",
+    "entityVariants": [
+      "locked out of my apartment",
+      "locked out of your apartment",
+      "locked myself out of apartment",
+      "apartment lockout",
+      "lockout"
+    ],
+    "entities": [
+      {
+        "name": "property manager / leasing office",
+        "type": "person/org",
+        "relation": "holds spare or master key; first call"
+      },
+      {
+        "name": "emergency maintenance line",
+        "type": "service",
+        "relation": "after-hours route to get in"
+      },
+      {
+        "name": "locksmith",
+        "type": "service",
+        "relation": "last-resort paid entry; ask for upfront quote, license, ID check"
+      },
+      {
+        "name": "spare key",
+        "type": "object",
+        "relation": "trusted friend, neighbor or roommate holds it"
+      },
+      {
+        "name": "master key",
+        "type": "object",
+        "relation": "building-held key used by management"
+      },
+      {
+        "name": "lockout fee",
+        "type": "cost",
+        "relation": "charge some leases set for letting a tenant in; check your lease"
+      },
+      {
+        "name": "lease clause (lockout policy)",
+        "type": "lease concept",
+        "relation": "states fees, key copies, lock changes"
+      },
+      {
+        "name": "smart lock",
+        "type": "product type",
+        "relation": "keyless entry that prevents key lockouts"
+      },
+      {
+        "name": "keypad deadbolt",
+        "type": "product type",
+        "relation": "code entry, no phone needed"
+      },
+      {
+        "name": "retrofit smart lock",
+        "type": "product type",
+        "relation": "keeps the outside cylinder and original key, landlord-friendly"
+      },
+      {
+        "name": "lockbox / key safe",
+        "type": "product type",
+        "relation": "holds a spare key near the door"
+      },
+      {
+        "name": "9V battery terminals",
+        "type": "hardware part",
+        "relation": "emergency power for dead keypad locks"
+      },
+      {
+        "name": "physical key override",
+        "type": "hardware part",
+        "relation": "backup when battery or app fails"
+      },
+      {
+        "name": "Bluetooth / Wi-Fi / app",
+        "type": "technology",
+        "relation": "smart lock connection; can drop"
+      },
+      {
+        "name": "auto-lock",
+        "type": "feature",
+        "relation": "lock re-locks on close, a common cause of lockouts"
+      },
+      {
+        "name": "security deposit",
+        "type": "lease concept",
+        "relation": "damaged lock or drilled cylinder may be charged against it"
+      },
+      {
+        "name": "fire escape / ground-floor window",
+        "type": "location",
+        "relation": "alternate entry that is unsafe or risky"
+      }
+    ],
+    "attributes": [
+      "cost",
+      "time to get in",
+      "after hours availability",
+      "damage risk to lock",
+      "need for ID or proof of residency",
+      "lease lockout fee",
+      "safety",
+      "key copy permission",
+      "battery life",
+      "backup entry method",
+      "install without drilling",
+      "landlord approval"
+    ],
+    "ngrams": [
+      "locked out of your apartment",
+      "locked out of apartment",
+      "call your landlord",
+      "property manager",
+      "leasing office",
+      "spare key",
+      "call a locksmith",
+      "after hours",
+      "emergency maintenance",
+      "lockout fee",
+      "check your lease",
+      "smart lock",
+      "keyless entry",
+      "trusted friend",
+      "extra key",
+      "last resort",
+      "proof of residency",
+      "unlocked window"
+    ],
+    "skipgrams": [
+      "locked…apartment",
+      "spare…key",
+      "call…locksmith",
+      "landlord…spare key",
+      "locksmith…quote",
+      "lockout…fee",
+      "lease…lockout",
+      "property manager…after hours",
+      "smart lock…keyless",
+      "battery…backup key",
+      "key…roommate",
+      "ID…locksmith",
+      "window…unlocked"
+    ],
+    "nlpTerms": [
+      "locksmith",
+      "landlord",
+      "property manager",
+      "leasing office",
+      "spare key",
+      "master key",
+      "emergency maintenance",
+      "after-hours number",
+      "lockout fee",
+      "lease",
+      "deadbolt",
+      "keypad",
+      "smart lock",
+      "keyless entry",
+      "lockbox",
+      "roommate",
+      "proof of residency",
+      "rekey",
+      "bump key",
+      "fire escape",
+      "licensed and insured",
+      "upfront quote",
+      "key fob",
+      "batteries",
+      "9V",
+      "physical key override",
+      "auto-lock",
+      "security deposit"
+    ],
+    "questions": [
+      "What should I do if I am locked out of my apartment?",
+      "Who do I call if I am locked out of my apartment after hours?",
+      "Will my landlord let me in if I am locked out?",
+      "Can my landlord charge me a lockout fee?",
+      "How much does a locksmith cost to get into an apartment?",
+      "Can a locksmith open my apartment door without damaging the lock?",
+      "Do I need proof of residency for a locksmith?",
+      "Can I climb through a window if I am locked out?",
+      "Can I make a spare key without my landlord knowing?",
+      "How can a smart lock prevent lockouts in a rental?",
+      "What happens if a smart lock battery dies and I am locked out?",
+      "Who pays if a landlord-supplied smart lock fails and I need a locksmith?"
+    ],
+    "contentGaps": [
+      "No top result covers smart-lock-specific lockouts: dead batteries, 9V emergency terminals, app or Wi-Fi failures, physical key override",
+      "Lockout fee and who pays for a drilled or damaged lock is only touched in one line; renters need a 'check your lease and ask your landlord in writing' script",
+      "No ready-to-send message asking the landlord for a spare key, after-hours number or permission for a retrofit smart lock",
+      "Prevention is generic (hide a key); no ranked options by renter constraints (no drilling, keep original cylinder, return to stock on move-out)",
+      "Nobody explains lease key-copy rules and move-out key return for spare keys given to friends",
+      "No time-of-day and building-type decision tree (ground floor, secured building, after midnight, no phone)",
+      "Locksmith scam checks and quote questions are shallow; no printable checklist",
+      "Landlord-installed smart locks with no physical key (NYC Local Law 63 is cited by tenants; check local rules)"
+    ],
+    "outline": [
+      {
+        "h2": "What to do right now if you are locked out of your apartment",
+        "intent": "Immediate answer, featured snippet: the 5 to 7 step order",
+        "h3": [
+          "Stay calm and check doors and windows safely",
+          "Why climbing a fire escape is not worth it"
+        ]
+      },
+      {
+        "h2": "Call your property manager or landlord first",
+        "intent": "Leasing office, master key, emergency maintenance, ID check, possible fee",
+        "h3": [
+          "Locked out after hours",
+          "Roommate, partner or pet sitter with a key",
+          "Ask your landlord: is there a lockout fee? (check your lease)"
+        ]
+      },
+      {
+        "h2": "When to call a locksmith (and how to avoid overpaying)",
+        "intent": "Last resort, cost, quote, license, ID, damage risk",
+        "h3": [
+          "Questions to ask before they drive over",
+          "What to say to your landlord if the lock gets damaged"
+        ]
+      },
+      {
+        "h2": "Locked out because of a smart lock, dead battery or app glitch",
+        "intent": "Pain points: battery dies, app or Wi-Fi drops, no physical key, locksmith bill disputes",
+        "h3": [
+          "Dead batteries and the 9V emergency terminals",
+          "App, Bluetooth or Wi-Fi not responding",
+          "Who pays for the locksmith? Check your lease and ask your landlord in writing",
+          "Landlord installed a smart lock with no physical key"
+        ]
+      },
+      {
+        "h2": "Problems owners run into, and the fix",
+        "intent": "Short pain-point table: problem, why it happens, fix",
+        "h3": []
+      },
+      {
+        "h2": "How to stop getting locked out again",
+        "intent": "Prevention: routine, spare key, lockbox, keyless entry",
+        "h3": [
+          "A leaving routine and a spare key with a nearby friend",
+          "Lease rules on key copies",
+          "Lockbox or key safe"
+        ]
+      },
+      {
+        "h2": "Best keyless options for renters (no drilling, keep your original key)",
+        "intent": "Bridge to products: retrofit smart lock, keypad, with a link to the buying guide",
+        "h3": [
+          "Retrofit smart lock vs. keypad deadbolt vs. lockbox (comparison table)",
+          "How to ask your landlord for permission (sample email)"
+        ]
+      },
+      {
+        "h2": "Lockout checklist and move-out day",
+        "intent": "Printable checklist; return spare keys, restore original hardware",
+        "h3": []
+      }
+    ],
+    "targetWords": 1700,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://www.apartmenttherapy.com/locked-out-of-apartment-37112536",
+        "https://www.apartments.com/blog/what-to-do-when-locked-out-of-your-apartment",
+        "https://www.zillow.com/learn/locked-out-of-apartment/",
+        "https://www.rentler.com/blog/tenants/locked-out-of-apartment",
+        "https://www.apartmentguide.com/blog/what-to-do-locked-out-of-your-apartment/",
+        "https://www.redfin.com/blog/locked-out-of-apartment/"
+      ],
+      "productStyle": "paragraph",
+      "productStyleReason": "Top results are step-by-step how-tos with no product roundups; smart locks get one short paragraph, so product mentions should be short prose, not pros-cons lists or spec tables.",
+      "avgWords": 1000,
+      "avgProducts": 0,
+      "commonSections": [
+        "stay calm",
+        "call property manager or landlord",
+        "check other entry points",
+        "ask friend, roommate or neighbor for spare key",
+        "call a locksmith (last resort)",
+        "prevent future lockouts (spare key, lockbox, smart lock)",
+        "check your lease"
+      ],
+      "usesComparisonTable": false,
+      "usesFaq": false,
+      "usesBuyingGuide": false
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.reddit.com/r/ApartmentHacks/comments/qyi0br/im_locked_out_of_my_apartment_and_management_and/",
+        "title": "I'm locked out of my apartment and management and maintenance ..."
+      },
+      {
+        "position": 2,
+        "url": "https://www.apartmenttherapy.com/locked-out-of-apartment-37112536",
+        "title": "Here's What To Do If You Get Locked Out of Your Apartment"
+      },
+      {
+        "position": 3,
+        "url": "https://www.apartments.com/blog/what-to-do-when-locked-out-of-your-apartment",
+        "title": "Locked Out of Your Apartment? Here's What to Do"
+      },
+      {
+        "position": 4,
+        "url": "https://www.zillow.com/learn/locked-out-of-apartment/",
+        "title": "What to Do When You're Locked Out of Your Apartment | Zillow"
+      },
+      {
+        "position": 5,
+        "url": "https://www.rentler.com/blog/tenants/locked-out-of-apartment",
+        "title": "Locked Out of Your Apartment? Here's What to Do - Rentler"
+      },
+      {
+        "position": 6,
+        "url": "https://www.quora.com/What-do-I-do-if-I-get-locked-out-of-my-apartment",
+        "title": "What do I do if I get locked out of my apartment? - Quora"
+      },
+      {
+        "position": 7,
+        "url": "https://www.apartmentguide.com/blog/what-to-do-locked-out-of-your-apartment/",
+        "title": "Locked Out of Your Apartment? Here's What to Do"
+      },
+      {
+        "position": 8,
+        "url": "https://www.movinghelp.com/move/locked-out-of-apartment/",
+        "title": "What to Do If You're Locked out of Your Apartment - Moving Help®"
+      },
+      {
+        "position": 9,
+        "url": "https://www.redfin.com/blog/locked-out-of-apartment/",
+        "title": "Locked Out of Your Apartment? What to Do and How to Prevent it - Redfin"
+      },
+      {
+        "position": 10,
+        "url": "https://www.rentcafe.com/blog/renting/what-to-do-when-you-get-locked-out-of-your-apartment/",
+        "title": "What to do when you get locked out of your apartment - RentCafe"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 4,
+      "withYear": 0,
+      "withNumber": 0,
+      "commonModifiers": [
+        "Here's What to Do",
+        "What to Do",
+        "Locked Out of Your Apartment?",
+        "question mark opener",
+        "how to prevent it"
+      ],
+      "gap": "No title promises a numbered step count or a smart-lock prevention angle for renters; offer a number of steps plus 'keep your original key' or fee/landlord angle. Suggested seoTitle (<=60, no colon): 'Locked Out of Apartment? 7 Steps to Get Back In Fast'",
+      "note": "4 of 10 (Apartments.com, Rentler, ApartmentGuide, Redfin) open with 'Locked Out of Your Apartment?'; none contain the exact phrase 'locked out of apartment'"
+    },
+    "painPoints": [
+      {
+        "id": "smart-locks-battery-dies-lockout",
+        "pain": "Smart lock battery dies and the renter is locked out with no physical key",
+        "details": "Renters in building-managed or retrofit smart locks get locked out at night when the batteries fail, often with no key or backup. Many ask who is liable and how to prevent it.",
+        "sources": [
+          "https://www.reddit.com/r/legaladvice/comments/1pa2zkl/locked_out_at_2_am_due_to_failed_smart_lock/",
+          "https://www.reddit.com/r/ApartmentMaintenance/comments/1p38soy/these_door_locks_requires_batteries_when_the/",
+          "https://www.reddit.com/r/Locksmith/comments/16h9v92/lockout_due_to_battery_issue_is_the_landlord/",
+          "https://www.landlordstudio.com/blog/whats-the-best-lock-for-a-rental-property"
+        ],
+        "quotes": [
+          {
+            "text": "When the batteries die, the occupant is locked out until a maintenance technician comes.",
+            "url": "https://www.reddit.com/r/ApartmentMaintenance/comments/1p38soy/these_door_locks_requires_batteries_when_the/"
+          },
+          {
+            "text": "Batteries die, and a smart lock with dead batteries is a locked door.",
+            "url": "https://www.landlordstudio.com/blog/whats-the-best-lock-for-a-rental-property"
+          }
+        ]
+      },
+      {
+        "id": "smart-locks-lockout-charges-landlord-liability",
+        "pain": "Landlord charges the tenant for locksmith or a drilled lock after a smart lock fails",
+        "details": "Tenants locked out by a failed or bricked landlord-supplied smart lock report being billed for locksmith and lock replacement and ask whether the landlord is liable.",
+        "sources": [
+          "https://www.reddit.com/r/chicago/comments/1aqpr0d/smart_lock_bricked_last_night_now_my_landlord/",
+          "https://www.reddit.com/r/legaladvice/comments/1pa2zkl/locked_out_at_2_am_due_to_failed_smart_lock/",
+          "https://www.reddit.com/r/Locksmith/comments/16h9v92/lockout_due_to_battery_issue_is_the_landlord/"
+        ],
+        "quotes": [
+          {
+            "text": "The landlord owns the lock, the lock malfunctioned rendering the apartment uninhabitable and therefore the landlord is responsible.",
+            "url": "https://www.reddit.com/r/chicago/comments/1aqpr0d/smart_lock_bricked_last_night_now_my_landlord/"
+          },
+          {
+            "text": "now charged for locksmith + drilled lock.",
+            "url": "https://www.reddit.com/r/legaladvice/comments/1pa2zkl/locked_out_at_2_am_due_to_failed_smart_lock/"
+          }
+        ]
+      },
+      {
+        "id": "smart-locks-landlord-installed-no-physical-key",
+        "pain": "Landlord replaced the door lock with an app-controlled smart lock and gave no physical key",
+        "details": "Tenants say the landlord swapped in a smart deadbolt without notice, requires an app to get in, and will not provide keys. They ask about their rights.",
+        "sources": [
+          "https://www.reddit.com/r/jerseycity/comments/1ncrxoj/landlord_wont_provide_physical_keys_for_smart/",
+          "https://www.reddit.com/r/NYCapartments/comments/1p3fnwy/landlord_suddenly_installed_a_smarthome_door_its/",
+          "https://www.reddit.com/r/mildlyinfuriating/comments/1rymjrw/landlord_installed_an_appcontrolled_smart/",
+          "https://www.reddit.com/r/legaladvice/comments/1vuhqbh/my_apartment_building_has_smart_locks_used/"
+        ],
+        "quotes": [
+          {
+            "text": "New York Local Law 63 which seems to prohibit landlords from requiring tenants to use smart access systems to enter their apartment.",
+            "url": "https://www.reddit.com/r/legaladvice/comments/1vuhqbh/my_apartment_building_has_smart_locks_used/"
+          }
+        ]
+      },
+      {
+        "id": "smart-locks-retrofit-lease-eviction-risk",
+        "pain": "Renter wants a smart lock but fears the landlord will treat it as a lock alteration",
+        "details": "Renters ask for a lock that leaves the outside key cylinder alone so the landlord keeps access and there is no lease violation or eviction risk.",
+        "sources": [
+          "https://www.reddit.com/r/jerseycity/comments/1ncrxoj/landlord_wont_provide_physical_keys_for_smart/",
+          "https://www.reddit.com/r/homeautomation/comments/1rm2gag/best_renter_friendly_smart_lock/",
+          "https://www.landlordstudio.com/blog/whats-the-best-lock-for-a-rental-property"
+        ],
+        "quotes": [
+          {
+            "text": "If the landlord found out and considered this an alteration of the lock, you could face eviction.",
+            "url": "https://www.reddit.com/r/jerseycity/comments/1ncrxoj/landlord_wont_provide_physical_keys_for_smart/"
+          },
+          {
+            "text": "You leave the outside of the deadbolt the same. This allows the landlord to keep using their same key.",
+            "url": "https://www.reddit.com/r/homeautomation/comments/1rm2gag/best_renter_friendly_smart_lock/"
+          }
+        ]
+      },
+      {
+        "id": "smart-locks-wifi-app-connection-drops",
+        "pain": "Smart lock loses Wi-Fi or Bluetooth connection and remote unlock stops working",
+        "details": "Owners find the lock offline, the app not connecting, or remote unlock failing; standard fixes are restarting the router, reinstalling the app, or checking batteries.",
+        "sources": [
+          "https://iveise.com/blogs/how-to/smart-lock-not-working-10-common-problems-and-how-to-fix-them",
+          "https://www.facebook.com/groups/rockypointmexicofriends/posts/1712461169235088/",
+          "https://ardanshield.com/blogs/ttlock-smart-access/ttlock-remote-unlock-not-working-uk"
+        ],
+        "quotes": [
+          {
+            "text": "Restart your router, wait 60 seconds, then check if the lock reconnects automatically.",
+            "url": "https://iveise.com/blogs/how-to/smart-lock-not-working-10-common-problems-and-how-to-fix-them"
+          }
+        ]
+      }
+    ],
+    "secondaryKeywords": [
+      "locked out of apartment how to get in",
+      "locked out of apartment after hours",
+      "locked out of my apartment what to do",
+      "locked myself out of apartment",
+      "lockout fee apartment",
+      "locked out of apartment who to call",
+      "locked out of apartment locksmith"
+    ]
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-dehumidifier-for-small-apartment",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-smart-lock-for-renters",
+      "mode": "related-box"
+    },
+    {
+      "slug": "door-camera-for-apartment",
+      "mode": "related-box"
+    }
+  ]
+}
