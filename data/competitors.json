@@ -1,0 +1,26 @@
+{
+  "seedsSearched": {
+    "smart lock over existing deadbolt renters": "2026-10-19",
+    "peephole camera for apartment": "2026-10-19",
+    "stick on smart light switch no wiring renters": "2026-10-19",
+    "window ac smart controller": "2026-10-19",
+    "smart home hub for apartment": "2026-10-19",
+    "smart power strip for apartment": "2026-10-19",
+    "can renters install smart home devices landlord": "2026-10-19",
+    "smart lock no installation apartment": "2026-10-19",
+    "no drill curtain rod for renters": "2026-10-19",
+    "baby proofing a rental apartment without drilling": "2026-10-19",
+    "best pet products for small apartment renters": "2026-10-19",
+    "renter friendly storage ideas small apartment no drilling": "2026-10-19",
+    "renter friendly apartment decor ideas no damage": "2026-10-19",
+    "hanging shelves without drilling apartment": "2026-10-19"
+  },
+  "domains": {
+    "babyproofme.com": {"dr": 4.4, "checkedAt": "2026-10-19", "foundVia": ["baby proofing a rental apartment without drilling"], "keywordsSeen": 36, "keywordsAdded": ["best retractable baby gate", "how to baby proof outlets in use", "lazy susan child lock"]},
+    "safestartchild.com": {"dr": 7, "checkedAt": "2026-10-19", "foundVia": ["baby proofing a rental apartment without drilling"], "keywordsSeen": 1, "keywordsAdded": []},
+    "squarefootdecor.com": {"dr": 0, "checkedAt": "2026-10-19", "foundVia": ["renter friendly storage ideas small apartment no drilling", "renter friendly apartment decor ideas no damage"], "keywordsSeen": 3, "keywordsAdded": []},
+    "thesmartcave.com": {"dr": 33, "checkedAt": "2026-10-19", "foundVia": ["peephole camera for apartment"], "keywordsSeen": 0, "keywordsAdded": []},
+    "rpmallies.com": {"dr": 0.9, "checkedAt": "2026-10-19", "foundVia": ["can renters install smart home devices landlord"], "keywordsSeen": 0, "keywordsAdded": [], "note": "landlord-side property manager, off-niche, not pulled"},
+    "msevanslaw.com": {"dr": 11, "checkedAt": "2026-10-19", "foundVia": ["can renters install smart home devices landlord"], "keywordsSeen": 0, "keywordsAdded": [], "note": "law firm, off-niche, not pulled"}
+  }
+}

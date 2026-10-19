@@ -3610,5 +3610,104 @@
     "slug": "where-to-put-litter-box-in-small-apartment",
     "mergedInto": "best-litter-box-for-small-apartment",
     "lastError": "cannibalization: \"where to put litter box in small apartment\" overlaps \"best litter box for small apartment\" (100%)"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-19T06:42:45.518Z",
+    "secondaryKeywords": [
+      "best retractable baby gates",
+      "no drill retractable baby gate",
+      "mesh retractable baby gate"
+    ],
+    "questions": [],
+    "priority": 6,
+    "keyword": "best retractable baby gate",
+    "category": "baby-proofing",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Retractable Baby Gates for Renters (No Drilling Options)",
+    "cluster": "baby gates",
+    "source": "competitor-gap",
+    "rationale": "babyproofme.com (DR 4.4) ranks #1 with https://babyproofme.com/blogs/the-parenting-journal/retractable-baby-gate-the-10-best-models-for-stairs-doorways-and-hallways",
+    "competitor": {
+      "domain": "babyproofme.com",
+      "dr": 4.4,
+      "url": "https://babyproofme.com/blogs/the-parenting-journal/retractable-baby-gate-the-10-best-models-for-stairs-doorways-and-hallways",
+      "position": 1
+    },
+    "ahrefs": {
+      "volume": 350,
+      "kd": 6,
+      "source": "ahrefs site-explorer-organic-keywords us",
+      "date": "2026-10-19"
+    },
+    "slug": "best-retractable-baby-gate"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-19T06:42:45.519Z",
+    "secondaryKeywords": [
+      "best outlet covers",
+      "baby proof outlets and cords"
+    ],
+    "questions": [],
+    "priority": 6,
+    "keyword": "how to baby proof outlets in use",
+    "category": "baby-proofing",
+    "articleType": "how-to",
+    "intent": "informational",
+    "funnel": "mofu",
+    "workingTitle": "How to Baby Proof Outlets That Are In Use (Renter-Safe, No Rewiring)",
+    "cluster": "outlet safety",
+    "source": "competitor-gap",
+    "rationale": "babyproofme.com (DR 4.4) ranks #1 with https://babyproofme.com/blogs/the-parenting-journal/how-to-baby-proof-electrical-outlets-and-cords-a-comprehensive-guide",
+    "competitor": {
+      "domain": "babyproofme.com",
+      "dr": 4.4,
+      "url": "https://babyproofme.com/blogs/the-parenting-journal/how-to-baby-proof-electrical-outlets-and-cords-a-comprehensive-guide",
+      "position": 1
+    },
+    "ahrefs": {
+      "volume": 250,
+      "kd": 0,
+      "source": "ahrefs site-explorer-organic-keywords us",
+      "date": "2026-10-19"
+    },
+    "slug": "how-to-baby-proof-outlets-in-use"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-19T06:42:45.519Z",
+    "secondaryKeywords": [
+      "how to baby proof a lazy susan cabinet"
+    ],
+    "questions": [],
+    "priority": 6,
+    "keyword": "lazy susan child lock",
+    "category": "baby-proofing",
+    "articleType": "how-to",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Lazy Susan Child Locks That Work Without Drilling",
+    "cluster": "cabinet locks",
+    "source": "competitor-gap",
+    "rationale": "babyproofme.com (DR 4.4) ranks #3 with https://babyproofme.com/blogs/the-parenting-journal/how-to-baby-proof-a-lazy-susan-cabinet",
+    "competitor": {
+      "domain": "babyproofme.com",
+      "dr": 4.4,
+      "url": "https://babyproofme.com/blogs/the-parenting-journal/how-to-baby-proof-a-lazy-susan-cabinet",
+      "position": 3
+    },
+    "ahrefs": {
+      "volume": 100,
+      "kd": 0,
+      "source": "ahrefs site-explorer-organic-keywords us",
+      "date": "2026-10-19"
+    },
+    "slug": "lazy-susan-child-lock"
   }
 ]
