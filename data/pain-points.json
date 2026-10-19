@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T12:55:37.912078Z",
+  "updatedAt": "2026-10-19T12:59:01.043046Z",
   "categories": {
     "smart-locks": [
       {
@@ -1647,6 +1647,374 @@
         ],
         "coveredBy": [],
         "foundAt": "2026-10-19"
+      }
+    ],
+    "baby-proofing": [
+      {
+        "id": "baby-proofing-toddler-pulls-plug-out",
+        "pain": "Toddler keeps pulling the plug or the safety cap out of an outlet that is in use",
+        "details": "Parents of 1-3 year olds find press-fit plug caps pop out and kids unplug lamps and chargers. They tried tighter caps, zip ties and locking box covers; some ask whether the outlet itself can be swapped.",
+        "mentions": 5,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/daddit/comments/1ep0a4y/my_daughter_3_keeps_pulling_these_plug_caps_out/",
+            "platform": "reddit",
+            "title": "My daughter (3) keeps pulling these plug caps out of the outlets",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/toddlers/comments/wiogr3/help_hes_taken_the_safety_plug_covers_off_of_all/",
+            "platform": "reddit",
+            "title": "Help! He's taken the safety plug covers off of all the outlets",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/howto/comments/1gnb0bq/how_to_baby_proof_this_to_stop_child_from/",
+            "platform": "reddit",
+            "title": "How to baby proof this to stop child from unplugging?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://forums.thebump.com/discussion/8275803/pulling-cords-out-of-walls-help",
+            "platform": "forum",
+            "title": "Pulling Cords out of Walls...HELP!",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.instagram.com/reel/DTLZ65Rj7mV/?hl=en",
+            "platform": "review",
+            "title": "Has anyone else's baby figured out how to remove outlet covers",
+            "seen": "2026-10-19"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Zip tie the plug to the outlet cover so it can't be pulled out.",
+            "url": "https://www.reddit.com/r/daddit/comments/1pajr5p/baby_proofing_outlet_with_oddly_shaped_plug/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "What you want is a 2-gang outdoor outlet cover. You can throw a lock on if you want, though I usually just zip tie them.",
+            "url": "https://www.reddit.com/r/howto/comments/1gnb0bq/how_to_baby_proof_this_to_stop_child_from/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "My son has discovered the oh-so-fun activity of pulling cords out of outlets...and it's freaking me out!",
+            "url": "https://forums.thebump.com/discussion/8275803/pulling-cords-out-of-walls-help",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "how to stop toddler unplugging things",
+          "toddler keeps removing outlet covers",
+          "baby proof outlet with plug in it"
+        ],
+        "keywords": [
+          "how to baby proof outlets in use"
+        ],
+        "foundAt": "2026-10-19",
+        "coveredBy": []
+      },
+      {
+        "id": "baby-proofing-outlet-plug-covers-safe-confusion",
+        "pain": "Parents are told plug-in dummy outlet covers are a fire or choking risk and do not know what to use instead",
+        "details": "Conflicting advice: some say plug-in caps are dangerous or no longer recommended, electricians say they are fine. Parents want to know whether to use caps, box covers or tamper-resistant outlets.",
+        "mentions": 5,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/UKParenting/comments/1ljyxye/how_to_baby_baby_proof_this_outlet/",
+            "platform": "reddit",
+            "title": "How to baby baby proof this outlet?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/BeyondTheBumpUK/comments/1odw3v7/plug_socket_covers_to_use_or_not_to_use/",
+            "platform": "reddit",
+            "title": "Plug socket covers, to use or not to use?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/AskElectricians/comments/1j6k6s7/covering_a_normal_everyday_outlet_with_no_plugs/",
+            "platform": "reddit",
+            "title": "Covering a normal, everyday outlet with no plugs with a box cover",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/UKParenting/comments/1cqvqge/our_month_of_babyproofing_tips_to_baby_proof_a/",
+            "platform": "reddit",
+            "title": "Our month of babyproofing! Tips to baby proof a rental property?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.quora.com/Are-baby-outlet-covers-safe",
+            "platform": "quora",
+            "title": "Are baby outlet covers safe?",
+            "seen": "2026-10-19"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "putting those fake plugs covers in them actually are a fire risk and increase the risk of a baby.",
+            "url": "https://www.reddit.com/r/UKParenting/comments/1ljyxye/how_to_baby_baby_proof_this_outlet/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "The little plastic child proof plugs are not a fire hazard.",
+            "url": "https://www.reddit.com/r/AskElectricians/comments/1j6k6s7/covering_a_normal_everyday_outlet_with_no_plugs/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "Definitely not the plug in covers, they make the sockets more dangerous.",
+            "url": "https://www.reddit.com/r/BeyondTheBumpUK/comments/1odw3v7/plug_socket_covers_to_use_or_not_to_use/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "are outlet covers a fire hazard",
+          "are outlet plug covers safe for babies"
+        ],
+        "keywords": [
+          "how to baby proof outlets in use"
+        ],
+        "foundAt": "2026-10-19",
+        "coveredBy": []
+      },
+      {
+        "id": "baby-proofing-outlet-box-cover-wont-fit",
+        "pain": "Outlet box cover or plug cap will not fit because of an odd, recessed or oversized plug or outlet",
+        "details": "Parents with recessed boxes, big transformer plugs, IKEA lights or double outlets cannot find a cover that closes over the plug in use.",
+        "mentions": 4,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/HomeMaintenance/comments/1vja5r5/this_frustrating_outlet_is_in_my_toddlers_closet/",
+            "platform": "reddit",
+            "title": "This frustrating outlet is in my toddler's closet",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/daddit/comments/1pajr5p/baby_proofing_outlet_with_oddly_shaped_plug/",
+            "platform": "reddit",
+            "title": "Baby proofing outlet with oddly shaped plug",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/toddlers/comments/vocik3/anyone_have_any_recommendations_for_a_larger_than/",
+            "platform": "reddit",
+            "title": "Anyone have any recommendations for a larger than usual outlet cover?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/beyondthebump/comments/1ibm5ay/baby_proof_outlet_covers_for_outlets_like_this/",
+            "platform": "reddit",
+            "title": "Baby proof outlet covers for outlets like this?",
+            "seen": "2026-10-19"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "For starters, the outlet/box look too recessed for a cover to properly fit.",
+            "url": "https://www.reddit.com/r/HomeMaintenance/comments/1vja5r5/this_frustrating_outlet_is_in_my_toddlers_closet/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "For IKEA lights the block is installed sideways and I needed to shorten the outlet hole cover underneath it so it would fit...",
+            "url": "https://www.reddit.com/r/toddlers/comments/vocik3/anyone_have_any_recommendations_for_a_larger_than/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "outlet cover for large plug",
+          "baby proof outlet with bulky adapter"
+        ],
+        "keywords": [
+          "how to baby proof outlets in use"
+        ],
+        "foundAt": "2026-10-19",
+        "coveredBy": []
+      },
+      {
+        "id": "baby-proofing-renter-cant-swap-outlet-plate",
+        "pain": "Renters are unsure whether they can replace wall plates or outlets for baby proofing without the landlord",
+        "details": "Renters hear to swap in tamper-resistant outlets or plates that take covers, but worry about landlord permission and deposits; some are told to hand it to the landlord.",
+        "mentions": 5,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/howto/comments/1wjpzln/how_to_baby_proof_in_an_apartment/",
+            "platform": "reddit",
+            "title": "How to baby proof in an apartment",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/HomeMaintenance/comments/1vja5r5/this_frustrating_outlet_is_in_my_toddlers_closet/",
+            "platform": "reddit",
+            "title": "This frustrating outlet is in my toddler's closet",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/UKParenting/comments/1g1vvqa/babyproofing_in_a_rented_property/",
+            "platform": "reddit",
+            "title": "Babyproofing in a rented property?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/shitrentals/comments/1fthezl/landlord_has_said_termination_if_we_drill_for/",
+            "platform": "reddit",
+            "title": "Landlord has said termination if we drill for babyproofing",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/beyondthebump/comments/1ibm5ay/baby_proof_outlet_covers_for_outlets_like_this/",
+            "platform": "reddit",
+            "title": "Baby proof outlet covers for outlets like this?",
+            "seen": "2026-10-19"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Unscrew the plate, unscrew the cable on the back side, replace it with a blank cover. Put it back on when you move.",
+            "url": "https://www.reddit.com/r/howto/comments/1wjpzln/how_to_baby_proof_in_an_apartment/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "It definitely needs to be handled by the landlord, but please don't risk your child's safety.",
+            "url": "https://www.reddit.com/r/HomeMaintenance/comments/1vja5r5/this_frustrating_outlet_is_in_my_toddlers_closet/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "You can replace the outlet face plates with ones that will work with outlet covers.",
+            "url": "https://www.reddit.com/r/beyondthebump/comments/1ibm5ay/baby_proof_outlet_covers_for_outlets_like_this/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "can I replace outlet cover plate in apartment",
+          "baby proof outlets in rental"
+        ],
+        "keywords": [
+          "how to baby proof outlets in use",
+          "best pressure mounted baby gate for renters"
+        ],
+        "foundAt": "2026-10-19",
+        "coveredBy": [
+          "how-to-baby-proof-a-rental-without-damage"
+        ]
+      },
+      {
+        "id": "baby-proofing-tamper-resistant-outlet-swap",
+        "pain": "Parents are unsure whether their outlets are tamper-resistant and whether swapping them is worth it",
+        "details": "Commenters repeatedly advise checking for TR marking or replacing receptacles instead of buying covers; parents ask how to tell and whether it fixes outlets in use.",
+        "mentions": 4,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/daddit/comments/1ep0a4y/my_daughter_3_keeps_pulling_these_plug_caps_out/",
+            "platform": "reddit",
+            "title": "My daughter (3) keeps pulling these plug caps out",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/NewParents/comments/173z1g6/what_baby_proofing_products_are_actually_worth_it/",
+            "platform": "reddit",
+            "title": "What baby proofing products are actually worth it??",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.quora.com/Whats-the-best-way-to-make-electrical-outlets-baby-safe",
+            "platform": "quora",
+            "title": "What's the best way to make electrical outlets baby safe?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.facebook.com/groups/1427092687647542/posts/2700958276927637/",
+            "platform": "forum",
+            "title": "How to keep outlet covers on with a toddler?",
+            "seen": "2026-10-19"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Replace the outlet(s) with tamper resistant ones. That's what we did in our home.",
+            "url": "https://www.reddit.com/r/daddit/comments/1ep0a4y/my_daughter_3_keeps_pulling_these_plug_caps_out/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "Best practice is get updated tamperproof outlets installed, or install self closing outlet covers that slide shut when they don't have a plug in",
+            "url": "https://www.reddit.com/r/NewParents/comments/173z1g6/what_baby_proofing_products_are_actually_worth_it/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "Before you buy anything check to see if your outlets may be tamper resistant if not I recommend getting them swapped for tamper resistant.",
+            "url": "https://www.facebook.com/groups/1427092687647542/posts/2700958276927637/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "how to tell if outlet is tamper resistant",
+          "tamper resistant outlets rental"
+        ],
+        "keywords": [
+          "how to baby proof outlets in use"
+        ],
+        "foundAt": "2026-10-19",
+        "coveredBy": []
+      },
+      {
+        "id": "baby-proofing-cord-clutter-behind-furniture",
+        "pain": "Tangled cords and power strips at floor level are reachable by crawling babies",
+        "details": "Parents with TV stands, fireplaces and kid rooms struggle to hide cords and power strips without rewiring; they push furniture against outlets or use raceways.",
+        "mentions": 4,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/NewParents/comments/136mqw1/how_would_you_babyproof_these_cords_and_outlets/",
+            "platform": "reddit",
+            "title": "How would you babyproof these cords and outlets?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/Mommit/comments/1daige4/how_the_heck_do_you_toddler_proof_your_kids_room/",
+            "platform": "reddit",
+            "title": "How the heck do you toddler proof your kids room?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/daddit/comments/1f9jivz/toddler_proofing_outlet_box/",
+            "platform": "reddit",
+            "title": "Toddler Proofing Outlet Box",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://forums.thebump.com/discussion/8275803/pulling-cords-out-of-walls-help",
+            "platform": "forum",
+            "title": "Pulling Cords out of Walls...HELP!",
+            "seen": "2026-10-19"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "A clean solution would be to extend the outlet to above the fireplace using a raceway and raceway outlet.",
+            "url": "https://www.reddit.com/r/NewParents/comments/136mqw1/how_would_you_babyproof_these_cords_and_outlets/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "make sure all furniture is secured to the wall, hide cords behind furniture",
+            "url": "https://www.reddit.com/r/Mommit/comments/1daige4/how_the_heck_do_you_toddler_proof_your_kids_room/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "My preferred option is furniture that doesn't leave enough clearance for your toddler to climb under, or reach through to access the outlet.",
+            "url": "https://www.reddit.com/r/daddit/comments/1f9jivz/toddler_proofing_outlet_box/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "how to baby proof cords",
+          "hide cords from toddler renter"
+        ],
+        "keywords": [
+          "how to baby proof outlets in use",
+          "how to baby proof cords"
+        ],
+        "foundAt": "2026-10-19",
+        "coveredBy": []
       }
     ]
   }

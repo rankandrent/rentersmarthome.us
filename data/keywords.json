@@ -3728,7 +3728,15 @@
       "source": "ahrefs site-explorer-organic-keywords us",
       "date": "2026-10-19"
     },
-    "slug": "how-to-baby-proof-outlets-in-use"
+    "slug": "how-to-baby-proof-outlets-in-use",
+    "painPoints": [
+      "baby-proofing-toddler-pulls-plug-out",
+      "baby-proofing-outlet-plug-covers-safe-confusion",
+      "baby-proofing-outlet-box-cover-wont-fit",
+      "baby-proofing-renter-cant-swap-outlet-plate",
+      "baby-proofing-tamper-resistant-outlet-swap",
+      "baby-proofing-cord-clutter-behind-furniture"
+    ]
   },
   {
     "status": "pending",
@@ -3872,5 +3880,467 @@
       "date": "2026-10-19"
     },
     "slug": "zigbee-vs-thread"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-19T12:59:01.644Z",
+    "secondaryKeywords": [
+      "baby proof power strip",
+      "hide cords from toddler"
+    ],
+    "questions": [
+      "how do you hide cords from a crawling baby",
+      "can you baby proof cords without drilling"
+    ],
+    "priority": 6,
+    "keyword": "how to baby proof cords",
+    "category": "baby-proofing",
+    "articleType": "how-to",
+    "intent": "informational",
+    "funnel": "tofu",
+    "workingTitle": "How to Baby Proof Cords and Power Strips (Renter-Safe, No Drilling)",
+    "cluster": "outlet safety",
+    "source": "pain-point",
+    "painPoints": [
+      "baby-proofing-cord-clutter-behind-furniture",
+      "baby-proofing-toddler-pulls-plug-out"
+    ],
+    "rationale": "4 parents report reachable cords and power strips (reddit/forum)",
+    "ahrefs": {
+      "volume": 400,
+      "kd": 0,
+      "trafficPotential": 200,
+      "parentTopic": "how to baby proof cords",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-19"
+    },
+    "slug": "how-to-baby-proof-cords"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-19T12:59:01.645Z",
+    "secondaryKeywords": [
+      "are outlet plug covers safe"
+    ],
+    "questions": [
+      "are plug-in outlet covers safe",
+      "what is safer than outlet caps"
+    ],
+    "priority": 6,
+    "keyword": "are outlet covers a fire hazard",
+    "category": "baby-proofing",
+    "articleType": "how-to",
+    "intent": "informational",
+    "funnel": "tofu",
+    "workingTitle": "Are Outlet Covers a Fire Hazard? What Parents and Renters Should Use",
+    "cluster": "outlet safety",
+    "source": "pain-point",
+    "painPoints": [
+      "baby-proofing-outlet-plug-covers-safe-confusion"
+    ],
+    "rationale": "5 parents report conflicting advice on outlet cap safety (reddit/quora)",
+    "ahrefs": {
+      "volume": 40,
+      "kd": 0,
+      "trafficPotential": 0,
+      "parentTopic": "do outdoor outlets need to be covered",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-19"
+    },
+    "slug": "are-outlet-covers-a-fire-hazard"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-19T12:59:25.176Z",
+    "secondaryKeywords": [
+      "what is apple home",
+      "apple homekit for beginners"
+    ],
+    "questions": [],
+    "priority": 6,
+    "keyword": "what is homekit",
+    "category": "hubs-voice",
+    "articleType": "guide",
+    "intent": "informational",
+    "funnel": "tofu",
+    "workingTitle": "What Is HomeKit? A Renter's Guide to Apple Home in an Apartment",
+    "cluster": "voice assistants",
+    "source": "competitor-gap",
+    "rationale": "addtohomekit.com (DR 12) ranks #1 with https://www.addtohomekit.com/blog/apple-homekit/",
+    "competitor": {
+      "domain": "addtohomekit.com",
+      "dr": 12,
+      "url": "https://www.addtohomekit.com/blog/apple-homekit/",
+      "position": 1
+    },
+    "ahrefs": {
+      "volume": 2000,
+      "kd": 1,
+      "source": "ahrefs site-explorer-organic-keywords us",
+      "date": "2026-10-19"
+    },
+    "painPoints": [
+      "hubs-voice-matter-ecosystem-compat-confusion"
+    ],
+    "slug": "what-is-homekit"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-19T12:59:25.176Z",
+    "secondaryKeywords": [
+      "homekit accessories",
+      "best homekit devices"
+    ],
+    "questions": [],
+    "priority": 6,
+    "keyword": "apple homekit compatible devices",
+    "category": "hubs-voice",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "mofu",
+    "workingTitle": "Apple HomeKit Compatible Devices That Work in a Rental",
+    "cluster": "voice assistants",
+    "source": "competitor-gap",
+    "rationale": "addtohomekit.com (DR 12) ranks #6 with https://www.addtohomekit.com/blog/matter-apple-homekit/",
+    "competitor": {
+      "domain": "addtohomekit.com",
+      "dr": 12,
+      "url": "https://www.addtohomekit.com/blog/matter-apple-homekit/",
+      "position": 6
+    },
+    "ahrefs": {
+      "volume": 400,
+      "kd": 0,
+      "source": "ahrefs site-explorer-organic-keywords us",
+      "date": "2026-10-19"
+    },
+    "painPoints": [
+      "hubs-voice-matter-ecosystem-compat-confusion"
+    ],
+    "slug": "apple-homekit-compatible-devices"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-19T12:59:25.176Z",
+    "secondaryKeywords": [
+      "apple homekit door lock",
+      "best homekit smart lock",
+      "homekit smart lock",
+      "homekit smart locks",
+      "best homekit door lock"
+    ],
+    "questions": [],
+    "priority": 6,
+    "keyword": "homekit door lock",
+    "category": "smart-locks",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best HomeKit Door Locks for Renters (No Deadbolt Swap)",
+    "cluster": "smart locks",
+    "source": "competitor-gap",
+    "rationale": "addtohomekit.com (DR 12) ranks #2 with https://www.addtohomekit.com/blog/apple-home-key-compatible-locks/",
+    "competitor": {
+      "domain": "addtohomekit.com",
+      "dr": 12,
+      "url": "https://www.addtohomekit.com/blog/apple-home-key-compatible-locks/",
+      "position": 2
+    },
+    "ahrefs": {
+      "volume": 350,
+      "kd": 0,
+      "source": "ahrefs site-explorer-organic-keywords us",
+      "date": "2026-10-19"
+    },
+    "slug": "homekit-door-lock"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-19T12:59:25.176Z",
+    "secondaryKeywords": [
+      "homebridge setup"
+    ],
+    "questions": [],
+    "priority": 6,
+    "keyword": "what is homebridge",
+    "category": "hubs-voice",
+    "articleType": "guide",
+    "intent": "informational",
+    "funnel": "tofu",
+    "workingTitle": "What Is Homebridge? Do Renters Need It for HomeKit?",
+    "cluster": "voice assistants",
+    "source": "competitor-gap",
+    "rationale": "addtohomekit.com (DR 12) ranks #1 with https://www.addtohomekit.com/blog/homebridge/",
+    "competitor": {
+      "domain": "addtohomekit.com",
+      "dr": 12,
+      "url": "https://www.addtohomekit.com/blog/homebridge/",
+      "position": 1
+    },
+    "ahrefs": {
+      "volume": 300,
+      "kd": 6,
+      "source": "ahrefs site-explorer-organic-keywords us",
+      "date": "2026-10-19"
+    },
+    "painPoints": [
+      "hubs-voice-matter-ecosystem-compat-confusion"
+    ],
+    "slug": "what-is-homebridge"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-19T12:59:25.176Z",
+    "secondaryKeywords": [
+      "ring camera homekit",
+      "ring apple homekit",
+      "does ring work with homekit"
+    ],
+    "questions": [],
+    "priority": 6,
+    "keyword": "does ring work with apple homekit",
+    "category": "security",
+    "articleType": "how-to",
+    "intent": "informational",
+    "funnel": "mofu",
+    "workingTitle": "Does Ring Work With Apple HomeKit? Renter Workarounds",
+    "cluster": "apartment security",
+    "source": "competitor-gap",
+    "rationale": "addtohomekit.com (DR 12) ranks #1 with https://www.addtohomekit.com/blog/ring-homekit/",
+    "competitor": {
+      "domain": "addtohomekit.com",
+      "dr": 12,
+      "url": "https://www.addtohomekit.com/blog/ring-homekit/",
+      "position": 1
+    },
+    "ahrefs": {
+      "volume": 300,
+      "kd": 0,
+      "source": "ahrefs site-explorer-organic-keywords us",
+      "date": "2026-10-19"
+    },
+    "painPoints": [
+      "hubs-voice-matter-ecosystem-compat-confusion"
+    ],
+    "slug": "does-ring-work-with-apple-homekit"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-19T12:59:25.176Z",
+    "secondaryKeywords": [
+      "does govee work with homekit",
+      "does govee work with apple home",
+      "do govee lights work with apple home",
+      "govee apple home",
+      "how to add govee lights to apple home",
+      "is govee compatible with apple home"
+    ],
+    "questions": [],
+    "priority": 6,
+    "keyword": "govee apple homekit",
+    "category": "lighting",
+    "articleType": "how-to",
+    "intent": "informational",
+    "funnel": "mofu",
+    "workingTitle": "Govee Lights and Apple HomeKit: What Works in an Apartment",
+    "cluster": "renter lighting",
+    "source": "competitor-gap",
+    "rationale": "addtohomekit.com (DR 12) ranks #1 with https://www.addtohomekit.com/blog/govee-homekit/",
+    "competitor": {
+      "domain": "addtohomekit.com",
+      "dr": 12,
+      "url": "https://www.addtohomekit.com/blog/govee-homekit/",
+      "position": 1
+    },
+    "ahrefs": {
+      "volume": 250,
+      "kd": 0,
+      "source": "ahrefs site-explorer-organic-keywords us",
+      "date": "2026-10-19"
+    },
+    "painPoints": [
+      "hubs-voice-matter-ecosystem-compat-confusion"
+    ],
+    "slug": "govee-apple-homekit"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-19T12:59:25.176Z",
+    "secondaryKeywords": [
+      "eufy homekit camera"
+    ],
+    "questions": [],
+    "priority": 6,
+    "keyword": "eufy apple homekit",
+    "category": "security",
+    "articleType": "how-to",
+    "intent": "informational",
+    "funnel": "mofu",
+    "workingTitle": "Does Eufy Work With Apple HomeKit? Camera Options for Renters",
+    "cluster": "cameras",
+    "source": "competitor-gap",
+    "rationale": "addtohomekit.com (DR 12) ranks #8 with https://www.addtohomekit.com/blog/eufy-homekit/",
+    "competitor": {
+      "domain": "addtohomekit.com",
+      "dr": 12,
+      "url": "https://www.addtohomekit.com/blog/eufy-homekit/",
+      "position": 8
+    },
+    "ahrefs": {
+      "volume": 100,
+      "kd": 0,
+      "source": "ahrefs site-explorer-organic-keywords us",
+      "date": "2026-10-19"
+    },
+    "painPoints": [
+      "hubs-voice-matter-ecosystem-compat-confusion"
+    ],
+    "slug": "eufy-apple-homekit"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-19T12:59:25.176Z",
+    "secondaryKeywords": [
+      "simplisafe homekit"
+    ],
+    "questions": [],
+    "priority": 6,
+    "keyword": "does simplisafe work with apple home",
+    "category": "security",
+    "articleType": "how-to",
+    "intent": "informational",
+    "funnel": "mofu",
+    "workingTitle": "Does SimpliSafe Work With Apple Home? Renter Alternatives",
+    "cluster": "apartment security",
+    "source": "competitor-gap",
+    "rationale": "addtohomekit.com (DR 12) ranks #1 with https://www.addtohomekit.com/blog/simplisafe-homekit/",
+    "competitor": {
+      "domain": "addtohomekit.com",
+      "dr": 12,
+      "url": "https://www.addtohomekit.com/blog/simplisafe-homekit/",
+      "position": 1
+    },
+    "ahrefs": {
+      "volume": 100,
+      "kd": 1,
+      "source": "ahrefs site-explorer-organic-keywords us",
+      "date": "2026-10-19"
+    },
+    "painPoints": [
+      "hubs-voice-matter-ecosystem-compat-confusion"
+    ],
+    "slug": "does-simplisafe-work-with-apple-home"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-19T12:59:25.176Z",
+    "secondaryKeywords": [
+      "add nest to homekit"
+    ],
+    "questions": [],
+    "priority": 6,
+    "keyword": "nest thermostat homekit",
+    "category": "climate",
+    "articleType": "how-to",
+    "intent": "informational",
+    "funnel": "mofu",
+    "workingTitle": "Nest Thermostat and HomeKit: How to Add It in a Rental",
+    "cluster": "climate",
+    "source": "competitor-gap",
+    "rationale": "addtohomekit.com (DR 12) ranks #1 with https://www.addtohomekit.com/blog/nest-homekit/",
+    "competitor": {
+      "domain": "addtohomekit.com",
+      "dr": 12,
+      "url": "https://www.addtohomekit.com/blog/nest-homekit/",
+      "position": 1
+    },
+    "ahrefs": {
+      "volume": 90,
+      "kd": 0,
+      "source": "ahrefs site-explorer-organic-keywords us",
+      "date": "2026-10-19"
+    },
+    "painPoints": [
+      "hubs-voice-matter-ecosystem-compat-confusion"
+    ],
+    "slug": "nest-thermostat-homekit"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-19T12:59:25.176Z",
+    "secondaryKeywords": [
+      "zwave homekit"
+    ],
+    "questions": [],
+    "priority": 6,
+    "keyword": "z wave apple homekit",
+    "category": "hubs-voice",
+    "articleType": "how-to",
+    "intent": "informational",
+    "funnel": "mofu",
+    "workingTitle": "Z-Wave and Apple HomeKit: Do Renters Need a Bridge?",
+    "cluster": "voice assistants",
+    "source": "competitor-gap",
+    "rationale": "addtohomekit.com (DR 12) ranks #7 with https://www.addtohomekit.com/blog/zwave-homekit/",
+    "competitor": {
+      "domain": "addtohomekit.com",
+      "dr": 12,
+      "url": "https://www.addtohomekit.com/blog/zwave-homekit/",
+      "position": 7
+    },
+    "ahrefs": {
+      "volume": 80,
+      "kd": 0,
+      "source": "ahrefs site-explorer-organic-keywords us",
+      "date": "2026-10-19"
+    },
+    "painPoints": [
+      "hubs-voice-which-protocol-to-buy-confusion"
+    ],
+    "slug": "z-wave-apple-homekit"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-19T12:59:25.176Z",
+    "secondaryKeywords": [
+      "eufy vs reolink"
+    ],
+    "questions": [],
+    "priority": 6,
+    "keyword": "reolink vs eufy",
+    "category": "security",
+    "articleType": "comparison",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Reolink vs Eufy for Apartments: Which Camera Fits a Rental?",
+    "cluster": "cameras",
+    "source": "competitor-gap",
+    "rationale": "smarteyecctv.com (DR 12) ranks #1 with https://www.smarteyecctv.com/reolink-vs-eufy-no-subscription-comparison-2026/",
+    "competitor": {
+      "domain": "smarteyecctv.com",
+      "dr": 12,
+      "url": "https://www.smarteyecctv.com/reolink-vs-eufy-no-subscription-comparison-2026/",
+      "position": 1
+    },
+    "ahrefs": {
+      "volume": 1100,
+      "kd": 0,
+      "source": "ahrefs site-explorer-organic-keywords us",
+      "date": "2026-10-19"
+    },
+    "slug": "reolink-vs-eufy"
   }
 ]
