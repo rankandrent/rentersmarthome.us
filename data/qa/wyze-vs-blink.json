@@ -1,0 +1,16 @@
+{
+  "slug": "wyze-vs-blink",
+  "pass": false,
+  "checkedAt": "2026-10-19T13:12:25.164Z",
+  "errors": [
+    "facts not verified yet: check every product spec and claim against the sources, then run `node scripts/routine.mjs factcheck <slug> \"<notes>\"`"
+  ],
+  "warnings": [
+    "product \"Wyze Cam v4\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Blink Mini 2K+\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Blink Video Doorbell\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": false
+  }
+}

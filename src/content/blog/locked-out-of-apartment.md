@@ -489,7 +489,9 @@ A good locksmith asks for ID before opening anything. That check protects you, s
 
 If the locksmith has to drill, the landlord's cylinder is gone and your landlord needs to know the same day. Something like this works:
 
-> "Hi, I was locked out of unit 4B tonight around 11 p.m. I called the emergency maintenance line at 11:05 and got no answer, so I called a locksmith. They had to drill the deadbolt. I have the receipt. Can you tell me in writing how you want the lock replaced, and whether my lease makes me responsible for the cost?"
+> Subject: Lockout and damaged deadbolt, Unit [#]
+>
+> Hi [Name], we were locked out of Unit [#] tonight around [time]. We called the emergency maintenance line at [time] and got no answer, so we called a locksmith, who had to drill the deadbolt. We have the receipt. Could you tell us in writing how you want the lock replaced, and whether the lease makes us responsible for the cost? Thanks, [Your name]
 
 ## Locked out because of a smart lock, dead battery or app glitch
 
@@ -581,7 +583,9 @@ Renters worry most about the lease. One r/jerseycity commenter warned: ["If the 
 
 We'd send something short and specific, so the yes is easy:
 
-> "Hi, I'd like to add a retrofit smart lock to the inside of my deadbolt. It replaces only the inside thumbturn. The outside cylinder and your key stay exactly as they are, so you keep full access. I'll reinstall the original thumbturn when I move out. Could you confirm in writing that this is OK, and share the after-hours lockout number?"
+> Subject: Request to add a retrofit smart lock, Unit [#]
+>
+> Hi [Name], we'd like to add a retrofit smart lock to the inside of our deadbolt. It replaces only the inside thumbturn. The outside cylinder and your key stay exactly as they are, so you keep full access. We'll reinstall the original thumbturn when we move out. Could you confirm in writing that this is OK, and share the after-hours lockout number? Thanks, [Your name]
 
 For other renter-friendly door gear, see our guides to a [door camera for apartment renters](/blog/door-camera-for-apartment/) and [no-drill peephole cameras](/blog/best-peephole-camera-for-apartments/).
 

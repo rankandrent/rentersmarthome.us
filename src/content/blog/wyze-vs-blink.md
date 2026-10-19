@@ -404,7 +404,7 @@ Recording to a microSD card of up to 256 GB (exFAT, card sold separately), the [
 
 For a renter, this 0.12 lb camera is the easiest one to own outright. It sits on a bookcase, unplugs on move-out day and keeps footage on a card you can pull and keep. Person, vehicle, pet and package detection and 14-day cloud clips sit behind the paid Cam Plus plan, and the warranty is one year.
 
-Owners are split. A Home Depot reviewer praised its user control, color video and steady Wi-Fi compared with other cameras they had tried, and retailer summaries call the Bluetooth setup easy. The flip side is a recurring complaint in r/wyzecam threads: a V4 dropping offline at random with error code 90 on a stable network, plus stuttering SD card playback and clumsy scrubbing through card footage. We'd keep the app current and skim the subreddit before accepting a big firmware update.
+Wyze or Blink owners rarely agree, and this camera is no exception. A Home Depot reviewer praised its user control, color video and steady Wi-Fi compared with other cameras they had tried, and retailer summaries call the Bluetooth setup easy. The flip side is a recurring complaint in r/wyzecam threads: a V4 dropping offline at random with error code 90 on a stable network, plus stuttering SD card playback and clumsy scrubbing through card footage. We'd keep the app current and skim the subreddit before accepting a big firmware update.
 
 ### Blink Mini 2K+: best for Alexa and a wide view
 
@@ -426,7 +426,7 @@ Owner reports in r/blinkcameras pull both ways. One second-gen owner who posted 
 
 Both brands sell more than these three. Wyze makes the Wyze Cam Floodlight v2 and the battery-powered Wyze Cam Outdoor, and Blink makes the Blink Wired Floodlight Camera and the AA-powered Blink Outdoor. A wired floodlight camera means touching exterior electrical wiring, which needs written landlord approval in any rental, so we left both floodlights out. Older video comparisons pit the Cam v4 against the 1080p Blink Mini 2; the Mini 2K+ is Blink's current camera at that size.
 
-## Subscription and storage costs over a lease
+## Wyze vs Blink subscription and storage costs
 
 **Wyze vs Blink costs split after the free trial: Wyze records free to a microSD card, while Blink needs a paid subscription plan or a Sync Module plus a drive to save anything.** We are not quoting prices because plans change, so open each brand's plan page before you buy.
 
@@ -455,7 +455,7 @@ On both plan pages, Wyze's per-camera plan costs less each month than Blink Basi
 
 Without any plan, the Wyze camera keeps live view, motion recording to the card and its siren. A Blink camera without a plan or a storage-capable Sync Module gives you a 5-minute live view and alerts, but no saved clips and no cloud history. Over a one-year or three-year lease, that makes Wyze the cheaper camera to own, and the gap grows with every extra camera on a per-camera plan.
 
-## Video quality and night vision
+## Wyze or Blink video quality and night vision
 
 **Wyze vs Blink ties on resolution at 2560 x 1440; Blink sees wider, while Wyze is the safer bet for color video at night.** Neither number tells you much about a dim hallway, so the details matter.
 
