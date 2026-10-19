@@ -390,7 +390,7 @@ sources:
     url: >-
       https://service.eufy.com/article-description/Does-cold-weather-impact-eufy-Battery-Powered-Video-Doorbell
   - title: Argus 4 Pro product page and comparison table (Reolink)
-    url: 'https://reolink.com/us/product/argus-4-pro/'
+    url: 'https://reolink.com/product/argus-4-pro/'
   - title: Argus 4 Pro review (Reolink blog)
     url: 'https://reolink.com/blog/argus-4-pro-review/'
   - title: Eufy's no clouds cameras upload facial thumbnails to AWS (Ars Technica)
