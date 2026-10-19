@@ -1,0 +1,14 @@
+{
+  "slug": "de/aus-der-wohnung-ausgesperrt",
+  "lang": "de",
+  "translationOf": "locked-out-of-apartment",
+  "pass": true,
+  "checkedAt": "2026-10-19T13:30:53.928Z",
+  "errors": [],
+  "warnings": [],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with locked-out-of-apartment (QA-passed): 7 steps, FAQ, tldr, tables, units (9 m/30 ft, 1,9-4,4 cm), product claims, Reddit quotes translated faithfully with attribution, NYC Local Law 63 as labelled New York tenant quote with check-local-rules, no bypass description, no price/availability claims, research-not-testing note present, internal links exist. No changes needed.",
+    "at": "2026-10-19T13:30:52.067Z"
+  }
+}

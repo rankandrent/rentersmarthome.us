@@ -842,6 +842,27 @@
       "lang": "nl",
       "translationOf": "best-litter-box-for-small-apartment",
       "pubDate": "2026-10-18T20:10:00.000Z"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "de/wyze-oder-blink",
+      "lang": "de",
+      "translationOf": "wyze-vs-blink",
+      "pubDate": "2026-10-19T18:45:00.000Z"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "es/wyze-o-blink",
+      "lang": "es",
+      "translationOf": "wyze-vs-blink",
+      "pubDate": "2026-10-19T19:30:00.000Z"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "nl/wyze-of-blink",
+      "lang": "nl",
+      "translationOf": "wyze-vs-blink",
+      "pubDate": "2026-10-19T18:20:00.000Z"
     }
   ]
 }

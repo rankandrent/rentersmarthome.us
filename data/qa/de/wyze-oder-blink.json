@@ -1,0 +1,14 @@
+{
+  "slug": "de/wyze-oder-blink",
+  "lang": "de",
+  "translationOf": "wyze-vs-blink",
+  "pass": true,
+  "checkedAt": "2026-10-19T13:30:47.883Z",
+  "errors": [],
+  "warnings": [],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with the English post wyze-vs-blink (specs, table, plans, quotes, FAQ, verdict, scores, tldr, products/ASINs) and re-opened Wyze Cam v4 Tech Specs (support.wyze.com): it prints weight '0.12 lbs (222 g)', which is internally inconsistent (0.12 lb = 54 g, 222 g = 0.49 lb), so the weight claim was removed from the translation (English post still says 0.12 lb: flagged). Number diff vs English is clean except metric conversions (-20/45/50 C for -4/113/122 F). Quotes translated faithfully with attribution and (in English) link labels; no testing claims, prices, currencies or local Amazon claims; research-not-testing sentence kept; we-voice; no colon in titles; keyword matches.",
+    "at": "2026-10-19T13:30:47.208Z"
+  }
+}

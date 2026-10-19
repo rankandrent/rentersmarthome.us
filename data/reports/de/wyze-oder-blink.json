@@ -1,0 +1,17 @@
+{
+  "lang": "de",
+  "translationOf": "wyze-vs-blink",
+  "keyword": "wyze oder blink",
+  "createdAt": "2026-10-19T13:31:17.427Z",
+  "via": "claude-routine",
+  "sources": [
+    "https://support.wyze.com/hc/en-us/articles/23746258989851-Wyze-Cam-v4-Tech-Specs",
+    "https://www.wyze.com/pages/wyzeserviceplans",
+    "https://www.wyze.com/blogs/smart-home/wyze-vs-blink",
+    "https://support.blinkforhome.com/faq-mini-2k",
+    "https://support.blinkforhome.com/faq-doorbell/blink-video-doorbell-faq",
+    "https://blinkforhome.com/plans",
+    "https://www.safewise.com/home-security-systems/wyze-vs-blink-cameras/",
+    "https://www.cnet.com/home/security/blink-video-doorbell-vs-wyze-video-doorbell-pro/"
+  ]
+}

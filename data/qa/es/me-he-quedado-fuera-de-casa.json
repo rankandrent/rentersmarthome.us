@@ -1,0 +1,14 @@
+{
+  "slug": "es/me-he-quedado-fuera-de-casa",
+  "lang": "es",
+  "translationOf": "locked-out-of-apartment",
+  "pass": true,
+  "checkedAt": "2026-10-19T13:30:54.612Z",
+  "errors": [],
+  "warnings": [],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with locked-out-of-apartment (QA-passed): 7 steps, FAQ, tldr, tables, units, product claims, Reddit quotes with attribution, NYC Local Law 63 labelled New York tenant quote with check-local-rules, no bypass, no price/availability claims, research-not-testing note, links exist. Fixed: replaced Spain-specific DNI with documento de identidad (matches English ID); reviewers wording.",
+    "at": "2026-10-19T13:30:52.629Z"
+  }
+}
