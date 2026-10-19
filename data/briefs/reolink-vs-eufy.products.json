@@ -1,0 +1,178 @@
+{
+ "slug": "reolink-vs-eufy",
+ "keyword": "reolink vs eufy",
+ "articleType": "comparison",
+ "category": "security",
+ "productCount": 5,
+ "productCountDelivered": 4,
+ "status": "WEAK EVIDENCE: only 1 model (eufyCam S330) is named by 2+ readable top-10 pages. Reolink is named at family level only (Argus battery line on 3 pages, each naming a different model). Remaining products are the SERP-named candidates that the maker pages verify as current. Parent must decide whether to ship, lower productCount, or accept family-level agreement.",
+ "serpChecked": {
+  "pagesRead": [
+   "https://sipkosecurity.com/reolink-vs-eufy-security-camera-comparison-2026/",
+   "https://www.smarteyecctv.com/reolink-vs-eufy-no-subscription-comparison-2026/",
+   "https://geekvibesnation.com/reolink-vs-eufy-which-brand-suits-you-better/",
+   "https://cctvinstallgippsland.au/reolink-vs-eufy/",
+   "https://ipcamtalk.com/threads/eufy-vs-reolink-4k-camera-system-nvr.83992/",
+   "https://www.buffaloalarm.com/security-comparisons/eufy-vs-reolink"
+  ],
+  "notReadable": ["reddit r/EufyCam thread (Firecrawl unsupported, direct fetch blocked)", "facebook HomeAssistant post", "3 YouTube videos (skipped by rule; titles name Argus 3 Pro, OMVI 3i, eufy PoE Cam S4, S4 Max, TrackMix PoE)", "protectfind.com.au (scrape failed)"],
+  "noModelsNamed": ["cctvinstallgippsland.au", "ipcamtalk.com", "buffaloalarm.com"]
+ },
+ "serpProducts": [
+  {"name": "eufyCam S330 (eufyCam 3)", "pages": ["https://sipkosecurity.com/reolink-vs-eufy-security-camera-comparison-2026/", "https://www.smarteyecctv.com/reolink-vs-eufy-no-subscription-comparison-2026/", "https://geekvibesnation.com/reolink-vs-eufy-which-brand-suits-you-better/"]},
+  {"name": "Reolink Argus 4 Pro (Argus battery family named on 3 pages; this exact model on 1)", "pages": ["https://www.smarteyecctv.com/reolink-vs-eufy-no-subscription-comparison-2026/"], "familyPages": ["https://sipkosecurity.com/reolink-vs-eufy-security-camera-comparison-2026/", "https://geekvibesnation.com/reolink-vs-eufy-which-brand-suits-you-better/"]},
+  {"name": "Reolink Argus PT Ultra (1 page)", "pages": ["https://geekvibesnation.com/reolink-vs-eufy-which-brand-suits-you-better/"]},
+  {"name": "eufy SoloCam S220 (SoloCam family on 2 pages: S220 on sipko, E40 on geekvibes)", "pages": ["https://sipkosecurity.com/reolink-vs-eufy-security-camera-comparison-2026/"], "familyPages": ["https://geekvibesnation.com/reolink-vs-eufy-which-brand-suits-you-better/"]},
+  {"name": "Reolink Duo 3 PoE (1 page, wired PoE, not renter-friendly, not used)", "pages": ["https://sipkosecurity.com/reolink-vs-eufy-security-camera-comparison-2026/"]},
+  {"name": "Reolink Altas PT Ultra (1 page, not used)", "pages": ["https://geekvibesnation.com/reolink-vs-eufy-which-brand-suits-you-better/"]},
+  {"name": "eufy SoloCam E40 (1 page; not on eufy.com SoloCam lineup page now, E50/S340/S220 are, so not used)", "pages": ["https://geekvibesnation.com/reolink-vs-eufy-which-brand-suits-you-better/"]}
+ ],
+ "qualifiesStrictly": ["eufyCam S330 (eufyCam 3)"],
+ "products": [
+  {
+   "name": "eufyCam S330 (eufyCam 3)",
+   "brand": "eufy",
+   "query": "eufy Security eufyCam S330 eufyCam 3 4K solar",
+   "matchName": "eufyCam S330 eufyCam 3",
+   "badge": "Best hub-based local storage",
+   "summary": "A 4K wire-free camera with a built-in solar panel that records to a HomeBase 3 hub in your home, with no monthly fee. It suits a renter who wants face recognition and local clips and doesn't mind a base station by the router.",
+   "renterNote": "Wire-free, so it mounts on a bracket with no cabling, but the HomeBase 3 must plug in near your router and the camera is a screw-in mount, so check for a mounting spot your landlord allows. Caveat: cloud features such as thumbnail notifications send data to eufy's cloud.",
+   "pros": ["4K, 135-degree view, IP67 weatherproof, built-in solar panel (eufy)", "Records locally to HomeBase 3 (16 GB built in, up to 16 TB via a 2.5-inch drive) with no monthly fee (eufy)"],
+   "cons": ["Needs the HomeBase 3 hub, an extra plugged-in box", "Owners report HomeBase 3 connectivity trouble and sketchy detection in long-term use"],
+   "specs": {"Resolution": "4K (3840x2160)", "Field of view": "135 degrees", "Power": "Battery with integrated solar panel; 13,400 mAh battery per eufy support", "Weather rating": "IP67", "Local storage": "HomeBase 3, 16 GB built in, up to 16 TB expandable (2.5-inch SATA drive)", "Monthly fee": "None", "AI": "Face, human, vehicle and pet detection on the hub (BionicMind)", "Drilling": "Bracket mount; no wiring"},
+   "scores": {"install": 7, "reversibility": 6, "value": 6, "compatibility": 7, "portability": 6},
+   "scoreNote": "Wire-free with a bracket mount, but needs the hub and a mounting spot; local storage and no fee help value, hub reliability complaints cost points.",
+   "asin": "B0B4BZH58H",
+   "asinNote": "Candidate from Amazon search result 'eufyCam S330 (eufyCam 3), 2-Cam Kit, 4K Solar' (with HomeBase 3). Add-on camera is B0B79LHWSX, 4-cam kit B0B87W6L9X. NOT hand-checked.",
+   "asinVerified": false,
+   "owners": {
+    "read": 3,
+    "readNote": "Read from Reddit search-result excerpts only (Reddit pages are not fetchable); counts are posts whose owner text I saw.",
+    "praise": ["Picture quality and built-in solar charging", "Battery life and light weight", "Overall good experience after a year for some owners"],
+    "complaints": ["HomeBase 3 connectivity problems over time", "Detection can be sketchy"],
+    "quotes": [
+     {"text": "Been using Eufy S330s for about two years. Picture quality is great. Detection can be sketchy. HomeBase 3 developped major connectivity problems", "url": "https://www.reddit.com/r/EufyCam/comments/1hp8qwf/long_term_more_than_18_months_feedback_s330/"},
+     {"text": "Amazing battery life, built in solar panels work well (at least in the summer so far)... Lightweight. Work well with homebase 3.. Good detection", "url": "https://www.reddit.com/r/EufyCam/comments/15b8gyj/eufy_cam_3_s330_your_opinion/"},
+     {"text": "For me personally, I've had an overall good experience with my Eufy system after having it for a year.", "url": "https://www.reddit.com/r/EufyCam/comments/11psgms/eufy_cam_s330_with_home_base_3_thoughts/"}
+    ],
+    "sources": [
+     {"title": "Long Term (more than 18 months) feedback S330 - r/EufyCam", "url": "https://www.reddit.com/r/EufyCam/comments/1hp8qwf/long_term_more_than_18_months_feedback_s330/"},
+     {"title": "Eufy Cam 3 s330 - your opinion - r/EufyCam", "url": "https://www.reddit.com/r/EufyCam/comments/15b8gyj/eufy_cam_3_s330_your_opinion/"},
+     {"title": "Eufy Cam S330 with Home Base 3 - Thoughts - r/EufyCam", "url": "https://www.reddit.com/r/EufyCam/comments/11psgms/eufy_cam_s330_with_home_base_3_thoughts/"}
+    ]
+   },
+   "sources": ["https://www.eufy.com/products/t88711w1", "https://www.eufy.com/security-eufycam3", "https://service.eufy.com/article-description/Introducing-S330-eufyCam-eufyCam-3", "https://www.eufy.com/sg-en/products/t88713w1"]
+  },
+  {
+   "name": "Reolink Argus 4 Pro",
+   "brand": "Reolink",
+   "query": "Reolink Argus 4 Pro 4K solar camera",
+   "matchName": "Reolink Argus 4 Pro",
+   "badge": "Best microSD, no-hub option",
+   "summary": "A battery and solar camera with two lenses for a 180-degree, 4K-class view that records to its own microSD card, so there is no hub and no fee for local storage. It suits a renter who wants wide coverage of a balcony or porch.",
+   "renterNote": "Wire-free with a USB-C charge port, so a renter can mount it on a bracket or set it on a ledge and charge it by cable. Caveat: no infrared night vision, it uses spotlights for color night vision, and the battery is non-removable.",
+   "pros": ["180-degree dual-lens view at 5120x1440 and a microSD slot up to 512 GB (Reolink)", "No monthly fee for local storage and no hub required (Reolink)"],
+   "cons": ["Battery is non-removable and some owners report short battery life", "No infrared night vision (color night vision with spotlights only); max 15 fps"],
+   "specs": {"Resolution": "5120x1440 (8 MP) at 15 fps, dual lens", "Field of view": "180 degrees horizontal, 50 degrees vertical", "Power": "5000 mAh non-removable battery; optional Reolink Solar Panel 2 (6 W); USB-C charging", "Weather rating": "IP66", "Local storage": "microSD up to 512 GB; no monthly fee", "Wi-Fi": "2.4/5 GHz Wi-Fi 6", "Weight": "400 g", "Smart home": "Google Assistant"},
+   "scores": {"install": 8, "reversibility": 7, "value": 7, "compatibility": 6, "portability": 8},
+   "scoreNote": "Standalone, no hub, mounts on one bracket; non-removable battery and owner battery complaints limit it.",
+   "asin": "B0F189FV7K",
+   "asinNote": "Candidate from Amazon page titled 'REOLINK 4K 180 Dual-Lens 8MP Solar Camera Outdoor Wireless Argus 4 Pro'. Other Argus 4 Pro kits exist (B0GS8V58TC 3-cam, B0GHY8MXXH multi-cam). NOT hand-checked; confirm single-camera vs solar bundle.",
+   "asinVerified": false,
+   "owners": {
+    "read": 3,
+    "readNote": "Reddit search-result excerpts only; no owner praise text seen, so praise is left empty rather than invented.",
+    "praise": [],
+    "complaints": ["Short battery life, in some cases needing a USB connection", "A USB plug stopped working after months for one Argus owner"],
+    "quotes": [
+     {"text": "First problem was the battery, it only lastet 10days with the 6watt solar panel, so it's now connected to USB.", "url": "https://www.reddit.com/r/reolinkcam/comments/1psegg4/argus_4_pro/"},
+     {"text": "The battery life seems horrendous. It goes from fully charged to below usable level (whatever battery level the camera goes offline) in", "url": "https://www.reddit.com/r/reolinkcam/comments/1mnhx4t/argus_4_pro_battery_life/"},
+     {"text": "My one bad experience is the USB plug on my Argus stopped working after 8 months.", "url": "https://www.reddit.com/r/reolinkcam/comments/1gs9yqx/any_bad_experiences_with_reolink/"}
+    ],
+    "sources": [
+     {"title": "Argus 4 Pro - r/reolinkcam", "url": "https://www.reddit.com/r/reolinkcam/comments/1psegg4/argus_4_pro/"},
+     {"title": "Argus 4 Pro Battery Life - r/reolinkcam", "url": "https://www.reddit.com/r/reolinkcam/comments/1mnhx4t/argus_4_pro_battery_life/"},
+     {"title": "Any BAD experiences with Reolink? - r/reolinkcam", "url": "https://www.reddit.com/r/reolinkcam/comments/1gs9yqx/any_bad_experiences_with_reolink/"}
+    ]
+   },
+   "sources": ["https://reolink.com/us/product/argus-4-pro/", "https://reolink.com/blog/argus-4-pro-review/", "https://www.smarteyecctv.com/reolink-vs-eufy-no-subscription-comparison-2026/"]
+  },
+  {
+   "name": "Reolink Argus PT Ultra",
+   "brand": "Reolink",
+   "query": "Reolink Argus PT Ultra 4K solar pan tilt camera",
+   "matchName": "Reolink Argus PT Ultra",
+   "badge": "Best pan-and-tilt microSD camera",
+   "summary": "A 4K battery and solar camera that pans 355 degrees and tilts 140 degrees and records to a microSD card with no monthly fee. It suits a renter who wants one camera to cover a wide yard or window area.",
+   "renterNote": "Wire-free and standalone, so it needs a bracket mount but no hub and no wiring. Caveat: pan-and-tilt cameras are heavier and a bracket needs a landlord-approved spot; the older Argus PT USB-B cable does not work with it, per one owner.",
+   "pros": ["4K 8 MP with 355-degree pan and 140-degree tilt (Reolink comparison table)", "microSD up to 512 GB, Wi-Fi 6, no fee for local storage"],
+   "cons": ["Owners report delayed motion detection and Wi-Fi trouble on some units", "Digital zoom only; max 15 fps"],
+   "specs": {"Resolution": "4K 8 MP (3840x2160)", "Pan and tilt": "355 degrees pan, 140 degrees tilt", "Field of view": "110 degrees diagonal", "Power": "Rechargeable non-removable battery or solar panel", "Weather rating": "IP65", "Local storage": "microSD up to 512 GB; no monthly fee", "Wi-Fi": "2.4/5 GHz dual-band"},
+   "scores": {"install": 7, "reversibility": 7, "value": 7, "compatibility": 6, "portability": 6},
+   "scoreNote": "Standalone with a bracket mount and no hub; pan-tilt hardware is bulkier and owner detection delays cost points.",
+   "asin": "B0C2PY2KTJ",
+   "asinNote": "Candidate from Amazon page 'REOLINK Argus PT Ultra First 4K Solar Security Cameras Wireless Outdoor'. NOT hand-checked.",
+   "asinVerified": false,
+   "owners": {
+    "read": 4,
+    "readNote": "Reddit search-result excerpts only.",
+    "praise": ["One owner's only con was a non-adjustable app timer, suggesting few problems"],
+    "complaints": ["Delayed or insensitive motion detection", "Wi-Fi connection trouble reported on some units"],
+    "quotes": [
+     {"text": "I had a problem with one camera so far. My only con is the timer on the mobile and desktop apps can't be adjusted.", "url": "https://www.reddit.com/r/reolinkcam/comments/1rs5yf7/reolinks_argus_pt_ultra/"},
+     {"text": "Having delayed reaction to motion, and being insensitive to motion toward", "url": "https://www.reddit.com/r/reolinkcam/comments/1uww7oo/argus_pt_ultra_delayed_detection/"},
+     {"text": "The cameras would connect to the wifi but they were pretty much unusable.", "url": "https://www.reddit.com/r/reolinkcam/comments/1i54ayu/argus_pt_ultra_wifi_issues/"},
+     {"text": "My Argus PT has the older USB B wire which is fed through the soffit to the cam and won't work with the Ultra.", "url": "https://www.reddit.com/r/reolinkcam/comments/16hbqr7/reolink_argus_pt_ultra_review/"}
+    ],
+    "sources": [
+     {"title": "Reolinks Argus PT Ultra - r/reolinkcam", "url": "https://www.reddit.com/r/reolinkcam/comments/1rs5yf7/reolinks_argus_pt_ultra/"},
+     {"title": "Argus PT Ultra - Delayed Detection - r/reolinkcam", "url": "https://www.reddit.com/r/reolinkcam/comments/1uww7oo/argus_pt_ultra_delayed_detection/"},
+     {"title": "Argus PT Ultra wifi issues - r/reolinkcam", "url": "https://www.reddit.com/r/reolinkcam/comments/1i54ayu/argus_pt_ultra_wifi_issues/"},
+     {"title": "Reolink Argus PT Ultra Review - r/reolinkcam", "url": "https://www.reddit.com/r/reolinkcam/comments/16hbqr7/reolink_argus_pt_ultra_review/"}
+    ]
+   },
+   "sources": ["https://reolink.com/us/product/argus-4-pro/", "https://geekvibesnation.com/reolink-vs-eufy-which-brand-suits-you-better/"]
+  },
+  {
+   "name": "eufy SoloCam S220",
+   "brand": "eufy",
+   "query": "eufy Security SoloCam S220 solar security camera",
+   "matchName": "eufy SoloCam S220",
+   "badge": "Best no-hub eufy for renters",
+   "summary": "A small 2K solar camera with 8 GB of built-in storage that works on its own over Wi-Fi, with no hub and no monthly fee. It suits a renter who wants the cheapest eufy route to local clips.",
+   "renterNote": "Standalone and wire-free, so it mounts on a small bracket with no hub and no wiring (a no-drill pick on the sipko page). Caveat: 2.4 GHz Wi-Fi only, no pan or tilt, and cloud features send thumbnails to eufy's cloud.",
+   "pros": ["Works standalone with 8 GB built-in storage and no monthly fee (eufy)", "Integrated 0.9 W solar panel, and optional HomeBase S380 compatibility"],
+   "cons": ["Many owners report battery drain, in some cases after an app update", "2K only, digital zoom, 2.4 GHz Wi-Fi only, no infrared night vision"],
+   "specs": {"Resolution": "2K (2304x1296)", "Field of view": "135 degrees", "Viewing distance": "7 m (25 ft)", "Power": "Built-in battery with integrated 0.9 W solar panel", "Local storage": "Built-in 8 GB eMMC; HomeBase S380 compatible", "Wi-Fi": "2.4 GHz only", "Operating temperature": "-4 F to 122 F", "Monthly fee": "None", "AI": "Motion and human detection"},
+   "scores": {"install": 9, "reversibility": 8, "value": 8, "compatibility": 6, "portability": 9},
+   "scoreNote": "No hub, small bracket mount, easy to move; 2K image and owner battery complaints limit it.",
+   "asin": "B0BZ55JZ4S",
+   "asinNote": "Candidate from Amazon page 'eufy Security SoloCam S220, Solar Security Camera ... 2K Resolution, Continuous Power, Built-in 8GB, No Subscription, HomeBase 3 Compatible'. A Renewed listing is B0C8Z5NK7C; 3-pack B0CTZTYTYS. NOT hand-checked.",
+   "asinVerified": false,
+   "owners": {
+    "read": 6,
+    "readNote": "Reddit search-result excerpts only.",
+    "praise": ["Solar charging works well for some owners", "Battery was great for a while on Optimized Surveillance"],
+    "complaints": ["Sudden battery drain, some after an app change", "Solar panel stopped charging for some units"],
+    "quotes": [
+     {"text": "I have 3 SoloCam S220s. Last month, after the App Change, all are suddenly draining at an unacceptable rate (More than 50% drain in less", "url": "https://www.reddit.com/r/EufyCam/comments/1joieux/eufy_supports_response_about_solocam_s220_battery/"},
+     {"text": "Same problem, I have 2 s220's and both are showing similar levels of battery drain, about 45% daily loss on the chart in the app.", "url": "https://www.reddit.com/r/EufyCam/comments/1jdih0n/battery_drops_drastically_s220_solocam/"},
+     {"text": "The battery has been great. Over 90% while set to Optimized Surveillance. The last couple of weeks it's went to crap.", "url": "https://www.reddit.com/r/EufyCam/comments/1jqgpqi/solocam_s220_battery_level_lately_is_an_external/"},
+     {"text": "Solar Charging: The solar panels on the S340 and S220 are doing an excellent job.", "url": "https://www.reddit.com/r/EufyCam/comments/1gxdi49/my_eufy_cam_setup_71_days_in_heres_my_honest/"},
+     {"text": "The solar panel is no longer charging the camera, even after cleaning it, confirming the firmware is up to date,", "url": "https://www.reddit.com/r/EufyCam/comments/1ugbdj5/hello_i_was_thinking_of_buying_this_camera/"},
+     {"text": "Overall though, the only thing that has annoyed me about the experience is the battery life", "url": "https://www.reddit.com/r/EufyCam/comments/1jcq0yv/thoughts_about_eufy_cam_outdoor_cameras220/"}
+    ],
+    "sources": [
+     {"title": "Eufy Support's Response about SoloCam S220 Battery Drainage - r/EufyCam", "url": "https://www.reddit.com/r/EufyCam/comments/1joieux/eufy_supports_response_about_solocam_s220_battery/"},
+     {"title": "Battery drops drastically S220 Solocam - r/EufyCam", "url": "https://www.reddit.com/r/EufyCam/comments/1jdih0n/battery_drops_drastically_s220_solocam/"},
+     {"title": "Solocam S220 battery level lately - r/EufyCam", "url": "https://www.reddit.com/r/EufyCam/comments/1jqgpqi/solocam_s220_battery_level_lately_is_an_external/"},
+     {"title": "My Eufy Cam Setup 71 Days In - r/EufyCam", "url": "https://www.reddit.com/r/EufyCam/comments/1gxdi49/my_eufy_cam_setup_71_days_in_heres_my_honest/"},
+     {"title": "Hello, I was thinking of buying this camera - r/EufyCam", "url": "https://www.reddit.com/r/EufyCam/comments/1ugbdj5/hello_i_was_thinking_of_buying_this_camera/"},
+     {"title": "Thoughts about eufy cam outdoor camera S220 - r/EufyCam", "url": "https://www.reddit.com/r/EufyCam/comments/1jcq0yv/thoughts_about_eufy_cam_outdoor_cameras220/"}
+    ]
+   },
+   "sources": ["https://www.eufy.com/solocam", "https://sipkosecurity.com/reolink-vs-eufy-security-camera-comparison-2026/"]
+  }
+ ],
+ "notFound": "A fifth product was not added: Reolink Duo 3 PoE and Altas PT Ultra are named on only one page each (Duo 3 is wired PoE), eufy SoloCam E40 is no longer on eufy.com's SoloCam page, and S340 / Argus 3 Pro / Indoor Cam are named on no readable top-10 page (Argus 3 Pro only in a YouTube video title)."
+}
