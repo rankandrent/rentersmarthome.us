@@ -1,0 +1,17 @@
+{
+  "slug": "reolink-vs-eufy",
+  "pass": false,
+  "checkedAt": "2026-10-19T13:16:42.660Z",
+  "errors": [
+    "facts not verified yet: check every product spec and claim against the sources, then run `node scripts/routine.mjs factcheck <slug> \"<notes>\"`"
+  ],
+  "warnings": [
+    "product \"eufyCam S330 (eufyCam 3)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Reolink Argus 4 Pro\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Reolink Argus PT Ultra\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"eufy SoloCam S220\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": false
+  }
+}
