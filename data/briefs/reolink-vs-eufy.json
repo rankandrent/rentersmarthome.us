@@ -1,0 +1,459 @@
+{
+  "centralEntity": "Reolink vs Eufy wireless security cameras for renters",
+  "entityVariants": [
+    "reolink vs eufy",
+    "eufy vs reolink",
+    "Reolink or Eufy",
+    "Eufy against Reolink",
+    "reolink eufy comparison"
+  ],
+  "entities": [
+    {
+      "name": "Reolink",
+      "type": "brand",
+      "relation": "camera maker; PoE, Wi-Fi, 4G and solar lines, microSD and NVR storage"
+    },
+    {
+      "name": "eufy Security (Anker)",
+      "type": "brand",
+      "relation": "camera maker; hub-based local storage and BionicMind AI"
+    },
+    {
+      "name": "eufyCam S330",
+      "type": "product",
+      "relation": "4K solar camera on HomeBase 3"
+    },
+    {
+      "name": "Reolink Argus 4 Pro",
+      "type": "product",
+      "relation": "battery/solar camera with microSD"
+    },
+    {
+      "name": "Reolink Argus PT Ultra",
+      "type": "product",
+      "relation": "pan-tilt 4K battery camera"
+    },
+    {
+      "name": "eufy SoloCam S220",
+      "type": "product",
+      "relation": "hubless solar camera with microSD"
+    },
+    {
+      "name": "HomeBase 3",
+      "type": "hardware",
+      "relation": "eufy local storage hub"
+    },
+    {
+      "name": "microSD card",
+      "type": "hardware",
+      "relation": "Reolink and SoloCam on-device storage"
+    },
+    {
+      "name": "NVR",
+      "type": "hardware",
+      "relation": "Reolink wired recording box"
+    },
+    {
+      "name": "PoE",
+      "type": "standard",
+      "relation": "wired power option, rarely renter friendly"
+    },
+    {
+      "name": "Matter",
+      "type": "standard",
+      "relation": "smart home standard both brands belong to via CSA"
+    },
+    {
+      "name": "Alexa / Google Home / HomeKit",
+      "type": "platform",
+      "relation": "assistant integrations"
+    },
+    {
+      "name": "eufy 2022 cloud thumbnail controversy",
+      "type": "event",
+      "relation": "privacy concern; state only as sourced fact"
+    },
+    {
+      "name": "lease camera clause",
+      "type": "legal concept",
+      "relation": "landlord rules on cameras"
+    },
+    {
+      "name": "solar panel",
+      "type": "hardware",
+      "relation": "keeps battery topped up"
+    }
+  ],
+  "attributes": [
+    "monthly fee",
+    "local storage",
+    "video resolution 4K",
+    "battery life",
+    "solar charging",
+    "install method no drill",
+    "hub required",
+    "AI detection",
+    "night vision",
+    "app experience",
+    "smart home integration",
+    "privacy and cloud",
+    "weatherproofing",
+    "price",
+    "cold weather performance",
+    "landlord approval"
+  ],
+  "ngrams": [
+    "reolink vs eufy",
+    "eufy vs reolink",
+    "local storage",
+    "no monthly fee",
+    "security camera",
+    "4k camera",
+    "battery life",
+    "microsd card",
+    "solar panel",
+    "smart home",
+    "video quality",
+    "night vision",
+    "person detection",
+    "cloud storage",
+    "wireless camera"
+  ],
+  "skipgrams": [
+    "Reolink\u2026microSD",
+    "eufy\u2026HomeBase",
+    "no\u2026subscription",
+    "local\u2026storage",
+    "4K\u2026solar",
+    "battery\u2026cold",
+    "camera\u2026landlord",
+    "cloud\u2026privacy",
+    "wire-free\u2026bracket",
+    "face\u2026recognition"
+  ],
+  "nlpTerms": [
+    "subscription",
+    "microSD",
+    "HomeBase",
+    "NVR",
+    "PoE",
+    "BionicMind",
+    "solar",
+    "pan-tilt",
+    "two-way talk",
+    "motion detection",
+    "person detection",
+    "IP65",
+    "IP67",
+    "Wi-Fi 6",
+    "2.4 GHz",
+    "local storage",
+    "end-to-end encryption",
+    "cloud",
+    "bracket",
+    "mount",
+    "lease",
+    "landlord",
+    "wire-free",
+    "RTSP",
+    "ONVIF",
+    "Alexa",
+    "Google Home",
+    "HomeKit",
+    "Matter"
+  ],
+  "questions": [
+    "Is Reolink or Eufy better for renters?",
+    "Does Reolink or Eufy require a monthly subscription?",
+    "Which is better, Eufy or Reolink, for video quality?",
+    "Is Eufy safe after the 2022 cloud thumbnail controversy?",
+    "Can I use a Reolink or Eufy camera without drilling?",
+    "Does Reolink work with Alexa, Google Home and HomeKit?",
+    "How long does the battery last on Reolink and Eufy cameras?",
+    "Can a landlord stop me from installing a security camera?",
+    "Does Eufy need a HomeBase hub and does Reolink?",
+    "What happens to battery cameras in cold weather?"
+  ],
+  "contentGaps": [
+    "Which model fits a renter with no wiring and no drilling, not a house owner",
+    "Lease and landlord approval before mounting a camera, and restoring walls on move-out",
+    "Honest mounting options: bracket screws vs adhesive or door-frame mounts per model",
+    "Cold-weather battery behaviour per model, sourced",
+    "Sourced note on eufy's 2022 cloud thumbnail controversy and what changed, with Reolink's cloud/privacy posture",
+    "Real subscription cost: what is free vs paid on each brand",
+    "Hub vs no-hub tradeoff in a small apartment near the router"
+  ],
+  "painPoints": [
+    {
+      "id": "security-cloud-subscription-fees",
+      "pain": "Cameras need a monthly subscription to be useful; renters want no-fee options",
+      "details": "Buyers resent fees for cloud video and look for SD-card or local storage cameras such as Wyze, Eufy or Reolink.",
+      "sources": [
+        "https://www.reddit.com/r/BuyItForLife/comments/1n94pqy/why_did_we_accept_that_security_cameras_need/",
+        "https://www.reddit.com/r/homeowners/comments/1ot0xm0/home_security_cameras_without_monthly_payment/",
+        "https://www.reddit.com/r/homeautomation/comments/1nrmayb/what_are_my_options_for_a_good_security_camera/",
+        "https://www.cnet.com/home/security/best-home-security-cameras-without-subscriptions/"
+      ],
+      "quotes": [
+        {
+          "text": "Subscription not required to record to SD card and view via your cell phone.",
+          "url": "https://www.reddit.com/r/homeowners/comments/1ot0xm0/home_security_cameras_without_monthly_payment/"
+        },
+        {
+          "text": "Reolink is a good call for no subscription.",
+          "url": "https://www.reddit.com/r/homeautomation/comments/1nrmayb/what_are_my_options_for_a_good_security_camera/"
+        }
+      ]
+    },
+    {
+      "id": "security-camera-cloud-privacy-concerns",
+      "pain": "Owners distrust camera cloud privacy after reports of exposed footage or thumbnails",
+      "details": "Indoor camera buyers worry about cloud access, hacking and brands that use the cloud even for local storage.",
+      "sources": [
+        "https://www.reddit.com/r/BuyItForLife/comments/1n94pqy/why_did_we_accept_that_security_cameras_need/",
+        "https://www.reddit.com/r/privacytoolsIO/comments/p4wfh0/privacy_friendly_security_cameras/",
+        "https://www.thesmarthomehookup.com/indoor-cameras-reviewed-and-tested-for-privacy-concerns/"
+      ],
+      "quotes": [
+        {
+          "text": "Eufy (anker) cameras store locally but still use cloud for login.",
+          "url": "https://www.reddit.com/r/privacytoolsIO/comments/p4wfh0/privacy_friendly_security_cameras/"
+        }
+      ]
+    },
+    {
+      "id": "security-landlord-bans-cameras-doorbells",
+      "pain": "Lease or landlord forbids doorbell cameras or personal cameras and renter fears enforcement",
+      "details": "Renters ask whether a lease clause banning cameras is enforceable and what happens if they install a temporary device anyway.",
+      "sources": [
+        "https://www.reddit.com/r/Apartmentliving/comments/1ebelua/ring_doorbells_not_allowed/",
+        "https://www.reddit.com/r/LandlordLove/comments/1ef2zou/can_landlord_say_we_cant_have_cameras/",
+        "https://www.reddit.com/r/legaladvicecanada/comments/1iy8q6v/is_it_legal_for_my_landlord_to_prohibit_the_use/",
+        "https://www.reddit.com/r/Ring/comments/17ct3sk/apartment_complex_wont_allow_ring_doorbell_after/",
+        "https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/"
+      ],
+      "quotes": [
+        {
+          "text": "If there is any mention of no cameras then your landlord can enforce that however the law allows",
+          "url": "https://www.reddit.com/r/LandlordLove/comments/1ef2zou/can_landlord_say_we_cant_have_cameras/"
+        },
+        {
+          "text": "Make sure it's legal and not excluded in your lease.",
+          "url": "https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/"
+        }
+      ]
+    },
+    {
+      "id": "security-no-drill-doorbell-mount",
+      "pain": "Renters cannot drill the door or exterior wall to mount a doorbell camera",
+      "details": "Renters need tape, clip-on or door-frame mounts that leave no marks; some buildings forbid drilling on the exterior.",
+      "sources": [
+        "https://www.reddit.com/r/Ring/comments/184g6hd/what_are_your_thoughts_on_putting_up_a_ring/",
+        "https://gatewise.com/blog/ring-doorbell-for-apartments",
+        "https://www.youtube.com/watch?v=FH6RPHb8ykk"
+      ],
+      "quotes": [
+        {
+          "text": "No drilling required which is needed at my apartment because they don't allow drilling to the exterior.",
+          "url": "https://www.reddit.com/r/Ring/comments/184g6hd/what_are_your_thoughts_on_putting_up_a_ring/"
+        }
+      ]
+    },
+    {
+      "id": "security-battery-drain-cold",
+      "pain": "Battery doorbell drains fast or shuts off in cold weather",
+      "details": "Owners see battery drop quickly after install and manufacturers confirm cold limits.",
+      "sources": [
+        "https://service.eufy.com/article-description/Does-cold-weather-impact-eufy-Battery-Powered-Video-Doorbell",
+        "https://community.arlo.com/t5/Arlo-Video-Doorbell-Wire-Free/Poor-Battery-Life-new-Wire-Free-Doorbell/td-p/1804027",
+        "https://cpisecurity.com/blog/how-cold-weather-affects-your-cpi-security-devices/"
+      ],
+      "quotes": [
+        {
+          "text": "First 24 hours installed battery discharged from 99% to 77%.",
+          "url": "https://community.arlo.com/t5/Arlo-Video-Doorbell-Wire-Free/Poor-Battery-Life-new-Wire-Free-Doorbell/td-p/1804027"
+        },
+        {
+          "text": "Cold weather can drain batteries, fog up lenses, and trigger false alarms.",
+          "url": "https://cpisecurity.com/blog/how-cold-weather-affects-your-cpi-security-devices/"
+        }
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "h2": "Reolink vs Eufy at a glance for renters",
+      "intent": "direct answer and verdict",
+      "h3": [
+        "Quick verdict by renter situation",
+        "Side-by-side comparison table"
+      ]
+    },
+    {
+      "h2": "The four cameras we compared",
+      "intent": "product picks",
+      "h3": [
+        "eufyCam S330: hub-based 4K solar",
+        "Reolink Argus 4 Pro: microSD battery camera",
+        "Reolink Argus PT Ultra: pan-tilt coverage",
+        "eufy SoloCam S220: hubless solar"
+      ]
+    },
+    {
+      "h2": "Video quality, night vision and AI detection",
+      "intent": "feature comparison",
+      "h3": [
+        "Resolution and field of view",
+        "Person, vehicle and face detection"
+      ]
+    },
+    {
+      "h2": "Storage and subscription fees",
+      "intent": "cost comparison",
+      "h3": [
+        "Local storage: hub vs microSD vs NVR",
+        "What is free and what needs a plan"
+      ]
+    },
+    {
+      "h2": "Battery, solar and power",
+      "intent": "feature comparison",
+      "h3": [
+        "Battery life and solar charging",
+        "Cold-weather battery drain"
+      ]
+    },
+    {
+      "h2": "Apps and smart home support",
+      "intent": "ecosystem",
+      "h3": [
+        "App experience",
+        "Alexa, Google Home, HomeKit and Matter"
+      ]
+    },
+    {
+      "h2": "Renter problems and the fix",
+      "intent": "pain points",
+      "h3": [
+        "Landlord rules on cameras",
+        "Mounting without drilling",
+        "Monthly fees and local storage",
+        "Cloud privacy and the eufy 2022 thumbnail controversy",
+        "Battery drain in cold weather"
+      ]
+    },
+    {
+      "h2": "Which should you buy",
+      "intent": "decision",
+      "h3": [
+        "Choose Reolink if",
+        "Choose eufy if"
+      ]
+    },
+    {
+      "h2": "Reolink vs Eufy FAQ",
+      "intent": "PAA",
+      "h3": [
+        "Is Reolink or Eufy better for renters?",
+        "Does Reolink or Eufy require a monthly subscription?",
+        "Which is better, Eufy or Reolink, for video quality?",
+        "Is Eufy safe after the 2022 cloud thumbnail controversy?",
+        "Can I use a Reolink or Eufy camera without drilling?",
+        "Does Reolink work with Alexa, Google Home and HomeKit?"
+      ]
+    }
+  ],
+  "targetWords": 2300,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://sipkosecurity.com/reolink-vs-eufy-security-camera-comparison-2026/",
+      "https://www.smarteyecctv.com/reolink-vs-eufy-no-subscription-comparison-2026/",
+      "https://ipcamtalk.com/threads/eufy-vs-reolink-4k-camera-system-nvr.83992/",
+      "https://cctvinstallgippsland.au/reolink-vs-eufy/",
+      "https://geekvibesnation.com/reolink-vs-eufy-which-brand-suits-you-better/",
+      "https://www.buffaloalarm.com/security-comparisons/eufy-vs-reolink"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "Top comparison pages are brand-vs-brand prose with a short pros/cons per brand and an at-a-glance table; few present per-model spec tables, and our 4 models need context for renters, so a review paragraph each fits.",
+    "avgWords": 2000,
+    "avgProducts": 3,
+    "commonSections": [
+      "brand overview",
+      "at a glance comparison table",
+      "video quality",
+      "storage and subscription",
+      "app and AI features",
+      "pros and cons per brand",
+      "verdict or which to choose"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": false,
+    "usesBuyingGuide": false
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.reddit.com/r/EufyCam/comments/1hzjvw4/eufy_vs_reolink/",
+      "title": "Eufy vs Reolink? : r/EufyCam - Reddit"
+    },
+    {
+      "position": 2,
+      "url": "https://sipkosecurity.com/reolink-vs-eufy-security-camera-comparison-2026/",
+      "title": "Reolink vs Eufy: The Security Camera Comparison You Need (2026 Guide)"
+    },
+    {
+      "position": 3,
+      "url": "https://www.youtube.com/watch?v=V8aRoPKG7Vw",
+      "title": "Reolink OMVI 3i vs eufy PoE Cam S4 - YouTube"
+    },
+    {
+      "position": 4,
+      "url": "https://www.smarteyecctv.com/reolink-vs-eufy-no-subscription-comparison-2026/",
+      "title": "Reolink vs. Eufy: The Ultimate No-Subscription Showdown (2026)"
+    },
+    {
+      "position": 5,
+      "url": "https://www.facebook.com/groups/HomeAssistant/posts/3805766759694666/",
+      "title": "What are the pros and cons of REOLINK vs EUFY doorbell camera?"
+    },
+    {
+      "position": 6,
+      "url": "https://www.youtube.com/watch?v=LhMKZ_jxREA",
+      "title": "EUFY 2C vs TAPO c425 vs REOLINK ARGUS 3 PRO - YouTube"
+    },
+    {
+      "position": 7,
+      "url": "https://ipcamtalk.com/threads/eufy-vs-reolink-4k-camera-system-nvr.83992/",
+      "title": "Eufy vs Reolink 4k camera system & NVR - IP Cam Talk"
+    },
+    {
+      "position": 8,
+      "url": "https://cctvinstallgippsland.au/reolink-vs-eufy/",
+      "title": "Reolink vs Eufy | CCTV Security Install Gippsland"
+    },
+    {
+      "position": 9,
+      "url": "https://geekvibesnation.com/reolink-vs-eufy-which-brand-suits-you-better/",
+      "title": "Reolink vs. Eufy: Which Brand Suits You Better? - Geek Vibes Nation"
+    },
+    {
+      "position": 10,
+      "url": "https://www.youtube.com/watch?v=3j4zGqr2IfM",
+      "title": "Comparison of PTZ: Eufy S4 Max vs Reolink TrackMix PoE - YouTube"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": "4 of 10 start with Reolink vs/Eufy vs (plus reversed order on 3 more); only 4 use exact 'reolink vs eufy' first",
+    "withYear": "2 (2026)",
+    "withNumber": "0",
+    "commonModifiers": [
+      "Comparison",
+      "Ultimate",
+      "No-Subscription",
+      "Which Brand",
+      "Guide",
+      "2026"
+    ],
+    "gap": "No result targets renters (no drilling, landlord approval, lease-safe mounting) or names specific current models"
+  }
+}
