@@ -1,6 +1,6 @@
 ---
-title: 'Beste deurspion camera voor appartementen – veilig zonder boren'
-seoTitle: 'Deurspion camera voor appartementen (2026) – 4 zonder boren'
+title: Beste deurspion camera voor appartementen – veilig zonder boren
+seoTitle: Deurspion camera voor appartementen (2026) – 4 zonder boren
 description: >-
   Een deurspion camera maakt van het spionnetje in je voordeur een video
   deurbel. Dit zijn de beste huurdersvriendelijke modellen en alternatieven
@@ -34,15 +34,15 @@ funnel: bofu
 readingTime: 8
 tldr:
   - >-
-    Een deurspion camera vervangt de bestaande deurspion in je deur en werkt
-    als een video deurbel, zonder boren en zonder bedrading.
+    Een deurspion camera vervangt de bestaande deurspion in je deur en werkt als
+    een video deurbel, zonder boren en zonder bedrading.
   - >-
     De Ring Peephole Cam is voor de meeste appartementen de beste deurspion
     camera, omdat hij door het bestaande spiongat wordt geplaatst en binnen een
     gewone kijkspion houdt.
   - >-
-    Bewaar de originele deurspion; terugplaatsen kost op de dag dat je
-    verhuist ongeveer vijf minuten.
+    Bewaar de originele deurspion; terugplaatsen kost op de dag dat je verhuist
+    ongeveer vijf minuten.
   - >-
     Heeft je deur geen spion, dan is een binnencamera gericht op de deur de
     beste huurdersvriendelijke optie daarna.
@@ -55,8 +55,8 @@ products:
       De bekendste deurspion camera. Hij vervangt je bestaande deurspion en
       voegt HD-video, tweewegaudio en klopdetectie toe.
     renterNote: >-
-      Wordt zonder boren of bedrading door het bestaande spiongat geplaatst;
-      zet de originele spion terug als je vertrekt.
+      Wordt zonder boren of bedrading door het bestaande spiongat geplaatst; zet
+      de originele spion terug als je vertrekt.
     pros:
       - Gebruikt het gat dat al in de deur zit
       - Klopdetectie waarschuwt als iemand op de deur klopt
@@ -98,17 +98,21 @@ products:
     owners:
       read: 7
       praise:
-        - 'Past in bestaande spionnen en is klein, met de accu aan de binnenkant van de deur'
+        - >-
+          Past in bestaande spionnen en is klein, met de accu aan de binnenkant
+          van de deur
         - Eenvoudige montage en goede beeldkwaliteit volgens kopers bij Best Buy
         - 'Accu eenvoudig te wisselen, 1080p-video'
       complaints:
         - >-
-          Accuduur aan drukke straten ver onder de opgave, in één geval
-          ongeveer 6 tot 8 weken
+          Accuduur aan drukke straten ver onder de opgave, in één geval ongeveer
+          6 tot 8 weken
         - >-
           Live view die uitvalt en kabelproblemen in forumberichten; geen
           persoonsdetectie, abonnement nodig
-        - Sommige kopers bij Best Buy noemen een trage reactie of compatibiliteitsproblemen
+        - >-
+          Sommige kopers bij Best Buy noemen een trage reactie of
+          compatibiliteitsproblemen
       sources:
         - title: 'Ring Peephole Cam review, Security.org'
           url: 'https://www.security.org/doorbell-camera/ring/review/door-view-cam'
@@ -130,9 +134,9 @@ products:
       je verhuurder een deurbel op het kozijn toestaat of als je een houder
       zonder boren gebruikt.
     renterNote: >-
-      Werkt op een accu, zonder bedrading; combineer hem met een
-      deurbelhouder zonder boren die om de deur klemt in plaats van in het
-      kozijn te worden geschroefd.
+      Werkt op een accu, zonder bedrading; combineer hem met een deurbelhouder
+      zonder boren die om de deur klemt in plaats van in het kozijn te worden
+      geschroefd.
     pros:
       - Hoger beeld van top tot teen
       - 'Oplaadbare accu, geen deurbelbedrading nodig'
@@ -142,8 +146,8 @@ products:
       - Zichtbaar vanuit de gang (sommige gebouwen beperken dat)
     asin: B0FHJ7TKZM
     image:
-      url: 'https://m.media-amazon.com/images/I/21lc6l7V1ZL._SL500_.jpg'
-      width: 313
+      url: 'https://m.media-amazon.com/images/I/31+qDXAyhzL._SL500_.jpg'
+      width: 394
       height: 500
     gallery:
       - url: 'https://m.media-amazon.com/images/I/314PqGk2KCL._SL500_.jpg'
@@ -238,9 +242,13 @@ products:
       read: 4
       praise:
         - Goede beeldkwaliteit en eenvoudige installatie
-        - 'Goede prijs-kwaliteitverhouding, persoonsdetectie vermindert valse meldingen'
+        - >-
+          Goede prijs-kwaliteitverhouding, persoonsdetectie vermindert valse
+          meldingen
       complaints:
-        - Verbindingen die wegvallen en een herstart nodig hebben, volgens sommige Best Buy-kopers
+        - >-
+          Verbindingen die wegvallen en een herstart nodig hebben, volgens
+          sommige Best Buy-kopers
         - >-
           Trage bewegingsmeldingen, valse meldingen en een abonnement nodig voor
           geavanceerde functies
@@ -260,8 +268,8 @@ products:
       Een voordelige binnencamera die op microSD opneemt, zodat je bijhoudt wat
       er bij de deur gebeurt zonder maandabonnement.
     renterNote: >-
-      Vrijstaande magnetische voet; zet hem op een plank gericht op de
-      ingang, zonder iets te monteren.
+      Vrijstaande magnetische voet; zet hem op een plank gericht op de ingang,
+      zonder iets te monteren.
     pros:
       - Neemt op naar een microSD-kaart
       - Scherp nachtzicht
@@ -338,8 +346,8 @@ faqs:
     a: >-
       Een deurspion camera is meestal toegestaan als hij je eigen voordeur
       filmt, maar sommige gebouwen beperken apparaten die gedeelde gangen
-      opnemen. Controleer je huurcontract en het huishoudelijk reglement van
-      het gebouw, en richt nooit een camera op de woning van een buur.
+      opnemen. Controleer je huurcontract en het huishoudelijk reglement van het
+      gebouw, en richt nooit een camera op de woning van een buur.
   - q: Moet je boren voor een deurspion camera?
     a: >-
       Nee. Een deurspion camera zoals de Ring Peephole Cam wordt geplaatst door

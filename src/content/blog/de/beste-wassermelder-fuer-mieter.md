@@ -1,6 +1,6 @@
 ---
-title: Die 3 besten Wassermelder für Mieter (ohne Bohren, 2026)
-seoTitle: 'Wassermelder für Mieter (2026) – 3 Modelle ohne Bohren'
+title: 'Die 3 besten Wassermelder für Mieter (ohne Bohren, 2026)'
+seoTitle: Wassermelder für Mieter (2026) – 3 Modelle ohne Bohren
 description: >-
   Wassermelder für Mieter im Vergleich: 3 Modelle ohne Bohren mit Handy-Alarm,
   dazu die besten Stellen, was du dem Vermieter sagst und Tipps für den Auszug.
@@ -89,11 +89,11 @@ products:
         Höchstwerte
     specs:
       Kit: 1 Hub + 4 Water Leak Sensor 1 (YS7903)
-      Connectivity: LoRa zum Hub; Hub per Ethernet oder 2,4-GHz-WLAN
+      Connectivity: 'LoRa zum Hub; Hub per Ethernet oder 2,4-GHz-WLAN'
       Power: >-
         Austauschbare Batterien (Laufzeit von den gesichteten Quellen nicht
         bestätigt)
-      Hub range: Bis etwa 400 m (1/4 Meile) im freien Feld, laut Testberichten
+      Hub range: 'Bis etwa 400 m (1/4 Meile) im freien Feld, laut Testberichten'
     scores:
       install: 8
       reversibility: 10
@@ -105,10 +105,10 @@ products:
       fummelige Einrichtung und das teurere Set drücken Preis-Leistung und
       Installation.
     sources:
-      - https://www.bobvila.com/articles/best-water-leak-detector/
-      - https://reviehub.com/?p=10139
-      - https://www.mayfairfarms.com/?p=35120
-      - https://shopsavvy.com/reviews-tldr/"yolink-hub-with-leak-sensors".md
+      - 'https://www.bobvila.com/articles/best-water-leak-detector/'
+      - 'https://reviehub.com/?p=10139'
+      - 'https://www.mayfairfarms.com/?p=35120'
+      - 'https://shopsavvy.com/reviews-tldr/"yolink-hub-with-leak-sensors".md'
     owners:
       read: 5
       praise:
@@ -131,11 +131,11 @@ products:
           Fehlalarm auslösen (bei Setups mit Absperrventil)
       sources:
         - title: 'MB Reviews: YoLink Water Leak Sensor 1 Review'
-          url: https://www.mbreviews.com/yolink-water-leak-sensor-1-review/
+          url: 'https://www.mbreviews.com/yolink-water-leak-sensor-1-review/'
         - title: 'ShopSavvy: TLDR review summary, YoLink Hub with Leak Sensors'
-          url: https://shopsavvy.com/reviews-tldr/"yolink-hub-with-leak-sensors".md
+          url: 'https://shopsavvy.com/reviews-tldr/"yolink-hub-with-leak-sensors".md'
         - title: 'Universal Devices forum: Loving YoLink'
-          url: https://forum.universal-devices.com/topic/42939-loving-yolink/
+          url: 'https://forum.universal-devices.com/topic/42939-loving-yolink/'
         - title: 'Home Assistant Community: YoLink integration'
           url: >-
             https://community.home-assistant.io/t/yolink-integration/272459?page=25
@@ -145,24 +145,24 @@ products:
     asin: B084WYB8PM
     amazonTitle: >-
       YoLink Water Leak Sensor 1 Kit: 4-Pack + Hub | Leak Alerts via Mobile App,
-      Email and SMS, Up to 5-Year Battery, Works with Alexa, LoRa YoLink
+      Email and SMS, Up to 5-Year Battery, Works with IFTTT, LoRa YoLink
       Protocol Up to 2034 Feet
     asinVerified: true
     image:
-      url: https://m.media-amazon.com/images/I/41FyF5y65uL._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/41FyF5y65uL._SL500_.jpg'
       width: 500
       height: 500
     gallery:
-      - url: https://m.media-amazon.com/images/I/41+XrJstBjL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41+XrJstBjL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41wuKLqtm-L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41wuKLqtm-L._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41nHQ0OlR4L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41nHQ0OlR4L._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41mCUHTccfL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41mCUHTccfL._SL500_.jpg'
         width: 500
         height: 500
   - name: Eve Water Guard
@@ -180,7 +180,7 @@ products:
       bleibt also nichts zurück. Haken: nur Apple Home (kein Alexa, Google oder
       SmartThings), und eine Steckdose muss in der Nähe sein.
     pros:
-      - Das Sensorkabel erkennt Wasser auf seiner ganzen Länge von 2 m (6,5 ft)
+      - 'Das Sensorkabel erkennt Wasser auf seiner ganzen Länge von 2 m (6,5 ft)'
       - Thread und Bluetooth ohne Bridge und ohne Cloud-Konto
       - 100-dB-Alarm und HomeKit-Automationen
     cons:
@@ -190,9 +190,9 @@ products:
       - Der Netzanschluss schränkt die Aufstellorte ein
       - Ein kleiner Teil der Käufer berichtet von Verbindungsabbrüchen
     specs:
-      Cable: 2 m (6,5 ft) Sensorkabel, Verlängerungen separat erhältlich
+      Cable: '2 m (6,5 ft) Sensorkabel, Verlängerungen separat erhältlich'
       Alarm: 100 dB
-      Connectivity: Bluetooth und Thread, HomeKit
+      Connectivity: 'Bluetooth und Thread, HomeKit'
       Power: Steckdose
     scores:
       install: 8
@@ -207,9 +207,9 @@ products:
     sources:
       - >-
         https://smarthome.reviewed.com/best-right-now/best-smart-water-leak-detectors
-      - https://www.bobvila.com/articles/best-water-leak-detector/
-      - https://iphonelife.com/content/eve-water-guard-review-0
-      - https://smarthomecompared.com/water-leak-sensors/eve-water-guard
+      - 'https://www.bobvila.com/articles/best-water-leak-detector/'
+      - 'https://iphonelife.com/content/eve-water-guard-review-0'
+      - 'https://smarthomecompared.com/water-leak-sensors/eve-water-guard'
     owners:
       read: 2
       praise:
@@ -220,29 +220,29 @@ products:
         - Ein kleiner Teil der Käufer berichtet von Verbindungsabbrüchen
       sources:
         - title: 'iPhone Life: Review of Eve Water Guard'
-          url: https://iphonelife.com/content/eve-water-guard-review-0
+          url: 'https://iphonelife.com/content/eve-water-guard-review-0'
         - title: 'Smart Home Compared: Eve Water Guard'
-          url: https://smarthomecompared.com/water-leak-sensors/eve-water-guard
+          url: 'https://smarthomecompared.com/water-leak-sensors/eve-water-guard'
     asin: B09TB72Z5N
     amazonTitle: >-
       Eve Water Guard - Smart Home Water Leak Detector, 6.5 ft Sensing Cable,
       100 dB Siren, (Apple HomeKit), App Notifications, Bluetooth, Thread
     asinVerified: true
     image:
-      url: https://m.media-amazon.com/images/I/21rI5MZgzIL._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/21rI5MZgzIL._SL500_.jpg'
       width: 500
       height: 500
     gallery:
-      - url: https://m.media-amazon.com/images/I/41g2-rr92ZL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41g2-rr92ZL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41yDXyTp+-L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41yDXyTp+-L._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/414NKHyjlyL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/414NKHyjlyL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/51H4dm3948L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51H4dm3948L._SL500_.jpg'
         width: 500
         height: 500
   - name: Flo by Moen Smart Water Detector
@@ -261,21 +261,21 @@ products:
       Wasserleitung eingebaut. Haken: keine Unterstützung für Alexa, Google oder
       HomeKit.
     pros:
-      - WLAN ohne Hub, mit Messung von Temperatur und Luftfeuchtigkeit
-      - Schnelle Alarme an iOS, Android und per E-Mail, laut Reviewed
+      - 'WLAN ohne Hub, mit Messung von Temperatur und Luftfeuchtigkeit'
+      - 'Schnelle Alarme an iOS, Android und per E-Mail, laut Reviewed'
       - >-
         Lässt sich mit einem Moen-Absperrventil koppeln, falls du später ein
         eigenes Zuhause besitzt
     cons:
-      - Keine Integration mit Sprachassistenten oder IFTTT, laut Reviewed
+      - 'Keine Integration mit Sprachassistenten oder IFTTT, laut Reviewed'
       - >-
         Besitzer berichten von leeren Batterien bei Lieferung, und Bewertungen
         der gesamten Flo-Reihe von Moen erwähnen Fehlalarme und schwachen
         Support
     specs:
-      Model: 920-004, einzelner Detector
-      Connectivity: WLAN, kein Hub
-      Monitoring: Wasser, Temperatur, Luftfeuchtigkeit
+      Model: '920-004, einzelner Detector'
+      Connectivity: 'WLAN, kein Hub'
+      Monitoring: 'Wasser, Temperatur, Luftfeuchtigkeit'
       Power: Batterien (Quellen widersprechen sich beim Typ)
     scores:
       install: 9
@@ -287,14 +287,14 @@ products:
       Lose aufgestellt und ohne Hub, aber teuer pro Sensor und ohne
       Unterstützung für Sprachassistenten.
     sources:
-      - https://www.tomsguide.com/best-picks/best-water-leak-detectors
+      - 'https://www.tomsguide.com/best-picks/best-water-leak-detectors'
       - >-
         https://smarthome.reviewed.com/best-right-now/best-smart-water-leak-detectors
-      - https://www.looria.com/review/flo-by-moen-smart-water-detector
+      - 'https://www.looria.com/review/flo-by-moen-smart-water-detector'
     owners:
       read: 2
       praise:
-        - Zuverlässige Wassererkennung, sobald er eingerichtet ist
+        - 'Zuverlässige Wassererkennung, sobald er eingerichtet ist'
         - Werte zu Temperatur und Luftfeuchtigkeit sind ein Bonus
       complaints:
         - Höhere Kosten pro Sensor
@@ -303,7 +303,7 @@ products:
           Fehlalarme in der gesamten Flo-Reihe von Moen
       sources:
         - title: 'Looria: Flo by Moen Smart Water Detector review summary'
-          url: https://www.looria.com/review/flo-by-moen-smart-water-detector
+          url: 'https://www.looria.com/review/flo-by-moen-smart-water-detector'
           reviews: 53
         - title: >-
             Kimola: Moen Flo Detector feedback report (summary of Amazon review
@@ -316,20 +316,20 @@ products:
       1-Pack, White, 920-004
     asinVerified: true
     image:
-      url: https://m.media-amazon.com/images/I/41YpP5UAS5L._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/41YpP5UAS5L._SL500_.jpg'
       width: 500
       height: 500
     gallery:
-      - url: https://m.media-amazon.com/images/I/41fGp4MbhtL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41fGp4MbhtL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41OUrP4vmML._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41OUrP4vmML._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/51JNHRLe9yL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51JNHRLe9yL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/51WBuZpo9iL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51WBuZpo9iL._SL500_.jpg'
         width: 500
         height: 500
 sources:
@@ -337,13 +337,13 @@ sources:
     url: >-
       https://smarthome.reviewed.com/best-right-now/best-smart-water-leak-detectors
   - title: Best water leak detector (Bob Vila)
-    url: https://www.bobvila.com/articles/best-water-leak-detector/
+    url: 'https://www.bobvila.com/articles/best-water-leak-detector/'
   - title: Best water leak detectors (Tom's Guide)
-    url: https://www.tomsguide.com/best-picks/best-water-leak-detectors
+    url: 'https://www.tomsguide.com/best-picks/best-water-leak-detectors'
   - title: YoLink Water Leak Sensor 1 review (MB Reviews)
-    url: https://www.mbreviews.com/yolink-water-leak-sensor-1-review/
+    url: 'https://www.mbreviews.com/yolink-water-leak-sensor-1-review/'
   - title: Eve Water Guard review (iPhone Life)
-    url: https://iphonelife.com/content/eve-water-guard-review-0
+    url: 'https://iphonelife.com/content/eve-water-guard-review-0'
 reviewedDate: '2026-10-17'
 faqs:
   - q: Brauche ich als Mieter einen Wassermelder?

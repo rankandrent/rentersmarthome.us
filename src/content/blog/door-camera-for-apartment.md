@@ -200,7 +200,7 @@ products:
           url: >-
             https://www.reddit.com/r/EufyCam/comments/1el0yja/looking_for_e340_doorbell_feedback/
     image:
-      url: 'https://m.media-amazon.com/images/I/31bPy4fJvOL._SL500_.jpg'
+      url: 'https://m.media-amazon.com/images/I/41bwjHx5PUL._SL500_.jpg'
       width: 500
       height: 500
     amazonTitle: >-

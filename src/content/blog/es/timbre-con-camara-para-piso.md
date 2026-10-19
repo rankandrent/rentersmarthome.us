@@ -1,6 +1,6 @@
 ---
-title: 'Mejor timbre con cámara para piso de alquiler – 6 sin cables (2026)'
-seoTitle: 'Timbre con cámara para piso (2026) – 6 modelos sin cables'
+title: Mejor timbre con cámara para piso de alquiler – 6 sin cables (2026)
+seoTitle: Timbre con cámara para piso (2026) – 6 modelos sin cables
 description: >-
   El mejor timbre con cámara para un piso funciona con batería y se monta sin
   taladrar. Comparamos 6 modelos para inquilinos: almacenamiento, casero y
@@ -216,7 +216,7 @@ products:
       | No Subscription,Head-to-Toe view,Wireless or Wired,Color night
       vision,Two-way talk,AI motion/package detection, 2.4 GHz Wi-Fi
     image:
-      url: 'https://m.media-amazon.com/images/I/31bPy4fJvOL._SL500_.jpg'
+      url: 'https://m.media-amazon.com/images/I/41bwjHx5PUL._SL500_.jpg'
       width: 500
       height: 500
     gallery:

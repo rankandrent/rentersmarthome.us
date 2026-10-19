@@ -44,21 +44,21 @@ productStyle: pros-cons
 readingTime: 15
 tldr:
   - >-
-    De Wyze Cam v4 is onze keuze voor de meeste huurders: 2,5K-video,
-    nachtzicht in kleur en opname naar een microSD-kaart, zonder hub en zonder
-    verplicht abonnement.
+    De Wyze Cam v4 is onze keuze voor de meeste huurders: 2,5K-video, nachtzicht
+    in kleur en opname naar een microSD-kaart, zonder hub en zonder verplicht
+    abonnement.
   - >-
     De Blink Mini 2K+ heeft met 138 graden de bredere kijkhoek en past in
-    Alexa-huishoudens, maar clips bewaren kan alleen met een Blink-abonnement
-    of een Sync Module 2 of XR met opslag.
+    Alexa-huishoudens, maar clips bewaren kan alleen met een Blink-abonnement of
+    een Sync Module 2 of XR met opslag.
   - >-
     De Blink Video Doorbell gaat volgens Blink tot twee jaar mee op AA
     lithiumbatterijen met een Sync Module, maar hij wordt vastgeschroefd, dus
     vraag eerst toestemming aan je verhuurder.
   - >-
-    Wyze werkt met Google Assistant, Blink niet. Beide werken alleen op 2,4
-    GHz, en beide stekkercamera's hoef je niet vast te boren en verhuizen
-    gewoon met je mee.
+    Wyze werkt met Google Assistant, Blink niet. Beide werken alleen op 2,4 GHz,
+    en beide stekkercamera's hoef je niet vast te boren en verhuizen gewoon met
+    je mee.
 productCount: 3
 products:
   - name: Wyze Cam v4
@@ -84,8 +84,8 @@ products:
         2,5K-video (2560 x 1440) met nachtzicht in kleur, sirene van 99 dB en
         tweerichtingsaudio
       - >-
-        Werkt met Alexa, Google Assistant en IFTTT, dus past in
-        Google Home-huishoudens
+        Werkt met Alexa, Google Assistant en IFTTT, dus past in Google
+        Home-huishoudens
     cons:
       - >-
         Eigenaren op Reddit melden willekeurige offline-momenten, foutcodes en
@@ -107,12 +107,14 @@ products:
       read: 5
       praise:
         - >-
-          Beeldkwaliteit, kleurenvideo en wifiverbinding voor het geld (klant bij
-          Home Depot: "Geweldige camera! Vergeleken met andere camera's die ik
-          heb gehad geeft deze meer controle, betere kleurenvideo en een
+          Beeldkwaliteit, kleurenvideo en wifiverbinding voor het geld (klant
+          bij Home Depot: "Geweldige camera! Vergeleken met andere camera's die
+          ik heb gehad geeft deze meer controle, betere kleurenvideo en een
           stabiele wifiverbinding.")
         - Lokale opname naar microSD zonder verplicht abonnement
-        - 'Eenvoudige installatie via Bluetooth, volgens samenvattingen van winkelreviews'
+        - >-
+          Eenvoudige installatie via Bluetooth, volgens samenvattingen van
+          winkelreviews
       complaints:
         - >-
           Af en toe offline en foutcodes (Reddit: "Mijn V4 heeft af en toe
@@ -120,9 +122,9 @@ products:
           foutcode 90, maar mijn wifiverbinding is stabiel.")
         - >-
           Softwareproblemen en haperende weergave vanaf de SD-kaart (Reddit: "De
-          V4 loopt tegen veel softwareproblemen aan. Constant verbindingsproblemen,
-          haperen bij het afspelen van de SD-kaart, spotlightbugs en
-          gebeurtenissen ...")
+          V4 loopt tegen veel softwareproblemen aan. Constant
+          verbindingsproblemen, haperen bij het afspelen van de SD-kaart,
+          spotlightbugs en gebeurtenissen ...")
         - >-
           Onhandig door de opnames op de kaart spoelen (Reddit: "opnieuw moeten
           leren hoe je door de SD-kaartbeelden scant om een ... te vinden")
@@ -153,16 +155,33 @@ products:
       Easy App Setup, Enhanced Two-Way Audio and Motion Detection for Home
       Security, Baby Monitoring and Pet Camera
     asinVerified: true
+    image:
+      url: 'https://m.media-amazon.com/images/I/41uFZZt209L._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41W-7c1CG6L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41RCzP45X0L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51PJm1VUvtL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51iZwgtwM7L._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Blink Mini 2K+
     brand: Blink
     query: Blink Mini 2K+ plug-in security camera
     matchName: Blink Mini 2K+
     badge: Beste voor Alexa en een brede kijkhoek
     summary: >-
-      Blinks stekkercamera van de derde generatie met 2K-video, een kijkhoek
-      van 138 graden, 4x zoom, kleurzicht bij weinig licht, tweerichtingsaudio
-      met ruisonderdrukking en een ingebouwde sirene. Hij werkt zonder hub;
-      lokale opslag is een extra via een Sync Module.
+      Blinks stekkercamera van de derde generatie met 2K-video, een kijkhoek van
+      138 graden, 4x zoom, kleurzicht bij weinig licht, tweerichtingsaudio met
+      ruisonderdrukking en een ingebouwde sirene. Hij werkt zonder hub; lokale
+      opslag is een extra via een Sync Module.
     renterNote: >-
       Voor een huurder in een Alexa-huishouden die een kleine camera op de plank
       wil, zonder boren en met een bredere kijkhoek dan de Wyze Cam v4. Let op:
@@ -179,8 +198,8 @@ products:
         een Blink-deurbel
     cons:
       - >-
-        Geen microSD-slot in de camera; lokale clips vragen een Sync Module 2
-        en een USB-stick (of een Sync Module XR)
+        Geen microSD-slot in de camera; lokale clips vragen een Sync Module 2 en
+        een USB-stick (of een Sync Module XR)
       - >-
         Geen Google Assistant, en volgens Blink heeft kleurzicht omgevingslicht
         nodig, anders schakelt hij naar zwart-wit
@@ -233,23 +252,43 @@ products:
             4)
           url: 'https://www.safehome.org/home-security-cameras/blink/reviews/'
     asin: B0F3BC8661
-    amazonTitle: Blink Mini 2K+ | White
+    amazonTitle: >-
+      Blink Mini 2K+ (newest model) – Plug-in Home & Pet Indoor Security Camera
+      with 2K video resolution, night vision, enhanced audio, motion detection –
+      1 camera (White)
     asinVerified: true
+    image:
+      url: 'https://m.media-amazon.com/images/I/21vJJD3kJsL._SL500_.jpg'
+      width: 313
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31+6KY5zR8L._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41JSrAz4JHL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/31FOIDxE+ML._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/4183b6a2ePL._SL500_.jpg'
+        width: 313
+        height: 500
   - name: Blink Video Doorbell
     brand: Blink
     query: Blink Video Doorbell 2nd Gen battery Sync Module
     matchName: Blink Video Doorbell
     badge: Beste voor lange batterijduur
     summary: >-
-      Blinks deurbel van de tweede generatie werkt op drie AA
-      lithiumbatterijen (volgens Blink tot twee jaar met een Sync Module),
-      filmt tot 1440p met een kijkhoek van 150 graden van top tot teen en wordt
-      geleverd met een Sync Module Core. Je installeert hem draadloos of op
-      bestaande deurbelbedrading.
+      Blinks deurbel van de tweede generatie werkt op drie AA lithiumbatterijen
+      (volgens Blink tot twee jaar met een Sync Module), filmt tot 1440p met een
+      kijkhoek van 150 graden van top tot teen en wordt geleverd met een Sync
+      Module Core. Je installeert hem draadloos of op bestaande
+      deurbelbedrading.
     renterNote: >-
       Voor een huurder die een deurbel op batterijen wil die nooit opgeladen
-      hoeft te worden, als de verhuurder schroeven bij de deur toestaat. Let
-      op: hij heeft geen eigen opslag, de meegeleverde Sync Module Core kan geen
+      hoeft te worden, als de verhuurder schroeven bij de deur toestaat. Let op:
+      hij heeft geen eigen opslag, de meegeleverde Sync Module Core kan geen
       clips lokaal bewaren en eigenaren melden een trage livebeeldweergave en
       een kortere batterijduur dan beloofd.
     pros:
@@ -257,9 +296,11 @@ products:
         Tot twee jaar op drie AA lithiumbatterijen met een Sync Module, volgens
         Blink
       - >-
-        Draadloze installatie; Blink levert schroeven, ringen en
-        montagebeugels mee, en wig- en hoekbeugels zijn los te koop
-      - Kijkhoek van 150 graden van top tot teen met 1440 x 1440 video en tweerichtingsaudio
+        Draadloze installatie; Blink levert schroeven, ringen en montagebeugels
+        mee, en wig- en hoekbeugels zijn los te koop
+      - >-
+        Kijkhoek van 150 graden van top tot teen met 1440 x 1440 video en
+        tweerichtingsaudio
     cons:
       - >-
         Heeft de Sync Module nodig; lokale clips vragen een Sync Module 2 en een
@@ -281,25 +322,26 @@ products:
       read: 5
       praise:
         - >-
-          Opent sneller dan de deurbel van de eerste generatie (Reddit-review van
-          de 2e generatie: "Hij opent nog steeds sneller dan de deurbel van de 1e
-          generatie, zelfs met de Sync Module 2")
+          Opent sneller dan de deurbel van de eerste generatie (Reddit-review
+          van de 2e generatie: "Hij opent nog steeds sneller dan de deurbel van
+          de 1e generatie, zelfs met de Sync Module 2")
         - >-
           Lange batterijduur in combinatie met een Sync Module, volgens Blink en
           uitleg van eigenaren
         - Eenvoudige draadloze installatie
       complaints:
         - >-
-          Traag livebeeld en batterijverbruik (Reddit: "De deurbel is zo traag en
-          vreet batterijen. Ik moet de sync module vrij vaak herstarten, ook al
-          staat hij online")
+          Traag livebeeld en batterijverbruik (Reddit: "De deurbel is zo traag
+          en vreet batterijen. Ik moet de sync module vrij vaak herstarten, ook
+          al staat hij online")
         - >-
-          Teruggestuurd na installatieproblemen (Reddit: "Ik had zoveel gedoe met
-          de nieuwe Blink-deurbel dat ik hem uiteindelijk heb teruggestuurd.")
+          Teruggestuurd na installatieproblemen (Reddit: "Ik had zoveel gedoe
+          met de nieuwe Blink-deurbel dat ik hem uiteindelijk heb
+          teruggestuurd.")
         - >-
-          De meegeleverde Sync Module Core kan geen clips lokaal bewaren (Reddit:
-          "Als je hem met een Sync Module koopt, krijg je de Sync Module CORE,
-          die geen lokale opslag ondersteunt.")
+          De meegeleverde Sync Module Core kan geen clips lokaal bewaren
+          (Reddit: "Als je hem met een Sync Module koopt, krijg je de Sync
+          Module CORE, die geen lokale opslag ondersteunt.")
       sources:
         - title: Blink Video Doorbell (newest model) A few questions (r/blinkcameras)
           url: >-
@@ -319,8 +361,27 @@ products:
           url: >-
             https://www.reddit.com/r/blinkcameras/comments/1lmw3o7/new_doorbell_wsync_2/
     asin: B0DGQZ8JZK
-    amazonTitle: Blink Video Doorbell + Sync Module included
+    amazonTitle: >-
+      Blink Video Doorbell – Head-to-toe HD view, two-year battery life, and
+      simple setup. Sync Module Core included – System (Black)
     asinVerified: true
+    image:
+      url: 'https://m.media-amazon.com/images/I/31jAesiVibL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41JWEVTllrL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/416YSsuwYyL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41dZtgypqcL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/5106nq72nhL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: Wyze Cam v4 Tech Specs (Wyze Support)
     url: >-
@@ -348,7 +409,7 @@ faqs:
       of abonnement op naar een microSD-kaart en werkt met Google Assistant en
       Alexa. Blink past bij Alexa-huishoudens die de bredere kijkhoek van de
       Mini 2K+ willen of een deurbel op batterijen die lang meegaat.
-  - q: Welk abonnement is goedkoper, Wyze of Blink?
+  - q: 'Welk abonnement is goedkoper, Wyze of Blink?'
     a: >-
       Volgens de abonnementspagina's van beide merken kost Wyze Cam Plus per
       camera per maand minder dan Blink Basic, en Wyze Cam Unlimited minder dan
@@ -374,8 +435,8 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/wyze-vs-blink.png
 heroAlt: >-
-  Wyze of Blink voor huurders – welke budgetcamera moet je kopen? –
-  vergelijking van RenterSmartHome
+  Wyze of Blink voor huurders – welke budgetcamera moet je kopen? – vergelijking
+  van RenterSmartHome
 ---
 
 Wyze of Blink: daar komen de meeste huurders op uit in de week dat er een pakketje uit de gang verdwijnt en in het huurcontract nog steeds staat dat er geen gaten in de muren mogen. Er liggen twee kleine doosjes in het winkelmandje, allebei goedkoop, allebei met de belofte van 2K-video, en de echte vraag is wat elk ervan kost om mee te leven als de gratis proefperiode voorbij is. **Voor de meeste huurders zouden wij de [Wyze Cam v4](amzn:B0D7HK1TJH) kiezen, omdat hij zonder hub en zonder abonnement opneemt naar je eigen microSD-kaart, terwijl de [Blink Mini 2K+](amzn:B0F3BC8661) wint in Alexa-huishoudens die een bredere kijkhoek willen en bereid zijn te betalen voor een abonnement of een Sync Module.** Zoek je een deurbel, dan is het batterijmodel van Blink de huurdersoptie van het merk, zolang je verhuurder een paar schroeven toestaat.

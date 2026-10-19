@@ -1,6 +1,6 @@
 ---
-title: 'Timbre con cámara sin suscripción para inquilinos – 3 opciones'
-seoTitle: 'Timbre con cámara sin suscripción (2026) – 3 para alquiler'
+title: Timbre con cámara sin suscripción para inquilinos – 3 opciones
+seoTitle: Timbre con cámara sin suscripción (2026) – 3 para alquiler
 description: >-
   El mejor timbre con cámara sin suscripción para inquilinos guarda clips en
   local, va con batería y se monta sin taladrar. Nuestras 3 opciones y consejos.
@@ -38,7 +38,9 @@ tldr:
     El eufy Security Video Doorbell C31 es la alternativa de una sola cámara:
     batería extraíble, almacenamiento en microSD y sin HomeBase ni cuota
     mensual.
-  - 'El Tapo D210 es la opción económica y guarda los clips en una tarjeta microSD.'
+  - >-
+    El Tapo D210 es la opción económica y guarda los clips en una tarjeta
+    microSD.
   - >-
     Usa un soporte sin taladrar o pregunta a tu casero antes de colocar nada en
     el marco de la puerta.
@@ -50,7 +52,9 @@ products:
     summary: >-
       Un timbre con dos cámaras que graba de la cabeza a los pies, con
       almacenamiento local integrado para guardar clips sin ningún plan.
-    renterNote: 'Funciona con su batería, así que en un piso no necesitas cableado de timbre.'
+    renterNote: >-
+      Funciona con su batería, así que en un piso no necesitas cableado de
+      timbre.
     pros:
       - 'Almacenamiento local integrado, sin cuota mensual'
       - La segunda cámara ve los paquetes a tus pies
@@ -60,7 +64,7 @@ products:
       - En una puerta con mucho movimiento el almacenamiento integrado se llena
     asin: B0CD7NT4Y9
     image:
-      url: 'https://m.media-amazon.com/images/I/31bPy4fJvOL._SL500_.jpg'
+      url: 'https://m.media-amazon.com/images/I/41bwjHx5PUL._SL500_.jpg'
       width: 500
       height: 500
     gallery:
@@ -95,14 +99,20 @@ products:
         - >-
           La segunda cámara, orientada hacia abajo, capta los paquetes; con el
           almacenamiento local no hace falta suscripción
-        - Los análisis elogian la calidad de imagen y la seguridad de las entregas
+        - >-
+          Los análisis elogian la calidad de imagen y la seguridad de las
+          entregas
         - Instalación sencilla y vídeo nítido según los análisis
       complaints:
         - >-
           El firmware 3.2.3.0 estropeó la vista en directo, el carillón y las
           notificaciones a muchos propietarios
-        - Se mencionan avisos de timbre retrasados o poco fiables y wifi inestable
-        - Se critican la autonomía de la batería y las alertas de movimiento por coches que pasan
+        - >-
+          Se mencionan avisos de timbre retrasados o poco fiables y wifi
+          inestable
+        - >-
+          Se critican la autonomía de la batería y las alertas de movimiento por
+          coches que pasan
       sources:
         - title: 'Eufy community: E340 wired issues'
           url: >-
@@ -141,24 +151,32 @@ products:
       atornillado, así que pide permiso al casero o busca un soporte sin
       taladrar que le sirva.
     pros:
-      - 'Almacenamiento microSD de hasta 128 GB, sin cuota mensual y sin necesidad de HomeBase'
+      - >-
+        Almacenamiento microSD de hasta 128 GB, sin cuota mensual y sin
+        necesidad de HomeBase
       - Batería extraíble de 6500 mAh que se carga dentro de casa
       - Grabación 24/7 cuando va conectado al cableado del timbre
       - Funciona con un carillón con cable que ya tengas
     cons:
-      - 'Una sola cámara, así que no tiene vista dedicada de paquetes como el E340'
+      - >-
+        Una sola cámara, así que no tiene vista dedicada de paquetes como el
+        E340
       - El soporte va con tornillos; eufy no ofrece ningún soporte sin taladrar
-      - Los propietarios hablan de un clip de montaje complicado y de algunas alertas perdidas
-      - Solo wifi de 2,4 GHz; sin Apple HomeKit
+      - >-
+        Los propietarios hablan de un clip de montaje complicado y de algunas
+        alertas perdidas
+      - 'Solo wifi de 2,4 GHz; sin Apple HomeKit'
     specs:
       Cameras: 'Una cámara 2K, vista 4:3 de la cabeza a los pies'
       Power: Batería extraíble de 6500 mAh o cableado del timbre
       Storage: 'microSD de hasta 128 GB; opcional HomeBase S280, S380 o HomeBase 3'
-      Recording: '24/7 solo con cable; clips de movimiento con batería'
-      Chime: 'Carillón con cable existente o eufy MiniBase Chime T8023 (se vende por separado)'
+      Recording: 24/7 solo con cable; clips de movimiento con batería
+      Chime: >-
+        Carillón con cable existente o eufy MiniBase Chime T8023 (se vende por
+        separado)
       Wi-Fi: '2,4 GHz'
       Mounting: Soporte atornillado más cuña de 15 grados
-      Smart home: 'Alexa y Google Assistant; no Apple HomeKit'
+      Smart home: Alexa y Google Assistant; no Apple HomeKit
     scores:
       install: 6
       reversibility: 6
@@ -167,21 +185,28 @@ products:
       portability: 8
     scoreNote: >-
       Almacenamiento microSD sin cuotas y batería extraíble; el soporte
-      atornillado deja pequeños agujeros salvo que uses un soporte sin
-      taladrar.
+      atornillado deja pequeños agujeros salvo que uses un soporte sin taladrar.
     owners:
       read: 5
       praise:
-        - Imagen 2K nítida con una vista completa de las visitas de la cabeza a los pies
-        - 'Sin cuota mensual, con los clips guardados en una tarjeta microSD local'
-        - 'Configuración fácil y detección de movimiento descrita como precisa'
+        - >-
+          Imagen 2K nítida con una vista completa de las visitas de la cabeza a
+          los pies
+        - >-
+          Sin cuota mensual, con los clips guardados en una tarjeta microSD
+          local
+        - Configuración fácil y detección de movimiento descrita como precisa
       complaints:
         - >-
-          A veces la parte inferior del timbre no encaja en el soporte de
-          pared; algunos propietarios recibieron un soporte de repuesto del
-          servicio técnico
-        - Timbrazos o alertas de personas perdidas hasta que se reinicia el timbre
-        - Hubo quejas sobre la autonomía en puertas con mucho movimiento y sobre la app de Android
+          A veces la parte inferior del timbre no encaja en el soporte de pared;
+          algunos propietarios recibieron un soporte de repuesto del servicio
+          técnico
+        - >-
+          Timbrazos o alertas de personas perdidas hasta que se reinicia el
+          timbre
+        - >-
+          Hubo quejas sobre la autonomía en puertas con mucho movimiento y sobre
+          la app de Android
       sources:
         - title: 'eufy community: C31 does not clip into mount'
           url: 'https://community.eufy.com/t/hi-guys-so-i/5779237'
@@ -218,10 +243,11 @@ products:
     query: Tapo D210 video doorbell battery
     badge: Mejor opción económica
     summary: >-
-      El timbre económico con batería de TP-Link guarda los clips en una
-      tarjeta microSD, así que puedes olvidarte por completo de los planes en
-      la nube.
-    renterNote: Funciona con batería; añade tu propia tarjeta microSD para los clips locales.
+      El timbre económico con batería de TP-Link guarda los clips en una tarjeta
+      microSD, así que puedes olvidarte por completo de los planes en la nube.
+    renterNote: >-
+      Funciona con batería; añade tu propia tarjeta microSD para los clips
+      locales.
     pros:
       - Precio bajo
       - Almacenamiento local en microSD
@@ -257,7 +283,9 @@ products:
       value: 9
       compatibility: 7
       portability: 8
-    scoreNote: Timbre económico con batería y almacenamiento microSD; menos funciones inteligentes.
+    scoreNote: >-
+      Timbre económico con batería y almacenamiento microSD; menos funciones
+      inteligentes.
 sources:
   - title: 'eufy: Doorbell camera with local storage'
     url: >-
@@ -284,25 +312,25 @@ faqs:
       plan mensual.
   - q: ¿Puedo poner un timbre con cámara si vivo de alquiler?
     a: >-
-      Sí. Elige un timbre con batería, móntalo con un soporte sin taladrar
-      donde la superficie lo permita y pregunta antes a tu casero si tu
-      contrato limita los cambios en la puerta.
+      Sí. Elige un timbre con batería, móntalo con un soporte sin taladrar donde
+      la superficie lo permita y pregunta antes a tu casero si tu contrato
+      limita los cambios en la puerta.
   - q: ¿Qué pasa con los clips locales si me roban el timbre?
     a: >-
       Los clips guardados en el propio timbre, como el almacenamiento integrado
       del E340 o la tarjeta microSD del C31 o del Tapo D210, se van con él. Una
-      eufy HomeBase opcional dentro de casa guarda una copia, y puedes
-      descargar los clips importantes al móvil.
+      eufy HomeBase opcional dentro de casa guarda una copia, y puedes descargar
+      los clips importantes al móvil.
   - q: ¿Pierdo funciones si no pago suscripción?
     a: >-
       Normalmente solo la copia en la nube y algunos extras. La vista en
-      directo, las alertas de movimiento y la grabación local siguen
-      funcionando en nuestras opciones.
+      directo, las alertas de movimiento y la grabación local siguen funcionando
+      en nuestras opciones.
 author: editorial-team
 heroImage: /images/featured/best-video-doorbell-without-subscription-for-renters.png
 heroAlt: >-
-  Timbre con cámara sin suscripción para inquilinos – 3 opciones – guía de compra
-  de RenterSmartHome
+  Timbre con cámara sin suscripción para inquilinos – 3 opciones – guía de
+  compra de RenterSmartHome
 ---
 
 El mejor timbre con cámara sin suscripción para inquilinos cumple dos funciones: guarda los clips en local para que nunca pagues una cuota mensual y funciona con batería para que no tengas que tocar la instalación eléctrica del edificio. **Nuestra opción favorita es el eufy Video Doorbell E340; el eufy Security Video Doorbell C31 es la alternativa de una sola cámara con batería extraíble y el Tapo D210, la opción económica.** Los tres graban en almacenamiento local en lugar de en un plan de nube de pago.

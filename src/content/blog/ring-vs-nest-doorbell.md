@@ -146,6 +146,27 @@ products:
           url: >-
             https://www.bestbuy.com/product/ring-battery-doorbell-plus-retinal-2k-with-wide-angle-video-6x-enhanced-zoom-night-vision-quick-release-battery-nickel-silver/J39TLSRS6P
           reviews: 125
+    image:
+      url: 'https://m.media-amazon.com/images/I/21cCd+4Xj0L._SL500_.jpg'
+      width: 313
+      height: 500
+    amazonTitle: >-
+      Ring Battery Doorbell 2K Plus (newest model), Retinal 2K with wide-angle
+      video, up to 6x Enhanced Zoom, Night Vision, and Quick Release Battery
+      Pack, Nickel Silver
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31oCryIiXYL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/4137cOc73LL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41JQShm1RjL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41S4LyzDeOL._SL500_.jpg'
+        width: 313
+        height: 500
   - name: Google Nest Doorbell (Battery)
     brand: Google
     query: Google Nest Doorbell Battery
@@ -246,6 +267,26 @@ products:
         - title: My Nest Doorbell Battery is a piece of crap (r/Nest)
           url: >-
             https://www.reddit.com/r/Nest/comments/r8aw1t/my_nest_doorbell_battery_is_a_piece_of_crap/
+    image:
+      url: 'https://m.media-amazon.com/images/I/21in0ahznSL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Google Nest Doorbell (Battery) - Snow | 6x digital zoom video doorbell,
+      HD, 24/7 live view, Night vision, HDR, works with Google Home & Gemini
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/21seeO+bTHL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/21sF-XD7qQL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/21xek-iTIBL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/21yxc+0A38L._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: Ring Battery Doorbell Plus (2nd Gen) product page (Ring)
     url: 'https://ring.com/products/battery-doorbell-plus-2nd-gen'

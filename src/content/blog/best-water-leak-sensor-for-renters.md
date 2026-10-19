@@ -134,7 +134,7 @@ products:
     asin: B084WYB8PM
     amazonTitle: >-
       YoLink Water Leak Sensor 1 Kit: 4-Pack + Hub | Leak Alerts via Mobile App,
-      Email and SMS, Up to 5-Year Battery, Works with Alexa, LoRa YoLink
+      Email and SMS, Up to 5-Year Battery, Works with IFTTT, LoRa YoLink
       Protocol Up to 2034 Feet
     asinVerified: true
     image:

@@ -1,6 +1,6 @@
 ---
-title: 'Beste luchtontvochtiger klein appartement – 6 keuzes'
-seoTitle: 'Beste luchtontvochtiger klein appartement (2026) – 6 keuzes'
+title: Beste luchtontvochtiger klein appartement – 6 keuzes
+seoTitle: Beste luchtontvochtiger klein appartement (2026) – 6 keuzes
 description: >-
   De beste luchtontvochtiger voor een klein appartement is een compressormodel
   zoals de Midea Cube 20. 6 keuzes voor studio, badkamer en kast, plus het
@@ -123,10 +123,7 @@ products:
         - title: 'r/Appliances: How is the Midea Cube 20 pint'
           url: >-
             https://www.reddit.com/r/Appliances/comments/1uwsd9m/how_is_the_midea_cube_20_pint/
-    amazonTitle: >-
-      Midea Cube 20 Pint Dehumidifier for Basement, 1,500 Sq. Ft, Energy star |
-      Large Capacity Water Tank with Drain Hose, Wi-Fi Enabled, Works with
-      Alexa, Quiet Operation for Home, Bedroom
+    amazonTitle: 'Midea Cube 20 Pint Dehumidifier for Basement, 1,500 Sq. Ft, Energy star'
     image:
       url: 'https://m.media-amazon.com/images/I/31X4HslPrAL._SL500_.jpg'
       width: 385
@@ -272,10 +269,7 @@ products:
         - title: 'r/Midea: Midea Cube humidity level reading'
           url: >-
             https://www.reddit.com/r/Midea/comments/1n9ycz8/midea_cube_humidity_level_reading/
-    amazonTitle: >-
-      Midea Cube 50 Pint Dehumidifier for Basement, 4,500 Sq. Ft, Energy star |
-      Large Capacity Water Tank with Drain Hose, Wi-Fi Enabled, Works with
-      Alexa, Quiet Operation for Home, Bedroom
+    amazonTitle: 'Midea Cube 50 Pint Dehumidifier for Basement, 4,500 Sq. Ft, Energy star'
     image:
       url: 'https://m.media-amazon.com/images/I/31m6sBV6kuL._SL500_.jpg'
       width: 385

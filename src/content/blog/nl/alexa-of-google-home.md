@@ -1,6 +1,6 @@
 ---
-title: 'Alexa of Google Home in 2026 – wat past beter in een huurwoning?'
-seoTitle: 'Alexa of Google Home (2026) – wat is beter voor huurders?'
+title: Alexa of Google Home in 2026 – wat past beter in een huurwoning?
+seoTitle: Alexa of Google Home (2026) – wat is beter voor huurders?
 description: >-
   Alexa of Google Home voor je huurwoning in 2026: Alexa+ tegen Gemini,
   compatibiliteit, Matter, abonnementen en met welke speaker je als huurder het
@@ -61,28 +61,28 @@ products:
       Gaat in elk stopcontact en staat op een plank; er wordt niets bevestigd of
       bedraad.
     pros:
-      - Ingebouwde Thread-borderrouter, ondersteuning voor Matter en Zigbee
+      - 'Ingebouwde Thread-borderrouter, ondersteuning voor Matter en Zigbee'
       - Werkt met Alexa+ voor verzoeken in meerdere stappen
       - Compact genoeg voor een klein appartement
     cons:
-      - Alexa+ is inbegrepen bij Prime, maar kost zonder Prime extra
+      - 'Alexa+ is inbegrepen bij Prime, maar kost zonder Prime extra'
       - Klinkt niet zo vol als de Echo Studio
     asin: B0D6SX8VLQ
     image:
-      url: https://m.media-amazon.com/images/I/31JssKhhl0L._SL500_.jpg
-      width: 313
-      height: 500
+      url: 'https://m.media-amazon.com/images/I/511SzQPgwhL._SL500_.jpg'
+      width: 500
+      height: 477
     gallery:
-      - url: https://m.media-amazon.com/images/I/41DAUA+IE7L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41DAUA+IE7L._SL500_.jpg'
         width: 313
         height: 500
-      - url: https://m.media-amazon.com/images/I/41NkdsdZ3OL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41NkdsdZ3OL._SL500_.jpg'
         width: 313
         height: 500
-      - url: https://m.media-amazon.com/images/I/41HejaFZcsL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41HejaFZcsL._SL500_.jpg'
         width: 313
         height: 500
-      - url: https://m.media-amazon.com/images/I/41xwpxqT4+L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41xwpxqT4+L._SL500_.jpg'
         width: 313
         height: 500
     amazonTitle: >-
@@ -117,7 +117,7 @@ products:
           url: >-
             https://www.expertreviews.co.uk/technology/headphones-audio/amazon-echo-dot-max-review
         - title: T3 Echo Dot Max review
-          url: https://www.t3.com/home-living/smart-home/echo-dot-max
+          url: 'https://www.t3.com/home-living/smart-home/echo-dot-max'
         - title: Best Buy customer reviews
           url: >-
             https://bestbuy.com/product/amazon-echo-dot-max-newest-model-alexa-speaker-w-room-filling-sound-and-built-in-smart-home-hub-designed-for-alexa-graphite/J39TLS9KPV
@@ -144,21 +144,21 @@ products:
       - Over het geheel minder compatibele apparaten dan Alexa
     asin: B0H6GS482L
     image:
-      url: https://m.media-amazon.com/images/I/61+-yjpmN+L._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/61+-yjpmN+L._SL500_.jpg'
       width: 500
       height: 400
     amazonTitle: Google - Premium Audio Speaker- 360-Degree Sound (Porcelain)
     gallery:
-      - url: https://m.media-amazon.com/images/I/51hyv+EHysL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51hyv+EHysL._SL500_.jpg'
         width: 500
         height: 243
-      - url: https://m.media-amazon.com/images/I/41U-Es-NSwL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41U-Es-NSwL._SL500_.jpg'
         width: 334
         height: 500
-      - url: https://m.media-amazon.com/images/I/61ezLYYjzHL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/61ezLYYjzHL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/71o+kgPcL0L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/71o+kgPcL0L._SL500_.jpg'
         width: 500
         height: 500
     scores:
@@ -193,9 +193,9 @@ products:
           url: >-
             https://www.androidauthority.com/google-home-speaker-early-unboxing-3680712/
         - title: ShopSavvy TLDR Google Home Speaker
-          url: https://shopsavvy.com/reviews-tldr/google-home-speaker
+          url: 'https://shopsavvy.com/reviews-tldr/google-home-speaker'
         - title: Walmart customer reviews
-          url: https://www.walmart.com/ip/17689524552
+          url: 'https://www.walmart.com/ip/17689524552'
           reviews: 32
   - name: Amazon Echo Studio (2nd Gen)
     brand: Amazon
@@ -209,27 +209,27 @@ products:
       nodig.
     pros:
       - Het rijkste geluid van alle Echo-modellen
-      - Ingebouwde hub voor Zigbee, Matter en Thread
+      - 'Ingebouwde hub voor Zigbee, Matter en Thread'
       - Gemaakt voor Alexa+
     cons:
       - Groter en duurder dan een Echo Dot
       - Overkill als je alleen spraakbediening wilt
     asin: B0DMQ1QMVV
     image:
-      url: https://m.media-amazon.com/images/I/31BWso5blZL._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/31BWso5blZL._SL500_.jpg'
       width: 313
       height: 500
     gallery:
-      - url: https://m.media-amazon.com/images/I/413PltVla1L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/413PltVla1L._SL500_.jpg'
         width: 313
         height: 500
-      - url: https://m.media-amazon.com/images/I/41NkdsdZ3OL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41NkdsdZ3OL._SL500_.jpg'
         width: 313
         height: 500
-      - url: https://m.media-amazon.com/images/I/41HejaFZcsL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41HejaFZcsL._SL500_.jpg'
         width: 313
         height: 500
-      - url: https://m.media-amazon.com/images/I/41sIEiaTlsL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41sIEiaTlsL._SL500_.jpg'
         width: 313
         height: 500
     amazonTitle: >-
@@ -248,17 +248,17 @@ sources:
   - title: 'Google: Meet the new Google Home Speaker, built for Gemini'
     url: >-
       https://blog.google/products-and-platforms/devices/google-nest/google-home-speaker-gemini-features/
-  - title: Matter standard overview, Connectivity Standards Alliance
-    url: https://csa-iot.org/all-solutions/matter/
+  - title: 'Matter standard overview, Connectivity Standards Alliance'
+    url: 'https://csa-iot.org/all-solutions/matter/'
   - title: 'Thread Group: what is Thread'
-    url: https://www.threadgroup.org/What-is-Thread
+    url: 'https://www.threadgroup.org/What-is-Thread'
   - title: 'The Ambient: Alexa+ vs Gemini for Home'
-    url: https://www.the-ambient.com/versus/alexa-plus-vs-gemini/
+    url: 'https://www.the-ambient.com/versus/alexa-plus-vs-gemini/'
   - title: 'Matter Alpha: Echo Dot Max specifications'
-    url: https://www.matteralpha.com/amazon/echo-dot-max-p3468
+    url: 'https://www.matteralpha.com/amazon/echo-dot-max-p3468'
 reviewedDate: '2026-10-14T00:00:00.000Z'
 faqs:
-  - q: Wat is beter in 2026, Alexa of Google Home?
+  - q: 'Wat is beter in 2026, Alexa of Google Home?'
     a: >-
       Alexa is beter voor brede apparaatondersteuning en voor huishoudens die al
       voor Amazon Prime betalen, want daar zit Alexa+ bij. Google Home is beter
@@ -277,7 +277,7 @@ faqs:
       betaald abonnement. Gemini for Home biedt de basisfuncties gratis, terwijl
       geavanceerde functies zoals zoeken in je camerageschiedenis een Google
       Home Premium-abonnement vereisen.
-  - q: Wat is beter voor huurders, Alexa of Google Home?
+  - q: 'Wat is beter voor huurders, Alexa of Google Home?'
     a: >-
       Allebei werken ze goed in een huurwoning, omdat je de speakers gewoon in
       het stopcontact steekt. Kies het ecosysteem dat past bij je telefoon en je

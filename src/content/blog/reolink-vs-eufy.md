@@ -117,6 +117,27 @@ products:
         - title: Eufy Cam S330 with Home Base 3 - Thoughts - r/EufyCam
           url: >-
             https://www.reddit.com/r/EufyCam/comments/11psgms/eufy_cam_s330_with_home_base_3_thoughts/
+    image:
+      url: 'https://m.media-amazon.com/images/I/316hM0Z+GEL._SL500_.jpg'
+      width: 400
+      height: 500
+    amazonTitle: >-
+      eufy Security eufyCam S330 (eufyCam 3), 2-Cam Kit, 4K Solar | Forever
+      Power Solar Panel, AI Face Recognition, Expandable Local Storage, No
+      Monthly Fee, Outdoor Wireless
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41TK9KK2c+L._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/410ZN6X8qfL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51DFyHEc-OL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41A+NAqFX3L._SL500_.jpg'
+        width: 400
+        height: 500
   - name: Reolink Argus 4 Pro
     brand: Reolink
     query: Reolink Argus 4 Pro 4K solar camera
@@ -247,6 +268,27 @@ products:
         - title: Reolink Argus PT Ultra Review - r/reolinkcam
           url: >-
             https://www.reddit.com/r/reolinkcam/comments/16hbqr7/reolink_argus_pt_ultra_review/
+    image:
+      url: 'https://m.media-amazon.com/images/I/31A5sYKwMUL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      REOLINK Argus PT Ultra First 4K Solar Security Cameras Wireless Outdoor |
+      360° Pan Tilt Auto-Tracking, 8MP Color Night Vision, 2.4/5 GHz Wi-Fi 6, No
+      Subscriptions, Home Hub Compatible
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51UZ+9xp1mL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/417fi+FzJbL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51C7s230A7L._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41yUEMVsjCL._SL500_.jpg'
+        width: 400
+        height: 500
   - name: eufy SoloCam S220
     brand: eufy
     query: eufy Security SoloCam S220 solar security camera
@@ -311,6 +353,27 @@ products:
         - title: My Eufy Cam Setup 71 Days In - r/EufyCam
           url: >-
             https://www.reddit.com/r/EufyCam/comments/1gxdi49/my_eufy_cam_setup_71_days_in_heres_my_honest/
+    image:
+      url: 'https://m.media-amazon.com/images/I/311lpab1FHL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      eufy Security SoloCam S220, Solar Security Camera, Wireless Camera Outdoor
+      | 2K Resolution, Continuous Power, Built-in 8GB, No Subscription, HomeBase
+      3 Compatible, for Outdoor Surveillance
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/419aNkj0TVL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/419oAzNc0eL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51162VpSWiL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41EwcBbqLwL._SL500_.jpg'
+        width: 400
+        height: 500
 sources:
   - title: eufyCam S330 (eufyCam 3) product page (eufy)
     url: 'https://www.eufy.com/products/t88711w1'

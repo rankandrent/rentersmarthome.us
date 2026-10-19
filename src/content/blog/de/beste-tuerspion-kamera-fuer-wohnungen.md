@@ -1,6 +1,6 @@
 ---
-title: 'Beste Türspion-Kamera für Wohnungen – Sicherheit ohne Bohren'
-seoTitle: 'Türspion-Kamera für Wohnungen 2026 – 4 Modelle ohne Bohren'
+title: Beste Türspion-Kamera für Wohnungen – Sicherheit ohne Bohren
+seoTitle: Türspion-Kamera für Wohnungen 2026 – 4 Modelle ohne Bohren
 description: >-
   Eine Türspion-Kamera macht aus dem Spion deiner Wohnungstür eine
   Video-Türklingel. Die besten mieterfreundlichen Modelle und Alternativen ohne
@@ -58,7 +58,7 @@ products:
       Wird ohne Bohren und ohne Kabel durch das vorhandene Spion-Loch montiert;
       beim Auszug setzt du den originalen Türspion wieder ein.
     pros:
-      - Nutzt das Loch, das schon in der Tür ist
+      - 'Nutzt das Loch, das schon in der Tür ist'
       - 'Klopferkennung meldet, wenn jemand an die Tür klopft'
       - Innen bleibt ein klassischer Spion zum Durchschauen
     cons:
@@ -98,7 +98,9 @@ products:
     owners:
       read: 7
       praise:
-        - 'Passt in vorhandene Spione und ist klein, der Akku sitzt innen an der Tür'
+        - >-
+          Passt in vorhandene Spione und ist klein, der Akku sitzt innen an der
+          Tür
         - Einfache Montage und gute Kameraqualität laut Käufern bei Best Buy
         - 'Einfacher Akkuwechsel, 1080p-Video'
       complaints:
@@ -108,7 +110,9 @@ products:
         - >-
           Ausfälle der Live-Ansicht und Kabeldefekte in Forenbeiträgen; keine
           Personenerkennung, Abo nötig
-        - Manche Käufer bei Best Buy erwähnen langsame Reaktion oder Kompatibilitätsprobleme
+        - >-
+          Manche Käufer bei Best Buy erwähnen langsame Reaktion oder
+          Kompatibilitätsprobleme
       sources:
         - title: 'Ring Peephole Cam review, Security.org'
           url: 'https://www.security.org/doorbell-camera/ring/review/door-view-cam'
@@ -142,8 +146,8 @@ products:
       - Vom Hausflur aus sichtbar (manche Häuser schränken das ein)
     asin: B0FHJ7TKZM
     image:
-      url: 'https://m.media-amazon.com/images/I/21lc6l7V1ZL._SL500_.jpg'
-      width: 313
+      url: 'https://m.media-amazon.com/images/I/31+qDXAyhzL._SL500_.jpg'
+      width: 394
       height: 500
     gallery:
       - url: 'https://m.media-amazon.com/images/I/314PqGk2KCL._SL500_.jpg'
@@ -238,9 +242,13 @@ products:
       read: 4
       praise:
         - Gute Bildqualität und einfache Einrichtung
-        - 'Gutes Preis-Leistungs-Verhältnis, Personenerkennung reduziert Fehlalarme'
+        - >-
+          Gutes Preis-Leistungs-Verhältnis, Personenerkennung reduziert
+          Fehlalarme
       complaints:
-        - 'Verbindungsabbrüche, die einen Neustart erfordern, in manchen Best-Buy-Bewertungen'
+        - >-
+          Verbindungsabbrüche, die einen Neustart erfordern, in manchen
+          Best-Buy-Bewertungen
         - >-
           Langsame Bewegungsmeldungen, Fehlalarme und ein Abo für erweiterte
           Funktionen
@@ -268,7 +276,9 @@ products:
       - Der Magnetfuß braucht keine Schrauben
     cons:
       - Nur Blick nach innen
-      - Smarte Benachrichtigungen funktionieren am besten mit einem Cam-Plus-Tarif
+      - >-
+        Smarte Benachrichtigungen funktionieren am besten mit einem
+        Cam-Plus-Tarif
     asin: B0CWPB9CZV
     image:
       url: 'https://m.media-amazon.com/images/I/31rKS-JhXAL._SL500_.jpg'
@@ -356,7 +366,7 @@ faqs:
       innerhalb eines bestimmten Stärkenbereichs. Miss die Türstärke und den
       Durchmesser des Spions und vergleiche beides vor dem Kauf mit den
       Herstellerangaben.
-  - q: Was mache ich, wenn meine Wohnungstür keinen Türspion hat?
+  - q: 'Was mache ich, wenn meine Wohnungstür keinen Türspion hat?'
     a: >-
       Ohne Spion nimmst du eine Innenkamera wie die Wyze Cam v4 oder die Blink
       Mini 2 und richtest sie auf die Innenseite der Tür, oder du fragst deinen

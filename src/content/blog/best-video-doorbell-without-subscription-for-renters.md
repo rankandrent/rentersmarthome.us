@@ -56,7 +56,7 @@ products:
       - Built-in storage fills up on a busy door
     asin: B0CD7NT4Y9
     image:
-      url: 'https://m.media-amazon.com/images/I/31bPy4fJvOL._SL500_.jpg'
+      url: 'https://m.media-amazon.com/images/I/41bwjHx5PUL._SL500_.jpg'
       width: 500
       height: 500
     gallery:
