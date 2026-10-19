@@ -34,15 +34,17 @@ funnel: bofu
 readingTime: 9
 tldr:
   - >-
-    Ein mieterfreundliches Smart Lock ist ein Nachrüst-Schloss, das nur den
-    inneren Drehknauf ersetzt. Der Schließzylinder außen und der Schlüssel des
-    Vermieters funktionieren weiter.
+    Ein mieterfreundliches Smart Lock ist ein Nachrüst-Schloss, das an der
+    Innenseite der Tür sitzt und den Schließzylinder außen in Ruhe lässt. Der
+    Schlüssel des Vermieters funktioniert also weiter.
   - >-
     Das August Wi-Fi Smart Lock (4. Generation) ist für die meisten Mieter die
     beste Wahl, dank eingebautem WLAN und kompakter Nachrüst-Bauweise.
   - >-
-    Das SwitchBot Lock Pro ist die einzige echte Lösung ganz ohne Werkzeug,
-    denn es wird mit Klebepads über den Drehknauf gesetzt.
+    Das SwitchBot Lock Pro ist am schnellsten montiert und lässt das Schloss
+    selbst unverändert: Es sitzt auf einer Halterung über dem Drehknauf, die
+    von den vorhandenen Schlossschrauben gehalten wird, und ließ sich im Test
+    von Techlicious spurlos wieder entfernen.
   - >-
     Das Aqara Smart Lock U100 bringt ein Fingerabdruck-Tastenfeld und Apple Home
     Key mit, ersetzt aber das komplette Riegelschloss. Hol dir deshalb die
@@ -129,15 +131,21 @@ products:
   - name: SwitchBot Lock Pro
     brand: SwitchBot
     query: SwitchBot Lock Pro
-    badge: Beste Montage ohne Werkzeug
+    badge: Beste Montage ohne Eingriff ins Schloss
     summary: >-
-      Ein aufklebbares Smart Lock, das deinen vorhandenen Drehknauf mechanisch
-      dreht. Ideal, wenn dein Mietvertrag jede Veränderung am Schloss verbietet.
+      Ein Smart Lock mit Montagehalterung, das deinen vorhandenen Drehknauf
+      mechanisch dreht und das Schloss selbst unverändert lässt. Ideal, wenn
+      dein Mietvertrag verbietet, das Schloss zu verändern.
     renterNote: >-
-      Wird mit Klebepads über dem Drehknauf befestigt: keine Schrauben, kein
-      Zerlegen, beim Auszug einfach abziehen.
+      Sitzt auf einer Halterung über dem Drehknauf, die deine vorhandenen
+      Schlossschrauben nutzt (oder Madenschrauben, die am Schlosszylinder
+      klemmen); das Schloss wird nicht verändert, und laut Techlicious ließ es
+      sich spurlos entfernen. Setz beim Auszug die Originalschrauben wieder
+      ein.
     pros:
-      - Das Schloss des Vermieters wird überhaupt nicht zerlegt
+      - >-
+        Das Schloss des Vermieters bleibt unverändert; die Halterung nutzt
+        seine Schrauben
       - Optionales Tastenfeld und Fingerabdruck-Zubehör
       - Matter-Unterstützung über einen SwitchBot Hub
     cons:
@@ -163,14 +171,15 @@ products:
         width: 500
         height: 500
     scores:
-      install: 9
-      reversibility: 9
+      install: 7
+      reversibility: 8
       value: 7
       compatibility: 8
       portability: 8
     scoreNote: >-
-      Klebemontage über dem Drehknauf ohne Zerlegen; Fernzugriff und Matter
-      brauchen einen Hub.
+      Montage per Halterung an den vorhandenen Schlossschrauben, ohne
+      Veränderung am Schloss und ohne Spuren beim Ausbau; Fernzugriff und
+      Matter brauchen einen Hub.
     owners:
       read: 3
       praise:
@@ -197,17 +206,22 @@ products:
     query: Yale Approach Lock with Wi-Fi
     badge: Beste Wahl mit Tastenfeld
     summary: >-
-      Yales Nachrüst-Schloss behält deine Außenbeschläge und lässt sich mit dem
-      Yale-Tastenfeld-Zubehör koppeln, damit du von außen per Code aufschließt.
+      Yales Nachrüst-Schloss behält deine Außenbeschläge, und im Set mit Wi-Fi
+      und Keypad Touch liegt ein biometrisches Tastenfeld bei, mit dem du von
+      außen per Code oder Fingerabdruck aufschließt.
     renterNote: >-
       Wird von innen auf das vorhandene Riegelschloss nachgerüstet; der
       originale Drehknauf kommt beim Auszug wieder dran.
     pros:
       - Vorhandene Schlüssel und Außenbeschläge bleiben
-      - Lässt sich mit Yale-Tastenfeldern koppeln
+      - >-
+        Biometrisches Keypad Touch für Code und Fingerabdruck ist im Set
+        enthalten
       - Schließt automatisch auf, wenn du dich näherst
     cons:
-      - Das Tastenfeld muss separat gekauft werden
+      - >-
+        Für den Fernzugriff ist eine WLAN-Bridge für die Steckdose nötig
+        (PCWorld)
       - Ob es passt, hängt von deinem Schlossmodell ab
     asin: B0D3VQD6YX
     image:
@@ -230,7 +244,8 @@ products:
       portability: 8
     scoreNote: >-
       Nachrüstung mit dem Schraubendreher, die Schlüssel außen bleiben; das
-      Tastenfeld kostet extra.
+      Tastenfeld ist im Set, aber WLAN-Bridge und Passform-Check machen etwas
+      Aufwand.
     owners:
       read: 3
       praise:
@@ -345,8 +360,12 @@ sources:
     url: 'https://august.com/'
   - title: SwitchBot (manufacturer)
     url: 'https://www.switch-bot.com/'
-  - title: Yale Approach Lock with Wi-Fi
-    url: 'https://shopyalehome.com/'
+  - title: Yale Approach Lock with Wi-Fi and Keypad Touch
+    url: 'https://shopyalehome.com/products/yale-approach-lock-with-wi-fi-and-keypad-touch'
+  - title: Techlicious SwitchBot Lock Pro review
+    url: 'https://techlicious.com/review/switchbot-lock-pro-review'
+  - title: NotEnoughTech SwitchBot Lock Pro review
+    url: 'https://notenoughtech.com/home-automation/switchbot-lock-pro/'
   - title: Aqara Smart Lock U100 user manual (Seam device database copy)
     url: >-
       https://www.seam.co/img/device-db/aqara/manuals/aqara_smart-lock-u100_user_manual.pdf
@@ -359,13 +378,14 @@ sources:
     url: 'https://homekitnews.com/2023/06/14/aqara-smart-lock-u100-review/'
   - title: 'Matter standard overview, Connectivity Standards Alliance'
     url: 'https://csa-iot.org/all-solutions/matter/'
-reviewedDate: '2026-10-14T00:00:00.000Z'
+reviewedDate: '2026-10-19T00:00:00.000Z'
+updatedDate: '2026-10-19T00:00:00.000Z'
 faqs:
   - q: Darf ich als Mieter ein Smart Lock ohne Erlaubnis des Vermieters einbauen?
     a: >-
       Viele Mietverträge verbieten es, Schlösser zu tauschen oder umzurüsten,
-      lies also zuerst deinen Vertrag. Ein Nachrüst-Smart-Lock, das nur den
-      inneren Drehknauf ersetzt, lässt den Schlüssel des Vermieters
+      lies also zuerst deinen Vertrag. Ein Nachrüst-Smart-Lock, das nur an der
+      Innenseite der Tür sitzt, lässt den Schlüssel des Vermieters
       funktionieren, weshalb viele Vermieter zustimmen. Eine schriftliche
       Erlaubnis ist trotzdem der sichere Weg.
   - q: Passt ein Nachrüst-Smart-Lock auf jedes Türschloss?
@@ -384,13 +404,14 @@ faqs:
       USB-C-Anschluss für Notstrom von außen.
   - q: Wie baue ich ein Smart Lock beim Auszug wieder aus?
     a: >-
-      Schraube ein Nachrüst-Smart-Lock ab oder zieh es ab, setze den
+      Schraube ein Nachrüst-Smart-Lock oder ein Smart Lock mit
+      Montagehalterung ab, setze den
       aufbewahrten originalen Drehknauf samt Montageplatte wieder ein und prüfe
       das Schloss mit deinem Schlüssel. Bei einem kompletten Ersatzschloss wie
       dem Aqara U100 baust du es aus und setzt das Originalschloss, das
       Schließblech und die Schrauben des Vermieters wieder ein. Prüfe danach,
       ob der Originalschlüssel funktioniert.
-  - q: Ist ein aufgeklebtes Smart Lock so sicher wie ein Nachrüst-Schloss?
+  - q: Ist ein Smart Lock mit Montagehalterung so sicher wie ein Nachrüst-Schloss?
     a: >-
       Beide Varianten lassen das eigentliche Riegelschloss unverändert, die
       mechanische Stabilität der Tür bleibt also gleich. Unterschiede in der
@@ -425,13 +446,13 @@ Wir haben diese Schlösser nicht selbst getestet, sondern unsere Auswahl anhand 
 Es gibt zwei mieterfreundliche Bauarten, dazu eine, die eine Erlaubnis braucht:
 
 - **Nachrüst-Smart-Locks** (August, Yale Approach): Du löst zwei Schrauben, nimmst den inneren Drehknauf ab und setzt die motorisierte Einheit auf den Mitnehmer (Tailpiece) des vorhandenen Schlosses. Riegelschloss, Schließblech und Schlüsselloch außen bleiben unberührt.
-- **Aufklebbare Smart Locks** (SwitchBot Lock Pro): Sie werden mit Klebepads über dem Drehknauf befestigt und drehen ihn mechanisch. Am Schloss selbst wird gar nichts zerlegt.
+- **Smart Locks mit Montagehalterung** (SwitchBot Lock Pro): Sie werden über dem Drehknauf auf eine Halterung gesetzt, die von deinen vorhandenen Schlossschrauben gehalten wird (oder von Madenschrauben, die am Schlosszylinder klemmen), und drehen ihn mechanisch. Das Schloss selbst wird nicht verändert, und laut Techlicious ließ es sich spurlos wieder entfernen.
 - **Smarte Komplettschlösser** (Aqara Smart Lock U100): Sie ersetzen das ganze Riegelschloss, innen wie außen. Nutze so eines nur mit Zustimmung des Vermieters und bewahre das Originalschloss zum Wiedereinbau auf.
 
 | Bauart | Werkzeug | Schlüssel des Vermieters funktioniert | Typische Rückbauzeit |
 | --- | --- | --- | --- |
 | Nachrüst-Smart-Lock | Schraubendreher | Ja | 10–15 Minuten |
-| Aufklebbares Smart Lock | Keins | Ja | 5 Minuten |
+| Smart Lock mit Montagehalterung | Schraubendreher | Ja | 5–10 Minuten |
 | Smartes Komplettschloss (Aqara U100) | Schraubendreher, manchmal ein Stechbeitel für das Schließblech | Nein (neuer Zylinder) | 20–30 Minuten |
 
 Wenn du nach einem Smart Lock für deine Mietwohnung suchst, achte in der Produktbeschreibung auf Begriffe wie „retrofit" oder „fits over existing deadbolt" (passt auf das vorhandene Schloss). Mit diesen Formulierungen findest du am schnellsten ein Smart Lock, das mit deinem Mietvertrag vereinbar ist.
@@ -444,15 +465,15 @@ Das [August Wi-Fi Smart Lock](amzn:August+Wi-Fi+Smart+Lock+4th+Gen) ist das Nach
 
 Das August Smart Lock funktioniert mit Amazon Alexa, Google Assistant und Apple Home und passt damit zu dem Sprachassistenten, den du ohnehin nutzt. Die wichtigsten Nachteile sind die CR123-Batterien (seltener als AA) und vereinzelte Schlösser, die eine Adapterplatte brauchen. Mach deshalb vor der Bestellung den Kompatibilitäts-Check von August.
 
-### SwitchBot Lock Pro: beste Montage ohne Werkzeug
+### SwitchBot Lock Pro: beste Montage ohne Eingriff ins Schloss
 
-Das [SwitchBot Lock Pro](amzn:SwitchBot+Lock+Pro) ist das einzige Smart Lock in unserer Auswahl, bei dem du keine einzige Schraube anfasst. Es klebt mit Klebepads über deinem Drehknauf und dreht ihn mit einem verstellbaren Greifer. Damit ist es das beste Smart Lock für strenge Mietverträge, in denen „keine Veränderungen an Schlössern" steht.
+Das [SwitchBot Lock Pro](amzn:SwitchBot+Lock+Pro) ist in unserer Auswahl am schnellsten montiert und verändert das Schloss am wenigsten. Es sitzt auf einer Halterung über deinem Drehknauf, die deine vorhandenen Schlossschrauben nutzt (NotEnoughTech beschreibt Madenschrauben, die am Zylinder klemmen), und dreht den Drehknauf mechanisch. Laut Techlicious braucht es keine dauerhafte Veränderung und hinterlässt beim Entfernen keine Spuren. Die vorhandenen Schrauben löst du allerdings und setzt sie wieder ein, prüf also genau den Wortlaut deines Mietvertrags, wenn darin „keine Veränderungen an Schlössern" steht.
 
 Im SwitchBot-System gibt es zusätzlich ein Tastenfeld mit Fingerabdruck-Entsperrung, und mit einem SwitchBot Hub bekommst du Fernsteuerung und Matter-Unterstützung. Plane diesen Hub ein, wenn du die Tür vom Büro aus abschließen oder sie über Apple Home oder Google Home steuern willst.
 
 ### Yale Approach Lock with Wi-Fi: beste Wahl mit Tastenfeld
 
-Das [Yale Approach Lock](amzn:Yale+Approach+Lock+with+Wi-Fi) ist Yales Nachrüst-Smart-Lock, und es spielt seine Stärken bei Mietern aus, die von außen per Code aufschließen wollen. Kombiniere das Yale Approach mit einem Yale-Tastenfeld neben der Tür (die Klebemontage hält an den meisten Türrahmen), dann bekommen Mitbewohner oder Hundesitter ihre eigenen Codes, ganz ohne Schlüsselkopien.
+Das [Yale Approach Lock](amzn:Yale+Approach+Lock+with+Wi-Fi) ist Yales Nachrüst-Smart-Lock, und es spielt seine Stärken bei Mietern aus, die von außen per Code aufschließen wollen. Im Set mit Wi-Fi und Keypad Touch liegt ein biometrisches Tastenfeld bei, das du neben der Tür mit einem Klebepad befestigst oder anschraubst. So bekommen Mitbewohner oder Hundesitter ihre eigenen Codes, ganz ohne Schlüsselkopien. Für den Fernzugriff sorgt eine WLAN-Bridge in der Steckdose.
 
 Wie andere Nachrüst-Smart-Locks wird das Yale Approach von der Innenseite der Tür auf das vorhandene Riegelschloss gesetzt. Der Schlüssel des Vermieters funktioniert also weiter, und der originale Drehknauf kommt beim Auszug wieder dran.
 
@@ -504,4 +525,4 @@ Der Ausbau läuft genauso, nur in umgekehrter Reihenfolge. Setz den originalen D
 
 ## Welches Smart Lock solltest du kaufen?
 
-**Für die meisten Mieter ist das August Wi-Fi Smart Lock das beste Smart Lock, weil es eine echte Nachrüst-Montage mit eingebautem WLAN und Unterstützung für alle großen Sprachassistenten verbindet.** Nimm das SwitchBot Lock Pro, wenn dein Mietvertrag jede Veränderung am Schloss verbietet, das Yale Approach, wenn dir der Zutritt per Tastenfeld am wichtigsten ist, und das Aqara Smart Lock U100 nur dann, wenn dein Vermieter einem kompletten Schlosstausch zustimmt und du Fingerabdruck-Zutritt plus Apple Home Key willst. Weil es am meisten an der Tür verändert, landet es bei uns für Mieter auf dem letzten Platz.
+**Für die meisten Mieter ist das August Wi-Fi Smart Lock das beste Smart Lock, weil es eine echte Nachrüst-Montage mit eingebautem WLAN und Unterstützung für alle großen Sprachassistenten verbindet.** Nimm das SwitchBot Lock Pro, wenn das Schloss selbst unverändert bleiben soll, das Yale-Approach-Set, wenn Tastenfeld und Fingerabdruckleser gleich dabei sein sollen, und das Aqara Smart Lock U100 nur dann, wenn dein Vermieter einem kompletten Schlosstausch zustimmt und du Fingerabdruck-Zutritt plus Apple Home Key willst. Weil es am meisten an der Tür verändert, landet es bei uns für Mieter auf dem letzten Platz.

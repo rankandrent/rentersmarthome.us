@@ -35,15 +35,17 @@ funnel: bofu
 readingTime: 9
 tldr:
   - >-
-    Een huurdervriendelijk slim slot is een opzetslot dat alleen de draaiknop
-    aan de binnenkant vervangt, zodat het sleutelgat aan de buitenkant en de
-    sleutel van je verhuurder blijven werken.
+    Een huurdervriendelijk slim slot is een opzetslot dat aan de binnenkant
+    van de deur zit en het sleutelgat aan de buitenkant laat zitten, zodat de
+    sleutel van je verhuurder blijft werken.
   - >-
     Het August Wi-Fi Smart Lock (4e generatie) is voor de meeste huurders de
     beste keuze, dankzij ingebouwde wifi en een compact opzetontwerp.
   - >-
-    Het SwitchBot Lock Pro is de enige echte optie zonder gereedschap, omdat je
-    het met plakstrips over de draaiknop plakt.
+    Het SwitchBot Lock Pro is het snelst gemonteerd en laat het slot zelf
+    ongemoeid: het zit over de draaiknop op een beugel die vastzit met de
+    bestaande schroeven van je slot, en in de review van Techlicious ging het
+    er zonder sporen weer af.
   - >-
     Het Aqara Smart Lock U100 heeft een toetsenpaneel met vingerafdruklezer en
     Apple Home Key, maar vervangt het complete slot. Vraag dus schriftelijke
@@ -130,16 +132,21 @@ products:
   - name: SwitchBot Lock Pro
     brand: SwitchBot
     query: SwitchBot Lock Pro
-    badge: Beste montage zonder gereedschap
+    badge: Beste montage zonder ingreep in het slot
     summary: >-
-      Een slim slot om op te plakken dat je bestaande draaiknop mechanisch
-      omdraait. Ideaal als je huurcontract verbiedt dat je ook maar iets aan het
-      slot doet.
+      Een slim slot op een montagebeugel dat je bestaande draaiknop mechanisch
+      omdraait en het slot zelf ongewijzigd laat. Ideaal als je huurcontract
+      verbiedt dat je het slot verandert.
     renterNote: >-
-      Wordt met plakstrips over de draaiknop gemonteerd: geen schroeven, niets
-      uit elkaar halen, en bij je verhuizing trek je het er weer af.
+      Wordt over de draaiknop gemonteerd op een beugel die de bestaande
+      schroeven van je slot hergebruikt (of stelschroeven die om de
+      slotcilinder klemmen); het slot wordt niet aangepast en volgens
+      Techlicious ging het er zonder sporen af. Zet bij je verhuizing de
+      originele schroeven terug.
     pros:
-      - Het slot van de verhuurder wordt helemaal niet gedemonteerd
+      - >-
+        Het slot van de verhuurder blijft ongewijzigd; de beugel hergebruikt
+        de schroeven ervan
       - Optioneel toetsenpaneel en vingerafdrukaccessoires
       - Matter-ondersteuning via een SwitchBot-hub
     cons:
@@ -165,14 +172,15 @@ products:
         width: 500
         height: 500
     scores:
-      install: 9
-      reversibility: 9
+      install: 7
+      reversibility: 8
       value: 7
       compatibility: 8
       portability: 8
     scoreNote: >-
-      Plakmontage over de draaiknop zonder demontage; toegang op afstand en
-      Matter vereisen een hub.
+      Beugelmontage die de bestaande slotschroeven hergebruikt, zonder
+      aanpassing aan het slot en zonder sporen bij het verwijderen; toegang op
+      afstand en Matter vereisen een hub.
     owners:
       read: 3
       praise:
@@ -197,17 +205,21 @@ products:
     query: Yale Approach Lock with Wi-Fi
     badge: Beste keuze met toetsenpaneel
     summary: >-
-      Het opzetslot van Yale laat je buitenbeslag zitten en werkt samen met de
-      toetsenpanelen van Yale, zodat je buiten met een code binnenkomt.
+      Het opzetslot van Yale laat je buitenbeslag zitten, en de set met Wi-Fi
+      en Keypad Touch bevat een biometrisch toetsenpaneel waarmee je buiten
+      met een code of vingerafdruk binnenkomt.
     renterNote: >-
       Wordt vanaf de binnenkant op het bestaande slot gezet; de originele
       draaiknop gaat bij je verhuizing terug.
     pros:
       - Bestaande sleutels en buitenbeslag blijven
-      - Werkt samen met toetsenpanelen van Yale
+      - >-
+        Biometrisch Keypad Touch voor code en vingerafdruk zit in de set
       - Ontgrendelt automatisch als je dichtbij komt
     cons:
-      - Het toetsenpaneel koop je apart
+      - >-
+        Voor toegang op afstand is een wifi-bridge in het stopcontact nodig
+        (PCWorld)
       - Of het past, hangt af van je slotmodel
     asin: B0D3VQD6YX
     image:
@@ -230,7 +242,8 @@ products:
       portability: 8
     scoreNote: >-
       Opzetmontage met een schroevendraaier waarbij de sleutels buiten blijven
-      werken; het toetsenpaneel koop je apart.
+      werken; het toetsenpaneel zit in de set, maar een wifi-bridge en het
+      controleren of het past kosten wat extra moeite.
     owners:
       read: 3
       praise:
@@ -344,8 +357,12 @@ sources:
     url: 'https://august.com/'
   - title: SwitchBot (manufacturer)
     url: 'https://www.switch-bot.com/'
-  - title: Yale Approach Lock with Wi-Fi
-    url: 'https://shopyalehome.com/'
+  - title: Yale Approach Lock with Wi-Fi and Keypad Touch
+    url: 'https://shopyalehome.com/products/yale-approach-lock-with-wi-fi-and-keypad-touch'
+  - title: Techlicious SwitchBot Lock Pro review
+    url: 'https://techlicious.com/review/switchbot-lock-pro-review'
+  - title: NotEnoughTech SwitchBot Lock Pro review
+    url: 'https://notenoughtech.com/home-automation/switchbot-lock-pro/'
   - title: Aqara Smart Lock U100 user manual (Seam device database copy)
     url: >-
       https://www.seam.co/img/device-db/aqara/manuals/aqara_smart-lock-u100_user_manual.pdf
@@ -358,13 +375,14 @@ sources:
     url: 'https://homekitnews.com/2023/06/14/aqara-smart-lock-u100-review/'
   - title: 'Matter standard overview, Connectivity Standards Alliance'
     url: 'https://csa-iot.org/all-solutions/matter/'
-reviewedDate: '2026-10-14T00:00:00.000Z'
+reviewedDate: '2026-10-19T00:00:00.000Z'
+updatedDate: '2026-10-19T00:00:00.000Z'
 faqs:
   - q: Mag ik als huurder een slim slot plaatsen zonder toestemming van de verhuurder?
     a: >-
       Veel huurcontracten verbieden het vervangen of omzetten van sloten, dus
-      lees eerst je contract. Een slim opzetslot dat alleen de draaiknop aan de
-      binnenkant vervangt, laat de sleutel van de verhuurder werken. Daarom gaan
+      lees eerst je contract. Een slim opzetslot dat alleen aan de binnenkant
+      van de deur zit, laat de sleutel van de verhuurder werken. Daarom gaan
       veel verhuurders akkoord, maar schriftelijke toestemming blijft de
       veiligste weg.
   - q: Past een slim opzetslot op elk slot?
@@ -383,12 +401,12 @@ faqs:
       USB-C-poort voor noodstroom van buitenaf.
   - q: Hoe haal ik een slim slot weg als ik verhuis?
     a: >-
-      Schroef een slim opzetslot los of trek het eraf, zet de bewaarde
+      Schroef een slim opzetslot of een slim slot op een beugel los, zet de bewaarde
       originele draaiknop en montageplaat terug en controleer het slot met je
       sleutel. Bij een volledig vervangend slot zoals het Aqara U100 haal je
       het eruit en plaats je het originele slot, de sluitplaat en de schroeven
       van de verhuurder terug. Controleer daarna of de originele sleutel werkt.
-  - q: Is een slim slot om op te plakken net zo veilig als een opzetslot?
+  - q: Is een slim slot op een beugel net zo veilig als een opzetslot?
     a: >-
       Bij beide types blijft het slot zelf ongewijzigd, dus de fysieke sterkte
       van de deur blijft gelijk. Verschillen in veiligheid komen neer op de
@@ -421,13 +439,13 @@ Hieronder bespreken we vier slimme sloten voor huurders, hoe je controleert of z
 Er zijn twee huurdervriendelijke soorten slimme sloten, plus één die toestemming vraagt:
 
 - **Slimme opzetsloten** (August, Yale Approach): je draait twee schroeven los, haalt de draaiknop aan de binnenkant eraf en zet de gemotoriseerde unit op de meenemer van het bestaande slot. Het slot, de sluitplaat en het sleutelgat aan de buitenkant blijven onaangeroerd.
-- **Slimme sloten om op te plakken** (SwitchBot Lock Pro): ze worden met plakstrips over de draaiknop gemonteerd en draaien die mechanisch om. Er wordt helemaal niets van het slot uit elkaar gehaald.
+- **Slimme sloten op een beugel** (SwitchBot Lock Pro): ze klikken over de draaiknop op een beugel die vastzit met de bestaande schroeven van je slot (of met stelschroeven die om de slotcilinder klemmen) en draaien die mechanisch om. Het slot zelf wordt niet aangepast, en volgens Techlicious ging het er zonder sporen weer af.
 - **Volledig vervangende slimme sloten** (Aqara Smart Lock U100): die vervangen het hele slot, binnen en buiten. Gebruik er alleen een met toestemming van de verhuurder en bewaar het originele slot om het terug te plaatsen.
 
 | Soort slim slot | Gereedschap | Sleutel van de verhuurder werkt nog | Gemiddelde tijd om te verwijderen |
 | --- | --- | --- | --- |
 | Slim opzetslot | Schroevendraaier | Ja | 10–15 minuten |
-| Slim slot om op te plakken | Geen | Ja | 5 minuten |
+| Slim slot op een beugel | Schroevendraaier | Ja | 5–10 minuten |
 | Volledig vervangend slim slot (Aqara U100) | Schroevendraaier, soms een beitel voor de sluitplaat | Nee (nieuwe cilinder) | 20–30 minuten |
 
 Ben je op zoek naar een slim slot voor je appartement, let dan in de productbeschrijving op woorden als "retrofit" of "fits over existing deadbolt" (past over het bestaande slot). Met die termen vind je het snelst een slim slot dat past bij je huurcontract.
@@ -440,15 +458,15 @@ Het [August Wi-Fi Smart Lock](amzn:August+Wi-Fi+Smart+Lock+4th+Gen) is het slimm
 
 Het slimme slot van August werkt met Amazon Alexa, Google Assistant en Apple Home, dus het past bij de spraakassistent die je al gebruikt. De belangrijkste nadelen zijn de CR123-batterijen (minder gangbaar dan AA) en het enkele slot dat een adapterplaat nodig heeft. Doe dus de compatibiliteitscheck van August voordat je bestelt.
 
-### SwitchBot Lock Pro: beste montage zonder gereedschap
+### SwitchBot Lock Pro: beste montage zonder ingreep in het slot
 
-Het [SwitchBot Lock Pro](amzn:SwitchBot+Lock+Pro) is het enige slimme slot in onze lijst waarbij je geen enkele schroef aanraakt. Het slot van SwitchBot plak je met plakstrips over je draaiknop, en een verstelbare grijper draait die om. Daarmee is het het beste slimme slot voor strenge huurcontracten waarin staat: "geen wijzigingen aan sloten".
+Het [SwitchBot Lock Pro](amzn:SwitchBot+Lock+Pro) is in onze lijst het snelst gemonteerd en verandert het minst aan het slot. Het zit over je draaiknop op een beugel die de bestaande schroeven van je slot hergebruikt (NotEnoughTech beschrijft stelschroeven die om de cilinder klemmen), en draait de draaiknop mechanisch om. Volgens Techlicious is er geen blijvende aanpassing nodig en laat het geen sporen achter als je het weghaalt. Je draait de bestaande schroeven wel los en zet ze opnieuw vast, dus check de precieze tekst van je huurcontract als daarin staat: "geen wijzigingen aan sloten".
 
 Het ecosysteem van SwitchBot biedt ook een toetsenpaneel met ontgrendelen via vingerafdruk, en als je het slot koppelt aan een SwitchBot-hub, krijg je bediening op afstand en Matter-ondersteuning. Reken die hub mee als je de deur vanaf je werk wilt vergrendelen of hem via Apple Home of Google Home wilt bedienen.
 
 ### Yale Approach Lock with Wi-Fi: beste keuze met toetsenpaneel
 
-Het [Yale Approach Lock](amzn:Yale+Approach+Lock+with+Wi-Fi) is het slimme opzetslot van Yale, en het blinkt uit voor huurders die buiten met een code naar binnen willen. Combineer het Yale Approach met een toetsenpaneel van Yale naast de deur (plakmontage werkt op de meeste kozijnen), dan krijgen huisgenoten of de hondenuitlaatservice hun eigen codes, zonder dat er sleutels bijgemaakt hoeven te worden.
+Het [Yale Approach Lock](amzn:Yale+Approach+Lock+with+Wi-Fi) is het slimme opzetslot van Yale, en het blinkt uit voor huurders die buiten met een code naar binnen willen. De set met Wi-Fi en Keypad Touch bevat een biometrisch toetsenpaneel dat je naast de deur met een plakstrip bevestigt of vastschroeft, zodat huisgenoten of de hondenuitlaatservice hun eigen codes krijgen, zonder dat er sleutels bijgemaakt hoeven te worden. Een wifi-bridge in het stopcontact regelt de toegang op afstand.
 
 Net als andere slimme opzetsloten wordt het Yale Approach vanaf de binnenkant van de deur over het bestaande slot gemonteerd. De sleutel van de verhuurder blijft dus werken, en de originele draaiknop gaat terug als je vertrekt.
 
@@ -500,4 +518,4 @@ Het slimme slot verwijderen gaat precies andersom. Zet de originele draaiknop te
 
 ## Welk slim slot moet je kopen?
 
-**Voor de meeste huurders is het August Wi-Fi Smart Lock het beste slimme slot, omdat het een echte opzetmontage combineert met ingebouwde wifi en ondersteuning voor alle grote spraakassistenten.** Kies het SwitchBot Lock Pro als je huurcontract verbiedt dat je aan het slot komt, het Yale Approach als toegang met een toetsenpaneel voor jou het belangrijkst is, en het Aqara Smart Lock U100 alleen als je verhuurder akkoord gaat met een volledige slotwissel en je toegang met vingerafdruk plus Apple Home Key wilt. Omdat het de meeste onderdelen vervangt, eindigt het bij ons voor huurders op de laatste plaats.
+**Voor de meeste huurders is het August Wi-Fi Smart Lock het beste slimme slot, omdat het een echte opzetmontage combineert met ingebouwde wifi en ondersteuning voor alle grote spraakassistenten.** Kies het SwitchBot Lock Pro als je het slot zelf ongewijzigd wilt laten, de set van het Yale Approach als je een toetsenpaneel en vingerafdruklezer meteen inbegrepen wilt, en het Aqara Smart Lock U100 alleen als je verhuurder akkoord gaat met een volledige slotwissel en je toegang met vingerafdruk plus Apple Home Key wilt. Omdat het de meeste onderdelen vervangt, eindigt het bij ons voor huurders op de laatste plaats.

@@ -8,7 +8,7 @@
   "warnings": [],
   "factCheck": {
     "verified": true,
-    "notes": "Compared against English best-smart-lock-for-renters: same 4 products/ASINs/specs, backset 2-3/8 in = 60 mm and 2-3/4 in = 70 mm, no new facts, no prices, no testing/ownership claims, removed added research/local-Amazon-store disclaimer, notes block repeats English bag-and-label tip, English links labeled. Spec sources are the English post's sources (maker pages, Aqara manual/Wellbots).",
-    "at": "2026-10-17T19:08:59.359Z"
+    "notes": "Synced Yale keypad and SwitchBot bracket corrections from English (c3eed27)",
+    "at": "2026-10-19T13:11:35.579Z"
   }
 }

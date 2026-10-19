@@ -8,7 +8,7 @@
   "warnings": [],
   "factCheck": {
     "verified": true,
-    "notes": "Compared line by line with English best-smart-lock-for-renters: all products, specs (60 mm/2-3/8 in, 70 mm/2-3/4 in backsets, 4 AA, CR123, 8 months), times, steps, FAQs and owner notes match the English post; sources are English URLs; no prices, no testing/ownership claims; story block reworded to add no new facts; English links labeled (auf Englisch).",
-    "at": "2026-10-17T17:44:13.762Z"
+    "notes": "Synced Yale keypad and SwitchBot bracket corrections from English (c3eed27)",
+    "at": "2026-10-19T13:11:35.139Z"
   }
 }

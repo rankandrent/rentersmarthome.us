@@ -434,7 +434,7 @@ The [August Wi-Fi Smart Lock](amzn:August+Wi-Fi+Smart+Lock+4th+Gen) is the retro
 
 The August smart lock works with Amazon Alexa, Google Assistant and Apple Home, so it fits whichever voice assistant you already use (our [Alexa vs Google Home comparison](/blog/alexa-vs-google-home/) helps if you haven't picked one yet). The main trade-offs are CR123 batteries (less common than AA) and the occasional deadbolt that needs an adapter plate, so run August's compatibility check before ordering.
 
-### SwitchBot Lock Pro: best no-tools install
+### SwitchBot Lock Pro: best install that leaves the lock untouched
 
 The [SwitchBot Lock Pro](amzn:SwitchBot+Lock+Pro) is the quickest install here and the one that changes the lock the least. It mounts over your thumbturn on a bracket that reuses your existing lock screws (NotEnoughTech describes grub screws that clamp to the barrel) and turns the thumbturn mechanically. Techlicious says it needs no permanent modification and leaves no trace when removed, though you do remove and refit the existing screws, so check your lease wording if it says "no alterations to locks."
 

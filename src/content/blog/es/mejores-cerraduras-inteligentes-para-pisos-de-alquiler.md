@@ -36,15 +36,17 @@ readingTime: 9
 tldr:
   - >-
     Una cerradura inteligente apta para inquilinos es una cerradura de
-    adaptación que solo sustituye el pomo giratorio interior, así que el bombín
-    exterior y la llave de tu casero siguen funcionando.
+    adaptación que va en la cara interior de la puerta y no toca el bombín
+    exterior, así que la llave de tu casero sigue funcionando.
   - >-
     La August Wi-Fi Smart Lock (4.ª generación) es la mejor opción para la
     mayoría de los inquilinos gracias a su wifi integrado y a su diseño compacto
     de adaptación.
   - >-
-    La SwitchBot Lock Pro es la única opción de verdad sin herramientas, porque
-    se pega sobre el pomo giratorio con adhesivo.
+    La SwitchBot Lock Pro es la de instalación más rápida y deja intacta la
+    propia cerradura: se monta sobre el pomo giratorio con un soporte sujeto
+    por los tornillos que ya tiene tu cerradura, y en la reseña de Techlicious
+    se retiró sin dejar rastro.
   - >-
     La Aqara Smart Lock U100 añade un teclado con huella dactilar y Apple Home
     Key, pero sustituye la cerradura de cerrojo entera: consigue el permiso del
@@ -132,15 +134,20 @@ products:
   - name: SwitchBot Lock Pro
     brand: SwitchBot
     query: SwitchBot Lock Pro
-    badge: La mejor sin herramientas
+    badge: La mejor sin modificar la cerradura
     summary: >-
-      Una cerradura inteligente adhesiva que gira mecánicamente tu pomo
-      giratorio actual. Ideal si tu contrato prohíbe tocar la cerradura.
+      Una cerradura inteligente con soporte de montaje que gira mecánicamente
+      tu pomo giratorio actual y deja la cerradura sin modificar. Ideal si tu
+      contrato prohíbe cambiar la cerradura.
     renterNote: >-
-      Se monta sobre el pomo giratorio con adhesivo: sin tornillos ni
-      desmontaje, y se despega cuando te mudas.
+      Se monta sobre el pomo giratorio con un soporte que reutiliza los
+      tornillos de tu cerradura (o con prisioneros que se ajustan al bombín);
+      la cerradura no se modifica y Techlicious comprobó que se retira sin
+      dejar rastro. Vuelve a poner los tornillos originales cuando te mudes.
     pros:
-      - No se desmonta nada de la cerradura del casero
+      - >-
+        La cerradura del casero no se modifica; el soporte reutiliza sus
+        tornillos
       - Accesorios opcionales de teclado y huella dactilar
       - Compatible con Matter a través de un hub de SwitchBot
     cons:
@@ -166,14 +173,15 @@ products:
         width: 500
         height: 500
     scores:
-      install: 9
-      reversibility: 9
+      install: 7
+      reversibility: 8
       value: 7
       compatibility: 8
       portability: 8
     scoreNote: >-
-      Montaje adhesivo sobre el pomo giratorio sin desmontar nada; el acceso
-      remoto y Matter necesitan un hub.
+      Montaje con soporte que reutiliza los tornillos de la cerradura, sin
+      cambios en la cerradura y sin rastro al retirarla; el acceso remoto y
+      Matter necesitan un hub.
     owners:
       read: 3
       praise:
@@ -198,17 +206,20 @@ products:
     query: Yale Approach Lock with Wi-Fi
     badge: La mejor con teclado
     summary: >-
-      La cerradura de adaptación de Yale conserva tus herrajes exteriores y se
-      empareja con los teclados de Yale para abrir con código desde fuera.
+      La cerradura de adaptación de Yale conserva tus herrajes exteriores y,
+      en el kit con Wi-Fi y Keypad Touch, incluye un teclado biométrico para
+      abrir desde fuera con código o huella dactilar.
     renterNote: >-
       Se adapta a la cerradura existente desde dentro; el pomo giratorio
       original vuelve a su sitio al mudarte.
     pros:
       - Conserva las llaves y los herrajes exteriores actuales
-      - Se empareja con los teclados de Yale
+      - Incluye el Keypad Touch biométrico para entrar con código y huella
       - Desbloqueo automático cuando te acercas
     cons:
-      - El teclado se compra aparte
+      - >-
+        Necesita un puente wifi enchufado a la corriente para el acceso remoto
+        (PCWorld)
       - Que encaje depende del modelo de tu cerradura
     asin: B0D3VQD6YX
     image:
@@ -231,7 +242,8 @@ products:
       portability: 8
     scoreNote: >-
       Adaptación con destornillador que conserva las llaves exteriores; el
-      teclado se compra aparte.
+      kit incluye el teclado, pero el puente wifi y comprobar que encaja
+      suponen algo más de trabajo.
     owners:
       read: 3
       praise:
@@ -345,8 +357,12 @@ sources:
     url: 'https://august.com/'
   - title: SwitchBot (manufacturer)
     url: 'https://www.switch-bot.com/'
-  - title: Yale Approach Lock with Wi-Fi
-    url: 'https://shopyalehome.com/'
+  - title: Yale Approach Lock with Wi-Fi and Keypad Touch
+    url: 'https://shopyalehome.com/products/yale-approach-lock-with-wi-fi-and-keypad-touch'
+  - title: Techlicious SwitchBot Lock Pro review
+    url: 'https://techlicious.com/review/switchbot-lock-pro-review'
+  - title: NotEnoughTech SwitchBot Lock Pro review
+    url: 'https://notenoughtech.com/home-automation/switchbot-lock-pro/'
   - title: Aqara Smart Lock U100 user manual (Seam device database copy)
     url: >-
       https://www.seam.co/img/device-db/aqara/manuals/aqara_smart-lock-u100_user_manual.pdf
@@ -359,13 +375,14 @@ sources:
     url: 'https://homekitnews.com/2023/06/14/aqara-smart-lock-u100-review/'
   - title: 'Matter standard overview, Connectivity Standards Alliance'
     url: 'https://csa-iot.org/all-solutions/matter/'
-reviewedDate: '2026-10-14T00:00:00.000Z'
+reviewedDate: '2026-10-19T00:00:00.000Z'
+updatedDate: '2026-10-19T00:00:00.000Z'
 faqs:
   - q: ¿Puedo poner una cerradura inteligente en un piso de alquiler sin permiso del casero?
     a: >-
       Muchos contratos de alquiler prohíben cambiar las cerraduras o los
       bombines, así que lee primero el tuyo. Una cerradura inteligente de
-      adaptación que solo sustituye el pomo giratorio interior mantiene
+      adaptación que se queda en la cara interior de la puerta mantiene
       operativa la llave del casero, y por eso muchos caseros la aceptan, pero
       lo más seguro sigue siendo tener el permiso por escrito.
   - q: ¿Las cerraduras inteligentes de adaptación sirven para cualquier cerradura?
@@ -384,12 +401,12 @@ faqs:
       desde fuera en caso de emergencia.
   - q: ¿Cómo quito la cerradura inteligente cuando me mudo?
     a: >-
-      Desatornilla o despega la cerradura de adaptación, vuelve a montar el
+      Desatornilla la cerradura de adaptación o la de soporte, vuelve a montar el
       pomo giratorio original y la placa de montaje que guardaste y comprueba
       el cerrojo con tu llave. Si es una cerradura completa como la Aqara U100,
       desmóntala y vuelve a colocar la cerradura original del casero, el
       cerradero y los tornillos, y comprueba que la llave original funciona.
-  - q: ¿Una cerradura inteligente adhesiva es tan segura como una de adaptación?
+  - q: ¿Una cerradura inteligente con soporte es tan segura como una de adaptación?
     a: >-
       Los dos tipos dejan intacta la propia cerradura de cerrojo, así que la
       resistencia física de la puerta no cambia. Las diferencias de seguridad
@@ -422,13 +439,13 @@ A continuación repasamos cuatro cerraduras inteligentes para inquilinos, cómo 
 Hay dos tipos de cerradura inteligente seguros para inquilinos, más uno que necesita permiso:
 
 - **Cerraduras inteligentes de adaptación** (August, Yale Approach): se quitan dos tornillos y el pomo giratorio interior, y la unidad motorizada se monta sobre el eje de arrastre (la cola) de la cerradura existente. El cerrojo, el cerradero y el bombín exterior no se tocan.
-- **Cerraduras inteligentes adhesivas** (SwitchBot Lock Pro): se pegan sobre el pomo giratorio con adhesivo y lo giran mecánicamente. No se desmonta ninguna pieza de la cerradura.
+- **Cerraduras inteligentes con soporte** (SwitchBot Lock Pro): se encajan sobre el pomo giratorio en un soporte sujeto por los tornillos que ya tiene tu cerradura (o por prisioneros que se ajustan al bombín) y lo giran mecánicamente. La cerradura en sí no se modifica, y Techlicious comprobó que se retira sin dejar rastro.
 - **Cerraduras de cerrojo inteligentes completas** (Aqara Smart Lock U100): sustituyen toda la cerradura, por dentro y por fuera. Úsala solo con el permiso del casero y guarda la cerradura original para volver a montarla.
 
 | Tipo de cerradura inteligente | Herramientas | La llave del casero sigue funcionando | Tiempo habitual para quitarla |
 | --- | --- | --- | --- |
 | Cerradura de adaptación | Destornillador | Sí | 10–15 minutos |
-| Cerradura adhesiva | Ninguna | Sí | 5 minutos |
+| Cerradura con soporte | Destornillador | Sí | 5–10 minutos |
 | Cerradura de cerrojo completa (Aqara U100) | Destornillador y, a veces, un formón para el cerradero | No (bombín nuevo) | 20–30 minutos |
 
 Si estás buscando una cerradura inteligente para tu piso, fíjate en si la descripción del producto dice "retrofit" o "fits over existing deadbolt" (se coloca sobre la cerradura existente). Esas expresiones son la forma más rápida de encontrar una cerradura inteligente compatible con tu contrato de alquiler.
@@ -441,15 +458,15 @@ La [August Wi-Fi Smart Lock](amzn:August+Wi-Fi+Smart+Lock+4th+Gen) es la cerradu
 
 La cerradura inteligente de August funciona con Amazon Alexa, Google Assistant y Apple Home, así que encaja con el asistente de voz que ya uses. Los principales inconvenientes son las pilas CR123 (menos habituales que las AA) y alguna que otra cerradura que necesita una placa adaptadora, así que pasa la comprobación de compatibilidad de August antes de hacer el pedido.
 
-### SwitchBot Lock Pro: la mejor sin herramientas
+### SwitchBot Lock Pro: la mejor sin modificar la cerradura
 
-La [SwitchBot Lock Pro](amzn:SwitchBot+Lock+Pro) es la única cerradura inteligente de nuestra lista con la que no tocas ni un tornillo. La cerradura de SwitchBot se pega sobre tu pomo giratorio con almohadillas adhesivas y usa una pinza ajustable para girarlo, lo que la convierte en la mejor cerradura inteligente para contratos estrictos que dicen "no se permiten modificaciones en las cerraduras".
+La [SwitchBot Lock Pro](amzn:SwitchBot+Lock+Pro) es la de instalación más rápida de nuestra lista y la que menos cambia la cerradura. Se monta sobre tu pomo giratorio con un soporte que reutiliza los tornillos de tu cerradura (NotEnoughTech describe prisioneros que se ajustan al bombín) y gira el pomo mecánicamente. Según Techlicious, no necesita ninguna modificación permanente y no deja rastro al quitarla, aunque sí tienes que quitar y volver a poner los tornillos existentes, así que revisa bien la redacción de tu contrato si dice "no se permiten modificaciones en las cerraduras".
 
 El ecosistema de SwitchBot suma un teclado con desbloqueo por huella dactilar, y si emparejas la cerradura con un hub de SwitchBot tienes control remoto y compatibilidad con Matter. Cuenta con ese hub si quieres cerrar la puerta desde el trabajo o controlarla con Apple Home o Google Home.
 
 ### Yale Approach Lock with Wi-Fi: la mejor con teclado
 
-La [Yale Approach Lock](amzn:Yale+Approach+Lock+with+Wi-Fi) es la cerradura inteligente de adaptación de Yale, y destaca para inquilinos que quieren entrar con código desde fuera. Empareja la Yale Approach con un teclado de Yale montado junto a la puerta (el montaje adhesivo funciona en la mayoría de los marcos) y tus compañeros de piso o la persona que pasea a tu perro tendrán sus propios códigos, sin hacer copias de llaves.
+La [Yale Approach Lock](amzn:Yale+Approach+Lock+with+Wi-Fi) es la cerradura inteligente de adaptación de Yale, y destaca para inquilinos que quieren entrar con código desde fuera. El kit con Wi-Fi y Keypad Touch incluye un teclado biométrico que puedes pegar junto a la puerta con una almohadilla adhesiva o atornillar, así que tus compañeros de piso o la persona que pasea a tu perro tendrán sus propios códigos, sin hacer copias de llaves. Un puente wifi enchufado a la corriente se encarga del acceso remoto.
 
 Como el resto de cerraduras de adaptación, la Yale Approach se monta sobre la cerradura existente desde el interior de la puerta, así que la llave del casero sigue funcionando y el pomo giratorio original vuelve a su sitio cuando te vas.
 
@@ -501,4 +518,4 @@ Desinstalar la cerradura inteligente es el mismo proceso al revés. Vuelve a mon
 
 ## ¿Qué cerradura inteligente deberías comprar?
 
-**Para la mayoría de los inquilinos, la August Wi-Fi Smart Lock es la mejor cerradura inteligente porque combina una instalación de adaptación de verdad con wifi integrado y compatibilidad con todos los grandes asistentes.** Elige la SwitchBot Lock Pro si tu contrato prohíbe tocar la cerradura, la Yale Approach si lo que más te importa es entrar con teclado, y la Aqara Smart Lock U100 solo si tu casero aprueba cambiar la cerradura entera y quieres entrar con huella dactilar y Apple Home Key. Como es la que más herrajes cambia, en nuestra clasificación para inquilinos queda en último lugar.
+**Para la mayoría de los inquilinos, la August Wi-Fi Smart Lock es la mejor cerradura inteligente porque combina una instalación de adaptación de verdad con wifi integrado y compatibilidad con todos los grandes asistentes.** Elige la SwitchBot Lock Pro si quieres que la cerradura en sí quede sin modificar, el kit de la Yale Approach si quieres el teclado y el lector de huellas incluidos, y la Aqara Smart Lock U100 solo si tu casero aprueba cambiar la cerradura entera y quieres entrar con huella dactilar y Apple Home Key. Como es la que más herrajes cambia, en nuestra clasificación para inquilinos queda en último lugar.
