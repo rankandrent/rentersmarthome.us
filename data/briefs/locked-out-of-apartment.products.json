@@ -1,0 +1,510 @@
+{
+ "products": [
+  {
+   "name": "August Wi-Fi Smart Lock (4th Gen)",
+   "brand": "August",
+   "query": "August Wi-Fi Smart Lock 4th Gen",
+   "matchName": "August Wi-Fi Smart Lock",
+   "badge": "Best retrofit for a phone-free exit",
+   "summary": "A retrofit smart lock that clamps onto the inside of your existing single-cylinder deadbolt and keeps the outside keyhole and your key. Built-in Wi-Fi gives remote unlock, so a friend or your landlord can let you in from their phone if you are standing outside without keys.",
+   "renterNote": "Replaces only the interior thumbturn side with a screwdriver install, and your existing keys still work. Caveat for lockouts: the keypad for phone-free codes is sold separately, it runs on two CR123 batteries, and owners report changing them every 3 to 7 months.",
+   "pros": [
+    "Fits over most single-cylinder deadbolts from the inside, so the exterior and your key stay as they are",
+    "Built-in Wi-Fi (2.4 or 5 GHz) means remote unlock without a separate bridge",
+    "Auto-lock and DoorSense can re-lock the door, so you can also set up auto-unlock as you arrive"
+   ],
+   "cons": [
+    "Keypad for entering a code from outside is a separate purchase",
+    "Owners report battery changes every 3 to 7 months, which matters for a lockout-prevention lock"
+   ],
+   "specs": {
+    "Type": "Retrofit smart lock over existing deadbolt (inside only)",
+    "Fits": "Most single-cylinder deadbolts",
+    "Backup entry": "Existing key still works (outside cylinder unchanged)",
+    "Power": "2 x CR123 batteries (August page: up to 3 months)",
+    "Connectivity": "Built-in Wi-Fi (802.11 b/g/n 2.4 GHz or 5 GHz), Bluetooth",
+    "Keypad": "Not included (Smart Keypad sold separately)",
+    "In the box": "Lock, DoorSense sensor, 2 CR123 batteries, adapter and mounting hardware",
+    "Voice assistants": "Alexa, Google Assistant, Apple HomeKit (per Amazon listing)"
+   },
+   "scores": {
+    "install": 7,
+    "reversibility": 8,
+    "value": 7,
+    "compatibility": 10,
+    "portability": 8
+   },
+   "scoreNote": "Screwdriver retrofit that keeps your key and exterior; works with Alexa, Google and Apple Home. Battery swaps every few months and a separate keypad hold back value.",
+   "sources": [
+    "https://august.com/products/august-wifi-smart-lock"
+   ],
+   "asin": "B082VXK9CK",
+   "amazonTitle": "August Home, Silver Wi-Fi Connected Smart Keyless Entry Door Lock, Electronic Door Lock Fits Your Existing Deadbolt in Minutes, ‎ ‎AUG-SL05-M01-S01",
+   "asinVerified": true,
+   "owners": {
+    "read": 4,
+    "praise": [
+     "Easy to live with once set up; owners say going back to a key feels annoying",
+     "Physical key still works if the batteries do run out",
+     "Lots of low-battery notifications before the lock stops"
+    ],
+    "complaints": [
+     "Goes through batteries: one owner replaces them about every 3 months, another about every 7",
+     "Sporadic Wi-Fi connectivity problems appear in review summaries"
+    ],
+    "sources": [
+     {
+      "title": "Slickdeals August Wi-Fi Smart Lock (4th Gen) owner thread",
+      "url": "https://slickdeals.net/f/16257052-august-wi-fi-smart-lock-4th-gen-black-or-silver-139-free-shipping"
+     },
+     {
+      "title": "ShopSavvy August Wi-Fi Smart Lock 4th Gen review summary",
+      "url": "https://shopsavvy.com/reviews-tldr/august-wi-fi-smart-lock-4th-gen"
+     }
+    ]
+   },
+   "ownerQuotes": [
+    {
+     "text": "Lock is still fully functional with the physical key of battery does completely drain",
+     "url": "https://slickdeals.net/f/16257052-august-wi-fi-smart-lock-4th-gen-black-or-silver-139-free-shipping"
+    },
+    {
+     "text": "Goes through batteries. I have to replace every 3 months",
+     "url": "https://slickdeals.net/f/16257052-august-wi-fi-smart-lock-4th-gen-black-or-silver-139-free-shipping"
+    },
+    {
+     "text": "Battery life is good, maybe changing the batteries every 7 months or so.",
+     "url": "https://slickdeals.net/f/16257052-august-wi-fi-smart-lock-4th-gen-black-or-silver-139-free-shipping"
+    }
+   ]
+  },
+  {
+   "name": "SwitchBot Lock Pro",
+   "brand": "SwitchBot",
+   "query": "SwitchBot Lock Pro",
+   "matchName": "SwitchBot Smart Lock Pro",
+   "badge": "Best add-on keypad and fingerprint combo",
+   "summary": "A battery-powered motor that mounts over your existing thumbturn and keeps the original lock and key. Pair it with the separate Keypad Touch and you can get in by fingerprint, passcode or NFC card without a phone.",
+   "renterNote": "Mounts on the inside with brackets (SwitchBot also supplies adhesive and a door magnet), leaves the original lock and key in place, and Techlicious found it came off with no trace. The keypad and the hub for remote unlock are separate purchases, and fit depends on your lock, so check SwitchBot's compatibility list before you buy.",
+   "pros": [
+    "Keeps your original lock and key, so the landlord's cylinder is untouched",
+    "Works with a separate Keypad Touch for fingerprint, passcode and NFC card entry",
+    "Low Battery Unlock keeps the lock working after the low-battery warning, per Techlicious"
+   ],
+   "cons": [
+    "Keypad and the hub for remote unlock are not included in the lock-only listing",
+    "Door fit varies; reviewers hit alignment and magnet-sensor problems on some doors"
+   ],
+   "specs": {
+    "Type": "Retrofit motor over existing thumbturn",
+    "Backup entry": "Original lock and key preserved",
+    "Power": "4 x AA (1.5 V 2900 mAh), 6-9 months per SwitchBot; up to 9-12 months with the optional Dual Power Pack",
+    "Keypad": "Keypad Touch sold separately",
+    "Unlock methods": "App, fingerprint, passcode, one-time and timed passcodes, NFC card (some need Keypad Touch or Hub)",
+    "Remote and Matter": "Needs SwitchBot Hub 2 or Hub Mini Matter Enabled (sold separately)",
+    "Compatibility": "Single-cylinder deadbolt, Euro profile cylinder (key or knob)",
+    "Weight": "435 g (15.3 oz) with batteries"
+   },
+   "scores": {
+    "install": 7,
+    "reversibility": 8,
+    "value": 7,
+    "compatibility": 8,
+    "portability": 8
+   },
+   "scoreNote": "Bracket mount with no change to the lock itself and no trace left on move-out; keypad, hub and fit checks add cost and effort.",
+   "sources": [
+    "https://www.switch-bot.com/products/switchbot-lock-pro"
+   ],
+   "asin": "B0F9FQ7NT3",
+   "amazonTitle": "SwitchBot Smart Lock Pro Electronic Door Lock Black",
+   "asinVerified": true,
+   "owners": {
+    "read": 3,
+    "praise": [
+     "Reviewers call the install quick and say it left the original lock untouched",
+     "Unlocking is about as fast as turning a key, per one reviewer",
+     "Low-battery warnings gave plenty of notice in one review"
+    ],
+    "complaints": [
+     "Fit depends on the door and lock: a Trustpilot reviewer wanted better adaptation to different door models",
+     "Low-battery alerts were overwhelming until the app settings were changed (Techlicious)",
+     "The included magnet sensor can be hard to place on some doors (NotEnoughTech)"
+    ],
+    "sources": [
+     {
+      "title": "Techlicious SwitchBot Lock Pro review",
+      "url": "https://techlicious.com/review/switchbot-lock-pro-review"
+     },
+     {
+      "title": "NotEnoughTech SwitchBot Lock Pro review",
+      "url": "https://notenoughtech.com/home-automation/switchbot-lock-pro/"
+     },
+     {
+      "title": "Trustpilot switch-bot.com reviews (page 9)",
+      "url": "https://no.trustpilot.com/review/www.switch-bot.com?page=9"
+     }
+    ]
+   },
+   "ownerQuotes": [
+    {
+     "text": "A noteworthy feature is the Low Battery Unlock, which allows access even after the low battery warning, preventing lockouts.",
+     "url": "https://techlicious.com/review/switchbot-lock-pro-review"
+    },
+    {
+     "text": "the Lock Pro doesn't require any permanent modifications to your door or original lock.",
+     "url": "https://techlicious.com/review/switchbot-lock-pro-review"
+    },
+    {
+     "text": "the action of unlocking the door is as fast as using the key right now.",
+     "url": "https://notenoughtech.com/home-automation/switchbot-lock-pro/"
+    },
+    {
+     "text": "There are some margins of improvement on the adaptation on the fifferent kinds of door models",
+     "url": "https://no.trustpilot.com/review/www.switch-bot.com?page=9"
+    }
+   ]
+  },
+  {
+   "name": "Yale Approach Lock with Wi-Fi and Keypad Touch",
+   "brand": "Yale",
+   "query": "Yale Approach Lock Deadbolt Wi-Fi Keypad B-YRR110-F-WF1-N-BSP",
+   "matchName": "Yale Approach Lock",
+   "badge": "Best keypad and fingerprint kit",
+   "summary": "Yale's first retrofit smart lock installs over your existing deadbolt on the inside and ships with a biometric keypad and a Wi-Fi bridge. You can get in by fingerprint or code without a phone, and the key still works.",
+   "renterNote": "The lock goes on the inside and you keep your keys; the included keypad can be stuck on with an adhesive pad or screwed on, so you can keep it drill-free. PCWorld found the install took more steps than a full-replacement deadbolt, and the lock's mounting plate screws through the existing latch into the exterior hardware.",
+   "pros": [
+    "Keypad, fingerprint reader and Wi-Fi bridge are all included, so you can enter without a phone",
+    "Keeps your existing key as a backup",
+    "Keypad mounts with an included adhesive pad or screws and is IPX5 rated"
+   ],
+   "cons": [
+    "More install steps than a full-replacement deadbolt, and the bridge takes up an outlet within about 30 feet (PCWorld)",
+    "Owners report a 3-5 second fingerprint lag, power-cycling the bridge every six months or so, and no HomeKit"
+   ],
+   "specs": {
+    "Type": "Retrofit smart lock over existing deadbolt (inside only)",
+    "Fits": "Most single-cylinder deadbolts",
+    "Backup entry": "Existing key still works",
+    "Unlock methods": "Fingerprint, keypad code, optional Auto-Unlock, Yale Access app virtual keys, Alexa, Google",
+    "Power": "4 x AA (included); owner reports 4-5 months",
+    "Keypad": "Included, biometric touchscreen, IPX5, -4 to 122 F; adhesive pad or screw mount",
+    "Connectivity": "Bluetooth to a plug-in Wi-Fi Connect bridge",
+    "Model": "B-YRR110-F-WF1-N-BSP"
+   },
+   "scores": {
+    "install": 6,
+    "reversibility": 8,
+    "value": 7,
+    "compatibility": 6,
+    "portability": 7
+   },
+   "scoreNote": "Keeps your key and exterior, with a drill-free keypad option; extra install steps, a bridge and no HomeKit hold back install and compatibility.",
+   "sources": [
+    "https://shopyalehome.com/products/yale-approach-lock-with-wi-fi-and-keypad-touch",
+    "https://www.pcworld.com/article/2331746/yale-approach-lock-with-wi-fi-keypad-review-this-is-easier.html"
+   ],
+   "asin": "B0D3VQD6YX",
+   "amazonTitle": "Yale Approach™ Lock Deadbolt, Silver Key-Free Smart Entry Door Lock with Wi-Fi Connected Touchscreen Keypad and Biometric Fingerprint Scanner for Code Entry and Remove Access, B-YRR110-F-WF1-N-BSP",
+   "asinVerified": true,
+   "owners": {
+    "read": 3,
+    "praise": [
+     "One owner of about a year calls it pretty solid and more reliable than expected",
+     "Owners value fingerprint entry while keeping the original key",
+     "Install worked for a PCWorld reviewer after a calibration retry"
+    ],
+    "complaints": [
+     "Fingerprint unlock lags by a few seconds",
+     "Bridge needs a power cycle every six months or so for one owner; another warns against any lock with a bridge",
+     "Calibration and firmware update glitches in PCWorld's test"
+    ],
+    "sources": [
+     {
+      "title": "Slickdeals Yale Approach owner thread",
+      "url": "https://slickdeals.net/f/18584878-yale-approach-apartment-smart-lock-wi-fi-deadbolt-with-keypad-access-silver-72-99"
+     },
+     {
+      "title": "PCWorld Yale Approach Lock with Wi-Fi + Keypad review",
+      "url": "https://www.pcworld.com/article/2331746/yale-approach-lock-with-wi-fi-keypad-review-this-is-easier.html"
+     }
+    ]
+   },
+   "ownerQuotes": [
+    {
+     "text": "I've had this lock for about a year and it's been pretty solid. Outside of having to cycle the power on the bridge every 6-ish months, it's surprisingly been more reliable than I expected. Also it uses 4 AA batteries which have lasted me roughly 4-5 months.",
+     "url": "https://slickdeals.net/f/18584878-yale-approach-apartment-smart-lock-wi-fi-deadbolt-with-keypad-access-silver-72-99"
+    },
+    {
+     "text": "There is like a 3-5 second lag between placing your finger onto the sensor and the door recognizing it / opening the door.",
+     "url": "https://slickdeals.net/f/18584878-yale-approach-apartment-smart-lock-wi-fi-deadbolt-with-keypad-access-silver-72-99"
+    },
+    {
+     "text": "Installation required more steps than the typical full-replacement smart deadbolt",
+     "url": "https://www.pcworld.com/article/2331746/yale-approach-lock-with-wi-fi-keypad-review-this-is-easier.html"
+    }
+   ]
+  },
+  {
+   "name": "Aqara Smart Lock U100",
+   "brand": "Aqara",
+   "query": "Aqara Smart Lock U100 Apple Home Key Fingerprint Deadbolt",
+   "matchName": "Aqara Smart Lock U100",
+   "badge": "Best full keypad deadbolt (needs OK)",
+   "summary": "A full replacement deadbolt with a fingerprint reader, Apple Home Key and two mechanical keys, so a code, fingerprint or phone tap gets you in. It is the only pick here that replaces the landlord's deadbolt, so it needs written permission.",
+   "renterNote": "Replaces your single-cylinder deadbolt (2-3/8 or 2-3/4 inch backset, 1-3/8 to 2-11/64 inch wood door), so get written landlord approval, keep the original deadbolt and screws, and hand the landlord a key copy if your lease requires it. A USB-C port on the outside gives emergency power, but owners report short battery life.",
+   "pros": [
+    "Fingerprint (up to 50), Apple Home Key, one-time codes and two mechanical keys give several ways in",
+    "USB-C emergency power port on the outer panel",
+    "IP65 outer panel, rated -31 to 150 F"
+   ],
+   "cons": [
+    "Replaces the landlord's deadbolt, so it needs written approval and a swap-back at move-out",
+    "Owners report battery drain far below the rated 8 months, which defeats a lockout preventer"
+   ],
+   "specs": {
+    "Type": "Full replacement deadbolt (single cylinder)",
+    "Fits": "Backset 2-3/8 or 2-3/4 in; wood door 1-3/8 to 2-11/64 in",
+    "Backup entry": "2 mechanical keys; USB-C emergency power port",
+    "Unlock methods": "Fingerprint (up to 50), Apple Home Key, one-time and timed passwords, mechanical key; NFC card sold separately",
+    "Power": "4 x AA (included), rated up to 8 months",
+    "Weather": "IP65 outer panel; -31 to 150 F",
+    "Hub": "Aqara Zigbee 3.0 hub needed for remote unlock, Alexa, Google and Matter",
+    "Model": "SDL-D01"
+   },
+   "scores": {
+    "install": 5,
+    "reversibility": 7,
+    "value": 7,
+    "compatibility": 9,
+    "portability": 7
+   },
+   "scoreNote": "Whole-deadbolt swap needs landlord approval and a swap back; strong Apple Home and Matter support, but owners report poor battery life.",
+   "sources": [
+    "https://www.aqara.com/us/product/smart-lock-u100/"
+   ],
+   "asin": "B0BZSD2L1W",
+   "amazonTitle": "Aqara Smart Lock U100, Apple Home Key, Fingerprint Deadbolt, Gray | Matter Over Thread, Keyless Entry Door Lock, Touchscreen Keypad, IP65 Weatherproof, Supports Apple HomeKit, Alexa, Google",
+   "asinVerified": true,
+   "owners": {
+    "read": 5,
+    "praise": [
+     "Owners say it works very well once it is mounted",
+     "Home Key taps and fingerprint unlock work for Apple Home users",
+     "Matter through an Aqara hub made Home Assistant control work for several owners"
+    ],
+    "complaints": [
+     "Battery drain: owners report days to weeks on a set, or sudden drain after a firmware update",
+     "Awkward to mount and cheaply made hardware, per one early owner",
+     "Remote and smart-home features depend on buying an Aqara hub"
+    ],
+    "sources": [
+     {
+      "title": "Aqara Forum: U100 Battery Life",
+      "url": "https://forum.aqara.com/t/u100-battery-life/283279"
+     },
+     {
+      "title": "Aqara Forum: U100 smart lock sudden battery drain",
+      "url": "https://forum.aqara.com/t/u100-smart-lock-sudden-battery-drain/37405"
+     },
+     {
+      "title": "Home Assistant Community: Aqara U100 owner thread",
+      "url": "https://community.home-assistant.io/t/aqara-u100-smart-lock/579805"
+     }
+    ]
+   },
+   "ownerQuotes": [
+    {
+     "text": "I am new the U100 and am shocked by how fast batteries are being burned.",
+     "url": "https://forum.aqara.com/t/u100-battery-life/283279"
+    },
+    {
+     "text": "So I have 3 u100 smart locks and suddenly on all 3 battery drain is crazy. Low battery just after a few days.",
+     "url": "https://forum.aqara.com/t/u100-smart-lock-sudden-battery-drain/37405"
+    },
+    {
+     "text": "once it’s on it works very well",
+     "url": "https://community.home-assistant.io/t/aqara-u100-smart-lock/579805"
+    }
+   ]
+  },
+  {
+   "name": "Master Lock Portable Key Lock Box 5400EC",
+   "brand": "Master Lock",
+   "query": "Master Lock Portable Key Lock Box 5400EC",
+   "matchName": "Master Lock Portable Key Lock Box",
+   "badge": "Best no-tools spare key box",
+   "summary": "A combination key box that hangs by its shackle over a door knob, so you can keep a spare key at your own door and open it with a code you set. It needs no power, no phone and no drilling, which is why it is the simplest lockout fix.",
+   "renterNote": "Hangs over most ball, biscuit and tulip door knobs, so nothing is drilled or glued. Caveats: it is a theft deterrent, not a safe (owners report a burglar smashing one open), it shows from the hallway, and check your lease and landlord before leaving a key outside.",
+   "pros": [
+    "Nothing to charge or replace: a resettable 4-digit combination",
+    "Holds up to 5 standard house keys, per Amazon listing",
+    "Vinyl-coated shackle hangs on a door knob without tools"
+   ],
+   "cons": [
+    "Not a safe: a verified buyer reported a burglar breaching one, and another reviewer says it only deters theft",
+    "A few owners report mechanism problems, such as a unit that would not open or accepted a wrong code"
+   ],
+   "specs": {
+    "Type": "Portable combination key lock box (shackle, over-the-knob)",
+    "Lock": "Set-your-own 4-digit combination",
+    "Capacity": "Up to 5 standard house keys (Amazon listing)",
+    "Exterior size": "6-1/4 x 3-1/4 x 1-1/2 in (H x W x D)",
+    "Shackle": "Length 1-13/32 in, width 1-7/8 in, diameter 13/32 in, vinyl coated",
+    "Weather": "Weather cover over the dials",
+    "Weight": "1.16 lb without packaging",
+    "Model": "5400D (maker), listed on Amazon as 5400EC"
+   },
+   "scores": {
+    "install": 10,
+    "reversibility": 10,
+    "value": 9,
+    "portability": 9
+   },
+   "scoreNote": "Hang it on a knob and set a code; leaves nothing behind. Thin security and shackle-only mounting hold back the high end.",
+   "sources": [
+    "https://www.masterlock.com/products/product/5400D",
+    "https://www.bobvila.com/articles/best-key-lock-box/"
+   ],
+   "asin": "B0002YP1VC",
+   "amazonTitle": "Master Lock Portable Key Lock Box, Combination Lock Box Holds 5 Keys 5400EC | Secure Storage Lock Box For Realtors, Landlords, Tenants & Property Managers, Weather Resistant, Resettable 4-digit Code",
+   "asinVerified": true,
+   "owners": {
+    "read": 29,
+    "praise": [
+     "Easy to set up, easy to reset the code, sturdy for the job",
+     "Realtors and property managers use them for contractor and house-sitter access",
+     "One buyer says it held up to burning and prying"
+    ],
+    "complaints": [
+     "Security is limited: one reviewer reports a burglar smashing one open, another calls it a deterrent only",
+     "Some reviewers report stuck mechanisms or a code that opened with digits wrong",
+     "Interior space is smaller than it looks, so oversized keys may not fit"
+    ],
+    "sources": [
+     {
+      "title": "Home Depot customer reviews, Master Lock 5400DHC",
+      "url": "https://www.homedepot.com/p/reviews/Master-Lock-Lock-Box-Resettable-Combination-Dials-5400DHC/100124915/1",
+      "reviews": 1503
+     }
+    ]
+   },
+   "ownerQuotes": [
+    {
+     "text": "Realistically, the lockbox only serves as a theft deterrent and a convenience for those that know the combination.",
+     "url": "https://www.homedepot.com/p/reviews/Master-Lock-Lock-Box-Resettable-Combination-Dials-5400DHC/100124915/1"
+    },
+    {
+     "text": "It was so disappointing to see how easily and quickly the thin and brittle aluminium casing was breached by the burglar",
+     "url": "https://www.homedepot.com/p/reviews/Master-Lock-Lock-Box-Resettable-Combination-Dials-5400DHC/100124915/1"
+    },
+    {
+     "text": "Great product. Easy to install and have never had any mechanical failures even after purchasing hundreds of these for our real estate company As Is Equity.",
+     "url": "https://www.homedepot.com/p/reviews/Master-Lock-Lock-Box-Resettable-Combination-Dials-5400DHC/100124915/1"
+    }
+   ]
+  },
+  {
+   "name": "Master Lock 5420EC Set Your Own Combination Portable Lock Box",
+   "brand": "Master Lock",
+   "query": "Master Lock 5420EC Set Your Own Combination Portable Lock Box Adjustable Shackle",
+   "matchName": "Master Lock 5420EC",
+   "badge": "Best for lever-handle doors",
+   "summary": "A smaller combination key box with an adjustable shackle that fits lever, ball, biscuit and tulip door handles. It is the pick for an apartment door with a lever handle, where a fixed-shackle box will not hang.",
+   "renterNote": "The shackle adjusts from 3/4 to 1-3/4 inch and hangs on the handle with no tools or drilling. Measure your door's backset, cross bore and thickness first, because Amazon warns fit varies, and remember it is a hidden spare, not a safe.",
+   "pros": [
+    "Adjustable shackle fits lever as well as round knob handles",
+    "Set-your-own 4-digit combination, 6-key capacity per Amazon listing",
+    "Indoor or outdoor use with a weather cover over the dials"
+   ],
+   "cons": [
+    "Tight fit on some round knobs, and one reviewer says the shackle does not open as wide as advertised",
+    "One reviewer's unit locked up while setting the code and had to be exchanged"
+   ],
+   "specs": {
+    "Type": "Portable combination key lock box with adjustable shackle",
+    "Lock": "Set-your-own 4-digit combination",
+    "Capacity": "6 keys (Amazon listing)",
+    "Exterior size": "7 x 2.875 x 2.06 in (H x W x D), per Amazon listing",
+    "Interior size": "4.188 x 2.375 x 1 in (H x W x D), per Amazon listing",
+    "Shackle": "Length 3/4 to 1-3/4 in (adjustable), width 1-13/32 in, diameter 3/8 in",
+    "Fits": "Lever, ball, biscuit and tulip handles (Amazon listing)",
+    "Weather": "Weather cover protects dials; indoor or outdoor use",
+    "Model": "5420D (maker and Home Depot), listed on Amazon as 5420EC"
+   },
+   "scores": {
+    "install": 10,
+    "reversibility": 10,
+    "value": 9,
+    "portability": 9
+   },
+   "scoreNote": "Hangs on a knob or lever handle with no tools and leaves no trace; still a hidden spare, not a safe.",
+   "sources": [
+    "https://www.masterlock.com/products/product/5420D"
+   ],
+   "asin": "B07FD2N88X",
+   "amazonTitle": "Master Lock 5420EC Set Your Own Combination Portable Lock Box with Adjustable Shackle, 6 Key Capacity",
+   "asinVerified": true,
+   "owners": {
+    "read": 23,
+    "praise": [
+     "Easy to set up and reset the code",
+     "Fits lever handles as well as knobs, which other lock boxes do not",
+     "Property managers and contractors use it for key hand-offs"
+    ],
+    "complaints": [
+     "Tight fit on a round knob forced one owner to turn the handle with the box",
+     "Adjustable shackle does not open as wide as expected for one reviewer",
+     "One unit locked up while the code was being set"
+    ],
+    "sources": [
+     {
+      "title": "Home Depot customer reviews, Master Lock 5420D",
+      "url": "https://www.homedepot.com/p/reviews/Master-Lock-Key-Lock-Box-for-Knobs-and-Lever-Door-Handles-Adjustable-Shackle-and-Resettable-Combination-5420D/307976891/1",
+      "reviews": 195
+     }
+    ]
+   },
+   "ownerQuotes": [
+    {
+     "text": "I prefer this lockbox over other styles because it allows you to use it on both knob and lever handled doors which can't be done with other models.",
+     "url": "https://www.homedepot.com/p/reviews/Master-Lock-Key-Lock-Box-for-Knobs-and-Lever-Door-Handles-Adjustable-Shackle-and-Resettable-Combination-5420D/307976891/1"
+    },
+    {
+     "text": "I will say that it is a very tight fit and almost didn't make it on to my door handle (basic round knob).",
+     "url": "https://www.homedepot.com/p/reviews/Master-Lock-Key-Lock-Box-for-Knobs-and-Lever-Door-Handles-Adjustable-Shackle-and-Resettable-Combination-5420D/307976891/1"
+    },
+    {
+     "text": "Lockbox locked up while programming it and could not be reset. Had to exchange for a different model.",
+     "url": "https://www.homedepot.com/p/reviews/Master-Lock-Key-Lock-Box-for-Knobs-and-Lever-Door-Handles-Adjustable-Shackle-and-Resettable-Combination-5420D/307976891/1"
+    }
+   ]
+  }
+ ],
+ "serpProducts": [],
+ "serpCategories": [
+  {
+   "name": "Smart lock or keyless entry (category)",
+   "pages": [
+    "https://www.apartmenttherapy.com/locked-out-of-apartment-37112536",
+    "https://www.apartments.com/blog/what-to-do-when-locked-out-of-your-apartment",
+    "https://www.zillow.com/learn/locked-out-of-apartment/",
+    "https://www.rentler.com/blog/tenants/locked-out-of-apartment/",
+    "https://www.rentcafe.com/blog/renting/what-to-do-when-you-get-locked-out-of-your-apartment/",
+    "https://www.redfin.com/blog/locked-out-of-apartment/",
+    "https://www.movinghelp.com/move/locked-out-of-apartment/"
+   ]
+  },
+  {
+   "name": "Lockbox or key safe for a spare key (category)",
+   "pages": [
+    "https://www.apartmenttherapy.com/locked-out-of-apartment-37112536",
+    "https://www.rentler.com/blog/tenants/locked-out-of-apartment/",
+    "https://www.rentcafe.com/blog/renting/what-to-do-when-you-get-locked-out-of-your-apartment/",
+    "https://www.redfin.com/blog/locked-out-of-apartment/",
+    "https://www.movinghelp.com/move/locked-out-of-apartment/"
+   ]
+  }
+ ],
+ "serpNote": "None of the top-10 pages I read (Apartment Therapy, Apartments.com, Zillow, Rentler, RentCafe, Redfin, MovingHelp) names a single product model; the rest of the top 10 (Reddit, Quora, ApartmentGuide, Rent.com and others) were seen only as snippets. They recommend categories: spare key, lockbox and smart lock/keyless entry. serpProducts is therefore empty and the 6 products are category picks chosen for renter fit (four smart locks, two lockboxes); Bob Vila's key-lock-box roundup also lists the Master Lock 5400D."
+}
