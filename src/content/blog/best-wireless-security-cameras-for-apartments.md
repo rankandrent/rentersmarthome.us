@@ -636,6 +636,7 @@ heroAlt: >-
   Security Cameras for Apartments (2026) – 9 No-Drill Picks for Renters –
   RenterSmartHome buying guide
 related:
+  - wyze-vs-blink
   - door-camera-for-apartment
   - best-water-leak-sensor-for-renters
   - best-smart-smoke-detector-for-apartments

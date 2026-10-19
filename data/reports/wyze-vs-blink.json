@@ -1,0 +1,534 @@
+{
+  "keyword": "wyze vs blink",
+  "createdAt": "2026-10-19T13:13:59.085Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "Wyze vs Blink",
+    "entityVariants": [
+      "Wyze or Blink",
+      "Blink vs Wyze",
+      "Wyze cameras vs Blink cameras",
+      "Wyze Cam vs Blink Mini"
+    ],
+    "entities": [
+      {
+        "name": "Wyze Cam v4",
+        "type": "product",
+        "relation": "Wyze's flagship budget indoor/outdoor camera (2.5K, microSD slot)"
+      },
+      {
+        "name": "Blink Mini 2K+",
+        "type": "product",
+        "relation": "Blink's 2.5K plug-in indoor camera, direct rival to the Cam v4"
+      },
+      {
+        "name": "Blink Mini 2",
+        "type": "product",
+        "relation": "Blink's 1080p plug-in camera compared against the Cam v4 in video reviews"
+      },
+      {
+        "name": "Wyze Battery Video Doorbell",
+        "type": "product",
+        "relation": "Wyze's rechargeable wire-free doorbell"
+      },
+      {
+        "name": "Blink Video Doorbell",
+        "type": "product",
+        "relation": "Blink's AA-battery or wired doorbell"
+      },
+      {
+        "name": "Wyze Cam Floodlight v2",
+        "type": "product",
+        "relation": "Wyze's wired floodlight camera"
+      },
+      {
+        "name": "Blink Wired Floodlight Camera",
+        "type": "product",
+        "relation": "Blink's wired floodlight camera"
+      },
+      {
+        "name": "Wyze Cam Outdoor",
+        "type": "product",
+        "relation": "Wyze's battery outdoor camera"
+      },
+      {
+        "name": "Blink Outdoor",
+        "type": "product",
+        "relation": "Blink's AA-battery outdoor camera with up to two-year battery claim"
+      },
+      {
+        "name": "Blink Sync Module 2",
+        "type": "hardware",
+        "relation": "hub required for Blink local storage (extra cost)"
+      },
+      {
+        "name": "microSD card",
+        "type": "hardware",
+        "relation": "Wyze local storage, no hub needed"
+      },
+      {
+        "name": "Wyze Cam Plus",
+        "type": "subscription",
+        "relation": "Wyze per-camera cloud plan"
+      },
+      {
+        "name": "Wyze Cam Unlimited",
+        "type": "subscription",
+        "relation": "Wyze flat-rate multi-camera plan"
+      },
+      {
+        "name": "Blink Subscription Plan",
+        "type": "subscription",
+        "relation": "Blink Basic per camera and Plus flat rate"
+      },
+      {
+        "name": "Amazon",
+        "type": "company",
+        "relation": "owns Blink"
+      },
+      {
+        "name": "Amazon Alexa",
+        "type": "platform",
+        "relation": "supported by both brands"
+      },
+      {
+        "name": "Google Assistant",
+        "type": "platform",
+        "relation": "supported by Wyze, not Blink"
+      },
+      {
+        "name": "IFTTT",
+        "type": "platform",
+        "relation": "automation integration both support"
+      },
+      {
+        "name": "Color night vision",
+        "type": "feature",
+        "relation": "Wyze Starlight Sensor vs Blink black-and-white on some models"
+      },
+      {
+        "name": "IP65",
+        "type": "standard",
+        "relation": "weather rating on both brands' outdoor devices"
+      }
+    ],
+    "attributes": [
+      "price",
+      "resolution",
+      "night vision",
+      "local storage",
+      "cloud subscription cost",
+      "cloud history days",
+      "smart home compatibility (Alexa, Google)",
+      "battery type and life",
+      "power options",
+      "field of view",
+      "weatherproofing",
+      "siren",
+      "AI detection (person, pet, package)",
+      "setup and app speed",
+      "no-drill mounting",
+      "privacy"
+    ],
+    "ngrams": [
+      "wyze vs blink",
+      "blink vs wyze",
+      "wyze cam v4",
+      "blink mini 2",
+      "local storage",
+      "sync module",
+      "cloud storage",
+      "subscription plan",
+      "night vision",
+      "field of view",
+      "security camera",
+      "video doorbell",
+      "microSD card",
+      "works with alexa",
+      "google assistant",
+      "battery life",
+      "2K resolution",
+      "person detection",
+      "indoor camera",
+      "home security"
+    ],
+    "skipgrams": [
+      "Wyze…microSD",
+      "Blink…Sync Module",
+      "Blink…Alexa",
+      "Wyze…Google Assistant",
+      "local…storage",
+      "cloud…subscription",
+      "camera…renters",
+      "night…vision",
+      "battery…doorbell",
+      "Cam Plus…per camera",
+      "Blink…Amazon",
+      "clips…days"
+    ],
+    "nlpTerms": [
+      "security camera",
+      "video doorbell",
+      "floodlight camera",
+      "subscription",
+      "cloud storage",
+      "local storage",
+      "microSD",
+      "hub",
+      "Sync Module",
+      "resolution",
+      "2K",
+      "1080p",
+      "night vision",
+      "Starlight Sensor",
+      "field of view",
+      "siren",
+      "motion detection",
+      "person detection",
+      "package detection",
+      "Alexa",
+      "Google Assistant",
+      "IFTTT",
+      "battery",
+      "rechargeable",
+      "AA lithium",
+      "wired",
+      "wire-free",
+      "IP65",
+      "weatherproof",
+      "two-way audio",
+      "app",
+      "notification",
+      "warranty",
+      "Wi-Fi",
+      "landlord",
+      "lease",
+      "adhesive mount",
+      "no-drill"
+    ],
+    "questions": [
+      "Is Wyze or Blink better?",
+      "Which has the cheaper subscription, Wyze or Blink?",
+      "Do Wyze and Blink work without a subscription?",
+      "Does Blink need a Sync Module for local storage?",
+      "Does Blink work with Google Home?",
+      "Which has better night vision, Wyze or Blink?",
+      "Which lasts longer on battery, Wyze or Blink?",
+      "Is Wyze or Blink better for apartments and renters?",
+      "Can I use a Wyze or Blink camera without drilling?",
+      "Are Wyze and Blink cameras safe and private?",
+      "Is Blink owned by Amazon?",
+      "Which has better video quality, Wyze Cam v4 or Blink Mini 2K+?"
+    ],
+    "contentGaps": [
+      "No top result frames the choice for renters (lease approval, no-drill mounts, move-out).",
+      "Total cost of ownership over 1-3 years (camera + hub + plan) rarely calculated.",
+      "Landlord and hallway-privacy rules for doorbell cameras are skipped.",
+      "Cloud privacy and account-security differences are barely covered.",
+      "Wi-Fi, 2.4 GHz and shared-router issues in apartment buildings are ignored.",
+      "Taking the camera with you: moving out and resetting.",
+      "Wyze's own comparison is vendor-written; independent verdict by use case (studio, hallway door, balcony) is missing."
+    ],
+    "outline": [
+      {
+        "h2": "Wyze vs Blink at a glance",
+        "intent": "Quick verdict and summary table",
+        "h3": [
+          "Quick verdict for renters",
+          "Side-by-side comparison table"
+        ]
+      },
+      {
+        "h2": "Wyze vs Blink cameras compared by model",
+        "intent": "Matched model comparisons",
+        "h3": [
+          "Wyze Cam v4 vs Blink Mini 2K+ (indoor)",
+          "Wyze Battery Video Doorbell vs Blink Video Doorbell",
+          "Wyze Cam Floodlight v2 vs Blink Wired Floodlight",
+          "Wyze Cam Outdoor vs Blink Outdoor (battery)"
+        ]
+      },
+      {
+        "h2": "Subscription and storage costs",
+        "intent": "Hidden cost comparison",
+        "h3": [
+          "Local storage: microSD vs Sync Module 2",
+          "Cloud plans: Cam Plus, Cam Unlimited, Blink Basic and Plus",
+          "Using them without a subscription"
+        ]
+      },
+      {
+        "h2": "Video quality and night vision",
+        "intent": "Image performance",
+        "h3": [
+          "Resolution and field of view",
+          "Color vs black-and-white night vision"
+        ]
+      },
+      {
+        "h2": "Smart home compatibility",
+        "intent": "Ecosystem fit",
+        "h3": [
+          "Alexa and Google Assistant support",
+          "IFTTT and automations"
+        ]
+      },
+      {
+        "h2": "Battery life and power options",
+        "intent": "Power choices for renters",
+        "h3": [
+          "Rechargeable vs AA lithium",
+          "Plug-in and wired options"
+        ]
+      },
+      {
+        "h2": "Renter setup: lease, mounting and privacy",
+        "intent": "Renter gaps",
+        "h3": [
+          "Check your lease before mounting a camera",
+          "No-drill mounting for doors and shelves",
+          "Pointing cameras so they do not record neighbors"
+        ]
+      },
+      {
+        "h2": "Problems owners run into, and the fix",
+        "intent": "Answer pain points",
+        "h3": [
+          "Subscription fees creeping up",
+          "Cloud privacy worries",
+          "False motion alerts",
+          "Battery drain in cold weather",
+          "Landlord objections to cameras"
+        ]
+      },
+      {
+        "h2": "Which should you buy",
+        "intent": "Decision by use case",
+        "h3": [
+          "Pick Wyze if",
+          "Pick Blink if",
+          "Our verdict"
+        ]
+      }
+    ],
+    "targetWords": 2200,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://www.safewise.com/home-security-systems/wyze-vs-blink-cameras/",
+        "https://www.wyze.com/blogs/smart-home/wyze-vs-blink",
+        "https://www.digitaltrends.com/home/wyze-cam-floodlight-vs-blink-wired-floodlight-cam/",
+        "https://www.cnet.com/home/security/blink-video-doorbell-vs-wyze-video-doorbell-pro/",
+        "https://staceyoniot.com/blink-mini-vs-wyze-cam-2020-review/"
+      ],
+      "productStyle": "pros-cons",
+      "productStyleReason": "SafeWise gives each brand a pros and cons list; Wyze uses feature tables plus short Design/Storage/Integration notes; both end in a winner by category.",
+      "avgWords": 1500,
+      "avgProducts": 6,
+      "commonSections": [
+        "comparison table",
+        "similarities",
+        "differences by feature (storage, subscription, smart home)",
+        "model-by-model matchups",
+        "pros and cons",
+        "winner or conclusion",
+        "how we decided"
+      ],
+      "usesComparisonTable": true,
+      "usesFaq": false,
+      "usesBuyingGuide": false
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.reddit.com/r/homedefense/comments/12yhld2/wyze_cameras_or_blink_cameras/",
+        "title": "Wyze cameras or Blink cameras? : r/homedefense - Reddit"
+      },
+      {
+        "position": 2,
+        "url": "https://www.wyze.com/blogs/smart-home/wyze-vs-blink",
+        "title": "Wyze vs. Blink: Who Delivers Best Value for Home Security?"
+      },
+      {
+        "position": 3,
+        "url": "https://www.youtube.com/watch?v=dDRJSQDtn1E",
+        "title": "Before You Buy Wyze or Blink, Watch This. - YouTube"
+      },
+      {
+        "position": 4,
+        "url": "https://staceyoniot.com/blink-mini-vs-wyze-cam-2020-review/",
+        "title": "Blink Mini review: Should you drop $35 on it or save money with a ..."
+      },
+      {
+        "position": 5,
+        "url": "https://www.facebook.com/groups/1138661109830138/posts/2247987935564111/",
+        "title": "Which camera is better for home security, Blink or Wyze? - Facebook"
+      },
+      {
+        "position": 6,
+        "url": "https://www.youtube.com/watch?v=cWVJHeQaDvI",
+        "title": "Blink Mini 2 VS Wyze Cam v4 - Who's Better? - YouTube"
+      },
+      {
+        "position": 7,
+        "url": "https://www.safewise.com/home-security-systems/wyze-vs-blink-cameras/",
+        "title": "Wyze vs. Blink Security Cameras - SafeWise"
+      },
+      {
+        "position": 8,
+        "url": "https://www.cnet.com/home/security/blink-video-doorbell-vs-wyze-video-doorbell-pro/",
+        "title": "Blink Video Doorbell vs. Wyze Video Doorbell Pro - CNET"
+      },
+      {
+        "position": 9,
+        "url": "https://www.digitaltrends.com/home/wyze-cam-floodlight-vs-blink-wired-floodlight-cam/",
+        "title": "Wyze Cam floodlight vs Blink Wired Floodlight Cam - Digital Trends"
+      },
+      {
+        "position": 10,
+        "url": "https://www.youtube.com/watch?v=6mOqz0pumck",
+        "title": "Blink vs Wyze Comparison 2026 | Best Smart Home Security Cameras"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 4,
+      "withYear": 1,
+      "withNumber": 0,
+      "commonModifiers": [
+        "Wyze vs. Blink",
+        "which is better",
+        "best value",
+        "security cameras",
+        "Mini / Cam v4 model names"
+      ],
+      "gap": "None promises a renter angle (no-drill, lease-safe, total monthly cost); no title states a clear winner by use case."
+    },
+    "painPoints": [
+      {
+        "id": "security-landlord-bans-cameras-doorbells",
+        "pain": "Lease or landlord forbids doorbell cameras or personal cameras and renter fears enforcement",
+        "details": "Renters ask whether a lease clause banning cameras is enforceable and what happens if they install a temporary device anyway.",
+        "sources": [
+          "https://www.reddit.com/r/Apartmentliving/comments/1ebelua/ring_doorbells_not_allowed/",
+          "https://www.reddit.com/r/LandlordLove/comments/1ef2zou/can_landlord_say_we_cant_have_cameras/",
+          "https://www.reddit.com/r/legaladvicecanada/comments/1iy8q6v/is_it_legal_for_my_landlord_to_prohibit_the_use/",
+          "https://www.reddit.com/r/Ring/comments/17ct3sk/apartment_complex_wont_allow_ring_doorbell_after/",
+          "https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/"
+        ],
+        "quotes": [
+          {
+            "text": "If there is any mention of no cameras then your landlord can enforce that however the law allows",
+            "url": "https://www.reddit.com/r/LandlordLove/comments/1ef2zou/can_landlord_say_we_cant_have_cameras/"
+          },
+          {
+            "text": "Make sure it's legal and not excluded in your lease.",
+            "url": "https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/"
+          }
+        ]
+      },
+      {
+        "id": "security-no-drill-doorbell-mount",
+        "pain": "Renters cannot drill the door or exterior wall to mount a doorbell camera",
+        "details": "Renters need tape, clip-on or door-frame mounts that leave no marks; some buildings forbid drilling on the exterior.",
+        "sources": [
+          "https://www.reddit.com/r/Ring/comments/184g6hd/what_are_your_thoughts_on_putting_up_a_ring/",
+          "https://gatewise.com/blog/ring-doorbell-for-apartments",
+          "https://www.youtube.com/watch?v=FH6RPHb8ykk"
+        ],
+        "quotes": [
+          {
+            "text": "No drilling required which is needed at my apartment because they don't allow drilling to the exterior.",
+            "url": "https://www.reddit.com/r/Ring/comments/184g6hd/what_are_your_thoughts_on_putting_up_a_ring/"
+          }
+        ]
+      },
+      {
+        "id": "security-cloud-subscription-fees",
+        "pain": "Cameras need a monthly subscription to be useful; renters want no-fee options",
+        "details": "Buyers resent fees for cloud video and look for SD-card or local storage cameras such as Wyze, Eufy or Reolink.",
+        "sources": [
+          "https://www.reddit.com/r/BuyItForLife/comments/1n94pqy/why_did_we_accept_that_security_cameras_need/",
+          "https://www.reddit.com/r/homeowners/comments/1ot0xm0/home_security_cameras_without_monthly_payment/",
+          "https://www.reddit.com/r/homeautomation/comments/1nrmayb/what_are_my_options_for_a_good_security_camera/",
+          "https://www.cnet.com/home/security/best-home-security-cameras-without-subscriptions/"
+        ],
+        "quotes": [
+          {
+            "text": "Subscription not required to record to SD card and view via your cell phone.",
+            "url": "https://www.reddit.com/r/homeowners/comments/1ot0xm0/home_security_cameras_without_monthly_payment/"
+          },
+          {
+            "text": "Reolink is a good call for no subscription.",
+            "url": "https://www.reddit.com/r/homeautomation/comments/1nrmayb/what_are_my_options_for_a_good_security_camera/"
+          }
+        ]
+      },
+      {
+        "id": "security-camera-cloud-privacy-concerns",
+        "pain": "Owners distrust camera cloud privacy after reports of exposed footage or thumbnails",
+        "details": "Indoor camera buyers worry about cloud access, hacking and brands that use the cloud even for local storage.",
+        "sources": [
+          "https://www.reddit.com/r/BuyItForLife/comments/1n94pqy/why_did_we_accept_that_security_cameras_need/",
+          "https://www.reddit.com/r/privacytoolsIO/comments/p4wfh0/privacy_friendly_security_cameras/",
+          "https://www.thesmarthomehookup.com/indoor-cameras-reviewed-and-tested-for-privacy-concerns/"
+        ],
+        "quotes": [
+          {
+            "text": "Eufy (anker) cameras store locally but still use cloud for login.",
+            "url": "https://www.reddit.com/r/privacytoolsIO/comments/p4wfh0/privacy_friendly_security_cameras/"
+          }
+        ]
+      },
+      {
+        "id": "security-false-motion-alerts",
+        "pain": "Doorbell and camera send constant false motion or person alerts",
+        "details": "Owners get alerts from passing traffic or wrongly detected people and tune zones or add a second camera angle.",
+        "sources": [
+          "https://www.reddit.com/r/EufyCam/comments/j9t6ab/can_someone_tell_me_how_to_fix_these_false_human/",
+          "https://www.facebook.com/groups/ringdoorbellusersgroup/posts/1090145698003833/",
+          "https://www.nytimes.com/wirecutter/reviews/best-smart-doorbell-camera/"
+        ],
+        "quotes": [
+          {
+            "text": "The last two weeks I've been getting false motion sensor alarms.",
+            "url": "https://www.facebook.com/groups/ringdoorbellusersgroup/posts/1090145698003833/"
+          }
+        ]
+      },
+      {
+        "id": "security-battery-drain-cold",
+        "pain": "Battery doorbell drains fast or shuts off in cold weather",
+        "details": "Owners see battery drop quickly after install and manufacturers confirm cold limits.",
+        "sources": [
+          "https://service.eufy.com/article-description/Does-cold-weather-impact-eufy-Battery-Powered-Video-Doorbell",
+          "https://community.arlo.com/t5/Arlo-Video-Doorbell-Wire-Free/Poor-Battery-Life-new-Wire-Free-Doorbell/td-p/1804027",
+          "https://cpisecurity.com/blog/how-cold-weather-affects-your-cpi-security-devices/"
+        ],
+        "quotes": [
+          {
+            "text": "First 24 hours installed battery discharged from 99% to 77%.",
+            "url": "https://community.arlo.com/t5/Arlo-Video-Doorbell-Wire-Free/Poor-Battery-Life-new-Wire-Free-Doorbell/td-p/1804027"
+          },
+          {
+            "text": "Cold weather can drain batteries, fog up lenses, and trigger false alarms.",
+            "url": "https://cpisecurity.com/blog/how-cold-weather-affects-your-cpi-security-devices/"
+          }
+        ]
+      }
+    ]
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "blink-vs-ring-subscription",
+      "mode": "related-box"
+    },
+    {
+      "slug": "wyze-vs-ring-vs-eufy-for-renters",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-wireless-security-cameras-for-apartments",
+      "mode": "related-box"
+    }
+  ]
+}

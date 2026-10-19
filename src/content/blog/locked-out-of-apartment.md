@@ -214,8 +214,8 @@ products:
         More install steps than a full-replacement deadbolt, and the bridge
         takes up an outlet within about 30 feet (PCWorld)
       - >-
-        Owners report a 3-5 second fingerprint lag, power-cycling the bridge
-        every six months or so, and no HomeKit
+        Owners report a 3-5 second fingerprint lag and power-cycling the bridge
+        every six months or so
     scores:
       install: 6
       reversibility: 8
@@ -224,8 +224,7 @@ products:
       portability: 7
     scoreNote: >-
       Keeps your key and exterior, with a drill-free keypad option; extra
-      install steps, a bridge and no HomeKit hold back install and
-      compatibility.
+      install steps and a plug-in bridge hold back install and compatibility.
     owners:
       read: 3
       praise:
@@ -449,7 +448,7 @@ A lockout feels urgent, but you rarely need to rush. Check whether you left an u
 
 ### Why climbing a fire escape is not worth it
 
-**A fire escape / ground-floor window entry is the move we always tell readers to skip.** Climbing is how a cheap lockout turns into an injury. A neighbor may also reasonably call the police on someone going through a window. Damaged screens or frames can come out of your security deposit. We also don't cover tricks like a credit card or a bump key: they can wreck the lock, and your landlord owns that hardware.
+**A fire escape / ground-floor window entry is the move we always tell readers to skip.** Climbing is how a cheap lockout turns into an injury. A neighbor may also reasonably call the police on someone going through a window. Damaged screens or frames can come out of your security deposit. We also don't cover ways to get past the lock yourself: they can wreck the lock, and your landlord owns that hardware.
 
 ## Call your property manager or landlord first
 
@@ -495,7 +494,7 @@ If the locksmith has to drill, the landlord's cylinder is gone and your landlord
 
 ## Locked out because of a smart lock, dead battery or app glitch
 
-**A smart-lock lockout almost always comes down to three things: dead batteries, a dropped app connection, or a lock with no physical key.** None of the top-ranking lockout guides we read covers this, so here is each one with its fix.
+**A smart-lock lockout almost always comes down to three things: dead batteries, a dropped app connection, or a lock with no physical key.** Here is each one with its fix.
 
 ### Dead batteries and the 9V emergency terminals
 
@@ -503,7 +502,7 @@ Dead batteries are a recurring complaint in r/ApartmentMaintenance, r/legaladvic
 
 ### App, Bluetooth or Wi-Fi not responding
 
-App and Wi-Fi drops are a common topic in smart-lock help guides. Remote unlock only works while the lock, the router and the app are all talking. One troubleshooting guide's first step is: ["Restart your router, wait 60 seconds, then check if the lock reconnects automatically."](https://iveise.com/blogs/how-to/smart-lock-not-working-10-common-problems-and-how-to-fix-them) That's no help when you're outside. So treat Bluetooth, Wi-Fi and app access as a convenience, and keep a second way in: a key, a keypad code or a spare with a friend.
+App and Wi-Fi drops are a common topic in smart-lock help guides. Remote unlock only works while the lock, the router and the app are all talking. One maker's troubleshooting guide for Wi-Fi locks says: ["Restart your router, wait 60 seconds, then check if the lock reconnects automatically."](https://iveise.com/blogs/how-to/smart-lock-not-working-10-common-problems-and-how-to-fix-them) That's no help when you're outside. So treat Bluetooth, Wi-Fi and app access as a convenience, and keep a second way in: a key, a keypad code or a spare with a friend.
 
 ### Who pays for the locksmith? Check your lease and ask your landlord in writing
 
@@ -541,7 +540,7 @@ Some leases ban copying keys or require written permission, and some keys are st
 
 A lockbox (key safe) holds a spare key near the door behind a code. It needs no power, so it can't die on you. But it is a deterrent, not a safe, and anyone who learns the code gets your key. Check your lease and building rules before hanging one in a shared hallway.
 
-> **From our notes:** When we lined up the owner research for this guide, the pattern surprised us. The smart locks with the fewest lockout complaints were not the fanciest ones. They were the retrofits that kept the original key in the door. The lockboxes drew the opposite worry: a Home Depot reviewer described a burglar breaking one open. And the angriest threads were not about hardware at all. They came from renters billed for a locksmith after a landlord-installed lock failed, with nothing in writing about who pays. That is why this guide puts the written landlord message next to every product.
+> **From our notes:** We did not test these products. In the owner threads and reviews we read, the retrofit locks that kept the original key in the door came with a backup when batteries ran low. The lockboxes drew a different worry: a Home Depot reviewer described a burglar breaking one open. And the angriest threads were not about hardware at all. They came from renters billed for a locksmith after a landlord-installed lock failed, with nothing in writing about who pays. That is why this guide puts the written landlord message next to the products.
 
 ## Best keyless options for renters (no drilling, keep your original key)
 
@@ -557,7 +556,7 @@ The [SwitchBot Lock Pro](amzn:SwitchBot+Lock+Pro) takes a gentler route: a batte
 
 ### Yale Approach Lock with Wi-Fi and Keypad Touch: keypad kit in one box
 
-If you want everything in one box, the [Yale Approach Lock with Wi-Fi and Keypad Touch](amzn:Yale+Approach+Lock+Deadbolt+Wi-Fi+Keypad+B-YRR110-F-WF1-N-BSP) ships with the lock, a fingerprint keypad and a Wi-Fi bridge. The lock goes on the inside of your existing deadbolt, and the key still works. The IPX5 keypad sticks on with an adhesive pad or screws, so it can stay drill-free. One Slickdeals owner of about a year calls it pretty solid and more reliable than expected, with four AA batteries lasting 4 to 5 months. The same owner power-cycles the bridge every six months or so and notes a 3 to 5 second fingerprint lag. There is no HomeKit support. In its [Yale Approach review](https://www.pcworld.com/article/2331746/yale-approach-lock-with-wi-fi-keypad-review-this-is-easier.html), PCWorld found the install took more steps than a full-replacement deadbolt. It also hit calibration and firmware glitches. The bridge needs an outlet within about 30 feet of the door.
+If you want everything in one box, the [Yale Approach Lock with Wi-Fi and Keypad Touch](amzn:Yale+Approach+Lock+Deadbolt+Wi-Fi+Keypad+B-YRR110-F-WF1-N-BSP) ships with the lock, a fingerprint keypad and a Wi-Fi bridge. The lock goes on the inside of your existing deadbolt, and the key still works. The IPX5 keypad sticks on with an adhesive pad or screws, so it can stay drill-free. One Slickdeals owner of about a year calls it pretty solid and more reliable than expected, with four AA batteries lasting 4 to 5 months. The same owner power-cycles the bridge every six months or so and notes a 3 to 5 second fingerprint lag. In its [Yale Approach review](https://www.pcworld.com/article/2331746/yale-approach-lock-with-wi-fi-keypad-review-this-is-easier.html), PCWorld found the install took more steps than a full-replacement deadbolt. It also hit calibration and firmware glitches. The bridge needs an outlet within about 30 feet of the door.
 
 ### Master Lock Portable Key Lock Box 5400EC: spare key on a knob
 

@@ -359,6 +359,10 @@ faqs:
       an outlet and sit on a shelf. Blink's doorbell mounts with screws, so
       check your lease and ask your landlord in writing before installing it.
 author: editorial-team
+heroImage: /images/featured/wyze-vs-blink.png
+heroAlt: >-
+  Wyze vs Blink for Renters – Which Budget Camera Should You Buy? –
+  RenterSmartHome comparison
 ---
 
 Wyze vs Blink is the choice most renters land on the week a package vanishes from the hallway and the lease still says no holes in the walls. Two small boxes sit in the cart, both cheap, both promising 2K video, and the real question is what each one costs to live with after the free trial ends. **For most renters we'd pick the [Wyze Cam v4](amzn:Wyze+Cam+v4+2.5K+indoor+outdoor+security+camera), because it records to your own microSD card with no hub and no plan, while the [Blink Mini 2K+](amzn:Blink+Mini+2K+plug-in+security+camera) wins in Alexa homes that want a wider view and will pay for a plan or a Sync Module.** If you want a doorbell, Blink's battery model is the brand's renter option, as long as your landlord allows a few screws.
@@ -479,7 +483,7 @@ Blink belongs to Amazon, so it works with Alexa out of the box, and the Mini 2K+
 
 ### Rechargeable vs AA lithium
 
-Blink's doorbell takes three non-rechargeable AA lithium cells and quotes up to two years with a Sync Module. Wyze's Battery Video Doorbell uses a rechargeable battery instead, which means taking it down to charge but never buying cells. Owners on r/blinkcameras report Blink's doorbell eating batteries faster than advertised, so treat two years as a best case.
+Blink's doorbell takes three non-rechargeable AA lithium cells and quotes up to two years with a Sync Module. Wyze's own comparison page says its Battery Video Doorbell has an included battery that recharges over USB-C (or can be hardwired), which would mean never buying cells; that is Wyze's claim about its own product, and we haven't verified it beyond that page. Owners on r/blinkcameras report Blink's doorbell eating batteries faster than advertised, so treat two years as a best case.
 
 ### Battery drain in cold weather
 
@@ -487,7 +491,7 @@ Fast drain and cold-weather shutdowns are a recurring complaint about battery do
 
 Our fixes, in order:
 
-- Use the AA lithium cells Blink specifies, not alkaline ones.
+- Use the non-rechargeable lithium AA cells Blink specifies; its FAQ says not to use rechargeable batteries in the doorbell.
 - Pair the doorbell with a Sync Module, which is what Blink's two-year figure assumes.
 - If your landlord allows it, wire it to the existing 16-24V AC chime wiring so it stops depending on the cells.
 - In a cold climate, skip the battery doorbell and put a plug-in camera inside the door, where the cold never reaches it.
@@ -506,11 +510,11 @@ We can't give legal advice, and rules on cameras and audio recording differ by s
 
 ### No-drill mounting for doors and shelves
 
-Not being allowed to drill the door or exterior wall is the most common doorbell blocker in renter threads. One Ring owner said they chose a mount with "No drilling required which is needed at my apartment because they don't allow drilling to the exterior." ([r/Ring](https://www.reddit.com/r/Ring/comments/184g6hd/what_are_your_thoughts_on_putting_up_a_ring/)). Blink's doorbell ships with screws, washers and brackets and no adhesive mount, so the clean fix is to get written permission or skip the doorbell. Our guide to [putting a Ring doorbell on an apartment door without drilling](/blog/ring-doorbell-in-apartment/) covers no-drill mounting ideas, and a [no-drill peephole camera](/blog/best-peephole-camera-for-apartments/) is another route. The simplest answer: a Cam v4 or Mini 2K+ on a shelf facing the inside of your door, which needs no permission for holes at all.
+Not being allowed to drill the door or exterior wall is the most common doorbell blocker in renter threads. One Ring owner said they chose a mount with "No drilling required which is needed at my apartment because they don't allow drilling to the exterior." ([r/Ring](https://www.reddit.com/r/Ring/comments/184g6hd/what_are_your_thoughts_on_putting_up_a_ring/)). Blink's doorbell ships with screws, washers and brackets and no adhesive mount, so the clean fix is to get written permission or skip the doorbell. Our guide to [putting a Ring doorbell on an apartment door without drilling](/blog/ring-doorbell-in-apartment/) covers no-drill mounting ideas, and if you want a camera at the door with no screws, a different product type, a peephole camera, is another route (none of the three products here is one); see our [no-drill peephole camera guide](/blog/best-peephole-camera-for-apartments/). The simplest answer: a Cam v4 or Mini 2K+ on a shelf facing the inside of your door, which needs no permission for holes at all.
 
 ### Wi-Fi in apartment buildings
 
-Both indoor cameras and Blink's doorbell are 2.4 GHz only. If your router combines bands under one network name, setup can fail; a separate 2.4 GHz network name usually fixes it. Building-provided Wi-Fi with a login page often won't work for cameras at all, so check before you buy.
+Both indoor cameras and Blink's doorbell are 2.4 GHz only. Blink's doorbell FAQ lists a 2.4GHz 802.11b/g/n network as a requirement, so a 5 GHz-only network will not work; check your router settings or your building's Wi-Fi options before you buy. Building-provided Wi-Fi with a login page often won't work for cameras at all, so check before you buy.
 
 ### Moving out
 

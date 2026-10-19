@@ -858,7 +858,7 @@
     ]
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-13T20:00:47.951Z",
     "secondaryKeywords": [
@@ -890,7 +890,8 @@
     "painPoints": [
       "security-cloud-subscription-fees",
       "security-camera-cloud-privacy-concerns"
-    ]
+    ],
+    "publishedAt": "2026-10-19T13:13:59.077Z"
   },
   {
     "status": "published",

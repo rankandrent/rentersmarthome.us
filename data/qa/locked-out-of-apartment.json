@@ -1,10 +1,8 @@
 {
   "slug": "locked-out-of-apartment",
-  "pass": false,
-  "checkedAt": "2026-10-19T13:13:01.129Z",
-  "errors": [
-    "facts not verified yet: check every product spec and claim against the sources, then run `node scripts/routine.mjs factcheck <slug> \"<notes>\"`"
-  ],
+  "pass": true,
+  "checkedAt": "2026-10-19T13:14:02.403Z",
+  "errors": [],
   "warnings": [
     "product \"August Wi-Fi Smart Lock (4th Gen)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"SwitchBot Lock Pro\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -13,6 +11,8 @@
     "product \"Master Lock 5420EC Set Your Own Combination Portable Lock Box\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
-    "verified": false
+    "verified": true,
+    "notes": "Re-opened August, SwitchBot, Yale (shopyalehome), Master Lock 5400D/5420D maker pages, Techlicious and iveise pages; confirmed batteries, Wi-Fi bands, keypad separate, shackle range, IPX5, 4-digit combos. Verified 6 Reddit quotes via exact-phrase site:reddit.com search (ApartmentMaintenance, legaladvice x2, jerseycity, homeautomation) plus iveise quote. Removed unsupported Yale 'no HomeKit' (Yale page lists Apple HomeKit), fixed iveise quote framing, removed bypass-trick mention and unsupported 'fewest complaints' claim. All 5 brief pain points answered with lease/landlord-in-writing framing; no legal advice.",
+    "at": "2026-10-19T13:13:58.664Z"
   }
 }

@@ -1,0 +1,171 @@
+{
+ "status": "OK: 2 products (productCountFor = 2). Both are the battery models; each is named by 2+ readable top-10 pages. CNET, PCMag and Lifewire could not be fetched (Firecrawl 'unsupported site', WebFetch/curl blocked), so their product picks are unverified; Reddit threads can only be read as search excerpts.",
+ "productCount": 2,
+ "products": [
+  {
+   "name": "Ring Battery Doorbell Plus (2nd Gen)",
+   "brand": "Ring",
+   "query": "Ring Battery Doorbell Plus 2nd Gen Retinal 2K",
+   "matchName": "Ring Battery Doorbell Plus",
+   "asin": "B0F14N7HHH",
+   "asinVerified": false,
+   "amazonCandidates": [
+    {"asin": "B0F14N7HHH", "title": "Ring Battery Doorbell 2K Plus (newest model), Retinal 2K ...", "note": "amazon.com/clp page seen in search; same model as ring.com 'Battery Doorbell 2K Plus (Newest Model)'"},
+    {"asin": "B0H2FZR33K", "title": "Ring Battery Doorbell Plus (2nd Gen), Nickel Silver ...", "note": "amazon.com/dp page seen in search"},
+    {"asin": "B09WZBPX7K", "title": "Ring Battery Doorbell Plus (original 2022 model, 1st gen)", "note": "DIFFERENT, older model; do not use"},
+    {"asin": "B0GH6C8K1C", "title": "Ring Battery Doorbell Plus (newest model) + Floodlight bundle", "note": "bundle; do not use"}
+   ],
+   "badge": "Best for battery-only renters",
+   "summary": "Ring's mid-range battery doorbell: a Retinal 2K camera with a 140 by 140 degree head-to-toe view, 6x enhanced zoom and a quick-release battery pack you charge over Micro-USB. It suits a renter who wants an Alexa-friendly doorbell that mounts with screws on a bracket and needs no doorbell wiring.",
+   "renterNote": "For a renter with no existing doorbell wiring who is OK mounting a bracket; Ring sells a separate No-Drill Mount for its 2nd-gen battery doorbells if the lease bans screws. Caveat: video history, person and package alerts need a paid Ring Protect plan, and without one you get live view and notifications only.",
+   "pros": [
+    "Runs on a quick-release battery pack and needs no doorbell wiring; Ring lists about 10 minutes to install",
+    "Retinal 2K video with a 140 by 140 degree head-to-toe view and dual-band Wi-Fi 6",
+    "Separate No-Drill Mount and interchangeable faceplates available as accessories (sold separately)"
+   ],
+   "cons": [
+    "Saving video clips and smart alerts need a paid Ring Protect plan; owners find a plan hard to justify for a single camera",
+    "Battery life swings with weather and traffic: owners report weeks in cold climates and some report very short charges"
+   ],
+   "specs": {
+    "Video": "Retinal 2K, up to 6x Enhanced Zoom",
+    "Field of view": "140 degrees horizontal x 140 degrees vertical (head-to-toe)",
+    "Power": "Quick Release Battery Pack, charges via Micro-USB; can also be wired to 8-24 VAC doorbell transformer",
+    "Wi-Fi": "Dual-band 2.4 GHz / 5 GHz (Wi-Fi 6)",
+    "Weather rating": "IP55, operating -4 F to 122 F",
+    "Size": "5.8 x 2.11 x 1.34 in",
+    "Install time": "About 10 minutes (Ring)",
+    "Subscription": "Optional Ring Protect (Solo plan for one device); no saved video without a plan"
+   },
+   "scores": {"install": 9, "reversibility": 8, "value": 6, "compatibility": 7, "portability": 7},
+   "scoreNote": "Battery power and a bracket mount mean no wiring; the screw holes and the paid Ring Protect plan for saved video hold back reversibility and value.",
+   "owners": {
+    "read": 5,
+    "praise": [
+     "Easy to set up; some owners run it on battery with an indoor chime",
+     "Battery lasts weeks to months depending on climate and traffic",
+     "Retailer reviewers praise the video quality, wide head-to-toe view and motion detection"
+    ],
+    "complaints": [
+     "Recording video needs a paid subscription, which feels pricey for one camera",
+     "Battery drain: cold winters cut charges to 3-4 weeks and one poster reports under ten days",
+     "Wi-Fi and cloud dependence; some owners say reliability suffers when the signal is weak"
+    ],
+    "sources": [
+     {"title": "Reddit recommendations for Ring Battery Doorbell Plus (RedditRecs aggregate of r/smarthome and r/Ring comments)", "url": "https://redditrecs.com/smart-doorbell/model/ring-battery-video-doorbell-plus/"},
+     {"title": "Anyone else experiencing terrible battery life with ring plus doorbell (r/Ring, search excerpt)", "url": "https://www.reddit.com/r/Ring/comments/1s8y1ee/anyone_else_experiencing_terrible_battery_life/"},
+     {"title": "Ring Battery Doorbell Plus, Retinal 2K - customer reviews summary, Best Buy", "url": "https://www.bestbuy.com/product/ring-battery-doorbell-plus-retinal-2k-with-wide-angle-video-6x-enhanced-zoom-night-vision-quick-release-battery-nickel-silver/J39TLSRS6P", "reviews": 125}
+    ]
+   },
+   "ownerQuotes": [
+    {"text": "I've been pleased with them, I've done two just off battery and bought an indoor chime and they work great 2-3 months on a charge 3-4 weeks in the MN winter.", "who": "r/smarthome commenter maybach320", "url": "https://www.reddit.com/r/smarthome/comments/1snmma4/need_to_replace_the_doorbell_on_an_old_house/ognly8r/"},
+    {"text": "the subscription for recording videos is kind of annoying when you only have one camera, you can still use the doorbell without the subscription but you only get live view.", "who": "r/smarthome commenter maybach320", "url": "https://www.reddit.com/r/smarthome/comments/1snmma4/need_to_replace_the_doorbell_on_an_old_house/ognly8r/"},
+    {"text": "I love the ring battery plus. It lasts a long time", "who": "r/smarthome commenter stl-tv-26", "url": "https://www.reddit.com/r/smarthome/comments/1snmma4/need_to_replace_the_doorbell_on_an_old_house/ogn500f/"},
+    {"text": "My battery is never lasting more than ten days . Ive tested everything and its not overdetecting or too cold .", "who": "r/Ring poster (Ring plus doorbell thread; model generation not stated in the excerpt)", "url": "https://www.reddit.com/r/Ring/comments/1s8y1ee/anyone_else_experiencing_terrible_battery_life/"}
+   ],
+   "facts": [
+    "Ring.com (Oct 2026) lists it as Battery Doorbell 2K Plus (2nd Gen, 'Newest Model'); Amazon and retailers still say Battery Doorbell Plus (2nd Gen). The original 2022 Battery Doorbell Plus is a different, older model.",
+    "Ring renamed Ring Home plans to Ring Protect in 2026: Solo (one device) $4.99/mo or $49.99/yr, Multi $9.99/mo or $99.99/yr, Pro $19.99/mo or $199.99/yr per ring.com/plans. Ring includes a 30-day trial. Prices are for the caller's reference; the routine says no prices in the post.",
+    "Without a plan: live view, notifications and answering the doorbell; no saved video or photos (ring.com FAQ)."
+   ],
+   "sources": [
+    "https://ring.com/products/battery-doorbell-plus-2nd-gen",
+    "https://ring.com/video-doorbell-cameras",
+    "https://ring.com/plans",
+    "https://www.safehome.org/compare/ring-vs-nest/",
+    "https://www.consumerreports.org/home-garden/home-security-cameras/google-nest-hello-vs-ring-video-doorbell-2-video-doorbell-face-off-a1113312271/",
+    "https://www.security.org/home-security-systems/ring-vs-nest/"
+   ]
+  },
+  {
+   "name": "Google Nest Doorbell (Battery)",
+   "brand": "Google",
+   "query": "Google Nest Doorbell Battery",
+   "matchName": "Google Nest Doorbell (Battery)",
+   "asin": "B09GZQ1MHC",
+   "asinVerified": false,
+   "amazonCandidates": [
+    {"asin": "B09GZQ1MHC", "title": "Google Nest Doorbell (Battery) - Snow", "note": "amazon.com/clp page seen in search"},
+    {"asin": "B09FCLPLWX", "title": "Google Nest Doorbell (Battery) - Ash", "note": "color variant"}
+   ],
+   "badge": "Best free smart alerts",
+   "summary": "Google's battery doorbell has a tall 3:4 view (960 x 1280, 145 degrees diagonal), person, package and vehicle alerts without a subscription, and 3 hours of free event history. It suits a renter who lives in Google Home and wants useful alerts without paying monthly.",
+   "renterNote": "For a renter with no doorbell wires who wants smart alerts without a plan. It mounts on a plate with two screws (the wedge and spacers are in the box); it does not ring an existing chime unless you wire it in. Caveat: it only works through the Google Home app and cannot record 24/7, and owners report battery and connection problems.",
+   "pros": [
+    "Free 3 hours of event video history, plus up to 1 hour of local storage if Wi-Fi drops (Google)",
+    "Tall 960 x 1280 view with 145 degree diagonal field of view shows packages on the step",
+    "Smart alerts for people, packages, animals and vehicles are included without a subscription per security.org and SafeHome"
+   ],
+   "cons": [
+    "Battery life is a frequent owner complaint, especially with a busy street or cold weather",
+    "Requires the Google Home app and Google Account; longer history, familiar-face alerts and Gemini features need a Google Home Premium plan"
+   ],
+   "specs": {
+    "Video": "HD, 960 x 1280, up to 30 FPS, HDR, 6x digital zoom, 3:4 aspect ratio",
+    "Field of view": "145 degrees diagonal",
+    "Power": "Built-in rechargeable 6 Ah Li-Ion battery, charge by cable; optional wiring to 8-24 VAC, 10 VA transformer",
+    "Wi-Fi": "Dual-band 2.4 GHz / 5 GHz",
+    "Weather rating": "IP54, operating -20 C to 40 C (charging only above 0 C)",
+    "Size and weight": "6.3 x 1.8 x 0.95 in, 7.3 oz",
+    "Video history": "3 hours free; 30 days with Google Home Premium Standard, 60 days with Advanced; no 24/7 recording",
+    "Warranty": "1-year limited"
+   },
+   "scores": {"install": 8, "reversibility": 8, "value": 7, "compatibility": 8, "portability": 7},
+   "scoreNote": "Battery install and a two-screw plate keep it renter-friendly; free smart alerts help value, offset by battery complaints and Google Home-only control.",
+   "owners": {
+    "read": 7,
+    "praise": [
+     "Battery holds a charge for a long time for some owners and it simply works",
+     "Retailer reviewers praise video quality, easy installation and the field of view",
+     "Free person and package alerts reduce notification noise"
+    ],
+    "complaints": [
+     "Battery life: reports range from days on a busy street to a battery that failed after 2-3 years when wired in",
+     "Live-view latency, black clips and dropped connections in some homes",
+     "Some say the doorbell knows who is at the door but won't say so without the paid plan"
+    ],
+    "sources": [
+     {"title": "Nest Doorbell (Battery) customer reviews summary, Best Buy", "url": "https://www.bestbuy.com/product/google-nest-wi-fi-video-doorbell-battery-operated-snow/JJ8T5C79H5/sku/6473256", "reviews": 751},
+     {"title": "Why is google nest doorbell battery such a bad product (r/Nest, search excerpt)", "url": "https://www.reddit.com/r/Nest/comments/wl9myj/why_is_google_nest_doorbell_battery_such_a_bad/"},
+     {"title": "The nest doorbell battery has to be the worst Google product (r/googlehome, search excerpt)", "url": "https://www.reddit.com/r/googlehome/comments/1myzkxc/the_nest_doorbell_battery_has_to_be_the_worst/"},
+     {"title": "Today I found out my Nest Doorbell only lasts 2-3 years (r/Nest, search excerpt)", "url": "https://www.reddit.com/r/Nest/comments/14c8val/today_i_found_out_my_nest_doorbell_only_lasts_23/"},
+     {"title": "Is Nest Doorbell (battery) worth buying in 2024? (r/Nest, search excerpt)", "url": "https://www.reddit.com/r/Nest/comments/1gptyww/is_nest_doorbell_battery_worth_buying_in_2024/"},
+     {"title": "My Nest doorbell battery doesn't even last 2 days (r/Nest, search excerpt)", "url": "https://www.reddit.com/r/Nest/comments/s0rqv3/my_nest_doorbell_battery_doesnt_even_last_2_days/"},
+     {"title": "My Nest Doorbell Battery is a piece of crap (r/Nest, search excerpt)", "url": "https://www.reddit.com/r/Nest/comments/r8aw1t/my_nest_doorbell_battery_is_a_piece_of_crap/"}
+    ]
+   },
+   "ownerQuotes": [
+    {"text": "No issues with mine either. Battery holds charge for a long time and it just works.", "who": "r/Nest commenter", "url": "https://www.reddit.com/r/Nest/comments/wl9myj/why_is_google_nest_doorbell_battery_such_a_bad/"},
+    {"text": "Late to the party, but my Nest Doorbell (Battery) just randomly stopped working last week after 2.5 years of being wired in on a covered porch.", "who": "r/Nest commenter", "url": "https://www.reddit.com/r/Nest/comments/14c8val/today_i_found_out_my_nest_doorbell_only_lasts_23/"},
+    {"text": "Lots of issues with latency when live connecting. Video captures showing as just blank black screens. Occasional dropping of signal.", "who": "r/Nest poster", "url": "https://www.reddit.com/r/Nest/comments/1gptyww/is_nest_doorbell_battery_worth_buying_in_2024/"},
+    {"text": "The battery died in 6 days.", "who": "r/Nest poster, default settings", "url": "https://www.reddit.com/r/Nest/comments/r8aw1t/my_nest_doorbell_battery_is_a_piece_of_crap/"}
+   ],
+   "facts": [
+    "Google Store (Oct 2026) sells Nest Doorbell (Battery) and Nest Doorbell (wired, 3rd gen, 2K, 166 degrees, Gemini). The wired 3rd-gen is hardwired and not renter-friendly, so it is left out at productCount 2.",
+    "Google Store lists the Nest Aware subscription as Google Home Premium: Standard $10/mo (30 days event history) and Advanced $20/mo (60 days event history, 10 days 24/7) per security.org (Jul 2026). Prices are for the caller's reference; the routine says no prices in the post.",
+    "Google Help: typical battery life about 2.5 months at 13-16 events a day, about 6 months at 2-5 events a day.",
+    "Battery version does not ring an existing wired chime unless the doorbell wires are connected (Google Store specs)."
+   ],
+   "sources": [
+    "https://store.google.com/product/nest_doorbell_specs?hl=en-US",
+    "https://support.google.com/googlehome/answer/10901611",
+    "https://www.safehome.org/compare/ring-vs-nest/",
+    "https://www.security.org/home-security-systems/ring-vs-nest/",
+    "https://www.consumerreports.org/home-garden/home-security-cameras/google-nest-hello-vs-ring-video-doorbell-2-video-doorbell-face-off-a1113312271/",
+    "https://www.doorbellmount.com/blogs/doorbell/google-nest-doorbell-vs-ring-which-smart-doorbell-is-better"
+   ]
+  }
+ ],
+ "serpProducts": [
+  {"name": "Google Nest Doorbell (Battery)", "pages": ["https://www.safehome.org/compare/ring-vs-nest/", "https://www.security.org/home-security-systems/ring-vs-nest/", "https://www.consumerreports.org/home-garden/home-security-cameras/google-nest-hello-vs-ring-video-doorbell-2-video-doorbell-face-off-a1113312271/", "https://www.doorbellmount.com/blogs/doorbell/google-nest-doorbell-vs-ring-which-smart-doorbell-is-better"]},
+  {"name": "Ring Battery Doorbell Plus", "pages": ["https://www.safehome.org/compare/ring-vs-nest/", "https://www.consumerreports.org/home-garden/home-security-cameras/google-nest-hello-vs-ring-video-doorbell-2-video-doorbell-face-off-a1113312271/"]},
+  {"name": "Ring video doorbells (generic, battery for renters)", "pages": ["https://www.security.org/home-security-systems/ring-vs-nest/", "https://www.doorbellmount.com/blogs/doorbell/google-nest-doorbell-vs-ring-which-smart-doorbell-is-better"]},
+  {"name": "Nest Doorbell (wired) - not selected (hardwired, not renter-friendly; productCount 2)", "pages": ["https://www.security.org/home-security-systems/ring-vs-nest/", "https://www.consumerreports.org/home-garden/home-security-cameras/google-nest-hello-vs-ring-video-doorbell-2-video-doorbell-face-off-a1113312271/"]}
+ ],
+ "notes": [
+  "Top-10 pages not readable: cnet.com, pcmag.com, lifewire.com (blocked), reddit.com (unsupported; excerpts only), youtube (skipped). Only Lifewire's related-review links hint it covers Ring Battery Doorbell Plus and Google Wireless Nest Doorbell.",
+  "SafeHome and Consumer Reports name 'Ring Battery Doorbell Plus' (SafeHome 2026, CR 2023 for the 1st gen). The current 2nd gen is the same product line; the Ring site now calls it Battery Doorbell 2K Plus.",
+  "Ring Battery Doorbell Pro (4K Pro, 2nd gen) and Ring Wired Doorbell Plus (2K Plus) exist on ring.com but no readable top-10 page recommends them by name, so they are not featured.",
+  "ASINs are unverified: Amazon blocked page scrapes; ASINs come from search-result titles."
+ ]
+}

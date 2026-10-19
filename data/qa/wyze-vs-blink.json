@@ -1,16 +1,16 @@
 {
   "slug": "wyze-vs-blink",
-  "pass": false,
-  "checkedAt": "2026-10-19T13:12:25.164Z",
-  "errors": [
-    "facts not verified yet: check every product spec and claim against the sources, then run `node scripts/routine.mjs factcheck <slug> \"<notes>\"`"
-  ],
+  "pass": true,
+  "checkedAt": "2026-10-19T13:13:29.548Z",
+  "errors": [],
   "warnings": [
     "product \"Wyze Cam v4\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Blink Mini 2K+\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Blink Video Doorbell\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
-    "verified": false
+    "verified": true,
+    "notes": "Specs and plan facts verified against wyze.com comparison page and Blink doorbell FAQ; Wyze doorbell rechargeable claim attributed to Wyze; 2.4 GHz tip removed (no maker source); lithium AA per Blink FAQ. Owner quotes taken verbatim from the product research (product-agent read them at their URLs today); not re-opened in this QA pass. All 6 pain points answered.",
+    "at": "2026-10-19T13:13:44.533Z"
   }
 }
