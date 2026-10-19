@@ -863,6 +863,27 @@
       "lang": "nl",
       "translationOf": "wyze-vs-blink",
       "pubDate": "2026-10-19T18:20:00.000Z"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "de/aus-der-wohnung-ausgesperrt",
+      "lang": "de",
+      "translationOf": "locked-out-of-apartment",
+      "pubDate": "2026-10-19T21:00:00.000Z"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "es/me-he-quedado-fuera-de-casa",
+      "lang": "es",
+      "translationOf": "locked-out-of-apartment",
+      "pubDate": "2026-10-19T21:40:00.000Z"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "nl/buitengesloten-wat-te-doen",
+      "lang": "nl",
+      "translationOf": "locked-out-of-apartment",
+      "pubDate": "2026-10-19T20:55:00.000Z"
     }
   ]
 }
