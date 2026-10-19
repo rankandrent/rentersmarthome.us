@@ -542,7 +542,8 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     },
-    "funnel": "tofu"
+    "funnel": "tofu",
+    "productCount": 6
   },
   {
     "keyword": "apartment door security",
@@ -3585,7 +3586,7 @@
     }
   },
   {
-    "status": "pending",
+    "status": "merged",
     "attempts": 0,
     "addedAt": "2026-10-18T13:08:50.467Z",
     "secondaryKeywords": [],
@@ -3606,6 +3607,8 @@
       "volume": 350,
       "kd": 1
     },
-    "slug": "where-to-put-litter-box-in-small-apartment"
+    "slug": "where-to-put-litter-box-in-small-apartment",
+    "mergedInto": "best-litter-box-for-small-apartment",
+    "lastError": "cannibalization: \"where to put litter box in small apartment\" overlaps \"best litter box for small apartment\" (100%)"
   }
 ]
