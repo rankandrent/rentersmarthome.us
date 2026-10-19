@@ -905,6 +905,27 @@
       "lang": "nl",
       "translationOf": "ring-vs-nest-doorbell",
       "pubDate": "2026-10-20T01:20:00.000Z"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "de/reolink-oder-eufy",
+      "lang": "de",
+      "translationOf": "reolink-vs-eufy",
+      "pubDate": "2026-10-19T23:45:00.000Z"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "es/reolink-o-eufy",
+      "lang": "es",
+      "translationOf": "reolink-vs-eufy",
+      "pubDate": "2026-10-20T00:15:00.000Z"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "nl/reolink-of-eufy",
+      "lang": "nl",
+      "translationOf": "reolink-vs-eufy",
+      "pubDate": "2026-10-19T23:15:00.000Z"
     }
   ]
 }

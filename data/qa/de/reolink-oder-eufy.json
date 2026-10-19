@@ -1,0 +1,14 @@
+{
+  "slug": "de/reolink-oder-eufy",
+  "lang": "de",
+  "translationOf": "reolink-vs-eufy",
+  "pass": true,
+  "checkedAt": "2026-10-19T14:31:21.565Z",
+  "errors": [],
+  "warnings": [],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with the QA-passed English reolink-vs-eufy: specs, units (metric first, imperial in brackets, values match: 400 g/0.9 lb, 7 m/25 ft, -20 to 50 C/-4 to 122 F), table, scores, FAQs, eufy 2022 incident (Ars Technica, The Verge) told only as in English, no testing claim, no prices or local availability claims. Restored missing image/amazonTitle/gallery from the English post. Verified all four amzn:<ASIN> links match English asin fields (B0B4BZH58H, B0F189FV7K, B0C2PY2KTJ, B0BZ55JZ4S); ASINs remain asinVerified false and are not claimed checked. Reddit lines are paraphrased; removed quotation marks around two paraphrased thread-title lines. Did not re-open external URLs; relied on the English post's factcheck.",
+    "at": "2026-10-19T14:31:20.732Z"
+  }
+}
