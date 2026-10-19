@@ -52,12 +52,11 @@ tldr:
     Blink o un Sync Module 2 o XR con almacenamiento.
   - >-
     El Blink Video Doorbell dura hasta dos años con pilas AA de litio y un Sync
-    Module, según Blink, pero se monta con tornillos, así que pide antes
-    permiso al casero.
+    Module, según Blink, pero se monta con tornillos, así que pide antes permiso
+    al casero.
   - >-
-    Wyze funciona con Google Assistant y Blink no. Las dos solo usan wifi de
-    2,4 GHz, y las dos cámaras de enchufe no necesitan taladrar y se mudan
-    contigo.
+    Wyze funciona con Google Assistant y Blink no. Las dos solo usan wifi de 2,4
+    GHz, y las dos cámaras de enchufe no necesitan taladrar y se mudan contigo.
 productCount: 3
 products:
   - name: Wyze Cam v4
@@ -71,9 +70,9 @@ products:
       mensual. Funciona con Alexa, Google Assistant e IFTTT.
     renterNote: >-
       Para el inquilino que quiere una cámara barata en una estantería o
-      librería sin taladrar y prefiere guardar las grabaciones en una tarjeta
-      en lugar de pagar una suscripción. Pega: los avisos de personas, mascotas
-      y paquetes y los clips en la nube requieren un plan de pago de Wyze, y los
+      librería sin taladrar y prefiere guardar las grabaciones en una tarjeta en
+      lugar de pagar una suscripción. Pega: los avisos de personas, mascotas y
+      paquetes y los clips en la nube requieren un plan de pago de Wyze, y los
       propietarios cuentan fallos de software y de wifi.
     pros:
       - >-
@@ -87,8 +86,8 @@ products:
         con Google Home
     cons:
       - >-
-        Propietarios en Reddit cuentan desconexiones aleatorias, códigos de error
-        y reproducción a tirones desde la tarjeta SD
+        Propietarios en Reddit cuentan desconexiones aleatorias, códigos de
+        error y reproducción a tirones desde la tarjeta SD
       - >-
         Campo de visión más estrecho que la Mini 2K+ de Blink (115,8 grados en
         diagonal frente a 138) y solo wifi de 2,4 GHz
@@ -107,11 +106,13 @@ products:
       praise:
         - >-
           Calidad de imagen, vídeo en color y conexión wifi para lo que cuesta
-          (cliente de Home Depot: «¡Gran cámara! Comparada con otras cámaras
-          que he tenido, esta ofrece más control, mejor vídeo en color y una
+          (cliente de Home Depot: «¡Gran cámara! Comparada con otras cámaras que
+          he tenido, esta ofrece más control, mejor vídeo en color y una
           conexión wifi sólida.»)
         - Grabación local en microSD sin suscripción obligatoria
-        - 'Configuración sencilla por Bluetooth, según los resúmenes de opiniones de las tiendas'
+        - >-
+          Configuración sencilla por Bluetooth, según los resúmenes de opiniones
+          de las tiendas
       complaints:
         - >-
           Desconexiones intermitentes y códigos de error (Reddit: «Mi V4 tiene
@@ -153,6 +154,23 @@ products:
       Easy App Setup, Enhanced Two-Way Audio and Motion Detection for Home
       Security, Baby Monitoring and Pet Camera
     asinVerified: true
+    image:
+      url: 'https://m.media-amazon.com/images/I/41uFZZt209L._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41W-7c1CG6L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41RCzP45X0L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51PJm1VUvtL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51iZwgtwM7L._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Blink Mini 2K+
     brand: Blink
     query: Blink Mini 2K+ plug-in security camera
@@ -165,12 +183,14 @@ products:
       hub, y el almacenamiento local es un extra a través de un Sync Module.
     renterNote: >-
       Para el inquilino de un hogar con Alexa que quiere una cámara pequeña en
-      la estantería, sin taladrar y con un ángulo más amplio que la Wyze Cam
-      v4. Pega: los avisos de personas y vehículos y el historial en la nube
+      la estantería, sin taladrar y con un ángulo más amplio que la Wyze Cam v4.
+      Pega: los avisos de personas y vehículos y el historial en la nube
       requieren un plan de Blink, y grabar en local requiere un Sync Module 2
       con un pendrive USB o un Sync Module XR con tarjeta microSD.
     pros:
-      - 'Campo de visión más amplio, de 138 grados, y vídeo 2560 x 1440, según Blink'
+      - >-
+        Campo de visión más amplio, de 138 grados, y vídeo 2560 x 1440, según
+        Blink
       - >-
         Funciona sin Sync Module; una cámara nueva empieza con una prueba de 30
         días del plan de Blink
@@ -198,8 +218,8 @@ products:
       read: 2
       praise:
         - >-
-          Calidad de imagen, configuración sencilla, ángulo amplio y detección de
-          movimiento fiable, según el resumen de clientes de Best Buy
+          Calidad de imagen, configuración sencilla, ángulo amplio y detección
+          de movimiento fiable, según el resumen de clientes de Best Buy
         - >-
           Compacta y fácil de colocar, según el análisis práctico de SafeHome de
           la gama Mini
@@ -234,8 +254,28 @@ products:
             4)
           url: 'https://www.safehome.org/home-security-cameras/blink/reviews/'
     asin: B0F3BC8661
-    amazonTitle: Blink Mini 2K+ | White
+    amazonTitle: >-
+      Blink Mini 2K+ (newest model) – Plug-in Home & Pet Indoor Security Camera
+      with 2K video resolution, night vision, enhanced audio, motion detection –
+      1 camera (White)
     asinVerified: true
+    image:
+      url: 'https://m.media-amazon.com/images/I/21vJJD3kJsL._SL500_.jpg'
+      width: 313
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31+6KY5zR8L._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41JSrAz4JHL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/31FOIDxE+ML._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/4183b6a2ePL._SL500_.jpg'
+        width: 313
+        height: 500
   - name: Blink Video Doorbell
     brand: Blink
     query: Blink Video Doorbell 2nd Gen battery Sync Module
@@ -254,19 +294,20 @@ products:
       local y los propietarios cuentan que el vídeo en directo va con retraso y
       que las pilas duran menos de lo anunciado.
     pros:
-      - >-
-        Hasta dos años con tres pilas AA de litio y un Sync Module, según Blink
+      - 'Hasta dos años con tres pilas AA de litio y un Sync Module, según Blink'
       - >-
         Instalación sin cables; Blink incluye tornillos, arandelas y soportes, y
         vende soportes en cuña y de esquina
-      - 'Visión de 150 grados de pies a cabeza con vídeo 1440 x 1440 y audio bidireccional'
+      - >-
+        Visión de 150 grados de pies a cabeza con vídeo 1440 x 1440 y audio
+        bidireccional
     cons:
       - >-
         Necesita el Sync Module; los clips locales requieren un Sync Module 2 y
         un pendrive USB, porque el módulo Core incluido no guarda clips
       - >-
-        Los propietarios cuentan que el vídeo en directo va con retraso y que las
-        pilas se agotan antes de lo anunciado
+        Los propietarios cuentan que el vídeo en directo va con retraso y que
+        las pilas se agotan antes de lo anunciado
     scores:
       install: 7
       reversibility: 5
@@ -281,9 +322,9 @@ products:
       read: 5
       praise:
         - >-
-          Abre más rápido que el timbre de primera generación (análisis en Reddit
-          de la 2.ª generación: «Sigue abriendo más rápido que el timbre de 1.ª
-          generación, incluso con el Sync Module 2»)
+          Abre más rápido que el timbre de primera generación (análisis en
+          Reddit de la 2.ª generación: «Sigue abriendo más rápido que el timbre
+          de 1.ª generación, incluso con el Sync Module 2»)
         - >-
           Larga duración de las pilas con un Sync Module, según Blink y las
           explicaciones de propietarios
@@ -319,8 +360,27 @@ products:
           url: >-
             https://www.reddit.com/r/blinkcameras/comments/1lmw3o7/new_doorbell_wsync_2/
     asin: B0DGQZ8JZK
-    amazonTitle: Blink Video Doorbell + Sync Module included
+    amazonTitle: >-
+      Blink Video Doorbell – Head-to-toe HD view, two-year battery life, and
+      simple setup. Sync Module Core included – System (Black)
     asinVerified: true
+    image:
+      url: 'https://m.media-amazon.com/images/I/31jAesiVibL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41JWEVTllrL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/416YSsuwYyL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41dZtgypqcL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/5106nq72nhL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: Wyze Cam v4 Tech Specs (Wyze Support)
     url: >-
@@ -342,13 +402,13 @@ sources:
       https://www.cnet.com/home/security/blink-video-doorbell-vs-wyze-video-doorbell-pro/
 reviewedDate: '2026-10-19'
 faqs:
-  - q: ¿Qué es mejor para un piso de alquiler, Wyze o Blink?
+  - q: '¿Qué es mejor para un piso de alquiler, Wyze o Blink?'
     a: >-
       Para la mayoría de inquilinos encaja mejor Wyze: la Wyze Cam v4 graba en
       una tarjeta microSD sin hub ni plan y funciona con Google Assistant y
-      Alexa. Blink va bien en hogares con Alexa que quieren el ángulo más
-      amplio de la Mini 2K+ o un timbre a pilas de larga duración.
-  - q: ¿Qué suscripción es más barata, la de Wyze o la de Blink?
+      Alexa. Blink va bien en hogares con Alexa que quieren el ángulo más amplio
+      de la Mini 2K+ o un timbre a pilas de larga duración.
+  - q: '¿Qué suscripción es más barata, la de Wyze o la de Blink?'
     a: >-
       Según las páginas de planes de ambas marcas, Wyze Cam Plus cuesta menos
       por cámara al mes que Blink Basic, y Wyze Cam Unlimited cuesta menos que

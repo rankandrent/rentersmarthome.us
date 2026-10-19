@@ -42,9 +42,9 @@ productCount: 5
 readingTime: 11
 tldr:
   - >-
-    ¿Te has quedado fuera de casa? Revisa otras puertas sin correr riesgos, llama
-    a quien tenga una copia de la llave, después al administrador o al teléfono
-    de urgencias del edificio, y solo entonces a un cerrajero.
+    ¿Te has quedado fuera de casa? Revisa otras puertas sin correr riesgos,
+    llama a quien tenga una copia de la llave, después al administrador o al
+    teléfono de urgencias del edificio, y solo entonces a un cerrajero.
   - >-
     Nunca trepes por la escalera de incendios ni fuerces una ventana: es
     peligroso y puede salirte más caro que quedarte fuera.
@@ -79,11 +79,9 @@ products:
       pilas CR123 y los propietarios dicen cambiarlas cada 3 a 7 meses.
     pros:
       - >-
-        Se monta por dentro sobre la mayoría de cerrojos de un solo cilindro, así
-        que el exterior y tu llave quedan como están
-      - >-
-        Wifi integrado (2,4 o 5 GHz) para abrir a distancia sin un puente
-        aparte
+        Se monta por dentro sobre la mayoría de cerrojos de un solo cilindro,
+        así que el exterior y tu llave quedan como están
+      - 'Wifi integrado (2,4 o 5 GHz) para abrir a distancia sin un puente aparte'
       - >-
         El cierre automático y DoorSense vuelven a cerrar la puerta, y además
         puedes activar la apertura automática al llegar
@@ -106,21 +104,42 @@ products:
       read: 4
       praise:
         - >-
-          Cómoda en el día a día una vez configurada; hay quien dice que volver a
-          la llave le resulta un fastidio
+          Cómoda en el día a día una vez configurada; hay quien dice que volver
+          a la llave le resulta un fastidio
         - La llave física sigue funcionando si las pilas llegan a agotarse
-        - Muchos avisos de batería baja antes de que la cerradura deje de funcionar
+        - >-
+          Muchos avisos de batería baja antes de que la cerradura deje de
+          funcionar
       complaints:
         - >-
           Gasta muchas pilas: un propietario las cambia más o menos cada 3 meses
           y otro cada 7
-        - En los resúmenes de opiniones aparecen problemas puntuales de conexión wifi
+        - >-
+          En los resúmenes de opiniones aparecen problemas puntuales de conexión
+          wifi
       sources:
         - title: Slickdeals August Wi-Fi Smart Lock (4th Gen) owner thread
           url: >-
             https://slickdeals.net/f/16257052-august-wi-fi-smart-lock-4th-gen-black-or-silver-139-free-shipping
         - title: ShopSavvy August Wi-Fi Smart Lock 4th Gen review summary
           url: 'https://shopsavvy.com/reviews-tldr/august-wi-fi-smart-lock-4th-gen'
+    image:
+      url: 'https://m.media-amazon.com/images/I/4120PG5xbhL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41G5tNCzsCL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51XzWyN4erL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51pNaGPJnmL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41SXQ6LB3WL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: SwitchBot Lock Pro
     brand: SwitchBot
     query: SwitchBot Lock Pro
@@ -173,11 +192,13 @@ products:
           Los analistas dicen que se instala rápido y que la cerradura original
           queda intacta
         - 'Abrir es casi tan rápido como girar una llave, según un analista'
-        - En un análisis, los avisos de batería baja llegaron con margen de sobra
+        - >-
+          En un análisis, los avisos de batería baja llegaron con margen de
+          sobra
       complaints:
         - >-
-          El encaje depende de la puerta y la cerradura: un usuario de Trustpilot
-          pedía una mejor adaptación a distintos modelos de puerta
+          El encaje depende de la puerta y la cerradura: un usuario de
+          Trustpilot pedía una mejor adaptación a distintos modelos de puerta
         - >-
           Los avisos de batería baja resultaban excesivos hasta cambiar los
           ajustes de la app (Techlicious)
@@ -191,6 +212,23 @@ products:
           url: 'https://notenoughtech.com/home-automation/switchbot-lock-pro/'
         - title: Trustpilot switch-bot.com reviews (page 9)
           url: 'https://no.trustpilot.com/review/www.switch-bot.com?page=9'
+    image:
+      url: 'https://m.media-amazon.com/images/I/41AnpEoJ8cL._SL500_.jpg'
+      width: 441
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41O8bRNKQEL._SL500_.jpg'
+        width: 500
+        height: 375
+      - url: 'https://m.media-amazon.com/images/I/41seSQCBnIL._SL500_.jpg'
+        width: 500
+        height: 375
+      - url: 'https://m.media-amazon.com/images/I/51bB2HCwO-L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51wl7x8tl0L._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Yale Approach Lock with Wi-Fi and Keypad Touch
     brand: Yale
     query: Yale Approach Lock Deadbolt Wi-Fi Keypad B-YRR110-F-WF1-N-BSP
@@ -216,7 +254,9 @@ products:
         Incluye teclado, lector de huellas y puente wifi, así que puedes entrar
         sin móvil
       - Conserva tu llave actual como respaldo
-      - El teclado se fija con la almohadilla adhesiva incluida o con tornillos y tiene protección IPX5
+      - >-
+        El teclado se fija con la almohadilla adhesiva incluida o con tornillos
+        y tiene protección IPX5
     cons:
       - >-
         Más pasos de instalación que un cerrojo de sustitución completa, y el
@@ -240,14 +280,20 @@ products:
         - >-
           Un propietario con cerca de un año de uso la considera bastante sólida
           y más fiable de lo que esperaba
-        - Los propietarios valoran entrar con huella sin perder la llave original
-        - A un analista de PCWorld le funcionó la instalación tras repetir la calibración
+        - >-
+          Los propietarios valoran entrar con huella sin perder la llave
+          original
+        - >-
+          A un analista de PCWorld le funcionó la instalación tras repetir la
+          calibración
       complaints:
         - La apertura con huella tarda unos segundos
         - >-
           Un propietario tiene que reiniciar el puente cada seis meses o así;
           otro desaconseja cualquier cerradura con puente
-        - Fallos de calibración y de actualización de firmware en el análisis de PCWorld
+        - >-
+          Fallos de calibración y de actualización de firmware en el análisis de
+          PCWorld
       sources:
         - title: Slickdeals Yale Approach owner thread
           url: >-
@@ -255,6 +301,14 @@ products:
         - title: PCWorld Yale Approach Lock with Wi-Fi + Keypad review
           url: >-
             https://www.pcworld.com/article/2331746/yale-approach-lock-with-wi-fi-keypad-review-this-is-easier.html
+    image:
+      url: 'https://m.media-amazon.com/images/I/31MSy2yL9IL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41GhUqJ29zL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Master Lock Portable Key Lock Box 5400EC
     brand: Master Lock
     query: Master Lock Portable Key Lock Box 5400EC
@@ -277,7 +331,9 @@ products:
       se ve desde el rellano, y revisa tu contrato y consulta a tu casero antes
       de dejar una llave fuera.
     pros:
-      - 'Nada que cargar ni cambiar: una combinación de 4 dígitos que puedes cambiar'
+      - >-
+        Nada que cargar ni cambiar: una combinación de 4 dígitos que puedes
+        cambiar
       - 'Caben hasta 5 llaves de casa normales, según el anuncio de Amazon'
       - El arco con recubrimiento de vinilo se cuelga del pomo sin herramientas
     cons:
@@ -298,24 +354,45 @@ products:
     owners:
       read: 29
       praise:
-        - 'Fácil de configurar, fácil de cambiar el código y resistente para lo que es'
+        - >-
+          Fácil de configurar, fácil de cambiar el código y resistente para lo
+          que es
         - >-
           Agentes inmobiliarios y administradores la usan para dar acceso a
           técnicos y a quien cuida la casa
         - Un comprador dice que resistió el fuego y los intentos de palanca
       complaints:
         - >-
-          La seguridad es limitada: un usuario cuenta que un ladrón reventó una y
-          otro la considera solo un elemento disuasorio
+          La seguridad es limitada: un usuario cuenta que un ladrón reventó una
+          y otro la considera solo un elemento disuasorio
         - >-
-          Algunos usuarios mencionan mecanismos atascados o un código que se abría
-          con dígitos equivocados
-        - 'Por dentro hay menos espacio del que parece, así que las llaves grandes quizá no quepan'
+          Algunos usuarios mencionan mecanismos atascados o un código que se
+          abría con dígitos equivocados
+        - >-
+          Por dentro hay menos espacio del que parece, así que las llaves
+          grandes quizá no quepan
       sources:
         - title: 'Home Depot customer reviews, Master Lock 5400DHC'
           url: >-
             https://www.homedepot.com/p/reviews/Master-Lock-Lock-Box-Resettable-Combination-Dials-5400DHC/100124915/1
           reviews: 1503
+    image:
+      url: 'https://m.media-amazon.com/images/I/51xwso8E9gL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41pcRFL0MCL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51PHXUSeqRL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/510qujgaS+L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51ZqlvVkHTL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Master Lock 5420EC Set Your Own Combination Portable Lock Box
     brand: Master Lock
     query: >-
@@ -335,12 +412,14 @@ products:
     renterNote: >-
       El arco se ajusta de 1,9 a 4,4 cm (3/4 a 1-3/4 in) y se cuelga de la
       manilla sin herramientas ni taladro. Mide antes el retranqueo, el taladro
-      transversal y el grosor de tu puerta, porque Amazon advierte que el
-      encaje varía, y recuerda que es una copia escondida, no una caja fuerte.
+      transversal y el grosor de tu puerta, porque Amazon advierte que el encaje
+      varía, y recuerda que es una copia escondida, no una caja fuerte.
     pros:
       - El arco ajustable encaja en manillas y también en pomos redondos
-      - 'Combinación de 4 dígitos que eliges tú, capacidad para 6 llaves según el anuncio de Amazon'
-      - Para interior o exterior, con una tapa contra la lluvia sobre las ruedas
+      - >-
+        Combinación de 4 dígitos que eliges tú, capacidad para 6 llaves según el
+        anuncio de Amazon
+      - 'Para interior o exterior, con una tapa contra la lluvia sobre las ruedas'
     cons:
       - >-
         Queda muy justa en algunos pomos redondos, y un usuario dice que el arco
@@ -360,7 +439,9 @@ products:
       read: 23
       praise:
         - Fácil de configurar y de cambiar el código
-        - 'Encaja en manillas además de en pomos, algo que otras cajas de llaves no hacen'
+        - >-
+          Encaja en manillas además de en pomos, algo que otras cajas de llaves
+          no hacen
         - Administradores y técnicos la usan para entregar llaves
       complaints:
         - >-
@@ -373,6 +454,23 @@ products:
           url: >-
             https://www.homedepot.com/p/reviews/Master-Lock-Key-Lock-Box-for-Knobs-and-Lever-Door-Handles-Adjustable-Shackle-and-Resettable-Combination-5420D/307976891/1
           reviews: 195
+    image:
+      url: 'https://m.media-amazon.com/images/I/31N4tKz710L._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51viaCriXtL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51yYF17hFyL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51lZGxNDsiL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51uu+5TS1iL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: August Wi-Fi Smart Lock (August)
     url: 'https://august.com/products/august-wifi-smart-lock'
@@ -422,9 +520,11 @@ faqs:
       Un cerrajero serio te pedirá un documento de identidad y algo que te
       vincule con la dirección, como el contrato de alquiler, un recibo de
       suministros o correo a tu nombre. Guarda una foto de la página del
-      contrato y de tu documento de identidad en la nube del móvil para poder enseñarlas aunque la
-      cartera se haya quedado dentro.
-  - q: ¿Qué pasa si se agota la pila de la cerradura inteligente y me quedo fuera?
+      contrato y de tu documento de identidad en la nube del móvil para poder
+      enseñarlas aunque la cartera se haya quedado dentro.
+  - q: >-
+      ¿Qué pasa si se agota la pila de la cerradura inteligente y me quedo
+      fuera?
     a: >-
       Usa el respaldo con el que viene la cerradura. Las cerraduras acoplables
       como la August Wi-Fi Smart Lock conservan tu llave física, y muchos

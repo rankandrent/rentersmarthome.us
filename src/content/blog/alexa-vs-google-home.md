@@ -64,9 +64,9 @@ products:
       - Not as full-sounding as Echo Studio
     asin: B0D6SX8VLQ
     image:
-      url: 'https://m.media-amazon.com/images/I/31JssKhhl0L._SL500_.jpg'
-      width: 313
-      height: 500
+      url: 'https://m.media-amazon.com/images/I/511SzQPgwhL._SL500_.jpg'
+      width: 500
+      height: 477
     gallery:
       - url: 'https://m.media-amazon.com/images/I/41DAUA+IE7L._SL500_.jpg'
         width: 313

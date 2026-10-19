@@ -1,6 +1,6 @@
 ---
-title: 'Videodeurbel voor appartement – 6 beste zonder bedrading (2026)'
-seoTitle: 'Videodeurbel voor appartement (2026) – 6 zonder bedrading'
+title: Videodeurbel voor appartement – 6 beste zonder bedrading (2026)
+seoTitle: Videodeurbel voor appartement (2026) – 6 zonder bedrading
 description: >-
   De beste videodeurbel voor een appartement werkt op een accu en hangt zonder
   boren. Vergelijk 6 keuzes voor huurders: opslag, verhuurderregels en
@@ -212,7 +212,7 @@ products:
       | No Subscription,Head-to-Toe view,Wireless or Wired,Color night
       vision,Two-way talk,AI motion/package detection, 2.4 GHz Wi-Fi
     image:
-      url: 'https://m.media-amazon.com/images/I/31bPy4fJvOL._SL500_.jpg'
+      url: 'https://m.media-amazon.com/images/I/41bwjHx5PUL._SL500_.jpg'
       width: 500
       height: 500
     gallery:

@@ -108,10 +108,7 @@ products:
       url: 'https://m.media-amazon.com/images/I/31X4HslPrAL._SL500_.jpg'
       width: 385
       height: 500
-    amazonTitle: >-
-      Midea Cube 20 Pint Dehumidifier for Basement, 1,500 Sq. Ft, Energy star |
-      Large Capacity Water Tank with Drain Hose, Wi-Fi Enabled, Works with
-      Alexa, Quiet Operation for Home, Bedroom
+    amazonTitle: 'Midea Cube 20 Pint Dehumidifier for Basement, 1,500 Sq. Ft, Energy star'
     gallery:
       - url: 'https://m.media-amazon.com/images/I/41xZgLzCJOL._SL500_.jpg'
         width: 385
@@ -239,10 +236,7 @@ products:
       url: 'https://m.media-amazon.com/images/I/31m6sBV6kuL._SL500_.jpg'
       width: 385
       height: 500
-    amazonTitle: >-
-      Midea Cube 50 Pint Dehumidifier for Basement, 4,500 Sq. Ft, Energy star |
-      Large Capacity Water Tank with Drain Hose, Wi-Fi Enabled, Works with
-      Alexa, Quiet Operation for Home, Bedroom
+    amazonTitle: 'Midea Cube 50 Pint Dehumidifier for Basement, 4,500 Sq. Ft, Energy star'
     gallery:
       - url: 'https://m.media-amazon.com/images/I/41xZgLzCJOL._SL500_.jpg'
         width: 385

@@ -1,6 +1,6 @@
 ---
-title: 'Video-Türklingel ohne Abo für Mieter – unsere 3 Empfehlungen'
-seoTitle: 'Video-Türklingel ohne Abo für Mieter (2026) – 3 Modelle'
+title: Video-Türklingel ohne Abo für Mieter – unsere 3 Empfehlungen
+seoTitle: Video-Türklingel ohne Abo für Mieter (2026) – 3 Modelle
 description: >-
   Die beste Video-Türklingel ohne Abo für Mieter speichert Clips lokal, läuft
   mit Akku und hält ohne Bohren. Unsere 3 Empfehlungen und Tipps zur Montage.
@@ -36,9 +36,9 @@ tldr:
     Klingelleitung.
   - >-
     Die eufy Security Video Doorbell C31 ist die Alternative mit einer Kamera:
-    herausnehmbarer Akku, microSD-Speicher, keine HomeBase und keine
-    monatliche Gebühr.
-  - 'Die Tapo D210 ist der Spartipp und speichert Clips auf einer microSD-Karte.'
+    herausnehmbarer Akku, microSD-Speicher, keine HomeBase und keine monatliche
+    Gebühr.
+  - Die Tapo D210 ist der Spartipp und speichert Clips auf einer microSD-Karte.
   - >-
     Nutze eine Halterung ohne Bohren oder frag deinen Vermieter, bevor du etwas
     am Türrahmen anbringst.
@@ -48,8 +48,8 @@ products:
     query: eufy Video Doorbell E340 dual camera
     badge: Beste Wahl insgesamt
     summary: >-
-      Eine Türklingel mit zwei Kameras, die Besucher von Kopf bis Fuß filmt,
-      mit eingebautem lokalem Speicher, damit du Clips ohne Abo sichern kannst.
+      Eine Türklingel mit zwei Kameras, die Besucher von Kopf bis Fuß filmt, mit
+      eingebautem lokalem Speicher, damit du Clips ohne Abo sichern kannst.
     renterNote: 'Läuft mit Akku, in der Mietwohnung brauchst du also keine Klingelleitung.'
     pros:
       - 'Eingebauter lokaler Speicher, keine monatliche Gebühr'
@@ -60,7 +60,7 @@ products:
       - An einer viel besuchten Tür ist der eingebaute Speicher schnell voll
     asin: B0CD7NT4Y9
     image:
-      url: 'https://m.media-amazon.com/images/I/31bPy4fJvOL._SL500_.jpg'
+      url: 'https://m.media-amazon.com/images/I/41bwjHx5PUL._SL500_.jpg'
       width: 500
       height: 500
     gallery:
@@ -96,12 +96,14 @@ products:
           Die zweite, nach unten gerichtete Kamera erfasst Pakete; dank lokalem
           Speicher kein Abo nötig
         - Bildqualität und Schutz von Lieferungen werden in Rezensionen gelobt
-        - Einrichtung laut Rezensionen einfach, das Video scharf
+        - 'Einrichtung laut Rezensionen einfach, das Video scharf'
       complaints:
         - >-
           Die Firmware 3.2.3.0 hat bei vielen Besitzern Live-Ansicht, Gong und
           Benachrichtigungen lahmgelegt
-        - Verzögerte oder unzuverlässige Klingel-Benachrichtigungen und instabiles WLAN gemeldet
+        - >-
+          Verzögerte oder unzuverlässige Klingel-Benachrichtigungen und
+          instabiles WLAN gemeldet
         - Akkulaufzeit und Bewegungsalarme durch vorbeifahrende Autos kritisiert
       sources:
         - title: 'Eufy community: E340 wired issues'
@@ -141,24 +143,30 @@ products:
       wird angeschraubt: Hol dir also die Zustimmung des Vermieters oder eine
       passende Halterung ohne Bohren.
     pros:
-      - 'microSD-Speicher bis 128 GB, keine monatliche Gebühr und keine HomeBase nötig'
+      - >-
+        microSD-Speicher bis 128 GB, keine monatliche Gebühr und keine HomeBase
+        nötig
       - Herausnehmbarer 6500-mAh-Akkupack lädt in der Wohnung
       - 24/7-Aufzeichnung bei Anschluss an die Klingelleitung
       - Funktioniert mit einem vorhandenen kabelgebundenen Gong
     cons:
       - 'Nur eine Kamera, also keine eigene Paketansicht wie bei der E340'
       - Halterung wird geschraubt; eufy nennt keine Halterung ohne Bohren
-      - Besitzer berichten von einem fummeligen Halterungsclip und einigen verpassten Alarmen
-      - Nur 2,4-GHz-WLAN; kein Apple HomeKit
+      - >-
+        Besitzer berichten von einem fummeligen Halterungsclip und einigen
+        verpassten Alarmen
+      - 'Nur 2,4-GHz-WLAN; kein Apple HomeKit'
     specs:
       Cameras: 'Eine 2K-Kamera, 4:3-Ansicht von Kopf bis Fuß'
       Power: Herausnehmbarer 6500-mAh-Akku oder Klingelleitung
       Storage: 'microSD bis 128 GB; optional HomeBase S280, S380 oder HomeBase 3'
-      Recording: '24/7 nur mit Kabelanschluss; im Akkubetrieb Bewegungsclips'
-      Chime: 'Vorhandener Kabelgong oder eufy MiniBase Chime T8023 (separat erhältlich)'
+      Recording: 24/7 nur mit Kabelanschluss; im Akkubetrieb Bewegungsclips
+      Chime: >-
+        Vorhandener Kabelgong oder eufy MiniBase Chime T8023 (separat
+        erhältlich)
       Wi-Fi: '2,4 GHz'
       Mounting: Schraubhalterung plus 15-Grad-Keil
-      Smart home: 'Alexa und Google Assistant; nicht Apple HomeKit'
+      Smart home: Alexa und Google Assistant; nicht Apple HomeKit
     scores:
       install: 6
       reversibility: 6
@@ -166,22 +174,28 @@ products:
       compatibility: 7
       portability: 8
     scoreNote: >-
-      microSD-Speicher ohne Gebühr und ein herausnehmbarer Akku; die
-      geschraubte Halterung hinterlässt kleine Löcher, außer du nutzt eine
-      Halterung ohne Bohren.
+      microSD-Speicher ohne Gebühr und ein herausnehmbarer Akku; die geschraubte
+      Halterung hinterlässt kleine Löcher, außer du nutzt eine Halterung ohne
+      Bohren.
     owners:
       read: 5
       praise:
         - Scharfes 2K-Bild mit voller Ansicht der Besucher von Kopf bis Fuß
-        - 'Keine monatliche Gebühr, Clips werden lokal auf einer microSD-Karte gespeichert'
+        - >-
+          Keine monatliche Gebühr, Clips werden lokal auf einer microSD-Karte
+          gespeichert
         - 'Einfache Einrichtung, die Bewegungserkennung gilt als präzise'
       complaints:
         - >-
           Die Unterseite der Türklingel rastet manchmal nicht in die
           Wandhalterung ein; einige Besitzer bekamen vom Support eine
           Ersatzhalterung
-        - Verpasste Klingeln oder Personenalarme, bis die Türklingel neu gestartet wird
-        - Akkulaufzeit an einer viel besuchten Tür und die Android-App wurden kritisiert
+        - >-
+          Verpasste Klingeln oder Personenalarme, bis die Türklingel neu
+          gestartet wird
+        - >-
+          Akkulaufzeit an einer viel besuchten Tür und die Android-App wurden
+          kritisiert
       sources:
         - title: 'eufy community: C31 does not clip into mount'
           url: 'https://community.eufy.com/t/hi-guys-so-i/5779237'
@@ -286,7 +300,7 @@ faqs:
       Ja. Wähle eine Akku-Türklingel, montiere sie mit einer Halterung ohne
       Bohren, wo der Untergrund es zulässt, und frag vorher deinen Vermieter,
       falls dein Mietvertrag Veränderungen an der Tür einschränkt.
-  - q: Was passiert mit lokalen Clips, wenn die Türklingel gestohlen wird?
+  - q: 'Was passiert mit lokalen Clips, wenn die Türklingel gestohlen wird?'
     a: >-
       Clips, die in der Türklingel selbst liegen, etwa im eingebauten Speicher
       der E340 oder auf der microSD-Karte der C31 oder Tapo D210, sind dann mit

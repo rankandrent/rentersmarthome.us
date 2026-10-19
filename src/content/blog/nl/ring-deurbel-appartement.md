@@ -1,252 +1,303 @@
 ---
-title: 'Ring deurbel in een appartement – kan dat zonder boren?'
-seoTitle: 'Ring deurbel in een appartement – 3 manieren zonder boren'
-description: Ja, een Ring deurbel kan in een huurappartement zonder boren. Zo gebruik
-  je de Ring Peephole Cam of de No-Drill Mount, en dit vraag je aan je verhuurder.
+title: Ring deurbel in een appartement – kan dat zonder boren?
+seoTitle: Ring deurbel in een appartement – 3 manieren zonder boren
+description: >-
+  Ja, een Ring deurbel kan in een huurappartement zonder boren. Zo gebruik je de
+  Ring Peephole Cam of de No-Drill Mount, en dit vraag je aan je verhuurder.
 pubDate: '2026-10-17T19:00:00.000Z'
 lang: nl
 translationOf: ring-doorbell-in-apartment
 category: security
 keyword: ring deurbel in een appartement
 secondaryKeywords:
-- ring deurbel huurwoning
-- ring deurbel op appartementdeur
-- mag een ring camera in een huurappartement
+  - ring deurbel huurwoning
+  - ring deurbel op appartementdeur
+  - mag een ring camera in een huurappartement
 entities:
-- Ring doorbell in an apartment
-- Ring
-- Ring Peephole Cam
-- Ring Battery Doorbell
-- Ring No-Drill Mount
-- lease
-- landlord
-- security deposit
-- Ring Home subscription
+  - Ring doorbell in an apartment
+  - Ring
+  - Ring Peephole Cam
+  - Ring Battery Doorbell
+  - Ring No-Drill Mount
+  - lease
+  - landlord
+  - security deposit
+  - Ring Home subscription
 tags:
-- videodeurbellen
-- beveiliging appartement
-- regels voor huurders
+  - videodeurbellen
+  - beveiliging appartement
+  - regels voor huurders
 articleType: guide
 funnel: tofu
 readingTime: 7
 tldr:
-- Ja, in de meeste appartementen kun je een Ring deurbel plaatsen zonder te boren,
-  zolang je huurcontract het toestaat en je de deur niet beschadigt.
-- De Ring Peephole Cam vervangt je bestaande deurspion en haal je bij het verhuizen
-  netjes weer weg.
-- Een Ring Battery Doorbell kan met de Ring No-Drill Mount op een gladde deurpost,
-  met plakstrip in plaats van schroeven.
-- Vraag je verhuurder eerst schriftelijk om toestemming en richt de camera zo dat
-  hij de deuren van je buren niet filmt.
+  - >-
+    Ja, in de meeste appartementen kun je een Ring deurbel plaatsen zonder te
+    boren, zolang je huurcontract het toestaat en je de deur niet beschadigt.
+  - >-
+    De Ring Peephole Cam vervangt je bestaande deurspion en haal je bij het
+    verhuizen netjes weer weg.
+  - >-
+    Een Ring Battery Doorbell kan met de Ring No-Drill Mount op een gladde
+    deurpost, met plakstrip in plaats van schroeven.
+  - >-
+    Vraag je verhuurder eerst schriftelijk om toestemming en richt de camera zo
+    dat hij de deuren van je buren niet filmt.
 products:
-- name: Ring Peephole Cam
-  brand: Ring
-  query: Ring Peephole Cam 2K
-  badge: Beste voor appartementdeuren
-  summary: Een camera op batterij die de deurspion van je deur vervangt, zodat je
-    een videodeurbel, bewegingsmeldingen en een kloksensor krijgt zonder te boren.
-  renterNote: Je schroeft je bestaande deurspion eruit; bewaar het origineel om het
-    bij vertrek terug te plaatsen.
-  pros:
-  - Geen boren en geen bedrading
-  - Ziet er vanuit de gang uit als een gewone deurspion
-  - Makkelijk mee te nemen naar je volgende appartement
-  cons:
-  - Past alleen bij bepaalde deurdiktes en spiondiameters
-  - De batterij moet regelmatig worden opgeladen
-  asin: B0GLJ8NM1W
-  image:
-    url: https://m.media-amazon.com/images/I/31gbU4nZpHL._SL500_.jpg
-    width: 313
-    height: 500
-  gallery:
-  - url: https://m.media-amazon.com/images/I/41A0CqGnYhL._SL500_.jpg
-    width: 313
-    height: 500
-  - url: https://m.media-amazon.com/images/I/41IC1G7G+OL._SL500_.jpg
-    width: 313
-    height: 500
-  - url: https://m.media-amazon.com/images/I/41lbHuVMRmL._SL500_.jpg
-    width: 313
-    height: 500
-  - url: https://m.media-amazon.com/images/I/419w3TzXRML._SL500_.jpg
-    width: 313
-    height: 500
-  amazonTitle: Ring Peephole Cam 2K (Newest Model), replaces physical peephole viewing
-    with Retinal 2K and wide-angle video, renter-friendly installation, Speckled Gray
-  scores:
-    install: 8
-    reversibility: 9
-    value: 6
-    compatibility: 7
-    portability: 8
-  scoreNote: Vervangt de bestaande deurspion zonder boren; opnames vragen een Ring
-    Home-abonnement en hij past alleen in bepaalde deuren.
-  owners:
-    read: 5
-    praise:
-    - Past in de bestaande deurspion zonder boren, wat goed werkt in een huurwoning
-    - Eenvoudige installatie in de app; reviewers noemen ook beeldkwaliteit, nachtzicht
-      en batterijduur
-    complaints:
-    - Live beeld of bewegingsmeldingen vallen na de installatie soms weg; sommige
-      eigenaren hadden hardwarestoringen
-    - Moet bij intensief gebruik ongeveer maandelijks worden opgeladen; een extra
-      buitendeur (storm door) kan het nachtzicht blokkeren
-    - Kloksensor is zwak bij massieve deuren
-    sources:
-    - title: Ring Peephole Cam Review (Security.org)
-      url: https://www.security.org/doorbell-camera/ring/review/door-view-cam
-    - title: Ring peephole camera not working (Ring Community)
-      url: https://community.ring.com/t/ring-peephole-camera-not-working/143069
-    - title: Peephole Cam live view not working after flex cable replacement (Ring
-        Community)
-      url: https://community.ring.com/conversations/general-topics/peephole-cam-live-view-not-working-after-flex-cable-replacement/683aabd133343b5c15fe6e07
-    - title: Ring Peephole Doorbell Not Working (Ring Community)
-      url: https://community.ring.com/t/ring-peephole-doorbell-not-working/12520
-    - title: Ring Peephole Cam customer reviews (Best Buy)
-      url: https://bestbuy.com/site/reviews/ring-peephole-cam-video-doorbell-battery-satin-nickel/6379205?page=3
-      reviews: 701
-    - title: Ring Peephole Cam customer reviews (Home Depot)
-      url: https://homedepot.com/p/reviews/Ring-Peephole-Cam-Smart-Wireless-Video-Doorbell-Camera-with-Quick-Release-Battery-2-Way-Talk-and-Knock-Detection-8SPPS9-0EN0/311386247/1
-- name: Ring Battery Doorbell
-  brand: Ring
-  query: Ring Battery Doorbell
-  badge: Beste als je geen deurspion hebt
-  summary: Een draadloze Ring deurbel met oplaadbare batterij die samengaat met de
-    Ring No-Drill Mount, voor huurders die geen schroeven mogen gebruiken.
-  renterNote: Combineer hem met de Ring No-Drill Mount op een gladde deurpost.
-  pros:
-  - Geen deurbelbedrading nodig
-  - Werkt met de Ring No-Drill Mount
-  - Werkt met Alexa en Ring Alarm
-  cons:
-  - De batterij moet worden opgeladen
-  - Voor het bewaren van opnames heb je een Ring Home-abonnement nodig
-  asin: B0FHJ7TKZM
-  image:
-    url: https://m.media-amazon.com/images/I/21lc6l7V1ZL._SL500_.jpg
-    width: 313
-    height: 500
-  gallery:
-  - url: https://m.media-amazon.com/images/I/314PqGk2KCL._SL500_.jpg
-    width: 313
-    height: 500
-  - url: https://m.media-amazon.com/images/I/51wDFPyV0HL._SL500_.jpg
-    width: 313
-    height: 500
-  - url: https://m.media-amazon.com/images/I/41fw3395XBL._SL500_.jpg
-    width: 313
-    height: 500
-  - url: https://m.media-amazon.com/images/I/51zWje4O0IL._SL500_.jpg
-    width: 313
-    height: 500
-  amazonTitle: Ring Battery Doorbell 2K (newest model) Retinal 2K with wide-angle
-    video, up to 6x Enhanced Zoom, Two-Way Talk, and Built-In Battery, Speckled Gray
-  scores:
-    install: 7
-    reversibility: 8
-    value: 6
-    compatibility: 7
-    portability: 8
-  scoreNote: Deurbel op batterij zonder bedrading; heeft een houder zonder boren nodig,
-    en clips bewaren vraagt Ring Home.
-  owners:
-    read: 5
-    praise:
-    - Draadloze batterijvoeding maakt de installatie eenvoudig, zonder bedrading
-    - Eén eigenaar meldt geen enkel probleem met zijn exemplaar
-    complaints:
-    - Bij sommige eigenaren is de batterij binnen weken leeg, of reageert het apparaat
-      niet meer
-    - De batterij kun je niet zelf vervangen en geavanceerde functies vragen een abonnement
-    - Wifi-onderbrekingen, en sommige exemplaren klikten niet vast in de montagebeugel
-    sources:
-    - title: Really disgusted (Ring Community)
-      url: https://community.ring.com/conversations/ring-video-doorbell/really-disgusted/681a430820d5b71fad21aee1
-    - title: Doorbell not snapping into bracket (Ring Community)
-      url: https://community.ring.com/conversations/ring-video-doorbell/head-to-toe-doorbell-not-snapping-into-bracket/679180745d74312f49aeedce
-    - title: Ring Doorbell, any good? (Talk Photography)
-      url: https://www.talkphotography.co.uk/threads/ring-doorbell-any-good.771394/
-    - title: Doorbell 3 battery not responding (Ring Community)
-      url: https://community.ring.com/conversations/ring-video-doorbell/ring-doorbel-3-battery-not-responding-at-all/675c13d3a13932149a5ed27e
-    - title: Ring Battery Doorbell review summary (ShopSavvy)
-      url: https://www.shopsavvy.com/reviews-tldr/ring-battery-doorbell-2024-venetian-bronze
-- name: Ring No-Drill Mount
-  brand: Ring
-  query: Ring No-Drill Mount battery doorbell
-  badge: Beste accessoire voor huurders
-  summary: De eigen plakhouder van Ring voor zijn deurbellen op batterij, gemaakt
-    voor deuren en kozijnen waarin je niet mag boren.
-  renterNote: Werkt het best op gladde oppervlakken; vermijd baksteen, dakpannen en
-    ruw stucwerk.
-  pros:
-  - Geen schroeven in de deur of het kozijn
-  - Door Ring gemaakt voor zijn deurbellen op batterij
-  - Reserveplakstrip meegeleverd
-  cons:
-  - Past alleen op bepaalde Ring deurbellen op batterij
-  - Niet voor ruwe of gestructureerde oppervlakken
-  asin: B0FS3466XM
-  image:
-    url: https://m.media-amazon.com/images/I/21au3hGPKiL._SL500_.jpg
-    width: 313
-    height: 500
-  gallery:
-  - url: https://m.media-amazon.com/images/I/218PEGbgBhL._SL500_.jpg
-    width: 313
-    height: 500
-  amazonTitle: All -New No Drill Mount for Ring Battery Doorbell (newest model), Battery
-    Doorbell Plus (newest model), Battery Doorbell Pro (newest model)
-  scores:
-    install: 9
-    reversibility: 8
-    value: 8
-    portability: 7
-  scoreNote: Plakhouder voor Ring deurbellen op batterij; alleen voor gladde oppervlakken.
-  owners:
-    read: 2
-    praise:
-    - Met de plakplaat gaat een deurbel omhoog zonder in de muren van een huurwoning
-      te boren
-    - Goedkoop en makkelijk te plaatsen
-    complaints:
-    - Compatibiliteit hangt af van het model; volgens Ring past de Gen 2-houder alleen
-      op die deurbel
-    - Weinig ervaringen van eigenaren gevonden; het verwijderen van de lijm kan sporen
-      op de gevel achterlaten, dus check je huurcontract
-    sources:
-    - title: No-Drill Mount FAQs (Ring Support)
-      url: https://ring.com/support/articles/mich9/No-Drill-Mount-for-Ring-Video-Doorbell-Gen-2-FAQs
-    - title: No-drill video doorbell mounts are perfect for renters (How-To Geek)
-      url: https://www.howtogeek.com/828871/no-drill-video-doorbell-mounts-are-perfect-for-renters
+  - name: Ring Peephole Cam
+    brand: Ring
+    query: Ring Peephole Cam 2K
+    badge: Beste voor appartementdeuren
+    summary: >-
+      Een camera op batterij die de deurspion van je deur vervangt, zodat je een
+      videodeurbel, bewegingsmeldingen en een kloksensor krijgt zonder te boren.
+    renterNote: >-
+      Je schroeft je bestaande deurspion eruit; bewaar het origineel om het bij
+      vertrek terug te plaatsen.
+    pros:
+      - Geen boren en geen bedrading
+      - Ziet er vanuit de gang uit als een gewone deurspion
+      - Makkelijk mee te nemen naar je volgende appartement
+    cons:
+      - Past alleen bij bepaalde deurdiktes en spiondiameters
+      - De batterij moet regelmatig worden opgeladen
+    asin: B0GLJ8NM1W
+    image:
+      url: 'https://m.media-amazon.com/images/I/31gbU4nZpHL._SL500_.jpg'
+      width: 313
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41A0CqGnYhL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41IC1G7G+OL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41lbHuVMRmL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/419w3TzXRML._SL500_.jpg'
+        width: 313
+        height: 500
+    amazonTitle: >-
+      Ring Peephole Cam 2K (Newest Model), replaces physical peephole viewing
+      with Retinal 2K and wide-angle video, renter-friendly installation,
+      Speckled Gray
+    scores:
+      install: 8
+      reversibility: 9
+      value: 6
+      compatibility: 7
+      portability: 8
+    scoreNote: >-
+      Vervangt de bestaande deurspion zonder boren; opnames vragen een Ring
+      Home-abonnement en hij past alleen in bepaalde deuren.
+    owners:
+      read: 5
+      praise:
+        - >-
+          Past in de bestaande deurspion zonder boren, wat goed werkt in een
+          huurwoning
+        - >-
+          Eenvoudige installatie in de app; reviewers noemen ook beeldkwaliteit,
+          nachtzicht en batterijduur
+      complaints:
+        - >-
+          Live beeld of bewegingsmeldingen vallen na de installatie soms weg;
+          sommige eigenaren hadden hardwarestoringen
+        - >-
+          Moet bij intensief gebruik ongeveer maandelijks worden opgeladen; een
+          extra buitendeur (storm door) kan het nachtzicht blokkeren
+        - Kloksensor is zwak bij massieve deuren
+      sources:
+        - title: Ring Peephole Cam Review (Security.org)
+          url: 'https://www.security.org/doorbell-camera/ring/review/door-view-cam'
+        - title: Ring peephole camera not working (Ring Community)
+          url: 'https://community.ring.com/t/ring-peephole-camera-not-working/143069'
+        - title: >-
+            Peephole Cam live view not working after flex cable replacement
+            (Ring Community)
+          url: >-
+            https://community.ring.com/conversations/general-topics/peephole-cam-live-view-not-working-after-flex-cable-replacement/683aabd133343b5c15fe6e07
+        - title: Ring Peephole Doorbell Not Working (Ring Community)
+          url: >-
+            https://community.ring.com/t/ring-peephole-doorbell-not-working/12520
+        - title: Ring Peephole Cam customer reviews (Best Buy)
+          url: >-
+            https://bestbuy.com/site/reviews/ring-peephole-cam-video-doorbell-battery-satin-nickel/6379205?page=3
+          reviews: 701
+        - title: Ring Peephole Cam customer reviews (Home Depot)
+          url: >-
+            https://homedepot.com/p/reviews/Ring-Peephole-Cam-Smart-Wireless-Video-Doorbell-Camera-with-Quick-Release-Battery-2-Way-Talk-and-Knock-Detection-8SPPS9-0EN0/311386247/1
+  - name: Ring Battery Doorbell
+    brand: Ring
+    query: Ring Battery Doorbell
+    badge: Beste als je geen deurspion hebt
+    summary: >-
+      Een draadloze Ring deurbel met oplaadbare batterij die samengaat met de
+      Ring No-Drill Mount, voor huurders die geen schroeven mogen gebruiken.
+    renterNote: Combineer hem met de Ring No-Drill Mount op een gladde deurpost.
+    pros:
+      - Geen deurbelbedrading nodig
+      - Werkt met de Ring No-Drill Mount
+      - Werkt met Alexa en Ring Alarm
+    cons:
+      - De batterij moet worden opgeladen
+      - Voor het bewaren van opnames heb je een Ring Home-abonnement nodig
+    asin: B0FHJ7TKZM
+    image:
+      url: 'https://m.media-amazon.com/images/I/31+qDXAyhzL._SL500_.jpg'
+      width: 394
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/314PqGk2KCL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51wDFPyV0HL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41fw3395XBL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51zWje4O0IL._SL500_.jpg'
+        width: 313
+        height: 500
+    amazonTitle: >-
+      Ring Battery Doorbell 2K (newest model) Retinal 2K with wide-angle video,
+      up to 6x Enhanced Zoom, Two-Way Talk, and Built-In Battery, Speckled Gray
+    scores:
+      install: 7
+      reversibility: 8
+      value: 6
+      compatibility: 7
+      portability: 8
+    scoreNote: >-
+      Deurbel op batterij zonder bedrading; heeft een houder zonder boren nodig,
+      en clips bewaren vraagt Ring Home.
+    owners:
+      read: 5
+      praise:
+        - >-
+          Draadloze batterijvoeding maakt de installatie eenvoudig, zonder
+          bedrading
+        - Eén eigenaar meldt geen enkel probleem met zijn exemplaar
+      complaints:
+        - >-
+          Bij sommige eigenaren is de batterij binnen weken leeg, of reageert
+          het apparaat niet meer
+        - >-
+          De batterij kun je niet zelf vervangen en geavanceerde functies vragen
+          een abonnement
+        - >-
+          Wifi-onderbrekingen, en sommige exemplaren klikten niet vast in de
+          montagebeugel
+      sources:
+        - title: Really disgusted (Ring Community)
+          url: >-
+            https://community.ring.com/conversations/ring-video-doorbell/really-disgusted/681a430820d5b71fad21aee1
+        - title: Doorbell not snapping into bracket (Ring Community)
+          url: >-
+            https://community.ring.com/conversations/ring-video-doorbell/head-to-toe-doorbell-not-snapping-into-bracket/679180745d74312f49aeedce
+        - title: 'Ring Doorbell, any good? (Talk Photography)'
+          url: >-
+            https://www.talkphotography.co.uk/threads/ring-doorbell-any-good.771394/
+        - title: Doorbell 3 battery not responding (Ring Community)
+          url: >-
+            https://community.ring.com/conversations/ring-video-doorbell/ring-doorbel-3-battery-not-responding-at-all/675c13d3a13932149a5ed27e
+        - title: Ring Battery Doorbell review summary (ShopSavvy)
+          url: >-
+            https://www.shopsavvy.com/reviews-tldr/ring-battery-doorbell-2024-venetian-bronze
+  - name: Ring No-Drill Mount
+    brand: Ring
+    query: Ring No-Drill Mount battery doorbell
+    badge: Beste accessoire voor huurders
+    summary: >-
+      De eigen plakhouder van Ring voor zijn deurbellen op batterij, gemaakt
+      voor deuren en kozijnen waarin je niet mag boren.
+    renterNote: >-
+      Werkt het best op gladde oppervlakken; vermijd baksteen, dakpannen en ruw
+      stucwerk.
+    pros:
+      - Geen schroeven in de deur of het kozijn
+      - Door Ring gemaakt voor zijn deurbellen op batterij
+      - Reserveplakstrip meegeleverd
+    cons:
+      - Past alleen op bepaalde Ring deurbellen op batterij
+      - Niet voor ruwe of gestructureerde oppervlakken
+    asin: B0FS3466XM
+    image:
+      url: 'https://m.media-amazon.com/images/I/21au3hGPKiL._SL500_.jpg'
+      width: 313
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/218PEGbgBhL._SL500_.jpg'
+        width: 313
+        height: 500
+    amazonTitle: >-
+      All -New No Drill Mount for Ring Battery Doorbell (newest model), Battery
+      Doorbell Plus (newest model), Battery Doorbell Pro (newest model)
+    scores:
+      install: 9
+      reversibility: 8
+      value: 8
+      portability: 7
+    scoreNote: >-
+      Plakhouder voor Ring deurbellen op batterij; alleen voor gladde
+      oppervlakken.
+    owners:
+      read: 2
+      praise:
+        - >-
+          Met de plakplaat gaat een deurbel omhoog zonder in de muren van een
+          huurwoning te boren
+        - Goedkoop en makkelijk te plaatsen
+      complaints:
+        - >-
+          Compatibiliteit hangt af van het model; volgens Ring past de Gen
+          2-houder alleen op die deurbel
+        - >-
+          Weinig ervaringen van eigenaren gevonden; het verwijderen van de lijm
+          kan sporen op de gevel achterlaten, dus check je huurcontract
+      sources:
+        - title: No-Drill Mount FAQs (Ring Support)
+          url: >-
+            https://ring.com/support/articles/mich9/No-Drill-Mount-for-Ring-Video-Doorbell-Gen-2-FAQs
+        - title: No-drill video doorbell mounts are perfect for renters (How-To Geek)
+          url: >-
+            https://www.howtogeek.com/828871/no-drill-video-doorbell-mounts-are-perfect-for-renters
 sources:
-- title: 'Ring: No-Drill Mount for Battery Doorbells'
-  url: https://ring.com/ca/en/products/no-drill-mount-for-battery-doorbells
-- title: 'Ring Blog: The best Ring products for renters'
-  url: https://blog.ring.com/home-security/the-best-ring-products-for-renters/
+  - title: 'Ring: No-Drill Mount for Battery Doorbells'
+    url: 'https://ring.com/ca/en/products/no-drill-mount-for-battery-doorbells'
+  - title: 'Ring Blog: The best Ring products for renters'
+    url: 'https://blog.ring.com/home-security/the-best-ring-products-for-renters/'
 reviewedDate: '2026-10-14T00:00:00.000Z'
 faqs:
-- q: Kan ik een Ring deurbel op mijn appartementdeur zetten?
-  a: Ja. De Ring Peephole Cam vervangt de deurspion van je deur zonder boren, en een
-    Ring Battery Doorbell kun je bevestigen met de Ring No-Drill Mount. Check je huurcontract
-    en vraag het eerst aan je verhuurder.
-- q: Heb ik toestemming van mijn verhuurder nodig voor een Ring deurbel?
-  a: Meestal is het verstandig om het te vragen. Veel huurcontracten beperken aanpassingen
-    aan de deur, en een schriftelijk ja beschermt je borg. Een oplossing zonder boren
-    maakt het makkelijker om toestemming te krijgen.
-- q: Moet je boren voor de Ring Peephole Cam?
-  a: Nee. Hij vervangt de bestaande deurspion. Hij past alleen op deuren en spionnen
-    binnen de maatvoering van Ring, dus controleer de vereisten voordat je hem bestelt.
-- q: Heb ik een abonnement nodig voor een Ring deurbel?
-  a: Live beeld en bewegingsmeldingen werken zonder abonnement. Om opnames te bewaren
-    en terug te kijken heb je een Ring Home-abonnement nodig.
-- q: Kan ik mijn Ring deurbel meenemen als ik verhuis?
-  a: Ja. Plaats je originele deurspion terug of trek de No-Drill Mount los, en stel
-    de deurbel op je nieuwe adres opnieuw in via de Ring-app.
+  - q: Kan ik een Ring deurbel op mijn appartementdeur zetten?
+    a: >-
+      Ja. De Ring Peephole Cam vervangt de deurspion van je deur zonder boren,
+      en een Ring Battery Doorbell kun je bevestigen met de Ring No-Drill Mount.
+      Check je huurcontract en vraag het eerst aan je verhuurder.
+  - q: Heb ik toestemming van mijn verhuurder nodig voor een Ring deurbel?
+    a: >-
+      Meestal is het verstandig om het te vragen. Veel huurcontracten beperken
+      aanpassingen aan de deur, en een schriftelijk ja beschermt je borg. Een
+      oplossing zonder boren maakt het makkelijker om toestemming te krijgen.
+  - q: Moet je boren voor de Ring Peephole Cam?
+    a: >-
+      Nee. Hij vervangt de bestaande deurspion. Hij past alleen op deuren en
+      spionnen binnen de maatvoering van Ring, dus controleer de vereisten
+      voordat je hem bestelt.
+  - q: Heb ik een abonnement nodig voor een Ring deurbel?
+    a: >-
+      Live beeld en bewegingsmeldingen werken zonder abonnement. Om opnames te
+      bewaren en terug te kijken heb je een Ring Home-abonnement nodig.
+  - q: Kan ik mijn Ring deurbel meenemen als ik verhuis?
+    a: >-
+      Ja. Plaats je originele deurspion terug of trek de No-Drill Mount los, en
+      stel de deurbel op je nieuwe adres opnieuw in via de Ring-app.
 author: editorial-team
 heroImage: /images/featured/ring-doorbell-in-apartment.png
-heroAlt: 'Ring deurbel in je huurappartement – gids voor huurders van RenterSmartHome'
+heroAlt: Ring deurbel in je huurappartement – gids voor huurders van RenterSmartHome
 ---
 
 Kun je een Ring deurbel in een huurappartement plaatsen? **Ja: de meeste huurders kunnen een Ring deurbel toevoegen zonder te boren, met de Ring Peephole Cam of met een Ring Battery Doorbell op de Ring No-Drill Mount, zolang het huurcontract het toestaat.** Het probleem zit zelden in de hardware. Het zit in het huurcontract, de deur en je buren.

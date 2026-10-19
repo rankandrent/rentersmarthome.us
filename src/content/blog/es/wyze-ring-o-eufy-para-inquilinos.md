@@ -87,16 +87,16 @@ products:
         Varios usuarios encuentran flojos el micrófono y el audio bidireccional,
         y algunos hablan de fallos de hardware tras aproximadamente 1,5 años
     specs:
-      Resolution: 2560x1440 (2,5K QHD)
-      Field of view: 115,8° diagonal, 98,5° horizontal, 53,1° vertical
+      Resolution: '2560x1440 (2,5K QHD)'
+      Field of view: '115,8° diagonal, 98,5° horizontal, 53,1° vertical'
       Storage: >-
         Tarjeta microSD (no incluida); consulta la ficha técnica actual para el
         tamaño máximo de tarjeta
-      Wi-Fi: Solo 2,4 GHz
-      Weather rating: IP65 interior/exterior, no totalmente impermeable
+      Wi-Fi: 'Solo 2,4 GHz'
+      Weather rating: 'IP65 interior/exterior, no totalmente impermeable'
       Extras: Sirena integrada y foco de 2 LED
       Subscription: Cam Plus opcional para detección inteligente y almacenamiento en la nube
-      Assistants: Alexa, Google Assistant
+      Assistants: 'Alexa, Google Assistant'
     scores:
       install: 10
       reversibility: 10
@@ -123,9 +123,9 @@ products:
           url: >-
             https://forums.wyze.com/t/reliability-issues-with-the-wyze-cam-v4/339758
         - title: Firmware update trouble (Wyze forum)
-          url: https://forums.wyze.com/t/firmware-update-trouble/344803/28
-        - title: Wyze reviews (Trustpilot, company-level customer service themes)
-          url: https://au.trustpilot.com/review/www.wyze.com?page=3
+          url: 'https://forums.wyze.com/t/firmware-update-trouble/344803/28'
+        - title: 'Wyze reviews (Trustpilot, company-level customer service themes)'
+          url: 'https://au.trustpilot.com/review/www.wyze.com?page=3'
         - title: >-
             Wyze Cam v4 customer feedback analysis (Kimola, summary of Amazon
             review themes)
@@ -137,20 +137,20 @@ products:
       Easy App Setup, Enhanced Two-Way Audio and Motion Detection for Home
       Security, Baby Monitoring and Pet Camera
     image:
-      url: https://m.media-amazon.com/images/I/41uFZZt209L._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/41uFZZt209L._SL500_.jpg'
       width: 500
       height: 500
     gallery:
-      - url: https://m.media-amazon.com/images/I/41W-7c1CG6L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41W-7c1CG6L._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41RCzP45X0L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41RCzP45X0L._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/51PJm1VUvtL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51PJm1VUvtL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/51iZwgtwM7L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51iZwgtwM7L._SL500_.jpg'
         width: 500
         height: 500
   - name: Ring Indoor Cam (2nd Gen)
@@ -171,7 +171,7 @@ products:
       - >-
         Tapa de privacidad manual sobre la lente, que los analistas valoran para
         dormitorios y salones
-      - Vídeo 1080p con visión nocturna en color, audio bidireccional y sirena
+      - 'Vídeo 1080p con visión nocturna en color, audio bidireccional y sirena'
       - >-
         Muy compacta y se configura en minutos con la app de Ring, según los
         analistas
@@ -185,10 +185,10 @@ products:
         cambiado desde la primera generación, según los analistas
     specs:
       Resolution: 1080p HD
-      Field of view: 143° diagonal, 115° horizontal, 59° vertical
+      Field of view: '143° diagonal, 115° horizontal, 59° vertical'
       Storage: Sin microSD ni almacenamiento interno
       Power: Adaptador de enchufe
-      Wi-Fi: 2,4 GHz (802.11 b/g/n); se recomiendan 2 Mbps de subida
+      Wi-Fi: '2,4 GHz (802.11 b/g/n); se recomiendan 2 Mbps de subida'
       Night vision: En color
       Privacy: Tapa manual de la lente
       Subscription: >-
@@ -207,7 +207,7 @@ products:
     owners:
       read: 4
       praise:
-        - Diminuta, se enchufa y se configura en minutos
+        - 'Diminuta, se enchufa y se configura en minutos'
         - Tapa física de privacidad
         - App de Ring pulida e integración con Alexa
       complaints:
@@ -229,24 +229,24 @@ products:
           url: >-
             https://eftm.com/2023/06/review-ring-indoor-camera-the-next-generation-234928
         - title: Ring Indoor Cam (Smart Home Compared)
-          url: https://smarthomecompared.com/cameras/ring-indoor-cam
+          url: 'https://smarthomecompared.com/cameras/ring-indoor-cam'
     asin: B0B6GLQJMV
-    amazonTitle: Ring Indoor Cam — Home or business security in 1080p HD video, White
+    amazonTitle: 'Ring Indoor Cam — Home or business security in 1080p HD video, White'
     image:
-      url: https://m.media-amazon.com/images/I/11fYAS3QShL._SL500_.jpg
-      width: 313
+      url: 'https://m.media-amazon.com/images/I/31oAG-1EamL._SL500_.jpg'
+      width: 448
       height: 500
     gallery:
-      - url: https://m.media-amazon.com/images/I/31X0+gYCo7L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/31X0+gYCo7L._SL500_.jpg'
         width: 313
         height: 500
-      - url: https://m.media-amazon.com/images/I/41hdGjCEEwL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41hdGjCEEwL._SL500_.jpg'
         width: 313
         height: 500
-      - url: https://m.media-amazon.com/images/I/31BvksSBfdL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/31BvksSBfdL._SL500_.jpg'
         width: 313
         height: 500
-      - url: https://m.media-amazon.com/images/I/319k-+sFv4L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/319k-+sFv4L._SL500_.jpg'
         width: 313
         height: 500
   - name: eufy Indoor Cam C120
@@ -284,10 +284,10 @@ products:
       Field of view: No indicado
       Storage: microSD de hasta 128 GB (no incluida); plan de nube de pago opcional
       Power: De enchufe
-      Wi-Fi: Solo 2,4 GHz
+      Wi-Fi: 'Solo 2,4 GHz'
       Night vision: Infrarroja en blanco y negro
       Weather rating: No apta para exteriores
-      Assistants: Alexa, Google Assistant; Siri según security.org
+      Assistants: 'Alexa, Google Assistant; Siri según security.org'
     scores:
       install: 10
       reversibility: 10
@@ -313,29 +313,29 @@ products:
           url: >-
             https://www.digitalcameraworld.com/reviews/eufy-indoor-cam-c120-review
         - title: eufy Indoor Cam C120 (Smart Home Compared)
-          url: https://smarthomecompared.com/cameras/eufy-indoor-cam-c120
+          url: 'https://smarthomecompared.com/cameras/eufy-indoor-cam-c120'
         - title: eufy Indoor Cam C120 review (inkl)
-          url: https://www.inkl.com/news/eufy-indoor-cam-c120-review
+          url: 'https://www.inkl.com/news/eufy-indoor-cam-c120-review'
     asin: B08571VZ3Q
     amazonTitle: >-
       eufy Security Indoor Cam C120 | Plug-in Security Camera 3 MP | 2K with
       Wi-Fi | IP Camera | Voice Assistant Compatibility | Night Vision | Two-Way
       Audio | HomeBase 3 Compatible | Audio and Motion Alert
     image:
-      url: https://m.media-amazon.com/images/I/213OyhHat4L._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/213OyhHat4L._SL500_.jpg'
       width: 400
       height: 500
     gallery:
-      - url: https://m.media-amazon.com/images/I/51UzknBHuhL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51UzknBHuhL._SL500_.jpg'
         width: 400
         height: 500
-      - url: https://m.media-amazon.com/images/I/41jOzXYiC0L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41jOzXYiC0L._SL500_.jpg'
         width: 400
         height: 500
-      - url: https://m.media-amazon.com/images/I/41CC+x1rvQL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41CC+x1rvQL._SL500_.jpg'
         width: 389
         height: 500
-      - url: https://m.media-amazon.com/images/I/419wK6+EetL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/419wK6+EetL._SL500_.jpg'
         width: 400
         height: 500
 sources:
@@ -346,20 +346,20 @@ sources:
     url: >-
       https://www.wyze.com/blogs/smart-home/the-best-home-security-camera-without-a-subscription
   - title: 'Wyze Cam v4: Compatibility with Alexa and Google Assistant (Wyze)'
-    url: https://why.wyze.com/wyze-cam-v4-alexa-google-assistant-compatibility
+    url: 'https://why.wyze.com/wyze-cam-v4-alexa-google-assistant-compatibility'
   - title: Indoor Cam C120 (eufy)
-    url: https://www.eufy.com/lv-en/products/t8400
+    url: 'https://www.eufy.com/lv-en/products/t8400'
   - title: Ring Indoor Cam support pages (Ring)
-    url: https://support.ring.com/hc/en-au/sections/360006380112-Indoor-Cam
+    url: 'https://support.ring.com/hc/en-au/sections/360006380112-Indoor-Cam'
   - title: Ring Indoor Cam (2nd Gen) with privacy cover (Best Buy)
     url: >-
       https://bestbuy.com/product/ring-indoor-plug-in-1080p-security-camera-2nd-generation-with-privacy-cover-white/J39HW6QGC4
   - title: Ring Indoor Cam (2nd Gen) review (Reviewed)
-    url: https://reviewed.com/smarthome/content/ring-indoor-cam-second-gen-review
+    url: 'https://reviewed.com/smarthome/content/ring-indoor-cam-second-gen-review'
   - title: eufy Indoor Cam C120 review (Digital Camera World)
-    url: https://www.digitalcameraworld.com/reviews/eufy-indoor-cam-c120-review
+    url: 'https://www.digitalcameraworld.com/reviews/eufy-indoor-cam-c120-review'
   - title: Best security cameras (Security.org)
-    url: https://www.security.org/security-cameras/best/
+    url: 'https://www.security.org/security-cameras/best/'
 reviewedDate: '2026-10-16'
 faqs:
   - q: '¿Qué es mejor para un inquilino: Wyze, Ring o eufy?'
@@ -369,7 +369,7 @@ faqs:
       eufy Indoor Cam C120 es la mejor opción de interior sin suscripción, y la
       Ring Indoor Cam (2nd Gen) encaja en hogares con Alexa dispuestos a pagar
       una suscripción a Ring Home.
-  - q: ¿Las cámaras Wyze, Ring y eufy necesitan suscripción?
+  - q: '¿Las cámaras Wyze, Ring y eufy necesitan suscripción?'
     a: >-
       La Wyze Cam v4 y la eufy Indoor Cam C120 graban en una tarjeta microSD sin
       plan; sus planes en la nube son opcionales. La Ring Indoor Cam (2nd Gen)
@@ -399,8 +399,8 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/wyze-vs-ring-vs-eufy-for-renters.png
 heroAlt: >-
-  Wyze, Ring o eufy para inquilinos – comparativa de tres cámaras de seguridad de
-  enchufe, RenterSmartHome
+  Wyze, Ring o eufy para inquilinos – comparativa de tres cámaras de seguridad
+  de enchufe, RenterSmartHome
 ---
 
 Elegir entre Wyze, Ring o eufy siendo inquilino depende de una pregunta más que de cualquier especificación: ¿dónde se guarda tu vídeo? **Para la mayoría de inquilinos yo elegiría la [Wyze Cam v4](amzn:Wyze+Cam+v4+2.5K+indoor+outdoor+security+camera), porque graba en tu propia tarjeta microSD sin cuota mensual. La eufy Indoor Cam C120 es la mejor alternativa de interior sin suscripción, y la Ring Indoor Cam (2nd Gen) solo tiene sentido si ya vives con Alexa y vas a pagar un plan.** Las tres son cámaras de enchufe, así que ninguna necesita taladro, cables ni un transformador de timbre que quizá no te dejen tocar.

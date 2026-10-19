@@ -1,6 +1,6 @@
 ---
-title: 'Alexa o Google Home (2026) – ¿cuál es mejor para un piso de alquiler?'
-seoTitle: 'Alexa o Google Home (2026) – ¿cuál es mejor para inquilinos?'
+title: Alexa o Google Home (2026) – ¿cuál es mejor para un piso de alquiler?
+seoTitle: Alexa o Google Home (2026) – ¿cuál es mejor para inquilinos?
 description: >-
   Alexa o Google Home para un piso de alquiler en 2026: Alexa+ frente a Gemini,
   compatibilidad, Matter, suscripciones y el mejor altavoz para empezar si
@@ -65,24 +65,24 @@ products:
       - Funciona con Alexa+ para peticiones de varios pasos
       - Lo bastante compacto para un piso pequeño
     cons:
-      - Alexa+ va incluido con Prime, pero sin Prime cuesta aparte
+      - 'Alexa+ va incluido con Prime, pero sin Prime cuesta aparte'
       - No suena tan lleno como el Echo Studio
     asin: B0D6SX8VLQ
     image:
-      url: https://m.media-amazon.com/images/I/31JssKhhl0L._SL500_.jpg
-      width: 313
-      height: 500
+      url: 'https://m.media-amazon.com/images/I/511SzQPgwhL._SL500_.jpg'
+      width: 500
+      height: 477
     gallery:
-      - url: https://m.media-amazon.com/images/I/41DAUA+IE7L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41DAUA+IE7L._SL500_.jpg'
         width: 313
         height: 500
-      - url: https://m.media-amazon.com/images/I/41NkdsdZ3OL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41NkdsdZ3OL._SL500_.jpg'
         width: 313
         height: 500
-      - url: https://m.media-amazon.com/images/I/41HejaFZcsL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41HejaFZcsL._SL500_.jpg'
         width: 313
         height: 500
-      - url: https://m.media-amazon.com/images/I/41xwpxqT4+L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41xwpxqT4+L._SL500_.jpg'
         width: 313
         height: 500
     amazonTitle: >-
@@ -119,7 +119,7 @@ products:
           url: >-
             https://www.expertreviews.co.uk/technology/headphones-audio/amazon-echo-dot-max-review
         - title: T3 Echo Dot Max review
-          url: https://www.t3.com/home-living/smart-home/echo-dot-max
+          url: 'https://www.t3.com/home-living/smart-home/echo-dot-max'
         - title: Best Buy customer reviews
           url: >-
             https://bestbuy.com/product/amazon-echo-dot-max-newest-model-alexa-speaker-w-room-filling-sound-and-built-in-smart-home-hub-designed-for-alexa-graphite/J39TLS9KPV
@@ -143,24 +143,24 @@ products:
       - >-
         Las funciones avanzadas de Gemini, como buscar en el historial de las
         cámaras, requieren Google Home Premium
-      - En general, menos dispositivos compatibles que Alexa
+      - 'En general, menos dispositivos compatibles que Alexa'
     asin: B0H6GS482L
     image:
-      url: https://m.media-amazon.com/images/I/61+-yjpmN+L._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/61+-yjpmN+L._SL500_.jpg'
       width: 500
       height: 400
     amazonTitle: Google - Premium Audio Speaker- 360-Degree Sound (Porcelain)
     gallery:
-      - url: https://m.media-amazon.com/images/I/51hyv+EHysL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51hyv+EHysL._SL500_.jpg'
         width: 500
         height: 243
-      - url: https://m.media-amazon.com/images/I/41U-Es-NSwL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41U-Es-NSwL._SL500_.jpg'
         width: 334
         height: 500
-      - url: https://m.media-amazon.com/images/I/61ezLYYjzHL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/61ezLYYjzHL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/71o+kgPcL0L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/71o+kgPcL0L._SL500_.jpg'
         width: 500
         height: 500
     scores:
@@ -195,9 +195,9 @@ products:
           url: >-
             https://www.androidauthority.com/google-home-speaker-early-unboxing-3680712/
         - title: ShopSavvy TLDR Google Home Speaker
-          url: https://shopsavvy.com/reviews-tldr/google-home-speaker
+          url: 'https://shopsavvy.com/reviews-tldr/google-home-speaker'
         - title: Walmart customer reviews
-          url: https://www.walmart.com/ip/17689524552
+          url: 'https://www.walmart.com/ip/17689524552'
           reviews: 32
   - name: Amazon Echo Studio (2nd Gen)
     brand: Amazon
@@ -210,27 +210,27 @@ products:
     renterNote: Altavoz independiente; se muda contigo y solo necesita un enchufe.
     pros:
       - El sonido más rico de la gama Echo
-      - Hub integrado para Zigbee, Matter y Thread
+      - 'Hub integrado para Zigbee, Matter y Thread'
       - Diseñado para Alexa+
     cons:
       - Más grande y más caro que un Echo Dot
       - Excesivo si solo quieres control por voz
     asin: B0DMQ1QMVV
     image:
-      url: https://m.media-amazon.com/images/I/31BWso5blZL._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/31BWso5blZL._SL500_.jpg'
       width: 313
       height: 500
     gallery:
-      - url: https://m.media-amazon.com/images/I/413PltVla1L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/413PltVla1L._SL500_.jpg'
         width: 313
         height: 500
-      - url: https://m.media-amazon.com/images/I/41NkdsdZ3OL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41NkdsdZ3OL._SL500_.jpg'
         width: 313
         height: 500
-      - url: https://m.media-amazon.com/images/I/41HejaFZcsL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41HejaFZcsL._SL500_.jpg'
         width: 313
         height: 500
-      - url: https://m.media-amazon.com/images/I/41sIEiaTlsL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41sIEiaTlsL._SL500_.jpg'
         width: 313
         height: 500
     amazonTitle: >-
@@ -249,17 +249,17 @@ sources:
   - title: 'Google: Meet the new Google Home Speaker, built for Gemini'
     url: >-
       https://blog.google/products-and-platforms/devices/google-nest/google-home-speaker-gemini-features/
-  - title: Matter standard overview, Connectivity Standards Alliance
-    url: https://csa-iot.org/all-solutions/matter/
+  - title: 'Matter standard overview, Connectivity Standards Alliance'
+    url: 'https://csa-iot.org/all-solutions/matter/'
   - title: 'Thread Group: what is Thread'
-    url: https://www.threadgroup.org/What-is-Thread
+    url: 'https://www.threadgroup.org/What-is-Thread'
   - title: 'The Ambient: Alexa+ vs Gemini for Home'
-    url: https://www.the-ambient.com/versus/alexa-plus-vs-gemini/
+    url: 'https://www.the-ambient.com/versus/alexa-plus-vs-gemini/'
   - title: 'Matter Alpha: Echo Dot Max specifications'
-    url: https://www.matteralpha.com/amazon/echo-dot-max-p3468
+    url: 'https://www.matteralpha.com/amazon/echo-dot-max-p3468'
 reviewedDate: '2026-10-14T00:00:00.000Z'
 faqs:
-  - q: ¿Qué es mejor en 2026, Alexa o Google Home?
+  - q: '¿Qué es mejor en 2026, Alexa o Google Home?'
     a: >-
       Alexa es mejor si buscas compatibilidad con muchos dispositivos y ya pagas
       Amazon Prime, que incluye Alexa+. Google Home es mejor para conversaciones
@@ -277,7 +277,7 @@ faqs:
       plan de pago independiente. Gemini for Home ofrece las funciones básicas
       gratis, mientras que las funciones avanzadas, como buscar en el historial
       de las cámaras, requieren una suscripción a Google Home Premium.
-  - q: ¿Qué es mejor para inquilinos, Alexa o Google Home?
+  - q: '¿Qué es mejor para inquilinos, Alexa o Google Home?'
     a: >-
       Los dos funcionan bien en un piso de alquiler porque los altavoces solo se
       enchufan. Elige el ecosistema que encaje con tu móvil y tus servicios, y

@@ -138,8 +138,8 @@ products:
       - Visible from the hallway (some buildings restrict this)
     asin: B0FHJ7TKZM
     image:
-      url: 'https://m.media-amazon.com/images/I/21lc6l7V1ZL._SL500_.jpg'
-      width: 313
+      url: 'https://m.media-amazon.com/images/I/31+qDXAyhzL._SL500_.jpg'
+      width: 394
       height: 500
     gallery:
       - url: 'https://m.media-amazon.com/images/I/314PqGk2KCL._SL500_.jpg'

@@ -215,8 +215,8 @@ products:
     asin: B0B6GLQJMV
     amazonTitle: 'Ring Indoor Cam — Home or business security in 1080p HD video, White'
     image:
-      url: 'https://m.media-amazon.com/images/I/11fYAS3QShL._SL500_.jpg'
-      width: 313
+      url: 'https://m.media-amazon.com/images/I/31oAG-1EamL._SL500_.jpg'
+      width: 448
       height: 500
     gallery:
       - url: 'https://m.media-amazon.com/images/I/31X0+gYCo7L._SL500_.jpg'

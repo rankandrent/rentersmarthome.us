@@ -1,6 +1,6 @@
 ---
-title: 'La mejor mirilla digital para pisos – seguridad sin taladrar'
-seoTitle: 'Mirilla digital para pisos (2026) – 4 opciones sin taladrar'
+title: La mejor mirilla digital para pisos – seguridad sin taladrar
+seoTitle: Mirilla digital para pisos (2026) – 4 opciones sin taladrar
 description: >-
   Una mirilla digital convierte la mirilla de la puerta de tu piso en un
   videoportero. Estas son las mejores para inquilinos y alternativas sin
@@ -98,8 +98,12 @@ products:
     owners:
       read: 7
       praise:
-        - 'Encaja en las mirillas existentes y es pequeña, con la batería dentro de la puerta'
-        - Instalación sencilla y buena calidad de cámara según compradores de Best Buy
+        - >-
+          Encaja en las mirillas existentes y es pequeña, con la batería dentro
+          de la puerta
+        - >-
+          Instalación sencilla y buena calidad de cámara según compradores de
+          Best Buy
         - 'Batería fácil de cambiar, vídeo 1080p'
       complaints:
         - >-
@@ -108,7 +112,9 @@ products:
         - >-
           Fallos de la vista en directo y averías del cable en foros; sin
           detección de personas, hace falta suscripción
-        - Algunos compradores de Best Buy señalan respuesta lenta o problemas de compatibilidad
+        - >-
+          Algunos compradores de Best Buy señalan respuesta lenta o problemas de
+          compatibilidad
       sources:
         - title: 'Ring Peephole Cam review, Security.org'
           url: 'https://www.security.org/doorbell-camera/ring/review/door-view-cam'
@@ -126,13 +132,13 @@ products:
     query: Ring Battery Doorbell
     badge: La mejor si puedes montarlo por fuera
     summary: >-
-      Un videotimbre a batería con vista de cuerpo entero. Muy buena opción si tu
-      casero permite un timbre en el marco o si usas un soporte sin taladrar.
+      Un videotimbre a batería con vista de cuerpo entero. Muy buena opción si
+      tu casero permite un timbre en el marco o si usas un soporte sin taladrar.
     renterNote: >-
       Funciona con batería, sin cableado; combínalo con un soporte para timbre
       sin taladrar que se sujeta a la puerta en lugar de atornillarse al marco.
     pros:
-      - Campo de visión más alto, de la cabeza a los pies
+      - 'Campo de visión más alto, de la cabeza a los pies'
       - 'Batería recargable, sin necesidad de cableado de timbre'
       - Compatible con los avisos de Alexa
     cons:
@@ -140,8 +146,8 @@ products:
       - Se ve desde el rellano (algunos edificios lo restringen)
     asin: B0FHJ7TKZM
     image:
-      url: 'https://m.media-amazon.com/images/I/21lc6l7V1ZL._SL500_.jpg'
-      width: 313
+      url: 'https://m.media-amazon.com/images/I/31+qDXAyhzL._SL500_.jpg'
+      width: 394
       height: 500
     gallery:
       - url: 'https://m.media-amazon.com/images/I/314PqGk2KCL._SL500_.jpg'
@@ -192,8 +198,8 @@ products:
       de la puerta de tu piso para ver quién entra y sale, con almacenamiento
       local opcional.
     renterNote: >-
-      Se apoya en una estantería o se pega a la pared con adhesivo; no se toca la
-      puerta para nada.
+      Se apoya en una estantería o se pega a la pared con adhesivo; no se toca
+      la puerta para nada.
     pros:
       - Muy asequible
       - Opción de almacenamiento local con un Blink Sync Module
@@ -230,15 +236,19 @@ products:
       compatibility: 6
       portability: 10
     scoreNote: >-
-      Cámara de interior enchufable con almacenamiento local gratuito mediante un
-      Sync Module; muy centrada en Alexa.
+      Cámara de interior enchufable con almacenamiento local gratuito mediante
+      un Sync Module; muy centrada en Alexa.
     owners:
       read: 4
       praise:
         - Buena calidad de imagen y configuración sencilla
-        - 'Buena relación calidad-precio, la detección de personas reduce las falsas alertas'
+        - >-
+          Buena relación calidad-precio, la detección de personas reduce las
+          falsas alertas
       complaints:
-        - Cortes de conexión que obligan a reiniciarla en algunas opiniones de Best Buy
+        - >-
+          Cortes de conexión que obligan a reiniciarla en algunas opiniones de
+          Best Buy
         - >-
           Alertas de movimiento lentas, falsas alertas y suscripción necesaria
           para las funciones avanzadas

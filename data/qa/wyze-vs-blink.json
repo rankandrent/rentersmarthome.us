@@ -1,12 +1,10 @@
 {
   "slug": "wyze-vs-blink",
   "pass": true,
-  "checkedAt": "2026-10-19T13:13:29.548Z",
+  "checkedAt": "2026-10-19T13:43:11.219Z",
   "errors": [],
   "warnings": [
-    "product \"Wyze Cam v4\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Blink Mini 2K+\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Blink Video Doorbell\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "source didn't respond normally (403): https://support.wyze.com/hc/en-us/articles/23746258989851-Wyze-Cam-v4-Tech-Specs"
   ],
   "factCheck": {
     "verified": true,

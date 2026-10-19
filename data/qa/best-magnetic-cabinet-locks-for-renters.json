@@ -1,9 +1,12 @@
 {
   "slug": "best-magnetic-cabinet-locks-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-18T14:15:53.884Z",
+  "checkedAt": "2026-10-19T13:41:20.296Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "source didn't respond normally (403): https://www.woolworths.com.au/shop/productdetails/1122750099",
+    "source didn't respond normally (403): https://fuhrmannmanagement.com/best-cabinet-locks/"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Removed dead Momease 404 source (its claims, Safety 1st 4-lock kit: 3M adhesive, plastic template, hidden install, key stored high, disengage, particle board screws, are covered by remaining Ace Hardware HS293 listing and Do it Best HS400 page, both re-opened live). Re-opened live via Firecrawl: Do it Best (4-lock, template, no tools, JPMA), Ace (3M adhesive, template, screws for particle board, disengages), Safety 1st HS402 maker page (20 locks, 2 keys, adhesive on most cabinets, red/green indicators), Safety 1st help center (wipe with alcohol, 24h cure), Sam's Club (12 locks, renters, disengage), Roving Cove maker page (12 locks, 2 ring keys, 3M 4229P, Starter-Tape white/red, 1.5in solid wood, not for metal, screws optional), BabyGearLab (Vmaisi can turn off, losing key biggest risk, template; 20-lock kit), web search listings for Dreambaby 8-pack/1 key/template/EZY-Check/renters. No Amazon sources; no prices or testing claims.",

@@ -92,8 +92,8 @@ products:
     cons:
       - Het toetsenpaneel om van buitenaf een code in te voeren koop je los
       - >-
-        Eigenaren melden dat ze de batterijen elke 3 tot 7 maanden vervangen,
-        en dat telt bij een slot dat buitensluiten moet voorkomen
+        Eigenaren melden dat ze de batterijen elke 3 tot 7 maanden vervangen, en
+        dat telt bij een slot dat buitensluiten moet voorkomen
     scores:
       install: 7
       reversibility: 8
@@ -116,13 +116,32 @@ products:
         - >-
           Verbruikt veel batterijen: de ene eigenaar vervangt ze ongeveer elke 3
           maanden, de andere ongeveer elke 7
-        - In samenvattingen van ervaringen duiken af en toe wifi-verbindingsproblemen op
+        - >-
+          In samenvattingen van ervaringen duiken af en toe
+          wifi-verbindingsproblemen op
       sources:
         - title: Slickdeals August Wi-Fi Smart Lock (4th Gen) owner thread
           url: >-
             https://slickdeals.net/f/16257052-august-wi-fi-smart-lock-4th-gen-black-or-silver-139-free-shipping
         - title: ShopSavvy August Wi-Fi Smart Lock 4th Gen review summary
           url: 'https://shopsavvy.com/reviews-tldr/august-wi-fi-smart-lock-4th-gen'
+    image:
+      url: 'https://m.media-amazon.com/images/I/4120PG5xbhL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41G5tNCzsCL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51XzWyN4erL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51pNaGPJnmL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41SXQ6LB3WL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: SwitchBot Lock Pro
     brand: SwitchBot
     query: SwitchBot Lock Pro
@@ -139,8 +158,8 @@ products:
       Wordt aan de binnenkant met beugels gemonteerd (SwitchBot levert ook
       plakstrips en een deurmagneet mee), laat het originele slot en de sleutel
       op hun plek, en Techlicious kon hem zonder sporen weer verwijderen. Het
-      toetsenpaneel en de hub voor ontgrendelen op afstand koop je los, en of hij
-      past hangt af van je slot, dus controleer de compatibiliteitslijst van
+      toetsenpaneel en de hub voor ontgrendelen op afstand koop je los, en of
+      hij past hangt af van je slot, dus controleer de compatibiliteitslijst van
       SwitchBot voordat je hem koopt.
     pros:
       - >-
@@ -172,14 +191,18 @@ products:
       read: 3
       praise:
         - >-
-          Recensenten noemen de installatie snel en zeggen dat het originele slot
-          onaangeroerd bleef
-        - 'Ontgrendelen gaat ongeveer zo snel als een sleutel omdraaien, volgens een recensent'
-        - In een recensie gaven de batterijwaarschuwingen ruim op tijd een seintje
+          Recensenten noemen de installatie snel en zeggen dat het originele
+          slot onaangeroerd bleef
+        - >-
+          Ontgrendelen gaat ongeveer zo snel als een sleutel omdraaien, volgens
+          een recensent
+        - >-
+          In een recensie gaven de batterijwaarschuwingen ruim op tijd een
+          seintje
       complaints:
         - >-
-          De pasvorm hangt af van deur en slot: een recensent op Trustpilot wilde
-          een betere aanpassing aan verschillende deurmodellen
+          De pasvorm hangt af van deur en slot: een recensent op Trustpilot
+          wilde een betere aanpassing aan verschillende deurmodellen
         - >-
           De meldingen over een lege batterij waren overweldigend tot de
           app-instellingen werden aangepast (Techlicious)
@@ -193,6 +216,23 @@ products:
           url: 'https://notenoughtech.com/home-automation/switchbot-lock-pro/'
         - title: Trustpilot switch-bot.com reviews (page 9)
           url: 'https://no.trustpilot.com/review/www.switch-bot.com?page=9'
+    image:
+      url: 'https://m.media-amazon.com/images/I/41AnpEoJ8cL._SL500_.jpg'
+      width: 441
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41O8bRNKQEL._SL500_.jpg'
+        width: 500
+        height: 375
+      - url: 'https://m.media-amazon.com/images/I/41seSQCBnIL._SL500_.jpg'
+        width: 500
+        height: 375
+      - url: 'https://m.media-amazon.com/images/I/51bB2HCwO-L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51wl7x8tl0L._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Yale Approach Lock with Wi-Fi and Keypad Touch
     brand: Yale
     query: Yale Approach Lock Deadbolt Wi-Fi Keypad B-YRR110-F-WF1-N-BSP
@@ -219,7 +259,9 @@ products:
         Toetsenpaneel, vingerafdruklezer en wifi-bridge zitten erbij, dus je
         komt binnen zonder telefoon
       - Je bestaande sleutel blijft als reserve
-      - Toetsenpaneel bevestig je met het meegeleverde kleefpad of met schroeven en heeft IPX5
+      - >-
+        Toetsenpaneel bevestig je met het meegeleverde kleefpad of met schroeven
+        en heeft IPX5
     cons:
       - >-
         Meer installatiestappen dan een volledig vervangend nachtslot, en de
@@ -234,17 +276,21 @@ products:
       compatibility: 6
       portability: 7
     scoreNote: >-
-      Behoudt je sleutel en de buitenkant, met een toetsenpaneel dat zonder boren
-      kan; extra installatiestappen en een bridge in het stopcontact kosten
-      punten op installatie en compatibiliteit.
+      Behoudt je sleutel en de buitenkant, met een toetsenpaneel dat zonder
+      boren kan; extra installatiestappen en een bridge in het stopcontact
+      kosten punten op installatie en compatibiliteit.
     owners:
       read: 3
       praise:
         - >-
           Een eigenaar die hem zo'n jaar heeft, noemt hem behoorlijk degelijk en
           betrouwbaarder dan verwacht
-        - Eigenaren waarderen binnenkomen met vingerafdruk terwijl de originele sleutel blijft
-        - Bij een recensent van PCWorld lukte de installatie na een tweede kalibratiepoging
+        - >-
+          Eigenaren waarderen binnenkomen met vingerafdruk terwijl de originele
+          sleutel blijft
+        - >-
+          Bij een recensent van PCWorld lukte de installatie na een tweede
+          kalibratiepoging
       complaints:
         - Ontgrendelen met vingerafdruk duurt een paar seconden
         - >-
@@ -258,6 +304,14 @@ products:
         - title: PCWorld Yale Approach Lock with Wi-Fi + Keypad review
           url: >-
             https://www.pcworld.com/article/2331746/yale-approach-lock-with-wi-fi-keypad-review-this-is-easier.html
+    image:
+      url: 'https://m.media-amazon.com/images/I/31MSy2yL9IL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41GhUqJ29zL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Master Lock Portable Key Lock Box 5400EC
     brand: Master Lock
     query: Master Lock Portable Key Lock Box 5400EC
@@ -271,17 +325,19 @@ products:
     summary: >-
       Een sleutelkluis met cijferslot die je met zijn beugel over een deurknop
       hangt, zodat er een reservesleutel bij je eigen deur ligt die je opent met
-      een code die je zelf kiest. Geen stroom, geen telefoon en geen boren nodig,
-      en daarom is het de eenvoudigste oplossing tegen buitensluiten.
+      een code die je zelf kiest. Geen stroom, geen telefoon en geen boren
+      nodig, en daarom is het de eenvoudigste oplossing tegen buitensluiten.
     renterNote: >-
       Hangt over de meeste ronde, platte en tulpvormige deurknoppen, dus er
       wordt niets geboord of geplakt. Aandachtspunten: hij schrikt dieven af
-      maar is geen kluis (eigenaren melden dat een inbreker er een openbrak), hij
-      is zichtbaar vanaf de gang, en kijk in je huurcontract en overleg met je
-      verhuurder voordat je een sleutel buiten laat.
+      maar is geen kluis (eigenaren melden dat een inbreker er een openbrak),
+      hij is zichtbaar vanaf de gang, en kijk in je huurcontract en overleg met
+      je verhuurder voordat je een sleutel buiten laat.
     pros:
       - 'Niets op te laden of te vervangen: een instelbare 4-cijferige code'
-      - 'Biedt plaats aan maximaal 5 gewone huissleutels, volgens de Amazon-vermelding'
+      - >-
+        Biedt plaats aan maximaal 5 gewone huissleutels, volgens de
+        Amazon-vermelding
       - Beugel met vinyl coating hangt zonder gereedschap aan een deurknop
     cons:
       - >-
@@ -302,7 +358,9 @@ products:
     owners:
       read: 29
       praise:
-        - 'Makkelijk in te stellen, code makkelijk te wijzigen, stevig genoeg voor het doel'
+        - >-
+          Makkelijk in te stellen, code makkelijk te wijzigen, stevig genoeg
+          voor het doel
         - >-
           Makelaars en beheerders gebruiken ze om vakmensen en huisoppassers
           toegang te geven
@@ -314,12 +372,31 @@ products:
         - >-
           Sommige recensenten melden een vastzittend mechanisme of een code die
           ook met verkeerde cijfers openging
-        - 'Binnenin is minder ruimte dan het lijkt, dus grote sleutels passen misschien niet'
+        - >-
+          Binnenin is minder ruimte dan het lijkt, dus grote sleutels passen
+          misschien niet
       sources:
         - title: 'Home Depot customer reviews, Master Lock 5400DHC'
           url: >-
             https://www.homedepot.com/p/reviews/Master-Lock-Lock-Box-Resettable-Combination-Dials-5400DHC/100124915/1
           reviews: 1503
+    image:
+      url: 'https://m.media-amazon.com/images/I/51xwso8E9gL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41pcRFL0MCL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51PHXUSeqRL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/510qujgaS+L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51ZqlvVkHTL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Master Lock 5420EC Set Your Own Combination Portable Lock Box
     brand: Master Lock
     query: >-
@@ -343,8 +420,12 @@ products:
       en onthoud dat het een verstopte reservesleutel is, geen kluis.
     pros:
       - Verstelbare beugel past op klinken en ook op ronde deurknoppen
-      - 'Zelf in te stellen 4-cijferige code, ruimte voor 6 sleutels volgens de Amazon-vermelding'
-      - Voor binnen en buiten, met een weerbestendige klep over de cijferwieltjes
+      - >-
+        Zelf in te stellen 4-cijferige code, ruimte voor 6 sleutels volgens de
+        Amazon-vermelding
+      - >-
+        Voor binnen en buiten, met een weerbestendige klep over de
+        cijferwieltjes
     cons:
       - >-
         Zit krap op sommige ronde knoppen, en een recensent zegt dat de beugel
@@ -370,13 +451,32 @@ products:
         - >-
           Zat zo krap op een ronde knop dat een eigenaar de knop samen met de
           kluis moest draaien
-        - De verstelbare beugel gaat bij een recensent niet zo ver open als verwacht
+        - >-
+          De verstelbare beugel gaat bij een recensent niet zo ver open als
+          verwacht
         - Een exemplaar liep vast tijdens het instellen van de code
       sources:
         - title: 'Home Depot customer reviews, Master Lock 5420D'
           url: >-
             https://www.homedepot.com/p/reviews/Master-Lock-Key-Lock-Box-for-Knobs-and-Lever-Door-Handles-Adjustable-Shackle-and-Resettable-Combination-5420D/307976891/1
           reviews: 195
+    image:
+      url: 'https://m.media-amazon.com/images/I/31N4tKz710L._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51viaCriXtL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51yYF17hFyL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51lZGxNDsiL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51uu+5TS1iL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: August Wi-Fi Smart Lock (August)
     url: 'https://august.com/products/august-wifi-smart-lock'
@@ -401,7 +501,7 @@ sources:
       https://www.landlordstudio.com/blog/whats-the-best-lock-for-a-rental-property
 reviewedDate: '2026-10-19'
 faqs:
-  - q: Buitengesloten, wat moet ik als eerste doen?
+  - q: 'Buitengesloten, wat moet ik als eerste doen?'
     a: >-
       Controleer andere deuren die je veilig kunt bereiken en bel daarna een
       huisgenoot, partner of vriend die een reservesleutel heeft. Heeft niemand
@@ -430,11 +530,13 @@ faqs:
   - q: Wat als de batterij van mijn slimme slot leeg is en ik buitengesloten ben?
     a: >-
       Gebruik de noodoplossing waarmee het slot is gebouwd. Opzetsloten zoals de
-      August Wi-Fi Smart Lock behouden je gewone sleutel, en veel nachtsloten met
-      toetsenpaneel hebben onder het paneel contactpunten voor een 9V-batterij;
-      kijk in de handleiding. Is er geen noodoplossing, bel dan het spoednummer
-      van je verhuurder.
-  - q: Mag ik een reservesleutel laten bijmaken zonder dat mijn verhuurder het weet?
+      August Wi-Fi Smart Lock behouden je gewone sleutel, en veel nachtsloten
+      met toetsenpaneel hebben onder het paneel contactpunten voor een
+      9V-batterij; kijk in de handleiding. Is er geen noodoplossing, bel dan het
+      spoednummer van je verhuurder.
+  - q: >-
+      Mag ik een reservesleutel laten bijmaken zonder dat mijn verhuurder het
+      weet?
     a: >-
       Sommige huurcontracten verbieden het kopiëren van sleutels of vereisen
       toestemming, en op sommige sleutels staat dat ze niet gekopieerd mogen

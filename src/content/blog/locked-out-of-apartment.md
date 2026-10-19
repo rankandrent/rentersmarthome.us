@@ -117,6 +117,23 @@ products:
             https://slickdeals.net/f/16257052-august-wi-fi-smart-lock-4th-gen-black-or-silver-139-free-shipping
         - title: ShopSavvy August Wi-Fi Smart Lock 4th Gen review summary
           url: 'https://shopsavvy.com/reviews-tldr/august-wi-fi-smart-lock-4th-gen'
+    image:
+      url: 'https://m.media-amazon.com/images/I/4120PG5xbhL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41G5tNCzsCL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51XzWyN4erL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51pNaGPJnmL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41SXQ6LB3WL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: SwitchBot Lock Pro
     brand: SwitchBot
     query: SwitchBot Lock Pro
@@ -185,6 +202,23 @@ products:
           url: 'https://notenoughtech.com/home-automation/switchbot-lock-pro/'
         - title: Trustpilot switch-bot.com reviews (page 9)
           url: 'https://no.trustpilot.com/review/www.switch-bot.com?page=9'
+    image:
+      url: 'https://m.media-amazon.com/images/I/41AnpEoJ8cL._SL500_.jpg'
+      width: 441
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41O8bRNKQEL._SL500_.jpg'
+        width: 500
+        height: 375
+      - url: 'https://m.media-amazon.com/images/I/41seSQCBnIL._SL500_.jpg'
+        width: 500
+        height: 375
+      - url: 'https://m.media-amazon.com/images/I/51bB2HCwO-L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51wl7x8tl0L._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Yale Approach Lock with Wi-Fi and Keypad Touch
     brand: Yale
     query: Yale Approach Lock Deadbolt Wi-Fi Keypad B-YRR110-F-WF1-N-BSP
@@ -248,6 +282,14 @@ products:
         - title: PCWorld Yale Approach Lock with Wi-Fi + Keypad review
           url: >-
             https://www.pcworld.com/article/2331746/yale-approach-lock-with-wi-fi-keypad-review-this-is-easier.html
+    image:
+      url: 'https://m.media-amazon.com/images/I/31MSy2yL9IL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41GhUqJ29zL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Master Lock Portable Key Lock Box 5400EC
     brand: Master Lock
     query: Master Lock Portable Key Lock Box 5400EC
@@ -308,6 +350,23 @@ products:
           url: >-
             https://www.homedepot.com/p/reviews/Master-Lock-Lock-Box-Resettable-Combination-Dials-5400DHC/100124915/1
           reviews: 1503
+    image:
+      url: 'https://m.media-amazon.com/images/I/51xwso8E9gL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41pcRFL0MCL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51PHXUSeqRL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/510qujgaS+L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51ZqlvVkHTL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Master Lock 5420EC Set Your Own Combination Portable Lock Box
     brand: Master Lock
     query: >-
@@ -364,6 +423,23 @@ products:
           url: >-
             https://www.homedepot.com/p/reviews/Master-Lock-Key-Lock-Box-for-Knobs-and-Lever-Door-Handles-Adjustable-Shackle-and-Resettable-Combination-5420D/307976891/1
           reviews: 195
+    image:
+      url: 'https://m.media-amazon.com/images/I/31N4tKz710L._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51viaCriXtL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51yYF17hFyL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51lZGxNDsiL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51uu+5TS1iL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: August Wi-Fi Smart Lock (August)
     url: 'https://august.com/products/august-wifi-smart-lock'

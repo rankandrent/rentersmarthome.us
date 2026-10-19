@@ -1,9 +1,12 @@
 {
   "slug": "best-heavy-duty-adhesive-hooks-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-18T14:15:53.773Z",
+  "checkedAt": "2026-10-19T13:41:09.594Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "source didn't respond normally (403): https://www.hookandloop.com/blog/how-much-weight-can-command-strips-hold",
+    "source didn't respond normally (no response): https://www.command.com/"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "2026-10-14: Command Jumbo Utility Hook rated 7.5 lb (Amazon listing title); Command Large Utility Hook 5 lb (Lowe's, Target); wait 7 days after painting, 50-105F, rubbing alcohol (Lowe's, Staples); replaced unverifiable 'Command Heavyweight Hook' and the 1-hour and 12-inch claims; 3M CLAW drywall hanger leaves a pinhole.",

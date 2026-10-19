@@ -1,6 +1,6 @@
 ---
-title: 'Türklingel mit Kamera für die Wohnung – 6 Modelle ohne Kabel (2026)'
-seoTitle: 'Türklingel mit Kamera für die Wohnung (2026) – 6 Modelle'
+title: Türklingel mit Kamera für die Wohnung – 6 Modelle ohne Kabel (2026)
+seoTitle: Türklingel mit Kamera für die Wohnung (2026) – 6 Modelle
 description: >-
   Die beste Türklingel mit Kamera für die Wohnung läuft mit Akku und hält ohne
   Bohren. 6 Modelle für Mieter im Vergleich: Speicher, Vermieter-Regeln und
@@ -216,7 +216,7 @@ products:
       | No Subscription,Head-to-Toe view,Wireless or Wired,Color night
       vision,Two-way talk,AI motion/package detection, 2.4 GHz Wi-Fi
     image:
-      url: 'https://m.media-amazon.com/images/I/31bPy4fJvOL._SL500_.jpg'
+      url: 'https://m.media-amazon.com/images/I/41bwjHx5PUL._SL500_.jpg'
       width: 500
       height: 500
     gallery:

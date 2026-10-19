@@ -146,6 +146,23 @@ products:
       Easy App Setup, Enhanced Two-Way Audio and Motion Detection for Home
       Security, Baby Monitoring and Pet Camera
     asinVerified: true
+    image:
+      url: 'https://m.media-amazon.com/images/I/41uFZZt209L._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41W-7c1CG6L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41RCzP45X0L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51PJm1VUvtL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51iZwgtwM7L._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Blink Mini 2K+
     brand: Blink
     query: Blink Mini 2K+ plug-in security camera
@@ -225,8 +242,28 @@ products:
             4)
           url: 'https://www.safehome.org/home-security-cameras/blink/reviews/'
     asin: B0F3BC8661
-    amazonTitle: Blink Mini 2K+ | White
+    amazonTitle: >-
+      Blink Mini 2K+ (newest model) – Plug-in Home & Pet Indoor Security Camera
+      with 2K video resolution, night vision, enhanced audio, motion detection –
+      1 camera (White)
     asinVerified: true
+    image:
+      url: 'https://m.media-amazon.com/images/I/21vJJD3kJsL._SL500_.jpg'
+      width: 313
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31+6KY5zR8L._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41JSrAz4JHL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/31FOIDxE+ML._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/4183b6a2ePL._SL500_.jpg'
+        width: 313
+        height: 500
   - name: Blink Video Doorbell
     brand: Blink
     query: Blink Video Doorbell 2nd Gen battery Sync Module
@@ -308,8 +345,27 @@ products:
           url: >-
             https://www.reddit.com/r/blinkcameras/comments/1lmw3o7/new_doorbell_wsync_2/
     asin: B0DGQZ8JZK
-    amazonTitle: Blink Video Doorbell + Sync Module included
+    amazonTitle: >-
+      Blink Video Doorbell – Head-to-toe HD view, two-year battery life, and
+      simple setup. Sync Module Core included – System (Black)
     asinVerified: true
+    image:
+      url: 'https://m.media-amazon.com/images/I/31jAesiVibL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41JWEVTllrL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/416YSsuwYyL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41dZtgypqcL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/5106nq72nhL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: Wyze Cam v4 Tech Specs (Wyze Support)
     url: >-

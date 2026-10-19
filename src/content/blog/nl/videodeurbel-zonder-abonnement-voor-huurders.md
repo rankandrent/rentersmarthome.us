@@ -1,6 +1,6 @@
 ---
-title: 'Videodeurbel zonder abonnement voor huurders – onze 3 keuzes'
-seoTitle: 'Videodeurbel zonder abonnement (2026) – 3 voor huurders'
+title: Videodeurbel zonder abonnement voor huurders – onze 3 keuzes
+seoTitle: Videodeurbel zonder abonnement (2026) – 3 voor huurders
 description: >-
   De beste videodeurbel zonder abonnement voor huurders slaat clips lokaal op,
   werkt op een accu en hangt zonder boren. Onze 3 keuzes en montagetips.
@@ -36,7 +36,7 @@ tldr:
   - >-
     De eufy Security Video Doorbell C31 is het alternatief met één camera: een
     uitneembare accu, microSD-opslag en geen HomeBase of maandelijkse kosten.
-  - 'De Tapo D210 is de budgetkeuze en slaat clips op een microSD-kaart op.'
+  - De Tapo D210 is de budgetkeuze en slaat clips op een microSD-kaart op.
   - >-
     Gebruik een houder zonder boren of vraag het je verhuurder voordat je iets
     aan het deurkozijn bevestigt.
@@ -48,7 +48,9 @@ products:
     summary: >-
       Een deurbel met twee camera's die bezoekers van top tot teen filmt, met
       ingebouwde lokale opslag zodat je clips zonder abonnement bewaart.
-    renterNote: 'Werkt op de accu, dus in een appartement heb je geen deurbelbedrading nodig.'
+    renterNote: >-
+      Werkt op de accu, dus in een appartement heb je geen deurbelbedrading
+      nodig.
     pros:
       - 'Ingebouwde lokale opslag, geen maandelijkse kosten'
       - Tweede camera ziet pakketten aan je voeten
@@ -58,7 +60,7 @@ products:
       - Bij een drukke voordeur raakt de ingebouwde opslag vol
     asin: B0CD7NT4Y9
     image:
-      url: 'https://m.media-amazon.com/images/I/31bPy4fJvOL._SL500_.jpg'
+      url: 'https://m.media-amazon.com/images/I/41bwjHx5PUL._SL500_.jpg'
       width: 500
       height: 500
     gallery:
@@ -93,7 +95,9 @@ products:
         - >-
           De tweede, naar beneden gerichte camera ziet pakketten; door de lokale
           opslag is geen abonnement nodig
-        - Beeldkwaliteit en veiligheid van bezorgingen worden door reviewers geprezen
+        - >-
+          Beeldkwaliteit en veiligheid van bezorgingen worden door reviewers
+          geprezen
         - Installatie eenvoudig en beeld scherp volgens reviews
       complaints:
         - >-
@@ -139,7 +143,9 @@ products:
       vastgeschroefd: vraag dus toestemming aan je verhuurder of kies een
       passende houder zonder boren.
     pros:
-      - 'microSD-opslag tot 128 GB, geen maandelijkse kosten en geen HomeBase nodig'
+      - >-
+        microSD-opslag tot 128 GB, geen maandelijkse kosten en geen HomeBase
+        nodig
       - Uitneembaar accupack van 6500 mAh laadt binnen op
       - 24/7 opnemen bij aansluiting op de deurbelbedrading
       - Werkt met een bestaande bedrade gong
@@ -147,16 +153,16 @@ products:
       - 'Eén camera, dus geen apart pakketbeeld zoals bij de E340'
       - Beugel wordt geschroefd; eufy noemt geen houder zonder boren
       - Eigenaren melden een lastig montageklemmetje en soms gemiste meldingen
-      - Alleen 2,4 GHz-wifi; geen Apple HomeKit
+      - 'Alleen 2,4 GHz-wifi; geen Apple HomeKit'
     specs:
       Cameras: 'Eén 2K-camera, 4:3-beeld van top tot teen'
       Power: Uitneembare accu van 6500 mAh of deurbelbedrading
       Storage: 'microSD tot 128 GB; optioneel HomeBase S280, S380 of HomeBase 3'
-      Recording: '24/7 alleen bedraad; bewegingsclips op de accu'
-      Chime: 'Bestaande bedrade gong of eufy MiniBase Chime T8023 (los verkrijgbaar)'
+      Recording: 24/7 alleen bedraad; bewegingsclips op de accu
+      Chime: Bestaande bedrade gong of eufy MiniBase Chime T8023 (los verkrijgbaar)
       Wi-Fi: '2,4 GHz'
       Mounting: Schroefbeugel plus wig van 15 graden
-      Smart home: 'Alexa en Google Assistant; niet Apple HomeKit'
+      Smart home: Alexa en Google Assistant; niet Apple HomeKit
     scores:
       install: 6
       reversibility: 6
@@ -171,13 +177,17 @@ products:
       read: 5
       praise:
         - Scherp 2K-beeld met een volledig zicht op bezoekers van top tot teen
-        - 'Geen maandelijkse kosten, clips worden lokaal op een microSD-kaart bewaard'
+        - >-
+          Geen maandelijkse kosten, clips worden lokaal op een microSD-kaart
+          bewaard
         - 'Eenvoudige installatie, bewegingsdetectie wordt nauwkeurig genoemd'
       complaints:
         - >-
           De onderkant van de deurbel klikt soms niet in de muurbeugel; sommige
           eigenaren kregen een vervangende beugel van de klantenservice
-        - Gemiste belsignalen of persoonsmeldingen tot de deurbel opnieuw wordt opgestart
+        - >-
+          Gemiste belsignalen of persoonsmeldingen tot de deurbel opnieuw wordt
+          opgestart
         - Accuduur bij een drukke voordeur en de Android-app kregen kritiek
       sources:
         - title: 'eufy community: C31 does not clip into mount'
@@ -215,8 +225,8 @@ products:
     query: Tapo D210 video doorbell battery
     badge: Beste budgetkeuze
     summary: >-
-      De voordelige accudeurbel van TP-Link slaat clips op een microSD-kaart
-      op, zodat je cloudabonnementen helemaal kunt overslaan.
+      De voordelige accudeurbel van TP-Link slaat clips op een microSD-kaart op,
+      zodat je cloudabonnementen helemaal kunt overslaan.
     renterNote: Werkt op een accu; plaats je eigen microSD-kaart voor lokale clips.
     pros:
       - Lage prijs
@@ -280,9 +290,9 @@ faqs:
       maandabonnement.
   - q: Mag ik als huurder een videodeurbel ophangen?
     a: >-
-      Ja. Kies een deurbel op accu, monteer hem met een houder zonder boren
-      waar de ondergrond dat toelaat, en vraag het eerst aan je verhuurder als
-      je huurcontract wijzigingen aan de deur beperkt.
+      Ja. Kies een deurbel op accu, monteer hem met een houder zonder boren waar
+      de ondergrond dat toelaat, en vraag het eerst aan je verhuurder als je
+      huurcontract wijzigingen aan de deur beperkt.
   - q: Wat gebeurt er met lokale clips als de deurbel wordt gestolen?
     a: >-
       Clips die in de deurbel zelf staan, zoals op de ingebouwde opslag van de

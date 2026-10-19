@@ -1,254 +1,300 @@
 ---
 title: ¿Se puede poner un timbre Ring en un piso de alquiler? Guía
-seoTitle: 'Timbre Ring en un piso de alquiler – 3 formas sin taladrar'
-description: Sí, puedes poner un timbre Ring en un piso de alquiler sin taladrar.
-  Así se usa la Ring Peephole Cam o el No-Drill Mount, y qué preguntar a tu casero.
+seoTitle: Timbre Ring en un piso de alquiler – 3 formas sin taladrar
+description: >-
+  Sí, puedes poner un timbre Ring en un piso de alquiler sin taladrar. Así se
+  usa la Ring Peephole Cam o el No-Drill Mount, y qué preguntar a tu casero.
 pubDate: '2026-10-17T19:00:00.000Z'
 lang: es
 translationOf: ring-doorbell-in-apartment
 category: security
 keyword: timbre ring en un piso de alquiler
 secondaryKeywords:
-- timbre ring para piso
-- timbre ring en la puerta del piso
-- se pueden poner cámaras ring en un piso de alquiler
+  - timbre ring para piso
+  - timbre ring en la puerta del piso
+  - se pueden poner cámaras ring en un piso de alquiler
 entities:
-- Ring doorbell in an apartment
-- Ring
-- Ring Peephole Cam
-- Ring Battery Doorbell
-- Ring No-Drill Mount
-- lease
-- landlord
-- security deposit
-- Ring Home subscription
+  - Ring doorbell in an apartment
+  - Ring
+  - Ring Peephole Cam
+  - Ring Battery Doorbell
+  - Ring No-Drill Mount
+  - lease
+  - landlord
+  - security deposit
+  - Ring Home subscription
 tags:
-- videotimbres
-- seguridad en el piso
-- normas para inquilinos
+  - videotimbres
+  - seguridad en el piso
+  - normas para inquilinos
 articleType: guide
 funnel: tofu
 readingTime: 7
 tldr:
-- Sí, en la mayoría de los pisos puedes añadir un timbre Ring sin taladrar, siempre
-  que tu contrato lo permita y no dañes la puerta.
-- La Ring Peephole Cam sustituye la mirilla que ya tienes y se quita sin dejar rastro
-  cuando te mudas.
-- Un Ring Battery Doorbell puede ir en un marco de puerta liso con el Ring No-Drill
-  Mount, que usa adhesivo en lugar de tornillos.
-- Pide permiso a tu casero por escrito y orienta la cámara para que no grabe las puertas
-  de tus vecinos.
+  - >-
+    Sí, en la mayoría de los pisos puedes añadir un timbre Ring sin taladrar,
+    siempre que tu contrato lo permita y no dañes la puerta.
+  - >-
+    La Ring Peephole Cam sustituye la mirilla que ya tienes y se quita sin dejar
+    rastro cuando te mudas.
+  - >-
+    Un Ring Battery Doorbell puede ir en un marco de puerta liso con el Ring
+    No-Drill Mount, que usa adhesivo en lugar de tornillos.
+  - >-
+    Pide permiso a tu casero por escrito y orienta la cámara para que no grabe
+    las puertas de tus vecinos.
 products:
-- name: Ring Peephole Cam
-  brand: Ring
-  query: Ring Peephole Cam 2K
-  badge: La mejor para puertas de piso
-  summary: Una cámara con batería que sustituye la mirilla de tu puerta, para tener
-    videotimbre, avisos de movimiento y sensor de llamada a la puerta sin taladrar.
-  renterNote: Se desenrosca tu mirilla actual; guarda la original para volver a ponerla
-    al mudarte.
-  pros:
-  - Sin taladrar y sin cables
-  - Desde el rellano parece una mirilla normal
-  - Fácil de llevar a tu próximo piso
-  cons:
-  - Solo encaja en ciertos grosores de puerta y tamaños de mirilla
-  - La batería hay que recargarla con regularidad
-  asin: B0GLJ8NM1W
-  image:
-    url: https://m.media-amazon.com/images/I/31gbU4nZpHL._SL500_.jpg
-    width: 313
-    height: 500
-  gallery:
-  - url: https://m.media-amazon.com/images/I/41A0CqGnYhL._SL500_.jpg
-    width: 313
-    height: 500
-  - url: https://m.media-amazon.com/images/I/41IC1G7G+OL._SL500_.jpg
-    width: 313
-    height: 500
-  - url: https://m.media-amazon.com/images/I/41lbHuVMRmL._SL500_.jpg
-    width: 313
-    height: 500
-  - url: https://m.media-amazon.com/images/I/419w3TzXRML._SL500_.jpg
-    width: 313
-    height: 500
-  amazonTitle: Ring Peephole Cam 2K (Newest Model), replaces physical peephole viewing
-    with Retinal 2K and wide-angle video, renter-friendly installation, Speckled Gray
-  scores:
-    install: 8
-    reversibility: 9
-    value: 6
-    compatibility: 7
-    portability: 8
-  scoreNote: Sustituye la mirilla existente sin taladrar; las grabaciones requieren
-    un plan Ring Home y solo encaja en ciertas puertas.
-  owners:
-    read: 5
-    praise:
-    - Se coloca en la mirilla existente sin taladrar, ideal para un alquiler
-    - Configuración sencilla en la app; los usuarios también destacan la calidad de
-      imagen, la visión nocturna y la batería
-    complaints:
-    - La vista en directo o los avisos de movimiento a veces fallan tras la configuración;
-      algunos usuarios tuvieron fallos de hardware
-    - Con uso intenso hay que recargarla más o menos cada mes; una contrapuerta exterior
-      (storm door) puede tapar la visión nocturna
-    - El sensor de llamada es débil en puertas macizas
-    sources:
-    - title: Ring Peephole Cam Review (Security.org)
-      url: https://www.security.org/doorbell-camera/ring/review/door-view-cam
-    - title: Ring peephole camera not working (Ring Community)
-      url: https://community.ring.com/t/ring-peephole-camera-not-working/143069
-    - title: Peephole Cam live view not working after flex cable replacement (Ring
-        Community)
-      url: https://community.ring.com/conversations/general-topics/peephole-cam-live-view-not-working-after-flex-cable-replacement/683aabd133343b5c15fe6e07
-    - title: Ring Peephole Doorbell Not Working (Ring Community)
-      url: https://community.ring.com/t/ring-peephole-doorbell-not-working/12520
-    - title: Ring Peephole Cam customer reviews (Best Buy)
-      url: https://bestbuy.com/site/reviews/ring-peephole-cam-video-doorbell-battery-satin-nickel/6379205?page=3
-      reviews: 701
-    - title: Ring Peephole Cam customer reviews (Home Depot)
-      url: https://homedepot.com/p/reviews/Ring-Peephole-Cam-Smart-Wireless-Video-Doorbell-Camera-with-Quick-Release-Battery-2-Way-Talk-and-Knock-Detection-8SPPS9-0EN0/311386247/1
-- name: Ring Battery Doorbell
-  brand: Ring
-  query: Ring Battery Doorbell
-  badge: El mejor si no tienes mirilla
-  summary: Un timbre Ring sin cables con batería recargable que se combina con el
-    Ring No-Drill Mount, pensado para inquilinos que no pueden usar tornillos.
-  renterNote: Combínalo con el Ring No-Drill Mount sobre un marco de puerta liso.
-  pros:
-  - No necesita cableado de timbre
-  - Funciona con el Ring No-Drill Mount
-  - Funciona con Alexa y Ring Alarm
-  cons:
-  - Hay que recargar la batería
-  - Para guardar grabaciones necesitas una suscripción a Ring Home
-  asin: B0FHJ7TKZM
-  image:
-    url: https://m.media-amazon.com/images/I/21lc6l7V1ZL._SL500_.jpg
-    width: 313
-    height: 500
-  gallery:
-  - url: https://m.media-amazon.com/images/I/314PqGk2KCL._SL500_.jpg
-    width: 313
-    height: 500
-  - url: https://m.media-amazon.com/images/I/51wDFPyV0HL._SL500_.jpg
-    width: 313
-    height: 500
-  - url: https://m.media-amazon.com/images/I/41fw3395XBL._SL500_.jpg
-    width: 313
-    height: 500
-  - url: https://m.media-amazon.com/images/I/51zWje4O0IL._SL500_.jpg
-    width: 313
-    height: 500
-  amazonTitle: Ring Battery Doorbell 2K (newest model) Retinal 2K with wide-angle
-    video, up to 6x Enhanced Zoom, Two-Way Talk, and Built-In Battery, Speckled Gray
-  scores:
-    install: 7
-    reversibility: 8
-    value: 6
-    compatibility: 7
-    portability: 8
-  scoreNote: Timbre con batería y sin cables; necesita un soporte sin taladro, y guardar
-    clips requiere Ring Home.
-  owners:
-    read: 5
-    praise:
-    - La batería inalámbrica hace que la instalación sea sencilla, sin cables
-    - Un usuario dice que su unidad no le ha dado ningún problema
-    complaints:
-    - A algunos usuarios la batería se les agota en pocas semanas, o el aparato deja
-      de responder
-    - La batería no la puede cambiar el usuario y las funciones avanzadas requieren
-      suscripción
-    - Cortes de wifi, y algunas unidades no encajaban en el soporte
-    sources:
-    - title: Really disgusted (Ring Community)
-      url: https://community.ring.com/conversations/ring-video-doorbell/really-disgusted/681a430820d5b71fad21aee1
-    - title: Doorbell not snapping into bracket (Ring Community)
-      url: https://community.ring.com/conversations/ring-video-doorbell/head-to-toe-doorbell-not-snapping-into-bracket/679180745d74312f49aeedce
-    - title: Ring Doorbell, any good? (Talk Photography)
-      url: https://www.talkphotography.co.uk/threads/ring-doorbell-any-good.771394/
-    - title: Doorbell 3 battery not responding (Ring Community)
-      url: https://community.ring.com/conversations/ring-video-doorbell/ring-doorbel-3-battery-not-responding-at-all/675c13d3a13932149a5ed27e
-    - title: Ring Battery Doorbell review summary (ShopSavvy)
-      url: https://www.shopsavvy.com/reviews-tldr/ring-battery-doorbell-2024-venetian-bronze
-- name: Ring No-Drill Mount
-  brand: Ring
-  query: Ring No-Drill Mount battery doorbell
-  badge: El mejor accesorio para inquilinos
-  summary: El soporte adhesivo de Ring para sus timbres con batería, pensado para
-    puertas y marcos en los que no puedes taladrar.
-  renterNote: Funciona mejor en superficies lisas; evita ladrillo, tejas y estuco
-    rugoso.
-  pros:
-  - Sin tornillos en la puerta ni en el marco
-  - Fabricado por Ring para sus timbres con batería
-  - Incluye adhesivo de repuesto
-  cons:
-  - Solo es compatible con algunos timbres Ring con batería
-  - No sirve para superficies rugosas o con textura
-  asin: B0FS3466XM
-  image:
-    url: https://m.media-amazon.com/images/I/21au3hGPKiL._SL500_.jpg
-    width: 313
-    height: 500
-  gallery:
-  - url: https://m.media-amazon.com/images/I/218PEGbgBhL._SL500_.jpg
-    width: 313
-    height: 500
-  amazonTitle: All -New No Drill Mount for Ring Battery Doorbell (newest model), Battery
-    Doorbell Plus (newest model), Battery Doorbell Pro (newest model)
-  scores:
-    install: 9
-    reversibility: 8
-    value: 8
-    portability: 7
-  scoreNote: Soporte adhesivo para timbres Ring con batería; solo superficies lisas.
-  owners:
-    read: 2
-    praise:
-    - La placa adhesiva permite colocar el timbre sin taladrar las paredes del piso
-      de alquiler
-    - Barato y fácil de colocar
-    complaints:
-    - La compatibilidad depende del modelo; Ring indica que el soporte Gen 2 solo
-      sirve para ese timbre
-    - Hay pocas opiniones de usuarios; quitar el adhesivo puede marcar la fachada,
-      así que revisa tu contrato
-    sources:
-    - title: No-Drill Mount FAQs (Ring Support)
-      url: https://ring.com/support/articles/mich9/No-Drill-Mount-for-Ring-Video-Doorbell-Gen-2-FAQs
-    - title: No-drill video doorbell mounts are perfect for renters (How-To Geek)
-      url: https://www.howtogeek.com/828871/no-drill-video-doorbell-mounts-are-perfect-for-renters
+  - name: Ring Peephole Cam
+    brand: Ring
+    query: Ring Peephole Cam 2K
+    badge: La mejor para puertas de piso
+    summary: >-
+      Una cámara con batería que sustituye la mirilla de tu puerta, para tener
+      videotimbre, avisos de movimiento y sensor de llamada a la puerta sin
+      taladrar.
+    renterNote: >-
+      Se desenrosca tu mirilla actual; guarda la original para volver a ponerla
+      al mudarte.
+    pros:
+      - Sin taladrar y sin cables
+      - Desde el rellano parece una mirilla normal
+      - Fácil de llevar a tu próximo piso
+    cons:
+      - Solo encaja en ciertos grosores de puerta y tamaños de mirilla
+      - La batería hay que recargarla con regularidad
+    asin: B0GLJ8NM1W
+    image:
+      url: 'https://m.media-amazon.com/images/I/31gbU4nZpHL._SL500_.jpg'
+      width: 313
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41A0CqGnYhL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41IC1G7G+OL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41lbHuVMRmL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/419w3TzXRML._SL500_.jpg'
+        width: 313
+        height: 500
+    amazonTitle: >-
+      Ring Peephole Cam 2K (Newest Model), replaces physical peephole viewing
+      with Retinal 2K and wide-angle video, renter-friendly installation,
+      Speckled Gray
+    scores:
+      install: 8
+      reversibility: 9
+      value: 6
+      compatibility: 7
+      portability: 8
+    scoreNote: >-
+      Sustituye la mirilla existente sin taladrar; las grabaciones requieren un
+      plan Ring Home y solo encaja en ciertas puertas.
+    owners:
+      read: 5
+      praise:
+        - 'Se coloca en la mirilla existente sin taladrar, ideal para un alquiler'
+        - >-
+          Configuración sencilla en la app; los usuarios también destacan la
+          calidad de imagen, la visión nocturna y la batería
+      complaints:
+        - >-
+          La vista en directo o los avisos de movimiento a veces fallan tras la
+          configuración; algunos usuarios tuvieron fallos de hardware
+        - >-
+          Con uso intenso hay que recargarla más o menos cada mes; una
+          contrapuerta exterior (storm door) puede tapar la visión nocturna
+        - El sensor de llamada es débil en puertas macizas
+      sources:
+        - title: Ring Peephole Cam Review (Security.org)
+          url: 'https://www.security.org/doorbell-camera/ring/review/door-view-cam'
+        - title: Ring peephole camera not working (Ring Community)
+          url: 'https://community.ring.com/t/ring-peephole-camera-not-working/143069'
+        - title: >-
+            Peephole Cam live view not working after flex cable replacement
+            (Ring Community)
+          url: >-
+            https://community.ring.com/conversations/general-topics/peephole-cam-live-view-not-working-after-flex-cable-replacement/683aabd133343b5c15fe6e07
+        - title: Ring Peephole Doorbell Not Working (Ring Community)
+          url: >-
+            https://community.ring.com/t/ring-peephole-doorbell-not-working/12520
+        - title: Ring Peephole Cam customer reviews (Best Buy)
+          url: >-
+            https://bestbuy.com/site/reviews/ring-peephole-cam-video-doorbell-battery-satin-nickel/6379205?page=3
+          reviews: 701
+        - title: Ring Peephole Cam customer reviews (Home Depot)
+          url: >-
+            https://homedepot.com/p/reviews/Ring-Peephole-Cam-Smart-Wireless-Video-Doorbell-Camera-with-Quick-Release-Battery-2-Way-Talk-and-Knock-Detection-8SPPS9-0EN0/311386247/1
+  - name: Ring Battery Doorbell
+    brand: Ring
+    query: Ring Battery Doorbell
+    badge: El mejor si no tienes mirilla
+    summary: >-
+      Un timbre Ring sin cables con batería recargable que se combina con el
+      Ring No-Drill Mount, pensado para inquilinos que no pueden usar tornillos.
+    renterNote: Combínalo con el Ring No-Drill Mount sobre un marco de puerta liso.
+    pros:
+      - No necesita cableado de timbre
+      - Funciona con el Ring No-Drill Mount
+      - Funciona con Alexa y Ring Alarm
+    cons:
+      - Hay que recargar la batería
+      - Para guardar grabaciones necesitas una suscripción a Ring Home
+    asin: B0FHJ7TKZM
+    image:
+      url: 'https://m.media-amazon.com/images/I/31+qDXAyhzL._SL500_.jpg'
+      width: 394
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/314PqGk2KCL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51wDFPyV0HL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41fw3395XBL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51zWje4O0IL._SL500_.jpg'
+        width: 313
+        height: 500
+    amazonTitle: >-
+      Ring Battery Doorbell 2K (newest model) Retinal 2K with wide-angle video,
+      up to 6x Enhanced Zoom, Two-Way Talk, and Built-In Battery, Speckled Gray
+    scores:
+      install: 7
+      reversibility: 8
+      value: 6
+      compatibility: 7
+      portability: 8
+    scoreNote: >-
+      Timbre con batería y sin cables; necesita un soporte sin taladro, y
+      guardar clips requiere Ring Home.
+    owners:
+      read: 5
+      praise:
+        - >-
+          La batería inalámbrica hace que la instalación sea sencilla, sin
+          cables
+        - Un usuario dice que su unidad no le ha dado ningún problema
+      complaints:
+        - >-
+          A algunos usuarios la batería se les agota en pocas semanas, o el
+          aparato deja de responder
+        - >-
+          La batería no la puede cambiar el usuario y las funciones avanzadas
+          requieren suscripción
+        - 'Cortes de wifi, y algunas unidades no encajaban en el soporte'
+      sources:
+        - title: Really disgusted (Ring Community)
+          url: >-
+            https://community.ring.com/conversations/ring-video-doorbell/really-disgusted/681a430820d5b71fad21aee1
+        - title: Doorbell not snapping into bracket (Ring Community)
+          url: >-
+            https://community.ring.com/conversations/ring-video-doorbell/head-to-toe-doorbell-not-snapping-into-bracket/679180745d74312f49aeedce
+        - title: 'Ring Doorbell, any good? (Talk Photography)'
+          url: >-
+            https://www.talkphotography.co.uk/threads/ring-doorbell-any-good.771394/
+        - title: Doorbell 3 battery not responding (Ring Community)
+          url: >-
+            https://community.ring.com/conversations/ring-video-doorbell/ring-doorbel-3-battery-not-responding-at-all/675c13d3a13932149a5ed27e
+        - title: Ring Battery Doorbell review summary (ShopSavvy)
+          url: >-
+            https://www.shopsavvy.com/reviews-tldr/ring-battery-doorbell-2024-venetian-bronze
+  - name: Ring No-Drill Mount
+    brand: Ring
+    query: Ring No-Drill Mount battery doorbell
+    badge: El mejor accesorio para inquilinos
+    summary: >-
+      El soporte adhesivo de Ring para sus timbres con batería, pensado para
+      puertas y marcos en los que no puedes taladrar.
+    renterNote: >-
+      Funciona mejor en superficies lisas; evita ladrillo, tejas y estuco
+      rugoso.
+    pros:
+      - Sin tornillos en la puerta ni en el marco
+      - Fabricado por Ring para sus timbres con batería
+      - Incluye adhesivo de repuesto
+    cons:
+      - Solo es compatible con algunos timbres Ring con batería
+      - No sirve para superficies rugosas o con textura
+    asin: B0FS3466XM
+    image:
+      url: 'https://m.media-amazon.com/images/I/21au3hGPKiL._SL500_.jpg'
+      width: 313
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/218PEGbgBhL._SL500_.jpg'
+        width: 313
+        height: 500
+    amazonTitle: >-
+      All -New No Drill Mount for Ring Battery Doorbell (newest model), Battery
+      Doorbell Plus (newest model), Battery Doorbell Pro (newest model)
+    scores:
+      install: 9
+      reversibility: 8
+      value: 8
+      portability: 7
+    scoreNote: Soporte adhesivo para timbres Ring con batería; solo superficies lisas.
+    owners:
+      read: 2
+      praise:
+        - >-
+          La placa adhesiva permite colocar el timbre sin taladrar las paredes
+          del piso de alquiler
+        - Barato y fácil de colocar
+      complaints:
+        - >-
+          La compatibilidad depende del modelo; Ring indica que el soporte Gen 2
+          solo sirve para ese timbre
+        - >-
+          Hay pocas opiniones de usuarios; quitar el adhesivo puede marcar la
+          fachada, así que revisa tu contrato
+      sources:
+        - title: No-Drill Mount FAQs (Ring Support)
+          url: >-
+            https://ring.com/support/articles/mich9/No-Drill-Mount-for-Ring-Video-Doorbell-Gen-2-FAQs
+        - title: No-drill video doorbell mounts are perfect for renters (How-To Geek)
+          url: >-
+            https://www.howtogeek.com/828871/no-drill-video-doorbell-mounts-are-perfect-for-renters
 sources:
-- title: 'Ring: No-Drill Mount for Battery Doorbells'
-  url: https://ring.com/ca/en/products/no-drill-mount-for-battery-doorbells
-- title: 'Ring Blog: The best Ring products for renters'
-  url: https://blog.ring.com/home-security/the-best-ring-products-for-renters/
+  - title: 'Ring: No-Drill Mount for Battery Doorbells'
+    url: 'https://ring.com/ca/en/products/no-drill-mount-for-battery-doorbells'
+  - title: 'Ring Blog: The best Ring products for renters'
+    url: 'https://blog.ring.com/home-security/the-best-ring-products-for-renters/'
 reviewedDate: '2026-10-14T00:00:00.000Z'
 faqs:
-- q: ¿Puedo poner un timbre Ring en la puerta de mi piso?
-  a: Sí. La Ring Peephole Cam sustituye la mirilla de tu puerta sin taladrar, y un
-    Ring Battery Doorbell se puede fijar con el Ring No-Drill Mount. Revisa tu contrato
-    y pregunta antes a tu casero.
-- q: ¿Necesito permiso del casero para poner un timbre Ring?
-  a: Normalmente conviene preguntar. Muchos contratos limitan los cambios en la puerta,
-    y un sí por escrito protege tu fianza. Una opción sin taladrar hace que sea más
-    fácil que te lo aprueben.
-- q: ¿Hay que taladrar para poner la Ring Peephole Cam?
-  a: No. Sustituye la mirilla existente. Solo encaja en puertas y mirillas dentro
-    del rango de medidas de Ring, así que comprueba los requisitos antes de comprarla.
-- q: ¿Hace falta suscripción para un timbre Ring?
-  a: La vista en directo y los avisos de movimiento funcionan sin ella. Para guardar
-    y revisar grabaciones necesitas una suscripción a Ring Home.
-- q: ¿Me puedo llevar el timbre Ring cuando me mude?
-  a: Sí. Vuelve a poner tu mirilla original o despega el No-Drill Mount, y configura
-    el timbre en tu nueva casa con la app de Ring.
+  - q: ¿Puedo poner un timbre Ring en la puerta de mi piso?
+    a: >-
+      Sí. La Ring Peephole Cam sustituye la mirilla de tu puerta sin taladrar, y
+      un Ring Battery Doorbell se puede fijar con el Ring No-Drill Mount. Revisa
+      tu contrato y pregunta antes a tu casero.
+  - q: ¿Necesito permiso del casero para poner un timbre Ring?
+    a: >-
+      Normalmente conviene preguntar. Muchos contratos limitan los cambios en la
+      puerta, y un sí por escrito protege tu fianza. Una opción sin taladrar
+      hace que sea más fácil que te lo aprueben.
+  - q: ¿Hay que taladrar para poner la Ring Peephole Cam?
+    a: >-
+      No. Sustituye la mirilla existente. Solo encaja en puertas y mirillas
+      dentro del rango de medidas de Ring, así que comprueba los requisitos
+      antes de comprarla.
+  - q: ¿Hace falta suscripción para un timbre Ring?
+    a: >-
+      La vista en directo y los avisos de movimiento funcionan sin ella. Para
+      guardar y revisar grabaciones necesitas una suscripción a Ring Home.
+  - q: ¿Me puedo llevar el timbre Ring cuando me mude?
+    a: >-
+      Sí. Vuelve a poner tu mirilla original o despega el No-Drill Mount, y
+      configura el timbre en tu nueva casa con la app de Ring.
 author: editorial-team
 heroImage: /images/featured/ring-doorbell-in-apartment.png
-heroAlt: ¿Se puede poner un timbre Ring en un piso de alquiler? Guía para inquilinos
-  de RenterSmartHome
+heroAlt: >-
+  ¿Se puede poner un timbre Ring en un piso de alquiler? Guía para inquilinos de
+  RenterSmartHome
 ---
 
 ¿Se puede poner un timbre Ring en un piso de alquiler? **Sí: la mayoría de los inquilinos pueden añadir un timbre Ring sin taladrar, ya sea con la Ring Peephole Cam o con un Ring Battery Doorbell sobre el Ring No-Drill Mount, siempre que el contrato de alquiler lo permita.** El problema casi nunca es el aparato. Es el contrato, la puerta y los vecinos.

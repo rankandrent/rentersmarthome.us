@@ -1,6 +1,6 @@
 ---
-title: Aus der Wohnung ausgesperrt? 7 Schritte, wie du schnell reinkommst
-seoTitle: Aus der Wohnung ausgesperrt? 7 Schritte, die sofort helfen
+title: 'Aus der Wohnung ausgesperrt? 7 Schritte, wie du schnell reinkommst'
+seoTitle: 'Aus der Wohnung ausgesperrt? 7 Schritte, die sofort helfen'
 description: >-
   Aus der Wohnung ausgesperrt? 7 Schritte in der richtigen Reihenfolge, von der
   Hausverwaltung bis zum Schlüsseldienst, plus Smart Locks ganz ohne Bohren.
@@ -54,8 +54,8 @@ tldr:
     Mietvertrag und frag deinen Vermieter schriftlich.
   - >-
     Gegen das nächste Mal hilft den meisten Mietern ein Nachrüst-Smart-Lock, das
-    deinen Originalschlüssel behält, oder ein Schlüsseltresor mit Ersatzschlüssel,
-    beides ohne Bohren.
+    deinen Originalschlüssel behält, oder ein Schlüsseltresor mit
+    Ersatzschlüssel, beides ohne Bohren.
 products:
   - name: August Wi-Fi Smart Lock (4th Gen)
     brand: August
@@ -66,7 +66,7 @@ products:
       August Home, Silver Wi-Fi Connected Smart Keyless Entry Door Lock,
       Electronic Door Lock Fits Your Existing Deadbolt in Minutes, ‎
       ‎AUG-SL05-M01-S01
-    badge: Beste Nachrüstlösung, wenn das Handy drinnen liegt
+    badge: 'Beste Nachrüstlösung, wenn das Handy drinnen liegt'
     summary: >-
       Ein Nachrüst-Smart-Lock, das innen auf dein vorhandenes einseitiges
       Riegelschloss geklemmt wird und Schlüsselloch und Schlüssel außen
@@ -110,19 +110,40 @@ products:
         - >-
           Im Alltag angenehm, wenn es einmal eingerichtet ist; Besitzer finden
           den Schlüssel danach regelrecht lästig
-        - Der normale Schlüssel funktioniert weiter, falls die Batterien doch leer sind
-        - Viele Warnungen bei niedrigem Akkustand, bevor das Schloss streikt
+        - >-
+          Der normale Schlüssel funktioniert weiter, falls die Batterien doch
+          leer sind
+        - 'Viele Warnungen bei niedrigem Akkustand, bevor das Schloss streikt'
       complaints:
         - >-
           Verbraucht viele Batterien: Ein Besitzer wechselt sie etwa alle 3
           Monate, ein anderer etwa alle 7
-        - Gelegentliche WLAN-Verbindungsprobleme tauchen in Bewertungszusammenfassungen auf
+        - >-
+          Gelegentliche WLAN-Verbindungsprobleme tauchen in
+          Bewertungszusammenfassungen auf
       sources:
         - title: Slickdeals August Wi-Fi Smart Lock (4th Gen) owner thread
           url: >-
             https://slickdeals.net/f/16257052-august-wi-fi-smart-lock-4th-gen-black-or-silver-139-free-shipping
         - title: ShopSavvy August Wi-Fi Smart Lock 4th Gen review summary
           url: 'https://shopsavvy.com/reviews-tldr/august-wi-fi-smart-lock-4th-gen'
+    image:
+      url: 'https://m.media-amazon.com/images/I/4120PG5xbhL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41G5tNCzsCL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51XzWyN4erL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51pNaGPJnmL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41SXQ6LB3WL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: SwitchBot Lock Pro
     brand: SwitchBot
     query: SwitchBot Lock Pro
@@ -174,7 +195,9 @@ products:
         - >-
           Rezensenten nennen die Montage schnell und sagen, das Originalschloss
           blieb unberührt
-        - Das Entriegeln geht laut einem Rezensenten etwa so schnell wie mit dem Schlüssel
+        - >-
+          Das Entriegeln geht laut einem Rezensenten etwa so schnell wie mit dem
+          Schlüssel
         - Die Batteriewarnungen kamen laut einem Bericht früh genug
       complaints:
         - >-
@@ -193,6 +216,23 @@ products:
           url: 'https://notenoughtech.com/home-automation/switchbot-lock-pro/'
         - title: Trustpilot switch-bot.com reviews (page 9)
           url: 'https://no.trustpilot.com/review/www.switch-bot.com?page=9'
+    image:
+      url: 'https://m.media-amazon.com/images/I/41AnpEoJ8cL._SL500_.jpg'
+      width: 441
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41O8bRNKQEL._SL500_.jpg'
+        width: 500
+        height: 375
+      - url: 'https://m.media-amazon.com/images/I/41seSQCBnIL._SL500_.jpg'
+        width: 500
+        height: 375
+      - url: 'https://m.media-amazon.com/images/I/51bB2HCwO-L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51wl7x8tl0L._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Yale Approach Lock with Wi-Fi and Keypad Touch
     brand: Yale
     query: Yale Approach Lock Deadbolt Wi-Fi Keypad B-YRR110-F-WF1-N-BSP
@@ -219,7 +259,9 @@ products:
         Tastenfeld, Fingerabdruckleser und WLAN-Bridge sind dabei, du kommst
         also ohne Handy hinein
       - Dein vorhandener Schlüssel bleibt als Reserve
-      - Tastenfeld hält per beiliegendem Klebepad oder Schrauben und ist nach IPX5 geschützt
+      - >-
+        Tastenfeld hält per beiliegendem Klebepad oder Schrauben und ist nach
+        IPX5 geschützt
     cons:
       - >-
         Mehr Montageschritte als ein komplettes Austauschschloss, und die Bridge
@@ -243,8 +285,12 @@ products:
         - >-
           Ein Besitzer nennt es nach rund einem Jahr ziemlich solide und
           zuverlässiger als erwartet
-        - Besitzer schätzen den Fingerabdruck, während der Originalschlüssel bleibt
-        - Bei einem PCWorld-Redakteur klappte die Montage nach einer zweiten Kalibrierung
+        - >-
+          Besitzer schätzen den Fingerabdruck, während der Originalschlüssel
+          bleibt
+        - >-
+          Bei einem PCWorld-Redakteur klappte die Montage nach einer zweiten
+          Kalibrierung
       complaints:
         - Das Entriegeln per Fingerabdruck dauert ein paar Sekunden
         - >-
@@ -258,6 +304,14 @@ products:
         - title: PCWorld Yale Approach Lock with Wi-Fi + Keypad review
           url: >-
             https://www.pcworld.com/article/2331746/yale-approach-lock-with-wi-fi-keypad-review-this-is-easier.html
+    image:
+      url: 'https://m.media-amazon.com/images/I/31MSy2yL9IL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41GhUqJ29zL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Master Lock Portable Key Lock Box 5400EC
     brand: Master Lock
     query: Master Lock Portable Key Lock Box 5400EC
@@ -271,8 +325,9 @@ products:
     summary: >-
       Ein Schlüsseltresor mit Zahlenschloss, der mit seinem Bügel über einen
       Türknauf gehängt wird. So liegt ein Ersatzschlüssel direkt an deiner Tür,
-      und du öffnest ihn mit einem selbst gewählten Code. Kein Strom, kein Handy,
-      kein Bohren, deshalb ist er die einfachste Lösung gegen das Aussperren.
+      und du öffnest ihn mit einem selbst gewählten Code. Kein Strom, kein
+      Handy, kein Bohren, deshalb ist er die einfachste Lösung gegen das
+      Aussperren.
     renterNote: >-
       Passt über die meisten runden, flachen und tulpenförmigen Türknäufe, es
       wird also nichts gebohrt oder geklebt. Einschränkungen: Er schreckt Diebe
@@ -280,8 +335,10 @@ products:
       aufgeschlagen hat), man sieht ihn vom Flur aus, und prüfe Mietvertrag und
       Rücksprache mit dem Vermieter, bevor du einen Schlüssel draußen lässt.
     pros:
-      - 'Nichts zu laden oder zu tauschen: ein frei einstellbarer 4-stelliger Code'
-      - 'Fasst laut Amazon-Angebot bis zu 5 normale Haustürschlüssel'
+      - >-
+        Nichts zu laden oder zu tauschen: ein frei einstellbarer 4-stelliger
+        Code
+      - Fasst laut Amazon-Angebot bis zu 5 normale Haustürschlüssel
       - Vinylbeschichteter Bügel hängt ohne Werkzeug an einem Türknauf
     cons:
       - >-
@@ -303,22 +360,41 @@ products:
       praise:
         - 'Leicht einzurichten, Code leicht zu ändern, stabil genug für den Zweck'
         - >-
-          Makler und Hausverwaltungen nutzen ihn, um Handwerkern und
-          Haushütern Zugang zu geben
-        - Ein Käufer sagt, er habe Feuer und Aufhebeln standgehalten
+          Makler und Hausverwaltungen nutzen ihn, um Handwerkern und Haushütern
+          Zugang zu geben
+        - 'Ein Käufer sagt, er habe Feuer und Aufhebeln standgehalten'
       complaints:
         - >-
-          Begrenzte Sicherheit: Ein Rezensent berichtet von einem Einbrecher, der
-          einen aufgeschlagen hat, ein anderer nennt ihn reine Abschreckung
+          Begrenzte Sicherheit: Ein Rezensent berichtet von einem Einbrecher,
+          der einen aufgeschlagen hat, ein anderer nennt ihn reine Abschreckung
         - >-
           Manche Rezensenten melden einen klemmenden Mechanismus oder einen
           Code, der auch mit falschen Ziffern aufging
-        - 'Innen ist weniger Platz, als es aussieht, große Schlüssel passen eventuell nicht'
+        - >-
+          Innen ist weniger Platz, als es aussieht, große Schlüssel passen
+          eventuell nicht
       sources:
         - title: 'Home Depot customer reviews, Master Lock 5400DHC'
           url: >-
             https://www.homedepot.com/p/reviews/Master-Lock-Lock-Box-Resettable-Combination-Dials-5400DHC/100124915/1
           reviews: 1503
+    image:
+      url: 'https://m.media-amazon.com/images/I/51xwso8E9gL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41pcRFL0MCL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51PHXUSeqRL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/510qujgaS+L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51ZqlvVkHTL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Master Lock 5420EC Set Your Own Combination Portable Lock Box
     brand: Master Lock
     query: >-
@@ -342,8 +418,10 @@ products:
       daran: Es ist ein versteckter Ersatzschlüssel, kein Tresor.
     pros:
       - Verstellbarer Bügel passt an Klinken ebenso wie an runde Knäufe
-      - 'Selbst gewählter 4-stelliger Code, laut Amazon-Angebot Platz für 6 Schlüssel'
-      - Für drinnen und draußen, mit Wetterschutzkappe über den Zahlenrädern
+      - >-
+        Selbst gewählter 4-stelliger Code, laut Amazon-Angebot Platz für 6
+        Schlüssel
+      - 'Für drinnen und draußen, mit Wetterschutzkappe über den Zahlenrädern'
     cons:
       - >-
         Sitzt an manchen runden Knäufen sehr eng, und ein Rezensent sagt, der
@@ -362,20 +440,41 @@ products:
     owners:
       read: 23
       praise:
-        - Leicht einzurichten, Code leicht zu ändern
-        - 'Passt an Klinken ebenso wie an Knäufe, was andere Schlüsseltresore nicht können'
+        - 'Leicht einzurichten, Code leicht zu ändern'
+        - >-
+          Passt an Klinken ebenso wie an Knäufe, was andere Schlüsseltresore
+          nicht können
         - Hausverwaltungen und Handwerker nutzen ihn zur Schlüsselübergabe
       complaints:
         - >-
           Sitzt so eng an einem runden Knauf, dass ein Besitzer den Knauf
           zusammen mit dem Tresor drehen musste
-        - Der verstellbare Bügel öffnet sich bei einem Rezensenten nicht so weit wie erwartet
+        - >-
+          Der verstellbare Bügel öffnet sich bei einem Rezensenten nicht so weit
+          wie erwartet
         - Ein Exemplar blockierte beim Einstellen des Codes
       sources:
         - title: 'Home Depot customer reviews, Master Lock 5420D'
           url: >-
             https://www.homedepot.com/p/reviews/Master-Lock-Key-Lock-Box-for-Knobs-and-Lever-Door-Handles-Adjustable-Shackle-and-Resettable-Combination-5420D/307976891/1
           reviews: 195
+    image:
+      url: 'https://m.media-amazon.com/images/I/31N4tKz710L._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51viaCriXtL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51yYF17hFyL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51lZGxNDsiL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51uu+5TS1iL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: August Wi-Fi Smart Lock (August)
     url: 'https://august.com/products/august-wifi-smart-lock'
@@ -400,13 +499,13 @@ sources:
       https://www.landlordstudio.com/blog/whats-the-best-lock-for-a-rental-property
 reviewedDate: '2026-10-19'
 faqs:
-  - q: Was mache ich zuerst, wenn ich aus der Wohnung ausgesperrt bin?
+  - q: 'Was mache ich zuerst, wenn ich aus der Wohnung ausgesperrt bin?'
     a: >-
       Prüfe andere Türen, die du gefahrlos erreichst, und ruf dann Mitbewohner,
-      Partner oder Freunde an, die einen Ersatzschlüssel haben. Hat niemand einen,
-      ruf die Hausverwaltung an, außerhalb der Bürozeiten die Notfallnummer, und
-      erst danach einen Schlüsseldienst.
-  - q: Wen rufe ich an, wenn ich nachts oder am Wochenende ausgesperrt bin?
+      Partner oder Freunde an, die einen Ersatzschlüssel haben. Hat niemand
+      einen, ruf die Hausverwaltung an, außerhalb der Bürozeiten die
+      Notfallnummer, und erst danach einen Schlüsseldienst.
+  - q: 'Wen rufe ich an, wenn ich nachts oder am Wochenende ausgesperrt bin?'
     a: >-
       Die meisten Häuser nennen eine Notfall- oder Bereitschaftsnummer im
       Mietvertrag, an der Bürotür oder im Mieterportal. Ruf sie zuerst an, denn
@@ -420,21 +519,25 @@ faqs:
       nach Ort unterschiedlich. Schau in deinen Mietvertrag und frag deinen
       Vermieter schriftlich, was gilt, bevor du es brauchst, damit es keine
       Überraschungen gibt.
-  - q: Braucht der Schlüsseldienst einen Nachweis, dass ich dort wohne?
+  - q: 'Braucht der Schlüsseldienst einen Nachweis, dass ich dort wohne?'
     a: >-
-      Ein seriöser Schlüsseldienst verlangt einen Ausweis und etwas, das dich mit
-      der Adresse verbindet, etwa den Mietvertrag, eine Nebenkostenrechnung oder
-      Post. Speichere ein Foto der Mietvertragsseite und deines Ausweises in der
-      Cloud deines Handys, dann kannst du beides zeigen, auch wenn dein
+      Ein seriöser Schlüsseldienst verlangt einen Ausweis und etwas, das dich
+      mit der Adresse verbindet, etwa den Mietvertrag, eine Nebenkostenrechnung
+      oder Post. Speichere ein Foto der Mietvertragsseite und deines Ausweises
+      in der Cloud deines Handys, dann kannst du beides zeigen, auch wenn dein
       Portemonnaie drinnen liegt.
-  - q: Was passiert, wenn die Batterie im Smart Lock leer ist und ich draußen stehe?
+  - q: >-
+      Was passiert, wenn die Batterie im Smart Lock leer ist und ich draußen
+      stehe?
     a: >-
       Nutze die Notlösung, die das Schloss mitbringt. Nachrüst-Schlösser wie das
       August Wi-Fi Smart Lock behalten deinen normalen Schlüssel, und viele
       Tastenfeld-Riegelschlösser haben unter dem Tastenfeld Kontakte für eine
       9-Volt-Batterie; schau in die Anleitung. Gibt es keine Notlösung, ruf die
       Notfallnummer deines Vermieters an.
-  - q: Darf ich ohne Wissen des Vermieters einen Ersatzschlüssel nachmachen lassen?
+  - q: >-
+      Darf ich ohne Wissen des Vermieters einen Ersatzschlüssel nachmachen
+      lassen?
     a: >-
       Manche Mietverträge verbieten das Nachmachen von Schlüsseln oder verlangen
       eine Erlaubnis, und manche Schlüssel tragen den Vermerk, dass sie nicht

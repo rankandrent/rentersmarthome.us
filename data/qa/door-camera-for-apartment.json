@@ -1,9 +1,12 @@
 {
   "slug": "door-camera-for-apartment",
   "pass": true,
-  "checkedAt": "2026-10-18T14:15:54.253Z",
+  "checkedAt": "2026-10-19T13:42:34.524Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "LIVE POST, FIX: source returns 404: https://support.google.com/googlehome/answer/9259110?hl=en",
+    "LIVE POST, FIX: source returns 404: https://support.google.com/googlehome/answer/11830989?hl=en"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Verified against maker pages: Tapo D225 (Tapo product page + Tapo apartment collection FAQ: 2K QHD, 180 deg DFOV, battery/wired, chime, up to 8-month battery, supplied adhesive, free microSD, Alexa/Google); eufy E340 (eufy spec sheet T8214: 2048x1536 + 1600x1200 cams, 8GB eMMC, battery or hardwired, detachable battery, 802.11b/g/n, IP65, package detection); Ring Battery Doorbell 4K Pro (ring.com product page: 4K, 10x enhanced zoom, 140x140 FOV, 3D motion, quick-release battery, dual-band, recordings need subscription, no-drill mount compatible); Nest Doorbell battery (Google tech specs + cold-charging support page: 960x1280, 145 deg, IP54, built-in 6Ah battery, no charging below 32F, 3h free event history); Arlo Video Doorbell 2K 2nd Gen (Arlo AVD4001 spec sheet + FAQ: 1944x1944, 180 deg, 12x zoom, siren, non-removable battery, 2.4GHz, Alexa/Google/IFTTT, Arlo Secure for cloud, SmartHub local); Blink Video Doorbell 2nd Gen (Blink support FAQ/specs: 3 AA lithium up to 2 years, 1440p, 150 deg, Sync Module required, local storage only via Sync Module 2/XR; Lowe's/Best Buy confirm B0DGQZ8JZK ships with Sync Module Core). SERP recommendations checked (Wirecutter/CNET/Tapo/Ring/SmartRent/SafeHome/Reddit/Facebook). ASINs matched to same-model Amazon listings via site:amazon.com search. Owner praise/complaints summarized from the listed Reddit, Home Depot and Facebook posts (30 total). No prices, ratings, review counts or testing claims.",
