@@ -727,7 +727,7 @@
     "funnel": "mofu",
     "workingTitle": "Ring vs Blink for Renters: Which Camera System Should You Choose?",
     "cluster": "apartment security",
-    "rationale": "150/mo, KD 0, TP 1.7k (Ahrefs); \u2264250 long-tail rule",
+    "rationale": "150/mo, KD 0, TP 1.7k (Ahrefs); ≤250 long-tail rule",
     "ahrefs": {
       "volume": 150,
       "kd": 0,
@@ -773,8 +773,8 @@
     "lastError": "volume 400 > 250 cap; variants only 10-20/mo"
   },
   {
-    "status": "pending",
-    "attempts": 0,
+    "status": "deferred",
+    "attempts": 1,
     "addedAt": "2026-10-13T20:00:47.951Z",
     "secondaryKeywords": [
       "zigbee vs matter",
@@ -797,7 +797,7 @@
     "articleType": "comparison",
     "intent": "informational",
     "funnel": "mofu",
-    "workingTitle": "Matter vs Zigbee (2026) \u2013 What Renters Should Buy",
+    "workingTitle": "Matter vs Zigbee (2026) – What Renters Should Buy",
     "cluster": "voice assistants",
     "rationale": "400/mo, KD 0 (Ahrefs)",
     "ahrefs": {
@@ -817,7 +817,8 @@
       "hubs-voice-zigbee-devices-drop-off-network",
       "hubs-voice-zigbee-range-through-walls",
       "hubs-voice-zigbee-repair-everything-on-move"
-    ]
+    ],
+    "note": "2026-10-19: SERP is explainers/forums; no product recommended by 2+ top-10 pages."
   },
   {
     "status": "pending",
@@ -1231,7 +1232,7 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     },
-    "lastError": "owner keyword paused: Ahrefs volume 0 (\u2264 10/mo, no measurable demand)"
+    "lastError": "owner keyword paused: Ahrefs volume 0 (≤ 10/mo, no measurable demand)"
   },
   {
     "status": "published",
@@ -1712,7 +1713,7 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     },
-    "lastError": "owner keyword paused: Ahrefs volume 10 (\u2264 10/mo, no measurable demand)"
+    "lastError": "owner keyword paused: Ahrefs volume 10 (≤ 10/mo, no measurable demand)"
   },
   {
     "status": "parked",
@@ -1736,7 +1737,7 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     },
-    "lastError": "owner keyword paused: Ahrefs volume 0 (\u2264 10/mo, no measurable demand)"
+    "lastError": "owner keyword paused: Ahrefs volume 0 (≤ 10/mo, no measurable demand)"
   },
   {
     "status": "pending",
@@ -2623,7 +2624,7 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     },
-    "lastError": "owner keyword paused: Ahrefs volume 10 (\u2264 10/mo, no measurable demand)"
+    "lastError": "owner keyword paused: Ahrefs volume 10 (≤ 10/mo, no measurable demand)"
   },
   {
     "status": "pending",
@@ -2739,7 +2740,7 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     },
-    "lastError": "owner keyword paused: Ahrefs volume 10 (\u2264 10/mo, no measurable demand)"
+    "lastError": "owner keyword paused: Ahrefs volume 10 (≤ 10/mo, no measurable demand)"
   },
   {
     "status": "pending",
@@ -2924,7 +2925,7 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     },
-    "lastError": "owner keyword paused: Ahrefs volume 0 (\u2264 10/mo, no measurable demand)"
+    "lastError": "owner keyword paused: Ahrefs volume 0 (≤ 10/mo, no measurable demand)"
   },
   {
     "status": "pending",
@@ -3698,8 +3699,8 @@
     "lastError": "cannibalization: \"best retractable baby gate\" overlaps \"baby gate for apartment\" (100%)"
   },
   {
-    "status": "pending",
-    "attempts": 0,
+    "status": "deferred",
+    "attempts": 1,
     "addedAt": "2026-10-19T06:42:45.519Z",
     "secondaryKeywords": [
       "best outlet covers",
@@ -3743,7 +3744,8 @@
       "baby-proofing-renter-cant-swap-outlet-plate",
       "baby-proofing-tamper-resistant-outlet-swap",
       "baby-proofing-cord-clutter-behind-furniture"
-    ]
+    ],
+    "note": "2026-10-19: top-10 pages recommend product types only, no brand/model on 2+ pages. Retry as a no-product guide or via best outlet covers."
   },
   {
     "status": "pending",

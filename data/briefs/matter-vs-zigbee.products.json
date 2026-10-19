@@ -1,0 +1,11 @@
+{
+  "products": [],
+  "serpProducts": [
+    {"name": "Apple TV 4K (Thread border router)", "pages": ["https://www.eufy.com/blogs/smart-lock/matter-vs-thread-vs-zigbee", "https://www.superbrightleds.com/blog/comparison-of-smart-home-protocols.html"]},
+    {"name": "Apple HomePod mini", "pages": ["https://www.superbrightleds.com/blog/comparison-of-smart-home-protocols.html"]},
+    {"name": "Homey Pro / Homey Pro mini / Homey Bridge", "pages": ["https://homey.app/en-us/wiki/matter-vs-zigbee-do-you-need-to-replace-anything/"]},
+    {"name": "Eve Energy", "pages": ["https://homey.app/en-us/wiki/matter-vs-zigbee-do-you-need-to-replace-anything/"]},
+    {"name": "Home Assistant Connect ZBT-1 / Home Assistant Yellow", "pages": ["https://www.seeedstudio.com/blog/2024/12/11/matter-vs-zigbee-vs-thread/"]}
+  ],
+  "note": "Product-selection rule not met: no hub, bridge or plug is recommended by 2+ top-10 pages. Only Apple TV 4K is named by 2 pages, and only in passing as a Thread border router. Pages with no products: matteralpha, aqara blog, HA forum thread. zdnet and Reddit threads could not be read (Firecrawl unsupported/unreached). products left empty on purpose."
+}

@@ -1,0 +1,12 @@
+{
+ "status": "INSUFFICIENT: 0 products qualify. The pages read from the top results for \"how to baby proof outlets in use\" recommend product TYPES (box covers, sliding plates, cord shorteners, power strip covers, TRRs) but name no brand or model, so no product is recommended by 2+ top-10 pages. Repo rule: never add a product no top-10 page recommends; a roundup needs at least 3. repo productCountFor() for this slug is 1 (how-to range 1-6). Run stopped; no products invented.",
+ "products": [],
+ "serpProducts": [],
+ "pagesRead": [
+  "https://www.mistersparky.com/expert-tips/general-electrical/child-proofing-outlets-plugs-and-cords/",
+  "https://babyproofme.com/blogs/the-parenting-journal/how-to-baby-proof-electrical-outlets-and-cords-a-comprehensive-guide",
+  "https://www.childproofingexperts.com/childproofing-outlets-in-your-home/",
+  "https://lifesupplyusa.com/blogs/news/how-to-childproof-extension-cords-and-electrical-outlets"
+ ],
+ "notRead": ["reddit r/NewParents thread (rate limited)", "esfi.org TRR page", "cpsc.gov childproofing guide", "Facebook/YouTube/Instagram/TikTok results (social/video, skipped)"]
+}
