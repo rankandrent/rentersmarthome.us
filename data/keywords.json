@@ -822,7 +822,7 @@
     "note": "2026-10-19: SERP is explainers/forums; no product recommended by 2+ top-10 pages."
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-13T20:00:47.951Z",
     "secondaryKeywords": [
@@ -857,7 +857,8 @@
       "security-false-motion-alerts",
       "security-battery-drain-cold",
       "security-no-drill-doorbell-mount"
-    ]
+    ],
+    "publishedAt": "2026-10-19T13:24:51.207Z"
   },
   {
     "status": "published",

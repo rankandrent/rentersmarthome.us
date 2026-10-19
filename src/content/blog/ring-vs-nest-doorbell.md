@@ -3,8 +3,7 @@ title: Ring vs Nest Doorbell for Renters – Which Battery Model Fits a Lease?
 seoTitle: Ring vs Nest Doorbell (2026) – 2 Battery Picks for Renters
 description: >-
   Ring vs Nest doorbell for renters, battery models only. Free alerts vs Ring
-  Protect, cold-weather battery, no-drill mounts, neighbor privacy and our
-  pick.
+  Protect, cold-weather battery, no-drill mounts, neighbor privacy and our pick.
 pubDate: '2026-10-19T21:16:00.000Z'
 category: security
 keyword: ring vs nest doorbell
@@ -39,8 +38,8 @@ readingTime: 11
 tldr:
   - >-
     For most renters on Google Home, the Nest Doorbell (Battery) gives more
-    without a plan, with free person, package and vehicle alerts plus 3 hours
-    of event history.
+    without a plan, with free person, package and vehicle alerts plus 3 hours of
+    event history.
   - >-
     Pick the Ring Battery Doorbell Plus (2nd Gen) for an Alexa home, a cold
     entrance (rated to -4 F) or a no-drill lease, since Ring sells a separate
@@ -67,17 +66,17 @@ products:
       Alexa-friendly doorbell and has no doorbell wiring.
     renterNote: >-
       For a renter with no existing doorbell wiring who is OK mounting a
-      bracket; Ring sells a separate No-Drill Mount for its 2nd-gen battery
-      doorbells if the lease bans screws. Caveat: video history, person and
-      package alerts need a paid Ring Protect plan, and without one you get live
-      view and notifications only.
+      bracket; Ring sells a separate No-Drill Mount for compatible doorbells if
+      the lease bans screws. Caveat: video history, person and package alerts
+      need a paid Ring Protect plan, and without one you get live view and
+      notifications only.
     pros:
       - >-
         Runs on a quick-release battery pack and needs no doorbell wiring; Ring
         lists about 10 minutes to install
       - >-
-        Retinal 2K video with a 140 by 140 degree head-to-toe view and
-        dual-band Wi-Fi 6
+        Retinal 2K video with a 140 by 140 degree head-to-toe view and dual-band
+        Wi-Fi 6
       - >-
         Separate No-Drill Mount and interchangeable faceplates available as
         accessories (sold separately)
@@ -141,7 +140,9 @@ products:
         - title: Need to replace the doorbell on an old house (r/smarthome)
           url: >-
             https://www.reddit.com/r/smarthome/comments/1snmma4/need_to_replace_the_doorbell_on_an_old_house/
-        - title: 'Ring Battery Doorbell Plus, Retinal 2K - customer reviews summary (Best Buy)'
+        - title: >-
+            Ring Battery Doorbell Plus, Retinal 2K - customer reviews summary
+            (Best Buy)
           url: >-
             https://www.bestbuy.com/product/ring-battery-doorbell-plus-retinal-2k-with-wide-angle-video-6x-enhanced-zoom-night-vision-quick-release-battery-nickel-silver/J39TLSRS6P
           reviews: 125
@@ -158,11 +159,11 @@ products:
       3 hours of free event history. It suits a renter who lives in Google Home
       and wants useful alerts without paying monthly.
     renterNote: >-
-      For a renter with no doorbell wires who wants smart alerts without a
-      plan. It mounts on a plate with two screws (the wedge and spacers are in
-      the box); it does not ring an existing chime unless you wire it in.
-      Caveat: it only works through the Google Home app and cannot record 24/7,
-      and owners report battery and connection problems.
+      For a renter with no doorbell wires who wants smart alerts without a plan.
+      It mounts on a plate with two screws (the wedge and spacers are in the
+      box); it does not ring an existing chime unless you wire it in. Caveat: it
+      only works through the Google Home app and cannot record 24/7, and owners
+      report battery and connection problems.
     pros:
       - >-
         Free 3 hours of event video history, plus up to 1 hour of local storage
@@ -221,14 +222,16 @@ products:
           Some say the doorbell knows who is at the door but won't say so
           without the paid plan
       sources:
-        - title: 'Nest Doorbell (Battery) customer reviews summary (Best Buy)'
+        - title: Nest Doorbell (Battery) customer reviews summary (Best Buy)
           url: >-
             https://www.bestbuy.com/product/google-nest-wi-fi-video-doorbell-battery-operated-snow/JJ8T5C79H5/sku/6473256
           reviews: 751
         - title: Why is google nest doorbell battery such a bad product (r/Nest)
           url: >-
             https://www.reddit.com/r/Nest/comments/wl9myj/why_is_google_nest_doorbell_battery_such_a_bad/
-        - title: The nest doorbell battery has to be the worst Google product (r/googlehome)
+        - title: >-
+            The nest doorbell battery has to be the worst Google product
+            (r/googlehome)
           url: >-
             https://www.reddit.com/r/googlehome/comments/1myzkxc/the_nest_doorbell_battery_has_to_be_the_worst/
         - title: Today I found out my Nest Doorbell only lasts 2-3 years (r/Nest)
@@ -296,10 +299,16 @@ faqs:
       you mount either doorbell.
   - q: Does Nest Doorbell work with Alexa?
     a: >-
-      Google sets up and controls the Nest Doorbell (Battery) only through the
-      Google Home app with a Google Account. If your apartment runs on Amazon
-      Alexa, Ring is the simpler choice because it is built for Alexa homes.
+      Google's spec sheet says voice control works with Alexa or Gemini for
+      Home, but the Nest Doorbell (Battery) is set up and managed only through
+      the Google Home app with a Google Account. If your apartment runs on
+      Amazon Alexa, Ring is the simpler choice because it is built for Alexa
+      homes.
 author: editorial-team
+heroImage: /images/featured/ring-vs-nest-doorbell.png
+heroAlt: >-
+  Ring vs Nest Doorbell for Renters – Which Battery Model Fits a Lease? –
+  RenterSmartHome comparison
 ---
 
 Ring vs Nest doorbell is the question renters type the week a package goes missing from the hallway and the lease still says nothing gets screwed into the door frame. There are no doorbell wires at the unit, the building gets cold, and the neighbor's door sits right across the hall. **For most renters in a Google Home apartment, we'd pick the [Google Nest Doorbell (Battery)](amzn:Google+Nest+Doorbell+Battery), because it gives person and package alerts plus 3 hours of history with no plan. Pick the [Ring Battery Doorbell Plus (2nd Gen)](amzn:Ring+Battery+Doorbell+Plus+2nd+Gen+Retinal+2K) if you live with Alexa, your entrance freezes, or your lease bans screws.**
@@ -314,7 +323,7 @@ One note before we start. This comparison covers the battery models only, becaus
 
 - Your home runs on Amazon Alexa, and you want the doorbell to fit that setup.
 - Your entrance gets well below freezing. Ring rates the doorbell to -4 F, and its pack slides out to charge indoors.
-- Your lease bans screws. Ring sells a separate No-Drill Mount for its 2nd-gen battery doorbells.
+- Your lease bans screws. Ring sells a separate No-Drill Mount for compatible doorbells.
 - You plan to pay for a plan anyway, so the free-tier gap doesn't matter.
 
 ### Choose Nest if...
@@ -338,7 +347,7 @@ This table compares the two battery doorbells on the specs that matter in a rent
 | Wi-Fi | Dual-band, Wi-Fi 6 | Dual-band, 2.4 GHz and 5 GHz |
 | Free with no plan | Live view, notifications, two-way talk | Person, package, vehicle alerts, 3 hours of event history |
 | Paid plan | Ring Protect | Google Home Premium |
-| App | Ring app, works with Alexa | Google Home app only |
+| App | Ring app, works with Alexa | Google Home app and Google Account (voice control with Alexa or Gemini) |
 
 ## Ring Battery Doorbell Plus vs Nest Doorbell (Battery) at a glance
 
@@ -348,7 +357,7 @@ This table compares the two battery doorbells on the specs that matter in a rent
 
 Ring's mid-range battery model records Retinal 2K video in a square 140 by 140 degree frame, so you see a visitor from head to toe and the mat below. It runs on a quick-release battery pack that charges over Micro-USB, connects on dual-band Wi-Fi 6, and Ring lists about 10 minutes to install. Ring's site now calls it the Battery Doorbell 2K Plus (2nd Gen); the original 2022 Battery Doorbell Plus is an older model, so check the listing.
 
-The catch is the free tier. Without Ring Protect you get live view, notifications and answering the door, but no saved video or photos. One r/smarthome owner put it plainly: "the subscription for recording videos is kind of annoying when you only have one camera, you can still use the doorbell without the subscription but you only get live view." ([thread](https://www.reddit.com/r/smarthome/comments/1snmma4/need_to_replace_the_doorbell_on_an_old_house/ognly8r/))
+The catch is the free tier. Without Ring Protect you get live view, notifications and answering the door, but no saved video or photos. One r/smarthome owner put it plainly: "the subscription for recording videos is kind of annoying when you only have one camera, you can still use the doorbell without the subscription but you only get live view." ([RedditRecs summary of the r/smarthome thread](https://redditrecs.com/smart-doorbell/model/ring-battery-video-doorbell-plus/))
 
 Owners on Reddit mostly praise easy setup and long charges. The same commenter runs two on battery with an indoor chime and reports 2-3 months per charge, dropping to 3-4 weeks in a Minnesota winter. Battery drain is the main complaint, though. One r/Ring poster in a Ring Plus thread wrote "My battery is never lasting more than ten days" ([thread](https://www.reddit.com/r/Ring/comments/1s8y1ee/anyone_else_experiencing_terrible_battery_life/)); the excerpt doesn't say which generation, so we treat it as one report.
 
@@ -358,15 +367,15 @@ Google's battery model takes a different approach to the porch. Its 960 x 1280 H
 
 The free tier is the reason to buy it. Person, package, animal and vehicle alerts come without a subscription, per Security.org and SafeHome, and you get 3 hours of event history. It needs the Google Home app and a Google Account, and it can't record 24/7 on any plan.
 
-Owners split hard on the battery. One r/Nest commenter says "Battery holds charge for a long time and it just works" ([thread](https://www.reddit.com/r/Nest/comments/wl9myj/why_is_google_nest_doorbell_battery_such_a_bad/)), while another poster on default settings reports "The battery died in 6 days." ([thread](https://www.reddit.com/r/Nest/comments/r8aw1t/my_nest_doorbell_battery_is_a_piece_of_crap/)). Other r/Nest owners report live-view latency, black clips and dropped signal, and one says theirs stopped after 2.5 years wired in on a covered porch.
+Owners split hard on the battery. One r/Nest commenter says "Battery holds charge for a long time and it just works" ([thread](https://www.reddit.com/r/Nest/comments/wl9myj/why_is_google_nest_doorbell_battery_such_a_bad/)), while another poster reports "The battery died in 6 days." ([thread](https://www.reddit.com/r/Nest/comments/r8aw1t/my_nest_doorbell_battery_is_a_piece_of_crap/)). Other r/Nest owners report live-view latency, black clips and dropped signal, and one says theirs only lasted 2-3 years.
 
 ### Video, field of view and night vision
 
-Ring vs Nest video is a trade-off: on paper Ring has the sharper sensor and the squarer view, while Nest has the taller frame. Ring's retail listing names night vision, and Google's spec sheet lists HDR, but neither page we read gives night-vision detail worth comparing, so we wouldn't decide on it.
+Ring vs Nest video is a trade-off: on paper Ring has the sharper sensor and the squarer view, while Nest has the taller frame. Both makers list night vision. Google's spec sheet says you can see up to 10 feet away with four 850 nm infrared LEDs, while Ring's page describes color night vision that switches to black and white in total darkness but gives no range, so we can't compare the two and wouldn't decide on it.
 
 ### Ring vs Nest smart home ecosystem (Alexa vs Google Home)
 
-Ring vs Nest is really Alexa vs Google Home. Ring is Amazon's brand and fits an Alexa home; Nest works only through the Google Home app, where Gemini features sit behind Google Home Premium. Neither doorbell is a core Matter device, so a smart home standard won't bridge the gap. We'd simply buy the doorbell that matches the speakers and displays you already own.
+Ring vs Nest is really Alexa vs Google Home. Ring is Amazon's brand and fits an Alexa home; Nest is set up and managed through the Google Home app and a Google Account, although Google's spec sheet says voice control works with Alexa or Gemini for Home, and Gemini features sit behind Google Home Premium. Neither doorbell is a core Matter device, so a smart home standard won't bridge the gap. We'd simply buy the doorbell that matches the speakers and displays you already own.
 
 ## Subscription cost: what you get with and without a plan
 
@@ -374,7 +383,7 @@ Ring vs Nest is really Alexa vs Google Home. Ring is Amazon's brand and fits an 
 
 ### Ring Protect plan vs Google Home Premium
 
-Ring renamed its Ring Home plans to Ring Protect in 2026. The Solo tier covers one device, Ring includes a 30-day trial, and billing comes monthly or yearly. The plan unlocks event video history and person and package alerts.
+Ring's plans page now calls its plans Ring Protect (it still links to the older Ring Home name). The Solo tier covers one device, Ring starts a free 30-day trial when you set up a device, and billing comes monthly or yearly. The plan unlocks event video history and person and package alerts.
 
 Google Home Premium is what Google used to call Nest Aware. Google Home Premium Standard keeps 30 days of event history, and Advanced keeps 60 days. Familiar face detection, which names regular visitors, also needs the plan; some r/Nest owners grumble that the doorbell knows who is there but won't say so for free.
 
@@ -403,7 +412,7 @@ Each doorbell runs on battery alone, and either can be wired to an 8-24 VAC door
 
 ### Ring No-Drill Mount vs Nest two-screw plate
 
-Ring sells a separate No-Drill Mount for its 2nd-gen battery doorbells. Nest mounts on a plate with two screws, and a wedge and spacers come in the box. Neither maker's spec page we read lists a no-drill option for Nest, so a no-screws lease points to Ring. Our [no-drill Ring doorbell guide for apartments](/blog/ring-doorbell-in-apartment/) walks through the options, including peephole cameras.
+Ring sells a separate No-Drill Mount for compatible doorbells; check your model is listed before you buy. Nest mounts on a plate with two screws, and a wedge and spacers come in the box. Neither maker's spec page we read lists a no-drill option for Nest, so a no-screws lease points to Ring. Our [no-drill Ring doorbell guide for apartments](/blog/ring-doorbell-in-apartment/) walks through the options, including peephole cameras.
 
 ### Restoring the door frame on move-out
 
@@ -422,9 +431,9 @@ If you did use screws, plan the exit before the install so your security deposit
 
 A lease camera clause is a recurring complaint in r/Apartmentliving and r/LandlordLove threads. One reply in [a landlord camera thread](https://www.reddit.com/r/LandlordLove/comments/1ef2zou/can_landlord_say_we_cant_have_cameras/) warns: "If there is any mention of no cameras then your landlord can enforce that however the law allows". Another, in [an apartment doorbell thread](https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/), says "Make sure it's legal and not excluded in your lease."
 
-We can't tell you whether a clause is enforceable. Read the lease, check your state and local rules, and ask in writing. Here's a short message we'd send:
+We can't tell you whether a clause is enforceable. Read the lease, check your state and local rules, and ask in writing. Here's a short message to adapt with your own details:
 
-> "Hi, I'd like to mount a battery video doorbell on my unit's door frame. It needs no wiring, it would face my door only, and I'll restore the frame when I move out. May I have your written approval?"
+> Hi [landlord name], this is [tenant name] in unit [number]. Request: approval to mount a battery video doorbell on the unit's door frame. It needs no wiring, it would face only the unit's own door, and the frame will be restored at move-out. Please reply in writing to confirm. Thank you, [tenant name]
 
 If the answer is no, an indoor camera aimed at the inside of your door does a similar job; our [Wyze vs Ring vs Eufy comparison for renters](/blog/wyze-vs-ring-vs-eufy-for-renters/) covers plug-in options.
 
@@ -453,7 +462,7 @@ Ring vs Nest batteries behave differently in the cold, though cold drains every 
 
 Not drilling is a hard rule in many buildings. A poster in [r/Ring](https://www.reddit.com/r/Ring/comments/184g6hd/what_are_your_thoughts_on_putting_up_a_ring/) noted: "No drilling required which is needed at my apartment because they don't allow drilling to the exterior." Ring's No-Drill Mount is the cleaner answer here. Neither maker's page we read lists a tamper or anti-theft mount, so in a busy lobby we'd mount inside a locked vestibule if the building allows it.
 
-> **From our notes:** When we put Ring's and Google's spec pages side by side for this comparison, we expected the video numbers to decide it. They didn't. The line that changed our thinking was in Google's specs: the Nest battery charges only above 0 C. Ring lists operation down to -4 F, and its pack comes out to charge indoors. Then we read the owner threads. A Minnesota Ring owner reported 3-4 weeks per charge in winter, while r/Nest posts ranged from long-lasting batteries to six days on default settings. For a cold building entrance, that pushed us toward Ring. For a mild climate, Nest's free alerts won.
+> **From our notes:** When we put Ring's and Google's spec pages side by side for this comparison, we expected the video numbers to decide it. They didn't. The line that changed our thinking was in Google's specs: the Nest battery charges only above 0 C. Ring lists operation down to -4 F, and its pack comes out to charge indoors. Then we read the owner threads. A Minnesota Ring owner reported 3-4 weeks per charge in winter, while r/Nest posts ranged from long-lasting batteries to six days. For a cold building entrance, that pushed us toward Ring. For a mild climate, Nest's free alerts won.
 
 ## Ring vs Nest doorbell: which should you buy?
 

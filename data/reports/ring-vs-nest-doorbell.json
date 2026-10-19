@@ -1,0 +1,479 @@
+{
+  "keyword": "ring vs nest doorbell",
+  "createdAt": "2026-10-19T13:24:51.209Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "Ring vs Nest doorbell (Ring Battery Doorbell Plus 2nd Gen vs Google Nest Doorbell Battery)",
+    "entityVariants": [
+      "ring vs nest",
+      "nest vs ring",
+      "Ring or Nest doorbell",
+      "Google Nest Doorbell vs Ring doorbell",
+      "nest doorbell vs ring doorbell",
+      "Ring vs Google Nest video doorbell"
+    ],
+    "entities": [
+      {
+        "name": "Ring Battery Doorbell Plus (2nd Gen)",
+        "type": "product",
+        "relation": "Ring's mid-range battery doorbell, Retinal 2K, 140x140 degree head-to-toe view"
+      },
+      {
+        "name": "Google Nest Doorbell (Battery)",
+        "type": "product",
+        "relation": "Google's battery doorbell, 960x1280 3:4 view, free person/package/vehicle alerts"
+      },
+      {
+        "name": "Ring Protect plan",
+        "type": "subscription",
+        "relation": "Paid plan needed for video history and person/package alerts on Ring"
+      },
+      {
+        "name": "Google Home Premium",
+        "type": "subscription",
+        "relation": "Google's paid plan for 30/60-day history and familiar-face alerts; Nest includes 3 hours free"
+      },
+      {
+        "name": "Ring No-Drill Mount",
+        "type": "accessory",
+        "relation": "Separate mount for the 2nd-gen battery doorbells when the lease bans screws"
+      },
+      {
+        "name": "Amazon Alexa",
+        "type": "platform",
+        "relation": "Ring's smart home ecosystem"
+      },
+      {
+        "name": "Google Home app / Gemini",
+        "type": "platform",
+        "relation": "The only app Nest Doorbell works with"
+      },
+      {
+        "name": "Matter",
+        "type": "protocol",
+        "relation": "Smart home standard; neither doorbell is a core Matter device, so ecosystem matters"
+      },
+      {
+        "name": "Doorbell transformer (8-24 VAC)",
+        "type": "hardware",
+        "relation": "Optional wiring; both batteries can be hardwired where wires exist"
+      },
+      {
+        "name": "Quick-release battery pack / built-in 6 Ah battery",
+        "type": "hardware",
+        "relation": "Ring swaps a pack; Nest charges in place"
+      },
+      {
+        "name": "Lease camera clause",
+        "type": "legal",
+        "relation": "Lease language that can ban doorbell cameras or cameras facing common areas"
+      },
+      {
+        "name": "Activity zones / motion zones",
+        "type": "feature",
+        "relation": "Settings that cut false motion alerts from traffic"
+      },
+      {
+        "name": "Familiar face detection",
+        "type": "feature",
+        "relation": "Nest-only AI alert, needs Google Home Premium"
+      },
+      {
+        "name": "IP rating and operating temperature",
+        "type": "spec",
+        "relation": "Ring IP55, -4 to 122 F; Nest IP54, -20 to 40 C, charging only above 0 C"
+      }
+    ],
+    "attributes": [
+      "video resolution and aspect ratio",
+      "field of view",
+      "head-to-toe view",
+      "battery life in cold weather",
+      "subscription cost",
+      "free event history",
+      "person and package alerts",
+      "install method",
+      "no-drill mount",
+      "wiring requirement",
+      "smart home ecosystem",
+      "night vision",
+      "local storage backup",
+      "privacy and neighbor recording",
+      "false motion alerts",
+      "weather rating",
+      "price"
+    ],
+    "ngrams": [
+      "ring vs nest",
+      "nest doorbell vs ring",
+      "video doorbell",
+      "battery doorbell",
+      "ring protect plan",
+      "google home premium",
+      "free event video history",
+      "person and package alerts",
+      "familiar face alerts",
+      "field of view",
+      "head to toe view",
+      "no monthly fee",
+      "without a subscription",
+      "quick release battery",
+      "cold weather battery",
+      "motion alerts",
+      "two way audio",
+      "night vision",
+      "smart home",
+      "wired or battery",
+      "no drill mount"
+    ],
+    "skipgrams": [
+      "doorbell…subscription",
+      "battery…cold",
+      "alerts…free",
+      "video…history",
+      "ring…alexa",
+      "nest…google home",
+      "mount…drill",
+      "lease…camera",
+      "motion…zones",
+      "doorbell…neighbors",
+      "battery…charge",
+      "person…package",
+      "storage…cloud",
+      "footage…saved"
+    ],
+    "nlpTerms": [
+      "Retinal 2K",
+      "3:4 aspect ratio",
+      "HDR",
+      "IP55",
+      "IP54",
+      "Wi-Fi 6",
+      "dual-band",
+      "transformer",
+      "chime",
+      "faceplate",
+      "activity zones",
+      "privacy zones",
+      "event history",
+      "cloud storage",
+      "Ring Home",
+      "Google Home Premium Standard",
+      "Alexa",
+      "Google Assistant",
+      "Gemini",
+      "Micro-USB",
+      "landlord",
+      "lease clause",
+      "common area",
+      "security deposit",
+      "hallway",
+      "peephole",
+      "two-way talk",
+      "live view",
+      "tamper",
+      "anti-theft mount",
+      "firmware",
+      "motion sensitivity",
+      "motion frequency",
+      "battery percentage",
+      "low battery",
+      "snooze"
+    ],
+    "questions": [
+      "is ring or nest doorbell better",
+      "which doorbell works without wiring",
+      "Is Ring or Google Nest better without a subscription?",
+      "Is the Google Nest Doorbell better than Ring video doorbells?",
+      "What is the difference between the Ring and Nest doorbell cameras?",
+      "Why shouldn't you get a Ring video doorbell?",
+      "Can my landlord ban a doorbell camera?",
+      "Does a Ring or Nest doorbell work without drilling?",
+      "Which battery doorbell lasts longer in cold weather?",
+      "Do Ring and Nest doorbells record my neighbors?",
+      "How do I stop false motion alerts on a battery doorbell?",
+      "Does Nest Doorbell work with Alexa?",
+      "Can I install a Ring or Nest doorbell without a doorbell wire?"
+    ],
+    "contentGaps": [
+      "No top page is written for renters: lease camera clauses, landlord approval, and a message template to ask permission",
+      "Top pages compare whole brands (Alarm systems, monitoring, ADT) rather than the two battery doorbells a renter would actually buy",
+      "No-drill mounting for each model (Ring sells a No-Drill Mount; Nest uses a two-screw plate) and how to restore the door frame on move-out",
+      "Hallway privacy: a doorbell facing a neighbor's door and how to use privacy zones or angle wedges",
+      "Cold-weather battery behavior stated by each maker's operating range, plus what to do in a cold-climate building entrance",
+      "False alert tuning: Ring motion zones vs Nest activity zones and how subscription gating changes what you get",
+      "True first-year cost: hardware plus Ring Protect or Google Home Premium, and what you keep with no plan",
+      "Several top results are outdated (CNET, PCMag, Modern Castle cover older Nest Hello and Ring Pro models)"
+    ],
+    "outline": [
+      {
+        "h2": "Ring vs Nest doorbell: the short answer for renters",
+        "intent": "Direct verdict by situation",
+        "h3": [
+          "Choose Ring if...",
+          "Choose Nest if...",
+          "Side-by-side comparison table"
+        ]
+      },
+      {
+        "h2": "Ring Battery Doorbell Plus vs Google Nest Doorbell Battery at a glance",
+        "intent": "Spec comparison of the two battery models",
+        "h3": [
+          "Video, field of view and night vision",
+          "Power and weather rating",
+          "Smart home ecosystem: Alexa vs Google Home"
+        ]
+      },
+      {
+        "h2": "Subscription cost: what you get with and without a plan",
+        "intent": "Ongoing cost comparison",
+        "h3": [
+          "Ring Protect plan vs Google Home Premium",
+          "What free Nest gives you (alerts, 3 hours of history)",
+          "First-year total cost"
+        ]
+      },
+      {
+        "h2": "Installing without wires or drilling",
+        "intent": "Renter install and mounting",
+        "h3": [
+          "Battery install and optional wiring",
+          "Ring No-Drill Mount vs Nest two-screw plate",
+          "Restoring the door frame on move-out"
+        ]
+      },
+      {
+        "h2": "Problems renters run into, and the fix",
+        "intent": "Answer the linked pain points",
+        "h3": [
+          "If your landlord bans doorbell cameras",
+          "If the doorbell records your neighbors",
+          "Cutting false motion alerts",
+          "Battery drain in cold weather",
+          "Anti-theft and no-drill mounting"
+        ]
+      },
+      {
+        "h2": "Which should you buy?",
+        "intent": "Final verdict, pros-cons per model, next steps with internal links",
+        "h3": [
+          "Ring pros and cons",
+          "Nest pros and cons",
+          "Related guides: wyze-vs-ring-vs-eufy-for-renters, ring-doorbell-in-apartment, blink-vs-ring-subscription"
+        ]
+      },
+      {
+        "h2": "Ring vs Nest doorbell FAQ",
+        "intent": "Capture PAA and long-tail questions",
+        "h3": []
+      }
+    ],
+    "targetWords": 1900,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://www.safehome.org/compare/ring-vs-nest/",
+        "https://www.security.org/home-security-systems/ring-vs-nest/",
+        "https://www.doorbellmount.com/blogs/doorbell/google-nest-doorbell-vs-ring-which-smart-doorbell-is-better"
+      ],
+      "productStyle": "pros-cons",
+      "productStyleReason": "SafeHome and Security.org give each brand short Ring and Nest blocks with a category winner and bullet lists of similarities, differences and standout features, closing with a verdict; only two products here, so a pros/cons list per model fits.",
+      "avgWords": 3000,
+      "avgProducts": 2,
+      "commonSections": [
+        "overview of similarities and differences",
+        "comparison table",
+        "pricing",
+        "features",
+        "installation",
+        "subscriptions",
+        "category winner",
+        "how to choose",
+        "FAQ"
+      ],
+      "usesComparisonTable": true,
+      "usesFaq": true,
+      "usesBuyingGuide": true
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.reddit.com/r/Nest/comments/1n8lovn/nest_vs_ring/",
+        "title": "Nest VS Ring - Reddit"
+      },
+      {
+        "position": 2,
+        "url": "https://www.safehome.org/compare/ring-vs-nest/",
+        "title": "Ring vs. Google Nest Home Security Comparison - SafeHome.org"
+      },
+      {
+        "position": 3,
+        "url": "https://www.security.org/home-security-systems/ring-vs-nest/",
+        "title": "Ring vs Nest | Which of These DIY Systems is Best? | Security.org"
+      },
+      {
+        "position": 4,
+        "url": "https://www.cnet.com/home/security/ring-vs-nest-price-durability-ai-and-more-compared/",
+        "title": "Ring vs. Nest: Price, Durability, AI and More Compared - CNET"
+      },
+      {
+        "position": 5,
+        "url": "https://www.youtube.com/watch?v=aA-Gb90BWmw",
+        "title": "Ring vs Nest: The BIGGEST Differences You Need to Know!"
+      },
+      {
+        "position": 6,
+        "url": "https://www.doorbellmount.com/blogs/doorbell/google-nest-doorbell-vs-ring-which-smart-doorbell-is-better",
+        "title": "Google Nest Doorbell vs. Ring"
+      },
+      {
+        "position": 7,
+        "url": "https://www.pcmag.com/news/nest-vs-ring-which-video-doorbell-is-right-for-you",
+        "title": "Nest vs. Ring: Which Video Doorbell Is Right for You? | PCMag"
+      },
+      {
+        "position": 8,
+        "url": "https://www.facebook.com/groups/985153748542614/posts/2875440232847280/",
+        "title": "Google nest or ring camera better? - Facebook"
+      },
+      {
+        "position": 9,
+        "url": "https://moderncastle.com/home-security/ring-vs-nest/",
+        "title": "Ring vs. Nest: Side-by-Side Comparison - Modern Castle"
+      },
+      {
+        "position": 10,
+        "url": "https://www.youtube.com/watch?v=b9egRKtRxKo",
+        "title": "Ring vs Nest vs Blink in 2026: The Subscription Math Nobody Talks ..."
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 6,
+      "withYear": 1,
+      "withNumber": 0,
+      "commonModifiers": [
+        "Ring vs Nest",
+        "Which is better / which is right for you",
+        "Comparison",
+        "Home Security",
+        "Price, Durability, AI and More"
+      ],
+      "gap": "None names the actual battery doorbells or promises a renter angle (no drilling, landlord rules, subscription cost) or a clear pick by situation."
+    },
+    "painPoints": [
+      {
+        "id": "security-landlord-bans-cameras-doorbells",
+        "pain": "Lease or landlord forbids doorbell cameras or personal cameras and renter fears enforcement",
+        "details": "Renters ask whether a lease clause banning cameras is enforceable and what happens if they install a temporary device anyway.",
+        "sources": [
+          "https://www.reddit.com/r/Apartmentliving/comments/1ebelua/ring_doorbells_not_allowed/",
+          "https://www.reddit.com/r/LandlordLove/comments/1ef2zou/can_landlord_say_we_cant_have_cameras/",
+          "https://www.reddit.com/r/legaladvicecanada/comments/1iy8q6v/is_it_legal_for_my_landlord_to_prohibit_the_use/",
+          "https://www.reddit.com/r/Ring/comments/17ct3sk/apartment_complex_wont_allow_ring_doorbell_after/",
+          "https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/"
+        ],
+        "quotes": [
+          {
+            "text": "If there is any mention of no cameras then your landlord can enforce that however the law allows",
+            "url": "https://www.reddit.com/r/LandlordLove/comments/1ef2zou/can_landlord_say_we_cant_have_cameras/"
+          },
+          {
+            "text": "Make sure it's legal and not excluded in your lease.",
+            "url": "https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/"
+          }
+        ]
+      },
+      {
+        "id": "security-doorbell-records-neighbors",
+        "pain": "Hallway doorbell cameras record neighbors, raising privacy objections",
+        "details": "Management and neighbors object that a door camera in a shared hallway captures other residents' doors.",
+        "sources": [
+          "https://www.reddit.com/r/Apartmentliving/comments/1ebelua/ring_doorbells_not_allowed/",
+          "https://www.reddit.com/r/Ring/comments/14ur9pl/ring_camera_in_apartments/",
+          "https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/"
+        ],
+        "quotes": [
+          {
+            "text": "you're likely to be recording other residents doors",
+            "url": "https://www.reddit.com/r/Apartmentliving/comments/1ebelua/ring_doorbells_not_allowed/"
+          },
+          {
+            "text": "No doorbell cams allowed in apartments here if your door faces another one.",
+            "url": "https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/"
+          }
+        ]
+      },
+      {
+        "id": "security-false-motion-alerts",
+        "pain": "Doorbell and camera send constant false motion or person alerts",
+        "details": "Owners get alerts from passing traffic or wrongly detected people and tune zones or add a second camera angle.",
+        "sources": [
+          "https://www.reddit.com/r/EufyCam/comments/j9t6ab/can_someone_tell_me_how_to_fix_these_false_human/",
+          "https://www.facebook.com/groups/ringdoorbellusersgroup/posts/1090145698003833/",
+          "https://www.nytimes.com/wirecutter/reviews/best-smart-doorbell-camera/"
+        ],
+        "quotes": [
+          {
+            "text": "The last two weeks I've been getting false motion sensor alarms.",
+            "url": "https://www.facebook.com/groups/ringdoorbellusersgroup/posts/1090145698003833/"
+          }
+        ]
+      },
+      {
+        "id": "security-battery-drain-cold",
+        "pain": "Battery doorbell drains fast or shuts off in cold weather",
+        "details": "Owners see battery drop quickly after install and manufacturers confirm cold limits.",
+        "sources": [
+          "https://service.eufy.com/article-description/Does-cold-weather-impact-eufy-Battery-Powered-Video-Doorbell",
+          "https://community.arlo.com/t5/Arlo-Video-Doorbell-Wire-Free/Poor-Battery-Life-new-Wire-Free-Doorbell/td-p/1804027",
+          "https://cpisecurity.com/blog/how-cold-weather-affects-your-cpi-security-devices/"
+        ],
+        "quotes": [
+          {
+            "text": "First 24 hours installed battery discharged from 99% to 77%.",
+            "url": "https://community.arlo.com/t5/Arlo-Video-Doorbell-Wire-Free/Poor-Battery-Life-new-Wire-Free-Doorbell/td-p/1804027"
+          },
+          {
+            "text": "Cold weather can drain batteries, fog up lenses, and trigger false alarms.",
+            "url": "https://cpisecurity.com/blog/how-cold-weather-affects-your-cpi-security-devices/"
+          }
+        ]
+      },
+      {
+        "id": "security-no-drill-doorbell-mount",
+        "pain": "Renters cannot drill the door or exterior wall to mount a doorbell camera",
+        "details": "Renters need tape, clip-on or door-frame mounts that leave no marks; some buildings forbid drilling on the exterior.",
+        "sources": [
+          "https://www.reddit.com/r/Ring/comments/184g6hd/what_are_your_thoughts_on_putting_up_a_ring/",
+          "https://gatewise.com/blog/ring-doorbell-for-apartments",
+          "https://www.youtube.com/watch?v=FH6RPHb8ykk"
+        ],
+        "quotes": [
+          {
+            "text": "No drilling required which is needed at my apartment because they don't allow drilling to the exterior.",
+            "url": "https://www.reddit.com/r/Ring/comments/184g6hd/what_are_your_thoughts_on_putting_up_a_ring/"
+          }
+        ]
+      }
+    ],
+    "internalLinks": [
+      "wyze-vs-ring-vs-eufy-for-renters",
+      "ring-doorbell-in-apartment",
+      "blink-vs-ring-subscription"
+    ]
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "wyze-vs-ring-vs-eufy-for-renters",
+      "mode": "related-box"
+    },
+    {
+      "slug": "blink-vs-ring-subscription",
+      "mode": "related-box"
+    },
+    {
+      "slug": "ring-doorbell-in-apartment",
+      "mode": "related-box"
+    }
+  ]
+}
