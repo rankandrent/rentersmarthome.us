@@ -6,9 +6,9 @@
 //    an Owner of the Search Console property). Google's Indexing API is NOT
 //    used: Google only permits it for job-posting and livestream pages.
 // Failures are logged, never fatal: indexing pings must not break deploys.
-import crypto from 'node:crypto';
 import { SITE } from '../agents/lib/config.mjs';
 import { listPosts, listTranslations } from '../agents/lib/store.mjs';
+import { googleAccessToken } from '../agents/lib/google.mjs';
 
 const { indexNowKey, gscSiteUrl, recentDays } = SITE.indexing;
 const host = new URL(SITE.url).host;
@@ -35,26 +35,6 @@ async function indexNow(urlList) {
     signal: AbortSignal.timeout(20000),
   });
   console.log(`IndexNow: HTTP ${res.status} for ${urlList.length} URLs`);
-}
-
-async function googleAccessToken(sa) {
-  const b64 = (o) => Buffer.from(JSON.stringify(o)).toString('base64url');
-  const now = Math.floor(Date.now() / 1000);
-  const unsigned = `${b64({ alg: 'RS256', typ: 'JWT' })}.${b64({
-    iss: sa.client_email,
-    scope: 'https://www.googleapis.com/auth/webmasters',
-    aud: 'https://oauth2.googleapis.com/token',
-    iat: now,
-    exp: now + 3600,
-  })}`;
-  const sig = crypto.createSign('RSA-SHA256').update(unsigned).sign(sa.private_key, 'base64url');
-  const res = await fetch('https://oauth2.googleapis.com/token', {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-    body: new URLSearchParams({ grant_type: 'urn:ietf:params:oauth:grant-type:jwt-bearer', assertion: `${unsigned}.${sig}` }),
-  });
-  if (!res.ok) throw new Error(`token ${res.status}: ${(await res.text()).slice(0, 200)}`);
-  return (await res.json()).access_token;
 }
 
 async function submitSitemap() {
