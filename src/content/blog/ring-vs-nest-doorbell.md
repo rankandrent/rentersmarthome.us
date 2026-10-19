@@ -297,7 +297,7 @@ sources:
   - title: Nest Doorbell tech specs (Google Store)
     url: 'https://store.google.com/product/nest_doorbell_specs?hl=en-US'
   - title: Nest Doorbell (battery) battery life (Google Help)
-    url: 'https://support.google.com/googlehome/answer/10901611'
+    url: 'https://support.google.com/googlehome/answer/10901611?hl=en'
   - title: Ring vs. Google Nest comparison (SafeHome.org)
     url: 'https://www.safehome.org/compare/ring-vs-nest/'
   - title: Ring vs Nest (Security.org)
@@ -497,7 +497,7 @@ Constant alerts from passersby are a common complaint in Ring user groups. One m
 
 Ring vs Nest batteries behave differently in the cold, though cold drains every battery doorbell, which security installer CPI warns about in [its winter guide](https://cpisecurity.com/blog/how-cold-weather-affects-your-cpi-security-devices/): "Cold weather can drain batteries, fog up lenses, and trigger false alarms." Ring rates its doorbell down to -4 F, and the quick-release pack charges indoors. Google rates the Nest to -20 C but says it charges only above 0 C, so it can't recharge in a freezing entrance.
 
-[Google's battery guidance](https://support.google.com/googlehome/answer/10901611) puts typical life at about 2.5 months at 13-16 events a day and about 6 months at 2-5 events a day. Busy hallways mean more events. Watch the battery percentage in the app, act on the low battery warning before a cold snap, and wire either model if the building already has doorbell wires and approves it.
+[Google's battery guidance](https://support.google.com/googlehome/answer/10901611?hl=en) puts typical life at about 2.5 months at 13-16 events a day and about 6 months at 2-5 events a day. Busy hallways mean more events. Watch the battery percentage in the app, act on the low battery warning before a cold snap, and wire either model if the building already has doorbell wires and approves it.
 
 ### Anti-theft and no-drill mounting
 

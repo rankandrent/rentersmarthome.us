@@ -1,10 +1,8 @@
 {
   "slug": "ring-vs-nest-doorbell",
-  "pass": false,
-  "checkedAt": "2026-10-19T13:43:03.420Z",
-  "errors": [
-    "source returns 404: https://support.google.com/googlehome/answer/10901611"
-  ],
+  "pass": true,
+  "checkedAt": "2026-10-19T20:03:23.474Z",
+  "errors": [],
   "warnings": [],
   "factCheck": {
     "verified": true,

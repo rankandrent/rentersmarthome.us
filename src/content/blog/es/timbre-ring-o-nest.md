@@ -317,7 +317,7 @@ sources:
   - title: Nest Doorbell tech specs (Google Store)
     url: 'https://store.google.com/product/nest_doorbell_specs?hl=en-US'
   - title: Nest Doorbell (battery) battery life (Google Help)
-    url: 'https://support.google.com/googlehome/answer/10901611'
+    url: 'https://support.google.com/googlehome/answer/10901611?hl=en'
   - title: Ring vs. Google Nest comparison (SafeHome.org)
     url: 'https://www.safehome.org/compare/ring-vs-nest/'
   - title: Ring vs Nest (Security.org)
@@ -519,7 +519,7 @@ Las alertas constantes por la gente que pasa son una queja habitual en los grupo
 
 Las baterías de Ring y Nest se comportan de forma distinta con frío, aunque el frío vacía cualquier timbre de batería, algo sobre lo que avisa la empresa de instalaciones de seguridad CPI en [su guía de invierno (en inglés)](https://cpisecurity.com/blog/how-cold-weather-affects-your-cpi-security-devices/): «El frío puede agotar las baterías, empañar las lentes y provocar falsas alarmas». Ring indica que su timbre funciona hasta -20 °C (-4 °F), y la batería extraíble se carga dentro de casa. Google indica que el Nest funciona hasta -20 °C, pero que solo carga por encima de 0 °C (32 °F), así que en una entrada helada no puede recargarse.
 
-[Las indicaciones de Google sobre la batería (en inglés)](https://support.google.com/googlehome/answer/10901611) sitúan la duración típica en unos 2,5 meses con 13-16 eventos al día y unos 6 meses con 2-5 eventos al día. Un rellano con mucho paso significa más eventos. Vigila el porcentaje de batería en la app, haz caso al aviso de batería baja antes de una ola de frío y cablea cualquiera de los dos modelos si el edificio ya tiene cables de timbre y lo aprueba.
+[Las indicaciones de Google sobre la batería (en inglés)](https://support.google.com/googlehome/answer/10901611?hl=en) sitúan la duración típica en unos 2,5 meses con 13-16 eventos al día y unos 6 meses con 2-5 eventos al día. Un rellano con mucho paso significa más eventos. Vigila el porcentaje de batería en la app, haz caso al aviso de batería baja antes de una ola de frío y cablea cualquiera de los dos modelos si el edificio ya tiene cables de timbre y lo aprueba.
 
 ### Antirrobo y montaje sin taladrar
 

@@ -314,7 +314,7 @@ sources:
   - title: Nest Doorbell tech specs (Google Store)
     url: 'https://store.google.com/product/nest_doorbell_specs?hl=en-US'
   - title: Nest Doorbell (battery) battery life (Google Help)
-    url: 'https://support.google.com/googlehome/answer/10901611'
+    url: 'https://support.google.com/googlehome/answer/10901611?hl=en'
   - title: Ring vs. Google Nest comparison (SafeHome.org)
     url: 'https://www.safehome.org/compare/ring-vs-nest/'
   - title: Ring vs Nest (Security.org)
@@ -517,7 +517,7 @@ Ständige Alarme durch Vorbeigehende sind eine häufige Klage in Ring-Nutzergrup
 
 Die Akkus von Ring und Nest verhalten sich in der Kälte unterschiedlich, auch wenn Kälte jede Akku-Türklingel leert, wovor der Sicherheitsinstallateur CPI in [seinem Winterratgeber (auf Englisch)](https://cpisecurity.com/blog/how-cold-weather-affects-your-cpi-security-devices/) warnt: „Kaltes Wetter kann Batterien leeren, Linsen beschlagen lassen und Fehlalarme auslösen.“ Ring gibt seine Klingel bis -20 °C (-4 °F) an, und der Schnellwechsel-Akku lädt drinnen. Google gibt die Nest bis -20 °C an, sagt aber, dass sie nur über 0 °C (32 °F) lädt; in einem frostigen Eingang kann sie sich also nicht aufladen.
 
-[Googles Hinweise zum Akku (auf Englisch)](https://support.google.com/googlehome/answer/10901611) nennen eine typische Laufzeit von etwa 2,5 Monaten bei 13-16 Ereignissen pro Tag und etwa 6 Monaten bei 2-5 Ereignissen pro Tag. Belebte Hausflure bedeuten mehr Ereignisse. Behalte den Akkustand in der App im Blick, reagier auf die Warnung bei niedrigem Akku vor einer Kältewelle, und verkabel eines der beiden Modelle, wenn das Gebäude schon Klingelkabel hat und zustimmt.
+[Googles Hinweise zum Akku (auf Englisch)](https://support.google.com/googlehome/answer/10901611?hl=en) nennen eine typische Laufzeit von etwa 2,5 Monaten bei 13-16 Ereignissen pro Tag und etwa 6 Monaten bei 2-5 Ereignissen pro Tag. Belebte Hausflure bedeuten mehr Ereignisse. Behalte den Akkustand in der App im Blick, reagier auf die Warnung bei niedrigem Akku vor einer Kältewelle, und verkabel eines der beiden Modelle, wenn das Gebäude schon Klingelkabel hat und zustimmt.
 
 ### Diebstahlschutz und Montage ohne Bohren
 

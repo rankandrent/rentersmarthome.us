@@ -314,7 +314,7 @@ sources:
   - title: Nest Doorbell tech specs (Google Store)
     url: 'https://store.google.com/product/nest_doorbell_specs?hl=en-US'
   - title: Nest Doorbell (battery) battery life (Google Help)
-    url: 'https://support.google.com/googlehome/answer/10901611'
+    url: 'https://support.google.com/googlehome/answer/10901611?hl=en'
   - title: Ring vs. Google Nest comparison (SafeHome.org)
     url: 'https://www.safehome.org/compare/ring-vs-nest/'
   - title: Ring vs Nest (Security.org)
@@ -517,7 +517,7 @@ Constante meldingen door voorbijgangers zijn een veelgehoorde klacht in Ring-geb
 
 De accu's van Ring en Nest gedragen zich anders in de kou, al trekt kou elke accudeurbel leeg, waar beveiligingsinstallateur CPI voor waarschuwt in [zijn wintergids (in het Engels)](https://cpisecurity.com/blog/how-cold-weather-affects-your-cpi-security-devices/): "Koud weer kan accu's leegtrekken, lenzen laten beslaan en valse alarmen veroorzaken." Ring geeft zijn deurbel op tot -20 °C (-4 °F), en het snel uitneembare accupack laad je binnen op. Google geeft de Nest op tot -20 °C, maar zegt dat hij alleen boven 0 °C (32 °F) laadt, dus in een vriezende entree kan hij niet bijladen.
 
-[Google's uitleg over de accu (in het Engels)](https://support.google.com/googlehome/answer/10901611) noemt een gebruikelijke accuduur van ongeveer 2,5 maanden bij 13-16 gebeurtenissen per dag en ongeveer 6 maanden bij 2-5 gebeurtenissen per dag. Drukke gangen betekenen meer gebeurtenissen. Houd het accupercentage in de app in de gaten, reageer op de waarschuwing voor een bijna lege accu vóór een koudegolf, en bedraad een van beide modellen als het gebouw al deurbeldraden heeft en daar toestemming voor geeft.
+[Google's uitleg over de accu (in het Engels)](https://support.google.com/googlehome/answer/10901611?hl=en) noemt een gebruikelijke accuduur van ongeveer 2,5 maanden bij 13-16 gebeurtenissen per dag en ongeveer 6 maanden bij 2-5 gebeurtenissen per dag. Drukke gangen betekenen meer gebeurtenissen. Houd het accupercentage in de app in de gaten, reageer op de waarschuwing voor een bijna lege accu vóór een koudegolf, en bedraad een van beide modellen als het gebouw al deurbeldraden heeft en daar toestemming voor geeft.
 
 ### Diefstalbeveiliging en montage zonder boren
 
