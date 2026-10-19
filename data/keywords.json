@@ -727,7 +727,7 @@
     "funnel": "mofu",
     "workingTitle": "Ring vs Blink for Renters: Which Camera System Should You Choose?",
     "cluster": "apartment security",
-    "rationale": "150/mo, KD 0, TP 1.7k (Ahrefs); ≤250 long-tail rule",
+    "rationale": "150/mo, KD 0, TP 1.7k (Ahrefs); \u2264250 long-tail rule",
     "ahrefs": {
       "volume": 150,
       "kd": 0,
@@ -797,7 +797,7 @@
     "articleType": "comparison",
     "intent": "informational",
     "funnel": "mofu",
-    "workingTitle": "Matter vs Zigbee (2026) – What Renters Should Buy",
+    "workingTitle": "Matter vs Zigbee (2026) \u2013 What Renters Should Buy",
     "cluster": "voice assistants",
     "rationale": "400/mo, KD 0 (Ahrefs)",
     "ahrefs": {
@@ -1231,7 +1231,7 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     },
-    "lastError": "owner keyword paused: Ahrefs volume 0 (≤ 10/mo, no measurable demand)"
+    "lastError": "owner keyword paused: Ahrefs volume 0 (\u2264 10/mo, no measurable demand)"
   },
   {
     "status": "published",
@@ -1712,7 +1712,7 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     },
-    "lastError": "owner keyword paused: Ahrefs volume 10 (≤ 10/mo, no measurable demand)"
+    "lastError": "owner keyword paused: Ahrefs volume 10 (\u2264 10/mo, no measurable demand)"
   },
   {
     "status": "parked",
@@ -1736,7 +1736,7 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     },
-    "lastError": "owner keyword paused: Ahrefs volume 0 (≤ 10/mo, no measurable demand)"
+    "lastError": "owner keyword paused: Ahrefs volume 0 (\u2264 10/mo, no measurable demand)"
   },
   {
     "status": "pending",
@@ -2623,7 +2623,7 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     },
-    "lastError": "owner keyword paused: Ahrefs volume 10 (≤ 10/mo, no measurable demand)"
+    "lastError": "owner keyword paused: Ahrefs volume 10 (\u2264 10/mo, no measurable demand)"
   },
   {
     "status": "pending",
@@ -2739,7 +2739,7 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     },
-    "lastError": "owner keyword paused: Ahrefs volume 10 (≤ 10/mo, no measurable demand)"
+    "lastError": "owner keyword paused: Ahrefs volume 10 (\u2264 10/mo, no measurable demand)"
   },
   {
     "status": "pending",
@@ -2924,7 +2924,7 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     },
-    "lastError": "owner keyword paused: Ahrefs volume 0 (≤ 10/mo, no measurable demand)"
+    "lastError": "owner keyword paused: Ahrefs volume 0 (\u2264 10/mo, no measurable demand)"
   },
   {
     "status": "pending",
@@ -3705,7 +3705,14 @@
       "best outlet covers",
       "baby proof outlets and cords"
     ],
-    "questions": [],
+    "questions": [
+      "How do you baby proof an outlet that is in use?",
+      "Are outlet plug covers safe for babies?",
+      "Do tamper-resistant outlets make outlet covers unnecessary?",
+      "How do I stop my toddler from pulling a plug out of the wall?",
+      "What outlet cover fits a bulky plug or recessed outlet?",
+      "Can renters replace outlets or wall plates without the landlord?"
+    ],
     "priority": 6,
     "keyword": "how to baby proof outlets in use",
     "category": "baby-proofing",
