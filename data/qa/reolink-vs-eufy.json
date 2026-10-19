@@ -1,10 +1,14 @@
 {
   "slug": "reolink-vs-eufy",
-  "pass": true,
-  "checkedAt": "2026-10-19T14:30:33.977Z",
-  "errors": [],
+  "pass": false,
+  "checkedAt": "2026-10-19T14:45:16.533Z",
+  "errors": [
+    "source returns 404: https://reolink.com/us/product/argus-4-pro/"
+  ],
   "warnings": [
-    "product \"Reolink Argus 4 Pro\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "product \"Reolink Argus 4 Pro\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "source didn't respond normally (403): https://cpisecurity.com/blog/how-cold-weather-affects-your-cpi-security-devices/",
+    "product \"Reolink Argus 4 Pro\" (B0F189FV7K) is no longer returned by Amazon"
   ],
   "factCheck": {
     "verified": true,

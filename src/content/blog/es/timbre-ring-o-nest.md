@@ -3,7 +3,8 @@ title: Timbre Ring o Nest para inquilinos – ¿qué modelo de batería elegir?
 seoTitle: Timbre Ring o Nest (2026) – 2 modelos de batería para pisos
 description: >-
   Timbre Ring o Nest para inquilinos, solo modelos de batería. Alertas gratis
-  frente a Ring Protect, batería con frío, montaje sin taladrar y nuestra elección.
+  frente a Ring Protect, batería con frío, montaje sin taladrar y nuestra
+  elección.
 pubDate: '2026-10-20T02:20:00.000Z'
 lang: es
 translationOf: ring-vs-nest-doorbell
@@ -154,6 +155,27 @@ products:
           url: >-
             https://www.bestbuy.com/product/ring-battery-doorbell-plus-retinal-2k-with-wide-angle-video-6x-enhanced-zoom-night-vision-quick-release-battery-nickel-silver/J39TLSRS6P
           reviews: 125
+    amazonTitle: >-
+      Ring Battery Doorbell 2K Plus (newest model), Retinal 2K with wide-angle
+      video, up to 6x Enhanced Zoom, Night Vision, and Quick Release Battery
+      Pack, Nickel Silver
+    image:
+      url: 'https://m.media-amazon.com/images/I/21cCd+4Xj0L._SL500_.jpg'
+      width: 313
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31oCryIiXYL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/4137cOc73LL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41JQShm1RjL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41S4LyzDeOL._SL500_.jpg'
+        width: 313
+        height: 500
   - name: Google Nest Doorbell (Battery)
     brand: Google
     query: Google Nest Doorbell Battery
@@ -192,7 +214,9 @@ products:
         alertas de caras conocidas y las funciones de Gemini requieren un plan
         Google Home Premium
     specs:
-      Video: 'HD, 960 x 1280, hasta 30 FPS, HDR, zoom digital de 6 aumentos, formato 3:4'
+      Video: >-
+        HD, 960 x 1280, hasta 30 FPS, HDR, zoom digital de 6 aumentos, formato
+        3:4
       Field of view: 145 grados en diagonal
       Power: >-
         Batería recargable de iones de litio de 6 Ah integrada, carga por cable;
@@ -225,12 +249,16 @@ products:
         - >-
           Las opiniones en tiendas elogian la calidad de vídeo, la instalación
           sencilla y el campo de visión
-        - Las alertas gratis de personas y paquetes reducen el ruido de notificaciones
+        - >-
+          Las alertas gratis de personas y paquetes reducen el ruido de
+          notificaciones
       complaints:
         - >-
           Batería: los relatos van de pocos días en una calle concurrida a una
           batería que falló a los 2-3 años estando cableado
-        - 'Retraso en la vista en directo, clips en negro y conexiones caídas en algunas casas'
+        - >-
+          Retraso en la vista en directo, clips en negro y conexiones caídas en
+          algunas casas
         - >-
           Hay quien dice que el timbre sabe quién está en la puerta pero no lo
           dice sin el plan de pago
@@ -259,6 +287,26 @@ products:
         - title: My Nest Doorbell Battery is a piece of crap (r/Nest)
           url: >-
             https://www.reddit.com/r/Nest/comments/r8aw1t/my_nest_doorbell_battery_is_a_piece_of_crap/
+    amazonTitle: >-
+      Google Nest Doorbell (Battery) - Snow | 6x digital zoom video doorbell,
+      HD, 24/7 live view, Night vision, HDR, works with Google Home & Gemini
+    image:
+      url: 'https://m.media-amazon.com/images/I/21in0ahznSL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/21seeO+bTHL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/21sF-XD7qQL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/21xek-iTIBL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/21yxc+0A38L._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: Ring Battery Doorbell Plus (2nd Gen) product page (Ring)
     url: 'https://ring.com/products/battery-doorbell-plus-2nd-gen'
@@ -279,27 +327,26 @@ sources:
       https://www.doorbellmount.com/blogs/doorbell/google-nest-doorbell-vs-ring-which-smart-doorbell-is-better
 reviewedDate: '2026-10-19'
 faqs:
-  - q: ¿Qué timbre es mejor para inquilinos, Ring o Nest?
+  - q: '¿Qué timbre es mejor para inquilinos, Ring o Nest?'
     a: >-
       Entre los dos modelos de batería, el Nest Doorbell (Battery) ofrece más
       sin plan, con alertas de personas y paquetes y 3 horas de historial de
       eventos. El Ring Battery Doorbell Plus (2nd Gen) encaja mejor en casas con
       Alexa, entradas frías y contratos que prohíben tornillos, porque Ring
       vende un No-Drill Mount.
-  - q: ¿Qué es mejor sin suscripción, Ring o Google Nest?
+  - q: '¿Qué es mejor sin suscripción, Ring o Google Nest?'
     a: >-
       Nest. Sin plan, Ring te da vista en directo, notificaciones y la opción de
       responder por audio bidireccional, pero no guarda vídeo. Nest conserva 3
-      horas de historial de eventos y envía gratis alertas de personas,
-      paquetes y vehículos; Google Home Premium solo añade más historial y
-      alertas de caras conocidas.
+      horas de historial de eventos y envía gratis alertas de personas, paquetes
+      y vehículos; Google Home Premium solo añade más historial y alertas de
+      caras conocidas.
   - q: ¿Qué timbre con cámara funciona sin cables?
     a: >-
       Los dos. El Ring Battery Doorbell Plus (2nd Gen) funciona con una batería
       extraíble y el Nest Doorbell (Battery) con una batería integrada de 6 Ah.
-      Ambos se pueden conectar también a un transformador de timbre de 8-24
-      VAC, pero el Nest no hace sonar un timbre existente salvo que esté
-      cableado.
+      Ambos se pueden conectar también a un transformador de timbre de 8-24 VAC,
+      pero el Nest no hace sonar un timbre existente salvo que esté cableado.
   - q: ¿Qué timbre de batería aguanta mejor el frío?
     a: >-
       Ring indica que su timbre funciona hasta -20 °C (-4 °F) y puedes sacar la

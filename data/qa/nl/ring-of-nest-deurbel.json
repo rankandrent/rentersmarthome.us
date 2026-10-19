@@ -2,9 +2,12 @@
   "slug": "nl/ring-of-nest-deurbel",
   "lang": "nl",
   "translationOf": "ring-vs-nest-doorbell",
-  "pass": true,
-  "checkedAt": "2026-10-19T14:28:58.278Z",
-  "errors": [],
+  "pass": false,
+  "checkedAt": "2026-10-19T14:51:22.817Z",
+  "errors": [
+    "English post \"ring-vs-nest-doorbell\" doesn't pass QA, so it can't be translated yet",
+    "source returns 404: https://support.google.com/googlehome/answer/10901611"
+  ],
   "warnings": [],
   "factCheck": {
     "verified": true,

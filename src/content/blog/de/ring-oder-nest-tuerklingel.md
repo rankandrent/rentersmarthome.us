@@ -2,8 +2,8 @@
 title: Ring oder Nest Türklingel für Mieter – welches Akku-Modell passt?
 seoTitle: Ring oder Nest Türklingel (2026) – 2 Akku-Modelle für Mieter
 description: >-
-  Ring oder Nest Türklingel für Mieter, nur Akku-Modelle. Gratis-Alarme vs.
-  Ring Protect, Akku bei Kälte, Montage ohne Bohren, Nachbarn und unsere Wahl.
+  Ring oder Nest Türklingel für Mieter, nur Akku-Modelle. Gratis-Alarme vs. Ring
+  Protect, Akku bei Kälte, Montage ohne Bohren, Nachbarn und unsere Wahl.
 pubDate: '2026-10-20T01:50:00.000Z'
 lang: de
 translationOf: ring-vs-nest-doorbell
@@ -89,15 +89,15 @@ products:
         Ring-Protect-Abo; Besitzer finden ein Abo für eine einzige Kamera schwer
         zu rechtfertigen
       - >-
-        Die Akkulaufzeit schwankt mit Wetter und Betrieb: Besitzer berichten
-        von wenigen Wochen in kaltem Klima, manche von sehr kurzen Ladungen
+        Die Akkulaufzeit schwankt mit Wetter und Betrieb: Besitzer berichten von
+        wenigen Wochen in kaltem Klima, manche von sehr kurzen Ladungen
     specs:
       Video: 'Retinal 2K, bis zu 6-fach Enhanced Zoom'
       Field of view: 140 Grad horizontal x 140 Grad vertikal (Kopf bis Fuß)
       Power: >-
         Schnellwechsel-Akku (Quick Release Battery Pack), Laden per Micro-USB;
         kann auch an einen 8-24-VAC-Klingeltrafo angeschlossen werden
-      Wi-Fi: Dualband 2,4 GHz / 5 GHz (Wi-Fi 6)
+      Wi-Fi: 'Dualband 2,4 GHz / 5 GHz (Wi-Fi 6)'
       Weather rating: 'IP55, Betrieb von -20 °C bis 50 °C (-4 °F bis 122 °F)'
       Size: '14,7 x 5,4 x 3,4 cm (5.8 x 2.11 x 1.34 in)'
       Subscription: >-
@@ -111,8 +111,8 @@ products:
       portability: 7
     scoreNote: >-
       Akkubetrieb und Montage per Halterung bedeuten keine Verkabelung; die
-      Schraubenlöcher und das kostenpflichtige Ring-Protect-Abo für
-      gespeicherte Videos drücken Rückbaubarkeit und Preis-Leistung.
+      Schraubenlöcher und das kostenpflichtige Ring-Protect-Abo für gespeicherte
+      Videos drücken Rückbaubarkeit und Preis-Leistung.
     owners:
       read: 5
       praise:
@@ -131,8 +131,8 @@ products:
           Akkuverbrauch: Kalte Winter verkürzen eine Ladung auf 3-4 Wochen, ein
           Nutzer berichtet von unter zehn Tagen
         - >-
-          Abhängig von WLAN und Cloud; manche Besitzer sagen, die Zuverlässigkeit
-          leidet bei schwachem Signal
+          Abhängig von WLAN und Cloud; manche Besitzer sagen, die
+          Zuverlässigkeit leidet bei schwachem Signal
       sources:
         - title: >-
             Reddit recommendations for Ring Battery Doorbell Plus (RedditRecs
@@ -153,6 +153,27 @@ products:
           url: >-
             https://www.bestbuy.com/product/ring-battery-doorbell-plus-retinal-2k-with-wide-angle-video-6x-enhanced-zoom-night-vision-quick-release-battery-nickel-silver/J39TLSRS6P
           reviews: 125
+    amazonTitle: >-
+      Ring Battery Doorbell 2K Plus (newest model), Retinal 2K with wide-angle
+      video, up to 6x Enhanced Zoom, Night Vision, and Quick Release Battery
+      Pack, Nickel Silver
+    image:
+      url: 'https://m.media-amazon.com/images/I/21cCd+4Xj0L._SL500_.jpg'
+      width: 313
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31oCryIiXYL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/4137cOc73LL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41JQShm1RjL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41S4LyzDeOL._SL500_.jpg'
+        width: 313
+        height: 500
   - name: Google Nest Doorbell (Battery)
     brand: Google
     query: Google Nest Doorbell Battery
@@ -177,8 +198,8 @@ products:
         Kostenlos 3 Stunden Ereignisvideo-Verlauf, dazu bis zu 1 Stunde lokaler
         Speicher, falls das WLAN ausfällt (Google)
       - >-
-        Hohes 960-x-1280-Bild mit 145 Grad diagonalem Sichtfeld zeigt Pakete
-        vor der Tür
+        Hohes 960-x-1280-Bild mit 145 Grad diagonalem Sichtfeld zeigt Pakete vor
+        der Tür
       - >-
         Smarte Alarme für Personen, Pakete, Tiere und Fahrzeuge sind laut
         security.org und SafeHome ohne Abo enthalten
@@ -191,12 +212,14 @@ products:
         Alarme für bekannte Gesichter und Gemini-Funktionen brauchen ein Google
         Home Premium Abo
     specs:
-      Video: 'HD, 960 x 1280, bis zu 30 FPS, HDR, 6-fach Digitalzoom, Seitenverhältnis 3:4'
+      Video: >-
+        HD, 960 x 1280, bis zu 30 FPS, HDR, 6-fach Digitalzoom, Seitenverhältnis
+        3:4
       Field of view: 145 Grad diagonal
       Power: >-
         Eingebauter wiederaufladbarer 6-Ah-Li-Ionen-Akku, Laden per Kabel;
         optional Anschluss an einen 8-24-VAC-Trafo mit 10 VA
-      Wi-Fi: Dualband 2,4 GHz / 5 GHz
+      Wi-Fi: 'Dualband 2,4 GHz / 5 GHz'
       Weather rating: >-
         IP54, Betrieb von -20 °C bis 40 °C (-4 °F bis 104 °F), Laden nur über 0
         °C (32 °F)
@@ -223,12 +246,16 @@ products:
         - >-
           Bewertungen bei Händlern loben Bildqualität, einfache Installation und
           das Sichtfeld
-        - Kostenlose Personen- und Paketalarme reduzieren die Benachrichtigungsflut
+        - >-
+          Kostenlose Personen- und Paketalarme reduzieren die
+          Benachrichtigungsflut
       complaints:
         - >-
           Akkulaufzeit: Berichte reichen von wenigen Tagen an einer belebten
           Straße bis zu einem Akku, der verkabelt nach 2-3 Jahren ausfiel
-        - 'Verzögerte Live-Ansicht, schwarze Clips und Verbindungsabbrüche in manchen Wohnungen'
+        - >-
+          Verzögerte Live-Ansicht, schwarze Clips und Verbindungsabbrüche in
+          manchen Wohnungen
         - >-
           Manche sagen, die Klingel weiß, wer vor der Tür steht, verrät es aber
           ohne Abo nicht
@@ -257,6 +284,26 @@ products:
         - title: My Nest Doorbell Battery is a piece of crap (r/Nest)
           url: >-
             https://www.reddit.com/r/Nest/comments/r8aw1t/my_nest_doorbell_battery_is_a_piece_of_crap/
+    amazonTitle: >-
+      Google Nest Doorbell (Battery) - Snow | 6x digital zoom video doorbell,
+      HD, 24/7 live view, Night vision, HDR, works with Google Home & Gemini
+    image:
+      url: 'https://m.media-amazon.com/images/I/21in0ahznSL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/21seeO+bTHL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/21sF-XD7qQL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/21xek-iTIBL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/21yxc+0A38L._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: Ring Battery Doorbell Plus (2nd Gen) product page (Ring)
     url: 'https://ring.com/products/battery-doorbell-plus-2nd-gen'
@@ -282,9 +329,9 @@ faqs:
       Unter den beiden Akku-Modellen bietet die Nest Doorbell (Battery) ohne Abo
       mehr, darunter Personen- und Paketalarme und 3 Stunden Ereignisverlauf.
       Die Ring Battery Doorbell Plus (2nd Gen) passt besser zu Alexa-Haushalten,
-      kalten Eingängen und Mietverträgen, die Schrauben verbieten, weil Ring eine
-      No-Drill Mount verkauft.
-  - q: Was ist ohne Abo besser, Ring oder Google Nest?
+      kalten Eingängen und Mietverträgen, die Schrauben verbieten, weil Ring
+      eine No-Drill Mount verkauft.
+  - q: 'Was ist ohne Abo besser, Ring oder Google Nest?'
     a: >-
       Nest. Ohne Abo bekommst du bei Ring Live-Ansicht, Benachrichtigungen und
       kannst per Gegensprechen antworten, aber es wird kein Video gespeichert.

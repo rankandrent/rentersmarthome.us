@@ -113,8 +113,8 @@ products:
       compatibility: 7
       portability: 7
     scoreNote: >-
-      Accuvoeding en een beugel betekenen geen bedrading; de schroefgaten en
-      het betaalde Ring Protect-abonnement voor opgeslagen video drukken de
+      Accuvoeding en een beugel betekenen geen bedrading; de schroefgaten en het
+      betaalde Ring Protect-abonnement voor opgeslagen video drukken de
       omkeerbaarheid en de prijs-kwaliteit.
     owners:
       read: 5
@@ -122,7 +122,7 @@ products:
         - >-
           Makkelijk in te stellen; sommige eigenaren gebruiken hem op accu met
           een binnengong
-        - De accu gaat weken tot maanden mee, afhankelijk van klimaat en drukte
+        - 'De accu gaat weken tot maanden mee, afhankelijk van klimaat en drukte'
         - >-
           Reviewers bij winkels prijzen de beeldkwaliteit, het brede beeld van
           top tot teen en de bewegingsdetectie
@@ -156,6 +156,27 @@ products:
           url: >-
             https://www.bestbuy.com/product/ring-battery-doorbell-plus-retinal-2k-with-wide-angle-video-6x-enhanced-zoom-night-vision-quick-release-battery-nickel-silver/J39TLSRS6P
           reviews: 125
+    amazonTitle: >-
+      Ring Battery Doorbell 2K Plus (newest model), Retinal 2K with wide-angle
+      video, up to 6x Enhanced Zoom, Night Vision, and Quick Release Battery
+      Pack, Nickel Silver
+    image:
+      url: 'https://m.media-amazon.com/images/I/21cCd+4Xj0L._SL500_.jpg'
+      width: 313
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31oCryIiXYL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/4137cOc73LL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41JQShm1RjL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41S4LyzDeOL._SL500_.jpg'
+        width: 313
+        height: 500
   - name: Google Nest Doorbell (Battery)
     brand: Google
     query: Google Nest Doorbell Battery
@@ -167,8 +188,8 @@ products:
       Google's accudeurbel heeft een hoog 3:4-beeld (960 x 1280, 145 graden
       diagonaal), meldingen voor personen, pakketten en voertuigen zonder
       abonnement en 3 uur gratis gebeurtenissengeschiedenis. Hij past bij een
-      huurder die in Google Home leeft en nuttige meldingen wil zonder maandelijks
-      te betalen.
+      huurder die in Google Home leeft en nuttige meldingen wil zonder
+      maandelijks te betalen.
     renterNote: >-
       Voor een huurder zonder deurbeldraden die slimme meldingen wil zonder
       abonnement. Hij komt op een plaatje met twee schroeven (de wig en
@@ -221,20 +242,23 @@ products:
     owners:
       read: 7
       praise:
-        - >-
-          Bij sommige eigenaren houdt de accu het lang vol en werkt hij gewoon
+        - Bij sommige eigenaren houdt de accu het lang vol en werkt hij gewoon
         - >-
           Reviewers bij winkels prijzen de beeldkwaliteit, de eenvoudige
           installatie en het beeldveld
-        - Gratis meldingen voor personen en pakketten beperken de meldingenstroom
+        - >-
+          Gratis meldingen voor personen en pakketten beperken de
+          meldingenstroom
       complaints:
         - >-
-          Accuduur: meldingen lopen uiteen van enkele dagen aan een drukke straat
-          tot een accu die bedraad na 2-3 jaar het begaf
-        - 'Vertraging in live beeld, zwarte clips en weggevallen verbindingen in sommige woningen'
+          Accuduur: meldingen lopen uiteen van enkele dagen aan een drukke
+          straat tot een accu die bedraad na 2-3 jaar het begaf
         - >-
-          Sommigen zeggen dat de deurbel weet wie er voor de deur staat, maar dat
-          niet zegt zonder het betaalde abonnement
+          Vertraging in live beeld, zwarte clips en weggevallen verbindingen in
+          sommige woningen
+        - >-
+          Sommigen zeggen dat de deurbel weet wie er voor de deur staat, maar
+          dat niet zegt zonder het betaalde abonnement
       sources:
         - title: Nest Doorbell (Battery) customer reviews summary (Best Buy)
           url: >-
@@ -260,6 +284,26 @@ products:
         - title: My Nest Doorbell Battery is a piece of crap (r/Nest)
           url: >-
             https://www.reddit.com/r/Nest/comments/r8aw1t/my_nest_doorbell_battery_is_a_piece_of_crap/
+    amazonTitle: >-
+      Google Nest Doorbell (Battery) - Snow | 6x digital zoom video doorbell,
+      HD, 24/7 live view, Night vision, HDR, works with Google Home & Gemini
+    image:
+      url: 'https://m.media-amazon.com/images/I/21in0ahznSL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/21seeO+bTHL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/21sF-XD7qQL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/21xek-iTIBL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/21yxc+0A38L._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: Ring Battery Doorbell Plus (2nd Gen) product page (Ring)
     url: 'https://ring.com/products/battery-doorbell-plus-2nd-gen'
@@ -287,7 +331,7 @@ faqs:
       gebeurtenissengeschiedenis. De Ring Battery Doorbell Plus (2nd Gen) past
       beter bij Alexa-huishoudens, koude entrees en huurcontracten die schroeven
       verbieden, omdat Ring een No-Drill Mount verkoopt.
-  - q: Wat is beter zonder abonnement, Ring of Google Nest?
+  - q: 'Wat is beter zonder abonnement, Ring of Google Nest?'
     a: >-
       Nest. Zonder abonnement geeft Ring je live beeld, meldingen en de
       mogelijkheid om via tweeweg-audio te antwoorden, maar slaat geen video op.
@@ -303,10 +347,10 @@ faqs:
       bedraad is.
   - q: Welke accudeurbel houdt het langer vol in de kou?
     a: >-
-      Ring geeft zijn deurbel op tot -20 °C (-4 °F) en je kunt het accupack eruit
-      halen om binnen op te laden. Google geeft de Nest op tot -20 °C, maar zegt
-      dat hij alleen boven 0 °C laadt; in een vriezende entree loopt hij dus
-      leeg zonder bij te laden tot je hem naar binnen haalt.
+      Ring geeft zijn deurbel op tot -20 °C (-4 °F) en je kunt het accupack
+      eruit halen om binnen op te laden. Google geeft de Nest op tot -20 °C,
+      maar zegt dat hij alleen boven 0 °C laadt; in een vriezende entree loopt
+      hij dus leeg zonder bij te laden tot je hem naar binnen haalt.
   - q: Mag mijn verhuurder een videodeurbel verbieden?
     a: >-
       Veel huurcontracten hebben een camerabepaling, en sommige gebouwen

@@ -2,9 +2,12 @@
   "slug": "de/ring-oder-nest-tuerklingel",
   "lang": "de",
   "translationOf": "ring-vs-nest-doorbell",
-  "pass": true,
-  "checkedAt": "2026-10-19T14:28:56.740Z",
-  "errors": [],
+  "pass": false,
+  "checkedAt": "2026-10-19T14:47:04.035Z",
+  "errors": [
+    "English post \"ring-vs-nest-doorbell\" doesn't pass QA, so it can't be translated yet",
+    "source returns 404: https://support.google.com/googlehome/answer/10901611"
+  ],
   "warnings": [],
   "factCheck": {
     "verified": true,

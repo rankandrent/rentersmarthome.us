@@ -3,11 +3,9 @@
   "lang": "nl",
   "translationOf": "best-matter-smart-plugs",
   "pass": true,
-  "checkedAt": "2026-10-19T13:48:59.354Z",
+  "checkedAt": "2026-10-19T14:50:32.303Z",
   "errors": [],
-  "warnings": [
-    "source didn't respond normally (no response): https://www.meross.com/"
-  ],
+  "warnings": [],
   "factCheck": {
     "verified": true,
     "notes": "Compared against en/best-matter-smart-plugs: same 4 products/ASINs, scores, owner and maker sources (English URLs); claims match the English post. Removed untested/local-store paragraph and unsupported notes claim; kept US-plug (type A/B, 120 V) vs 230 V safety note. Internal links localized. No prices.",
