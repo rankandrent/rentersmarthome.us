@@ -77,6 +77,9 @@ for (const s of SEED) {
   const a = (agent, model, lastAt, task, note) => agents.push({ op: 'set', collection: 'agents', doc_id: `${s.domain}__${agent}`,
     data: { site: s.domain, agent, model, state: 'idle', task: task ?? null, note: note ?? null, lastAt: lastAt ?? null, nextAt: s.nextRun, updatedAt: stamp } });
   a('keyword', 'sonnet', git(s.dir, 'data/keywords.json'), null, `${st.pendingKeywords} keywords queued`);
+  let pains = 0, uncovered = 0;
+  try { const pp = JSON.parse(fs.readFileSync(path.join(s.dir, 'data/pain-points.json'), 'utf8')); for (const list of Object.values(pp.categories ?? {})) { pains += list.length; uncovered += list.filter((x) => !(x.coveredBy ?? []).length).length; } } catch {}
+  a('painpoint', 'sonnet', git(s.dir, 'data/pain-points.json'), null, pains ? `${pains} pain points stored, ${uncovered} not yet answered by a post` : 'no pain points collected yet');
   a('product', 'sonnet', git(s.dir, 'data/briefs'), en[0]?.slug, en[0] ? `${en[0].picks ?? '?'} products verified for the last post` : null);
   a('brief', 'sonnet', git(s.dir, 'data/briefs'), en[0]?.slug, 'SERP structure + SERP titles');
   a('writer', 'opus', en[0]?.pubDate, en[0]?.slug, en[0]?.title);

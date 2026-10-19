@@ -128,6 +128,11 @@ jobs:
         working-directory: site
         run: npx --yes wrangler@4.150.0 pages deploy dist --project-name="$PROJECT" --branch=main --commit-dirty=true
 
+      - name: Notify search engines (IndexNow for Bing and Yandex)
+        working-directory: site
+        continue-on-error: true
+        run: test -f scripts/notify-search-engines.mjs && node scripts/notify-search-engines.mjs || echo "No notify script in this site."
+
       - name: Point DNS at Pages and attach the domains
         run: |
           API=https://api.cloudflare.com/client/v4
