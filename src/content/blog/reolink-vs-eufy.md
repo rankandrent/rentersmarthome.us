@@ -45,8 +45,8 @@ tldr:
     Pick eufy if you want a hub that keeps clips at home with face recognition
     (eufyCam S330 on HomeBase 3), or the simplest hubless camera (SoloCam S220).
   - >-
-    All four record locally with no monthly fee, but all are built for a
-    bracket mount, so get the landlord's OK in writing or use a no-screw spot.
+    All four record locally with no monthly fee, but all are built for a bracket
+    mount, so get the landlord's OK in writing or use a no-screw spot.
   - >-
     Battery drain is the top owner complaint on both brands; plan for solar
     placement or cable power before winter.
@@ -72,8 +72,8 @@ products:
     pros:
       - '4K, 135-degree view, IP67 weatherproof, built-in solar panel (eufy)'
       - >-
-        Records locally to HomeBase 3 (16 GB built in, up to 16 TB via a 2.5-inch
-        drive) with no monthly fee (eufy)
+        Records locally to HomeBase 3 (16 GB built in, up to 16 TB via a
+        2.5-inch drive) with no monthly fee (eufy)
     cons:
       - 'Needs the HomeBase 3 hub, an extra plugged-in box'
       - >-
@@ -82,11 +82,9 @@ products:
     specs:
       Resolution: 4K (3840x2160)
       Field of view: 135 degrees
-      Power: >-
-        Battery with integrated solar panel; 13,400 mAh battery per eufy support
+      Power: 'Battery with integrated solar panel; 13,400 mAh battery per eufy support'
       Weather rating: IP67
-      Local storage: >-
-        HomeBase 3, 16 GB built in, up to 16 TB expandable (2.5-inch SATA drive)
+      Local storage: 'HomeBase 3, 16 GB built in, up to 16 TB expandable (2.5-inch SATA drive)'
       Monthly fee: None
       AI: 'Face, human, vehicle and pet detection on the hub (BionicMind)'
       Drilling: Bracket mount; no wiring
@@ -170,8 +168,8 @@ products:
       read: 3
       praise:
         - >-
-          In a thread asking for bad experiences with Reolink, one Argus owner's
-          only complaint was a USB plug that failed after 8 months
+          SafeWise's reviewer (not an owner thread) was stunned by the sweeping
+          180-degree view and called the video crisp
       complaints:
         - 'Short battery life, in some cases needing a USB connection'
         - A USB plug stopped working after months for one Argus owner
@@ -184,6 +182,8 @@ products:
         - title: Any BAD experiences with Reolink? - r/reolinkcam
           url: >-
             https://www.reddit.com/r/reolinkcam/comments/1gs9yqx/any_bad_experiences_with_reolink/
+        - title: Reolink Argus 4 Pro review (SafeWise)
+          url: 'https://www.safewise.com/au/reolink-argus-4-pro-review/'
   - name: Reolink Argus PT Ultra
     brand: Reolink
     query: Reolink Argus PT Ultra 4K solar pan tilt camera
@@ -206,8 +206,7 @@ products:
         table)
       - 'microSD up to 512 GB, Wi-Fi 6, no fee for local storage'
     cons:
-      - >-
-        Owners report delayed motion detection and Wi-Fi trouble on some units
+      - Owners report delayed motion detection and Wi-Fi trouble on some units
       - Digital zoom only; max 15 fps
     specs:
       Resolution: 4K 8 MP (3840x2160)
@@ -322,16 +321,23 @@ sources:
       https://service.eufy.com/article-description/Introducing-S330-eufyCam-eufyCam-3
   - title: SoloCam lineup (eufy)
     url: 'https://www.eufy.com/solocam'
-  - title: Does cold weather impact eufy Battery-Powered Video Doorbell? (eufy support)
+  - title: >-
+      Does cold weather impact eufy Battery-Powered Video Doorbell? (eufy
+      support)
     url: >-
       https://service.eufy.com/article-description/Does-cold-weather-impact-eufy-Battery-Powered-Video-Doorbell
   - title: Argus 4 Pro product page and comparison table (Reolink)
     url: 'https://reolink.com/us/product/argus-4-pro/'
   - title: Argus 4 Pro review (Reolink blog)
     url: 'https://reolink.com/blog/argus-4-pro-review/'
-  - title: Reolink vs Eufy security camera comparison (Sipko Security)
+  - title: Eufy's no clouds cameras upload facial thumbnails to AWS (Ars Technica)
     url: >-
-      https://sipkosecurity.com/reolink-vs-eufy-security-camera-comparison-2026/
+      https://arstechnica.com/gadgets/2022/11/eufys-no-clouds-cameras-upload-facial-thumbnails-to-aws/
+  - title: Anker finally comes clean about its Eufy security cameras (The Verge)
+    url: >-
+      https://www.theverge.com/23573362/anker-eufy-security-camera-answers-encryption
+  - title: Reolink vs Eufy security camera comparison (Sipko Security)
+    url: 'https://sipkosecurity.com/reolink-vs-eufy-security-camera-comparison-2026/'
   - title: Reolink vs Eufy no-subscription comparison (SmartEye CCTV)
     url: >-
       https://www.smarteyecctv.com/reolink-vs-eufy-no-subscription-comparison-2026/
@@ -340,7 +346,7 @@ sources:
       https://cpisecurity.com/blog/how-cold-weather-affects-your-cpi-security-devices/
 reviewedDate: '2026-10-19'
 faqs:
-  - q: 'Is Reolink or Eufy better for renters?'
+  - q: Is Reolink or Eufy better for renters?
     a: >-
       It depends on where you want clips stored. Reolink's Argus 4 Pro and Argus
       PT Ultra record to a microSD card with no hub, while eufy's eufyCam S330
@@ -361,11 +367,13 @@ faqs:
       vision instead of infrared.
   - q: Is Eufy safe after the 2022 cloud thumbnail controversy?
     a: >-
-      In late 2022 eufy cameras were reported to send notification thumbnails
-      to eufy's cloud even when owners chose local storage, and Anker later
-      acknowledged the issues and said it would change its practices. If you
-      choose eufy, keep clips local, review the thumbnail notification setting
-      and point cameras only at your own space.
+      In late 2022 researchers showed eufy cameras uploading notification
+      thumbnails to a cloud server, and eufy told Ars Technica it had not made
+      that clear to owners who picked thumbnail notifications. Anker later told
+      The Verge that its web portal live streams had not been end-to-end
+      encrypted, said that was fixed and promised to do better. If you choose
+      eufy, keep clips local, review the thumbnail notification setting and
+      point cameras only at your own space.
   - q: Can I use a Reolink or Eufy camera without drilling?
     a: >-
       All four models here are designed for a bracket mount, so a true no-drill
@@ -380,6 +388,10 @@ faqs:
       change. Solar placement and fewer motion triggers help, and cold weather
       shortens battery life on any camera.
 author: editorial-team
+heroImage: /images/featured/reolink-vs-eufy.png
+heroAlt: >-
+  Reolink vs Eufy for Renters – Which Wire-Free Camera Fits a Lease? –
+  RenterSmartHome comparison
 ---
 
 Picture the renter we hear from most: a ground-floor apartment, a porch where a package went missing last week, and a lease that says no holes in the exterior walls. Reolink vs eufy is the comparison that renter ends up on, because both brands sell wire-free cameras that record locally with no monthly fee. **Our short answer: pick a Reolink battery camera if you want clips on a microSD card and no extra box, and pick eufy if you want a home hub with face recognition or the simplest small camera, then get your landlord's OK in writing before a single screw goes in.** We compared four current models on maker specs and owner reports. We did not buy or test them ourselves.
@@ -430,7 +442,7 @@ Built around a hub, the [eufyCam S330 (eufyCam 3)](amzn:eufy+Security+eufyCam+S3
 
 ### Reolink Argus 4 Pro: microSD battery camera
 
-Two lenses stitched into one picture are the selling point of the [Reolink Argus 4 Pro](amzn:Reolink+Argus+4+Pro+4K+solar+camera). Reolink lists 5120x1440 at 15 fps across a 180-degree horizontal and 50-degree vertical view, an IP66 rating and a microSD slot of up to 512 GB, with no hub and no fee for local storage. Power comes from a 5,000 mAh battery that can't be removed, charged over USB-C or from the optional 6 W Solar Panel 2, and it connects over dual-band Wi-Fi 6. Note the night trade-off: there is no infrared, so after dark it records in color under its own spotlights. Battery life dominates owner talk on r/reolinkcam. One owner said the battery lasted about 10 days even with the 6 W panel and switched the camera to USB power, and a separate thread describes it dropping from full to offline quickly. We found no praise threads for this exact model in our research, though in a Reolink "bad experiences" thread one Argus owner's only complaint was a USB plug that failed after eight months. At 400 g it suits a sturdy ledge or bracket.
+Two lenses stitched into one picture are the selling point of the [Reolink Argus 4 Pro](amzn:Reolink+Argus+4+Pro+4K+solar+camera). Reolink lists 5120x1440 at 15 fps across a 180-degree horizontal and 50-degree vertical view, an IP66 rating and a microSD slot of up to 512 GB, with no hub and no fee for local storage. Power comes from a 5,000 mAh battery that can't be removed, charged over USB-C or from the optional 6 W Solar Panel 2, and it connects over dual-band Wi-Fi 6. Note the night trade-off: there is no infrared, so after dark it records in color under its own spotlights. Battery life dominates owner talk on r/reolinkcam. One owner said the battery lasted about 10 days even with the 6 W panel and switched the camera to USB power, and a separate thread describes it dropping from full to offline quickly. We found no owner thread praising this exact model that we could confirm, so the one positive note comes from a reviewer: [SafeWise](https://www.safewise.com/au/reolink-argus-4-pro-review/) wrote that it was stunned by the sweeping 180-degree viewing range. In a Reolink "bad experiences" thread, one Argus owner also reported a USB plug that failed after eight months. At 400 g it suits a sturdy ledge or bracket.
 
 ### Reolink Argus PT Ultra: pan-tilt coverage
 
@@ -500,11 +512,11 @@ These steps cut battery drain in the cold, in order of effort:
 
 ### Alexa, Google Home, HomeKit and Matter
 
-If your apartment runs on Alexa / Google Home / HomeKit, confirm support for the exact model on the maker's page, because our sources only list Google Assistant for the Argus 4 Pro. None of the four lists Matter support in the specs we used. Home-server fans often ask about RTSP and ONVIF streams; we didn't find either listed for these battery models, so don't assume them. For more on picking an assistant for a rental, see our [Alexa vs Google Home comparison](/blog/alexa-vs-google-home/).
+If your apartment runs on Alexa / Google Home / HomeKit, confirm support for the exact model on the maker's page, because our sources only list Google Assistant for the Argus 4 Pro. None of the four lists Matter support in the specs we used. Home-server fans often ask about RTSP and ONVIF streams; we didn't find either listed for these battery models, so don't assume them. For more on picking an assistant for a rental, see our [Alexa vs Google Home comparison](/blog/alexa-vs-google-home/). If you're also weighing budget brands, our [Wyze vs Blink comparison](/blog/wyze-vs-blink/) covers two more no-fuss options.
 
 ### Cloud privacy and the eufy 2022 thumbnail controversy
 
-Distrust of camera clouds is a recurring theme in [r/privacytoolsIO threads on privacy-friendly cameras](https://www.reddit.com/r/privacytoolsIO/comments/p4wfh0/privacy_friendly_security_cameras/), where one commenter noted, "Eufy (anker) cameras store locally but still use cloud for login." The eufy 2022 cloud thumbnail controversy is why this matters. In late 2022, a security researcher and then The Verge reported that eufy cameras uploaded notification thumbnails to eufy's cloud even for owners who had chosen local storage, and that some live streams could be reached without encryption. Anker, eufy's parent company, later acknowledged the problems and said it would change how it handles them. eufy's own product notes for the S330 and S220 still say cloud features such as thumbnail notifications send data to its cloud.
+Distrust of camera clouds is a recurring theme in [r/privacytoolsIO threads on privacy-friendly cameras](https://www.reddit.com/r/privacytoolsIO/comments/p4wfh0/privacy_friendly_security_cameras/), where one commenter noted, "Eufy (anker) cameras store locally but still use cloud for login." The eufy 2022 cloud thumbnail controversy is why this matters. In November 2022, [Ars Technica reported](https://arstechnica.com/gadgets/2022/11/eufys-no-clouds-cameras-upload-facial-thumbnails-to-aws/) that security researcher Paul Moore had shown eufy cameras uploading thumbnail images to cloud servers to send phone alerts. Eufy told Ars the thumbnails were briefly and securely stored on an AWS-based server and that it had not made clear to owners choosing thumbnail notifications that previews would be hosted in the cloud. In January 2023, [The Verge reported](https://www.theverge.com/23573362/anker-eufy-security-camera-answers-encryption) that Anker admitted its cameras were not natively end-to-end encrypted and had produced unencrypted video streams for eufy's web portal. Anker said that was largely fixed and promised to do better. eufy's own product notes for the S330 and S220 still say cloud features such as thumbnail notifications send data to its cloud.
 
 Here is what we'd do on either brand to tighten cloud privacy:
 

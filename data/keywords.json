@@ -4324,7 +4324,7 @@
     "slug": "z-wave-apple-homekit"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-19T12:59:25.176Z",
     "secondaryKeywords": [
@@ -4372,6 +4372,7 @@
       "security-landlord-bans-cameras-doorbells",
       "security-no-drill-doorbell-mount",
       "security-battery-drain-cold"
-    ]
+    ],
+    "publishedAt": "2026-10-19T13:18:50.041Z"
   }
 ]

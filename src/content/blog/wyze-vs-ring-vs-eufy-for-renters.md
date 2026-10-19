@@ -380,6 +380,7 @@ heroAlt: >-
   Wyze vs Ring vs Eufy for Renters – Which Plug-In Camera Wins? –
   RenterSmartHome comparison
 related:
+  - reolink-vs-eufy
   - wyze-vs-blink
 ---
 

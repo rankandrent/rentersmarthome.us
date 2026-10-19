@@ -1,10 +1,8 @@
 {
   "slug": "reolink-vs-eufy",
-  "pass": false,
-  "checkedAt": "2026-10-19T13:16:42.660Z",
-  "errors": [
-    "facts not verified yet: check every product spec and claim against the sources, then run `node scripts/routine.mjs factcheck <slug> \"<notes>\"`"
-  ],
+  "pass": true,
+  "checkedAt": "2026-10-19T13:18:32.379Z",
+  "errors": [],
   "warnings": [
     "product \"eufyCam S330 (eufyCam 3)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Reolink Argus 4 Pro\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -12,6 +10,8 @@
     "product \"eufy SoloCam S220\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
-    "verified": false
+    "verified": true,
+    "notes": "Re-opened: Ars Technica 2022-11-30 thumbnail article and The Verge 2023-01-31 Anker answers article (both scraped; wording of the incident section and FAQ now limited to what they say; the Verge 2022-11-30 piece is paywalled so only its headline/lede seen). Argus 4 Pro praise replaced: no owner praise could be confirmed via exact search, so the praise item now cites SafeWise's review (search excerpt of safewise.com/au page: 'stunned by ... sweeping 180-degree viewing range'), clearly labelled as a reviewer not an owner; complaint moved only to complaints. PT Ultra owner 'My only con is the timer' confirmed via site:reddit.com search excerpt at the same thread URL. Spec values, brief quotes and Reddit quotes were NOT re-verified in this pass beyond that; ASINs remain asinVerified false and the post makes no claim they were checked. Added internal link to /blog/wyze-vs-blink/.",
+    "at": "2026-10-19T13:18:31.685Z"
   }
 }

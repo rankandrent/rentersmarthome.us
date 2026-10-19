@@ -196,6 +196,13 @@
       "keyword": "locked out of apartment",
       "category": "smart-locks",
       "funnel": "tofu"
+    },
+    {
+      "date": "2026-10-19",
+      "slug": "reolink-vs-eufy",
+      "keyword": "reolink vs eufy",
+      "category": "security",
+      "funnel": "bofu"
     }
   ],
   "translated": [
