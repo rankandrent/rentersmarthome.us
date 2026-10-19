@@ -612,8 +612,8 @@
     "priority": 7,
     "rationale": "300/mo, KD 0 (Ahrefs)",
     "slug": "dorm-room-lights",
-    "status": "pending",
-    "attempts": 0,
+    "status": "deferred",
+    "attempts": 1,
     "addedAt": "2026-10-13T00:00:00.000Z",
     "ahrefs": {
       "volume": 300,
@@ -630,7 +630,8 @@
       "lighting-dorm-led-strip-rules-unclear",
       "lighting-dorm-string-lights-banned-fire-code",
       "lighting-dorm-overhead-fluorescent-harsh"
-    ]
+    ],
+    "note": "2026-10-19: top 10 is retailer category pages; no product is recommended by 2+ top-10 pages. Retry as a guide or when the SERP changes."
   },
   {
     "keyword": "apartment lighting ideas",
