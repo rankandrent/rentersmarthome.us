@@ -502,10 +502,10 @@ heroAlt: >-
   Best Dehumidifier for Small Apartment Living (2026) – 6 Picks by Size –
   RenterSmartHome buying guide
 related:
+  - best-air-purifier-for-apartment-renters
   - best-apartment-intercom-buzzer-alternative
   - locked-out-of-apartment
   - best-cat-tree-for-small-apartment
-  - best-litter-box-for-small-apartment
 ---
 
 A dehumidifier for a small apartment has one job: get a studio or one-bedroom out of the muggy 60s and into the 30-50% relative humidity range the EPA recommends, without eating your floor space or keeping you up at night. **The best dehumidifier for small apartment living, for most renters, is the [Midea Cube 20 Pint Dehumidifier](amzn:Midea+Cube+20+Pint+Dehumidifier+MAD20S1QWT): a 20-pint compressor unit that Consumer Reports, RTINGS, Wired and Dehumidifier Buyer's Guide all single out for small spaces.** If your place is ground-floor or always damp, size up to a 35- or 50-pint Cube. If you only need to dry a closet or a tiny bathroom, a mini Eva-Dry or Pro Breeze is enough.

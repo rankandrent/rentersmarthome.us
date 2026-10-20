@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T20:09:52.541Z",
+  "updatedAt": "2026-10-20T20:15:00Z",
   "categories": {
     "smart-locks": [
       {
@@ -1527,6 +1527,45 @@
         "mentions": 2,
         "coveredBy": [
           "how-to-secure-sliding-glass-door-in-rental"
+        ],
+        "foundAt": "2026-10-20"
+      },
+      {
+        "id": "security-indoor-camera-recording-while-home",
+        "pain": "Renters don't want an indoor cloud camera watching or listening while they are home",
+        "details": "Owners of indoor cameras distrust cloud recording inside the home and cut power to cameras or look for a physical privacy cover or shutter that disables video and audio when someone is home.",
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/Ring/comments/1enerej/yall_recommend_cams_inside_your_home/",
+            "platform": "reddit",
+            "title": "Y'all recommend cams inside your home?",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.reddit.com/r/privacytoolsIO/comments/p4wfh0/privacy_friendly_security_cameras/",
+            "platform": "reddit",
+            "title": "Privacy friendly security cameras?",
+            "seen": "2026-10-20"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I don't trust Ring to record what's happening indoors when anyone is home",
+            "url": "https://www.reddit.com/r/Ring/comments/1enerej/yall_recommend_cams_inside_your_home/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "indoor camera privacy when home",
+          "indoor camera privacy cover",
+          "turn off indoor camera when home"
+        ],
+        "keywords": [
+          "best indoor security camera for renters no drilling"
+        ],
+        "mentions": 2,
+        "coveredBy": [
+          "best-indoor-security-camera-for-renters-no-drilling"
         ],
         "foundAt": "2026-10-20"
       }

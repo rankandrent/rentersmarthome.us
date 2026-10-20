@@ -1,0 +1,211 @@
+{
+  "keyword": "best air purifier for apartment renters",
+  "slug": "best-air-purifier-for-apartment-renters",
+  "category": "climate",
+  "articleType": "roundup",
+  "centralEntity": "air purifier",
+  "entityVariants": [
+    "best air purifier for apartment renters",
+    "air purifier for apartment renters",
+    "apartment air purifier",
+    "air purifier for an apartment",
+    "air purifiers",
+    "purifier"
+  ],
+  "entities": [
+    {"name": "CADR", "type": "metric", "relation": "clean air delivery rate in cubic feet per minute; the number that sizes a purifier to a room"},
+    {"name": "AHAM", "type": "organization", "relation": "Association of Home Appliance Manufacturers; certifies CADR and publishes the 2/3 sizing rule"},
+    {"name": "HEPA", "type": "standard", "relation": "fine particle filter type that captures 0.3-micron particles; the core of every pick"},
+    {"name": "activated carbon", "type": "material", "relation": "filter layer that adsorbs odors and some gases such as cooking smells and smoke odor"},
+    {"name": "air changes per hour", "type": "metric", "relation": "how many times the room's air passes through the filter; box claims often use 1 per hour"},
+    {"name": "ionizer", "type": "technology", "relation": "charges particles; can make small amounts of ozone, on/off varies by model"},
+    {"name": "ozone", "type": "pollutant", "relation": "respiratory irritant some ionizers emit; CR does not recommend ozone-making cleaners"},
+    {"name": "Levoit Vital 200S-P", "type": "product", "relation": "mid-size app-connected purifier; most-recommended pick across the top results"},
+    {"name": "Winix 5530", "type": "product", "relation": "RTINGS best for most people; switchable ionizer, very quiet on low"},
+    {"name": "Coway Airmega Mighty2", "type": "product", "relation": "HouseFresh best for most people; no app, no ionizer, quiet"},
+    {"name": "Blueair Blue Signature Large", "type": "product", "relation": "high-CADR purifier that doubles as a side table; ionizer can't be turned off"},
+    {"name": "air quality sensor", "type": "component", "relation": "laser or infrared particle sensor that drives auto mode"},
+    {"name": "pre-filter", "type": "component", "relation": "washable outer layer that catches hair and lint and protects the main filter"},
+    {"name": "Consumer Reports", "type": "organization", "relation": "buying guide with filter-replacement intervals and ionizer advice"},
+    {"name": "landlord", "type": "person", "relation": "responsible for building leaks, ventilation and smoke entering through shared walls"},
+    {"name": "studio apartment", "type": "place", "relation": "one-room layout where the purifier runs next to the bed"},
+    {"name": "secondhand smoke", "type": "pollutant", "relation": "neighbor smoke seeping through outlets, vents and gaps in shared walls"}
+  ],
+  "attributes": ["smoke CADR", "AHAM room size", "noise at low speed (dBA)", "filter replacement interval", "bonded vs separate carbon filter", "ionizer on/off", "footprint", "weight", "app and auto mode", "sleep mode and display off"],
+  "ngrams": ["air purifier", "studio apartment", "clean air delivery rate", "room size", "activated carbon", "replacement filter", "sleep mode", "air quality sensor", "air changes per hour", "fan speed", "pre-filter", "auto mode", "square feet"],
+  "skipgrams": ["CADR…room", "filter…months", "smoke…neighbor", "noise…sleep", "carbon…odors", "landlord…smoke", "ionizer…ozone"],
+  "nlpTerms": ["renters", "lease", "landlord", "apartment", "studio", "bedroom", "allergies", "dust", "pollen", "pet dander", "smoke", "odors", "cooking", "wildfire", "quiet", "decibels", "filter", "HEPA", "carbon", "ozone", "ionizer", "outlet", "move-out", "neighbor", "footprint", "app"],
+  "questions": [
+    "What size air purifier do I need for my apartment?",
+    "Will an air purifier help with neighbor's cigarette smoke in an apartment?",
+    "Can I run an air purifier all night in a studio?",
+    "How often do you replace air purifier filters?",
+    "Are ionizer air purifiers safe?",
+    "Is one air purifier enough for a one-bedroom apartment?"
+  ],
+  "contentGaps": [
+    "Room-size claims on the box use 1 air change per hour; renters need the AHAM 2/3 rule to size for a real studio",
+    "How each pick performs at a quiet overnight speed, since in a studio the purifier runs beside the bed",
+    "What a purifier can and can't do against neighbor smoke, and what to ask the landlord to seal",
+    "Filter replacement frequency and bonded carbon filters, without prices",
+    "Move-out: nothing to install, nothing to restore"
+  ],
+  "outline": [
+    {"h2": "The best air purifier for apartment renters: short answer", "intent": "direct answer and picks by role", "h3": []},
+    {"h2": "How we picked these apartment air purifiers", "intent": "method, evidence and story block", "h3": []},
+    {"h2": "The 4 best air purifiers for apartment renters", "intent": "product reviews with specs, owner reports and the catch", "h3": ["Levoit Vital 200S-P: best overall for renters", "Coway Airmega Mighty2: quietest no-frills pick", "Winix 5530: best for pets and bigger studios", "Blueair Blue Signature Large: best for open-plan lofts"]},
+    {"h2": "Compare the picks: real room size, night noise and filters", "intent": "comparison table and choose-X-if verdict", "h3": []},
+    {"h2": "What size air purifier does an apartment need?", "intent": "AHAM 2/3 rule vs box claims", "h3": []},
+    {"h2": "Can an air purifier fix neighbor smoke and cooking smells?", "intent": "pain points: smoke through shared walls, odors, landlord email", "h3": []},
+    {"h2": "Noise, filters and placement in a small apartment", "intent": "pain points: sleep noise, filter schedule, placement", "h3": []},
+    {"h2": "Renter notes: no install, ionizers and move-out", "intent": "renter-specific details and next steps", "h3": []},
+    {"h2": "Our verdict", "intent": "close the opening scene; next-question links", "h3": []}
+  ],
+  "targetWords": 2400,
+  "serpProducts": [
+    {"name": "Levoit Vital 200S / 200S-P", "pages": ["https://www.airpurifierfirst.com/buying-guides/best-air-purifiers-for-rental-properties/", "https://housefresh.com/best-air-purifiers-we-tested/", "https://www.rtings.com/air-purifier/reviews/best/air-purifiers"]},
+    {"name": "Winix 5530 (5510/5520 line)", "pages": ["https://www.rtings.com/air-purifier/reviews/best/air-purifiers", "https://housefresh.com/best-air-purifiers-we-tested/", "https://www.reddit.com/r/BuyItForLife/comments/1rxzg1b/best_air_purifier_for_apartment_bad_allergies/"]},
+    {"name": "Coway Airmega Mighty2 (AP-1512N)", "pages": ["https://housefresh.com/best-air-purifiers-we-tested/", "https://www.rtings.com/air-purifier/reviews/best/air-purifiers"]},
+    {"name": "Blueair Blue Signature Large", "pages": ["https://www.rtings.com/air-purifier/reviews/best/air-purifiers", "https://housefresh.com/best-air-purifiers-we-tested/"]},
+    {"name": "Corsi-Rosenthal Box (DIY, no Amazon listing, not featured)", "pages": ["https://www.rtings.com/air-purifier/reviews/best/air-purifiers", "https://housefresh.com/best-air-purifiers-we-tested/"]},
+    {"name": "Windmill Air Purifier (only the maker's own blog plus RTINGS; not independent, not featured)", "pages": ["https://windmillair.com/blog/air-purifier-for-apartment-one-room-solutions-for-studio-apartments", "https://www.rtings.com/air-purifier/reviews/best/air-purifiers"]},
+    {"name": "Single-page picks, not featured: Winix A231, Blueair DustMagnet 5240i, Austin Air HealthMate Jr., Honeywell Air Genius 5, Blueair Blue Pure 311i+ Max, Levoit Core 300S-P, Dyson HushJet, Levoit Core 600S, Dreo 539S, Levoit Core 200S, Coway Airmega 100, Honeywell HPA300", "pages": ["https://www.airpurifierfirst.com/buying-guides/best-air-purifiers-for-rental-properties/", "https://dadfficient.com/best-air-purifier-for-small-apartment/", "https://www.rtings.com/air-purifier/reviews/best/air-purifiers", "https://housefresh.com/best-air-purifiers-we-tested/"]}
+  ],
+  "productCountNote": "Planned productCount was 6; only 4 products are recommended by 2+ independent top-10 pages and sold on Amazon US, so the post features 4 (ROUTINE.md step 3).",
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.airpurifierfirst.com/buying-guides/best-air-purifiers-for-rental-properties/",
+      "https://housefresh.com/best-air-purifiers-we-tested/",
+      "https://www.rtings.com/air-purifier/reviews/best/air-purifiers",
+      "https://www.consumerreports.org/appliances/air-purifiers/buying-guide/",
+      "https://dadfficient.com/best-air-purifier-for-small-apartment/",
+      "https://windmillair.com/blog/air-purifier-for-apartment-one-room-solutions-for-studio-apartments"
+    ],
+    "productStyle": "specs",
+    "productStyleReason": "Air Purifier First (spec table per product), HouseFresh (Specifications and test data table per product) and Dadfficient (spec bullets: CADR, room size, noise) present each product with its specs; RTINGS uses prose only.",
+    "avgWords": 2680,
+    "avgProducts": 5,
+    "commonSections": ["quick picks summary", "product picks by role", "comparison or spec table", "how to choose: room size and CADR", "noise", "filter costs and maintenance", "FAQ"],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    {"position": 1, "url": "https://www.airpurifierfirst.com/buying-guides/best-air-purifiers-for-rental-properties/", "title": "Best Air Purifiers for Rentals / Airbnb's - Hand-picked!"},
+    {"position": 2, "url": "https://housefresh.com/best-air-purifiers-we-tested/", "title": "The best air purifiers you can buy in 2026 - HouseFresh"},
+    {"position": 3, "url": "https://www.reddit.com/r/BuyItForLife/comments/1rxzg1b/best_air_purifier_for_apartment_bad_allergies/", "title": "best air purifier for apartment, bad allergies : r/BuyItForLife - Reddit"},
+    {"position": 4, "url": "https://www.rtings.com/air-purifier/reviews/best/air-purifiers", "title": "The 6 Best Air Purifiers of 2026 - RTINGS.com"},
+    {"position": 5, "url": "https://www.consumerreports.org/appliances/air-purifiers/buying-guide/", "title": "Air Purifier Buying Guide - Consumer Reports"},
+    {"position": 6, "url": "https://dadfficient.com/best-air-purifier-for-small-apartment/", "title": "Best Air Purifier for Small Apartment: 3 Compact Picks for 2026 - Dadfficient"},
+    {"position": 7, "url": "https://www.bestbuy.com/site/shop/apartment-air-purifier", "title": "Apartment Air Purifier - Best Buy"},
+    {"position": 8, "url": "https://windmillair.com/blog/air-purifier-for-apartment-one-room-solutions-for-studio-apartments", "title": "Top Air Purifier for Apartment: Improve Your Indoor Air Quality Today"},
+    {"position": 9, "url": "https://www.facebook.com/groups/1158554055274739/posts/1514540859676055/", "title": "Which air purifier do you recommend for an apartment? - Facebook"},
+    {"position": 10, "url": "https://alen.com/collections/air-purifiers-for-apartments", "title": "Air Purifiers for Apartments | HEPA Filter - Alen"}
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 3,
+    "withNumber": 2,
+    "commonModifiers": ["best", "apartment", "small apartment", "rentals", "2026", "HEPA", "picks"],
+    "gap": "None size their picks by AHAM room size and quiet overnight speed for a studio, and none answer renter problems like neighbor smoke or move-out."
+  },
+  "commonPoints": [
+    "Match the purifier's CADR to the room size; a higher CADR cleans faster",
+    "HEPA-type filters capture fine particles such as dust, pollen, pet dander and smoke",
+    "Activated carbon handles odors; most purifiers carry only a little of it",
+    "Noise matters, so look at sleep mode and low-speed performance",
+    "Replacement filters are an ongoing cost; check how often they need changing",
+    "Air quality sensors and auto mode adjust the fan for you",
+    "Place the purifier with clearance around it and run it continuously"
+  ],
+  "ourGain": [
+    {"point": "Size each pick with the AHAM 2/3 rule (smoke CADR at least two thirds of the floor area) and show how far box claims at 1 air change per hour overstate coverage (Levoit 1,862 vs 388 sq ft; Coway 1,800 sq ft at 1 ACH with a 240 smoke CADR).", "source": "https://ahamverifide.org/directory-of-air-cleaners/; https://levoit.com/products/vital-200s-p-smart-air-purifier; https://cowaymega.com/products/airmega-mighty2-ap-1512n; data/pain-points.json#climate-room-size-claims-inflated"},
+    {"point": "Compare the picks at the quiet speed a studio renter actually sleeps with (RTINGS and HouseFresh sub-45 dBA CADR and room size), not only at max.", "source": "https://www.rtings.com/air-purifier/reviews/winix/5530; https://www.rtings.com/air-purifier/reviews/blueair/blue-signature-large; https://housefresh.com/coway-airmega-mighty2-ap-1512n-review/; https://housefresh.com/levoit-vital-200s-review/; data/pain-points.json#climate-purifier-too-loud-at-night"},
+    {"point": "Neighbor smoke through shared walls: what a purifier removes (particles) vs what it can't (smell soaked into fabric, ongoing seepage), plus sealing outlets and a landlord note.", "source": "https://www.reddit.com/r/AirPurifiers/comments/1i6o7mg/neighbors_smoke_getting_into_our_apartment/; https://www.reddit.com/r/AirPurifiers/comments/1e0ewk2/smoking_next_door_neighbor_best_purifier/; https://www.consumerreports.org/appliances/air-purifiers/buying-guide/; data/pain-points.json#climate-neighbor-smoke-seeps-in"},
+    {"point": "Filter schedule without prices: bonded carbon + particle filters mean the whole filter goes when the carbon is spent (HouseFresh: Mighty2 carbon full in 6-9 months), CR's 3-month carbon vs 6-12 month particle rule.", "source": "https://housefresh.com/best-air-purifiers-we-tested/; https://www.consumerreports.org/appliances/air-purifiers/buying-guide/; data/pain-points.json#climate-filter-replacement-cost"},
+    {"point": "Ionizer on/off as a renter choice in a small sealed space: Winix lets you switch it off, Blueair's can't be disabled, Coway Mighty2 has none.", "source": "https://www.rtings.com/air-purifier/reviews/winix/5530; https://www.rtings.com/air-purifier/reviews/blueair/blue-signature-large; https://www.consumerreports.org/appliances/air-purifiers/buying-guide/"}
+  ],
+  "painPoints": [
+    {
+      "id": "climate-neighbor-smoke-seeps-in",
+      "pain": "Neighbor's cigarette or weed smoke seeps into the apartment and a purifier doesn't fully stop it",
+      "details": "Renters in shared-wall buildings smell smoke from units below or next door through outlets, vents and gaps. Some run purifiers that help but can't keep up; some ask the landlord, some moved.",
+      "sources": [
+        "https://www.reddit.com/r/AirPurifiers/comments/1e0ewk2/smoking_next_door_neighbor_best_purifier/",
+        "https://www.reddit.com/r/AirPurifiers/comments/12qqduw/will_an_air_purifier_help_deal_with_smokers_below/",
+        "https://www.reddit.com/r/AirPurifiers/comments/1hey6cz/need_to_remove_cigarette_smell_from_my_apartment/",
+        "https://www.reddit.com/r/AirPurifiers/comments/1i6o7mg/neighbors_smoke_getting_into_our_apartment/",
+        "https://www.reddit.com/r/ApartmentHacks/comments/pgrw7e/what_to_do_about_neighbors_cigarette_smoke/",
+        "https://www.reddit.com/r/AirPurifiers/comments/1nlvu1j/best_air_purifier_for_neighbors_weed/"
+      ],
+      "quotes": [
+        {"text": "I had this happen to me and my Winix was powerless.", "url": "https://www.reddit.com/r/AirPurifiers/comments/1i6o7mg/neighbors_smoke_getting_into_our_apartment/"},
+        {"text": "Cover electric wall outlets with masking tape. Try to find where the smoke is seeping through the wall.", "url": "https://www.reddit.com/r/AirPurifiers/comments/1e0ewk2/smoking_next_door_neighbor_best_purifier/"},
+        {"text": "An air purifier will take smoke and particulates out of the air.", "url": "https://www.reddit.com/r/AirPurifiers/comments/1hey6cz/need_to_remove_cigarette_smell_from_my_apartment/"}
+      ]
+    },
+    {
+      "id": "climate-cooking-odors-linger",
+      "pain": "Cooking smells linger in a studio even with the purifier running all day",
+      "details": "In studios and small one-bedrooms the kitchen shares the air with the bed; owners of mid-size purifiers report some odors never clear because the carbon layer is small.",
+      "sources": [
+        "https://www.reddit.com/r/AirPurifiers/comments/1rmeme1/question_about_smells_levoit_vital_200s_purifier/",
+        "https://www.reddit.com/r/HouseFresh/comments/1odtull/winix_5510not_working_that_well/",
+        "https://www.reddit.com/r/AirPurifiers/comments/1r3ywmg/do_we_keep_changing_the_air_purifier_filter_every/"
+      ],
+      "quotes": [
+        {"text": "there are still certain smells that never go away", "url": "https://www.reddit.com/r/AirPurifiers/comments/1rmeme1/question_about_smells_levoit_vital_200s_purifier/"},
+        {"text": "It does not clear cooking odors", "url": "https://www.reddit.com/r/HouseFresh/comments/1odtull/winix_5510not_working_that_well/"}
+      ]
+    },
+    {
+      "id": "climate-purifier-too-loud-at-night",
+      "pain": "The purifier is too loud to sleep next to, so it gets turned down or off at night",
+      "details": "In a studio or small bedroom the purifier runs a few feet from the bed. Owners find strong units loud even in sleep mode and turn them down, which cuts cleaning.",
+      "sources": [
+        "https://www.reddit.com/r/AirPurifiers/comments/1sbrete/quiet_air_purifier_for_bedroom/",
+        "https://www.reddit.com/r/AirPurifiers/comments/1ib6utx/my_sleep_quality_is_terrible_my_room_is_full_of/",
+        "https://www.reddit.com/r/AirPurifiers/comments/1rqtt3d/loud_air_purifier_recommendations/"
+      ],
+      "quotes": [
+        {"text": "It was also kinda loud at night even in Sleep mode.", "url": "https://www.reddit.com/r/AirPurifiers/comments/1sbrete/quiet_air_purifier_for_bedroom/"},
+        {"text": "I used a germ guardian but it was too loud", "url": "https://www.reddit.com/r/AirPurifiers/comments/1ib6utx/my_sleep_quality_is_terrible_my_room_is_full_of/"}
+      ]
+    },
+    {
+      "id": "climate-filter-replacement-cost",
+      "pain": "Replacement filters cost more and wear out sooner than expected",
+      "details": "Owners are surprised by how often filters need changing; the carbon layer usually gives out first and starts to smell.",
+      "sources": [
+        "https://www.reddit.com/r/AirPurifiers/comments/1pi2bq0/replacing_hepa_filters_is_getting_way_too/",
+        "https://www.reddit.com/r/AirPurifiers/comments/1r3ywmg/do_we_keep_changing_the_air_purifier_filter_every/"
+      ],
+      "quotes": [
+        {"text": "Replacing HEPA filters is getting way too expensive.", "url": "https://www.reddit.com/r/AirPurifiers/comments/1pi2bq0/replacing_hepa_filters_is_getting_way_too/"},
+        {"text": "The carbon filter dies first and stinks up the room", "url": "https://www.reddit.com/r/AirPurifiers/comments/1r3ywmg/do_we_keep_changing_the_air_purifier_filter_every/"}
+      ]
+    },
+    {
+      "id": "climate-room-size-claims-inflated",
+      "pain": "Room-size claims on the box are inflated, so renters buy a purifier too small for their apartment",
+      "details": "Listings advertise 1,800+ sq ft based on one air change per hour; buyers on r/AirPurifiers are told to ignore those numbers and size by CADR at about 4.8 air changes per hour.",
+      "sources": [
+        "https://www.reddit.com/r/AirPurifiers/comments/1hfwqce/is_this_a_good_deal_and_do_you_recommend_this_air/",
+        "https://www.reddit.com/r/AirPurifiers/comments/vxk178/coway_inflatingmisleading_room_sqft_coverage/",
+        "https://www.reddit.com/r/AirPurifiers/comments/1l3ixwy/shark_never_change_air_purifier/",
+        "https://www.reddit.com/r/AirPurifiers/comments/1imgbm5/air_purifier_for_700sqft_apartment/"
+      ],
+      "quotes": [
+        {"text": "Ignore the 1,824 sq. ft. claim—it's useless.", "url": "https://www.reddit.com/r/AirPurifiers/comments/1hfwqce/is_this_a_good_deal_and_do_you_recommend_this_air/"},
+        {"text": "I came to conclusion that the advertised sq. ft for each unit doesn't tell much", "url": "https://www.reddit.com/r/AirPurifiers/comments/vxk178/coway_inflatingmisleading_room_sqft_coverage/"}
+      ]
+    }
+  ],
+  "linkPlan": [
+    {"slug": "best-dehumidifier-for-small-apartment", "anchor": "20-pint dehumidifier for a small apartment", "where": "noise/filters section and verdict (next question: humidity and mold)"},
+    {"slug": "how-to-cool-apartment-without-ac", "anchor": "cooling an apartment without central AC", "where": "placement/ventilation advice"},
+    {"slug": "best-smart-smoke-detector-for-apartments", "anchor": "smart smoke detector for apartments", "where": "neighbor smoke section (a purifier is not a smoke alarm)"},
+    {"slug": "best-litter-box-for-small-apartment", "anchor": "litter box for a small apartment", "where": "Winix pet section"},
+    {"slug": "smart-home-for-renters", "anchor": "renter-friendly smart home setup", "where": "renter notes / app control"}
+  ]
+}

@@ -265,6 +265,7 @@ heroAlt: >-
   How to Cool Apartment Without AC – 12 Renter-Friendly Tips – RenterSmartHome
   renter guide
 related:
+  - best-air-purifier-for-apartment-renters
   - best-dehumidifier-for-small-apartment
   - how-to-baby-proof-a-rental-without-damage
 ---
