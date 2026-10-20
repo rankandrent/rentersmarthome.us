@@ -3,10 +3,11 @@
   "lang": "nl",
   "translationOf": "govee-apple-homekit",
   "pass": true,
-  "checkedAt": "2026-10-20T14:17:05.320Z",
+  "checkedAt": "2026-10-20T14:38:13.572Z",
   "errors": [],
   "warnings": [
-    "source didn't respond normally (403): https://gathering.tweakers.net/forum/list_messages/1308304/127"
+    "source didn't respond normally (403): https://gathering.tweakers.net/forum/list_messages/1308304/127",
+    "source didn't respond normally (no response): https://juridischforum.be/viewtopic.php?t=39574"
   ],
   "factCheck": {
     "verified": true,
