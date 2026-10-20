@@ -2,18 +2,14 @@
   "slug": "nl/wat-is-homekit",
   "lang": "nl",
   "translationOf": "what-is-homekit",
-  "pass": false,
-  "checkedAt": "2026-10-20T13:37:29.229Z",
-  "errors": [
-    "facts not verified yet: compare every claim with the English post and its sources, then run `node scripts/routine.mjs factcheck nl/wat-is-homekit \"<notes>\"`"
-  ],
-  "warnings": [
-    "source didn't respond normally (403): https://gathering.tweakers.net/forum/list_messages/1592273/86",
-    "source didn't respond normally (403): https://gathering.tweakers.net/forum/list_messages/1592273/82",
-    "source didn't respond normally (403): https://gathering.tweakers.net/forum/list_messages/1592273/87",
-    "source didn't respond normally (403): https://tweakers.net/nieuws/234930/apple-ipad-is-vanaf-herfst-niet-meer-als-hub-te-gebruiken-na-verplichte.html"
-  ],
+  "pass": true,
+  "checkedAt": "2026-10-20T13:45:42.878Z",
+  "errors": [],
+  "warnings": [],
   "factCheck": {
-    "verified": false
+    "verified": true,
+    "notes": "Compared section by section with English what-is-homekit and local brief nl. Products: only HomePod mini 2 and Apple TV 4K (both fits). Re-opened Apple NL spec pages (homepod-mini, apple-tv-4k): dimensions, weight, wifi/BT/Thread, 100-240 V match. Verified all four Tweakers quotes (pages 82/86/87 and news 234930) via search excerpts at same URLs. Rijksoverheid/iCulture/Apple NL support claims match local brief; legal point only as general info with no-legal-advice disclaimer and Juridisch Loket pointer. No prices, no testing claims, no local Amazon store claims; units metric first with imperial in brackets.",
+    "at": "2026-10-20T13:45:41.214Z",
+    "hash": "48b1a21d3d32c6c6"
   }
 }

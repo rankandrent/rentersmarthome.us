@@ -1,0 +1,21 @@
+{
+  "lang": "de",
+  "translationOf": "what-is-homekit",
+  "keyword": "was ist homekit",
+  "createdAt": "2026-10-20T13:46:05.115Z",
+  "via": "claude-routine",
+  "sources": [
+    "https://www.apple.com/home-app/",
+    "https://www.apple.com/homepod-mini/specs/",
+    "https://www.apple.com/apple-tv-4k/specs/",
+    "https://www.addtohomekit.com/blog/apple-homekit/",
+    "https://linkdhome.com/articles/complete-homekit-guide",
+    "https://support.apple.com/de-de/102557",
+    "https://www.apple.com/de/homepod-mini/specs/",
+    "https://www.apple.com/de/apple-tv-4k/specs/",
+    "https://mieterengel.de/smart-home-mietrecht/",
+    "https://mieterbund.de/",
+    "https://www.gutefrage.net/frage/homekit-steuerzentrale-ersetzen",
+    "https://forum.smartapfel.de/forum/thread/12377-homehub-%C3%BCber-2-etagen-matter-nutzung/"
+  ]
+}

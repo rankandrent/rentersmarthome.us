@@ -1,0 +1,23 @@
+{
+  "lang": "es",
+  "translationOf": "what-is-homekit",
+  "keyword": "qué es homekit",
+  "createdAt": "2026-10-20T13:46:03.987Z",
+  "via": "claude-routine",
+  "sources": [
+    "https://www.apple.com/home-app/",
+    "https://www.apple.com/homepod-mini/specs/",
+    "https://www.apple.com/apple-tv-4k/specs/",
+    "https://www.addtohomekit.com/blog/apple-homekit/",
+    "https://linkdhome.com/articles/complete-homekit-guide",
+    "https://www.apple.com/es/homepod-mini/specs/",
+    "https://www.apple.com/es/apple-tv-4k/specs/",
+    "https://support.apple.com/es-es/102557",
+    "https://support.apple.com/es-es/102056",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1994-26003",
+    "https://www.ocu.org/vivienda-y-energia/comprar-vender-alquilar/informe/problemas-con-tu-casa-de-alquiler",
+    "https://forocoches.com/foro/index.php/showthread.php?p=465446225",
+    "https://communities.apple.com/es/thread/253741513",
+    "https://communities.apple.com/es/thread/256192244"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "lang": "nl",
+  "translationOf": "what-is-homekit",
+  "keyword": "wat is homekit",
+  "createdAt": "2026-10-20T13:46:02.866Z",
+  "via": "claude-routine",
+  "sources": [
+    "https://www.apple.com/home-app/",
+    "https://www.apple.com/homepod-mini/specs/",
+    "https://www.apple.com/apple-tv-4k/specs/",
+    "https://www.addtohomekit.com/blog/apple-homekit/",
+    "https://linkdhome.com/articles/complete-homekit-guide",
+    "https://support.apple.com/nl-nl/102557",
+    "https://www.apple.com/nl/homepod-mini/specs/",
+    "https://www.apple.com/nl/apple-tv-4k/specs/",
+    "https://www.rijksoverheid.nl/vraag-en-antwoord/woning-huren/mag-ik-mijn-huurwoning-verbouwen-of-renoveren",
+    "https://www.iculture.nl/gids/smart-home-huurwoning/",
+    "https://www.iculture.nl/special/apple-welcome-home-experience-2026/",
+    "https://gathering.tweakers.net/forum/list_messages/1592273/86",
+    "https://gathering.tweakers.net/forum/list_messages/1592273/82",
+    "https://gathering.tweakers.net/forum/list_messages/1592273/87",
+    "https://tweakers.net/nieuws/234930/apple-ipad-is-vanaf-herfst-niet-meer-als-hub-te-gebruiken-na-verplichte.html"
+  ]
+}

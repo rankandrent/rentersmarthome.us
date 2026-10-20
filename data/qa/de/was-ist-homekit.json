@@ -2,16 +2,14 @@
   "slug": "de/was-ist-homekit",
   "lang": "de",
   "translationOf": "what-is-homekit",
-  "pass": false,
-  "checkedAt": "2026-10-20T13:32:21.427Z",
-  "errors": [
-    "facts not verified yet: compare every claim with the English post and its sources, then run `node scripts/routine.mjs factcheck de/was-ist-homekit \"<notes>\"`"
-  ],
-  "warnings": [
-    "source didn't respond normally (403): https://www.gutefrage.net/frage/homekit-steuerzentrale-ersetzen",
-    "source didn't respond normally (525): https://forum.smartapfel.de/forum/thread/12377-homehub-%C3%BCber-2-etagen-matter-nutzung/"
-  ],
+  "pass": true,
+  "checkedAt": "2026-10-20T13:45:44.135Z",
+  "errors": [],
+  "warnings": [],
   "factCheck": {
-    "verified": false
+    "verified": true,
+    "notes": "Compared section by section with English what-is-homekit and local brief de. Products: only HomePod mini 2 and Apple TV 4K (fits). Specs metric-first match Apple DE brief. Verified gutefrage and Smartapfel quotes (both) via search excerpts; re-opened MieterEngel and confirmed plug-and-play, keep-original-parts and Persoenlichkeitsrecht statements. Fixed: removed unsupported 'ab der 3. Generation' for Apple TV Thread hub. Rental-law content is general info with explicit no-Rechtsberatung disclaimer and Mieterverein pointer. No prices, testing claims or local Amazon claims.",
+    "at": "2026-10-20T13:45:42.074Z",
+    "hash": "92ee2d539837fd09"
   }
 }
