@@ -3,7 +3,7 @@
   "lang": "nl",
   "translationOf": "reolink-vs-eufy",
   "pass": true,
-  "checkedAt": "2026-10-20T13:36:52.273Z",
+  "checkedAt": "2026-10-20T14:38:36.320Z",
   "errors": [],
   "warnings": [
     "not localized yet: run localizer-agent for reolink-vs-eufy (data/briefs/nl/reolink-vs-eufy.local.json), then rewrite with translator-agent",

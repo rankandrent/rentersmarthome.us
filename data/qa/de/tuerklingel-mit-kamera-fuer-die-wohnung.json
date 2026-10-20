@@ -3,12 +3,12 @@
   "lang": "de",
   "translationOf": "door-camera-for-apartment",
   "pass": true,
-  "checkedAt": "2026-10-20T13:50:43.034Z",
+  "checkedAt": "2026-10-20T14:13:30.804Z",
   "errors": [],
   "warnings": [
     "not localized yet: run localizer-agent for door-camera-for-apartment (data/briefs/de/door-camera-for-apartment.local.json), then rewrite with translator-agent",
-    "source didn't respond normally (no response): https://support.google.com/googlehome/answer/9259110?hl=en",
-    "source didn't respond normally (no response): https://support.google.com/googlehome/answer/11830989?hl=en"
+    "LIVE POST, FIX: source returns 404: https://support.google.com/googlehome/answer/9259110?hl=en",
+    "LIVE POST, FIX: source returns 404: https://support.google.com/googlehome/answer/11830989?hl=en"
   ],
   "factCheck": {
     "verified": true,

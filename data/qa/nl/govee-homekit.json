@@ -3,9 +3,12 @@
   "lang": "nl",
   "translationOf": "govee-apple-homekit",
   "pass": true,
-  "checkedAt": "2026-10-20T14:08:06.319Z",
+  "checkedAt": "2026-10-20T14:38:13.572Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "source didn't respond normally (403): https://gathering.tweakers.net/forum/list_messages/1308304/127",
+    "source didn't respond normally (no response): https://juridischforum.be/viewtopic.php?t=39574"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Guide-only rewrite (no product, no Amazon link). Compared remaining body, tldr and FAQs section by section with the English post and re-checked against its sources (Govee Matter FAQ, Govee Community pairing guide, AddToHomeKit; HOOBS Ring page, AddToHomeKit/SafeHome Ring guides) and the local brief (guideOnly true; EU H61E0 variant, Rijksoverheid/AP/IPv6 local facts and quotes). Removed product-only content (listing, owner posts, shop/shipping); nothing new added; no prices, no testing claims.",
