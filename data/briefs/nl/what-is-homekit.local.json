@@ -1,0 +1,136 @@
+{
+  "lang": "nl",
+  "translationOf": "what-is-homekit",
+  "checkedAt": "2026-10-20T13:20:00Z",
+  "productFit": [
+    {
+      "name": "Apple HomePod mini 2",
+      "asin": "B0FK8JL74Q",
+      "status": "fits",
+      "reason": "Apple's own NL spec page lists HomePod mini 2 with a 20 W adapter in the box (Netspanning 100-240 V wisselstroom, 50-60 Hz), Wi-Fi 6E, Thread, temperature and humidity sensor, and HomeKit / Home app support. Mains is 230 V compatible, so no converter is needed. Caveat for the post: the ASIN is carried from the existing German speaker post and is unverified for the EU Amazon store; the post should send readers to the NL Apple Store / EU retailer listing by name, not to a US import, because the adapter plug differs by region.",
+      "source": "https://www.apple.com/nl/homepod-mini/specs/"
+    },
+    {
+      "name": "Apple TV 4K (4th generation)",
+      "asin": "",
+      "status": "fits",
+      "reason": "Apple's NL spec page lists the 128 GB model with A19 chip, Wi-Fi 7, Gigabit Ethernet, Thread, HDMI 2.1, built-in power supply with power cord in the box, Netspanning 100-240 V wisselstroom, 50-60 Hz. Works as a home hub. No ASIN in the English post (amzn query only). Needs a HDMI cable sold separately. Apple's support page notes HomePod mini, HomePod and Apple TV are not available in all countries, but both pages are live on Apple NL.",
+      "source": "https://www.apple.com/nl/apple-tv-4k/specs/"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Apple's Dutch support page uses 'woninghub' and the 'Woning-app': a woninghub must be set up to add Matter accessories, Thread-capable Matter accessories need a Thread-capable woninghub (HomePod mini or Apple TV 4K 3rd gen Wi-Fi + Ethernet, or a supported third-party border router), and only the Home's owner can add HomePod or Apple TV as hub.",
+      "source": "https://support.apple.com/nl-nl/102557"
+    },
+    {
+      "fact": "Apple's Dutch spec pages list HomePod mini 2 (20 W adapter, 100-240 V, 50-60 Hz) and Apple TV 4K (4th gen, 100-240 V, netsnoer included), so both work on Dutch/Belgian 230 V sockets. The HomePod mini 2 page lists Dutch radio (Qmusic, Radio 538, Radio 2, Radio 10).",
+      "source": "https://www.apple.com/nl/homepod-mini/specs/"
+    },
+    {
+      "fact": "The Dutch government (Rijksoverheid) says a tenant may make small changes that can be reversed without too much cost without the landlord's permission, while renovation always needs the landlord's permission; the Juridisch Loket covers leaving a rental in its original state. Plug-in hubs fall under no changes at all.",
+      "source": "https://www.rijksoverheid.nl/vraag-en-antwoord/woning-huren/mag-ik-mijn-huurwoning-verbouwen-of-renoveren"
+    },
+    {
+      "fact": "iCulture (Dutch Apple site) says renters can place smart lamps, cameras, motion sensors and plugs easily, but that adding to heating installations or built-in switches needs the owner's permission, and that a smart doorbell or lock is often not worth it or not even allowed in a rental.",
+      "source": "https://www.iculture.nl/gids/smart-home-huurwoning/"
+    },
+    {
+      "fact": "Dutch Apple coverage (iCulture, Tweakers) reports Apple announced new Home products on 13 October 2026 (HomeView display, Apple Home Collection); the English post does not mention this, so the localized post may want a neutral 'check what Apple has launched' line.",
+      "source": "https://www.iculture.nl/special/apple-welcome-home-experience-2026/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Hub reliability on wifi: Tweakers HomeKit forum users report that a wired Apple TV should work better than a HomePod on wifi.",
+      "fix": "Use the English post's wired Apple TV 4K advice (Gigabit Ethernet) and the restart-the-hub order; mention the Apple Dutch page's step to check the hub is on the home wifi.",
+      "quotes": [
+        {
+          "text": "bekabelde Apple TV zou beter moeten werken dan HomePod met wifi",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1592273/86"
+        }
+      ],
+      "sources": [
+        "https://gathering.tweakers.net/forum/list_messages/1592273/86",
+        "https://support.apple.com/nl-nl/102557"
+      ]
+    },
+    {
+      "pain": "Which device can be the hub: Tweakers readers still ask whether an old iPad can serve; a Tweakers news thread notes Apple said iPads would stop acting as hub.",
+      "fix": "State that the hub is a HomePod, HomePod mini or Apple TV (Apple's Dutch page still lists iPad only in the update/restart steps), so a renter needs one of the two products in the post.",
+      "quotes": [
+        {
+          "text": "Zijn er mensen die vroeger een iPad hebben gebruikt als home hub en de upgrade van homekit hebben gedaan en nu een homepod mini gebruiken?",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1592273/82"
+        },
+        {
+          "text": "Toen de nieuwe home hub functie uitgebracht werd is Apple in mijn ogen heel duidelijk geweest dat de functie van iPads zou verdwijnen.",
+          "url": "https://tweakers.net/nieuws/234930/apple-ipad-is-vanaf-herfst-niet-meer-als-hub-te-gebruiken-na-verplichte.html"
+        }
+      ],
+      "sources": [
+        "https://tweakers.net/nieuws/234930/apple-ipad-is-vanaf-herfst-niet-meer-als-hub-te-gebruiken-na-verplichte.html",
+        "https://support.apple.com/nl-nl/102557"
+      ]
+    },
+    {
+      "pain": "Hub and bridge both updated yet accessories still misbehave: a Tweakers user describes an Apple TV 4K hub, 3 HomePod minis and an updated Hue bridge all on wifi and still has an unresolved problem.",
+      "fix": "Use the English Thread dropout checklist (single set of border routers, central placement, restart order) and Apple Dutch page.",
+      "quotes": [
+        {
+          "text": "Apple home hub TV4k en 3 HomePod mini's allemaal via wifi verbonden en ge-update. Hue bridge ook ge-update.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1592273/87"
+        }
+      ],
+      "sources": [
+        "https://gathering.tweakers.net/forum/list_messages/1592273/87"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Uses Dutch Apple terms (Woning-app, woninghub, Apple Account) and links Apple's Dutch hub page.",
+      "source": "https://support.apple.com/nl-nl/102557"
+    },
+    {
+      "point": "Confirms both Apple products are sold on Apple NL at 100-240 V; buy the Dutch listing, not a US import.",
+      "source": "https://www.apple.com/nl/homepod-mini/specs/"
+    },
+    {
+      "point": "Adds Dutch rental context: Rijksoverheid on small reversible changes vs renovation, Juridisch Loket as advice contact, plus iCulture's renter-specific guidance.",
+      "source": "https://www.rijksoverheid.nl/vraag-en-antwoord/woning-huren/mag-ik-mijn-huurwoning-verbouwen-of-renoveren"
+    },
+    {
+      "point": "Answers Dutch forum questions: wired Apple TV vs HomePod on wifi, and whether an old iPad can be the hub.",
+      "source": "https://gathering.tweakers.net/forum/list_messages/1592273/86"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Spec units in inches and pounds",
+      "action": "replace",
+      "with": "Use metric: 84,3 x 97,9 mm / 335 gram (HomePod mini 2); 93,24 x 93,24 x 31,0 mm / 217 gram (Apple TV 4K) from Apple NL"
+    },
+    {
+      "english": "English-language r/HomeKit and r/MatterProtocol quotes as owner voices",
+      "action": "replace",
+      "with": "Paraphrase only; add the Tweakers Dutch quotes above"
+    },
+    {
+      "english": "'Apple ID', 'Home hub', 'Home app'",
+      "action": "replace",
+      "with": "Apple Account, woninghub, Woning-app"
+    },
+    {
+      "english": "'Check your lease' / 'local rules decide' with no pointer",
+      "action": "replace",
+      "with": "Rijksoverheid / Juridisch Loket / Woonbond as general-information pointers"
+    },
+    {
+      "english": "Amazon.com style product links by query",
+      "action": "replace",
+      "with": "Search the Dutch listing (bol.com / amazon.nl / Apple Store NL) by name"
+    }
+  ],
+  "guideOnly": false
+}

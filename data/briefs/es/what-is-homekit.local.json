@@ -1,0 +1,140 @@
+{
+  "lang": "es",
+  "translationOf": "what-is-homekit",
+  "checkedAt": "2026-10-20T13:20:00Z",
+  "productFit": [
+    {
+      "name": "Apple HomePod mini 2",
+      "asin": "B0FK8JL74Q",
+      "status": "fits",
+      "reason": "Apple's own ES spec page lists HomePod mini 2 with a 20 W adapter in the box (Tension de 100 a 240 V, 50 a 60 Hz), Wi-Fi 6E, Thread, temperature and humidity sensor, and HomeKit / Home app support. Mains is 230 V compatible, so no converter is needed. Caveat for the post: the ASIN is carried from the existing German speaker post and is unverified for the EU Amazon store; the post should send readers to the ES Apple Store / EU retailer listing by name, not to a US import, because the adapter plug differs by region.",
+      "source": "https://www.apple.com/es/homepod-mini/specs/"
+    },
+    {
+      "name": "Apple TV 4K (4th generation)",
+      "asin": "",
+      "status": "fits",
+      "reason": "Apple's ES spec page lists the 128 GB model with A19 chip, Wi-Fi 7, Gigabit Ethernet, Thread, HDMI 2.1, built-in power supply with power cord in the box, Tension de 100 a 240 V, 50 a 60 Hz. Works as a home hub. No ASIN in the English post (amzn query only). Needs a HDMI cable sold separately. Apple's support page notes HomePod mini, HomePod and Apple TV are not available in all countries, but both pages are live on Apple ES.",
+      "source": "https://www.apple.com/es/apple-tv-4k/specs/"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Apple's Spanish support page says a 'central de accesorios' (home hub) must be set up to add Matter accessories to the app Casa, and that Thread-capable Matter accessories need a Thread-capable hub such as HomePod mini or Apple TV 4K. Spanish UI terms: app Casa, central de accesorios, cuenta de Apple.",
+      "source": "https://support.apple.com/es-es/102557"
+    },
+    {
+      "fact": "Apple's Spanish spec pages list HomePod mini 2 (20 W adapter, 100 a 240 V, 50-60 Hz) and Apple TV 4K (4th gen, 100 a 240 V CA, power cable included), so both run on Spain's 230 V sockets. The HomePod mini 2 page lists Spanish radio (Los 40, Kiss FM, Cadena Ser, Rock FM).",
+      "source": "https://www.apple.com/es/homepod-mini/specs/"
+    },
+    {
+      "fact": "Spain's Ley de Arrendamientos Urbanos, article 23 (consolidated text on boe.es) states the tenant may not carry out works that modify the configuration of the dwelling without the landlord's written consent, and that the landlord can require restoring the previous state at the end of the lease. General information: plug-in hubs and speakers involve no works, but anything fixed to the building is a different matter.",
+      "source": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-26003"
+    },
+    {
+      "fact": "OCU offers independent tenant advice (asesoramiento para inquilinos) and publishes rental-contract guidance; use it as the 'ask first' pointer for landlord-owned smart devices.",
+      "source": "https://www.ocu.org/vivienda-y-energia/comprar-vender-alquilar/informe/problemas-con-tu-casa-de-alquiler"
+    },
+    {
+      "fact": "Apple Spain's support page on accessories showing 'Sin respuesta' says to restart any third-party bridge and all hubs (HomePod, HomePod mini, Apple TV) by unplugging them, matching the English post's restart-the-hub fix in Spanish terms.",
+      "source": "https://support.apple.com/es-es/102056"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Readers think HomeKit only works at home or needs a 'bridge': one user says HomeKit does not suit him because he wants control from outside, another replies it works remotely with a HomePod or Apple TV.",
+      "fix": "State clearly (as the English TL;DR does) that remote access and automations need an always-on HomePod mini or Apple TV 4K; basic control at home does not.",
+      "quotes": [
+        {
+          "text": "Homekit si que funciona des de fuera de casa si tienes un Bridge de Apple, estos son: los 2 HomePod y el Apple TV",
+          "url": "https://forocoches.com/foro/index.php/showthread.php?p=465446225"
+        },
+        {
+          "text": "no me funciona la aplicación casa fuera de mi red wi-fi, tengo todo configurado como indican los manuales",
+          "url": "https://communities.apple.com/es/thread/253741513"
+        }
+      ],
+      "sources": [
+        "https://forocoches.com/foro/index.php/showthread.php?p=465446225",
+        "https://support.apple.com/es-es/102557"
+      ]
+    },
+    {
+      "pain": "Fewer HomeKit-compatible devices are easy to find, so renters hesitate; other forum users advise only removable gear (bulbs) in a rental.",
+      "fix": "Use the English post's Works with Apple Home label advice and the no-drill starter kit (plugs, bulbs, battery sensors); note Matter/Thread devices widen the choice.",
+      "quotes": [
+        {
+          "text": "dispositivos compatibles con HomeKit cuesta mas encontrarlos",
+          "url": "https://forocoches.com/foro/index.php/showthread.php?p=465446225"
+        },
+        {
+          "text": "Yo no instalaría nada salvo bombillas inteligentes, que son de quita y pon en una vivienda alquilada.",
+          "url": "https://forocoches.com/foro/index.php/showthread.php?p=465446225"
+        }
+      ],
+      "sources": [
+        "https://forocoches.com/foro/index.php/showthread.php?p=465446225"
+      ]
+    },
+    {
+      "pain": "Connection troubles after setup ('Sin respuesta'): a Spanish Apple Community thread on solving HomeKit connection problems recommends unplugging all hubs and restarting the router.",
+      "fix": "Use the English post's Thread/hub restart order (hub first, then router) and Apple Spain's 'Sin respuesta' page.",
+      "quotes": [
+        {
+          "text": "Desenchufa todos tus concentradores domésticos (los 4 HomePod y el Apple TV 4K) de la corriente. Reinicia tu router.",
+          "url": "https://communities.apple.com/es/thread/256192244"
+        }
+      ],
+      "sources": [
+        "https://support.apple.com/es-es/102056",
+        "https://communities.apple.com/es/thread/256192244"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Uses the Spanish Apple terms (app Casa, central de accesorios) and links Apple Spain's hub setup page.",
+      "source": "https://support.apple.com/es-es/102557"
+    },
+    {
+      "point": "Confirms both Apple products are sold on Apple ES at 100-240 V and tells the reader to buy the Spanish listing, not a US import.",
+      "source": "https://www.apple.com/es/homepod-mini/specs/"
+    },
+    {
+      "point": "Adds Spanish rental context: LAU art. 23 (works need written consent; plug-in gear involves no works) with OCU as the advice contact, general information only.",
+      "source": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-26003"
+    },
+    {
+      "point": "Answers the Spanish forum confusion about remote access ('Bridge de Apple') and the scarcity of HomeKit devices.",
+      "source": "https://forocoches.com/foro/index.php/showthread.php?p=465446225"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Spec units in inches and pounds",
+      "action": "replace",
+      "with": "Use metric: 8,43 x 9,79 cm / 335 g (HomePod mini 2); 9,32 x 9,32 x 3,1 cm / 217 g (Apple TV 4K) from Apple ES"
+    },
+    {
+      "english": "English-language r/HomeKit and r/MatterProtocol quotes as owner voices",
+      "action": "replace",
+      "with": "Paraphrase only; add the forocoches and Apple Community Spanish quotes above. Spanish-language Reddit results found were machine translations of English threads, so none were kept."
+    },
+    {
+      "english": "'Apple ID', 'Home hub', 'Home app'",
+      "action": "replace",
+      "with": "cuenta de Apple, central de accesorios, app Casa"
+    },
+    {
+      "english": "'Check your lease' / 'local rules decide' with no pointer",
+      "action": "replace",
+      "with": "LAU art. 23 and OCU as general-information pointers"
+    },
+    {
+      "english": "Amazon.com style product links by query",
+      "action": "replace",
+      "with": "Search the amazon.es listing by name so the right plug ships"
+    }
+  ],
+  "guideOnly": false
+}

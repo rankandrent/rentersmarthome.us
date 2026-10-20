@@ -1,0 +1,97 @@
+{
+  "lang": "nl",
+  "translationOf": "govee-apple-homekit",
+  "checkedAt": "2026-10-20T13:14:50Z",
+  "productFit": [
+    {
+      "name": "Govee LED Strip Light M1 (H61E0 6.56ft / H61E1 16.4ft)",
+      "asin": "",
+      "status": "localVariant",
+      "variant": "Govee LED Strip Light M1 H61E0 (2 m) with EU 2-pin plug charger, sold on eu.govee.com (EU store, EUR); the 5 m H61E1 EU version was not confirmed",
+      "reason": "Govee EU store lists M1 model H61E0 with 'Charger: EU 2-PIN PLUG' and Matter (works with HomeKit, Alexa, Google). The listing found is the refurbished 1 m/2 m page and showed Sold out at check time, so availability varies; point readers to the EU version by name (OneLink/Amazon search) and do not present the US plug version as the fit. The 5 m H61E1 EU plug version is unknown. Mains 230 V is handled by the EU charger. Govee EU store serves NL/BE in EUR; Dutch retailer listing (bol.com) not checked.",
+      "source": "https://eu.govee.com/products/refurbished-govee-led-strip-light-m1-matter-compatible-2m"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "De Govee M1 H61E0 staat in de Govee EU-shop met EU 2-pin stekker-lader en Matter (HomeKit, Alexa, Google); de gevonden pagina is een refurbished listing en gaf 'Sold out'.",
+      "source": "https://eu.govee.com/products/refurbished-govee-led-strip-light-m1-matter-compatible-2m"
+    },
+    {
+      "fact": "Rijksoverheid: de verhuurder moet de waarborgsom (borg) binnen 14 dagen na het einde van de huur terugbetalen; de huurder moet de woning volgens afspraak achterlaten, en de verhuurder verrekent soms schade.",
+      "source": "https://www.rijksoverheid.nl/vraag-en-antwoord/woning-huren/woning-huren-waarborgsom"
+    },
+    {
+      "fact": "Radar (AVROTROS) schrijft dat de verhuurder de borg binnen 14 dagen moet terugstorten als er geen gebreken zijn.",
+      "source": "https://radar.avrotros.nl/artikel/waar-moet-je-als-huurder-op-letten-als-je-borg-betaalt-of-terugvraagt-54623"
+    },
+    {
+      "fact": "heeftodidoipv6.nl (onafhankelijke site) meldt dat Odido geen IPv6 aanbiedt aan klanten in Nederland; Govee Matter-koppeling vereist IPv6. Op een Tweakers-topic staat dat Ziggo, KPN en Delta het wel ondersteunen (topic is oud; status controleren bij de provider).",
+      "source": "https://heeftodidoipv6.nl/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Huurders vrezen inhouding van de borg voor muurschade (lijm, gaatjes, verf).",
+      "fix": "Plug-in lampen boven plakstrips, lijmresten met warmte/alcohol verwijderen, foto's bij in- en uitverhuizing; Rijksoverheid 14-dagenregel noemen (algemene informatie).",
+      "quotes": [
+        {
+          "text": "De gaten indien mooi opgevuld is gebruiksschade en daarvan kan een verhuurder zelfs geen schadevergoeding voor vragen.",
+          "url": "https://juridischforum.be/viewtopic.php?t=39574"
+        },
+        {
+          "text": "Ik ga binnenkort mijn huurcontract opozeggen en had afgelopen maand ter voorbereiding een reparatieverzoek gedaan voor schade aan mijn linoleum vloer.",
+          "url": "https://www.reddit.com/r/juridischadvies/comments/1azppk7/kan_de_verhuurder_de_borg_inhouden_en_kosten_van/"
+        }
+      ],
+      "sources": [
+        "https://www.rijksoverheid.nl/vraag-en-antwoord/woning-huren/woning-huren-waarborgsom"
+      ]
+    },
+    {
+      "pain": "Matter-koppeling mislukt omdat de provider (bijv. Odido) geen IPv6 biedt.",
+      "fix": "IPv6-controle uit het Engelse post; bij Odido zonder IPv6 is de Matter-route niet haalbaar, dan Homebridge of een andere bridge overwegen (zoals in de tabel van het post).",
+      "quotes": [
+        {
+          "text": "Alle grote ISPs (Ziggo, KPN, Delta) ondersteunen het wel met uitzondering van Odido.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1308304/127"
+        }
+      ],
+      "sources": [
+        "https://heeftodidoipv6.nl/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Welke M1-variant in Nederland/Belgie: H61E0 met EU 2-pin lader via de Govee EU-shop; 5 m EU-variant ongecontroleerd.",
+      "source": "https://eu.govee.com/products/refurbished-govee-led-strip-light-m1-matter-compatible-2m"
+    },
+    {
+      "point": "Odido-IPv6-valkuil die een Amerikaanse tekst niet kent.",
+      "source": "https://heeftodidoipv6.nl/"
+    },
+    {
+      "point": "Rijksoverheid 14-dagenregel voor de borg, en Belgische forumzin over gebruiksschade van gaten.",
+      "source": "https://www.rijksoverheid.nl/vraag-en-antwoord/woning-huren/woning-huren-waarborgsom"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Feet/inches (6.56ft, 16.4ft, 32.8ft) and links to us.govee.com / Govee US Matter FAQ as the only product source",
+      "action": "replace",
+      "with": "Metric lengths (2 m / 5 m) and the Govee EU store listing (H61E0, EU 2-pin plug)"
+    },
+    {
+      "english": "US dorm and US-forum quotes (r/williamandmary, r/HomeMaintenance) about paint and adhesive",
+      "action": "replace",
+      "with": "Local deposit facts and local community quotes listed in localPainPoints"
+    },
+    {
+      "english": "Plug-in adapter presented generically (US 120 V plug)",
+      "action": "replace",
+      "with": "EU version with EU 2-pin plug charger; tell reader to search the EU model name"
+    }
+  ],
+  "guideOnly": false
+}

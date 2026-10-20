@@ -1,0 +1,122 @@
+{
+  "lang": "de",
+  "translationOf": "what-is-homekit",
+  "checkedAt": "2026-10-20T13:20:00Z",
+  "productFit": [
+    {
+      "name": "Apple HomePod mini 2",
+      "asin": "B0FK8JL74Q",
+      "status": "fits",
+      "reason": "Apple's own DE spec page lists HomePod mini 2 with a 20 W adapter in the box (Netzspannung 100 V bis 240 V, 50 Hz bis 60 Hz), Wi-Fi 6E, Thread, temperature and humidity sensor, and HomeKit / Home app support. Mains is 230 V compatible, so no converter is needed. Caveat for the post: the ASIN is carried from the existing German speaker post and is unverified for the EU Amazon store; the post should send readers to the DE Apple Store / EU retailer listing by name, not to a US import, because the adapter plug differs by region.",
+      "source": "https://www.apple.com/de/homepod-mini/specs/"
+    },
+    {
+      "name": "Apple TV 4K (4th generation)",
+      "asin": "",
+      "status": "fits",
+      "reason": "Apple's DE spec page lists the 128 GB model with A19 chip, Wi-Fi 7, Gigabit Ethernet, Thread, HDMI 2.1, built-in power supply with power cord in the box, Netzspannung 100 V bis 240 V, 50 Hz bis 60 Hz. Works as a home hub. No ASIN in the English post (amzn query only). Needs a HDMI cable sold separately. Apple's support page notes HomePod mini, HomePod and Apple TV are not available in all countries, but both pages are live on Apple DE.",
+      "source": "https://www.apple.com/de/apple-tv-4k/specs/"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Apple's German support page says you must set up a Steuerzentrale (home hub) to add Matter accessories to the Home app, that Thread-capable Matter accessories need a Thread-capable hub (HomePod mini or Apple TV 4K 3rd gen Wi-Fi + Ethernet, or a supported third-party border router), and that only the owner of the Home can add a HomePod or Apple TV as hub. German UI terms to use: Home-App, Steuerzentrale, Apple Account.",
+      "source": "https://support.apple.com/de-de/102557"
+    },
+    {
+      "fact": "Apple's German spec pages list HomePod mini 2 and Apple TV 4K at 100-240 V, 50-60 Hz, so both run on German 230 V sockets (Type F/C) without a converter. The HomePod mini 2 page lists German radio stations (1LIVE, SWR3, Antenne Bayern), i.e. the German-region feature set differs from the US page.",
+      "source": "https://www.apple.com/de/homepod-mini/specs/"
+    },
+    {
+      "fact": "The MieterEngel tenant-law guide (a legal-service portal, not a tenant association) says plug-and-play devices that are only plugged in or stuck on are generally unproblematic, that anything permanently tied to the building usually needs the landlord's consent, and to keep original parts (e.g. the old radiator thermostat) to restore on move-out. Present as general information; the Deutscher Mieterbund (DMB) umbrella lists local Mietervereine for individual advice.",
+      "source": "https://mieterengel.de/smart-home-mietrecht/"
+    },
+    {
+      "fact": "The same guide says cameras and sensors should not film shared hallways, stairwells or neighbours' doors (neighbours' Persoenlichkeitsrecht), and advises reading what data a manufacturer stores. Relevant if the reader later adds HomeKit Secure Video cameras to the Home.",
+      "source": "https://mieterengel.de/smart-home-mietrecht/"
+    },
+    {
+      "fact": "The Deutscher Mieterbund is the umbrella of 15 Landesverbaende and over 300 local Mietervereine with over 500 advice centres; this is where a reader can ask about a landlord-owned smart lock or thermostat.",
+      "source": "https://mieterbund.de/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Confusion between a Bridge (e.g. Hue Bridge, IKEA Gateway) and an Apple Steuerzentrale: a gutefrage asker heard hubs are needed for automations and asks whether other bridges count.",
+      "fix": "Explain in the post that a Bridge only connects Zigbee devices, while the Apple Steuerzentrale (HomePod mini or Apple TV 4K) is what enables Fernzugriff and Automationen; link to the English post's Zigbee vs Matter/Thread paragraph and Apple's German hub page.",
+      "quotes": [
+        {
+          "text": "Jedoch habe ich gehört, dass man für eine Automation oder Szenen eine Steuerzentrale als HomePod (mini), AppleTV oder iPad braucht.",
+          "url": "https://www.gutefrage.net/frage/homekit-steuerzentrale-ersetzen"
+        }
+      ],
+      "sources": [
+        "https://www.gutefrage.net/frage/homekit-steuerzentrale-ersetzen",
+        "https://support.apple.com/de-de/102557"
+      ]
+    },
+    {
+      "pain": "Thread/Matter range over several floors in thick (concrete) buildings: forum users say Matter does not solve range, and that one Thread border router per floor is the practical fix.",
+      "fix": "Use the English post's Thread dropout advice (one set of border routers, central placement, wired Apple TV) and add: in multi-floor or concrete flats, expect one hub per floor; a wired Apple TV 4K gives a stable hub.",
+      "quotes": [
+        {
+          "text": "Matter löst ein Kompatibilitätsproblem, aber nicht dein Reichweitenproblem über mehrere Etagen.",
+          "url": "https://forum.smartapfel.de/forum/thread/12377-homehub-%C3%BCber-2-etagen-matter-nutzung/"
+        },
+        {
+          "text": "Brauchst du aber auch nicht wenn pro Etage ein eigener Thread Border Router wie z.B. Apple TV steht.",
+          "url": "https://forum.smartapfel.de/forum/thread/12377-homehub-%C3%BCber-2-etagen-matter-nutzung/"
+        }
+      ],
+      "sources": [
+        "https://forum.smartapfel.de/forum/thread/12377-homehub-%C3%BCber-2-etagen-matter-nutzung/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Uses the German Apple terms readers actually see (Home-App, Steuerzentrale, Apple Account, Border-Router) instead of 'home hub' / 'Apple ID', and points to Apple's German setup page.",
+      "source": "https://support.apple.com/de-de/102557"
+    },
+    {
+      "point": "Confirms both Apple products are sold on Apple DE with 100-240 V and tells the reader to buy the German listing (right plug and region), not a US import.",
+      "source": "https://www.apple.com/de/homepod-mini/specs/"
+    },
+    {
+      "point": "Adds the German rental context: plug-in hubs need no landlord consent per the tenant-law guide, shared hallways must not be filmed, and the Mieterverein is the place for a landlord-owned lock or thermostat.",
+      "source": "https://mieterengel.de/smart-home-mietrecht/"
+    },
+    {
+      "point": "Answers the Bridge-vs-Steuerzentrale confusion German forum users raise and the one-hub-per-floor Thread tip.",
+      "source": "https://www.gutefrage.net/frage/homekit-steuerzentrale-ersetzen"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Spec units in inches and pounds (3.3 in, 0.74 lb, 3.67 in, 7.6 oz)",
+      "action": "replace",
+      "with": "Use Apple DE metric values: 84,3 x 97,9 mm / 335 g (HomePod mini 2); 93,24 x 93,24 x 31 mm / 217 g (Apple TV 4K)"
+    },
+    {
+      "english": "English-language r/HomeKit and r/MatterProtocol quotes presented as owner voices",
+      "action": "replace",
+      "with": "Keep only as translated paraphrase; add the German gutefrage and HomeKit.Community quotes from the pain points above"
+    },
+    {
+      "english": "'Apple ID', 'Home hub', 'Home app' terminology",
+      "action": "replace",
+      "with": "Apple Account (Apple's German pages now say Apple Account), Steuerzentrale, Home-App"
+    },
+    {
+      "english": "Landlord-owned locks / 'check your lease' with no local pointer",
+      "action": "replace",
+      "with": "Mieterverein / Deutscher Mieterbund as the advice contact (general info only)"
+    },
+    {
+      "english": "Amazon.com style product links by query",
+      "action": "replace",
+      "with": "Search the German listing by name (HomePod mini 2, Apple TV 4K) so the EU adapter/plug is shipped"
+    }
+  ],
+  "guideOnly": false
+}

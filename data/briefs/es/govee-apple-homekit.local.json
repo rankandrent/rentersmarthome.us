@@ -1,0 +1,92 @@
+{
+  "lang": "es",
+  "translationOf": "govee-apple-homekit",
+  "checkedAt": "2026-10-20T13:14:50Z",
+  "productFit": [
+    {
+      "name": "Govee LED Strip Light M1 (H61E0 6.56ft / H61E1 16.4ft)",
+      "asin": "",
+      "status": "localVariant",
+      "variant": "Govee LED Strip Light M1 H61E0 (2 m) with EU 2-pin plug charger, sold on eu.govee.com (EU store, EUR); the 5 m H61E1 EU version was not confirmed",
+      "reason": "Govee EU store lists M1 model H61E0 with 'Charger: EU 2-PIN PLUG' and Matter (works with HomeKit, Alexa, Google). The listing found is the refurbished 1 m/2 m page and showed Sold out at check time, so availability varies; point readers to the EU version by name (OneLink/Amazon search) and do not present the US plug version as the fit. The 5 m H61E1 EU plug version is unknown. Mains 230 V is handled by the EU charger. Govee EU store page is served in Spanish ('agotado' text) so the EU store serves Spain; shipping to Spain not separately verified.",
+      "source": "https://eu.govee.com/products/refurbished-govee-led-strip-light-m1-matter-compatible-2m"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "El Govee M1 H61E0 aparece en la tienda Govee EU con cargador de enchufe EU de 2 patillas y compatibilidad Matter (HomeKit, Alexa, Google); la ficha encontrada es de producto reacondicionado y figuraba como agotada.",
+      "source": "https://eu.govee.com/products/refurbished-govee-led-strip-light-m1-matter-compatible-2m"
+    },
+    {
+      "fact": "La LAU (art. 36) dice que el saldo de la fianza en metalico devenga interes legal si pasado un mes desde la entrega de llaves no se ha restituido.",
+      "source": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-26003"
+    },
+    {
+      "fact": "Segun la OCU (publicacion en su pagina), la fianza no puede usarse para reparar desperfectos que el inquilino ya reclamo al propietario; las comunidades autonomas pueden exigir depositar la fianza en un organismo publico (RDL 7/2019).",
+      "source": "https://www.facebook.com/consumidoresocu/posts/cu%C3%A1nta-fianza-pueden-pedirte-y-cu%C3%A1ndo-tienes-que-pagarla-cu%C3%A1ndo-tienen-que-devol/1429807225848045/"
+    },
+    {
+      "fact": "TP-Link explica como activar IPv6 en el router (Avanzado > IPv6); necesario para emparejar Govee Matter. En pisos con router del operador o red comunitaria puede requerir consultar al operador o casero.",
+      "source": "https://www.tp-link.com/uy/support/faq/1525/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "El casero retiene la fianza por pintura o desperfectos en paredes.",
+      "fix": "Preferir lamparas enchufables a tiras adhesivas, quitar el adhesivo con calor/alcohol isopropilico, documentar el estado con fotos; recordar el plazo de un mes del art. 36 LAU (informacion general).",
+      "quotes": [
+        {
+          "text": "He dejado mi piso donde viví 5 años hace poco mas de un mes y el casero se niega a devolverme la fianza de 800€.",
+          "url": "https://www.reddit.com/r/ESLegal/comments/1sfnmv7/casero_no_me_devuelve_fianza_por_tener_que_pintar/"
+        },
+        {
+          "text": "Son desperfectos derivados del uso normal del piso y los asume el propietario.",
+          "url": "https://www.reddit.com/r/ESLegal/comments/1nhisum/cobro_de_900_euros_en_pintura_tras_terminar/"
+        }
+      ],
+      "sources": [
+        "https://www.boe.es/buscar/act.php?id=BOE-A-1994-26003"
+      ]
+    },
+    {
+      "pain": "El emparejamiento Matter falla por IPv6 desactivado en el router.",
+      "fix": "Lista de comprobacion del post ingles (IPv6, 2,4 GHz, 15 minutos) con enlace a guia de router. No se encontro cita local verificada.",
+      "quotes": [],
+      "sources": [
+        "https://www.tp-link.com/uy/support/faq/1525/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Que version del M1 comprar en Espana: H61E0 con cargador EU de 2 patillas desde la tienda Govee EU; la version 5 m EU sin confirmar.",
+      "source": "https://eu.govee.com/products/refurbished-govee-led-strip-light-m1-matter-compatible-2m"
+    },
+    {
+      "point": "Plazo de un mes e interes legal de la fianza segun el art. 36 LAU, que el post ingles (derecho de EE. UU.) no menciona.",
+      "source": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-26003"
+    },
+    {
+      "point": "Citas reales de inquilinos espanoles (r/ESLegal) sobre fianzas retenidas por pintura, en lugar de foros de residencias de EE. UU.",
+      "source": "https://www.reddit.com/r/ESLegal/comments/1sfnmv7/casero_no_me_devuelve_fianza_por_tener_que_pintar/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Feet/inches (6.56ft, 16.4ft, 32.8ft) and links to us.govee.com / Govee US Matter FAQ as the only product source",
+      "action": "replace",
+      "with": "Metric lengths (2 m / 5 m) and the Govee EU store listing (H61E0, EU 2-pin plug)"
+    },
+    {
+      "english": "US dorm and US-forum quotes (r/williamandmary, r/HomeMaintenance) about paint and adhesive",
+      "action": "replace",
+      "with": "Local deposit facts and local community quotes listed in localPainPoints"
+    },
+    {
+      "english": "Plug-in adapter presented generically (US 120 V plug)",
+      "action": "replace",
+      "with": "EU version with EU 2-pin plug charger; tell reader to search the EU model name"
+    }
+  ],
+  "guideOnly": false
+}

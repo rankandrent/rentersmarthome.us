@@ -1,0 +1,89 @@
+{
+  "lang": "de",
+  "translationOf": "govee-apple-homekit",
+  "checkedAt": "2026-10-20T13:14:50Z",
+  "productFit": [
+    {
+      "name": "Govee LED Strip Light M1 (H61E0 6.56ft / H61E1 16.4ft)",
+      "asin": "",
+      "status": "localVariant",
+      "variant": "Govee LED Strip Light M1 H61E0 (2 m) with EU 2-pin plug charger, sold on eu.govee.com (EU store, EUR); the 5 m H61E1 EU version was not confirmed",
+      "reason": "Govee EU store lists M1 model H61E0 with 'Charger: EU 2-PIN PLUG' and Matter (works with HomeKit, Alexa, Google). The listing found is the refurbished 1 m/2 m page and showed Sold out at check time, so availability varies; point readers to the EU version by name (OneLink/Amazon search) and do not present the US plug version as the fit. The 5 m H61E1 EU plug version is unknown. Mains 230 V is handled by the EU charger. Govee EU store is the EU-wide shop; Amazon.de search by name finds the EU version (not verified here).",
+      "source": "https://eu.govee.com/products/refurbished-govee-led-strip-light-m1-matter-compatible-2m"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Die EU-Version des Govee M1 (H61E0) wird im Govee-EU-Shop mit EU-2-Pin-Netzteil und Matter-Kompatibilitaet (HomeKit, Alexa, Google) gefuehrt; das angebotene Exemplar ist als generalueberholt (refurbished) gelistet.",
+      "source": "https://eu.govee.com/products/refurbished-govee-led-strip-light-m1-matter-compatible-2m"
+    },
+    {
+      "fact": "R+V Versicherung nennt als Praxis: Vermieter hat in der Regel 3 bis 6 Monate nach Auszug Zeit, die Kaution abzurechnen; einbehalten darf er nur berechtigte Forderungen, z. B. Schaeden ueber die normale Abnutzung hinaus; die Beweislast liege beim Vermieter.",
+      "source": "https://www.ruv.de/mietkaution/mietkaution-rueckzahlung"
+    },
+    {
+      "fact": "Der Mieterverein Hamburg widerspricht der pauschalen 3-6-Monats-Frist: Nach Mietende muss die Kaution 'alsbald' zurueckgezahlt werden, einbehalten werden darf nur in Hoehe tatsaechlicher Forderungen.",
+      "source": "https://www.mieterverein-hamburg.de/ratgeber/vertraege-verpflichtungen/kaution/"
+    },
+    {
+      "fact": "AVM erklaert in der Wissensdatenbank, wie IPv6 in der FRITZ!Box (Heimnetz > Netzwerk > Netzwerkeinstellungen) eingerichtet wird; relevant, weil Govee-Matter-Kopplung IPv6 voraussetzt. Mieter mit Router vom Anbieter oder Hausnetz brauchen ggf. dessen Zustimmung.",
+      "source": "https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-7582-int/573_IPv6-in-FRITZ-Box-einrichten/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Angst, dass der Vermieter beim Auszug fuer Wandschaeden (Kleber, Farbe, Tapete) Geld von der Kaution abzieht.",
+      "fix": "Plug-in-Optionen (Stehlampe, Steckdosenadapter) statt Klebestreifen bevorzugen; Kleber vor dem Abziehen mit Isopropanol/Fön loesen wie im englischen Post; Zustand per Foto dokumentieren; Mieterverein-Hinweis zu Kautionsfristen nennen (allgemeine Information).",
+      "quotes": [
+        {
+          "text": "Dafür will mein Vermieter jetzt einen Fachbetrieb ranholen, um neue Tapeten anbringen zu lassen (800€) und komplett von meiner Kaution abziehen.",
+          "url": "https://www.reddit.com/r/wohnen/comments/1shqgox/vermieter_will_800_schadensersatz_f%C3%BCr_nicht/"
+        }
+      ],
+      "sources": [
+        "https://www.ruv.de/mietkaution/mietkaution-rueckzahlung",
+        "https://www.mieterverein-hamburg.de/ratgeber/vertraege-verpflichtungen/kaution/"
+      ]
+    },
+    {
+      "pain": "Matter-Kopplung scheitert, weil IPv6 im Router/Hausnetz fehlt.",
+      "fix": "IPv6-Check und Reihenfolge aus dem englischen Post (2,4 GHz, 15 Minuten); bei FRITZ!Box AVM-Anleitung nutzen. Kein deutsches Forenzitat gefunden (nur uebersetzte englische Threads), daher ohne Zitat.",
+      "quotes": [],
+      "sources": [
+        "https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-7582-int/573_IPv6-in-FRITZ-Box-einrichten/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Welche M1-Version in Deutschland passt: H61E0 mit EU-2-Pin-Netzteil im Govee-EU-Shop, nicht die US-Version; 5-m-EU-Variante ungeprueft.",
+      "source": "https://eu.govee.com/products/refurbished-govee-led-strip-light-m1-matter-compatible-2m"
+    },
+    {
+      "point": "Kaution-Realitaet: 3-6 Monate Pruefzeit laut R+V, Gegenposition des Mietervereins Hamburg, Beweislast beim Vermieter; Schaeden ueber normale Abnutzung sind der Streitpunkt.",
+      "source": "https://www.ruv.de/mietkaution/mietkaution-rueckzahlung"
+    },
+    {
+      "point": "FRITZ!Box-spezifischer IPv6-Pfad statt generischem 'IPv6 im Router einschalten'.",
+      "source": "https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-7582-int/573_IPv6-in-FRITZ-Box-einrichten/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Feet/inches (6.56ft, 16.4ft, 32.8ft) and links to us.govee.com / Govee US Matter FAQ as the only product source",
+      "action": "replace",
+      "with": "Metric lengths (2 m / 5 m) and the Govee EU store listing (H61E0, EU 2-pin plug)"
+    },
+    {
+      "english": "US dorm and US-forum quotes (r/williamandmary, r/HomeMaintenance) about paint and adhesive",
+      "action": "replace",
+      "with": "Local deposit facts and local community quotes listed in localPainPoints"
+    },
+    {
+      "english": "Plug-in adapter presented generically (US 120 V plug)",
+      "action": "replace",
+      "with": "EU version with EU 2-pin plug charger; tell reader to search the EU model name"
+    }
+  ],
+  "guideOnly": false
+}
