@@ -1156,6 +1156,53 @@
         "mentions": 3,
         "coveredBy": [],
         "foundAt": "2026-10-19"
+      },
+      {
+        "id": "security-ring-homebridge-live-view-not-responding",
+        "pain": "Ring cameras added to Apple Home through a bridge show 'not responding' or stale snapshots",
+        "details": "Owners who bridge Ring into HomeKit report live view failing, snapshots not loading and doorbells going unresponsive until the bridge or home hub is restarted. A bridge is a second thing to maintain.",
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/homebridge/comments/1l15kwk/ring_cameras_show_in_homekit_but_when_i_click_for/",
+            "platform": "reddit",
+            "title": "Ring cameras show in HomeKit but when I click for live view it says not responding",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.reddit.com/r/homebridge/comments/in3p6e/ring_doorbells_not_responding/",
+            "platform": "reddit",
+            "title": "Ring Doorbells Not Responding",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.reddit.com/r/HomeKit/comments/1x50tp7/doorbell_camera_for_an_apartment_recommendation/",
+            "platform": "reddit",
+            "title": "Doorbell Camera for an APARTMENT recommendation?",
+            "seen": "2026-10-20"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Restarting the homekit hub finally fixed it.",
+            "url": "https://www.reddit.com/r/homebridge/comments/in3p6e/ring_doorbells_not_responding/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "Dont get a ring doorbell. They're not compatible with Homekit, and you'll have to pay to play.",
+            "url": "https://www.reddit.com/r/HomeKit/comments/1x50tp7/doorbell_camera_for_an_apartment_recommendation/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "ring homekit not responding",
+          "ring homebridge live view"
+        ],
+        "keywords": [
+          "does ring work with apple homekit"
+        ],
+        "mentions": 3,
+        "coveredBy": [],
+        "foundAt": "2026-10-20"
       }
     ],
     "hubs-voice": [

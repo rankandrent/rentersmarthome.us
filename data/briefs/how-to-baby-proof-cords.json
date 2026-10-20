@@ -1,0 +1,449 @@
+{
+  "keyword": "how to baby proof cords",
+  "slug": "how-to-baby-proof-cords",
+  "category": "baby-proofing",
+  "articleType": "how-to",
+  "centralEntity": "baby proofing cords",
+  "entityVariants": [
+    "childproofing cords",
+    "cord safety for babies",
+    "baby proof power strip",
+    "hide cords from toddler",
+    "baby proof extension cords"
+  ],
+  "entities": [
+    {
+      "name": "cord cover / duct cord cover",
+      "type": "product",
+      "relation": "hides and anchors floor-crossing cords"
+    },
+    {
+      "name": "adhesive cable raceway / cord channel",
+      "type": "product",
+      "relation": "no-drill wall or baseboard routing for cords"
+    },
+    {
+      "name": "cord shortener / winder",
+      "type": "product",
+      "relation": "removes slack so a cord cannot be grabbed or looped"
+    },
+    {
+      "name": "cord sleeve / cable wrap",
+      "type": "product",
+      "relation": "bundles multiple cords into one thick tube"
+    },
+    {
+      "name": "power strip cover box",
+      "type": "product",
+      "relation": "encloses a strip and its plugs so a toddler cannot unplug them"
+    },
+    {
+      "name": "adhesive cord clips",
+      "type": "product",
+      "relation": "pin cords flat to baseboard or wall"
+    },
+    {
+      "name": "Velcro straps and zip ties",
+      "type": "product",
+      "relation": "bundle cords and lock a plug to a strip"
+    },
+    {
+      "name": "box outlet cover",
+      "type": "product",
+      "relation": "covers an in-use outlet and the plug in it"
+    },
+    {
+      "name": "tamper-resistant receptacle (TRR)",
+      "type": "hardware",
+      "relation": "permanent outlet upgrade, needs landlord approval"
+    },
+    {
+      "name": "surge protector",
+      "type": "product",
+      "relation": "floor-level strip that is a major reachable hazard"
+    },
+    {
+      "name": "extension cord",
+      "type": "product",
+      "relation": "long slack and overheating risk in nurseries"
+    },
+    {
+      "name": "security deposit",
+      "type": "lease concept",
+      "relation": "adhesive residue or paint damage can be deducted"
+    },
+    {
+      "name": "landlord approval",
+      "type": "lease concept",
+      "relation": "required before drilling, rewiring or swapping outlets"
+    },
+    {
+      "name": "furniture anti-tip anchor",
+      "type": "hardware",
+      "relation": "needed if furniture is used to hide cords"
+    },
+    {
+      "name": "electrical shock / strangulation / chewing",
+      "type": "hazard",
+      "relation": "the three cord dangers"
+    }
+  ],
+  "attributes": [
+    "no-drill install",
+    "adhesive strength and residue on removal",
+    "paint-safe removal",
+    "chew resistance",
+    "toddler pull strength",
+    "fits power strip size",
+    "cord thickness capacity",
+    "heat and ventilation (rugs, covers)",
+    "cost per room",
+    "renter approval needed",
+    "reusability when moving"
+  ],
+  "ngrams": [
+    "baby proof cords",
+    "cord covers",
+    "power strip cover",
+    "cord management",
+    "cords out of reach",
+    "extension cords",
+    "power strips",
+    "cord shortener",
+    "adhesive cord clips",
+    "cord sleeve",
+    "hide cords",
+    "outlet covers",
+    "pull on cords",
+    "chew on cords",
+    "baby proof power strip"
+  ],
+  "skipgrams": [
+    "cords\u2026out of reach",
+    "cord\u2026cover",
+    "power strip\u2026box",
+    "cord\u2026baseboard",
+    "toddler\u2026pull\u2026cord",
+    "baby\u2026chew\u2026cord",
+    "cord\u2026adhesive",
+    "bundle\u2026cords",
+    "hide\u2026cords",
+    "excess\u2026cord",
+    "cord\u2026furniture",
+    "strip\u2026mount"
+  ],
+  "nlpTerms": [
+    "strangulation",
+    "teething",
+    "electrical shock",
+    "cord cover",
+    "cord sleeve",
+    "cord shortener",
+    "cable raceway",
+    "adhesive",
+    "baseboard",
+    "power strip",
+    "surge protector",
+    "extension cord",
+    "Velcro",
+    "zip tie",
+    "tamper-resistant outlet",
+    "box cover",
+    "crawling",
+    "toddler",
+    "landlord",
+    "security deposit",
+    "residue",
+    "overheating",
+    "anti-tip"
+  ],
+  "questions": [
+    "how do you hide cords from a crawling baby",
+    "can you baby proof cords without drilling",
+    "how do I baby proof a power strip",
+    "how do I stop my toddler unplugging cords",
+    "can I run cords under a rug",
+    "are cord covers safe for babies",
+    "what happens if a baby chews a cord",
+    "will adhesive cord channels damage my walls"
+  ],
+  "contentGaps": [
+    "No-drill, deposit-safe options ranked by what they leave on the wall",
+    "How to test and remove adhesive on rental paint",
+    "Move-out day: what to peel off and what to keep",
+    "Whether to ask the landlord for tamper-resistant outlets (cost, who pays, letter wording)",
+    "Furniture-as-barrier advice ignores that renters often cannot anchor to studs",
+    "Preventing the plug being yanked from a strip in use, not just covering the strip",
+    "Cord-by-cord triage by hazard (strangle, chew, pull) instead of a generic list"
+  ],
+  "outline": [
+    {
+      "h2": "How to baby proof cords without drilling (the short answer)",
+      "intent": "Direct answer: shorten, bundle, route and enclose",
+      "h3": []
+    },
+    {
+      "h2": "Find the cords a baby can actually reach",
+      "intent": "Hands-and-knees check, three hazards (strangle, chew, pull) as commonPoints",
+      "h3": [
+        "The three cord dangers",
+        "What to check first: blind cords, lamps, chargers, strips"
+      ]
+    },
+    {
+      "h2": "Renter-safe cord fixes ranked by what they leave on the wall",
+      "intent": "ourGain: no-drill options and deposit risk",
+      "h3": [
+        "Cord shorteners and winders (no wall contact)",
+        "Floor duct covers and rug-free routing",
+        "Adhesive channels and clips: test patch and residue",
+        "Cord sleeves and Velcro bundles"
+      ]
+    },
+    {
+      "h2": "Baby proof a power strip and plugs that are in use",
+      "intent": "Power strip box, mounting under furniture, locking plugs so they cannot be pulled",
+      "h3": [
+        "Power strip cover boxes",
+        "Stop the toddler unplugging things"
+      ]
+    },
+    {
+      "h2": "Hiding cords behind furniture (and when it backfires)",
+      "intent": "Furniture barrier without stud anchoring",
+      "h3": []
+    },
+    {
+      "h2": "Problems owners run into, and the fix",
+      "intent": "Answer pain points",
+      "h3": [
+        "Cords behind the TV and couch",
+        "Plug keeps getting pulled out",
+        "Odd or oversized plugs won't fit a cover",
+        "Can I swap outlets or plates as a renter?"
+      ]
+    },
+    {
+      "h2": "Move-out day: restore the walls and get your deposit back",
+      "intent": "Removal, residue, photos, what to ask the landlord",
+      "h3": []
+    }
+  ],
+  "targetWords": 1450,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://babyproofme.com/blogs/the-parenting-journal/how-to-baby-proof-electrical-outlets-and-cords-a-comprehensive-guide",
+      "https://www.mistersparky.com/expert-tips/general-electrical/child-proofing-outlets-plugs-and-cords/",
+      "https://lifesupplyusa.com/blogs/news/how-to-childproof-extension-cords-and-electrical-outlets",
+      "https://www.reddit.com/r/NewParents/comments/136mqw1/how_would_you_babyproof_these_cords_and_outlets/",
+      "https://community.babycenter.com/post/a8376615/how_do_i_babyproof_cords_and_surge_protectors"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "How-to guides that explain each cord solution in a short written paragraph or list item; no product roundup, no per-product pros/cons or spec tables.",
+    "avgWords": 1350,
+    "avgProducts": 6,
+    "commonSections": [
+      "assess hazards / hands-and-knees check",
+      "cord shorteners and winders",
+      "cord covers and sleeves",
+      "adhesive clips and Velcro/zip ties",
+      "furniture to hide cords",
+      "power strip covers and mounting",
+      "when to call an electrician / tamper-resistant outlets"
+    ],
+    "usesComparisonTable": false,
+    "usesFaq": true,
+    "usesBuyingGuide": false
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.reddit.com/r/NewParents/comments/136mqw1/how_would_you_babyproof_these_cords_and_outlets/",
+      "title": "How would you babyproof these cords and outlets? : r/NewParents - Reddit"
+    },
+    {
+      "position": 2,
+      "url": "https://babyproofme.com/blogs/the-parenting-journal/how-to-baby-proof-electrical-outlets-and-cords-a-comprehensive-guide",
+      "title": "How to Baby Proof Electrical Outlets and Cords: A Comprehensive Guide"
+    },
+    {
+      "position": 3,
+      "url": "https://www.amazon.com/cord-cover-baby-proofing/s?k=cord+cover+baby+proofing",
+      "title": "Cord Cover Baby Proofing - Amazon.com"
+    },
+    {
+      "position": 4,
+      "url": "https://www.youtube.com/watch?v=wIaMkLImIsw",
+      "title": "How to Childproof Your Lamp Cords - YouTube"
+    },
+    {
+      "position": 5,
+      "url": "https://www.mistersparky.com/expert-tips/general-electrical/child-proofing-outlets-plugs-and-cords/",
+      "title": "How to Baby Proof Outlets, Cords, and Plugs - Mister Sparky"
+    },
+    {
+      "position": 6,
+      "url": "https://www.facebook.com/groups/1245250906066131/posts/1864484660809416/",
+      "title": "How to babyproof outlets and power cords at home - Facebook"
+    },
+    {
+      "position": 7,
+      "url": "https://community.babycenter.com/post/a8376615/how_do_i_babyproof_cords_and_surge_protectors",
+      "title": "How do I babyproof cords and surge protectors? - Community | BabyCenter"
+    },
+    {
+      "position": 8,
+      "url": "https://lifesupplyusa.com/blogs/news/how-to-childproof-extension-cords-and-electrical-outlets",
+      "title": "How to Childproof Extension Cords and Electrical Outlets"
+    },
+    {
+      "position": 9,
+      "url": "https://www.tiktok.com/@sarahbrithinee/video/7097922153051409707?lang=en",
+      "title": "Effective Baby Proofing Solutions for Wires and Cords - TikTok"
+    },
+    {
+      "position": 10,
+      "url": "https://forums.thebump.com/discussion/1801626/how-to-baby-proof-cords",
+      "title": "How to baby proof cords. \u2014 The Bump - Community Forums"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 2,
+    "withYear": 0,
+    "withNumber": 0,
+    "commonModifiers": [
+      "outlets and cords",
+      "childproof",
+      "guide"
+    ],
+    "gap": "No title promises a renter-safe, no-drill, deposit-safe way to do it"
+  },
+  "commonPoints": [
+    "Crawl the room at baby height to spot reachable cords",
+    "Cords present strangulation, chewing and pulling hazards",
+    "Shorten or wind up excess cord with a shortener",
+    "Use duct cord covers or channels for floor and baseboard runs",
+    "Bundle multiple cords with sleeves, Velcro or zip ties",
+    "Cover or mount power strips out of reach (power strip cover box)",
+    "Push furniture in front of cord clusters",
+    "Never run cords under rugs or rely on extension cords long-term"
+  ],
+  "ourGain": [
+    {
+      "point": "Renter-safe cord fixes ranked by what they leave on the wall: no-contact (shorteners, floor covers, furniture), removable adhesive (test patch on paint), vs permanent (screws, outlet swaps needing landlord OK)",
+      "source": "data/pain-points.json#baby-proofing-renter-cant-swap-outlet-plate; https://www.reddit.com/r/NewParents/comments/136mqw1/how_would_you_babyproof_these_cords_and_outlets/"
+    },
+    {
+      "point": "Stop the plug being pulled from a power strip or wall in use: enclose the strip in a cover box and lock the plug to the strip with a zip tie or Velcro strap, rather than only hiding the strip",
+      "source": "data/pain-points.json#baby-proofing-toddler-pulls-plug-out; https://www.reddit.com/r/daddit/comments/1pajr5p/baby_proofing_outlet_with_oddly_shaped_plug/"
+    },
+    {
+      "point": "Furniture-as-barrier backfires for renters who cannot drill into studs: use heavy low furniture, leave a ventilation gap, and check anti-tip options your lease allows",
+      "source": "https://www.mistersparky.com/expert-tips/general-electrical/child-proofing-outlets-plugs-and-cords/ (advises stud anchoring); data/pain-points.json#baby-proofing-cord-clutter-behind-furniture"
+    },
+    {
+      "point": "Move-out checklist for cord fixes: which adhesive channels to warm and peel, residue removal, photos and what to ask the landlord in writing",
+      "source": "data/pain-points.json#baby-proofing-renter-cant-swap-outlet-plate"
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "baby-proofing-cord-clutter-behind-furniture",
+      "pain": "Tangled cords and power strips at floor level are reachable by crawling babies",
+      "details": "Parents with TV stands, fireplaces and kid rooms struggle to hide cords and power strips without rewiring; they push furniture against outlets or use raceways.",
+      "sources": [
+        "https://www.reddit.com/r/NewParents/comments/136mqw1/how_would_you_babyproof_these_cords_and_outlets/",
+        "https://www.reddit.com/r/Mommit/comments/1daige4/how_the_heck_do_you_toddler_proof_your_kids_room/",
+        "https://www.reddit.com/r/daddit/comments/1f9jivz/toddler_proofing_outlet_box/",
+        "https://forums.thebump.com/discussion/8275803/pulling-cords-out-of-walls-help"
+      ],
+      "quotes": [
+        {
+          "text": "A clean solution would be to extend the outlet to above the fireplace using a raceway and raceway outlet.",
+          "url": "https://www.reddit.com/r/NewParents/comments/136mqw1/how_would_you_babyproof_these_cords_and_outlets/"
+        },
+        {
+          "text": "make sure all furniture is secured to the wall, hide cords behind furniture",
+          "url": "https://www.reddit.com/r/Mommit/comments/1daige4/how_the_heck_do_you_toddler_proof_your_kids_room/"
+        },
+        {
+          "text": "My preferred option is furniture that doesn't leave enough clearance for your toddler to climb under, or reach through to access the outlet.",
+          "url": "https://www.reddit.com/r/daddit/comments/1f9jivz/toddler_proofing_outlet_box/"
+        }
+      ]
+    },
+    {
+      "id": "baby-proofing-toddler-pulls-plug-out",
+      "pain": "Toddler keeps pulling the plug or the safety cap out of an outlet that is in use",
+      "details": "Parents of 1-3 year olds find press-fit plug caps pop out and kids unplug lamps and chargers. They tried tighter caps, zip ties and locking box covers; some ask whether the outlet itself can be swapped.",
+      "sources": [
+        "https://www.reddit.com/r/daddit/comments/1ep0a4y/my_daughter_3_keeps_pulling_these_plug_caps_out/",
+        "https://www.reddit.com/r/toddlers/comments/wiogr3/help_hes_taken_the_safety_plug_covers_off_of_all/",
+        "https://www.reddit.com/r/howto/comments/1gnb0bq/how_to_baby_proof_this_to_stop_child_from/",
+        "https://forums.thebump.com/discussion/8275803/pulling-cords-out-of-walls-help",
+        "https://www.instagram.com/reel/DTLZ65Rj7mV/?hl=en"
+      ],
+      "quotes": [
+        {
+          "text": "Zip tie the plug to the outlet cover so it can't be pulled out.",
+          "url": "https://www.reddit.com/r/daddit/comments/1pajr5p/baby_proofing_outlet_with_oddly_shaped_plug/"
+        },
+        {
+          "text": "What you want is a 2-gang outdoor outlet cover. You can throw a lock on if you want, though I usually just zip tie them.",
+          "url": "https://www.reddit.com/r/howto/comments/1gnb0bq/how_to_baby_proof_this_to_stop_child_from/"
+        },
+        {
+          "text": "My son has discovered the oh-so-fun activity of pulling cords out of outlets...and it's freaking me out!",
+          "url": "https://forums.thebump.com/discussion/8275803/pulling-cords-out-of-walls-help"
+        }
+      ]
+    },
+    {
+      "id": "baby-proofing-renter-cant-swap-outlet-plate",
+      "pain": "Renters are unsure whether they can replace wall plates or outlets for baby proofing without the landlord",
+      "details": "Renters hear to swap in tamper-resistant outlets or plates that take covers, but worry about landlord permission and deposits; some are told to hand it to the landlord.",
+      "sources": [
+        "https://www.reddit.com/r/howto/comments/1wjpzln/how_to_baby_proof_in_an_apartment/",
+        "https://www.reddit.com/r/HomeMaintenance/comments/1vja5r5/this_frustrating_outlet_is_in_my_toddlers_closet/",
+        "https://www.reddit.com/r/UKParenting/comments/1g1vvqa/babyproofing_in_a_rented_property/",
+        "https://www.reddit.com/r/shitrentals/comments/1fthezl/landlord_has_said_termination_if_we_drill_for/",
+        "https://www.reddit.com/r/beyondthebump/comments/1ibm5ay/baby_proof_outlet_covers_for_outlets_like_this/"
+      ],
+      "quotes": [
+        {
+          "text": "Unscrew the plate, unscrew the cable on the back side, replace it with a blank cover. Put it back on when you move.",
+          "url": "https://www.reddit.com/r/howto/comments/1wjpzln/how_to_baby_proof_in_an_apartment/"
+        },
+        {
+          "text": "It definitely needs to be handled by the landlord, but please don't risk your child's safety.",
+          "url": "https://www.reddit.com/r/HomeMaintenance/comments/1vja5r5/this_frustrating_outlet_is_in_my_toddlers_closet/"
+        },
+        {
+          "text": "You can replace the outlet face plates with ones that will work with outlet covers.",
+          "url": "https://www.reddit.com/r/beyondthebump/comments/1ibm5ay/baby_proof_outlet_covers_for_outlets_like_this/"
+        }
+      ]
+    },
+    {
+      "id": "baby-proofing-outlet-box-cover-wont-fit",
+      "pain": "Outlet box cover or plug cap will not fit because of an odd, recessed or oversized plug or outlet",
+      "details": "Parents with recessed boxes, big transformer plugs, IKEA lights or double outlets cannot find a cover that closes over the plug in use.",
+      "sources": [
+        "https://www.reddit.com/r/HomeMaintenance/comments/1vja5r5/this_frustrating_outlet_is_in_my_toddlers_closet/",
+        "https://www.reddit.com/r/daddit/comments/1pajr5p/baby_proofing_outlet_with_oddly_shaped_plug/",
+        "https://www.reddit.com/r/toddlers/comments/vocik3/anyone_have_any_recommendations_for_a_larger_than/",
+        "https://www.reddit.com/r/beyondthebump/comments/1ibm5ay/baby_proof_outlet_covers_for_outlets_like_this/"
+      ],
+      "quotes": [
+        {
+          "text": "For starters, the outlet/box look too recessed for a cover to properly fit.",
+          "url": "https://www.reddit.com/r/HomeMaintenance/comments/1vja5r5/this_frustrating_outlet_is_in_my_toddlers_closet/"
+        },
+        {
+          "text": "For IKEA lights the block is installed sideways and I needed to shorten the outlet hole cover underneath it so it would fit...",
+          "url": "https://www.reddit.com/r/toddlers/comments/vocik3/anyone_have_any_recommendations_for_a_larger_than/"
+        }
+      ]
+    }
+  ]
+}
