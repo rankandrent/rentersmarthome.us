@@ -3,15 +3,13 @@
   "lang": "nl",
   "translationOf": "best-smart-lock-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-19T19:29:06.442Z",
+  "checkedAt": "2026-10-20T04:35:27.463Z",
   "errors": [],
-  "warnings": [
-    "LIVE POST, FIX: source returns 404: https://www.seam.co/img/device-db/aqara/manuals/aqara_smart-lock-u100_user_manual.pdf",
-    "source didn't respond normally (no response): https://www.businesswire.com/news/home/20230608005033/en/Aqara-Introduces-its-First-Deadbolt-Smart-Lock-U100"
-  ],
+  "warnings": [],
   "factCheck": {
     "verified": true,
-    "notes": "Synced Yale keypad and SwitchBot bracket corrections from English (c3eed27)",
-    "at": "2026-10-19T13:11:36.013Z"
+    "notes": "Re-compared with EN post best-smart-lock-for-renters and local brief (guideOnly). Re-opened 2026-10-20: Rijksoverheid (small reversible changes need no consent; renovation needs consent; judge if refused; lock swap not mentioned), Consumentenbond slotenmakers (clear price indication, call-out/emergency/evening/material/btw, 50% evening surcharge usual, leadbedrijven), SwitchBot EU Lock Pro page (ideal for European homes, cylinder adaptors, Dutch language, EU-plug hub, Matter via hub, Keypad Touch fingerprint, compatibility check with ruler, install videos for Euro cylinder with knob and with key; removed unsupported 'thumbturn required' claims), Yale Linus L2 page (Euro profile cylinders protruding at least 3 mm, 22 mm round, Adjustable Cylinder; 3 mm = 0.12 in, 22 mm = 0.87 in). Reddit quote confirmed via firecrawl_search at same thread URL; thread title asks about replacing locks, quote only describes building; post now says so. Legal text framed as general info, not advice. No products, Amazon links or prices.",
+    "at": "2026-10-20T04:41:14.851Z",
+    "hash": "4d7cd4c98038f78e"
   }
 }
