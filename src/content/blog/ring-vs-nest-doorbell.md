@@ -350,6 +350,8 @@ heroImage: /images/featured/ring-vs-nest-doorbell.png
 heroAlt: >-
   Ring vs Nest Doorbell for Renters – Which Battery Model Fits a Lease? –
   RenterSmartHome comparison
+related:
+  - does-ring-work-with-apple-homekit
 ---
 
 Ring vs Nest doorbell is the question renters type the week a package goes missing from the hallway and the lease still says nothing gets screwed into the door frame. There are no doorbell wires at the unit, the building gets cold, and the neighbor's door sits right across the hall. **For most renters in a Google Home apartment, we'd pick the [Google Nest Doorbell (Battery)](amzn:Google+Nest+Doorbell+Battery), because it gives person and package alerts plus 3 hours of history with no plan. Pick the [Ring Battery Doorbell Plus (2nd Gen)](amzn:Ring+Battery+Doorbell+Plus+2nd+Gen+Retinal+2K) if you live with Alexa, your entrance freezes, or your lease bans screws.**

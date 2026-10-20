@@ -1,0 +1,390 @@
+{
+ "products": [
+  {
+   "name": "Aqara Smart Lock U200",
+   "brand": "Aqara",
+   "query": "Aqara Smart Lock U200 Apple Home Key retrofit Matter Thread",
+   "matchName": "Aqara Smart Lock U200",
+   "badge": "Best retrofit with Home Key",
+   "summary": "A retrofit smart lock that fits over your existing deadbolt cylinder and adds Apple Home Key, fingerprint, keypad and Matter over Thread. It is the one retrofit pick here that lets you tap an iPhone or Apple Watch to unlock.",
+   "renterNote": "Best for a renter who must keep the landlord's deadbolt and key, uses an iPhone and already has a HomePod mini or Apple TV as a Thread border router. Caveat: the outdoor keypad attaches with the included 3M sticker or a screw kit, so choose the sticker if the lease bans holes.",
+   "pros": [
+    "Fits over the existing lock cylinder, so the original key still works and the deadbolt stays in the door",
+    "Apple Home Key, Matter over Thread, fingerprint, keypad, NFC and key unlock in one lock",
+    "Power options: rechargeable Li-ion battery or four AA cells, with the keypad on AAA cells or a wired 12-24V supply"
+   ],
+   "cons": [
+    "Needs a Thread border router (HomePod mini or Apple TV) for remote access and automations",
+    "Outdoor keypad is a visible add-on that is stuck or screwed to the door"
+   ],
+   "facts": [
+    "Model EL-D02D / EL-D02E; wireless: Thread, Bluetooth 5.1, NFC",
+    "Lock body 62.3 x 60.6 x 152.5 mm; keypad 42.7 x 33 x 146 mm; keypad rated IPX5",
+    "Lock power: Aqara rechargeable 7.4V Li-ion or 4 AA; keypad: 4 AAA or 12-24V wired; Aqara EU page states battery life up to 6 months",
+    "In the box (EL-D02D): cylinder adaptor kit, 3M sticker, EVA pad kit, screw kit, NFC card, USB-C cable",
+    "Aqara EU page: fits over existing locks without modifications and the original key remains usable",
+    "addtohomekit: Apple Home Key with iPhone/Apple Watch, requires a HomeKit hub such as HomePod mini, HomePod or Apple TV"
+   ],
+   "sources": [
+    "https://www.aqara.com/us/product/smart-lock-u200-specs/",
+    "https://eu.aqara.com/en-eu/products/aqara-smart-lock-u200",
+    "https://www.derekseaman.com/2024/07/aqara-u200-thread-matter-homekey-smart-lock-impressions.html",
+    "https://www.addtohomekit.com/blog/apple-home-key-compatible-locks/",
+    "https://www.eyonicsecuritysystem.com.my/homekit-locks-2026"
+   ],
+   "scores": {
+    "install": 7,
+    "reversibility": 8,
+    "value": 8,
+    "compatibility": 9,
+    "portability": 8
+   },
+   "scoreNote": "Overlay design keeps the original cylinder and key (reversibility) and Matter plus Home Key covers Apple and other platforms; the exterior keypad mount and Thread border router dependency hold back install and portability."
+  },
+  {
+   "name": "Nuki Home Set NFC (Nuki Smart Lock with Keypad 2 NFC)",
+   "brand": "Nuki",
+   "query": "Nuki Smart Lock Keypad 2 NFC Apple Home Key",
+   "matchName": "Nuki Smart Lock Keypad 2 NFC",
+   "badge": "Best no-drill Wi-Fi retrofit",
+   "summary": "Nuki's U.S. retrofit lock mounts on the inside of an existing single-cylinder deadbolt, and the bundled Keypad 2 NFC adds Apple Home Key, fingerprint and PIN entry. It connects over Wi-Fi or Matter over Thread.",
+   "renterNote": "Best for a renter who wants a no-drill retrofit with a keypad and Home Key and is comfortable with a Thread border router or Wi-Fi setup. Caveat: Home Key comes from the Keypad 2 NFC, which mounts on the outside of the door, and Nuki also sells a remote-access plan, so check what is included before you buy.",
+   "pros": [
+    "Retrofits onto U.S. single-cylinder deadbolts in under 15 minutes with no drilling or modification, per Nuki's U.S. launch release",
+    "Keypad 2 NFC adds Apple Home Key, Samsung Digital Home Key, fingerprint and PIN codes",
+    "Wi-Fi or Matter over Thread, with Apple Home, Alexa, Google Home and SmartThings support"
+   ],
+   "cons": [
+    "Matter over Thread needs a Thread border router, and Matter Alpha reports a separate remote access subscription plan exists",
+    "Home Key depends on the outdoor keypad accessory rather than the lock itself"
+   ],
+   "facts": [
+    "U.S. Nuki Smart Lock is 2.2 in in diameter with a stainless steel body",
+    "Nuki says up to 12 months battery on Thread or Bluetooth and up to 6 months on Wi-Fi",
+    "Unlock by smartphone, smartwatch, PIN, fingerprint (keypad) or the physical key",
+    "Consumer Reports tested the Nuki Home Set NFC 221261 as a retrofit lock with top marks for remote access, monitoring and setup"
+   ],
+   "sources": [
+    "https://nuki.io/en-us/company/press-releases/us-debut",
+    "https://www.matteralpha.com/news/nuki-steps-closer-to-the-us-with-smart-lock-ultra",
+    "https://www.consumerreports.org/home-garden/door-locks/best-smart-locks-of-the-year-a3383819474/",
+    "https://www.addtohomekit.com/blog/apple-home-key-compatible-locks/",
+    "https://www.reddit.com/r/HomeKit/comments/1li2xbi/homekeys_lock_solution/"
+   ],
+   "scores": {
+    "install": 8,
+    "reversibility": 9,
+    "value": 7,
+    "compatibility": 9,
+    "portability": 9
+   },
+   "scoreNote": "Inside-the-door retrofit with no drilling and an unchanged cylinder; the keypad accessory and remote-access plan hold value back, while Matter plus Home Key gives wide compatibility."
+  },
+  {
+   "name": "August Wi-Fi Smart Lock (4th Gen)",
+   "brand": "August",
+   "query": "August Wi-Fi Smart Lock 4th Generation",
+   "matchName": "August Wi-Fi Smart Lock",
+   "badge": "Best classic overlay for HomeKit",
+   "summary": "An overlay lock that goes on the inside of your existing single-cylinder deadbolt, keeps your keys, has built-in Wi-Fi and works with Siri and Apple HomeKit. It has no Home Key or Matter, so it is the plain HomeKit option.",
+   "renterNote": "Best for a renter who wants Siri and Apple Home control plus remote access while leaving the outside of the door untouched. Caveat: no Home Key tap-to-unlock, the maker lists up to 3 months of battery life, and one owner thread reports HomeKit pairing problems, so check stock and compatibility before buying.",
+   "pros": [
+    "Attaches over the existing deadbolt on the inside and keeps your original keys, so the landlord's key still works",
+    "Built-in Wi-Fi means no bridge, and it works with Siri/Apple HomeKit, Alexa and Google Assistant",
+    "Renter-friendly install the maker puts at under 10 minutes, with DoorSense open/closed sensing"
+   ],
+   "cons": [
+    "No Apple Home Key and no Matter; the maker quotes up to 3 months on two CR123 batteries",
+    "An r/HomeKit owner reports the 4th-gen Wi-Fi lock would not pair with HomeKit, and the maker page showed the lock out of stock when read"
+   ],
+   "facts": [
+    "Dimensions: 72 mm diameter, 46 mm depth",
+    "Requires a single-cylinder deadbolt; check August's deadbolt compatibility list",
+    "Power: 2 CR123 batteries included; up to 3 months battery life per August",
+    "Works with Siri + HomeKit (listed on the Wi-Fi Smart Lock only in August's comparison table); Yale Approach Lock with Wi-Fi is not listed as HomeKit",
+    "August FAQ: landlord keeps full access with the original keys",
+    "Yale Keypad accessory (Bluetooth, IPX5) adds code entry"
+   ],
+   "sources": [
+    "https://august.com/products/august-wifi-smart-lock",
+    "https://www.imore.com/best-homekit-door-locks",
+    "https://www.consumerreports.org/home-garden/door-locks/best-smart-locks-of-the-year-a3383819474/",
+    "https://www.safehome.org/smart-locks/best/",
+    "https://keyzoo.com/blogs/top-5-smart-lock-brands-compatible-with-apple-homekit",
+    "https://www.reddit.com/r/HomeKit/comments/s7whhh/august_lock_gen_4/"
+   ],
+   "scores": {
+    "install": 9,
+    "reversibility": 9,
+    "value": 7,
+    "compatibility": 7,
+    "portability": 8
+   },
+   "scoreNote": "Indoor-only overlay that leaves the exterior and original key alone; HomeKit-only Apple support, short battery life and a single-cylinder requirement limit compatibility and portability."
+  },
+  {
+   "name": "Level Bolt (Matter)",
+   "brand": "Level",
+   "query": "Level Bolt Matter smart lock retrofit",
+   "matchName": "Level Bolt",
+   "badge": "Best invisible retrofit",
+   "summary": "A smart deadbolt that sits inside the door and keeps your existing lock, exterior look and keys, now sold with Matter over Thread for Apple Home. It does not support Apple Home Key.",
+   "renterNote": "Best for a renter who wants no visible change to the door and does not need tap-to-unlock. Caveat: it installs inside the door bore rather than clipping on indoors, so keep the original parts to restore at move-out, and Level says Bolt is not compatible with Home Key.",
+   "pros": [
+    "Hidden inside the door, so the exterior lock and your standard key stay as they are",
+    "Matter over Thread with Apple Home, Google Home, Alexa and SmartThings support",
+    "CR2 lithium battery and an optional Level Keypad or Wi-Fi bridge"
+   ],
+   "cons": [
+    "No Apple Home Key support",
+    "Remote access and automations need a Matter-over-Thread hub"
+   ],
+   "facts": [
+    "Works with most American standard deadbolts: standard profile 0.75 in or greater, backset 2.375 or 2.75 in, door thickness 1.75 in, 2.125 in bore",
+    "Dimensions 2.25 x 3.31 x 1 in; weight 1.07 lb; CR2 battery",
+    "iPhone XS or later with iOS 17.1 or later, Apple Watch Series 4 or later with watchOS 10.1",
+    "Level states it meets the highest standards for security, durability and finish and was tested to 250,000 cycles",
+    "Level support: Level Bolt and Level Lock are not compatible with Apple Home Key"
+   ],
+   "sources": [
+    "https://level.co/level-bolt/",
+    "https://level.co/support/articles/matter-pairing-troubleshooting-guide/",
+    "https://www.imore.com/best-homekit-door-locks",
+    "https://www.reddit.com/r/HomeKit/comments/1li2xbi/homekeys_lock_solution/"
+   ],
+   "scores": {
+    "install": 7,
+    "reversibility": 7,
+    "value": 7,
+    "compatibility": 8,
+    "portability": 7
+   },
+   "scoreNote": "Keeps the exterior and key but works inside the door bore, so reversal needs the original parts; Matter helps compatibility while lacking Home Key and needing specific door dimensions."
+  },
+  {
+   "name": "Schlage Encode Plus Smart WiFi Deadbolt (BE499WB)",
+   "brand": "Schlage",
+   "query": "Schlage Encode Plus Smart WiFi Deadbolt BE499WB",
+   "matchName": "Schlage Encode Plus",
+   "badge": "Most recommended Home Key deadbolt",
+   "summary": "A Wi-Fi keypad deadbolt with Apple Home Key, a physical backup key and a BHMA Grade 1 rating. It is the Home Key lock the most sources agree on, but it replaces the landlord's deadbolt.",
+   "renterNote": "Best for a renter whose lease allows swapping the deadbolt (or a long-term tenant who keeps the original to refit on move-out) and who wants a built-in keypad, Wi-Fi and a key backup. Caveat: it is a full replacement, not a retrofit, so ask the landlord first.",
+   "pros": [
+    "Apple Home Key, built-in Wi-Fi and a touchscreen keypad with up to 100 codes",
+    "Graded ANSI/BHMA A156.36 Grade 1 (AAA) per Schlage, with one physical backup key included",
+    "Installs with a screwdriver and fits 1-3/8 to 1-3/4 in doors with a 2-3/8 or 2-3/4 in backset"
+   ],
+   "cons": [
+    "Replaces the existing deadbolt, so it is not renter-reversible without refitting the original",
+    "Consumer Reports found it somewhat susceptible to lock-picking and not the easiest to set up"
+   ],
+   "facts": [
+    "Power: four AA batteries, up to six months; 2.4 GHz Wi-Fi required",
+    "Works with Apple Home, Alexa and Google Assistant; Schlage Home app",
+    "Limited lifetime mechanical/finish and 3-year electronics warranty",
+    "Operating temperature outside body -31F to 150.8F",
+    "Consumer Reports: performs well in kick-in and drilling tests"
+   ],
+   "sources": [
+    "https://www.schlage.com/en/home/products/BE499WBCENFFF.html",
+    "https://www.schlage.com/en/home/smart-locks/encode-plus.html",
+    "https://www.consumerreports.org/home-garden/door-locks/best-smart-locks-of-the-year-a3383819474/",
+    "https://www.addtohomekit.com/blog/apple-home-key-compatible-locks/",
+    "https://www.imore.com/best-homekit-door-locks",
+    "https://www.cnet.com/home/security/best-smart-locks/"
+   ],
+   "scores": {
+    "install": 7,
+    "reversibility": 4,
+    "value": 7,
+    "compatibility": 8,
+    "portability": 5
+   },
+   "scoreNote": "Screwdriver install with the strongest security rating on the list, but it replaces the landlord's deadbolt so reversal means refitting the original; Home Key, Apple Home, Alexa and Google give broad compatibility."
+  },
+  {
+   "name": "Yale Assure Lock 2 Plus with Apple Home Keys",
+   "brand": "Yale",
+   "query": "Yale Assure Lock 2 Plus Apple Home Keys",
+   "matchName": "Yale Assure Lock 2 Plus",
+   "badge": "Best keypad lock with Home Key",
+   "summary": "A touchscreen keypad deadbolt with Apple Home Key built in, Bluetooth and an optional Wi-Fi module. It is a replacement lock, with a modular design and a 9V battery terminal for emergencies.",
+   "renterNote": "Best for a renter allowed to swap the deadbolt who wants a matte touchscreen keypad for guests. Caveat: Consumer Reports found it weak in drilling tests and it needs a HomePod or Apple TV for remote control through Apple Home.",
+   "pros": [
+    "Home Key is built in with no extra module, plus a keypad for guests",
+    "Yale says touchscreen versions can be powered with a 9V battery on the front terminals if the AA cells die",
+    "Bluetooth and Apple Home out of the box; Wi-Fi module adds Alexa, Google Home and SmartThings"
+   ],
+   "cons": [
+    "Consumer Reports gave the Plus a poor drilling score compared with the standard Assure Lock 2",
+    "Replaces the deadbolt, and remote control through Apple Home needs a HomePod or Apple TV"
+   ],
+   "facts": [
+    "Power: 4 AA batteries, up to 9 months per Yale",
+    "Up to 500 entry codes in the Yale Access app",
+    "Yale's spec table for the Assure Lock 2 Touchscreen (YRD450) lists ANSI/BHMA Grade 2; confirm the grade for the exact Plus model",
+    "CR: kicks held up; keyless design cannot be picked",
+    "Home Key is built into the Plus, no module needed; the Wi-Fi smart module is sold separately or bundled"
+   ],
+   "sources": [
+    "https://shopyalehome.com/products/yale-assure-lock-2-plus-with-wi-fi-and-apple-home-keys",
+    "https://support.shopyalehome.com/pre-installation-faqs-for-yale-assure-lock-2-B1z803ba9",
+    "https://www.consumerreports.org/home-garden/door-locks/best-smart-locks-of-the-year-a3383819474/",
+    "https://www.addtohomekit.com/blog/apple-home-key-compatible-locks/",
+    "https://www.imore.com/best-homekit-door-locks"
+   ],
+   "scores": {
+    "install": 7,
+    "reversibility": 4,
+    "value": 7,
+    "compatibility": 8,
+    "portability": 5
+   },
+   "scoreNote": "Easy to fit but a full deadbolt swap; Home Key and Apple Home work out of the box, while the weak drilling result and stock gaps hold it back."
+  },
+  {
+   "name": "Level Lock Pro",
+   "brand": "Level",
+   "query": "Level Lock Pro Apple Home Key smart lock",
+   "matchName": "Level Lock Pro",
+   "badge": "Best hidden Home Key lock",
+   "summary": "A smart lock that hides all of its electronics inside the door's bore and latch holes so it looks like an ordinary deadbolt, with Apple Home Key and Matter over Thread.",
+   "renterNote": "Best for a renter allowed to replace the deadbolt who wants a stock-looking exterior and Home Key. Caveat: it replaces the deadbolt hardware, needs a Thread border router for remote access, and the keypad is a separate purchase.",
+   "pros": [
+    "Looks like a regular deadbolt because the electronics are inside the door",
+    "Apple Home Key plus Matter over Thread, with Bluetooth as a fallback",
+    "Rated BHMA/ANSI Grade 1 (AAA) per addtohomekit, with a CR2 battery"
+   ],
+   "cons": [
+    "Replaces the deadbolt and is one of the more expensive picks, per Consumer Reports",
+    "Remote control needs a Matter hub and Thread border router or the optional Level Connect Wi-Fi Bridge"
+   ],
+   "facts": [
+    "Connectivity: Bluetooth 4.0/5.0 and Matter over Thread",
+    "Consumer Reports: good in kick-in tests, decent in picking and drilling",
+    "Level Keypad is sold separately",
+    "Level lists Apple Home Key and door status detection"
+   ],
+   "sources": [
+    "https://level.co/level-lock-pro/",
+    "https://www.consumerreports.org/home-garden/door-locks/best-smart-locks-of-the-year-a3383819474/",
+    "https://www.addtohomekit.com/blog/apple-home-key-compatible-locks/",
+    "https://www.imore.com/best-homekit-door-locks"
+   ],
+   "scores": {
+    "install": 6,
+    "reversibility": 4,
+    "value": 5,
+    "compatibility": 9,
+    "portability": 5
+   },
+   "scoreNote": "Hidden design is great for looks but needs the old deadbolt removed; Matter plus Home Key help compatibility, price and accessories pull value down."
+  },
+  {
+   "name": "Aqara Smart Lock U100",
+   "brand": "Aqara",
+   "query": "Aqara Smart Lock U100 Apple Home Key fingerprint",
+   "matchName": "Aqara Smart Lock U100",
+   "badge": "Best fingerprint value",
+   "summary": "A deadbolt replacement with a fingerprint reader, keypad and Apple Home Key support that works over Bluetooth with the Apple Home app.",
+   "renterNote": "Best for a renter allowed to swap the deadbolt who wants fingerprint entry at a lower cost than the premium locks. Caveat: replacement install, and it is HomeKit-native rather than Matter.",
+   "pros": [
+    "Built-in fingerprint reader and keypad, plus Apple Home Key that works even when the Apple device is out of power",
+    "Auto-lock using a built-in gyroscope and lock status in the Aqara and Apple apps",
+    "Battery life of up to eight months per Aqara"
+   ],
+   "cons": [
+    "Replaces the deadbolt, so it is not a landlord-friendly retrofit",
+    "Aqara is newer to the lock market than Schlage or Yale"
+   ],
+   "facts": [
+    "Unlock methods include fingerprint, password, NFC card and Apple Home Key per the Aqara manual",
+    "Anti-peep password option",
+    "Aqara states the Home Key tap works when the iPhone or Apple Watch is out of power"
+   ],
+   "sources": [
+    "https://www.aqara.com/en/product/smart-lock-u100/",
+    "https://cdn.aqara.com/cdn/website/mainland/static/docs/Smart-Door-Lock-U100_User-Manual.pdf",
+    "https://www.aqara.com/en/blog/the-best-homekit-smart-locks/",
+    "https://www.reddit.com/r/HomeKit/comments/1ppiax5/best_apple_home_compatible_smart_deadbolts_and/",
+    "https://www.nytimes.com/wirecutter/reviews/the-best-smart-lock/"
+   ],
+   "scores": {
+    "install": 7,
+    "reversibility": 4,
+    "value": 8,
+    "compatibility": 7,
+    "portability": 5
+   },
+   "scoreNote": "Replaces the deadbolt but offers fingerprint, keypad and Home Key at a good feature-per-price level; Apple-focused compatibility."
+  }
+ ],
+ "serpProducts": [
+  {
+   "name": "Schlage Encode Plus",
+   "pages": [
+    "https://www.addtohomekit.com/blog/apple-home-key-compatible-locks/",
+    "https://www.imore.com/best-homekit-door-locks",
+    "https://www.cnet.com/home/security/best-smart-locks/",
+    "https://www.consumerreports.org/home-garden/door-locks/best-smart-locks-of-the-year-a3383819474/"
+   ]
+  },
+  {
+   "name": "Level Lock Pro / Level Lock+",
+   "pages": [
+    "https://www.addtohomekit.com/blog/apple-home-key-compatible-locks/",
+    "https://www.imore.com/best-homekit-door-locks",
+    "https://www.consumerreports.org/home-garden/door-locks/best-smart-locks-of-the-year-a3383819474/"
+   ]
+  },
+  {
+   "name": "Yale Assure Lock 2 Plus",
+   "pages": [
+    "https://www.addtohomekit.com/blog/apple-home-key-compatible-locks/",
+    "https://www.consumerreports.org/home-garden/door-locks/best-smart-locks-of-the-year-a3383819474/",
+    "https://www.imore.com/best-homekit-door-locks",
+    "https://www.cnet.com/home/security/best-smart-locks/"
+   ]
+  },
+  {
+   "name": "August Wi-Fi Smart Lock (4th Gen)",
+   "pages": [
+    "https://www.imore.com/best-homekit-door-locks",
+    "https://www.consumerreports.org/home-garden/door-locks/best-smart-locks-of-the-year-a3383819474/",
+    "https://www.safehome.org/smart-locks/best/",
+    "https://keyzoo.com/blogs/top-5-smart-lock-brands-compatible-with-apple-homekit"
+   ]
+  },
+  {
+   "name": "Aqara Smart Lock U200",
+   "pages": [
+    "https://www.addtohomekit.com/blog/apple-home-key-compatible-locks/",
+    "https://www.eyonicsecuritysystem.com.my/homekit-locks-2026",
+    "https://www.reddit.com/r/HomeKit/comments/18wyl18/are_there_any_retrofit_locks_that_support_apple/",
+    "https://www.reddit.com/r/HomeKit/comments/1tsc9jv/matter_retrofit_that_shows_up_as_both_a_door_lock/"
+   ]
+  },
+  {
+   "name": "Nuki Smart Lock with Keypad 2 NFC",
+   "pages": [
+    "https://www.addtohomekit.com/blog/apple-home-key-compatible-locks/",
+    "https://www.consumerreports.org/home-garden/door-locks/best-smart-locks-of-the-year-a3383819474/",
+    "https://www.reddit.com/r/HomeKit/comments/1li2xbi/homekeys_lock_solution/"
+   ]
+  },
+  {
+   "name": "Level Bolt",
+   "pages": [
+    "https://www.imore.com/best-homekit-door-locks",
+    "https://www.reddit.com/r/HomeKit/comments/1li2xbi/homekeys_lock_solution/"
+   ]
+  },
+  {
+   "name": "Aqara Smart Lock U100",
+   "pages": [
+    "https://www.reddit.com/r/HomeKit/comments/1ppiax5/best_apple_home_compatible_smart_deadbolts_and/",
+    "https://www.nytimes.com/wirecutter/reviews/the-best-smart-lock/"
+   ]
+  }
+ ]
+}
