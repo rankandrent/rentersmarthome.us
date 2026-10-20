@@ -3,13 +3,13 @@
   "lang": "de",
   "translationOf": "what-is-homekit",
   "pass": false,
-  "checkedAt": "2026-10-20T13:32:21.427Z",
+  "checkedAt": "2026-10-20T13:50:49.876Z",
   "errors": [
     "facts not verified yet: compare every claim with the English post and its sources, then run `node scripts/routine.mjs factcheck de/was-ist-homekit \"<notes>\"`"
   ],
   "warnings": [
     "source didn't respond normally (403): https://www.gutefrage.net/frage/homekit-steuerzentrale-ersetzen",
-    "source didn't respond normally (525): https://forum.smartapfel.de/forum/thread/12377-homehub-%C3%BCber-2-etagen-matter-nutzung/"
+    "source didn't respond normally (521): https://forum.smartapfel.de/forum/thread/12377-homehub-%C3%BCber-2-etagen-matter-nutzung/"
   ],
   "factCheck": {
     "verified": false
