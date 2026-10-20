@@ -36,9 +36,8 @@
     {
       "name": "Master Lock 5420EC Set Your Own Combination Portable Lock Box",
       "asin": "B07FD2N88X",
-      "status": "localVariant",
-      "variant": "Master Lock 5420EURD Select Access universal key lock box with adjustable shackle (Master Lock EU)",
-      "reason": "Same reasoning: the EU shop lists the 5420EURD with adjustable shackle for most door hardware styles and a 4-digit set-your-own combination. Whether the shackle fits a given European door handle is for the reader to check.",
+      "status": "notForMarket",
+      "reason": "EU model 5420EURD sold only in UK, FR and NL per Master Lock",
       "source": "https://www.masterlock.eu/products/select-access-gray-portable-key-safe/5420EURD"
     }
   ],

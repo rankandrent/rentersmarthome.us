@@ -3,12 +3,13 @@
   "lang": "es",
   "translationOf": "locked-out-of-apartment",
   "pass": true,
-  "checkedAt": "2026-10-19T13:30:54.612Z",
+  "checkedAt": "2026-10-20T04:35:43.230Z",
   "errors": [],
   "warnings": [],
   "factCheck": {
     "verified": true,
-    "notes": "Compared section by section with locked-out-of-apartment (QA-passed): 7 steps, FAQ, tldr, tables, units, product claims, Reddit quotes with attribution, NYC Local Law 63 labelled New York tenant quote with check-local-rules, no bypass, no price/availability claims, research-not-testing note, links exist. Fixed: replaced Spain-specific DNI with documento de identidad (matches English ID); reviewers wording.",
-    "at": "2026-10-19T13:30:52.629Z"
+    "notes": "Follow-up: removed Master Lock 5420EC/5420EURD everywhere (product block, section, sources, productCount 2) because Master Lock EU page says 5420EURD is available in UK, FR, NL only; brief productFit set to notForMarket. Re-grepped: no 5420, manilla or lever-handle claims remain. Remaining text unchanged and verified earlier against English post, OCU pages (press note, urgent repairs report, both complaint quotes verbatim), SwitchBot EU page and Master Lock EU 5400EURD page (medium, 90 mm, 4-digit, 37 mm shackle). August and Yale Approach absent, no prices, no legal advice.",
+    "at": "2026-10-20T04:42:02.549Z",
+    "hash": "b2b01113c6c93e5d"
   }
 }
