@@ -1,17 +1,13 @@
 {
   "slug": "best-indoor-security-camera-for-renters-no-drilling",
   "pass": true,
-  "checkedAt": "2026-10-20T23:21:32.944Z",
+  "checkedAt": "2026-10-20T23:38:55.715Z",
   "errors": [],
-  "warnings": [
-    "product \"Abode Cam 2\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Abode Cam 2\" has no Amazon listing: the refresh could not match it, so it would show no photo and a search link. Set its asin by hand (asinVerified: true) or drop the product",
-    "source didn't respond normally (no response): https://realestate.usnews.com/home-services/home-security-systems/best-home-security-systems-for-renters"
-  ],
+  "warnings": [],
   "factCheck": {
     "verified": true,
-    "notes": "Verified 2026-10-20 against maker pages: Ring Indoor Cam (2nd Gen) 1080p, 143 diag/115 horiz FOV, 2.4 GHz b/g/n, plug-in, manual privacy cover turns off camera+mic, motion schedule, free live view/alerts/two-way talk, installation hardware in box (ring.com + en-uk.ring.com tech specs, ring.com support); no free storage (Security.org). Google Nest Cam Indoor (wired, 3rd gen) 2K HDR needing 3.3 Mbps, 152 diag FOV, tabletop stand, 10-second event previews past 6 hours, Premium Advanced 60 days events + 10 days 24/7, 1-month trial (home.google.com wired-nest-camera-compare). Abode Cam 2 1080p 20fps, 121 horiz, 2.4 GHz, 5V 1A USB 6 ft cable + 14 ft option, adhesive strip + optional anchor/screw, IP65, no backup battery/no local recording, live view free, clips need plan or camera-only plan, Alexa/Google not HomeKit (goabode.com product page/FAQ); 15-30 s clip caps and app ads (U.S. News). SimpliSafe Smart Alarm Wireless Indoor Camera 1536p, 125 deg, battery up to 3 months, 6 h charge, needs Gen 3 system+keypad, shelf edge ~4 ft, wall plate uses screws, side-to-side motion sensitivity, pets >50 lb placement, 2-3 Mbps upload per camera (support.simplisafe.com install guide), built-in privacy shutter (SimpliSafe settings article), Security.org shutter-closed-until-alarm. Product picks each recommended by 2+ top-10 pages (safehome.org, security.org, goabode blog, usnews, r/Ring). Owner claims checked against r/Ring, r/googlehome, r/Nest, r/smarthome, r/Abode, r/simplisafe thread excerpts. Quotes copied verbatim from data/pain-points.json (search-excerpt verified). Amazon US listings seen for all four (Abode and SimpliSafe Amazon store pages, Nest via CNET 'at Amazon', Ring Indoor Cam listing). Softened FAQ legal wording and removed unverified SimpliSafe free live-view claim.",
-    "at": "2026-10-20T20:16:54.076Z",
-    "hash": "dcc0ac57f9d5acc8"
+    "notes": "Removed Abode Cam 2 everywhere (products, entities, table, section, sources, tldr, FAQ, title, counts); remaining Ring, Nest, SimpliSafe content unchanged and previously verified against maker pages and sources; adhesive angle replaced by generic box-mount sentence.",
+    "at": "2026-10-20T23:38:55.042Z",
+    "hash": "9b81167138d94d53"
   }
 }
