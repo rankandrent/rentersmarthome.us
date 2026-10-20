@@ -3,9 +3,14 @@
   "lang": "de",
   "translationOf": "does-ring-work-with-apple-homekit",
   "pass": true,
-  "checkedAt": "2026-10-20T14:08:06.970Z",
+  "checkedAt": "2026-10-20T14:13:03.378Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "source didn't respond normally (403): https://hoobs.com/ring/",
+    "source didn't respond normally (403): https://hoobs.com/box/",
+    "source didn't respond normally (403): https://www.reddit.com/r/LegaladviceGerman/comments/uya0k3/ist_sicherheitskamera_als_mieter_um_zu_sehen_wer/",
+    "source didn't respond normally (403): https://www.reddit.com/r/LegaladviceGerman/comments/1f7bsw4/nachbar_ist_laut_und_hat_kamera_im_hausflur/"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Guide-only rewrite (no product, no Amazon link). Compared remaining body, tldr and FAQs section by section with the English post and re-checked against its sources (Govee Matter FAQ, Govee Community pairing guide, AddToHomeKit; HOOBS Ring page, AddToHomeKit/SafeHome Ring guides) and the local brief (guideOnly true; EU H61E0 variant, Rijksoverheid/AP/IPv6 local facts and quotes). Removed product-only content (listing, owner posts, shop/shipping); nothing new added; no prices, no testing claims.",

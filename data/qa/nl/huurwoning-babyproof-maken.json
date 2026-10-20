@@ -3,10 +3,11 @@
   "lang": "nl",
   "translationOf": "how-to-baby-proof-a-rental-without-damage",
   "pass": true,
-  "checkedAt": "2026-10-20T13:36:34.167Z",
+  "checkedAt": "2026-10-20T14:17:08.702Z",
   "errors": [],
   "warnings": [
     "not localized yet: run localizer-agent for how-to-baby-proof-a-rental-without-damage (data/briefs/nl/how-to-baby-proof-a-rental-without-damage.local.json), then rewrite with translator-agent",
+    "source didn't respond normally (503): https://safety1st.com/en-ca/products/easy-install-walk-through-gate-ga105c",
     "source didn't respond normally (403): https://homedepot.com/p/Safety-1st-Grip-n-Twist-Doorknob-Covers-4-Pack-48394/202259354",
     "source didn't respond normally (403): https://homedepot.com/p/QuakeHOLD-Black-Nylon-Furniture-Safety-Strap-4160/100137023",
     "source didn't respond normally (403): https://www.cpsc.gov/Safety-Education/Safety-Guides/Kids-and-Babies"

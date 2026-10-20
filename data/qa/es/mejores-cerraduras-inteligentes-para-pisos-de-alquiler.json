@@ -3,9 +3,11 @@
   "lang": "es",
   "translationOf": "best-smart-lock-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-20T04:35:12.424Z",
+  "checkedAt": "2026-10-20T14:15:20.200Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "source didn't respond normally (no response): https://lacasasibarita.es/seguridad/cerradura-inteligente/"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Re-compared with EN best-smart-lock-for-renters and local brief (guideOnly). Re-opened and verified verbatim: BOE LAU art.23 (written consent for works changing configuration; landlord may require restoration if unauthorised), OCU entrega de llaves, El Correo/OCU locksmith advice (previous quote, several quotes, extras, do not sign abusive invoice), La Casa Sibarita (standard Euro cylinder, blindada/multipunto), SwitchBot EU product page (ideal for European homes, cylinder adaptors, Hub 2 EU plug, Matter needs hub), Yale Linus L2 (3 mm protrusion, 22 mm round, adjustable cylinder), Forocoches threads 10115851 (2 quotes #11,#25), 7672971 (quote #23; debate on 'obra' #14 vs #23), 9431284 (bombin swap common). Removed unsupported thumbturn/Hub Mini claims, softened deadbolt claim, LAU general info + restoration only if unauthorised, no products/Amazon/prices.",

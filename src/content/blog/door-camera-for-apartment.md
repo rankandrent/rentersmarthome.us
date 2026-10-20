@@ -205,8 +205,8 @@ products:
       height: 500
     amazonTitle: >-
       eufy Security Video Doorbell E340, Dual Cameras, 2K FHD, 8GB Local Storage
-      | No Subscription,Head-to-Toe view,Wireless or Wired,Color night
-      vision,Two-way talk,AI motion/package detection, 2.4 GHz Wi-Fi
+      | No Subscription,Head-to-Toe View,Wireless or Wired,Color Night
+      Vision,Two-way talk,AI motion/Package Detection, 2.4 GHz Wi-Fi
     gallery:
       - url: 'https://m.media-amazon.com/images/I/41kKAqJnvJL._SL500_.jpg'
         width: 500

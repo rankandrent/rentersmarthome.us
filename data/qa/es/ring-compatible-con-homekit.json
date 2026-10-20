@@ -3,11 +3,12 @@
   "lang": "es",
   "translationOf": "does-ring-work-with-apple-homekit",
   "pass": true,
-  "checkedAt": "2026-10-20T13:53:02.970Z",
+  "checkedAt": "2026-10-20T14:15:45.652Z",
   "errors": [],
   "warnings": [
     "source didn't respond normally (403): https://hoobs.com/ring/",
-    "source didn't respond normally (403): https://hoobs.com/box/"
+    "source didn't respond normally (403): https://hoobs.com/box/",
+    "source didn't respond normally (500): https://www.aepd.es/preguntas-frecuentes/9-comunidades-de-propietarios/FAQ-0912-la-normativa-de-proteccion-de-datos-se-aplica-a-los-videoporteros"
   ],
   "factCheck": {
     "verified": true,

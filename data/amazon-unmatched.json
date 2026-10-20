@@ -24,8 +24,8 @@
         "image": true
       },
       {
-        "asin": "B0HLZNN3VL",
-        "title": "6-Volume Set: Barsa Hello Hoobs + Barsa Hello + Barsa Hello + 3 more",
+        "asin": "B0HM2Z97N8",
+        "title": "English Titles Bundle: Barsa Hello Hoobs + Barsa Hello Hoobs + 4 more",
         "strictMatch": true,
         "image": true
       },
@@ -36,8 +36,8 @@
         "image": true
       },
       {
-        "asin": "B0HM2Z97N8",
-        "title": "English Titles Bundle: Barsa Hello Hoobs + Barsa Hello Hoobs + 4 more",
+        "asin": "B0HLZNN3VL",
+        "title": "6-Volume Set: Barsa Hello Hoobs + Barsa Hello + Barsa Hello + 3 more",
         "strictMatch": true,
         "image": true
       },
@@ -134,12 +134,6 @@
         "image": true
       },
       {
-        "asin": "B0991Q94KP",
-        "title": "Govee 16.4ft RGBIC LED Strip Lights, LED Lights for Bedroom, APP Control | DIY Multiple Colors on One Line, Co",
-        "strictMatch": false,
-        "image": true
-      },
-      {
         "asin": "B0H4QPF7WP",
         "title": "Govee LED Strip Light 2, 32.8ft, RGBWWIC, 1000K to 10000K White Light, WiFi | LED Lights for Bedroom, Cabinet,",
         "strictMatch": false,
@@ -148,6 +142,12 @@
       {
         "asin": "B09VBZC2CX",
         "title": "Govee 100ft RGBIC LED Strip Lights, Work with Alexa and Google Assistant | LED Lights for Bedroom, WiFi App Co",
+        "strictMatch": false,
+        "image": true
+      },
+      {
+        "asin": "B0991Q94KP",
+        "title": "Govee 16.4ft RGBIC LED Strip Lights, LED Lights for Bedroom, APP Control | DIY Multiple Colors on One Line, Co",
         "strictMatch": false,
         "image": true
       },

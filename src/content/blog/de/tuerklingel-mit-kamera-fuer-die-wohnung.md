@@ -213,8 +213,8 @@ products:
             https://www.reddit.com/r/EufyCam/comments/1el0yja/looking_for_e340_doorbell_feedback/
     amazonTitle: >-
       eufy Security Video Doorbell E340, Dual Cameras, 2K FHD, 8GB Local Storage
-      | No Subscription,Head-to-Toe view,Wireless or Wired,Color night
-      vision,Two-way talk,AI motion/package detection, 2.4 GHz Wi-Fi
+      | No Subscription,Head-to-Toe View,Wireless or Wired,Color Night
+      Vision,Two-way talk,AI motion/Package Detection, 2.4 GHz Wi-Fi
     image:
       url: 'https://m.media-amazon.com/images/I/41bwjHx5PUL._SL500_.jpg'
       width: 500
