@@ -35,7 +35,6 @@ tags:
 articleType: how-to
 funnel: mofu
 productStyle: paragraph
-productCount: 1
 readingTime: 10
 tldr:
   - >-
@@ -50,96 +49,6 @@ tldr:
     Als Mieter klärst du zuerst Vermieter und Datenschutz (die Kamera gehört
     nicht in den Hausflur) und entscheidest dann, ob sich die Wartung einer
     Bridge lohnt oder eine native HomeKit-Klingel einfacher ist.
-products:
-  - name: HOOBS Box (HSLF-3)
-    brand: HOOBS
-    query: HOOBS Box HomeKit Homebridge hub
-    matchName: HOOBS
-    badge: Plug-and-play-Bridge für Ring
-    summary: >-
-      Ein fertig eingerichteter Homebridge-Hub, auf dem das Ring-Plugin läuft
-      und der Ring-Türklingeln, Ring-Kameras und Ring Alarm in die Apple-Home-App
-      bringt. Das Plugin arbeitet über dein Ring-Konto mit deinen eigenen
-      Ring-Geräten. Ring ist nicht HomeKit-nativ, das hier ist also ein Umweg
-      über Drittanbieter-Software, keine offizielle Ring-Funktion.
-    renterNote: >-
-      Für Mieter mit Apple Home, die schon Ring haben und keinen Raspberry Pi
-      oder Server betreiben wollen. Beim Kauf im HOOBS-Shop als Netzteil die
-      Option EU-Plug wählen, nicht US-Plug. Die Box muss dauerhaft eingesteckt
-      und online sein, läuft über die Ring-Cloud (Live-Bild mit Verzögerung) und
-      liefert mit dem Standard-Ring-Plugin kein HomeKit Secure Video.
-    pros:
-      - >-
-        Laut HOOBS ab Werk mit der HOOBS-Software (einer Homebridge-Plattform)
-        bespielt, kein eigener Server nötig
-      - >-
-        Das Ring-Plugin bringt laut den Quellen Türklingel, Kameras und Ring
-        Alarm-Sensoren in Apple Home
-      - >-
-        Ein Klingeln kann laut den Quellen HomeKit-Szenen auslösen und einen
-        HomePod läuten lassen
-    cons:
-      - >-
-        Inoffiziell und von Drittanbietern: Ändert Ring den Cloud-Login, kann das
-        Plugin ausfallen
-      - >-
-        Kein HomeKit Secure Video mit dem Standard-Ring-Plugin; das Live-Bild
-        über die Cloud ist langsamer als bei nativen HomeKit-Kameras
-    scores:
-      install: 6
-      reversibility: 9
-      value: 6
-      compatibility: 6
-      portability: 8
-    scoreNote: >-
-      Kein Bohren, einfach ausstecken; die Einrichtung ist Plugin- und
-      Token-Arbeit, und Ring wird nur inoffiziell unterstützt, daher nur
-      teilweise kompatibel.
-    owners:
-      read: 8
-      praise:
-        - >-
-          Ein Besitzer auf r/HOOBS hatte eine HOOBS Pro in unter 2 Minuten
-          online, mit rund 40 Ring-Geräten
-        - >-
-          Besitzer berichten, dass sich die Box samt Plugins selbst aktualisiert
-          und im Alltag problemlos läuft
-        - >-
-          Ein Rezensent fand die Ersteinrichtung schnell und durchdacht, und die
-          Automationen in der Home-App reagierten flott
-      complaints:
-        - >-
-          Mehrere Besitzer auf r/HOOBS sehen Ring-Kameras oder Kacheln nach
-          einem Plugin- oder System-Update als "Keine Antwort"
-        - >-
-          Ein Besitzer schreibt, seine HOOBS-Box sei täglich abgestürzt und habe
-          einen Neustart per Stecker gebraucht
-        - >-
-          Derselbe Rezensent fand die Plugin-Einrichtung jenseits der Grundlagen
-          fummelig und musste die Software einmal neu installieren
-      sources:
-        - title: HOOBS Pro users reviews/feedback (r/HOOBS)
-          url: >-
-            https://www.reddit.com/r/HOOBS/comments/14yfyom/hoobs_pro_users_reviewsfeedback/
-        - title: HOOBs Pro feedback (r/HOOBS)
-          url: 'https://www.reddit.com/r/HOOBS/comments/148koyr/hoobs_pro_feedback/'
-        - title: HOOBS crashes daily (r/HOOBS)
-          url: >-
-            https://www.reddit.com/r/HOOBS/comments/1hub2kv/hoobs_crashes_dailyunable_to_access_via_client_app/
-        - title: Ring bridge not working after update (r/HOOBS)
-          url: >-
-            https://www.reddit.com/r/HOOBS/comments/1elpgqp/ring_bridge_not_working_after_yesterdays_update/
-        - title: I'm about to throw this thing away (r/HOOBS)
-          url: >-
-            https://www.reddit.com/r/HOOBS/comments/10wstqk/im_about_to_throw_this_thing_away/
-        - title: Ring camera feed on Apple TV (r/HOOBS)
-          url: >-
-            https://www.reddit.com/r/HOOBS/comments/vl6ztp/ring_camera_feed_on_apple_tv/
-        - title: HOOBS out of the box review (r/homeautomation)
-          url: >-
-            https://www.reddit.com/r/homeautomation/comments/j0ed8t/hoobs_out_of_the_box_review/
-        - title: HOOBS review (Stacey on IoT)
-          url: 'https://staceyoniot.com/hoobs-review-homekit-homebridge/'
 sources:
   - title: How to add Ring to Apple Home with HOOBS (HOOBS)
     url: 'https://hoobs.com/ring/'
@@ -154,10 +63,6 @@ sources:
   - title: Does Ring work with Apple HomeKit? Top 3 methods (Wasserstein Home)
     url: >-
       https://wasserstein-home.com/blogs/smart-home/does-ring-work-with-apple-homekit-top-3-methods
-  - title: HOOBS Box Starter Kit mit EU-Plug-Option (HOOBS-Shop)
-    url: 'https://hoobs.com/shop/HOOBS-Box-Starter-Kit-p709063339'
-  - title: Versand und Steuern (HOOBS)
-    url: 'https://hoobs.com/shipping-taxes/'
   - title: Videoüberwachung in Mietshäusern (Berliner Beauftragte für Datenschutz und Informationsfreiheit)
     url: 'https://www.datenschutz-berlin.de/themen/wohnen/videoueberwachung-in-mietshaeusern/'
   - title: DSK Kurzpapier Nr. 15 Videoüberwachung (Datenschutzkonferenz)
@@ -251,13 +156,11 @@ Die Tabelle vergleicht die drei Wege danach, was du als Mieter betreiben musst u
 | Scrypted | Dauerläufer-Computer oder Server | Ja, mit iCloud+ | Kameraaufzeichnung direkt in Apple Home |
 | Home Assistant | Vorhandener Home-Assistant-Server | Nein | Wer es schon betreibt |
 
-### HOOBS Box (HSLF-3): Plug-and-play-Bridge für Ring
+### HOOBS als fertiger Host für Ring
 
-Für Mieter, die schon eine Ring-Klingel haben und keinen eigenen Server aufsetzen wollen, halten wir die [HOOBS Box](amzn:HOOBS+Box+HomeKit+Homebridge+hub) für die einfachste Lösung. Laut HOOBS kommt sie ab Werk mit der HOOBS-Software, einer Plattform auf Basis von Homebridge. Deine Arbeit besteht also darin, das Ring-Plugin hinzuzufügen und zu koppeln, nicht darin, Linux einzurichten. Wichtig beim Kauf: Die Box wird über USB-C versorgt, und im [HOOBS-Shop](https://hoobs.com/shop/HOOBS-Box-Starter-Kit-p709063339) wählst du beim Netzteil die Option **EU-Plug** (zur Auswahl stehen auch US-Plug, UK-Plug und "USB-Cable Only"). Laut der [Versandseite von HOOBS](https://hoobs.com/shipping-taxes/) gehen EU-Bestellungen aus einem Lager in Deutschland raus, in etwa 3 Werktagen; Zoll und Steuern trägt nach Angabe von HOOBS der Käufer.
+Für Mieter, die schon eine Ring-Klingel haben und keinen eigenen Server aufsetzen wollen, halten wir ein fertiges HOOBS-Gerät für den einfachsten Host. Laut HOOBS kommt es ab Werk mit der HOOBS-Software, einer Plattform auf Basis von Homebridge. Deine Arbeit besteht also darin, das Ring-Plugin hinzuzufügen und zu koppeln, nicht darin, Linux einzurichten. Auf seiner [Ring-Einrichtungsseite](https://hoobs.com/ring/) führt HOOBS mehrere Ring-Türklingeln, Ring-Kameras und das Ring Alarm-Set als kompatibel. Ob genau diese Modelle bei uns im Handel sind, haben wir nicht geprüft; entscheidend ist, dass das Plugin über dein Ring-Konto und die Ring-Cloud mit deinen eigenen Ring-Geräten arbeitet. Laut den Quellen kann ein Klingeln HomeKit-Szenen auslösen und einen HomePod läuten lassen.
 
-Auf seiner [Ring-Einrichtungsseite](https://hoobs.com/ring/) führt HOOBS mehrere Ring-Türklingeln, Ring-Kameras und das Ring Alarm-Set als kompatibel. Ob genau diese Modelle bei uns im Handel sind, haben wir nicht geprüft; entscheidend ist, dass das Plugin über dein Ring-Konto und die Ring-Cloud mit deinen eigenen Ring-Geräten arbeitet. Laut den Quellen kann ein Klingeln HomeKit-Szenen auslösen und einen HomePod läuten lassen.
-
-Die Nachteile sind die, die jede Ring-Bridge hat. Sie ist inoffiziell, eine Änderung am Cloud-Login von Ring kann das Plugin also lahmlegen, und das Live-Bild läuft über die Ring-Cloud und kommt deshalb langsamer als bei einer nativen HomeKit-Kamera. HomeKit Secure Video gibt es mit dem Standard-Ring-Plugin auch nicht. HOOBS-Besitzer auf r/HOOBS beschreiben denselben Pflegeaufwand: Einer berichtet, dass Ring-Kameras nach einem Plugin-Update ausfielen, andere sehen nach Updates "Keine Antwort"-Kacheln. Ein anderer schreibt, dass sich die Box selbst aktualisiert und im Alltag problemlos läuft, und ein weiterer hatte rund 40 Ring-Geräte in unter 2 Minuten online (diese beiden nutzten eine HOOBS Pro). Wir haben acht Beiträge von Besitzern und Rezensenten gelesen, meist zu älteren Box- und Pro-Modellen, weil die HSLF-3 neu ist. Nimm sie also als Hinweis auf die Software, nicht auf genau dieses Gerät. Ein Besitzer berichtet von einer Box, die täglich abstürzte und einen Neustart per Stecker brauchte. Für Mieter gilt: Die Box braucht kein Bohrloch und ist beim Auszug in Sekunden ausgesteckt, muss aber in deiner Wohnung dauerhaft eingesteckt und online bleiben.
+Die Nachteile sind die, die jede Ring-Bridge hat. Sie ist inoffiziell, eine Änderung am Cloud-Login von Ring kann das Plugin also lahmlegen, und das Live-Bild läuft über die Ring-Cloud und kommt deshalb langsamer als bei einer nativen HomeKit-Kamera. HomeKit Secure Video gibt es mit dem Standard-Ring-Plugin auch nicht. Für Mieter gilt: Ein solches Gerät braucht kein Bohrloch und ist beim Auszug in Sekunden ausgesteckt, muss aber in deiner Wohnung dauerhaft eingesteckt und online bleiben.
 
 ## Was mit Ring in Apple Home geht und was nicht
 
@@ -340,4 +243,4 @@ Monatliche Kameragebühren sind ein Dauerthema in Threads auf r/homeowners und r
 
 Ignoriere jedes Angebot, das Ring als "HomeKit-kompatibel" oder "Matter-ready" bewirbt, ohne dass Apples Logo auf der Verpackung steht. AddToHomeKit berichtet, dass Apple ein Home-Display namens HomeView angekündigt hat; die Details haben wir nicht bestätigt, aber kein Apple-Bildschirm kann Ring anzeigen, solange keine Bridge es in die Home-App bringt.
 
-Unser Fazit für alle mit Apple-Wohnung: Hast du noch keine Ring-Klingel und willst Apple Home, kauf nativ. Hast du schon eine, bringt eine HOOBS Box (mit EU-Plug) oder Homebridge sie in die Home-App, sobald Vermieter und Datenschutz grünes Licht geben. Noch unentschieden beim System? Unser Vergleich [Alexa oder Google Home](/de/blog/alexa-oder-google-home/) erklärt, wo Ring nativ hineinpasst.
+Unser Fazit für alle mit Apple-Wohnung: Hast du noch keine Ring-Klingel und willst Apple Home, kauf nativ. Hast du schon eine, bringt eine HOOBS Box oder Homebridge sie in die Home-App, sobald Vermieter und Datenschutz grünes Licht geben. Noch unentschieden beim System? Unser Vergleich [Alexa oder Google Home](/de/blog/alexa-oder-google-home/) erklärt, wo Ring nativ hineinpasst.

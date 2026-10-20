@@ -2,20 +2,14 @@
   "slug": "es/ring-compatible-con-homekit",
   "lang": "es",
   "translationOf": "does-ring-work-with-apple-homekit",
-  "pass": false,
-  "checkedAt": "2026-10-20T13:34:49.007Z",
-  "errors": [
-    "product \"HOOBS Box (HSLF-3)\" has no asin (translations never link an Amazon search page)",
-    "Amazon link \"HOOBS Box HomeKit Homebridge hub\" doesn't resolve to one of the post's products, so it would become a search link",
-    "facts not verified yet: compare every claim with the English post and its sources, then run `node scripts/routine.mjs factcheck es/ring-compatible-con-homekit \"<notes>\"`"
-  ],
-  "warnings": [
-    "source didn't respond normally (403): https://hoobs.com/ring/",
-    "source didn't respond normally (403): https://hoobs.com/box/",
-    "source didn't respond normally (403): https://hoobs.com/shop/HOOBS-Box-Starter-Kit-p709063339",
-    "source didn't respond normally (403): https://hoobs.com/shipping-taxes/"
-  ],
+  "pass": true,
+  "checkedAt": "2026-10-20T13:44:08.768Z",
+  "errors": [],
+  "warnings": [],
   "factCheck": {
-    "verified": false
+    "verified": true,
+    "notes": "Guide-only rewrite (no product, no Amazon link). Compared remaining body, tldr and FAQs section by section with the English post and re-checked against its sources (Govee Matter FAQ, Govee Community pairing guide, AddToHomeKit; HOOBS Ring page, AddToHomeKit/SafeHome Ring guides) and the local brief (guideOnly true; EU H61E0 variant, Rijksoverheid/AP/IPv6 local facts and quotes). Removed product-only content (listing, owner posts, shop/shipping); nothing new added; no prices, no testing claims.",
+    "at": "2026-10-20T13:44:08.111Z",
+    "hash": "8f71f80fa980b181"
   }
 }

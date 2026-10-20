@@ -38,7 +38,6 @@ tags:
 articleType: how-to
 funnel: mofu
 productStyle: specs
-productCount: 1
 readingTime: 7
 tldr:
   - >-
@@ -54,109 +53,6 @@ tldr:
     Für Mieter: Die Kopplung braucht IPv6 und 2,4-GHz-WLAN, und ein WLAN-Wechsel
     in der Govee-App schaltet Matter ab. Nach jedem Umzug also zurücksetzen und
     neu hinzufügen.
-products:
-  - name: Govee LED Strip Light M1 (H61E0 6.56ft / H61E1 16.4ft)
-    brand: Govee
-    query: Govee LED Strip Light M1 Matter
-    matchName: Govee LED Strip Light M1
-    badge: Govees erster Matter-LED-Strip
-    summary: >-
-      Ein RGBIC-Strip zum Einstecken mit Klebeband auf der Rückseite und einer
-      Steuerbox. Govees Matter-FAQ nennt den M1 als Matter-fähigen Strip, er
-      lässt sich also per Matter-QR-Code ohne Bridge in Apple Home einbinden.
-      Matter läuft über WLAN und gibt Ein/Aus, Helligkeit, Farbtemperatur und
-      Farbe an Apple Home weiter; Szenen, Musik-Sync und Segmentsteuerung
-      bleiben in der Govee-Home-App. In Deutschland ist die EU-Version H61E0
-      (2 m) mit EU-2-Pin-Netzteil die richtige Wahl, nicht die US-Version.
-    renterNote: >-
-      Für Mieter, die einen Strip im Schlafzimmer oder hinter dem Fernseher per
-      Siri und Home-App steuern wollen, ohne Bridge und ohne Elektriker. Achte
-      auf die EU-Version H61E0 (2 m) mit EU-2-Pin-Netzteil, die Govee im
-      EU-Shop führt; ob es die 5-m-Variante H61E1 mit EU-Stecker gibt, war
-      nicht bestätigt. Einschränkungen: Für Fernzugriff und Automationen braucht
-      Apple Home eine Steuerzentrale (Apple TV oder HomePod), die
-      Matter-Einrichtung muss innerhalb von 15 Minuten nach dem Einstecken
-      abgeschlossen sein und braucht IPv6 und 2,4-GHz-WLAN, und ein WLAN-Wechsel
-      in der Govee-App schaltet Matter ab. Ältere Govee-Strips ohne Matter
-      brauchen eine Bridge; prüf vor dem Kauf das Matter-Logo und die
-      M1-Modellnummer.
-    pros:
-      - >-
-        Koppelt per Matter mit Apple Home über den QR-Code am Netzkabel oder in
-        der Govee-App, keine Bridge nötig (Govee Matter-FAQ)
-      - >-
-        Strip und Steuerbox kleben, dazu ein Steckernetzteil: kein Verkabeln,
-        kein Bohren
-      - >-
-        Dank Matter-Multi-Admin lässt sich derselbe Strip zusätzlich mit Alexa
-        oder Google Home teilen
-    cons:
-      - >-
-        In Apple Home kommen nur Ein/Aus, Helligkeit, Farbtemperatur und Farbe
-        an; Musik-Sync, DIY-Effekte und Segmentsteuerung bleiben in der
-        Govee-App
-      - >-
-        Matter nur über WLAN (kein Thread), und die Matter-Verbindung kann
-        abbrechen, wenn das WLAN in der Govee-App gewechselt wird; manche
-        Besitzer berichten von einer Kopplung, die nie fertig wird
-      - >-
-        Laut Govee lässt sich der Strip nicht kürzer als 3 m (9.8 ft)
-        schneiden, überschüssige Länge muss also aufgerollt oder zurückgeführt
-        werden
-    specs:
-      Models: 'H61E0: 2 m (6.56 ft); H61E1: 5 m (16.4 ft)'
-      Matter: >-
-        Matter über WLAN; Govees Matter-FAQ nennt M1 (2 m) und M1 (5 m, mit
-        Matter-fähiger Steuerbox)
-      Apple Home: Über Matter eingebunden; keine Angabe zu einer nativen HomeKit-Zertifizierung gefunden
-      Install: >-
-        Klebeband auf Strip und Steuerbox; Steckernetzteil (EU-Version H61E0 mit
-        EU-2-Pin-Stecker)
-      LEDs: '60 pro Meter, RGBIC mit weißem Licht'
-      Expandable: >-
-        2 m (6.56 ft) erweiterbar auf bis zu 5 m (16.4 ft); 5 m auf bis zu 10 m
-        (32.8 ft) (Govee-Refurbished-Angebot)
-    scores:
-      install: 8
-      reversibility: 7
-      value: 7
-      compatibility: 8
-      portability: 7
-    owners:
-      read: 5
-      praise:
-        - >-
-          Die Kopplung über den Matter-QR-Code am Netzkabel klappte bei einem
-          Besitzer, der den Strip zuerst nicht in Apple Home bekam
-        - >-
-          Ein Besitzer, der einen No-Name-Strip unter dem Küchenschrank gegen den
-          M1 getauscht hat, war vom Ergebnis mehr als beeindruckt
-      complaints:
-        - >-
-          Die Kopplung kann hängen bleiben: Bei einem Besitzer auf r/HomeKit
-          wurde der Strip als verfügbar angezeigt, verband sich aber nie
-        - >-
-          Apple Home setzt nur eine Farbe gleichzeitig, und mehr als eine
-          Verlängerung machte bei einem Besitzer Probleme
-      sources:
-        - title: HomeKit connection issue (r/Govee)
-          url: >-
-            https://www.reddit.com/r/Govee/comments/18lvp88/homekit_connection_issue/
-        - title: Govee M1 with Matter will not connect (r/HomeKit)
-          url: >-
-            https://www.reddit.com/r/HomeKit/comments/1i38ag0/govee_m1_with_matter_will_not_connect_other/
-        - title: Govee Matter and Homekit support question (r/Govee)
-          url: >-
-            https://www.reddit.com/r/Govee/comments/147vslu/q_govee_matter_and_homekit_support/
-        - title: LED strip M1 with matter 2nd extension issues (r/Govee)
-          url: >-
-            https://www.reddit.com/r/Govee/comments/1bgbq1k/led_strip_m1_with_matter_2nd_extension_issues/
-        - title: Govee M1 strip light installation review (Govee Facebook group)
-          url: 'https://www.facebook.com/groups/govee/posts/850373166599559/'
-    scoreNote: >-
-      Kleben und einstecken, ohne Verkabelung; der Kleber kann beim Abziehen
-      trotzdem Farbe mitnehmen. Matter bringt Apple-Home-Steuerung ohne Bridge,
-      aber nur die Grundfunktionen.
 sources:
   - title: Matter FAQ (Govee)
     url: 'https://us.govee.com/pages/matter-faq'
@@ -252,9 +148,9 @@ Achte vor dem Kauf auf das Matter-Logo auf der Verpackung und auf die M1-Modelln
 
 Für Deutschland kommt ein zweiter Check dazu: Govee führt den M1 im [EU-Shop](https://eu.govee.com/products/refurbished-govee-led-strip-light-m1-matter-compatible-2m) als H61E0 (2 m) mit EU-2-Pin-Netzteil und Matter-Kompatibilität (HomeKit, Alexa, Google); das dort gelistete Exemplar ist generalüberholt. Such also nach dieser EU-Version, nicht nach dem US-Modell mit US-Stecker. Ob es die 5-m-Variante H61E1 auch mit EU-Stecker gibt, konnten wir nicht bestätigen.
 
-### Govee LED Strip Light M1: der Matter-Strip, den beide Hauptquellen nennen
+### Beispiel für einen Matter-Strip: der Govee LED Strip Light M1
 
-Der [Govee LED Strip Light M1](amzn:Govee+LED+Strip+Light+M1+Matter) passt zu Mietern, die einen Strip im Schlafzimmer oder an der TV-Wand per Siri und Home-App steuern wollen, ohne Bridge und ohne festen Anschluss. Achte auf die EU-Version H61E0 mit EU-2-Pin-Netzteil. Der Strip kommt in die Steckdose und wird aufgeklebt, und derselbe Strip lässt sich zusätzlich mit Alexa oder Google Home teilen. In Apple Home gibt es nur die Grundfunktionen, und laut Govee lässt er sich nicht kürzer als 3 m (9.8 ft) schneiden. Plan also ein, wo die überschüssige Länge hinkommt. Die Stimmen von Besitzern sind gemischt: Ein Mitglied der Govee-Facebook-Gruppe war „mehr als beeindruckt“, nachdem es einen No-Name-Strip unter dem Küchenschrank gegen den M1 getauscht hatte, während bei einem Besitzer auf r/HomeKit der Strip zwar als verfügbar angezeigt wurde, die Verbindung aber nie zustande kam. Eine Antwort auf r/Govee sagt, dass der QR-Code am Netzkabel ein ähnliches Kopplungsproblem gelöst hat.
+Der Govee LED Strip Light M1 passt zu Mietern, die einen Strip im Schlafzimmer oder an der TV-Wand per Siri und Home-App steuern wollen, ohne Bridge und ohne festen Anschluss. Achte auf die EU-Version H61E0 mit EU-2-Pin-Netzteil. Der Strip kommt in die Steckdose und wird aufgeklebt, und derselbe Strip lässt sich zusätzlich mit Alexa oder Google Home teilen. In Apple Home gibt es nur die Grundfunktionen, und laut Govee lässt er sich nicht kürzer als 3 m (9.8 ft) schneiden. Plan also ein, wo die überschüssige Länge hinkommt. Die Stimmen von Besitzern sind gemischt: Ein Mitglied der Govee-Facebook-Gruppe war „mehr als beeindruckt“, nachdem es einen No-Name-Strip unter dem Küchenschrank gegen den M1 getauscht hatte, während bei einem Besitzer auf r/HomeKit der Strip zwar als verfügbar angezeigt wurde, die Verbindung aber nie zustande kam. Eine Antwort auf r/Govee sagt, dass der QR-Code am Netzkabel ein ähnliches Kopplungsproblem gelöst hat.
 
 ## Govee in Apple Home hinzufügen – in 5 Schritten
 

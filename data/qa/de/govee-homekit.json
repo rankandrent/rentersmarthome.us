@@ -2,17 +2,14 @@
   "slug": "de/govee-homekit",
   "lang": "de",
   "translationOf": "govee-apple-homekit",
-  "pass": false,
-  "checkedAt": "2026-10-20T13:30:51.117Z",
-  "errors": [
-    "product \"Govee LED Strip Light M1 (H61E0 6.56ft / H61E1 16.4ft)\" has no asin (translations never link an Amazon search page)",
-    "Amazon link \"Govee LED Strip Light M1 Matter\" doesn't resolve to one of the post's products, so it would become a search link",
-    "facts not verified yet: compare every claim with the English post and its sources, then run `node scripts/routine.mjs factcheck de/govee-homekit \"<notes>\"`"
-  ],
-  "warnings": [
-    "source didn't respond normally (403): https://www.reddit.com/r/wohnen/comments/1shqgox/vermieter_will_800_schadensersatz_f%C3%BCr_nicht/"
-  ],
+  "pass": true,
+  "checkedAt": "2026-10-20T13:44:06.668Z",
+  "errors": [],
+  "warnings": [],
   "factCheck": {
-    "verified": false
+    "verified": true,
+    "notes": "Guide-only rewrite (no product, no Amazon link). Compared remaining body, tldr and FAQs section by section with the English post and re-checked against its sources (Govee Matter FAQ, Govee Community pairing guide, AddToHomeKit; HOOBS Ring page, AddToHomeKit/SafeHome Ring guides) and the local brief (guideOnly true; EU H61E0 variant, Rijksoverheid/AP/IPv6 local facts and quotes). Removed product-only content (listing, owner posts, shop/shipping); nothing new added; no prices, no testing claims.",
+    "at": "2026-10-20T13:44:06.001Z",
+    "hash": "88d3722287c2bd65"
   }
 }

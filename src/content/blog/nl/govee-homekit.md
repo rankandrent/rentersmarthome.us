@@ -38,7 +38,6 @@ tags:
 articleType: how-to
 funnel: mofu
 productStyle: specs
-productCount: 1
 readingTime: 8
 tldr:
   - >-
@@ -56,106 +55,6 @@ tldr:
     Huurders: koppelen vraagt IPv6 en 2,4 GHz-wifi (controleer bij je provider
     of IPv6 aan staat), en wifi wijzigen in de Govee-app zet Matter uit, dus
     resetten en opnieuw toevoegen na elke verhuizing.
-products:
-  - name: Govee LED Strip Light M1 (H61E0 6.56ft / H61E1 16.4ft)
-    brand: Govee
-    query: Govee LED Strip Light M1 Matter
-    matchName: Govee LED Strip Light M1
-    badge: De oorspronkelijke Matter-ledstrip van Govee
-    summary: >-
-      Een RGBIC-ledstrip met plakstrip en een bedieningskastje, die je in het
-      stopcontact steekt. De Matter-FAQ van Govee noemt de M1 als zijn
-      Matter-ledstrip, dus je koppelt hem aan Apple Home door de Matter-QR-code
-      te scannen, zonder bridge. Matter loopt via wifi en deelt aan/uit,
-      helderheid, kleurtemperatuur en kleur met Apple Home; scènes, muzieksync
-      en segmentbediening blijven in de Govee Home-app. Kies in Nederland en
-      België de EU-versie: de H61E0 (2 m) met EU 2-pin lader, zoals Govee die in
-      zijn EU-winkel noemt. Een EU-versie van de 5 meter lange H61E1 hebben we
-      niet kunnen bevestigen.
-    renterNote: >-
-      Voor een huurder die een ledstrip in de slaapkamer of achter de tv wil die
-      Siri en de Woning-app bedienen, zonder bridge of vaste bedrading. Zoek op
-      de EU-versie H61E0 met EU-stekker, niet op de Amerikaanse uitvoering.
-      Kanttekeningen: Apple Home heeft een woninghub (Apple TV of HomePod) nodig
-      voor bediening op afstand en automatiseringen, de Matter-koppeling moet
-      binnen 15 minuten na het inschakelen klaar zijn en vraagt IPv6 en
-      2,4 GHz-wifi, en wifi wijzigen vanuit de Govee-app zet Matter uit. Oudere
-      Govee-strips zonder Matter hebben een bridge nodig; controleer het
-      Matter-logo en het M1-modelnummer voordat je koopt.
-    pros:
-      - >-
-        Koppelt via Matter met Apple Home met de QR-code op het stroomsnoer of in
-        de Govee-app, geen bridge nodig (Matter-FAQ van Govee)
-      - >-
-        Strip en bedieningskastje met plaklaag plus een stekkeradapter (EU 2-pin
-        lader bij de H61E0), dus niet bedraden of boren
-      - >-
-        Met Matter multi-admin deel je dezelfde strip ook met Alexa of Google
-        Home
-    cons:
-      - >-
-        Alleen aan/uit, helderheid, kleurtemperatuur en kleur komen in Apple
-        Home; muzieksync, DIY-effecten en segmentbediening blijven in de
-        Govee-app
-      - >-
-        Matter alleen via wifi (geen Thread), en de Matter-verbinding kan
-        wegvallen als je het wifinetwerk in de Govee-app wijzigt; sommige
-        eigenaren melden een koppeling die nooit afrondt
-      - >-
-        De plakstrip kan volgens Govee niet korter dan 3 meter worden geknipt,
-        dus de extra lengte moet je oprollen of terugvouwen
-    specs:
-      Models: 'H61E0 (2 m / 6.56 ft), H61E1 (5 m / 16.4 ft); in de EU-winkel H61E0 met EU 2-pin lader'
-      Matter: >-
-        Matter via wifi; de Matter-FAQ van Govee noemt M1 (2 m) en M1 (5 m, met
-        een bedieningskastje met Matter)
-      Apple Home: Toegevoegd via Matter; geen claim van officiële HomeKit-certificering gevonden
-      Install: Plaklaag op strip en bedieningskastje; stekkeradapter
-      LEDs: '60 per meter, RGBIC met wit licht'
-      Expandable: >-
-        2 m (6.56 ft) uit te breiden tot 5 m (16.4 ft); 5 m tot 10 m (32.8 ft)
-        (refurbished-pagina van Govee)
-    scores:
-      install: 8
-      reversibility: 7
-      value: 7
-      compatibility: 8
-      portability: 7
-    owners:
-      read: 5
-      praise:
-        - >-
-          Koppelen via de Matter-QR-code op het stroomsnoer werkte voor een
-          eigenaar die de strip eerst niet in Apple Home kreeg
-        - >-
-          Een eigenaar die een gewone kastverlichting verving door de M1, was
-          naar eigen zeggen meer dan onder de indruk van het resultaat
-      complaints:
-        - >-
-          Koppelen kan blijven hangen: een eigenaar op r/HomeKit zag de strip als
-          geschikt verschijnen, maar de verbinding werd nooit afgerond
-        - >-
-          Apple Home stelt maar één kleur tegelijk in, en meer dan één verlenging
-          aan elkaar koppelen gaf een eigenaar problemen
-      sources:
-        - title: HomeKit connection issue (r/Govee)
-          url: >-
-            https://www.reddit.com/r/Govee/comments/18lvp88/homekit_connection_issue/
-        - title: Govee M1 with Matter will not connect (r/HomeKit)
-          url: >-
-            https://www.reddit.com/r/HomeKit/comments/1i38ag0/govee_m1_with_matter_will_not_connect_other/
-        - title: Govee Matter and Homekit support question (r/Govee)
-          url: >-
-            https://www.reddit.com/r/Govee/comments/147vslu/q_govee_matter_and_homekit_support/
-        - title: LED strip M1 with matter 2nd extension issues (r/Govee)
-          url: >-
-            https://www.reddit.com/r/Govee/comments/1bgbq1k/led_strip_m1_with_matter_2nd_extension_issues/
-        - title: Govee M1 strip light installation review (Govee Facebook group)
-          url: 'https://www.facebook.com/groups/govee/posts/850373166599559/'
-    scoreNote: >-
-      Plakken en in het stopcontact steken, zonder bedrading; de plaklaag kan
-      bij het verwijderen wel verf meetrekken. Matter geeft bediening in Apple
-      Home zonder bridge, maar alleen de basisfuncties van de lamp.
 sources:
   - title: Matter FAQ (Govee)
     url: 'https://us.govee.com/pages/matter-faq'
@@ -251,9 +150,9 @@ Kijk voordat je koopt of het Matter-logo op de doos staat en of je het M1-modeln
 
 Woon je in Nederland of België, let dan ook op de stekker. In de [EU-winkel van Govee](https://eu.govee.com/products/refurbished-govee-led-strip-light-m1-matter-compatible-2m) staat de M1 als model H61E0 (2 m) met een EU 2-pin lader en Matter (werkt met HomeKit, Alexa en Google). Een EU-versie van de 5 meter lange H61E1 hebben we niet kunnen bevestigen. Zoek dus gericht op de H61E0 met EU-stekker en niet op de Amerikaanse uitvoering.
 
-### Govee LED Strip Light M1: de Matter-ledstrip die beide belangrijkste bronnen noemen
+### Voorbeeld van een Matter-ledstrip: de Govee LED Strip Light M1
 
-De [Govee LED Strip Light M1](amzn:Govee+LED+Strip+Light+M1+Matter) past bij een huurder die een ledstrip in de slaapkamer of achter de tv met Siri en de Woning-app wil bedienen, zonder bridge en zonder vaste bedrading. Kies de EU-versie H61E0 met EU 2-pin lader: die gaat gewoon in het stopcontact, de strip plakt vast, en je kunt dezelfde strip ook met Alexa of Google Home delen. Reken in Apple Home alleen op de basisfuncties, en houd er rekening mee dat de strip volgens Govee niet korter dan 3 meter kan worden geknipt; bedenk dus vooraf waar je de extra lengte oprolt. De ervaringen van eigenaren zijn wisselend: een lid van een Govee-Facebookgroep was "more than impressed" nadat hij een gewone kastverlichting door de M1 had vervangen, terwijl de strip van een eigenaar op r/HomeKit wel als geschikt verscheen, maar nooit klaar was met verbinden. Volgens een reactie op r/Govee loste de QR-code op het snoer een vergelijkbaar koppelprobleem op.
+De Govee LED Strip Light M1 past bij een huurder die een ledstrip in de slaapkamer of achter de tv met Siri en de Woning-app wil bedienen, zonder bridge en zonder vaste bedrading. Kies de EU-versie H61E0 met EU 2-pin lader: die gaat gewoon in het stopcontact, de strip plakt vast, en je kunt dezelfde strip ook met Alexa of Google Home delen. Reken in Apple Home alleen op de basisfuncties, en houd er rekening mee dat de strip volgens Govee niet korter dan 3 meter kan worden geknipt; bedenk dus vooraf waar je de extra lengte oprolt. De ervaringen van eigenaren zijn wisselend: een lid van een Govee-Facebookgroep was "more than impressed" nadat hij een gewone kastverlichting door de M1 had vervangen, terwijl de strip van een eigenaar op r/HomeKit wel als geschikt verscheen, maar nooit klaar was met verbinden. Volgens een reactie op r/Govee loste de QR-code op het snoer een vergelijkbaar koppelprobleem op.
 
 ## Govee toevoegen aan Apple Home in 5 stappen
 

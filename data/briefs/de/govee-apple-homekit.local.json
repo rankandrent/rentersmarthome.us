@@ -85,5 +85,6 @@
       "with": "EU version with EU 2-pin plug charger; tell reader to search the EU model name"
     }
   ],
-  "guideOnly": false
+  "guideOnly": true,
+  "guideOnlyReason": "The only product has no Amazon listing (the Amazon refresh found no match), so this localized version is a guide without product picks or Amazon links."
 }

@@ -34,7 +34,6 @@ tags:
 articleType: how-to
 funnel: mofu
 productStyle: paragraph
-productCount: 1
 readingTime: 9
 tldr:
   - >-
@@ -49,104 +48,11 @@ tldr:
     Check als huurder eerst je huurcontract en of je camera niet de buren of de
     openbare weg filmt; kies daarna tussen een bridge onderhouden of een
     deurbel die HomeKit zelf ondersteunt.
-products:
-  - name: HOOBS Box (HSLF-3)
-    brand: HOOBS
-    query: HOOBS Box HomeKit Homebridge hub
-    matchName: HOOBS
-    badge: Plug-and-play bridge voor Ring
-    summary: >-
-      Een kant-en-klare Homebridge-hub die de Ring-plugin draait en Ring-deurbellen,
-      Ring-camera's en Ring Alarm in de Woning-app van Apple zet. De plugin werkt
-      via je Ring-account met je eigen Ring-apparaten; welke Ring-modellen in
-      Nederland en België verkocht worden, hebben we niet nagekeken. Ring is niet
-      HomeKit-native, dus dit is een omweg van derden, geen officiële Ring-functie.
-      Kies bij het bestellen de EU-Plug-adapter.
-    renterNote: >-
-      Voor een huurder met Apple Woning die al Ring heeft en geen Raspberry Pi of
-      server wil draaien. Kies de EU-Plug-voedingsadapter (de box zelf werkt op
-      USB-C). Hij moet altijd aan de stroom en online blijven, gebruikt de cloud
-      van Ring (live beeld kan haperen) en de standaard Ring-plugin geeft geen
-      HomeKit Secure Video.
-    pros:
-      - >-
-        Wordt geleverd met de HOOBS-software (een Homebridge-platform) al
-        geïnstalleerd; je hoeft geen server te bouwen, volgens HOOBS
-      - >-
-        De Ring-plugin zet deurbel, camera's en Ring Alarm-sensoren in Apple
-        Woning, volgens de bronnen
-      - >-
-        Een druk op de deurbel kan HomeKit-scènes starten en een HomePod laten
-        klinken, volgens de bronnen
-    cons:
-      - >-
-        Van derden en onofficieel: Ring kan zijn cloudlogin aanpassen en
-        daarmee de plugin breken
-      - >-
-        Geen HomeKit Secure Video via de standaard Ring-plugin; live beeld via
-        de cloud is trager dan bij native HomeKit-camera's
-    scores:
-      install: 6
-      reversibility: 9
-      value: 6
-      compatibility: 6
-      portability: 8
-    scoreNote: >-
-      Geen boren en je trekt hem zo uit het stopcontact; de installatie is werk
-      met plugins en tokens en Ring-ondersteuning is onofficieel, dus de
-      compatibiliteit is gedeeltelijk.
-    owners:
-      read: 8
-      praise:
-        - >-
-          Een eigenaar op r/HOOBS had een HOOBS Pro binnen 2 minuten online, met
-          ongeveer 40 Ring-apparaten toegevoegd
-        - >-
-          Eigenaren zeggen dat de box zichzelf en zijn plugins bijwerkt en
-          dagelijks gewoon draait
-        - >-
-          Een reviewer vond de eerste installatie snel en verzorgd, met
-          automatiseringen in de Woning-app die vlot reageren
-      complaints:
-        - >-
-          Meerdere eigenaren op r/HOOBS melden Ring-camera's of tegels met
-          "Reageert niet" na een update van een plugin of het systeem
-        - Eén eigenaar zegt dat zijn HOOBS-box elke dag crashte en een stroomreset nodig had
-        - >-
-          Dezelfde reviewer vond het instellen van plugins buiten de basis
-          omslachtig en moest de software een keer opnieuw installeren
-      sources:
-        - title: HOOBS Pro users reviews/feedback (r/HOOBS)
-          url: >-
-            https://www.reddit.com/r/HOOBS/comments/14yfyom/hoobs_pro_users_reviewsfeedback/
-        - title: HOOBs Pro feedback (r/HOOBS)
-          url: 'https://www.reddit.com/r/HOOBS/comments/148koyr/hoobs_pro_feedback/'
-        - title: HOOBS crashes daily (r/HOOBS)
-          url: >-
-            https://www.reddit.com/r/HOOBS/comments/1hub2kv/hoobs_crashes_dailyunable_to_access_via_client_app/
-        - title: Ring bridge not working after update (r/HOOBS)
-          url: >-
-            https://www.reddit.com/r/HOOBS/comments/1elpgqp/ring_bridge_not_working_after_yesterdays_update/
-        - title: I'm about to throw this thing away (r/HOOBS)
-          url: >-
-            https://www.reddit.com/r/HOOBS/comments/10wstqk/im_about_to_throw_this_thing_away/
-        - title: Ring camera feed on Apple TV (r/HOOBS)
-          url: >-
-            https://www.reddit.com/r/HOOBS/comments/vl6ztp/ring_camera_feed_on_apple_tv/
-        - title: HOOBS out of the box review (r/homeautomation)
-          url: >-
-            https://www.reddit.com/r/homeautomation/comments/j0ed8t/hoobs_out_of_the_box_review/
-        - title: HOOBS review (Stacey on IoT)
-          url: 'https://staceyoniot.com/hoobs-review-homekit-homebridge/'
 sources:
   - title: How to add Ring to Apple Home with HOOBS (HOOBS)
     url: 'https://hoobs.com/ring/'
   - title: HOOBS Box (HOOBS)
     url: 'https://hoobs.com/box/'
-  - title: HOOBS Box Starter Kit met EU-Plug-optie (HOOBS-shop)
-    url: 'https://hoobs.com/shop/HOOBS-Box-Starter-Kit-p709063339'
-  - title: Verzending en belastingen (HOOBS)
-    url: 'https://hoobs.com/shipping-taxes/'
   - title: Does Ring work with Apple Home (AddToHomeKit)
     url: 'https://www.addtohomekit.com/blog/ring-homekit/'
   - title: Ring camera HomeKit (AddToHomeKit)
@@ -251,9 +157,11 @@ Deze tabel zet de drie routes naast elkaar: wat je als huurder moet laten draaie
 | Scrypted | Computer of server die altijd aan staat | Ja, met iCloud+ | Camera-opnamen in Apple Woning |
 | Home Assistant | Bestaande Home Assistant-server | Nee | Wie het al gebruikt |
 
-### HOOBS Box (HSLF-3): plug-and-play bridge voor Ring
+### HOOBS als kant-en-klare host voor Ring
 
-Heb je al Ring en wil je geen server bouwen, dan is de [HOOBS Box](amzn:HOOBS+Box+HomeKit+Homebridge+hub) volgens ons de eenvoudigste host. Volgens HOOBS komt hij met de HOOBS-software al geïnstalleerd, een platform op basis van Homebridge, dus je werk bestaat uit de Ring-plugin toevoegen en koppelen, niet uit Linux inrichten. De Ring-plugin werkt via je Ring-account met de Ring-apparaten die je zelf hebt; HOOBS legt de stappen uit op zijn [Ring-installatiepagina](https://hoobs.com/ring/). Welke Ring-modellen in Nederland en België te koop zijn, hebben we niet nagekeken. Bestel je de box rechtstreeks in de [HOOBS-shop](https://hoobs.com/shop/HOOBS-Box-Starter-Kit-p709063339), kies dan bij de voedingsadapter de optie EU-Plug: de shop biedt ook US-Plug, UK-Plug en alleen een USB-kabel, en de box zelf werkt op USB-C, dus alleen de stekker verschilt. Volgens de [verzendpagina van HOOBS](https://hoobs.com/shipping-taxes/) gaan EU-bestellingen vanuit een magazijn in Duitsland de deur uit. Volgens de bronnen kan een druk op de deurbel HomeKit-scènes starten en een HomePod laten klinken. De nadelen zijn dezelfde als bij elke Ring-bridge. Het is onofficieel, dus een wijziging in de cloudlogin van Ring kan de plugin breken, en live beeld loopt via de cloud van Ring, waardoor het trager is dan bij een native HomeKit-camera. De standaard Ring-plugin geeft ook geen HomeKit Secure Video. HOOBS-eigenaren op r/HOOBS beschrijven datzelfde onderhoud: één meldt dat Ring-camera's stopten na een plugin-update en anderen zien tegels met "Reageert niet" na updates, terwijl een ander zegt dat de box zichzelf bijwerkt en dagelijks gewoon draait, en weer een ander ongeveer 40 Ring-apparaten in minder dan 2 minuten online had (die twee gebruikten een HOOBS Pro). We lazen acht berichten van eigenaren en reviewers, vooral over oudere Box- en Pro-modellen omdat de HSLF-3 nieuw is, dus zie ze als een indruk van de software, niet van precies dit apparaat. Eén eigenaar meldt een box die elke dag crashte en een stroomreset nodig had. Voor huurders: de box vraagt geen boren en trek je bij het verhuizen in seconden uit het stopcontact, maar hij moet wel in je woning aan de stroom en online blijven.
+Heb je al Ring en wil je geen server bouwen, dan is een kant-en-klare HOOBS-box volgens ons de eenvoudigste host. Volgens HOOBS komt die met de HOOBS-software al geïnstalleerd, een platform op basis van Homebridge, dus je werk bestaat uit de Ring-plugin toevoegen en koppelen, niet uit Linux inrichten. De Ring-plugin werkt via je Ring-account met de Ring-apparaten die je zelf hebt; HOOBS legt de stappen uit op zijn [Ring-installatiepagina](https://hoobs.com/ring/). Welke Ring-modellen in Nederland en België te koop zijn, hebben we niet nagekeken. Volgens de bronnen kan een druk op de deurbel HomeKit-scènes starten en een HomePod laten klinken.
+
+De nadelen zijn dezelfde als bij elke Ring-bridge. Het is onofficieel, dus een wijziging in de cloudlogin van Ring kan de plugin breken, en live beeld loopt via de cloud van Ring, waardoor het trager is dan bij een native HomeKit-camera. De standaard Ring-plugin geeft ook geen HomeKit Secure Video. Voor huurders: zo'n box vraagt geen boren en trek je bij het verhuizen in seconden uit het stopcontact, maar hij moet wel in je woning aan de stroom en online blijven.
 
 ## Wat je wel en niet kunt als Ring via een bridge loopt
 
@@ -275,7 +183,7 @@ Een HomePod of Apple TV is de woninghub van Apple Woning, en die heb je nodig vo
 
 **Installeer Homebridge op een apparaat dat altijd aan staat, voeg de Ring-plugin toe, log in met tweestapsverificatie en scan daarna de QR-code in de Woning-app.** De stappen hieronder volgen de Homebridge- en HOOBS-handleidingen uit onze bronnen:
 
-1. Installeer Homebridge op een Raspberry Pi, een computer die nooit in slaap valt of in een Docker-container, of sluit een HOOBS Box aan (met de EU-Plug-adapter).
+1. Installeer Homebridge op een Raspberry Pi, een computer die nooit in slaap valt of in een Docker-container, of sluit een HOOBS Box aan.
 2. Open de webinterface van Homebridge en installeer de Ring-plugin.
 3. Log in met je Ring-account en voer de code voor tweestapsverificatie in; de plugin bewaart een refresh token van Ring zodat hij er niet elke keer om vraagt.
 4. Herstart Homebridge zodat de Ring-apparaten laden.
@@ -332,4 +240,4 @@ Maandelijkse camerakosten zijn een terugkerende ergernis in draadjes op r/homeow
 
 Negeer elke advertentie die zegt dat Ring "HomeKit-compatibel" of "Matter-ready" is zonder het logo van Apple op de doos. AddToHomeKit meldt dat Apple een thuisscherm met de naam HomeView heeft aangekondigd; de details daarvan hebben we niet bevestigd, maar geen enkel Apple-scherm kan Ring tonen voordat een bridge het in de Woning-app zet.
 
-Dus voor de huurder die met een iPhone een deurbel zoekt: heb je nog geen Ring en wil je Apple Woning, koop dan native. Heb je er al een, dan krijgt een HOOBS Box (met EU-Plug) of Homebridge hem in de Woning-app, zodra je verhuurder ja zegt en je camera alleen je eigen voordeur filmt. Twijfel je nog tussen ecosystemen? Onze [vergelijking van Alexa en Google Home voor huurders](/nl/blog/alexa-of-google-home/) legt uit waar Ring wel standaard bij past.
+Dus voor de huurder die met een iPhone een deurbel zoekt: heb je nog geen Ring en wil je Apple Woning, koop dan native. Heb je er al een, dan krijgt een HOOBS Box of Homebridge hem in de Woning-app, zodra je verhuurder ja zegt en je camera alleen je eigen voordeur filmt. Twijfel je nog tussen ecosystemen? Onze [vergelijking van Alexa en Google Home voor huurders](/nl/blog/alexa-of-google-home/) legt uit waar Ring wel standaard bij past.

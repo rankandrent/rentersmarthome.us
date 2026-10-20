@@ -954,6 +954,48 @@
       "lang": "nl",
       "translationOf": "reolink-vs-eufy",
       "pubDate": "2026-10-19T23:15:00.000Z"
+    },
+    {
+      "date": "2026-10-20",
+      "id": "nl/govee-homekit",
+      "lang": "nl",
+      "translationOf": "govee-apple-homekit",
+      "pubDate": "2026-10-20T18:30:00.000Z"
+    },
+    {
+      "date": "2026-10-20",
+      "id": "es/govee-homekit",
+      "lang": "es",
+      "translationOf": "govee-apple-homekit",
+      "pubDate": "2026-10-20T19:30:00.000Z"
+    },
+    {
+      "date": "2026-10-20",
+      "id": "de/govee-homekit",
+      "lang": "de",
+      "translationOf": "govee-apple-homekit",
+      "pubDate": "2026-10-20T19:35:00.000Z"
+    },
+    {
+      "date": "2026-10-20",
+      "id": "nl/werkt-ring-met-apple-homekit",
+      "lang": "nl",
+      "translationOf": "does-ring-work-with-apple-homekit",
+      "pubDate": "2026-10-20T23:35:00.000Z"
+    },
+    {
+      "date": "2026-10-20",
+      "id": "es/ring-compatible-con-homekit",
+      "lang": "es",
+      "translationOf": "does-ring-work-with-apple-homekit",
+      "pubDate": "2026-10-21T01:05:00.000Z"
+    },
+    {
+      "date": "2026-10-20",
+      "id": "de/ring-homekit",
+      "lang": "de",
+      "translationOf": "does-ring-work-with-apple-homekit",
+      "pubDate": "2026-10-21T00:25:00.000Z"
     }
   ]
 }

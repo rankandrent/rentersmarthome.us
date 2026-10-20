@@ -38,7 +38,6 @@ tags:
 articleType: how-to
 funnel: mofu
 productStyle: specs
-productCount: 1
 readingTime: 7
 tldr:
   - >-
@@ -57,109 +56,6 @@ tldr:
     para emparejarla hacen falta IPv6 y Wi-Fi de 2,4 GHz, y cambiar el Wi-Fi
     desde la app de Govee desactiva Matter, así que restablécela tras cada
     mudanza.
-products:
-  - name: Govee LED Strip Light M1 (H61E0 6.56ft / H61E1 16.4ft)
-    brand: Govee
-    query: Govee LED Strip Light M1 Matter
-    matchName: Govee LED Strip Light M1
-    badge: La tira de luz Matter original de Govee
-    summary: >-
-      Una tira RGBIC enchufable con dorso adhesivo y caja de control. La FAQ de
-      Matter de Govee cita la M1 como su tira compatible con Matter, así que se
-      empareja con Apple Home escaneando el código QR de Matter, sin puente.
-      Matter funciona por Wi-Fi y comparte con Apple Home encendido/apagado,
-      brillo, temperatura de color y color; las escenas, la sincronización con
-      música y el control por segmentos se quedan en la app Govee Home. En
-      España, busca la versión H61E0 de 2 m con cargador de enchufe europeo de 2
-      patillas, que es la que aparece en la tienda europea de Govee.
-    renterNote: >-
-      Para el inquilino que quiere una tira en el dormitorio o detrás de la tele
-      que Siri y la app Casa controlen sin puente ni cableado. Elige la versión
-      europea H61E0 (2 m) con cargador de enchufe EU de 2 patillas, no la de
-      clavija americana; la versión europea H61E1 (5 m) no la hemos podido
-      confirmar. Ojo: Apple Home necesita un hub (Apple TV o HomePod) para el
-      acceso remoto y las automatizaciones, la configuración de Matter debe
-      terminarse en los 15 minutos siguientes a enchufarla y requiere IPv6 y
-      Wi-Fi de 2,4 GHz, y cambiar la red Wi-Fi desde la app de Govee desactiva
-      Matter. Las tiras Govee antiguas sin Matter necesitan un puente; comprueba
-      el logo Matter y el número de modelo M1 antes de comprar.
-    pros:
-      - >-
-        Se empareja con Apple Home por Matter con el código QR del cable de
-        alimentación o el de la app de Govee, sin puente (FAQ de Matter de
-        Govee)
-      - >-
-        Tira y caja de control adhesivas y un cargador que se enchufa, sin
-        cables que instalar ni agujeros
-      - >-
-        El multiadministrador de Matter permite compartir la misma tira también
-        con Alexa o Google Home
-    cons:
-      - >-
-        A Apple Home solo llegan encendido/apagado, brillo, temperatura de color
-        y color; la sincronización con música, los efectos DIY y el control por
-        segmentos se quedan en la app de Govee
-      - >-
-        Matter solo por Wi-Fi (sin Thread), y la conexión Matter puede caerse si
-        cambias la red Wi-Fi en la app de Govee; algunos propietarios cuentan
-        que el emparejamiento no llega a terminar
-      - >-
-        Según Govee, la tira adhesiva no se puede cortar por debajo de 3 metros,
-        así que el sobrante hay que enrollarlo o doblarlo
-    specs:
-      Models: 'H61E0 (2 m / 6.56 ft), H61E1 (5 m / 16.4 ft)'
-      Matter: >-
-        Matter por Wi-Fi; la FAQ de Matter de Govee cita la M1 (2 m) y la M1 (5
-        m, con caja de control compatible con Matter)
-      Apple Home: >-
-        Se añade mediante Matter; no hemos encontrado certificación HomeKit
-        nativa
-      Install: Dorso adhesivo en la tira y la caja de control; cargador enchufable
-      LEDs: '60 por metro, RGBIC con luz blanca'
-      Expandable: >-
-        La de 2 m (6.56 ft) se amplía hasta 5 m (16.4 ft); la de 5 m hasta 10 m
-        (32.8 ft) (ficha de reacondicionado de Govee)
-    scores:
-      install: 8
-      reversibility: 7
-      value: 7
-      compatibility: 8
-      portability: 7
-    owners:
-      read: 5
-      praise:
-        - >-
-          Emparejarla con el código QR de Matter del cable funcionó a un
-          propietario que al principio no conseguía añadir la tira a Apple Home
-        - >-
-          Un propietario que cambió una tira genérica de los muebles por la M1
-          dijo que el resultado le impresionó muchísimo
-      complaints:
-        - >-
-          El emparejamiento puede quedarse colgado: a un usuario de r/HomeKit la
-          tira le aparecía como compatible pero nunca terminaba de conectarse
-        - >-
-          Apple Home solo pone un color a la vez, y encadenar más de una
-          extensión le dio problemas a un propietario
-      sources:
-        - title: HomeKit connection issue (r/Govee)
-          url: >-
-            https://www.reddit.com/r/Govee/comments/18lvp88/homekit_connection_issue/
-        - title: Govee M1 with Matter will not connect (r/HomeKit)
-          url: >-
-            https://www.reddit.com/r/HomeKit/comments/1i38ag0/govee_m1_with_matter_will_not_connect_other/
-        - title: Govee Matter and Homekit support question (r/Govee)
-          url: >-
-            https://www.reddit.com/r/Govee/comments/147vslu/q_govee_matter_and_homekit_support/
-        - title: LED strip M1 with matter 2nd extension issues (r/Govee)
-          url: >-
-            https://www.reddit.com/r/Govee/comments/1bgbq1k/led_strip_m1_with_matter_2nd_extension_issues/
-        - title: Govee M1 strip light installation review (Govee Facebook group)
-          url: 'https://www.facebook.com/groups/govee/posts/850373166599559/'
-    scoreNote: >-
-      Se pega y se enchufa, sin cableado; aun así, el adhesivo puede arrancar
-      pintura al retirarla. Matter da control en Apple Home sin puente, pero
-      solo con las funciones básicas de luz.
 sources:
   - title: Matter FAQ (Govee)
     url: 'https://us.govee.com/pages/matter-faq'
@@ -251,9 +147,9 @@ Según Govee y AddToHomeKit, los modelos Govee antiguos no pueden recibir Matter
 
 Antes de comprar, busca el logo Matter en la caja y el número de modelo de la M1 (H61E0 o H61E1). Importa porque es una duda recurrente en los hilos de r/HomeKit, donde los usuarios preguntan si "Matter" en la caja garantiza que funcione con Apple Home. Una respuesta lo resume sin rodeos: ["The challenge is that Matter is evolving quickly."](https://www.reddit.com/r/HomeKit/comments/1l0soq3/does_matter_automatically_mean_a_device_will_work/) (el problema es que Matter evoluciona muy deprisa). Nuestra regla: fíate del logo del modelo concreto, no de la marca.
 
-### Govee LED Strip Light M1: la tira Matter que citan las dos fuentes principales
+### Ejemplo de tira Matter: la Govee LED Strip Light M1
 
-La [Govee LED Strip Light M1](amzn:Govee+LED+Strip+Light+M1+Matter) encaja con el inquilino que quiere que Siri y la app Casa manejen una tira en el dormitorio o detrás de la tele sin puente ni cableado. Se enchufa a la corriente y se pega con adhesivo, y la misma tira se puede compartir también con Alexa o Google Home. Para España, busca la versión europea: la [tienda europea de Govee](https://eu.govee.com/products/refurbished-govee-led-strip-light-m1-matter-compatible-2m) muestra la M1 H61E0 de 2 m (6.56 ft) con cargador de enchufe EU de 2 patillas y compatibilidad Matter (HomeKit, Alexa y Google). La versión europea de la H61E1 (5 m, 16.4 ft) no la hemos podido confirmar, así que no des por hecho que exista con enchufe europeo.
+La Govee LED Strip Light M1 encaja con el inquilino que quiere que Siri y la app Casa manejen una tira en el dormitorio o detrás de la tele sin puente ni cableado. Se enchufa a la corriente y se pega con adhesivo, y la misma tira se puede compartir también con Alexa o Google Home. Para España, busca la versión europea: la [tienda europea de Govee](https://eu.govee.com/products/refurbished-govee-led-strip-light-m1-matter-compatible-2m) muestra la M1 H61E0 de 2 m (6.56 ft) con cargador de enchufe EU de 2 patillas y compatibilidad Matter (HomeKit, Alexa y Google). La versión europea de la H61E1 (5 m, 16.4 ft) no la hemos podido confirmar, así que no des por hecho que exista con enchufe europeo.
 
 En Apple Home solo tendrás lo básico, y ten en cuenta que Govee dice que la tira no se puede cortar por debajo de 3 metros, así que piensa dónde vas a enrollar el sobrante. Las opiniones de los propietarios son mixtas: un miembro del grupo de Facebook de Govee quedó "muy impresionado" tras cambiar una tira genérica de los muebles por la M1, mientras que a un usuario de r/HomeKit la tira le aparecía como compatible pero nunca terminaba de conectarse. Una respuesta en r/Govee cuenta que el código QR del cable resolvió un problema de emparejamiento parecido.
 
