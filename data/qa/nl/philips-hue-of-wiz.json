@@ -3,10 +3,11 @@
   "lang": "nl",
   "translationOf": "philips-hue-vs-wiz",
   "pass": true,
-  "checkedAt": "2026-10-20T13:36:47.368Z",
+  "checkedAt": "2026-10-20T20:19:33.909Z",
   "errors": [],
   "warnings": [
-    "not localized yet: run localizer-agent for philips-hue-vs-wiz (data/briefs/nl/philips-hue-vs-wiz.local.json), then rewrite with translator-agent"
+    "not localized yet: run localizer-agent for philips-hue-vs-wiz (data/briefs/nl/philips-hue-vs-wiz.local.json), then rewrite with translator-agent",
+    "source didn't respond normally (no response): https://homekitnews.com/2023/04/26/wiz-gains-matter-support-for-most-products-via-app-update/"
   ],
   "factCheck": {
     "verified": true,

@@ -1,10 +1,12 @@
 {
   "slug": "door-camera-for-apartment",
   "pass": true,
-  "checkedAt": "2026-10-20T20:06:42.700Z",
+  "checkedAt": "2026-10-20T20:10:05.278Z",
   "errors": [],
   "warnings": [
-    "body has 2549 words, over the 2012 limit (top results average 1750): cut repetition and filler"
+    "body has 2549 words, over the 2012 limit (top results average 1750): cut repetition and filler",
+    "LIVE POST, FIX: source returns 404: https://support.google.com/googlehome/answer/9259110?hl=en",
+    "LIVE POST, FIX: source returns 404: https://support.google.com/googlehome/answer/11830989?hl=en"
   ],
   "factCheck": {
     "verified": true,

@@ -3,9 +3,10 @@
   "lang": "nl",
   "translationOf": "best-magnetic-stud-finder",
   "pass": true,
-  "checkedAt": "2026-10-19T13:48:56.428Z",
+  "checkedAt": "2026-10-20T20:18:38.996Z",
   "errors": [],
   "warnings": [
+    "source didn't respond normally (503): https://www.woodcraft.com/products/kreg-magnetic-stud-finder-with-laser-mark",
     "source didn't respond normally (no response): https://www.tractorsupply.com/tsc/product/the-studbuddy-plus-magnetic-stud-finder-level-and-ruler-2408462"
   ],
   "factCheck": {
