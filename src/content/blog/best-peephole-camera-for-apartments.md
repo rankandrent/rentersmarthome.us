@@ -360,10 +360,10 @@ heroAlt: >-
   Peephole Camera for Apartments 2026 – 4 No-Drill Picks, Privacy Rules –
   RenterSmartHome buying guide
 related:
+  - best-indoor-security-camera-for-renters-no-drilling
   - how-to-secure-sliding-glass-door-in-rental
   - door-camera-for-apartment
   - best-wireless-security-cameras-for-apartments
-  - best-video-doorbell-without-subscription-for-renters
 ---
 
 A **peephole camera** is a battery-powered video camera that replaces the small door viewer (peephole) already built into most apartment doors. The peephole camera mounts through the same hole, so you get motion alerts, live video and two-way talk on your phone without drilling, wiring, or touching the door frame. That makes a peephole camera the most renter-friendly way to see who's at your door.

@@ -1,0 +1,491 @@
+{
+ "centralEntity": "indoor security camera for renters",
+ "entityVariants": [
+  "indoor security camera",
+  "renter-friendly indoor camera",
+  "no-drill indoor camera",
+  "apartment indoor camera",
+  "plug-in indoor camera",
+  "wireless indoor camera"
+ ],
+ "entities": [
+  {
+   "name": "Ring Indoor Cam (2nd Gen)",
+   "type": "product",
+   "relation": "plug-in indoor camera with a manual privacy cover"
+  },
+  {
+   "name": "Google Nest Cam Indoor (Wired, 3rd Gen)",
+   "type": "product",
+   "relation": "wired 2K indoor camera on a tabletop stand"
+  },
+  {
+   "name": "Abode Cam 2",
+   "type": "product",
+   "relation": "1080p camera that ships with an adhesive mounting strip"
+  },
+  {
+   "name": "SimpliSafe Smart Alarm Wireless Indoor Security Camera",
+   "type": "product",
+   "relation": "battery indoor camera tied to a SimpliSafe alarm"
+  },
+  {
+   "name": "privacy cover",
+   "type": "feature",
+   "relation": "physically blocks the lens and turns off the mic"
+  },
+  {
+   "name": "privacy shutter",
+   "type": "feature",
+   "relation": "built-in lens shutter on the SimpliSafe camera"
+  },
+  {
+   "name": "adhesive mounting strip",
+   "type": "hardware",
+   "relation": "no-drill wall mount option"
+  },
+  {
+   "name": "2.4 GHz Wi-Fi",
+   "type": "network",
+   "relation": "band most indoor cameras require"
+  },
+  {
+   "name": "cloud subscription",
+   "type": "service",
+   "relation": "needed for recorded video on most picks"
+  },
+  {
+   "name": "Ring Protect",
+   "type": "service",
+   "relation": "Ring's recording plan"
+  },
+  {
+   "name": "Google Home Premium",
+   "type": "service",
+   "relation": "Nest history and smart-alert plan"
+  },
+  {
+   "name": "lease agreement",
+   "type": "legal",
+   "relation": "may restrict cameras or wall changes"
+  },
+  {
+   "name": "security deposit",
+   "type": "legal",
+   "relation": "what drilling or adhesive damage can cost"
+  },
+  {
+   "name": "landlord",
+   "type": "person",
+   "relation": "approves wall changes and camera rules"
+  },
+  {
+   "name": "roommates",
+   "type": "person",
+   "relation": "share the space an indoor camera records"
+  },
+  {
+   "name": "Alexa",
+   "type": "platform",
+   "relation": "voice and display integration"
+  },
+  {
+   "name": "Google Home",
+   "type": "platform",
+   "relation": "Nest app and integration"
+  }
+ ],
+ "attributes": [
+  "no-drill placement (shelf, stand, adhesive)",
+  "power (plug-in vs battery)",
+  "physical privacy cover or shutter",
+  "free features without a plan",
+  "recorded video and storage",
+  "local recording",
+  "field of view",
+  "resolution",
+  "Wi-Fi band and upload speed",
+  "system required",
+  "cord length",
+  "portability on move-out"
+ ],
+ "ngrams": [
+  "indoor security camera",
+  "no drilling",
+  "renter friendly",
+  "security camera for apartments",
+  "privacy cover",
+  "privacy shutter",
+  "adhesive mounting strip",
+  "plug-in power",
+  "2.4 GHz Wi-Fi",
+  "cloud subscription",
+  "live view",
+  "two-way talk",
+  "motion alerts",
+  "color night vision",
+  "security deposit",
+  "move-out day"
+ ],
+ "skipgrams": [
+  "camera…shelf",
+  "privacy…cover",
+  "adhesive…strip",
+  "recorded…plan",
+  "landlord…writing",
+  "lease…cameras",
+  "outlet…cord",
+  "battery…charge"
+ ],
+ "nlpTerms": [
+  "renters",
+  "apartment",
+  "landlord",
+  "lease",
+  "drilling",
+  "adhesive",
+  "shelf",
+  "outlet",
+  "privacy",
+  "subscription",
+  "cloud",
+  "recording",
+  "motion",
+  "night vision",
+  "Wi-Fi",
+  "2K",
+  "1080p",
+  "field of view",
+  "alerts",
+  "roommates",
+  "deposit",
+  "move out",
+  "no drill",
+  "indoor camera"
+ ],
+ "questions": [
+  "Can I put a security camera in my apartment without drilling?",
+  "Do I need my landlord's permission for an indoor camera?",
+  "Which indoor cameras work without a subscription?",
+  "Can an indoor camera turn off while I'm home?",
+  "Is it legal to record audio with an indoor camera?",
+  "Where should I place an indoor camera in an apartment?",
+  "What happens to my camera when I move out?"
+ ],
+ "contentGaps": [
+  "Which picks have a physical privacy cover or shutter for when you are home",
+  "Exactly what each camera does without a paid plan",
+  "Which mounts need screws and which do not (per the manuals)",
+  "Outage behavior: no local recording or backup battery on some picks",
+  "Cord length and outlet placement in a rental",
+  "Roommate consent and audio rules indoors"
+ ],
+ "outline": [
+  {
+   "h2": "Our quick answer",
+   "intent": "direct answer and top picks",
+   "h3": []
+  },
+  {
+   "h2": "The best indoor security cameras for renters, reviewed",
+   "intent": "product picks",
+   "h3": [
+    "Ring Indoor Cam (2nd Gen): best overall for renters",
+    "Google Nest Cam Indoor (Wired, 3rd Gen): best picture and smart alerts",
+    "Abode Cam 2: best with an adhesive mount in the box",
+    "SimpliSafe Smart Alarm Wireless Indoor Security Camera: best cord-free pick for SimpliSafe homes"
+   ]
+  },
+  {
+   "h2": "Compare them side by side",
+   "intent": "comparison table",
+   "h3": []
+  },
+  {
+   "h2": "How to set up an indoor camera with no drilling",
+   "intent": "install without damage",
+   "h3": [
+    "Shelf placement",
+    "Adhesive strips",
+    "Cords and outlets"
+   ]
+  },
+  {
+   "h2": "What each camera does without a subscription",
+   "intent": "subscription pain point",
+   "h3": []
+  },
+  {
+   "h2": "Privacy when you're home, roommates and audio",
+   "intent": "privacy pain points",
+   "h3": []
+  },
+  {
+   "h2": "Problems owners run into, and the fix",
+   "intent": "pain points",
+   "h3": [
+    "Cameras dropping off Wi-Fi",
+    "False motion alerts",
+    "Battery that dies early"
+   ]
+  },
+  {
+   "h2": "Your lease, your landlord and move-out day",
+   "intent": "renter-specific gap",
+   "h3": []
+  }
+ ],
+ "commonPoints": [
+  "Wireless, plug-in or battery cameras avoid hardwiring",
+  "Indoor cameras can sit on a shelf, so they need no drilling",
+  "Adhesive mounts and DIY setup protect the security deposit",
+  "Check your lease and ask the landlord before anything permanent",
+  "Do not aim cameras at common areas or a neighbor's unit",
+  "Most brands charge a subscription for cloud video history",
+  "No-contract systems move with you"
+ ],
+ "ourGain": [
+  {
+   "point": "Mount check from the manuals: Ring and Nest stand on their own, Abode ships an adhesive strip, and only SimpliSafe's wall plate needs screws (SimpliSafe says to set it on a shelf edge about 4 feet up instead)",
+   "source": "https://support.simplisafe.com/articles/smart-alarm-indoor-camera/smart-alarm-wireless-indoor-security-camera-installation-guide ; https://goabode.com/product/abode-cam-2/ ; https://home.google.com/get-inspired/wired-nest-camera-compare/ ; https://en-uk.ring.com/products/mini-indoor-security-camera-plug-in"
+  },
+  {
+   "point": "Privacy hardware for when you're home: Ring's manual cover turns off camera and mic, SimpliSafe has a built-in shutter; owners who distrust indoor cloud cameras cut power instead",
+   "source": "https://ring.com/products/mini-indoor-security-camera-plug-in ; https://support.simplisafe.com/articles/smart-alarm-indoor-camera/smart-alarm-wireless-indoor-security-camera-settings-customizations ; https://www.reddit.com/r/Ring/comments/1enerej/yall_recommend_cams_inside_your_home/"
+  },
+  {
+   "point": "What works with no plan: Ring live view, alerts and talk; Nest 10-second previews from the past 6 hours; Abode live view only (no local recording); SimpliSafe needs a Gen 3 system and keypad",
+   "source": "https://en-uk.ring.com/products/mini-indoor-security-camera-plug-in ; https://home.google.com/get-inspired/wired-nest-camera-compare/ ; https://goabode.com/product/abode-cam-2/ ; https://support.simplisafe.com/articles/smart-alarm-indoor-camera/smart-alarm-wireless-indoor-security-camera-installation-guide"
+  },
+  {
+   "point": "Rental Wi-Fi and outlet reality: Ring and Abode need 2.4 GHz, Nest's 2K needs 3.3 Mbps, SimpliSafe wants 2-3 Mbps upload per camera, and Abode's 6 ft cord is a recurring owner complaint",
+   "source": "https://goabode.com/product/abode-cam-2/ ; https://home.google.com/get-inspired/wired-nest-camera-compare/ ; https://support.simplisafe.com/articles/smart-alarm-indoor-camera/smart-alarm-wireless-indoor-security-camera-installation-guide"
+  },
+  {
+   "point": "Owner-reported failure modes per pick (Wi-Fi drop-offs on Ring and Abode, SimpliSafe battery well short of 3 months) with the fix",
+   "source": "https://www.reddit.com/r/Ring/comments/1d9q38q/four_gen_2_ring_indoor_cameras_failed/ ; https://www.reddit.com/r/Abode/comments/1ppy42j/just_avoid_the_abode_cam_2/ ; https://www.reddit.com/r/simplisafe/comments/196jlt0/simplisafe_cams/"
+  }
+ ],
+ "targetWords": 2000,
+ "serpStructure": {
+  "analyzedUrls": [
+   "https://www.safehome.org/home-security-cameras/best/apartments/",
+   "https://www.security.org/security-cameras/best/apartment/",
+   "https://goabode.com/blog/apartment-security-system-2/",
+   "https://realestate.usnews.com/home-services/home-security-systems/best-home-security-systems-for-renters"
+  ],
+  "productStyle": "pros-cons",
+  "productStyleReason": "SafeHome, Security.org and U.S. News each give every pick a Pros & Cons or What We Like / What We Don't Like list plus a short spec table.",
+  "avgWords": 2050,
+  "avgProducts": 5,
+  "commonSections": [
+   "top picks list",
+   "comparison table",
+   "per-product pros and cons",
+   "installation without drilling",
+   "monitoring and subscription plans",
+   "methodology",
+   "FAQ"
+  ],
+  "usesComparisonTable": true,
+  "usesFaq": true,
+  "usesBuyingGuide": true
+ },
+ "serpTitles": [
+  {
+   "position": 1,
+   "url": "https://www.safehome.org/home-security-cameras/best/apartments/",
+   "title": "Best Security Cameras for Apartments in 2026 - SafeHome.org"
+  },
+  {
+   "position": 2,
+   "url": "https://www.reddit.com/r/homesecurity/comments/1pjasv8/whats_the_best_security_camera_that_doesnt/",
+   "title": "What's the best security camera that doesn't require drilling? - Reddit"
+  },
+  {
+   "position": 3,
+   "url": "https://www.youtube.com/watch?v=mJWk5-bG4pk",
+   "title": "Best Security Camera for Apartments No Drilling Required - YouTube"
+  },
+  {
+   "position": 4,
+   "url": "https://www.facebook.com/groups/peoria.arizona.neighbors/posts/1128902111991789/",
+   "title": "What apartment friendly security camera is recommended with no ..."
+  },
+  {
+   "position": 5,
+   "url": "https://www.security.org/security-cameras/best/apartment/",
+   "title": "Best Security Cameras for Apartments in 2026 - Security.org"
+  },
+  {
+   "position": 6,
+   "url": "https://goabode.com/blog/apartment-security-system-2/",
+   "title": "Best Apartment Security System 2026: No Drill, No Fees - Abode"
+  },
+  {
+   "position": 7,
+   "url": "https://www.bestbuy.com/site/shop/home-security-for-renters",
+   "title": "Home Security For Renters - Best Buy"
+  },
+  {
+   "position": 8,
+   "url": "https://dzees.com/blogs/blog/best-security-camera-for-apartment-renters-no-drilling-no-subscription",
+   "title": "Best Security Camera for Apartment Renters (No Drilling, No Subscripti"
+  },
+  {
+   "position": 9,
+   "url": "https://www.youtube.com/watch?v=8o0O7CKaLmU",
+   "title": "Best Wireless Security Camera Setup for Renters 2026 - YouTube"
+  },
+  {
+   "position": 10,
+   "url": "https://ring.com/collections/renter-friendly-security",
+   "title": "Renter Friendly Security – Apartments, Homes, and more | Ring"
+  }
+ ],
+ "titlePattern": {
+  "keywordAtStart": 0,
+  "withYear": 4,
+  "withNumber": 0,
+  "commonModifiers": [
+   "for apartments",
+   "no drilling / no drill",
+   "renters / renter friendly",
+   "2026",
+   "no subscription / no fees"
+  ],
+  "gap": "Indoor-only picks with a privacy cover for when you're home, and the exact no-drill placement for each"
+ },
+ "serpProducts": [
+  {
+   "name": "Ring Indoor Cam (2nd Gen)",
+   "pages": [
+    "https://www.security.org/security-cameras/best/apartment/",
+    "https://www.reddit.com/r/Ring/comments/18mzgdi/renter_friendly_advice_for_security_cameras/",
+    "https://ring.com/collections/renter-friendly-security"
+   ]
+  },
+  {
+   "name": "Google Nest Cam Indoor (wired)",
+   "pages": [
+    "https://www.safehome.org/home-security-cameras/best/apartments/",
+    "https://www.security.org/security-cameras/best/apartment/"
+   ]
+  },
+  {
+   "name": "SimpliSafe Smart Alarm Wireless Indoor Camera",
+   "pages": [
+    "https://www.security.org/security-cameras/best/apartment/",
+    "https://www.safehome.org/home-security-cameras/best/apartments/"
+   ]
+  },
+  {
+   "name": "Abode Cam 2",
+   "pages": [
+    "https://goabode.com/blog/apartment-security-system-2/",
+    "https://realestate.usnews.com/home-services/home-security-systems/best-home-security-systems-for-renters"
+   ]
+  }
+ ],
+ "serpNotes": "Top 10 for the exact keyword (US, 2026-10-20): 2 videos (skipped), 1 Best Buy store page (skipped), Ring and Dzees brand pages, Reddit and Facebook threads, and SafeHome/Security.org/Abode articles. Most editorial pages rank brands rather than models; only 4 indoor models are named by 2+ pages (U.S. News ranks #5 for the close variant 'best indoor security camera for renters'), so productCount is 4 instead of the seeded 13. Wyze Cam v4, Blink Mini, eufy and Arlo indoor cams were named by one page or by brand only.",
+ "painPoints": [
+  {
+   "id": "security-landlord-bans-cameras-doorbells",
+   "pain": "Lease or landlord forbids doorbell cameras or personal cameras and renter fears enforcement",
+   "details": "Renters ask whether a lease clause banning cameras is enforceable and what happens if they install a temporary device anyway.",
+   "sources": [
+    "https://www.reddit.com/r/Apartmentliving/comments/1ebelua/ring_doorbells_not_allowed/",
+    "https://www.reddit.com/r/LandlordLove/comments/1ef2zou/can_landlord_say_we_cant_have_cameras/",
+    "https://www.reddit.com/r/legaladvicecanada/comments/1iy8q6v/is_it_legal_for_my_landlord_to_prohibit_the_use/",
+    "https://www.reddit.com/r/Ring/comments/17ct3sk/apartment_complex_wont_allow_ring_doorbell_after/",
+    "https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/"
+   ],
+   "quotes": [
+    {
+     "text": "If there is any mention of no cameras then your landlord can enforce that however the law allows",
+     "url": "https://www.reddit.com/r/LandlordLove/comments/1ef2zou/can_landlord_say_we_cant_have_cameras/"
+    },
+    {
+     "text": "Make sure it's legal and not excluded in your lease.",
+     "url": "https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/"
+    }
+   ]
+  },
+  {
+   "id": "security-cloud-subscription-fees",
+   "pain": "Cameras need a monthly subscription to be useful; renters want no-fee options",
+   "details": "Buyers resent fees for cloud video and look for SD-card or local storage cameras such as Wyze, Eufy or Reolink.",
+   "sources": [
+    "https://www.reddit.com/r/BuyItForLife/comments/1n94pqy/why_did_we_accept_that_security_cameras_need/",
+    "https://www.reddit.com/r/homeowners/comments/1ot0xm0/home_security_cameras_without_monthly_payment/",
+    "https://www.reddit.com/r/homeautomation/comments/1nrmayb/what_are_my_options_for_a_good_security_camera/",
+    "https://www.cnet.com/home/security/best-home-security-cameras-without-subscriptions/"
+   ],
+   "quotes": [
+    {
+     "text": "Subscription not required to record to SD card and view via your cell phone.",
+     "url": "https://www.reddit.com/r/homeowners/comments/1ot0xm0/home_security_cameras_without_monthly_payment/"
+    },
+    {
+     "text": "Reolink is a good call for no subscription.",
+     "url": "https://www.reddit.com/r/homeautomation/comments/1nrmayb/what_are_my_options_for_a_good_security_camera/"
+    }
+   ]
+  },
+  {
+   "id": "security-camera-cloud-privacy-concerns",
+   "pain": "Owners distrust camera cloud privacy after reports of exposed footage or thumbnails",
+   "details": "Indoor camera buyers worry about cloud access, hacking and brands that use the cloud even for local storage.",
+   "sources": [
+    "https://www.reddit.com/r/BuyItForLife/comments/1n94pqy/why_did_we_accept_that_security_cameras_need/",
+    "https://www.reddit.com/r/privacytoolsIO/comments/p4wfh0/privacy_friendly_security_cameras/",
+    "https://www.thesmarthomehookup.com/indoor-cameras-reviewed-and-tested-for-privacy-concerns/"
+   ],
+   "quotes": [
+    {
+     "text": "Eufy (anker) cameras store locally but still use cloud for login.",
+     "url": "https://www.reddit.com/r/privacytoolsIO/comments/p4wfh0/privacy_friendly_security_cameras/"
+    }
+   ]
+  },
+  {
+   "id": "security-false-motion-alerts",
+   "pain": "Doorbell and camera send constant false motion or person alerts",
+   "details": "Owners get alerts from passing traffic or wrongly detected people and tune zones or add a second camera angle.",
+   "sources": [
+    "https://www.reddit.com/r/EufyCam/comments/j9t6ab/can_someone_tell_me_how_to_fix_these_false_human/",
+    "https://www.facebook.com/groups/ringdoorbellusersgroup/posts/1090145698003833/",
+    "https://www.nytimes.com/wirecutter/reviews/best-smart-doorbell-camera/"
+   ],
+   "quotes": [
+    {
+     "text": "The last two weeks I've been getting false motion sensor alarms.",
+     "url": "https://www.facebook.com/groups/ringdoorbellusersgroup/posts/1090145698003833/"
+    }
+   ]
+  },
+  {
+   "id": "security-indoor-camera-recording-while-home",
+   "pain": "Renters don't want an indoor cloud camera watching or listening while they are home",
+   "details": "Owners of indoor cameras distrust cloud recording inside the home and cut power to cameras or look for a physical privacy cover or shutter that disables video and audio when someone is home.",
+   "sources": [
+    "https://www.reddit.com/r/Ring/comments/1enerej/yall_recommend_cams_inside_your_home/",
+    "https://www.reddit.com/r/privacytoolsIO/comments/p4wfh0/privacy_friendly_security_cameras/"
+   ],
+   "quotes": [
+    {
+     "text": "I don't trust Ring to record what's happening indoors when anyone is home",
+     "url": "https://www.reddit.com/r/Ring/comments/1enerej/yall_recommend_cams_inside_your_home/"
+    }
+   ]
+  }
+ ],
+ "internalLinks": [
+  "best-wireless-security-cameras-for-apartments",
+  "door-camera-for-apartment",
+  "best-peephole-camera-for-apartments",
+  "blink-vs-ring-subscription",
+  "best-heavy-duty-adhesive-hooks-for-renters"
+ ],
+ "cannibalNote": "routine.mjs cannibal flags 100% overlap with best-wireless-security-cameras-for-apartments (its secondary keyword 'indoor security camera for renters'). This is an owner-supplied keyword (source: user, skips the cannibal check); the angle here is indoor-only, privacy cover, no-drill placement per manual, and links to that post as the broader roundup."
+}

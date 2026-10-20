@@ -1,0 +1,309 @@
+{
+ "products": [
+  {
+   "name": "Ring Indoor Cam (2nd Gen)",
+   "brand": "Ring",
+   "query": "Ring Indoor Cam 2nd Gen privacy cover",
+   "matchName": "Ring Indoor Cam",
+   "badge": "Best overall for renters",
+   "summary": "A small plug-in 1080p camera with a manual privacy cover that switches off the lens and the microphone. It suits a renter who wants a camera on a shelf that is truly off while they are home.",
+   "renterNote": "It stands on a shelf and plugs into an outlet; the screws in the box are optional, so nothing touches the wall.",
+   "pros": [
+    "Manual privacy cover turns off both video and audio",
+    "Live view, alerts and two-way talk work without a plan",
+    "Small footprint for a bookshelf or counter"
+   ],
+   "cons": [
+    "Recorded video needs a Ring Protect plan (no local storage)",
+    "2.4 GHz Wi-Fi only, and some owners report cameras dropping off Wi-Fi"
+   ],
+   "specs": {
+    "Video": "1080p HD, color night vision",
+    "Field of view": "143° diagonal, 115° horizontal",
+    "Power": "Plug-in",
+    "Wi-Fi": "802.11 b/g/n, 2.4 GHz",
+    "Privacy": "Manual cover turns off camera and mic"
+   },
+   "scores": {
+    "install": 9,
+    "reversibility": 10,
+    "value": 7,
+    "compatibility": 7,
+    "portability": 9
+   },
+   "scoreNote": "Shelf placement and a plug leave no trace; recording behind a plan and 2.4 GHz-only Wi-Fi hold back value and compatibility.",
+   "facts": [
+    "1080p HD video with color night vision; 143° diagonal, 115° horizontal field of view (Ring tech specs)",
+    "802.11 b/g/n Wi-Fi at 2.4 GHz; plug-in power (Ring tech specs)",
+    "Manual, removable privacy cover turns off the camera and mic when slid over the lens (Ring FAQ)",
+    "Motion schedule can disable motion alerts and recording while you are home (Ring FAQ)",
+    "Notifications, Live View and Two-Way Talk work without a subscription (Ring)",
+    "No free storage of recordings; recording needs a Ring Protect plan (Security.org)",
+    "Box includes installation hardware (Ring tech specs)"
+   ],
+   "sources": [
+    "https://ring.com/products/mini-indoor-security-camera-plug-in",
+    "https://en-uk.ring.com/products/mini-indoor-security-camera-plug-in",
+    "https://ring.com/us/en/support/products/cameras/indoor-cam-gen-2",
+    "https://www.security.org/security-cameras/best/apartment/"
+   ],
+   "owners": {
+    "read": 3,
+    "praise": [
+     "Renters on r/Ring suggest it as the no-drill choice because it can sit on a table or go up with double-sided tape",
+     "Plug-in power means no battery to recharge"
+    ],
+    "complaints": [
+     "Cameras that suddenly stop connecting to Wi-Fi",
+     "Some owners distrust a cloud camera indoors and cut its power when anyone is home"
+    ],
+    "sources": [
+     {
+      "title": "r/Ring: Four Gen 2 Ring Indoor Cameras failed simultaneously",
+      "url": "https://www.reddit.com/r/Ring/comments/1d9q38q/four_gen_2_ring_indoor_cameras_failed/"
+     },
+     {
+      "title": "r/Ring: Y'all recommend cams inside your home?",
+      "url": "https://www.reddit.com/r/Ring/comments/1enerej/yall_recommend_cams_inside_your_home/"
+     },
+     {
+      "title": "r/Ring: Renter friendly advice for security cameras needed",
+      "url": "https://www.reddit.com/r/Ring/comments/18mzgdi/renter_friendly_advice_for_security_cameras/"
+     }
+    ]
+   }
+  },
+  {
+   "name": "Google Nest Cam Indoor (Wired, 3rd Gen)",
+   "brand": "Google",
+   "query": "Google Nest Cam Indoor Wired 3rd Gen",
+   "matchName": "Google Nest Cam Indoor",
+   "badge": "Best picture and smart alerts",
+   "summary": "Google's current wired indoor camera with 2K HDR video and a 152-degree diagonal view on a tabletop stand. It suits a renter in a Google Home household who wants the sharpest image of the four.",
+   "renterNote": "It sits on its own tabletop stand and runs on a plug, so it needs no wall mount at all.",
+   "pros": [
+    "2K HDR video and the widest view of these picks (152° diagonal)",
+    "Constant wall power allows continuous recording on the top plan",
+    "Short event previews from the last 6 hours without a subscription"
+   ],
+   "cons": [
+    "Longer history and smarter alerts need a Google Home Premium plan",
+    "Attached cable cannot be swapped, per an owner whose kitten chewed it"
+   ],
+   "specs": {
+    "Video": "2K HDR (needs at least 3.3 Mbps)",
+    "Field of view": "152° diagonal",
+    "Power": "Wired plug-in",
+    "Free history": "10-second event previews, past 6 hours",
+    "Stand": "Tabletop stand"
+   },
+   "scores": {
+    "install": 9,
+    "reversibility": 10,
+    "value": 6,
+    "compatibility": 7,
+    "portability": 9
+   },
+   "scoreNote": "Stand and plug mean zero wall damage; the paid plan for real history and Google-first app lower value and compatibility.",
+   "facts": [
+    "2K HDR video; 2K depends on Wi-Fi and needs at least 3.3 Mbps (Google)",
+    "152-degree diagonal field of view (Google)",
+    "Event video previews: 10-second clips of events from the past 6 hours (Google)",
+    "Google Home Premium Advanced: 60 days of event history and 10 days of 24/7 history (Google)",
+    "Purchase includes a 1-month trial of Google Home Premium Standard or Advanced (Google)",
+    "Wired always-on power enables continuous recording (Google)"
+   ],
+   "sources": [
+    "https://home.google.com/get-inspired/wired-nest-camera-compare/",
+    "https://store.google.com/product/nest_cam_indoor_wired_3rd_gen",
+    "https://www.safehome.org/home-security-cameras/best/apartments/",
+    "https://www.security.org/security-cameras/best/apartment/"
+   ],
+   "owners": {
+    "read": 4,
+    "praise": [
+     "Owners comparing it with older Nest cameras discuss the sharper 2K image",
+     "Camera quality described as decent and reliable day to day"
+    ],
+    "complaints": [
+     "The power cable is attached, so a chewed or damaged cord is hard to replace",
+     "Newer models are not found by some third-party integrations such as Home Assistant",
+     "Owners dislike the app and subscription model more than the hardware"
+    ],
+    "sources": [
+     {
+      "title": "r/googlehome: Nest Cam Indoor 3rd Gen",
+      "url": "https://www.reddit.com/r/googlehome/comments/1oqbaik/nest_cam_indoor_3rd_gen/"
+     },
+     {
+      "title": "r/Nest: Nest Cam Indoor 3rd gen, anyone got it working with Home Assistant?",
+      "url": "https://www.reddit.com/r/Nest/comments/1o1y5rm/nest_cam_indoor_3rd_gen_anyone_got_it_working/"
+     },
+     {
+      "title": "r/googlehome: Nest Cam Indoor 3rd Gen repair",
+      "url": "https://www.reddit.com/r/googlehome/comments/1w043yh/nest_cam_indoor_3rd_gen_repair/"
+     },
+     {
+      "title": "r/smarthome: Are nest cameras a good buy?",
+      "url": "https://www.reddit.com/r/smarthome/comments/18xjfi5/are_nest_cameras_a_good_buy/"
+     }
+    ]
+   }
+  },
+  {
+   "name": "Abode Cam 2",
+   "brand": "Abode",
+   "query": "abode Cam 2 indoor outdoor security camera",
+   "matchName": "Abode Cam 2",
+   "badge": "Best with an adhesive mount in the box",
+   "summary": "A compact 1080p indoor/outdoor camera on a flexible stand that ships with a non-damaging adhesive mounting strip. It suits a renter who wants it higher up on a wall without drilling, or already uses an Abode alarm.",
+   "renterNote": "Stand it upright on a shelf or use the included adhesive strip; the drywall anchor and screw are optional.",
+   "pros": [
+    "Adhesive mounting strip and a free-standing flexible stand included",
+    "Full-color night vision and IP65 housing",
+    "Live view works without a paid plan"
+   ],
+   "cons": [
+    "No local recording or backup battery; clips need an Abode plan",
+    "6 ft cord is short for some rooms, and some owners report it going offline"
+   ],
+   "specs": {
+    "Video": "1080p at 20 fps, full-color night vision",
+    "Field of view": "121° horizontal",
+    "Wi-Fi": "2.4 GHz",
+    "Power": "5V 1A USB, 6 ft cable (14 ft sold separately)",
+    "Mounting": "Stand, adhesive strip, optional screw"
+   },
+   "scores": {
+    "install": 9,
+    "reversibility": 9,
+    "value": 7,
+    "compatibility": 6,
+    "portability": 9
+   },
+   "scoreNote": "Adhesive strip and stand avoid drilling; a plan for any recording, 2.4 GHz only and no HomeKit hold back value and compatibility.",
+   "facts": [
+    "1080p full HD at 20 fps; 121° horizontal field of view (Abode)",
+    "2.4 GHz Wi-Fi; 5V 1A USB power with a 6 ft cable, 14 ft cable sold separately (Abode)",
+    "Box includes an adhesive mounting strip and optional mounting hardware; flexible stand can stand upright (Abode)",
+    "IP65 weatherproof housing, indoor or outdoor use (Abode)",
+    "No backup battery and no local recording (Abode FAQ)",
+    "Live video without a subscription; recorded clips need a Standard or Pro plan, or the camera-only plan without an Abode system (Abode FAQ)",
+    "Works with Alexa and Google Home; not compatible with HomeKit (Abode)"
+   ],
+   "sources": [
+    "https://goabode.com/product/abode-cam-2/",
+    "https://goabode.com/blog/apartment-security-system-2/",
+    "https://realestate.usnews.com/home-services/home-security-systems/best-home-security-systems-for-renters"
+   ],
+   "owners": {
+    "read": 4,
+    "praise": [
+     "Simple setup and better-than-expected video in daylight and low light",
+     "Small enough to place discreetly"
+    ],
+    "complaints": [
+     "Cameras going offline a few days after setup",
+     "Very short included power cord",
+     "Owners want a higher-resolution model to replace it"
+    ],
+    "sources": [
+     {
+      "title": "r/Abode: Just avoid the Abode Cam 2",
+      "url": "https://www.reddit.com/r/Abode/comments/1ppy42j/just_avoid_the_abode_cam_2/"
+     },
+     {
+      "title": "r/Abode: Potential Abode improvements?",
+      "url": "https://www.reddit.com/r/Abode/comments/1vx7dia/potential_abode_improvements/"
+     },
+     {
+      "title": "r/Abode: Other streaming camera options?",
+      "url": "https://www.reddit.com/r/Abode/comments/6l4l5o/other_streaming_camera_options/"
+     },
+     {
+      "title": "r/Abode: Cam 2 thoughts so far (owner report summarized on Abode's product page)",
+      "url": "https://www.reddit.com/r/Abode/comments/obk0yk/cam_2_thoughts_so_far/"
+     }
+    ]
+   }
+  },
+  {
+   "name": "SimpliSafe Smart Alarm Wireless Indoor Security Camera",
+   "brand": "SimpliSafe",
+   "query": "SimpliSafe Smart Alarm Wireless Indoor Security Camera",
+   "matchName": "SimpliSafe Wireless Indoor Security Camera",
+   "badge": "Best cord-free pick for SimpliSafe homes",
+   "summary": "A battery camera with a built-in privacy shutter that works as part of a SimpliSafe alarm system. It suits a renter who already has (or wants) a SimpliSafe Gen 3 system and has no outlet where the camera should sit.",
+   "renterNote": "Set it on the edge of a shelf about 4 feet up; only the wall plate needs screws, so skip it.",
+   "pros": [
+    "Rechargeable battery, so no cord to run across the room",
+    "Built-in privacy shutter",
+    "1536p video with a 125° view"
+   ],
+   "cons": [
+    "Needs a Gen 3 SimpliSafe system and keypad",
+    "Owners report shorter battery life than the up-to-3-months claim"
+   ],
+   "specs": {
+    "Video": "1536p",
+    "Field of view": "125°",
+    "Power": "Rechargeable battery, up to 3 months per charge",
+    "Requires": "Gen 3 SimpliSafe system and keypad",
+    "Privacy": "Built-in privacy shutter"
+   },
+   "scores": {
+    "install": 8,
+    "reversibility": 10,
+    "value": 5,
+    "compatibility": 5,
+    "portability": 8
+   },
+   "scoreNote": "Cord-free shelf placement is fully reversible; the required SimpliSafe system and short real-world battery life drag value and compatibility.",
+   "facts": [
+    "Battery-operated indoor camera, 1536p, 125-degree field of view (SimpliSafe support)",
+    "Battery lasts up to 3 months per charge depending on placement and usage; charge for at least 6 hours (SimpliSafe support)",
+    "Requires a Gen 3 SimpliSafe system and keypad (SimpliSafe support)",
+    "Can sit on a flat surface; SimpliSafe suggests the edge of a shelf about 4 feet up; wall mounting uses screws (SimpliSafe support)",
+    "Built-in privacy shutter (SimpliSafe support)",
+    "Needs 2-3 Mbps upload per camera (SimpliSafe support)",
+    "Built-in 80 dB siren (SimpliSafe Amazon store page)"
+   ],
+   "sources": [
+    "https://support.simplisafe.com/articles/smart-alarm-indoor-camera/smart-alarm-wireless-indoor-security-camera-installation-guide",
+    "https://support.simplisafe.com/articles/smart-alarm-indoor-camera/smart-alarm-wireless-indoor-security-camera-settings-customizations",
+    "https://www.security.org/security-cameras/best/apartment/",
+    "https://www.safehome.org/home-security-cameras/best/apartments/"
+   ],
+   "owners": {
+    "read": 4,
+    "praise": [
+     "The automatic privacy shutter, which Security.org's testers kept closed until an alarm opened it",
+     "No cord to run, so it can sit on any shelf within Wi-Fi range"
+    ],
+    "complaints": [
+     "Battery life well short of the claim, slow recharging over micro-USB",
+     "Cameras going offline at random",
+     "No 24/7 recording, and an occasional false motion alarm"
+    ],
+    "sources": [
+     {
+      "title": "r/simplisafe: SimpliSafe cams",
+      "url": "https://www.reddit.com/r/simplisafe/comments/196jlt0/simplisafe_cams/"
+     },
+     {
+      "title": "r/simplisafe: Wireless camera keeps dying",
+      "url": "https://www.reddit.com/r/simplisafe/comments/1i5185n/wireless_camera_keeps_dying/"
+     },
+     {
+      "title": "r/simplisafe: Stay away from SimpliSafe Cameras",
+      "url": "https://www.reddit.com/r/simplisafe/comments/1bzg15g/stay_away_from_simplisafe_cameras/"
+     },
+     {
+      "title": "r/simplisafe: Smart Alarm Wireless Indoor Security Camera worth it?",
+      "url": "https://www.reddit.com/r/simplisafe/comments/1isjylc/smart_alarm_wireless_indoor_security_camera_worth/"
+     }
+    ]
+   }
+  }
+ ]
+}

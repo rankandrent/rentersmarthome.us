@@ -15,7 +15,6 @@ secondaryKeywords:
   - best wireless security cameras for apartments
   - wireless security camera for apartment
   - apartment security camera no subscription
-  - indoor security camera for renters
 entities:
   - wireless security camera
   - microSD card
@@ -636,10 +635,10 @@ heroAlt: >-
   Security Cameras for Apartments (2026) – 9 No-Drill Picks for Renters –
   RenterSmartHome buying guide
 related:
+  - best-indoor-security-camera-for-renters-no-drilling
   - how-to-secure-sliding-glass-door-in-rental
   - wyze-vs-blink
   - door-camera-for-apartment
-  - best-water-leak-sensor-for-renters
 ---
 
 The best security cameras for apartments are wireless ones that plug into an outlet or run on a battery, sit on a shelf instead of a screwed-in bracket, and record to a microSD card so you are not paying a monthly fee forever. Renters deal with thin walls, shared Wi-Fi and leases that say "no alterations," so every pick below is something you can set up in minutes and take with you when you move. The goal is to protect your stuff without costing you your security deposit or your neighbors' goodwill.

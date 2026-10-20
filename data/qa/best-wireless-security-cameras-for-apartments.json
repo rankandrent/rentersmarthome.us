@@ -1,10 +1,11 @@
 {
   "slug": "best-wireless-security-cameras-for-apartments",
   "pass": true,
-  "checkedAt": "2026-10-20T13:28:57.401Z",
+  "checkedAt": "2026-10-20T20:17:26.471Z",
   "errors": [],
   "warnings": [
-    "body has 3604 words, over the 2645 limit (top results average 2300): cut repetition and filler"
+    "body has 3604 words, over the 2645 limit (top results average 2300): cut repetition and filler",
+    "keyword overlaps /blog/best-indoor-security-camera-for-renters-no-drilling/ (\"security cameras for apartments\" overlaps \"best indoor security camera for renters\" (100%))"
   ],
   "factCheck": {
     "verified": true,
