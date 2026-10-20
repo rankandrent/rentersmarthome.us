@@ -3,15 +3,13 @@
   "lang": "es",
   "translationOf": "best-smart-lock-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-19T19:27:06.388Z",
+  "checkedAt": "2026-10-20T04:35:12.424Z",
   "errors": [],
-  "warnings": [
-    "LIVE POST, FIX: source returns 404: https://www.seam.co/img/device-db/aqara/manuals/aqara_smart-lock-u100_user_manual.pdf",
-    "source didn't respond normally (no response): https://www.businesswire.com/news/home/20230608005033/en/Aqara-Introduces-its-First-Deadbolt-Smart-Lock-U100"
-  ],
+  "warnings": [],
   "factCheck": {
     "verified": true,
-    "notes": "Synced Yale keypad and SwitchBot bracket corrections from English (c3eed27)",
-    "at": "2026-10-19T13:11:35.579Z"
+    "notes": "Re-compared with EN best-smart-lock-for-renters and local brief (guideOnly). Re-opened and verified verbatim: BOE LAU art.23 (written consent for works changing configuration; landlord may require restoration if unauthorised), OCU entrega de llaves, El Correo/OCU locksmith advice (previous quote, several quotes, extras, do not sign abusive invoice), La Casa Sibarita (standard Euro cylinder, blindada/multipunto), SwitchBot EU product page (ideal for European homes, cylinder adaptors, Hub 2 EU plug, Matter needs hub), Yale Linus L2 (3 mm protrusion, 22 mm round, adjustable cylinder), Forocoches threads 10115851 (2 quotes #11,#25), 7672971 (quote #23; debate on 'obra' #14 vs #23), 9431284 (bombin swap common). Removed unsupported thumbturn/Hub Mini claims, softened deadbolt claim, LAU general info + restoration only if unauthorised, no products/Amazon/prices.",
+    "at": "2026-10-20T04:40:05.823Z",
+    "hash": "c839ae940a0fe051"
   }
 }
