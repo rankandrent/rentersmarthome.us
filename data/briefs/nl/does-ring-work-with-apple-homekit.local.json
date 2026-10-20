@@ -1,0 +1,105 @@
+{
+  "lang": "nl",
+  "translationOf": "does-ring-work-with-apple-homekit",
+  "checkedAt": "2026-10-20T13:15:00Z",
+  "productFit": [
+    {
+      "name": "HOOBS Box (HSLF-3)",
+      "asin": "",
+      "status": "localVariant",
+      "variant": "HOOBS Box HSLF-3 bought from the HOOBS shop (hoobs.com) with the 'Power Adapter' option set to EU-Plug (the shop also offers US-Plug, UK-Plug and USB-Cable Only). HOOBS says all EU orders ship from its Warehouse Germany, about 3 business days. The box itself is USB-C powered (5 V, up to 3 A), so only the plug adapter differs.",
+      "reason": "HOOBS lists an EU-Plug adapter choice on the HSLF-3 product page and ships EU orders from Germany, so it is sold to DE/ES/NL. HOOBS prices are ex-VAT with customs/taxes the buyer's responsibility, per its shipping page. No ASIN or Amazon DE/ES/NL listing was confirmed (the English brief also notes the Amazon US listing is unconfirmed), so the localized post should point to hoobs.com and the EU-Plug option, not an amzn search. Not verified: whether Ring Alarm and the listed tested Ring accessories are the same hardware sold in the EU; the post should say the plugin works with the Ring account/cloud and the reader's own Ring devices.",
+      "source": "https://hoobs.com/shop/HOOBS-Box-Starter-Kit-p709063339"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "The Autoriteit Persoonsgegevens says a camera or doorbell camera on a home may in principle not film the public road or the property of the user's neighbours; it advises talking to the neighbours first.",
+      "source": "https://www.autoriteitpersoonsgegevens.nl/themas/cameratoezicht/cameragebruik-in-en-om-het-huis/gefilmd-worden-door-de-camera-van-een-ander-huis"
+    },
+    {
+      "fact": "AP also publishes privacy rules and practical tips for cameras at your own home.",
+      "source": "https://www.autoriteitpersoonsgegevens.nl/themas/cameratoezicht/cameragebruik-in-en-om-het-huis/cameras-bij-het-eigen-huis"
+    },
+    {
+      "fact": "AP is reported to want a preventive approach to doorbell cameras after neighbour complaints.",
+      "source": "https://www.autoriteitpersoonsgegevens.nl/themas/cameratoezicht"
+    },
+    {
+      "fact": "A Rechtbank Zeeland-West-Brabant ruling (ECLI:NL:RBZWB:2024:9594) held the tenant should have asked the landlord's permission before hanging the cameras and ordered them removed after weighing interests. Court-specific; general information only.",
+      "source": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:9594"
+    },
+    {
+      "fact": "Juridisch Loket says hanging a camera is not forbidden but gives steps for when a neighbour's camera films your home or garden.",
+      "source": "https://www.juridischloket.nl/wonen-en-buren/buren/camera/"
+    },
+    {
+      "fact": "HOOBS ships EU orders from its German warehouse in about 3 business days with an EU-Plug adapter option; customs and taxes are the buyer's responsibility, per HOOBS.",
+      "source": "https://hoobs.com/shipping-taxes/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Renters in an apartment complex ask whether a camera doorbell is allowed at all when it can capture neighbours or shared space.",
+      "fix": "Local fact: AP's rule that the camera must not film neighbours' property or the public road; aim it only at your own doorstep and ask the landlord first.",
+      "quotes": [
+        {
+          "text": "Iemand mag alleen een camera of videodeurbel ophangen als die camera de bezittingen van buren en/of de openbare weg niet filmt.",
+          "url": "https://www.reddit.com/r/juridischadvies/comments/1k31ick/deurbel_camera_appartementen_complex/"
+        }
+      ],
+      "sources": [
+        "https://www.autoriteitpersoonsgegevens.nl/themas/cameratoezicht/cameragebruik-in-en-om-het-huis/gefilmd-worden-door-de-camera-van-een-ander-huis"
+      ]
+    },
+    {
+      "pain": "Renters are unsure whether tenants can place cameras in shared space.",
+      "fix": "Local fact: Rechtbank ruling on asking the landlord first; put the bridge host inside the unit and do not film shared areas.",
+      "quotes": [
+        {
+          "text": "Wettelijk gezien mag je niet zomaar camera's plaatsen in de publieke ruimte.",
+          "url": "https://www.reddit.com/r/thenetherlands/comments/ooymt5/camera_in_gemeenschappelijke_ruimte_door_huurder/"
+        }
+      ],
+      "sources": [
+        "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:9594"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "AP guidance on doorbell cameras and neighbours, which the English US-lease section does not cover.",
+      "source": "https://www.autoriteitpersoonsgegevens.nl/themas/cameratoezicht/cameragebruik-in-en-om-het-huis/gefilmd-worden-door-de-camera-van-een-ander-huis"
+    },
+    {
+      "point": "Dutch court example on asking the landlord's permission before hanging cameras.",
+      "source": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:9594"
+    },
+    {
+      "point": "EU-Plug HOOBS route from a German warehouse.",
+      "source": "https://hoobs.com/shop/HOOBS-Box-Starter-Kit-p709063339"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Mentions Ring Alarm Security Kit, Stick Up Cam Elite and Floodlight Cam as tested accessories (HOOBS list).",
+      "action": "replace",
+      "with": "Say the Ring plugin works with the reader's own Ring devices through the Ring account; availability of specific Ring models in this country was not verified."
+    },
+    {
+      "english": "Link to amzn: search for HOOBS Box and 'Amazon' style purchase path.",
+      "action": "replace",
+      "with": "Point to the HOOBS shop and the EU-Plug power adapter option (ships from Germany); no Amazon listing confirmed."
+    },
+    {
+      "english": "Landlord/lease statements based on r/Apartmentliving, r/LandlordLove (US) threads, e.g. 'your landlord can enforce that however the law allows'.",
+      "action": "drop"
+    },
+    {
+      "english": "US-based r/Ring and r/HomeKit renter quotes as renter evidence.",
+      "action": "replace",
+      "with": "Use the local pain-point quotes in this brief."
+    }
+  ],
+  "guideOnly": false
+}

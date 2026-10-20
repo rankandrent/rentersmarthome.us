@@ -1,0 +1,105 @@
+{
+  "lang": "de",
+  "translationOf": "does-ring-work-with-apple-homekit",
+  "checkedAt": "2026-10-20T13:15:00Z",
+  "productFit": [
+    {
+      "name": "HOOBS Box (HSLF-3)",
+      "asin": "",
+      "status": "localVariant",
+      "variant": "HOOBS Box HSLF-3 bought from the HOOBS shop (hoobs.com) with the 'Power Adapter' option set to EU-Plug (the shop also offers US-Plug, UK-Plug and USB-Cable Only). HOOBS says all EU orders ship from its Warehouse Germany, about 3 business days. The box itself is USB-C powered (5 V, up to 3 A), so only the plug adapter differs.",
+      "reason": "HOOBS lists an EU-Plug adapter choice on the HSLF-3 product page and ships EU orders from Germany, so it is sold to DE/ES/NL. HOOBS prices are ex-VAT with customs/taxes the buyer's responsibility, per its shipping page. No ASIN or Amazon DE/ES/NL listing was confirmed (the English brief also notes the Amazon US listing is unconfirmed), so the localized post should point to hoobs.com and the EU-Plug option, not an amzn search. Not verified: whether Ring Alarm and the listed tested Ring accessories are the same hardware sold in the EU; the post should say the plugin works with the Ring account/cloud and the reader's own Ring devices.",
+      "source": "https://hoobs.com/shop/HOOBS-Box-Starter-Kit-p709063339"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "The Berlin data protection authority (BlnBDI), summarising the DSK (conference of German data protection authorities) guidance, says video surveillance of a multi-family house interior such as stairwells and flat doors is usually a serious intrusion on residents' privacy, because it records when people come and go and who visits them.",
+      "source": "https://www.datenschutz-berlin.de/themen/wohnen/videoueberwachung-in-mietshaeusern/"
+    },
+    {
+      "fact": "The same authority says cameras used lawfully for a rented flat must not also capture the stairwell or other shared areas, and that a residents' right to control access ends at the limits of their own rented unit; filming public space (street, pavement) cannot rest on house rules either.",
+      "source": "https://www.datenschutz-berlin.de/themen/wohnen/videoueberwachung-in-mietshaeusern/"
+    },
+    {
+      "fact": "The DSK Orientierungshilfe Videoüberwachung and Kurzpapier Nr. 15 (federal and state data protection authorities) set the criteria for when private cameras are permissible; the Berlin authority points renters there.",
+      "source": "https://www.datenschutz-berlin.de/fileadmin/user_upload/pdf/publikationen/DSK/kurzpapiere/DSK_KPNr_15_Videoueberwachung.pdf"
+    },
+    {
+      "fact": "Haufe (property-law publisher, not a tenant association) summarises German court decisions: a camera aimed at a neighbour's property can lead to an injunction even if it only might capture it (AG Gelnhausen), and an Amtsgericht Köln case allowed one tenant a hallway camera only because of severe visual and mobility impairment that ruled out a peephole. Court-specific; general information only.",
+      "source": "https://www.haufe.de/immobilien/verwaltung/videoueberwachung-im-mehrfamilienhaus-die-rechtslage_258_601612.html"
+    },
+    {
+      "fact": "HOOBS ships EU orders from its German warehouse in about 3 business days; customs and taxes are the buyer's responsibility according to HOOBS.",
+      "source": "https://hoobs.com/shipping-taxes/"
+    },
+    {
+      "fact": "Austria: the reader base includes Vienna; one r/wien poster asks the same question about a camera doorbell in a small Mietshaus. No Austrian authority page was read for this brief, so Austria-specific rules (DSB) are not covered and should not be stated.",
+      "source": "https://www.reddit.com/r/wien/comments/1icsx3m/t%C3%BCrklingel_mit_kamera_legal/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Renters in a Mehrfamilienhaus ask whether they may mount a camera doorbell at all, especially if it sees the shared hallway or entrance.",
+      "fix": "Local fact: the DSK/Berlin guidance says shared areas (stairwell, flat doors) should not be captured; frame the doorbell so it only sees the reader's own doorstep, use no recording where possible, and ask the landlord in writing before mounting. The no-drill idea from the English post (Peephole Cam, adhesive mounts) fits.",
+      "quotes": [
+        {
+          "text": "Irgendeine Möglichkeit als Mieter legal eine Sicherheitskamera am Haupteingang anzubringen?",
+          "url": "https://www.reddit.com/r/LegaladviceGerman/comments/uya0k3/ist_sicherheitskamera_als_mieter_um_zu_sehen_wer/"
+        }
+      ],
+      "sources": [
+        "https://www.datenschutz-berlin.de/themen/wohnen/videoueberwachung-in-mietshaeusern/"
+      ]
+    },
+    {
+      "pain": "Renters worry about being filmed by a neighbour's camera in the hallway, or about being the neighbour whose camera annoys others.",
+      "fix": "Local fact: Haufe's summary of case law and the Berlin authority's view; keep the bridge/doorbell off shared areas and talk to neighbours first.",
+      "quotes": [
+        {
+          "text": "Nachbar ist laut und hat Kamera im Hausflur installiert",
+          "url": "https://www.reddit.com/r/LegaladviceGerman/comments/1f7bsw4/nachbar_ist_laut_und_hat_kamera_im_hausflur/"
+        }
+      ],
+      "sources": [
+        "https://www.haufe.de/immobilien/verwaltung/videoueberwachung-im-mehrfamilienhaus-die-rechtslage_258_601612.html"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Shared-hallway and flat-door rule from the German data protection authorities (DSK/BlnBDI): the English lease section is US-centric; the localized post can state what the authorities advise about stairwell and entrance cameras.",
+      "source": "https://www.datenschutz-berlin.de/themen/wohnen/videoueberwachung-in-mietshaeusern/"
+    },
+    {
+      "point": "How to buy HOOBS from Germany: EU-Plug adapter option, EU orders ship from Warehouse Germany in about 3 business days, customs and tax note, so readers do not buy a US-plug unit.",
+      "source": "https://hoobs.com/shop/HOOBS-Box-Starter-Kit-p709063339"
+    },
+    {
+      "point": "Concrete German renter questions (camera at the entrance, camera in the Hausflur) replacing the US r/Apartmentliving examples.",
+      "source": "https://www.reddit.com/r/LegaladviceGerman/comments/uya0k3/ist_sicherheitskamera_als_mieter_um_zu_sehen_wer/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Mentions Ring Alarm Security Kit, Stick Up Cam Elite and Floodlight Cam as tested accessories (HOOBS list).",
+      "action": "replace",
+      "with": "Say the Ring plugin works with the reader's own Ring devices through the Ring account; availability of specific Ring models in this country was not verified."
+    },
+    {
+      "english": "Link to amzn: search for HOOBS Box and 'Amazon' style purchase path.",
+      "action": "replace",
+      "with": "Point to the HOOBS shop and the EU-Plug power adapter option (ships from Germany); no Amazon listing confirmed."
+    },
+    {
+      "english": "Landlord/lease statements based on r/Apartmentliving, r/LandlordLove (US) threads, e.g. 'your landlord can enforce that however the law allows'.",
+      "action": "drop"
+    },
+    {
+      "english": "US-based r/Ring and r/HomeKit renter quotes as renter evidence.",
+      "action": "replace",
+      "with": "Use the local pain-point quotes in this brief."
+    }
+  ],
+  "guideOnly": false
+}

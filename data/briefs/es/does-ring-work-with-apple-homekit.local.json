@@ -1,0 +1,105 @@
+{
+  "lang": "es",
+  "translationOf": "does-ring-work-with-apple-homekit",
+  "checkedAt": "2026-10-20T13:15:00Z",
+  "productFit": [
+    {
+      "name": "HOOBS Box (HSLF-3)",
+      "asin": "",
+      "status": "localVariant",
+      "variant": "HOOBS Box HSLF-3 bought from the HOOBS shop (hoobs.com) with the 'Power Adapter' option set to EU-Plug (the shop also offers US-Plug, UK-Plug and USB-Cable Only). HOOBS says all EU orders ship from its Warehouse Germany, about 3 business days. The box itself is USB-C powered (5 V, up to 3 A), so only the plug adapter differs.",
+      "reason": "HOOBS lists an EU-Plug adapter choice on the HSLF-3 product page and ships EU orders from Germany, so it is sold to DE/ES/NL. HOOBS prices are ex-VAT with customs/taxes the buyer's responsibility, per its shipping page. No ASIN or Amazon DE/ES/NL listing was confirmed (the English brief also notes the Amazon US listing is unconfirmed), so the localized post should point to hoobs.com and the EU-Plug option, not an amzn search. Not verified: whether Ring Alarm and the listed tested Ring accessories are the same hardware sold in the EU; the post should say the plugin works with the Ring account/cloud and the reader's own Ring devices.",
+      "source": "https://hoobs.com/shop/HOOBS-Box-Starter-Kit-p709063339"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "AEPD says cameras in a community of owners may only be installed in common areas and may not capture the public road except a minimal strip needed for access; it publishes a guide on video cameras.",
+      "source": "https://www.aepd.es/preguntas-frecuentes/9-comunidades-de-propietarios/FAQ-0910-en-nuestra-comunidad-de-vecinos-hay-camaras-de-videovigilancia-son-legales"
+    },
+    {
+      "fact": "AEPD FAQ on video door entry systems: data protection rules do not apply to processing by individuals for exclusively personal or household activities (the AEPD text goes on to set limits; read the full FAQ before relying on it).",
+      "source": "https://www.aepd.es/preguntas-frecuentes/9-comunidades-de-propietarios/FAQ-0912-la-normativa-de-proteccion-de-datos-se-aplica-a-los-videoporteros"
+    },
+    {
+      "fact": "CAF Madrid (college of property administrators) reports the Tribunal Supremo found that an electronic peephole violated neighbours' privacy because it activated whenever someone came to a neighbour's door and viewing was constant; sources note digital peepholes that only show or record when the bell is pressed are treated differently. Court-specific; general information only.",
+      "source": "https://ciudadycomunidad.cafmadrid.es/el-supremo-confirma-que-una-mirilla-electronica-vulnera-la-intimidad-de-los-vecinos/"
+    },
+    {
+      "fact": "AEPD guide on video cameras for security and other purposes (AEPD publication) is the official reference for signage and image-retention points.",
+      "source": "https://www.aepd.es/guias/guia-videovigilancia.pdf"
+    },
+    {
+      "fact": "HOOBS ships EU orders from its German warehouse in about 3 business days with an EU-Plug adapter option; customs and taxes are the buyer's responsibility, per HOOBS.",
+      "source": "https://hoobs.com/shipping-taxes/"
+    },
+    {
+      "fact": "Not covered: OCU/FACUA or Spanish tenancy-law (LAU) guidance on tenant works needing the landlord's consent was not found in this research; the post should simply tell readers to read their contract and ask the landlord in writing, without citing a rule.",
+      "source": "https://www.aepd.es/guias/guia-videovigilancia.pdf"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Renters ask whether a camera doorbell or digital peephole on the flat door is legal when it can see the landing and neighbours.",
+      "fix": "Local fact: CAF Madrid on the Supreme Court peephole ruling and AEPD common-area guidance; choose a doorbell that only shows or records when pressed, aim it only at your own door, and ask the landlord first.",
+      "quotes": [
+        {
+          "text": "eso no es legal ya que necesita el permiso de los vecinos para grabar. Puedes denunciar ante la AEPD.",
+          "url": "https://ayudaleyprotecciondatos.es/2019/03/04/mirilla-camara-digital/"
+        }
+      ],
+      "sources": [
+        "https://ciudadycomunidad.cafmadrid.es/el-supremo-confirma-que-una-mirilla-electronica-vulnera-la-intimidad-de-los-vecinos/"
+      ]
+    },
+    {
+      "pain": "Readers are unsure whether a non-recording peephole camera is fine while a recording one is not.",
+      "fix": "Local fact: reporting on the Supreme Court ruling distinguishes constant viewing from activation by the bell; the English advice to keep Ring Protect/recording choices explicit applies.",
+      "quotes": [
+        {
+          "text": "Si la mirilla no graba se puede poner .",
+          "url": "https://www.facebook.com/lasextanoticias/videos/%EF%B8%8F-ojo-con-las-mirillas-electr%C3%B3nicas-el-tribunal-supremo-ha-hablado-instalar-c%C3%A1ma/24177751445212360/"
+        }
+      ],
+      "sources": [
+        "https://www.pccomponentes.com/blog/es-legal-mirilla-digital-espana"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "The Spanish digital-peephole debate (Supreme Court ruling, AEPD common-area limits) that the English US-lease section does not mention.",
+      "source": "https://ciudadycomunidad.cafmadrid.es/el-supremo-confirma-que-una-mirilla-electronica-vulnera-la-intimidad-de-los-vecinos/"
+    },
+    {
+      "point": "EU-Plug HOOBS purchase route from Germany instead of an Amazon US search.",
+      "source": "https://hoobs.com/shop/HOOBS-Box-Starter-Kit-p709063339"
+    },
+    {
+      "point": "Spanish reader questions (permission of neighbours, AEPD complaints) replace US landlord-law quotes.",
+      "source": "https://ayudaleyprotecciondatos.es/2019/03/04/mirilla-camara-digital/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Mentions Ring Alarm Security Kit, Stick Up Cam Elite and Floodlight Cam as tested accessories (HOOBS list).",
+      "action": "replace",
+      "with": "Say the Ring plugin works with the reader's own Ring devices through the Ring account; availability of specific Ring models in this country was not verified."
+    },
+    {
+      "english": "Link to amzn: search for HOOBS Box and 'Amazon' style purchase path.",
+      "action": "replace",
+      "with": "Point to the HOOBS shop and the EU-Plug power adapter option (ships from Germany); no Amazon listing confirmed."
+    },
+    {
+      "english": "Landlord/lease statements based on r/Apartmentliving, r/LandlordLove (US) threads, e.g. 'your landlord can enforce that however the law allows'.",
+      "action": "drop"
+    },
+    {
+      "english": "US-based r/Ring and r/HomeKit renter quotes as renter evidence.",
+      "action": "replace",
+      "with": "Use the local pain-point quotes in this brief."
+    }
+  ],
+  "guideOnly": false
+}
