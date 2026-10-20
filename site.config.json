@@ -42,8 +42,10 @@
   "defaultLocale": "en",
   "oneLinkScript": "",
   "translations": {
-    "backlogPerDay": 2,
-    "note": "Daily backlog: translate up to backlogPerDay older English posts per language (scripts/routine.mjs translate-queue). New English posts are translated right after they pass QA."
+    "backlogPerDay": 0,
+    "relocalizePerDay": 1,
+    "categories": ["smart-locks", "plugs-power", "lighting", "climate", "security", "hubs-voice", "baby-proofing", "guides"],
+    "note": "Owner rule 2026-10-20: localized, not translated. Only posts in `categories` get de/es/nl versions, each after localizer-agent (data/briefs/<lang>/<slug>.local.json). The plain-translation backlog is stopped (backlogPerDay 0); relocalizePerDay live translations per day are re-done from a local brief (routine.mjs localize-queue)."
   },
   "categories": [
     {
@@ -185,6 +187,7 @@
     "ownersRequiredFrom": "2026-10-17T00:00:00Z",
     "styleRequiredFrom": "2026-10-18T12:00:00Z",
     "serpTitlesRequiredFrom": "2026-10-19T00:00:00Z",
-    "conciseRequiredFrom": "2026-10-20T06:00:00Z"
+    "conciseRequiredFrom": "2026-10-20T06:00:00Z",
+    "localizedRequiredFrom": "2026-10-20T06:00:00Z"
   }
 }

@@ -438,6 +438,12 @@ export async function qaTranslation(post, { posts = listPosts(), translations = 
     if (!enQa?.pass) err(`English post "${en.slug}" doesn't pass QA, so it can't be translated yet`);
     if (Date.parse(en.data.pubDate) > pub) err(`goes live (${d.pubDate}) before the English post (${en.data.pubDate})`);
   }
+  // Localized, not translated (owner rule): the localizer's brief decides which products fit this market and
+  // which local facts the post adds. Required for categories in translations.categories from localizedRequiredFrom.
+  let local = null;
+  try { local = JSON.parse(fs.readFileSync(path.join(BRIEFS, lang, `${d.translationOf}.local.json`), 'utf8')); } catch {}
+  const mustLocalize = en && (SITE.translations?.categories ?? []).includes(en.data.category);
+  if (mustLocalize && !local) (pub >= Date.parse(SITE.qa?.localizedRequiredFrom ?? '2100-01-01') ? err : warn)(`not localized yet: run localizer-agent for ${d.translationOf} (data/briefs/${lang}/${d.translationOf}.local.json), then rewrite with translator-agent`);
   const dupe = translations.find((t) => t.lang === lang && t.slug !== post.slug && t.data.translationOf && t.data.translationOf === d.translationOf);
   if (dupe) err(`${dupe.id} already translates "${d.translationOf}" into ${lang}`);
   if (d.draft) warn('draft: true, the post stays hidden');
@@ -467,7 +473,8 @@ export async function qaTranslation(post, { posts = listPosts(), translations = 
   if (rules && rules.faqHeading.test(body)) err('body has its own FAQ section; FAQs belong in frontmatter');
   if (en) {
     const ratio = wordCount(body) / Math.max(1, wordCount(en.content));
-    if (ratio < 0.6) err(`body has ${wordCount(body)} words, ${Math.round(ratio * 100)}% of the English post's ${wordCount(en.content)} (need at least 60%)`);
+    const min = local ? 0.4 : 0.6;
+    if (ratio < min) err(`body has ${wordCount(body)} words, ${Math.round(ratio * 100)}% of the English post's ${wordCount(en.content)} (need at least ${min * 100}%)`);
   }
 
   // --- Voice: first person and the translated "From our notes" block
@@ -499,13 +506,26 @@ export async function qaTranslation(post, { posts = listPosts(), translations = 
   if (en) {
     const mine = new Set(sources.map((s) => s.url));
     const theirs = new Set((en.data.sources ?? []).map((s) => s.url));
-    if (!sameSet(mine, theirs)) err(`sources must be the English post's URLs (added: ${[...mine].filter((u) => !theirs.has(u)).join(', ') || 'none'}; missing: ${[...theirs].filter((u) => !mine.has(u)).join(', ') || 'none'})`);
+    const localUrls = new Set(local ? [...(local.localFacts ?? []).map((f) => f.source), ...(local.localGain ?? []).map((g) => g.source),
+      ...(local.productFit ?? []).map((f) => f.source), ...(local.localPainPoints ?? []).flatMap((x) => [...(x.sources ?? []), ...(x.quotes ?? []).map((q) => q.url)])].filter(Boolean) : []);
+    if (local) {
+      const added = [...mine].filter((u) => !theirs.has(u));
+      for (const u of added) if (!localUrls.has(u)) err(`source ${u} is neither in the English post nor in the local brief`);
+      if (added.length < 2) err(`only ${added.length} local sources: a localized post uses at least 2 local facts, pain points or variants from data/briefs/${lang}/${d.translationOf}.local.json`);
+      if ((local.localGain ?? []).length < 2) err('local brief has fewer than 2 localGain points (rerun localizer-agent)');
+    } else if (!sameSet(mine, theirs)) err(`sources must be the English post's URLs (added: ${[...mine].filter((u) => !theirs.has(u)).join(', ') || 'none'}; missing: ${[...theirs].filter((u) => !mine.has(u)).join(', ') || 'none'})`);
   }
 
   // --- Products: the English products with their ASINs, text translated
   if (/REPLACE/.test(amazonTag())) err('Amazon affiliate tag is not configured');
   const enProducts = en?.data.products ?? [];
-  if (en && products.length !== enProducts.length) err(`${products.length} products; the English post has ${enProducts.length} (translations keep the same products)`);
+  if (local) {
+    // Only the English products that fit this market, in the English order; none at all for a guide-only version.
+    const fit = new Map((local.productFit ?? []).map((f) => [f.asin || f.name, f.status]));
+    const keep = local.guideOnly ? [] : enProducts.filter((p) => ['fits', 'localVariant'].includes(fit.get(p.asin) ?? fit.get(p.name)));
+    for (const p of enProducts) if (!(fit.has(p.asin) || fit.has(p.name))) err(`local brief has no productFit for "${p.name}"`);
+    if (products.map((p) => p.asin).join() !== keep.map((p) => p.asin).join()) err(`products must be the English products that fit this market (${keep.map((p) => p.name).join(', ') || 'none: guide only'}); found ${products.map((p) => p.name).join(', ') || 'none'}`);
+  } else if (en && products.length !== enProducts.length) err(`${products.length} products; the English post has ${enProducts.length} (translations keep the same products)`);
   const amzn = [...body.matchAll(/\[([^\]]*)\]\(amzn:([^)]*)\)/g)].map((m) => ({ text: m[1], value: decodeURIComponent(m[2].replace(/\+/g, ' ')).trim() }));
   const ASIN = /^B0[A-Z0-9]{8}$/;
   for (const p of products) {

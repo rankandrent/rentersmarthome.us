@@ -269,16 +269,31 @@ Finish with a short summary: posts published (title + URL
 (`https://rentersmarthome.us/<lang>/blog/<slug>/`), anything skipped and why.
 
 ## Translations (de, es, nl)
-Every English post also gets a localized version per locale in `site.config.json` (`locales`, minus `en`):
+**Owner rule (2026-10-20): localized, not translated.** A plain translation adds nothing Google Translate can't, and
+may recommend products that don't work in European homes (US plugs, 120 V, E26 bulbs, deadbolt locks). So:
+- Only English posts in `translations.categories` (site.config.json) get de/es/nl versions; others stay English-only.
+- Every version starts with `localizer-agent <english-slug>` → `data/briefs/<lang>/<english-slug>.local.json`:
+  product fit per market (fits / localVariant / notForMarket, with sources), sourced local facts, local pain points,
+  local gain and US-only statements to drop. Products that don't fit are dropped; with fewer than 2 left the version
+  is a guide without picks (`guideOnly`). No new products (only the English post's ASINs).
+- QA (`qa <lang>/<slug>`) then requires exactly the fitting products, at least 2 local sources from the brief, and
+  allows local sources beyond the English ones; body ≥ 40% of the English words.
+- The plain-translation backlog is stopped (`backlogPerDay: 0`). Instead, `routine.mjs localize-queue` lists live
+  translations without a local brief; re-do `translations.relocalizePerDay` English posts a day (all three languages:
+  localizer-agent, then translator-agent rewrites each existing file in place, keeping its slug and pubDate so the
+  URL never changes, then qa-agent and publisher-agent). Do it after the day's English posts.
+
+Every English post in those categories also gets a localized version per locale in `site.config.json` (`locales`, minus `en`):
 `src/content/blog/<lang>/<localized-slug>.md` with `lang` and `translationOf: <english-slug>`, live at
 `/<lang>/blog/<localized-slug>/`. Translations go through the same gate: a translation only goes live with a
 passing report in `data/qa/<lang>/<slug>.json`. All routine commands take `<lang>/<slug>` for them.
 
 **Amazon (OneLink):** links stay `amazon.com/dp/<ASIN>?tag=...`; Amazon OneLink sends visitors to their
-local store. So translations keep the English products and ASINs (no new products, no search links) and
+local store. So translations keep the English ASINs of the products that fit (no new products, no search links) and
 never mention a local Amazon store, local prices, currencies or local availability.
 
-**After each English post passes QA and is pushed** (step 9), for each locale (`de`, `es`, `nl`):
+**After each English post passes QA and is pushed** (step 9), if its category is in `translations.categories`:
+run `localizer-agent <english-slug>` once (it writes all three local briefs), then for each locale (`de`, `es`, `nl`):
 1. `node scripts/routine.mjs translate-slots <lang> --after <english-slug>` → use `pubDates[0]` as the
    translation's pubDate (random, a few hours after now and after the English post, ≥ 2 h from the
    language's other translations, max 5 per language per day). Never use the current time.

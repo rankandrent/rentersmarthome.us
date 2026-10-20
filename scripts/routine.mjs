@@ -18,6 +18,7 @@
 // Translations (src/content/blog/<lang>/<slug>.md): audit, qa, factcheck and finalize also take
 // '<lang>/<slug>' (e.g. `qa de/beste-smarte-schloesser-fuer-mieter` writes data/qa/de/<slug>.json).
 //   node scripts/routine.mjs translate-queue [lang]  English posts (live + QA passed) without a translation, oldest first
+//   node scripts/routine.mjs localize-queue          live translations without a local brief (re-localize, translations.relocalizePerDay)
 //   node scripts/routine.mjs translate-slots <lang> [--count N] [--after <english-slug>]
 //                                                   random pubDates a few hours from now, >= 2h apart, max 5/language/day
 import fs from 'node:fs';
@@ -246,8 +247,10 @@ if (cmd === 'status') {
   const langs = arg ? [arg] : TRANSLATION_LANGS;
   if (arg && !TRANSLATION_LANGS.includes(arg)) throw new Error(`"${arg}" is not a translation locale (${TRANSLATION_LANGS.join(', ')})`);
   const now = Date.now();
+  // Only categories where a localized version adds something for local readers (translations.categories).
+  const cats = SITE.translations?.categories ?? [];
   const ready = listPosts()
-    .filter((p) => !p.data.draft && Date.parse(p.data.pubDate) <= now && readQa(p.slug)?.pass)
+    .filter((p) => !p.data.draft && Date.parse(p.data.pubDate) <= now && readQa(p.slug)?.pass && cats.includes(p.data.category))
     .sort((a, b) => Date.parse(a.data.pubDate) - Date.parse(b.data.pubDate));
   const translations = listTranslations();
   const queue = {};
@@ -256,6 +259,19 @@ if (cmd === 'status') {
     queue[l] = ready.filter((p) => !done.has(p.slug)).map((p) => ({ slug: p.slug, pubDate: new Date(p.data.pubDate).toISOString(), title: p.data.title }));
   }
   out({ backlogPerDay: SITE.translations?.backlogPerDay ?? 2, pending: Object.fromEntries(langs.map((l) => [l, queue[l].length])), queue });
+} else if (cmd === 'localize-queue') {
+  // Live translations written before the localization rule: no local brief yet. Ordered by translations.categories
+  // (the categories where a plain translation is most likely wrong for local homes come first).
+  const cats = SITE.translations?.categories ?? [];
+  const en = new Map(listPosts().map((p) => [p.slug, p]));
+  const pending = {};
+  for (const t of listTranslations()) {
+    const cat = en.get(t.data.translationOf)?.data.category;
+    if (!cats.includes(cat) || fs.existsSync(path.join(BRIEFS, t.lang, `${t.data.translationOf}.local.json`))) continue;
+    (pending[t.data.translationOf] ??= { slug: t.data.translationOf, category: cat, langs: [] }).langs.push(t.id);
+  }
+  const queue = Object.values(pending).sort((a, b) => cats.indexOf(a.category) - cats.indexOf(b.category));
+  out({ perDay: SITE.translations?.relocalizePerDay ?? 1, pending: queue.length, queue });
 } else if (cmd === 'translate-slots') {
   // Random go-live times for translations of one language: the first a few hours from now
   // (or after the English post's pubDate with --after), each at least 2h after the language's
