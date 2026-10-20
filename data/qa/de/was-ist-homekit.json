@@ -1,0 +1,20 @@
+{
+  "slug": "de/was-ist-homekit",
+  "lang": "de",
+  "translationOf": "what-is-homekit",
+  "pass": false,
+  "checkedAt": "2026-10-20T13:17:58.636Z",
+  "errors": [
+    "local brief has no productFit for \"Apple HomePod mini 2\"",
+    "products must be the English products that fit this market (Apple TV 4K (4th generation)); found Apple HomePod mini 2, Apple TV 4K (4th generation)",
+    "product \"Apple HomePod mini 2\" has no asin (translations never link an Amazon search page)",
+    "product \"Apple TV 4K (4th generation)\" has no asin (translations never link an Amazon search page)",
+    "Amazon link \"Apple HomePod mini\" doesn't resolve to one of the post's products, so it would become a search link",
+    "Amazon link \"Apple TV 4K\" doesn't resolve to one of the post's products, so it would become a search link",
+    "facts not verified yet: compare every claim with the English post and its sources, then run `node scripts/routine.mjs factcheck de/was-ist-homekit \"<notes>\"`"
+  ],
+  "warnings": [],
+  "factCheck": {
+    "verified": false
+  }
+}

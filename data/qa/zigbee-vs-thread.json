@@ -1,0 +1,13 @@
+{
+  "slug": "zigbee-vs-thread",
+  "pass": true,
+  "checkedAt": "2026-10-20T13:19:17.326Z",
+  "errors": [],
+  "warnings": [],
+  "factCheck": {
+    "verified": true,
+    "notes": "Opened Matter Alpha border-router list (HomePod mini, Echo Hub, Aqara Hub M3 listed), Aqara M3 spec (Zigbee/Thread IEEE 802.15.4), Matter Alpha M3 review (bridges Aqara Zigbee plus limited other brands), The Ambient Echo Hub review (Zigbee + Thread border router), HA forum and Aqara forum threads (softened to what posters say). Reddit quotes checked via exact-phrase firecrawl_search site:reddit.com: ubm53z, 16iz7r7, vz6da4, 1j8pf7q, 1ra5g8h, 1dgisga, 1lx5r87 (coordinators flashed to zigbee or thread), 1k5u0k6, 1phih9d, 1l8ukfl; two unverifiable quotes removed. Softened 'Thread often needs no new hub'; articleType how-to; trimmed for length.",
+    "at": "2026-10-20T13:19:16.620Z",
+    "hash": "df73f6ef339a2e50"
+  }
+}

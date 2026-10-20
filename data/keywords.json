@@ -3859,7 +3859,7 @@
     "slug": "matter-vs-thread"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-19T12:55:49.434Z",
     "secondaryKeywords": [
@@ -3892,7 +3892,8 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-19"
     },
-    "slug": "zigbee-vs-thread"
+    "slug": "zigbee-vs-thread",
+    "publishedAt": "2026-10-20T13:22:11.086Z"
   },
   {
     "status": "deferred",

@@ -1,0 +1,16 @@
+{
+  "slug": "nl/werkt-ring-met-apple-homekit",
+  "lang": "nl",
+  "translationOf": "does-ring-work-with-apple-homekit",
+  "pass": false,
+  "checkedAt": "2026-10-20T13:16:19.346Z",
+  "errors": [
+    "product \"HOOBS Box (HSLF-3)\" has no asin (translations never link an Amazon search page)",
+    "Amazon link \"HOOBS Box HomeKit Homebridge hub\" doesn't resolve to one of the post's products, so it would become a search link",
+    "facts not verified yet: compare every claim with the English post and its sources, then run `node scripts/routine.mjs factcheck nl/werkt-ring-met-apple-homekit \"<notes>\"`"
+  ],
+  "warnings": [],
+  "factCheck": {
+    "verified": false
+  }
+}

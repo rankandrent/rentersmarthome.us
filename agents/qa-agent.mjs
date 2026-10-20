@@ -526,7 +526,7 @@ export async function qaTranslation(post, { posts = listPosts(), translations = 
   const enProducts = en?.data.products ?? [];
   if (local) {
     // Only the English products that fit this market, in the English order; none at all for a guide-only version.
-    const fit = new Map((local.productFit ?? []).map((f) => [f.asin || f.name, f.status]));
+    const fit = new Map((local.productFit ?? []).flatMap((f) => [f.asin, f.name].filter(Boolean).map((k) => [k, f.status])));
     const keep = local.guideOnly ? [] : enProducts.filter((p) => ['fits', 'localVariant'].includes(fit.get(p.asin) ?? fit.get(p.name)));
     for (const p of enProducts) if (!(fit.has(p.asin) || fit.has(p.name))) err(`local brief has no productFit for "${p.name}"`);
     if (products.map((p) => p.asin).join() !== keep.map((p) => p.asin).join()) err(`products must be the English products that fit this market (${keep.map((p) => p.name).join(', ') || 'none: guide only'}); found ${products.map((p) => p.name).join(', ') || 'none'}`);
