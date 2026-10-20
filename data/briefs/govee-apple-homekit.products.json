@@ -1,0 +1,41 @@
+{
+ "status": "PARTIAL: only 1 product qualifies under the 2+ top-10 pages rule (Govee LED Strip Light M1). Smart Plug Pro, Floor Lamp 3 and others are named by only one readable top-10 page (addtohomekit.com). Reddit and Facebook top-10 results could not be read (Firecrawl blocks them); the Govee community, Aqara forum and HOOBS pages name no qualifying Matter model. productCount lowered from 5 to 1.",
+ "products": [
+  {
+   "name": "Govee LED Strip Light M1 (H61E0 6.56ft / H61E1 16.4ft)",
+   "brand": "Govee",
+   "query": "Govee LED Strip Light M1 Matter",
+   "matchName": "Govee LED Strip Light M1",
+   "badge": "Govee's original Matter strip light",
+   "summary": "A plug-in RGBIC strip with an adhesive back and a control box. Govee's Matter FAQ lists the M1 strip as its Matter-enabled strip, so it pairs with Apple Home by scanning the Matter QR code, with no bridge. Matter runs over Wi-Fi and shares on/off, brightness, color temperature and color with Apple Home; scenes, music sync and segment control stay in the Govee Home app.",
+   "renterNote": "For a renter who wants a bedroom or TV-wall strip that Siri and the Home app can control without a bridge or hardwiring. Caveats: Apple Home needs a home hub (Apple TV or HomePod) for remote access and automations, Matter setup must be finished within 15 minutes of power-on and needs IPv6 and 2.4GHz Wi-Fi, and changing the Wi-Fi network from the Govee app turns Matter off. Older Govee strips without Matter need a bridge; check the Matter logo and the M1 model number before buying.",
+   "pros": ["Pairs with Apple Home over Matter with the QR code on the power cord or in the Govee app, no bridge needed (Govee Matter FAQ)", "Adhesive-backed strip and control box plus a plug-in adapter, so no wiring or drilling", "Matter multi-admin lets the same strip also be shared to Alexa or Google Home"],
+   "cons": ["Only on/off, brightness, color temperature and color reach Apple Home; music sync, DIY effects and segment control stay in the Govee app", "Matter over Wi-Fi only (no Thread), and the Matter link can drop if the Wi-Fi network is changed in the Govee app", "Adhesive strip can't be cut shorter than 3 meters per Govee, so excess length must be coiled or doubled back"],
+   "specs": {
+    "models": "H61E0 (6.56ft / 2m), H61E1 (16.4ft / 5m)",
+    "matter": "Yes, Matter over Wi-Fi; Govee's Matter FAQ lists M1 (2m) and M1 (5m, which requires a Matter-enabled control box) as the Matter-enabled strip",
+    "homekit": "Added to Apple Home through Matter; no native HomeKit certification claim found",
+    "install": "Adhesive back on the strip and the control box; plug-in power adapter",
+    "leds": "60 LEDs per meter, RGBIC with white lighting",
+    "expandable": "6.56ft strip can be spliced up to 16.4ft; 16.4ft strip up to 32.8ft (Govee refurbished-listing page)"
+   },
+   "scores": {"install": 8, "reversibility": 7, "value": 7, "compatibility": 8, "portability": 7},
+   "scoreNote": "Peel-and-stick plus plug-in power with no wiring; adhesive can still pull paint on removal. Matter gives bridge-free Apple Home control but only the basic light controls.",
+   "owners": {"read": 0, "praise": [], "complaints": [], "sources": []},
+   "sources": [
+    "https://us.govee.com/pages/matter-faq",
+    "https://us.govee.com/products/refurbished-govee-led-strip-light-m1",
+    "https://us.govee.com/blogs/product-review-blog/becoming-a-master-at-cutting-led-lights-a-comprehensive-guide",
+    "https://www.addtohomekit.com/blog/govee-homekit/",
+    "https://community.govee.com/posts/how-to-pair-matter-to-apple-home-for-beginners/261671"
+   ]
+  }
+ ],
+ "serpProducts": [
+  {"name": "Govee LED Strip Light M1", "pages": ["https://us.govee.com/pages/matter-faq", "https://www.addtohomekit.com/blog/govee-homekit/"]},
+  {"name": "Govee Smart Plug Pro (single page, excluded)", "pages": ["https://www.addtohomekit.com/blog/govee-homekit/"]},
+  {"name": "Govee Floor Lamp 3 / 3 Lite / Lantern Floor Lamp (single page, excluded)", "pages": ["https://www.addtohomekit.com/blog/govee-homekit/"]},
+  {"name": "Govee Strip Light 2 Pro, COB LED Strip Light Pro (single page, excluded)", "pages": ["https://www.addtohomekit.com/blog/govee-homekit/"]},
+  {"name": "Govee Ceiling Light Ultra, Sky Ceiling Light, BR30 Matter bulbs, Outdoor Spotlights Lite, Star Light Projector (single page, excluded)", "pages": ["https://www.addtohomekit.com/blog/govee-homekit/"]}
+ ]
+}
