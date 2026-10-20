@@ -1,0 +1,112 @@
+{
+  "lang": "nl",
+  "translationOf": "best-smart-lock-for-renters",
+  "checkedAt": "2026-10-20T04:31:49Z",
+  "productFit": [
+    {
+      "name": "August Wi-Fi Smart Lock (4th Gen)",
+      "asin": "B082VXK9CK",
+      "status": "unknown",
+      "reason": "US product. No August page found that states it is sold or supported for European profile-cylinder doors in DE/ES/NL; only a third-party retailer (1Control, UK) says it works on a Euro-cylinder thumbturn but calls availability, spare parts and support US-focused. Treated as notForMarket until a maker source exists.",
+      "source": "https://www.1control.eu/blog/en/best-smart-lock-euro-cylinder-uk"
+    },
+    {
+      "name": "SwitchBot Lock Pro",
+      "asin": "B0F9FQ7NT3",
+      "status": "localVariant",
+      "variant": "SwitchBot Lock Pro as sold on the SwitchBot EU store (eu.switch-bot.com): includes cylinder adaptors for Euro cylinders, EU shop with local warehouses; the optional Hub Mini/Hub 2 comes with an EU plug variant. Not the US Amazon listing.",
+      "reason": "Maker's EU product page says Lock Pro is 'ideal for European homes' and links a compatibility check (thumbturn/knob on the inside is required; measure before buying). The EU store is offered in German, Spanish and Dutch. The post must send readers to the EU version and the maker's compatibility check, not the US ASIN.",
+      "source": "https://eu.switch-bot.com/products/switchbot-lock-pro"
+    },
+    {
+      "name": "Yale Approach Lock with Wi-Fi",
+      "asin": "B0D3VQD6YX",
+      "status": "notForMarket",
+      "reason": "Yale's US shop describes it as an inside retrofit for single-cylinder (US-style) deadbolts and redirects visitors outside the US/Canada to the Yale Global site. No EU listing for Approach found. The EU counterpart is a different product, Yale Linus Smart Lock L2, which Yale lists as compatible with Euro profile cylinders protruding at least 3 mm and 22 mm round cylinders (a Linus Adjustable Cylinder can be bought if the cylinder does not fit).",
+      "source": "https://shopyalehome.com/products/yale-approach-lock-with-wi-fi"
+    },
+    {
+      "name": "Aqara Smart Lock U100 (Apple Home Key, Fingerprint Deadbolt)",
+      "asin": "B0BZSD2L1W",
+      "status": "unknown",
+      "reason": "Full replacement for a deadbolt. Aqara's EU material for European doors covers the separate Smart Lock U200 (manual: 'European standard mortise locks', 'Euro profile and select Scandi cylinders'). The EU blog page that mentions U100 links to the US store and says nothing about Euro-cylinder fit. A Reddit user in NL reports the US U100 ships with its own mechanical cylinder that must be installed. Treated as notForMarket; replacing the whole lock would also need the landlord's consent.",
+      "source": "https://www.aqara-shop.co.uk/wp-content/uploads/2024/07/U200-User-Manual-EN.pdf"
+    }
+  ],
+  "guideOnly": true,
+  "localFacts": [
+    {
+      "fact": "Rijksoverheid says tenants may make small changes that can be reversed without much cost without the landlord's consent; for larger changes (renovation) consent is needed, and if the landlord refuses a judge decides whether the change is reasonable or must be reversed. Whether a lock swap counts as small is not stated, so a short written note to the landlord is the cautious route.",
+      "source": "https://www.rijksoverheid.nl/vraag-en-antwoord/woning-huren/mag-ik-mijn-huurwoning-verbouwen-of-renoveren"
+    },
+    {
+      "fact": "Consumentenbond advises only using locksmiths who give a clear price indication up front (call-out fee, emergency rate, evening surcharge, materials, prices incl. btw), and says a 50% evening surcharge is usual and a new cylinder need not cost more than EUR 30; it also warns about 'leadbedrijven' that resell the job.",
+      "source": "https://www.consumentenbond.nl/verbouwen-en-klussen/slotenmakers"
+    },
+    {
+      "fact": "Dutch front doors use Euro profile cylinders. Yale says its EU Linus L2 fits Euro profile cylinders protruding at least 3 mm and 22 mm round cylinders; if not, a Linus Adjustable Cylinder replaces the cylinder.",
+      "source": "https://www.yalehome.com/it/en/products/smart-security-ecosystem/smart-locks/linus-smart-lock-l2"
+    },
+    {
+      "fact": "SwitchBot's EU store (Dutch language available) sells Lock Pro with cylinder adaptors and a compatibility check; it mounts on the inside and keeps the outside key.",
+      "source": "https://eu.switch-bot.com/products/switchbot-lock-pro"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Renters feel unsafe and wonder whether they may replace locks without the landlord's consent.",
+      "fix": "Reversible add-on (SwitchBot Lock Pro EU) leaves the cylinder in place; if the cylinder is swapped, keep the old one; see Rijksoverheid on small reversible changes.",
+      "quotes": [
+        {
+          "text": "Mijn partner en ik wonen in een gebouw dat uit 4 appartementen bestaat. De andere 3 appartementen staan nu al een aantal maanden leeg.",
+          "url": "https://www.reddit.com/r/juridischadvies/comments/12qlylr/onveilig_in_appartement_mag_ik_sloten_vervangen/"
+        }
+      ],
+      "sources": [
+        "https://www.rijksoverheid.nl/vraag-en-antwoord/woning-huren/mag-ik-mijn-huurwoning-verbouwen-of-renoveren"
+      ]
+    },
+    {
+      "pain": "Locksmith overcharging after a lock-out (reports of several hundred euros).",
+      "fix": "Consumentenbond tips; a thumbturn add-on with a working key lowers lock-out risk.",
+      "quotes": [],
+      "sources": [
+        "https://www.consumentenbond.nl/verbouwen-en-klussen/slotenmakers"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Tells Dutch readers US deadbolt locks do not fit Euro profile cylinder doors and names the EU versions (SwitchBot Lock Pro EU, Yale Linus L2).",
+      "source": "https://eu.switch-bot.com/products/switchbot-lock-pro"
+    },
+    {
+      "point": "Adds Rijksoverheid's rule of thumb on small reversible changes without consent.",
+      "source": "https://www.rijksoverheid.nl/vraag-en-antwoord/woning-huren/mag-ik-mijn-huurwoning-verbouwen-of-renoveren"
+    },
+    {
+      "point": "Adds Consumentenbond's locksmith price guidance.",
+      "source": "https://www.consumentenbond.nl/verbouwen-en-klussen/slotenmakers"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Aqara Smart Lock U100 and Yale Approach picks, 'US deadbolt' wording, 'deadbolt', 'strike plate', 'backset'",
+      "action": "drop"
+    },
+    {
+      "english": "August Wi-Fi Smart Lock (4th Gen) as 'best overall'",
+      "action": "drop"
+    },
+    {
+      "english": "'Always get written landlord approval' / security-deposit wording as US lease advice",
+      "action": "replace",
+      "with": "Fact 1: Rijksoverheid on small reversible changes vs consent for larger ones; general information only."
+    },
+    {
+      "english": "Keep the original deadbolt, thumbturn, strike plate in a labeled bag",
+      "action": "replace",
+      "with": "Keep the original cilinder and keys for the end of the tenancy."
+    }
+  ]
+}

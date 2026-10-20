@@ -1,0 +1,137 @@
+{
+  "lang": "es",
+  "translationOf": "best-smart-lock-for-renters",
+  "checkedAt": "2026-10-20T04:31:49Z",
+  "productFit": [
+    {
+      "name": "August Wi-Fi Smart Lock (4th Gen)",
+      "asin": "B082VXK9CK",
+      "status": "unknown",
+      "reason": "US product. No August page found that states it is sold or supported for European profile-cylinder doors in DE/ES/NL; only a third-party retailer (1Control, UK) says it works on a Euro-cylinder thumbturn but calls availability, spare parts and support US-focused. Treated as notForMarket until a maker source exists.",
+      "source": "https://www.1control.eu/blog/en/best-smart-lock-euro-cylinder-uk"
+    },
+    {
+      "name": "SwitchBot Lock Pro",
+      "asin": "B0F9FQ7NT3",
+      "status": "localVariant",
+      "variant": "SwitchBot Lock Pro as sold on the SwitchBot EU store (eu.switch-bot.com): includes cylinder adaptors for Euro cylinders, EU shop with local warehouses; the optional Hub Mini/Hub 2 comes with an EU plug variant. Not the US Amazon listing.",
+      "reason": "Maker's EU product page says Lock Pro is 'ideal for European homes' and links a compatibility check (thumbturn/knob on the inside is required; measure before buying). The EU store is offered in German, Spanish and Dutch. The post must send readers to the EU version and the maker's compatibility check, not the US ASIN.",
+      "source": "https://eu.switch-bot.com/products/switchbot-lock-pro"
+    },
+    {
+      "name": "Yale Approach Lock with Wi-Fi",
+      "asin": "B0D3VQD6YX",
+      "status": "notForMarket",
+      "reason": "Yale's US shop describes it as an inside retrofit for single-cylinder (US-style) deadbolts and redirects visitors outside the US/Canada to the Yale Global site. No EU listing for Approach found. The EU counterpart is a different product, Yale Linus Smart Lock L2, which Yale lists as compatible with Euro profile cylinders protruding at least 3 mm and 22 mm round cylinders (a Linus Adjustable Cylinder can be bought if the cylinder does not fit).",
+      "source": "https://shopyalehome.com/products/yale-approach-lock-with-wi-fi"
+    },
+    {
+      "name": "Aqara Smart Lock U100 (Apple Home Key, Fingerprint Deadbolt)",
+      "asin": "B0BZSD2L1W",
+      "status": "unknown",
+      "reason": "Full replacement for a deadbolt. Aqara's EU material for European doors covers the separate Smart Lock U200 (manual: 'European standard mortise locks', 'Euro profile and select Scandi cylinders'). The EU blog page that mentions U100 links to the US store and says nothing about Euro-cylinder fit. A Reddit user in NL reports the US U100 ships with its own mechanical cylinder that must be installed. Treated as notForMarket; replacing the whole lock would also need the landlord's consent.",
+      "source": "https://www.aqara-shop.co.uk/wp-content/uploads/2024/07/U200-User-Manual-EN.pdf"
+    }
+  ],
+  "guideOnly": true,
+  "localFacts": [
+    {
+      "fact": "The Ley de Arrendamientos Urbanos (art. 23) says the tenant cannot make works that change the configuration of the home without the landlord's written consent, and that the landlord can require the home to be restored when the contract ends. Whether swapping a bombín counts as such works is a question people discuss (forum users call it 'no es ninguna obra'); the cautious route is a written OK or a reversible add-on that leaves the cylinder in place.",
+      "source": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-26003&p=20250101&tn=1#a23"
+    },
+    {
+      "fact": "OCU advises, at the end of a tenancy, to meet at the flat, review its condition together and sign a written key-handover document ('entrega de llaves'), rather than leaving keys in a mailbox. Keep any removed cylinder and note the lock set-up in that document.",
+      "source": "https://www.ocu.org/vivienda-y-energia/comprar-vender-alquilar/consejos/fin-alquiler-entrega-llaves"
+    },
+    {
+      "fact": "OCU advises asking for a written estimate before any locksmith or urgent technician (call-out fee, labour, night/holiday surcharges), getting several quotes and not signing an abusive invoice while keeping a copy to claim.",
+      "source": "https://www.elcorreo.com/vivir/habitos/ojo-reparaciones-urgentes-cerrajero-cobro-1681-euros-20260820131818-ntrc.html"
+    },
+    {
+      "fact": "Many Spanish flats have a reinforced door (puerta blindada). A retailer review site notes that most European smart locks fit a standard Euro-profile cylinder, but that a blindada with a special cylinder or multipoint lock may need a cylinder change by a locksmith or may not be compatible.",
+      "source": "https://lacasasibarita.es/seguridad/cerradura-inteligente/"
+    },
+    {
+      "fact": "Yale says its EU Linus L2 fits Euro profile cylinders protruding at least 3 mm and 22 mm round cylinders; SwitchBot's EU store sells Lock Pro with Euro cylinder adaptors and a compatibility check.",
+      "source": "https://www.yalehome.com/it/en/products/smart-security-ecosystem/smart-locks/linus-smart-lock-l2"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Renters wonder whether they should change the bombín on moving in and whether the landlord must be told.",
+      "fix": "Reversible add-on (SwitchBot Lock Pro EU) leaves the original bombín and keys; if swapping the cylinder, keep the old one and document it at key handover (OCU).",
+      "quotes": [
+        {
+          "text": "Lo primero que se hace al entrar de inquilino es cambiar el bombín.",
+          "url": "https://forocoches.com/foro/showthread.php?t=10115851"
+        },
+        {
+          "text": "cambiar el bombín de la cerradura como te ha dicho vectra es lo que hay que hacer en todo alquiler, no es ninguna obra",
+          "url": "https://forocoches.com/foro/showthread.php?t=7672971"
+        }
+      ],
+      "sources": [
+        "https://www.boe.es/buscar/act.php?id=BOE-A-1994-26003&p=20250101&tn=1#a23"
+      ]
+    },
+    {
+      "pain": "Worry that the landlord or a previous tenant still has a key.",
+      "fix": "Changing the cylinder is a common first step among renters per forum posts; a thumbturn add-on does not address this, so say so plainly and keep the old cylinder.",
+      "quotes": [
+        {
+          "text": "Así no entrará ni tu casero ni nadie que haya alquilado antes la casa.",
+          "url": "https://forocoches.com/foro/showthread.php?t=10115851"
+        }
+      ],
+      "sources": [
+        "https://forocoches.com/foro/showthread.php?t=9431284"
+      ]
+    },
+    {
+      "pain": "Locksmith overcharging in emergencies.",
+      "fix": "OCU: written estimate first, compare quotes.",
+      "quotes": [],
+      "sources": [
+        "https://www.elcorreo.com/vivir/habitos/ojo-reparaciones-urgentes-cerrajero-cobro-1681-euros-20260820131818-ntrc.html"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Explains that US deadbolt locks do not fit Spanish bombín/blindada doors and names the EU versions (SwitchBot Lock Pro EU, Yale Linus L2).",
+      "source": "https://eu.switch-bot.com/products/switchbot-lock-pro"
+    },
+    {
+      "point": "Adds the LAU art. 23 written-consent rule and OCU's key-handover advice for the end of the tenancy.",
+      "source": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-26003&p=20250101&tn=1#a23"
+    },
+    {
+      "point": "Warns about puertas blindadas with multipoint locks, where retrofit locks may not fit.",
+      "source": "https://lacasasibarita.es/seguridad/cerradura-inteligente/"
+    },
+    {
+      "point": "Adds OCU's checklist for urgent locksmiths.",
+      "source": "https://www.elcorreo.com/vivir/habitos/ojo-reparaciones-urgentes-cerrajero-cobro-1681-euros-20260820131818-ntrc.html"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Aqara Smart Lock U100 and Yale Approach picks, 'US deadbolt' wording, 'deadbolt', 'strike plate', 'backset'",
+      "action": "drop"
+    },
+    {
+      "english": "August Wi-Fi Smart Lock (4th Gen) as 'best overall'",
+      "action": "drop"
+    },
+    {
+      "english": "'Always get written landlord approval' / security-deposit wording as US lease advice",
+      "action": "replace",
+      "with": "Fact 1: LAU art. 23 written consent for works that change the home's configuration, and restoration at contract end; general information only."
+    },
+    {
+      "english": "Keep the original deadbolt, thumbturn, strike plate in a labeled bag",
+      "action": "replace",
+      "with": "Keep the original bombín and keys and document them in the entrega de llaves (OCU)."
+    }
+  ]
+}

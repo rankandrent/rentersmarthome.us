@@ -1,0 +1,142 @@
+{
+  "lang": "es",
+  "translationOf": "locked-out-of-apartment",
+  "checkedAt": "2026-10-20T04:35:00Z",
+  "productFit": [
+    {
+      "name": "August Wi-Fi Smart Lock (4th Gen)",
+      "asin": "B082VXK9CK",
+      "status": "notForMarket",
+      "reason": "US retrofit for a single-cylinder US deadbolt thumbturn. Typical DE/ES/NL rental doors use a European profile cylinder, and no EU edition or official EU listing was found. Only user threads describe fitting it on a euro cylinder with workarounds, which is not a supported setup. Dropped.",
+      "source": "https://www.reddit.com/r/HomeKit/comments/adki9a/installing_an_august_smart_lock_with_a_euro/"
+    },
+    {
+      "name": "SwitchBot Lock Pro",
+      "asin": "B0F9FQ7NT3",
+      "status": "localVariant",
+      "variant": "SwitchBot Lock Pro as sold in the SwitchBot EU store (eu.switch-bot.com); buy via the EU listing and run the EU compatibility check first",
+      "reason": "The SwitchBot EU store describes the Lock Pro as ideal for European homes, keeping the original lock, with install guides for Euro Cylinder (Key) and Euro Cylinder (Knob) and an EU compatibility checker. A user thread asks whether the US edition fits a euro cylinder and gives no confirmed answer, so the post must send readers to the EU listing and the EU compatibility page, not the US one. It needs a compatible euro cylinder with key or knob inside; the reader should check the checker first.",
+      "source": "https://eu.switch-bot.com/products/switchbot-lock-pro"
+    },
+    {
+      "name": "Yale Approach Lock with Wi-Fi and Keypad Touch",
+      "asin": "B0D3VQD6YX",
+      "status": "notForMarket",
+      "reason": "Yale Approach is a US product that mounts over a US single-cylinder deadbolt; Yale's US support page lists only single-cylinder deadbolts as compatible. Yale's own European line is the Linus Smart Lock (L2), which fits Euro profile cylinders (protruding at least 3 mm) and 22 mm round cylinders. Approach is dropped; the translator may mention Linus L2 as a sourced note, not as a product pick.",
+      "source": "https://support.shopyalehome.com/what-deadbolts-are-compatible-with-yale-retrofit-locks-Sk4Qfu6bR"
+    },
+    {
+      "name": "Master Lock Portable Key Lock Box 5400EC",
+      "asin": "B0002YP1VC",
+      "status": "localVariant",
+      "variant": "Master Lock 5400EURD Select Access key lock box with shackle (Master Lock EU)",
+      "reason": "A key box with shackle does not depend on the door lock type, so the concept fits anywhere. The EU shop lists the 5400EURD (medium, 90 mm, set-your-own 4-digit combination); point readers to the EU model by name.",
+      "source": "https://shop.masterlock.eu/products/5400eurd"
+    },
+    {
+      "name": "Master Lock 5420EC Set Your Own Combination Portable Lock Box",
+      "asin": "B07FD2N88X",
+      "status": "localVariant",
+      "variant": "Master Lock 5420EURD Select Access universal key lock box with adjustable shackle (Master Lock EU)",
+      "reason": "Same reasoning: the EU shop lists the 5420EURD with adjustable shackle for most door hardware styles and a 4-digit set-your-own combination. Whether the shackle fits a given European door handle is for the reader to check.",
+      "source": "https://www.masterlock.eu/products/select-access-gray-portable-key-safe/5420EURD"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "OCU Cataluña advierte (marzo 2025) de cerrajeros de urgencia que cobran más de 400 euros por abrir una puerta, cuatro veces el precio medio del mercado, en actuaciones de menos de 10 minutos sin cambiar la cerradura. Las quejas suelen ser contra empresas anunciadas online con servicio 24 horas conectadas a una centralita de otra ciudad.",
+      "source": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2025/cerrajeroscat120325"
+    },
+    {
+      "fact": "OCU aconseja: llamar primero al seguro del hogar, buscar un cerrajero del barrio, desconfiar de quien se anuncia por buzoneo o aparece el primero en internet, pedir presupuesto previo (o al menos el coste de rechazarlo), pedir el libro de tarifas con suplementos (la nocturnidad, por ejemplo, comprende de 22h a 6h) y, si es domingo, valorar aplazar a un día laborable.",
+      "source": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2025/cerrajeroscat120325"
+    },
+    {
+      "fact": "OCU explica que los precios no están regulados por ningún organismo y que el técnico tiene la obligación legal de llevar las tarifas por escrito; si el precio final parece abusivo, aconseja no firmar la factura (conservarla), no dejarse intimidar y llamar a la policía si hay una situación violenta, y denunciar ante las autoridades de consumo.",
+      "source": "https://www.ocu.org/consumo-familia/derechos-consumidor/informe/reparaciones-urgentes-derechos"
+    },
+    {
+      "fact": "OCU indica que, si el precio queda abierto hasta que el técnico vea la puerta, se puede rechazar el presupuesto en el domicilio y solo habría que pagar el desplazamiento acordado previamente; recomienda pedir varios presupuestos y apuntar en el móvil el teléfono de profesionales de confianza del barrio.",
+      "source": "https://www.ocu.org/consumo-familia/derechos-consumidor/informe/reparaciones-urgentes-derechos"
+    },
+    {
+      "fact": "Según OCU, aunque la póliza del seguro del hogar no cubra el problema, conviene pedirle ayuda, porque las aseguradoras tienen sus propios contactos de profesionales.",
+      "source": "https://www.ocu.org/consumo-familia/derechos-consumidor/informe/reparaciones-urgentes-derechos"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Cerrajero de urgencia que cobra un precio muy superior al esperado por abrir la puerta.",
+      "fix": "Pedir presupuesto previo o el coste de rechazarlo, pedir el libro de tarifas, no firmar si el precio es desorbitado (OCU). Del post inglés: pedir un presupuesto completo antes de que nadie vaya.",
+      "quotes": [
+        {
+          "text": "llamé por teléfono a su cerrajería para solicitar que un cerrajero viniera a mi casa a abrirme",
+          "url": "https://www.ocu.org/reclamar/lista-reclamaciones-publicas/precio-servicio-abusivo/87da0af40b70e5cdc6"
+        }
+      ],
+      "sources": [
+        "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2025/cerrajeroscat120325",
+        "https://www.ocu.org/consumo-familia/derechos-consumidor/informe/reparaciones-urgentes-derechos"
+      ]
+    },
+    {
+      "pain": "Tarifa de fin de semana o tarde-noche inesperada por una apertura de puerta sin cambio de cerradura.",
+      "fix": "Preguntar por suplementos (festivo, nocturno 22h a 6h) y valorar aplazar a un día laborable si es seguro (OCU).",
+      "quotes": [
+        {
+          "text": "se me realizó un servicio de apertura de puerta sin vuelta de llave",
+          "url": "https://www.ocu.org/reclamar/empresas/poty-cerrajero/EBBD52D9-37DB55905"
+        }
+      ],
+      "sources": [
+        "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2025/cerrajeroscat120325"
+      ]
+    },
+    {
+      "pain": "La empresa parece local pero es una centralita de otra ciudad, y el desplazamiento se infla.",
+      "fix": "Preguntar de dónde sale el técnico, usar contactos del barrio o del seguro del hogar (OCU).",
+      "quotes": [],
+      "sources": [
+        "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2025/cerrajeroscat120325",
+        "https://www.ocu.org/consumo-familia/derechos-consumidor/informe/reparaciones-urgentes-derechos"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Guía OCU contra cerrajeros abusivos: presupuesto previo, libro de tarifas, no firmar, seguro del hogar primero.",
+      "source": "https://www.ocu.org/consumo-familia/derechos-consumidor/informe/reparaciones-urgentes-derechos"
+    },
+    {
+      "point": "Datos concretos de OCU Cataluña sobre sobreprecios (más de 400 euros, cuatro veces el precio medio) y horario de nocturnidad.",
+      "source": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2025/cerrajeroscat120325"
+    },
+    {
+      "point": "Adaptación de producto: SwitchBot Lock Pro desde la tienda de la UE para cilindro europeo y cajas de llaves Master Lock en versión UE (5400EURD / 5420EURD); sin cerraduras de pestillo estadounidenses.",
+      "source": "https://eu.switch-bot.com/products/switchbot-lock-pro"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "August Wi-Fi Smart Lock 4th Gen and Yale Approach",
+      "action": "drop",
+      "with": ""
+    },
+    {
+      "english": "Leasing office / property manager / lockout fee in the lease / security deposit",
+      "action": "replace",
+      "with": "propietario o administrador de fincas; consultar el contrato de alquiler (hecho local OCU sobre costes se limita a cerrajeros)"
+    },
+    {
+      "english": "Locksmith quotes and US price expectations",
+      "action": "replace",
+      "with": "OCU: más de 400 euros es señal de alerta; pedir presupuesto previo y tarifas por escrito"
+    },
+    {
+      "english": "Master Lock 5400EC / 5420EC names",
+      "action": "replace",
+      "with": "modelos UE 5400EURD / 5420EURD"
+    }
+  ],
+  "guideOnly": false
+}

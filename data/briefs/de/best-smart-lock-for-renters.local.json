@@ -1,0 +1,137 @@
+{
+  "lang": "de",
+  "translationOf": "best-smart-lock-for-renters",
+  "checkedAt": "2026-10-20T04:31:49Z",
+  "productFit": [
+    {
+      "name": "August Wi-Fi Smart Lock (4th Gen)",
+      "asin": "B082VXK9CK",
+      "status": "unknown",
+      "reason": "US product. No August page found that states it is sold or supported for European profile-cylinder doors in DE/ES/NL; only a third-party retailer (1Control, UK) says it works on a Euro-cylinder thumbturn but calls availability, spare parts and support US-focused. Treated as notForMarket until a maker source exists.",
+      "source": "https://www.1control.eu/blog/en/best-smart-lock-euro-cylinder-uk"
+    },
+    {
+      "name": "SwitchBot Lock Pro",
+      "asin": "B0F9FQ7NT3",
+      "status": "localVariant",
+      "variant": "SwitchBot Lock Pro as sold on the SwitchBot EU store (eu.switch-bot.com): includes cylinder adaptors for Euro cylinders, EU shop with local warehouses; the optional Hub Mini/Hub 2 comes with an EU plug variant. Not the US Amazon listing.",
+      "reason": "Maker's EU product page says Lock Pro is 'ideal for European homes' and links a compatibility check (thumbturn/knob on the inside is required; measure before buying). The EU store is offered in German, Spanish and Dutch. The post must send readers to the EU version and the maker's compatibility check, not the US ASIN.",
+      "source": "https://eu.switch-bot.com/products/switchbot-lock-pro"
+    },
+    {
+      "name": "Yale Approach Lock with Wi-Fi",
+      "asin": "B0D3VQD6YX",
+      "status": "notForMarket",
+      "reason": "Yale's US shop describes it as an inside retrofit for single-cylinder (US-style) deadbolts and redirects visitors outside the US/Canada to the Yale Global site. No EU listing for Approach found. The EU counterpart is a different product, Yale Linus Smart Lock L2, which Yale lists as compatible with Euro profile cylinders protruding at least 3 mm and 22 mm round cylinders (a Linus Adjustable Cylinder can be bought if the cylinder does not fit).",
+      "source": "https://shopyalehome.com/products/yale-approach-lock-with-wi-fi"
+    },
+    {
+      "name": "Aqara Smart Lock U100 (Apple Home Key, Fingerprint Deadbolt)",
+      "asin": "B0BZSD2L1W",
+      "status": "unknown",
+      "reason": "Full replacement for a deadbolt. Aqara's EU material for European doors covers the separate Smart Lock U200 (manual: 'European standard mortise locks', 'Euro profile and select Scandi cylinders'). The EU blog page that mentions U100 links to the US store and says nothing about Euro-cylinder fit. A Reddit user in NL reports the US U100 ships with its own mechanical cylinder that must be installed. Treated as notForMarket; replacing the whole lock would also need the landlord's consent.",
+      "source": "https://www.aqara-shop.co.uk/wp-content/uploads/2024/07/U200-User-Manual-EN.pdf"
+    }
+  ],
+  "guideOnly": true,
+  "localFacts": [
+    {
+      "fact": "mietrecht.de (legal information portal, not a tenant association) says tenants generally may exchange the lock cylinder of their flat, that a lease clause banning this is usually invalid, and that tenants should keep the old cylinder in case the landlord asks for it to be reinstalled at handover. Views differ (see gutefrage thread), so a short written note to the landlord or a call to the local Mieterverein is the cautious route.",
+      "source": "https://www.mietrecht.de/blog/schloss-austauschen-mietwohnung/"
+    },
+    {
+      "fact": "Verbraucherzentrale advises, if you are locked out: ask where the technician comes from, check for a local address, compare prices and agree a binding fixed price including call-out fee before work starts; it cites a 2020 BGH ruling treating exploitative locksmith bills as Wucher.",
+      "source": "https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/abzocke/schluesseldienste-so-schuetzen-sie-sich-vor-ueberzogen-hohen-rechnungen-6687"
+    },
+    {
+      "fact": "German (and most continental) front doors use a Euro profile cylinder, not a US deadbolt. Yale says its EU Linus L2 fits Euro profile cylinders that protrude at least 3 mm and 22 mm round cylinders; if the cylinder does not fit, a replacement (Linus Adjustable Cylinder) is needed, i.e. the original cylinder would have to be swapped and stored.",
+      "source": "https://www.yalehome.com/it/en/products/smart-security-ecosystem/smart-locks/linus-smart-lock-l2"
+    },
+    {
+      "fact": "A thumbturn-motor lock such as the SwitchBot Lock Pro sits on the inside of a Euro cylinder and leaves the outside key working; SwitchBot's EU store sells it with cylinder adaptors, and its support centre has Euro-cylinder install guides (key and knob variants).",
+      "source": "https://eu.switch-bot.com/products/switchbot-lock-pro"
+    },
+    {
+      "fact": "Matter-smarthome.de lists which smart locks are sold for European latch-and-deadbolt doors (Aqara U200, SwitchBot Lock Pro Matter-enabled, Yale Linus L2) and separately lists US/UK-style deadbolt locks, which shows the two markets use different lock models.",
+      "source": "https://matter-smarthome.de/en/practice/these-smart-locks-support-the-matter-standard/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Renters do not know whether they may change the lock or fit a smart lock, and online answers contradict each other.",
+      "fix": "Prefer a no-drill, reversible add-on on the inside (SwitchBot Lock Pro EU) that leaves the original cylinder and key; keep any removed cylinder; ask the landlord in writing or the local Mieterverein before swapping a cylinder.",
+      "quotes": [
+        {
+          "text": "Ja, darfst du, wenn du das Smart Lock ohne Beschädigung an der Türe einbauen kannst (Bohrlöcher o.Ä.).",
+          "url": "https://www.reddit.com/r/wohnen/comments/11m0yzw/darf_ich_das_t%C3%BCrschloss_gegen_ein_smartes/"
+        },
+        {
+          "text": "Ja, darfst du. Bewahre das jetzige Schloss auf, denn wenn du mal ausziehst, musst du es wieder einbauen.",
+          "url": "https://www.gutefrage.net/frage/tuerschloss-in-der-mietwohnung-tauschen"
+        },
+        {
+          "text": "Nein. Ohne einen konkreten Anlass ist das nicht erlaubt, und zwar aus dem einfachen Grund, weil sich im Gesetz keine Rechtsgrundlage finden lässt",
+          "url": "https://www.gutefrage.net/frage/tuerschloss-in-der-mietwohnung-tauschen"
+        }
+      ],
+      "sources": [
+        "https://www.mietrecht.de/blog/schloss-austauschen-mietwohnung/"
+      ]
+    },
+    {
+      "pain": "Shared house/flat keys (one key for flat and street door) make renters unsure whether the cylinder can be changed without losing access to the building.",
+      "fix": "A thumbturn add-on keeps the existing cylinder and key, so the shared key keeps working; changing the cylinder means carrying two keys (flat and street door).",
+      "quotes": [
+        {
+          "text": "Du wirst dann 2 Schlüssel nutzen. Einen für die Haustür (und vermutlich Keller, Müllcontainer,...) und einen weiteren für deine Wohnungstür dann.",
+          "url": "https://www.gutefrage.net/frage/tuerschloss-in-der-mietwohnung-tauschen"
+        }
+      ],
+      "sources": [
+        "https://www.mietrecht.de/blog/schloss-austauschen-mietwohnung/"
+      ]
+    },
+    {
+      "pain": "Fear of being locked out and of locksmith overcharging.",
+      "fix": "Keep the mechanical key working (add-on design) and follow Verbraucherzentrale's locksmith tips.",
+      "quotes": [],
+      "sources": [
+        "https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/abzocke/schluesseldienste-so-schuetzen-sie-sich-vor-ueberzogen-hohen-rechnungen-6687"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Tells German readers that a US deadbolt lock does not fit a Euro profile cylinder door and which European model/store to look for (SwitchBot Lock Pro EU, Yale Linus L2 instead of Yale Approach).",
+      "source": "https://eu.switch-bot.com/products/switchbot-lock-pro"
+    },
+    {
+      "point": "Explains the cylinder-swap option and why to keep the original cylinder for handover.",
+      "source": "https://www.mietrecht.de/blog/schloss-austauschen-mietwohnung/"
+    },
+    {
+      "point": "Adds the Verbraucherzentrale locksmith checklist for lockouts.",
+      "source": "https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/abzocke/schluesseldienste-so-schuetzen-sie-sich-vor-ueberzogen-hohen-rechnungen-6687"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Aqara Smart Lock U100 and Yale Approach picks, 'US deadbolt' wording, 'deadbolt', 'strike plate', 'backset'",
+      "action": "drop"
+    },
+    {
+      "english": "August Wi-Fi Smart Lock (4th Gen) as 'best overall'",
+      "action": "drop"
+    },
+    {
+      "english": "'Always get written landlord approval' / deposit wording as US lease advice",
+      "action": "replace",
+      "with": "Fact 1: mietrecht.de on exchanging the cylinder and keeping the old one; suggest informing the landlord in writing or asking a Mieterverein; general information only."
+    },
+    {
+      "english": "Keep the original deadbolt, thumbturn, strike plate in a labeled bag",
+      "action": "replace",
+      "with": "Keep the original Schließzylinder and its keys for Wohnungsübergabe."
+    }
+  ]
+}

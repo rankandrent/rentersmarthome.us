@@ -1,0 +1,132 @@
+{
+  "lang": "nl",
+  "translationOf": "locked-out-of-apartment",
+  "checkedAt": "2026-10-20T04:35:00Z",
+  "productFit": [
+    {
+      "name": "August Wi-Fi Smart Lock (4th Gen)",
+      "asin": "B082VXK9CK",
+      "status": "notForMarket",
+      "reason": "US retrofit for a single-cylinder US deadbolt thumbturn. Typical DE/ES/NL rental doors use a European profile cylinder, and no EU edition or official EU listing was found. Only user threads describe fitting it on a euro cylinder with workarounds, which is not a supported setup. Dropped.",
+      "source": "https://www.reddit.com/r/HomeKit/comments/adki9a/installing_an_august_smart_lock_with_a_euro/"
+    },
+    {
+      "name": "SwitchBot Lock Pro",
+      "asin": "B0F9FQ7NT3",
+      "status": "localVariant",
+      "variant": "SwitchBot Lock Pro as sold in the SwitchBot EU store (eu.switch-bot.com); buy via the EU listing and run the EU compatibility check first",
+      "reason": "The SwitchBot EU store describes the Lock Pro as ideal for European homes, keeping the original lock, with install guides for Euro Cylinder (Key) and Euro Cylinder (Knob) and an EU compatibility checker. A user thread asks whether the US edition fits a euro cylinder and gives no confirmed answer, so the post must send readers to the EU listing and the EU compatibility page, not the US one. It needs a compatible euro cylinder with key or knob inside; the reader should check the checker first.",
+      "source": "https://eu.switch-bot.com/products/switchbot-lock-pro"
+    },
+    {
+      "name": "Yale Approach Lock with Wi-Fi and Keypad Touch",
+      "asin": "B0D3VQD6YX",
+      "status": "notForMarket",
+      "reason": "Yale Approach is a US product that mounts over a US single-cylinder deadbolt; Yale's US support page lists only single-cylinder deadbolts as compatible. Yale's own European line is the Linus Smart Lock (L2), which fits Euro profile cylinders (protruding at least 3 mm) and 22 mm round cylinders. Approach is dropped; the translator may mention Linus L2 as a sourced note, not as a product pick.",
+      "source": "https://support.shopyalehome.com/what-deadbolts-are-compatible-with-yale-retrofit-locks-Sk4Qfu6bR"
+    },
+    {
+      "name": "Master Lock Portable Key Lock Box 5400EC",
+      "asin": "B0002YP1VC",
+      "status": "localVariant",
+      "variant": "Master Lock 5400EURD Select Access key lock box with shackle (Master Lock EU)",
+      "reason": "A key box with shackle does not depend on the door lock type, so the concept fits anywhere. The EU shop lists the 5400EURD (medium, 90 mm, set-your-own 4-digit combination); point readers to the EU model by name.",
+      "source": "https://shop.masterlock.eu/products/5400eurd"
+    },
+    {
+      "name": "Master Lock 5420EC Set Your Own Combination Portable Lock Box",
+      "asin": "B07FD2N88X",
+      "status": "localVariant",
+      "variant": "Master Lock 5420EURD Select Access universal key lock box with adjustable shackle (Master Lock EU)",
+      "reason": "Same reasoning: the EU shop lists the 5420EURD with adjustable shackle for most door hardware styles and a 4-digit set-your-own combination. Whether the shackle fits a given European door handle is for the reader to check.",
+      "source": "https://www.masterlock.eu/products/select-access-gray-portable-key-safe/5420EURD"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "De Consumentenbond adviseert: reservesleutels bij familie of vrienden leggen, geen sleutel aan de binnenkant van de deur laten zitten, vooraf een duidelijke prijsindicatie vragen (voorrijkosten, noodtarief, avondtoeslag, materiaalkosten, prijzen inclusief btw), niet zomaar een offerte tekenen en oppassen voor tussenpersonen ('leadbedrijven') en advertenties bovenaan Google.",
+      "source": "https://www.consumentenbond.nl/verbouwen-en-klussen/slotenmakers"
+    },
+    {
+      "fact": "De Consumentenbond noemt als kenmerken van een betrouwbaardere slotenmaker: aangesloten bij de branchevereniging Nederlandse Sleutel- en Slotenspecialisten Gilde (NSSG), of het Politiekeurmerk Veilig Wonen (via CCV), en een adres op de website dat te controleren is.",
+      "source": "https://www.consumentenbond.nl/verbouwen-en-klussen/slotenmakers"
+    },
+    {
+      "fact": "De Consumentenbond zegt dat de inboedelverzekering de kosten bij verlies of diefstal van de sleutel soms deels vergoedt, maar niet bij vergeten sleutels of een kapot slot; wie meer betaalde dan redelijk lijkt, kan het stappenplan van de Consumentenbond volgen.",
+      "source": "https://www.consumentenbond.nl/verbouwen-en-klussen/slotenmakers"
+    },
+    {
+      "fact": "De Woonbond zegt dat de verhuurder verplicht is te zorgen voor deugdelijk hang- en sluitwerk; bij nalatigheid van de verhuurder kunnen sleutelservicekosten bij hem liggen. Het Juridisch Loket noemt kleine en dagelijkse reparaties voor rekening van de huurder.",
+      "source": "https://www.woonbond.nl/faq/moet-mijn-verhuurder-sleutelservice-betalen/"
+    },
+    {
+      "fact": "De Rijksoverheid noemt 112 voor levensbedreigende en heterdaadsituaties, bijvoorbeeld als je jezelf hebt buitengesloten en het fornuis aanstaat. De politie zegt: geen spoed maar wel politie nodig, bel 0900-8844.",
+      "source": "https://www.rijksoverheid.nl/vraag-en-antwoord/alarmnummer-112/wanneer-112-bellen"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Spoedslotenmakers en bemiddelaars maken misbruik van de situatie en rekenen hoge bedragen.",
+      "fix": "Consumentenbond: vooraf prijsindicatie, lokale slotenmaker, NSSG of Politiekeurmerk, niet tekenen zonder alle kosten. Uit de Engelse post: eerst de verhuurder bellen, slotenmaker als laatste optie.",
+      "quotes": [
+        {
+          "text": "Loodgieters, slotenmakers en nu blijkbaar ook cv ketels. Ze maken misbruik van de situatie waarin je zit.",
+          "url": "https://www.reddit.com/r/nederlands/comments/1o036wo/pas_op_met_cvstoringservicenl_1500_kwijt_voor/"
+        }
+      ],
+      "sources": [
+        "https://www.consumentenbond.nl/verbouwen-en-klussen/slotenmakers"
+      ]
+    },
+    {
+      "pain": "Huurder weet niet of de verhuurder de sleutelservice moet betalen als het slot defect is.",
+      "fix": "Woonbond: verhuurder moet zorgen voor deugdelijk hang- en sluitwerk; defect schriftelijk melden en bewijs bewaren (zoals in de Engelse post). Algemene informatie, geen juridisch advies.",
+      "quotes": [],
+      "sources": [
+        "https://www.woonbond.nl/faq/moet-mijn-verhuurder-sleutelservice-betalen/",
+        "https://www.juridischloket.nl/wonen-en-buren/huurwoning/onderhoudskosten/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Concrete Consumentenbond-checks (NSSG, Politiekeurmerk, prijsindicatie, leadbedrijven) in plaats van Amerikaanse locksmith-tips.",
+      "source": "https://www.consumentenbond.nl/verbouwen-en-klussen/slotenmakers"
+    },
+    {
+      "point": "Wie betaalt: Woonbond over de zorgplicht van de verhuurder voor hang- en sluitwerk.",
+      "source": "https://www.woonbond.nl/faq/moet-mijn-verhuurder-sleutelservice-betalen/"
+    },
+    {
+      "point": "112 versus 0900-8844 bij buitensluiting, met het voorbeeld van het fornuis dat aanstaat (Rijksoverheid).",
+      "source": "https://www.rijksoverheid.nl/vraag-en-antwoord/alarmnummer-112/wanneer-112-bellen"
+    },
+    {
+      "point": "Productpassing: SwitchBot Lock Pro via de EU-winkel voor Europese profielcilinders en Master Lock sleutelkluisjes in EU-uitvoering (5400EURD / 5420EURD).",
+      "source": "https://eu.switch-bot.com/products/switchbot-lock-pro"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "August Wi-Fi Smart Lock 4th Gen and Yale Approach",
+      "action": "drop",
+      "with": ""
+    },
+    {
+      "english": "Leasing office / property manager / lockout fee in the lease / security deposit",
+      "action": "replace",
+      "with": "verhuurder of beheerder; zorgplicht hang- en sluitwerk (Woonbond)"
+    },
+    {
+      "english": "Call 911 or generic emergency line (if implied)",
+      "action": "replace",
+      "with": "112 alleen bij levensgevaar of heterdaad, anders politie 0900-8844 (Rijksoverheid)"
+    },
+    {
+      "english": "Master Lock 5400EC / 5420EC names",
+      "action": "replace",
+      "with": "EU-modellen 5400EURD / 5420EURD"
+    }
+  ],
+  "guideOnly": false
+}

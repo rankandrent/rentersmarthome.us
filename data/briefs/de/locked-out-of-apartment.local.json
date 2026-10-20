@@ -1,0 +1,160 @@
+{
+  "lang": "de",
+  "translationOf": "locked-out-of-apartment",
+  "checkedAt": "2026-10-20T04:35:00Z",
+  "productFit": [
+    {
+      "name": "August Wi-Fi Smart Lock (4th Gen)",
+      "asin": "B082VXK9CK",
+      "status": "notForMarket",
+      "reason": "US retrofit for a single-cylinder US deadbolt thumbturn. Typical DE/ES/NL rental doors use a European profile cylinder, and no EU edition or official EU listing was found. Only user threads describe fitting it on a euro cylinder with workarounds, which is not a supported setup. Dropped.",
+      "source": "https://www.reddit.com/r/HomeKit/comments/adki9a/installing_an_august_smart_lock_with_a_euro/"
+    },
+    {
+      "name": "SwitchBot Lock Pro",
+      "asin": "B0F9FQ7NT3",
+      "status": "localVariant",
+      "variant": "SwitchBot Lock Pro as sold in the SwitchBot EU store (eu.switch-bot.com); buy via the EU listing and run the EU compatibility check first",
+      "reason": "The SwitchBot EU store describes the Lock Pro as ideal for European homes, keeping the original lock, with install guides for Euro Cylinder (Key) and Euro Cylinder (Knob) and an EU compatibility checker. A user thread asks whether the US edition fits a euro cylinder and gives no confirmed answer, so the post must send readers to the EU listing and the EU compatibility page, not the US one. It needs a compatible euro cylinder with key or knob inside; the reader should check the checker first.",
+      "source": "https://eu.switch-bot.com/products/switchbot-lock-pro"
+    },
+    {
+      "name": "Yale Approach Lock with Wi-Fi and Keypad Touch",
+      "asin": "B0D3VQD6YX",
+      "status": "notForMarket",
+      "reason": "Yale Approach is a US product that mounts over a US single-cylinder deadbolt; Yale's US support page lists only single-cylinder deadbolts as compatible. Yale's own European line is the Linus Smart Lock (L2), which fits Euro profile cylinders (protruding at least 3 mm) and 22 mm round cylinders. Approach is dropped; the translator may mention Linus L2 as a sourced note, not as a product pick.",
+      "source": "https://support.shopyalehome.com/what-deadbolts-are-compatible-with-yale-retrofit-locks-Sk4Qfu6bR"
+    },
+    {
+      "name": "Master Lock Portable Key Lock Box 5400EC",
+      "asin": "B0002YP1VC",
+      "status": "localVariant",
+      "variant": "Master Lock 5400EURD Select Access key lock box with shackle (Master Lock EU)",
+      "reason": "A key box with shackle does not depend on the door lock type, so the concept fits anywhere. The EU shop lists the 5400EURD (medium, 90 mm, set-your-own 4-digit combination); point readers to the EU model by name.",
+      "source": "https://shop.masterlock.eu/products/5400eurd"
+    },
+    {
+      "name": "Master Lock 5420EC Set Your Own Combination Portable Lock Box",
+      "asin": "B07FD2N88X",
+      "status": "localVariant",
+      "variant": "Master Lock 5420EURD Select Access universal key lock box with adjustable shackle (Master Lock EU)",
+      "reason": "Same reasoning: the EU shop lists the 5420EURD with adjustable shackle for most door hardware styles and a 4-digit set-your-own combination. Whether the shackle fits a given European door handle is for the reader to check.",
+      "source": "https://www.masterlock.eu/products/select-access-gray-portable-key-safe/5420EURD"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Die Verbraucherzentrale rät: einen ortsansässigen Schlüsseldienst wählen (lokale Adresse im Impressum prüfen), Preise vergleichen, vorab einen verbindlichen Festpreis inklusive Anfahrt und Zuschlägen vereinbaren und dem Dienst genau schildern, ob die Tür nur zugefallen oder abgeschlossen ist. Wochenend- und Nachtzuschläge können den Preis erhöhen.",
+      "source": "https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/abzocke/schluesseldienste-so-schuetzen-sie-sich-vor-ueberzogen-hohen-rechnungen-6687"
+    },
+    {
+      "fact": "Laut Verbraucherzentrale sollte im Auftrag festgelegt werden, dass nur die Tür geöffnet wird; ein Austausch des ganzen Schlosses sei in den meisten Fällen nicht nötig. Sie rät, nur zu zahlen, was vereinbart wurde, vor der Unterschrift die Rechnung zu prüfen und bei Druck oder Nötigung die Polizei über 110 zu rufen. Sie nennt Fälle mit fast 800 Euro für eine einfache Türöffnung.",
+      "source": "https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/abzocke/schluesseldienste-so-schuetzen-sie-sich-vor-ueberzogen-hohen-rechnungen-6687"
+    },
+    {
+      "fact": "Die Verbraucherzentrale weist darauf hin, dass der Bundesgerichtshof im Januar 2020 (Az. 1 StR 113/19) bestätigte, dass Schlüsselnotdienste, die die Notlage für weit überzogene Rechnungen ausnutzen, Wucher betreiben können. Das ist keine Rechtsberatung für den Einzelfall.",
+      "source": "https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/abzocke/schluesseldienste-so-schuetzen-sie-sich-vor-ueberzogen-hohen-rechnungen-6687"
+    },
+    {
+      "fact": "Laut mietrecht.de und Haufe (mit Verweis auf Haus & Grund) müssen Mieter den Verlust eines Schlüssels dem Vermieter oder der Hausverwaltung sofort melden. Wer den Schlüsseldienst selbst verursacht (Schlüssel verloren, abgebrochen), zahlt in der Regel selbst; war ein defektes, nicht repariertes Schloss die Ursache, kann der Vermieter in der Pflicht stehen. Das hängt vom Einzelfall ab.",
+      "source": "https://www.haufe.de/immobilien/verwaltung/schliessanlage-wer-muss-bei-schluesselverlust-zahlen_258_522626.html"
+    },
+    {
+      "fact": "Der Mieterverein Hamburg fasst die BGH-Rechtsprechung so zusammen: Bei Verlust eines Schlüssels zur Schließanlage müssen Mieter mit Schadensersatzforderungen rechnen, aber nur bei Verschulden und tatsächlicher Missbrauchsgefahr, und der Austausch der Schließanlage kann nur verlangt werden, wenn er tatsächlich erfolgt ist.",
+      "source": "https://www.mieterverein-hamburg.de/mediathek/urteile/verlust-eines-wohnungsschluessels-schliessanlage-schadensersatz/"
+    },
+    {
+      "fact": "Für Österreich warnt die Arbeiterkammer (AK) ebenfalls vor Abzocke durch Schlüsseldienste und rät zur Vorsorge: lokale Anbieter vorab recherchieren.",
+      "source": "https://www.konsumentenfragen.at/konsumentenfragen/Rund_um_den_Vertrag/Rund_um_den_Vertrag/AK-warnt-vor-Abzocke-durch-Schluesseldienste-Tipps-fuer-Kon.html"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Mieter ruft den Schlüsseldienst und bekommt eine hohe Rechnung; unklar, ob der Vermieter zahlt.",
+      "fix": "Vorab Festpreis vereinbaren, Rechnung prüfen (Verbraucherzentrale); den Vermieter sofort informieren und schriftlich nachfragen; aus dem englischen Post: alles dokumentieren und per E-Mail festhalten.",
+      "quotes": [
+        {
+          "text": "Ich musste in letzter Instanz den Schlüsseldienst rufen, welcher mir eine Rechnung von 250€ ausgestellt hat.",
+          "url": "https://www.reddit.com/r/Vermieten/comments/1thwg39/muss_mein_vermieter_den_schl%C3%BCsseldienst_zahlen/"
+        }
+      ],
+      "sources": [
+        "https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/abzocke/schluesseldienste-so-schuetzen-sie-sich-vor-ueberzogen-hohen-rechnungen-6687",
+        "https://www.haufe.de/immobilien/verwaltung/schliessanlage-wer-muss-bei-schluesselverlust-zahlen_258_522626.html"
+      ]
+    },
+    {
+      "pain": "Der Schlüssel dreht sich nicht mehr (defektes Schloss) und der Mieter fragt, ob der Vermieter die Kosten trägt.",
+      "fix": "Haufe/Haus & Grund: bei nicht repariertem defektem Schloss kann der Vermieter in der Pflicht stehen. Defekt dem Vermieter melden und Fotos/Belege sichern (englischer Post: Vermieter schriftlich informieren).",
+      "quotes": [
+        {
+          "text": "Vor ein paar Monaten musste ich einen Schlüsseldienst rufen, weil ich nicht mehr in meine Wohnung konnte, weil der Schlüssel sich nicht drehen ließ.",
+          "url": "https://www.reddit.com/r/LegaladviceGerman/comments/1drbmtt/muss_der_vermieter_trotz_kleinreparaturklausel/"
+        }
+      ],
+      "sources": [
+        "https://www.haufe.de/immobilien/verwaltung/schliessanlage-wer-muss-bei-schluesselverlust-zahlen_258_522626.html"
+      ]
+    },
+    {
+      "pain": "Nach Schlüsselverlust will der Vermieter den Türzylinder tauschen, obwohl Mieter keine Missbrauchsgefahr sehen.",
+      "fix": "Mieterverein Hamburg: Kosten nur bei Verschulden, tatsächlicher Missbrauchsgefahr und tatsächlichem Austausch; Mieterverein oder DMB-Beratung fragen. Allgemeine Information, keine Rechtsberatung.",
+      "quotes": [
+        {
+          "text": "Der Vermieter will den Türzylinder austauschen, wobei keine Missbrauchsgefahr bestehet.",
+          "url": "https://www.reddit.com/r/LegaladviceGerman/comments/1exkrar/schl%C3%BCsselverlust_in_mietwohnung_der_vermieter/"
+        }
+      ],
+      "sources": [
+        "https://www.mieterverein-hamburg.de/mediathek/urteile/verlust-eines-wohnungsschluessels-schliessanlage-schadensersatz/",
+        "https://www.mietrecht.de/blog/schluessel-mietwohnung-verloren-richtiges-verhalten-haftung-mieter/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Konkrete Checkliste gegen Schlüsseldienst-Abzocke (lokal, Festpreis, nur Türöffnung, 110 bei Nötigung) statt der US-Kette Hausverwaltung, dann Schlosser.",
+      "source": "https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/abzocke/schluesseldienste-so-schuetzen-sie-sich-vor-ueberzogen-hohen-rechnungen-6687"
+    },
+    {
+      "point": "Wer zahlt: Mieter bei selbst verursachtem Einsatz, Vermieter bei nicht repariertem Defekt; Meldepflicht bei Schlüsselverlust und Besonderheit Schließanlage.",
+      "source": "https://www.haufe.de/immobilien/verwaltung/schliessanlage-wer-muss-bei-schluesselverlust-zahlen_258_522626.html"
+    },
+    {
+      "point": "Produktpassung: Der Post empfiehlt statt US-Deadbolt-Aufsätzen das SwitchBot Lock Pro über den EU-Shop (Euro-Profilzylinder) und Master-Lock-Schlüsselkästen in der EU-Version (5400EURD/5420EURD).",
+      "source": "https://eu.switch-bot.com/products/switchbot-lock-pro"
+    },
+    {
+      "point": "Hinweis für Österreich (AK) ergänzt die Verbraucherwarnung.",
+      "source": "https://www.konsumentenfragen.at/konsumentenfragen/Rund_um_den_Vertrag/Rund_um_den_Vertrag/AK-warnt-vor-Abzocke-durch-Schluesseldienste-Tipps-fuer-Kon.html"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "August Wi-Fi Smart Lock 4th Gen and Yale Approach (US single-cylinder deadbolt retrofits)",
+      "action": "drop",
+      "with": ""
+    },
+    {
+      "english": "Leasing office / property manager / lockout fee in the lease / lease and security deposit framing (US apartment complexes)",
+      "action": "replace",
+      "with": "Vermieter oder Hausverwaltung; Schlüsselverlust melden; Haftung nach Einzelfall (Haufe, Mieterverein Hamburg)"
+    },
+    {
+      "english": "Call a locksmith as last resort with a full quote first (US prices)",
+      "action": "replace",
+      "with": "Verbraucherzentrale: Festpreis inkl. Anfahrt vereinbaren, lokaler Dienst, nur Türöffnung"
+    },
+    {
+      "english": "Drilled deadbolt / drilling the lock",
+      "action": "replace",
+      "with": "Euro-Profilzylinder: Verbraucherzentrale rät, nur die Türöffnung zu beauftragen, kein Schlosstausch ohne Notwendigkeit"
+    },
+    {
+      "english": "Master Lock 5400EC / 5420EC names",
+      "action": "replace",
+      "with": "EU models 5400EURD / 5420EURD"
+    }
+  ],
+  "guideOnly": false
+}
