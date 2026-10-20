@@ -2,8 +2,8 @@
 title: 'Aus der Wohnung ausgesperrt? 7 Schritte, wie du schnell reinkommst'
 seoTitle: 'Aus der Wohnung ausgesperrt? 7 Schritte, die sofort helfen'
 description: >-
-  Aus der Wohnung ausgesperrt? 7 Schritte in der richtigen Reihenfolge, von der
-  Hausverwaltung bis zum Schlüsseldienst, plus Smart Locks ganz ohne Bohren.
+  Aus der Wohnung ausgesperrt? 7 Schritte in der richtigen Reihenfolge, Festpreis
+  beim Schlüsseldienst, wer zahlt, und Lösungen ohne Bohren fürs nächste Mal.
 pubDate: '2026-10-19T21:00:00.000Z'
 lang: de
 translationOf: locked-out-of-apartment
@@ -38,112 +38,26 @@ tags:
 articleType: how-to
 funnel: tofu
 productStyle: paragraph
-productCount: 5
-readingTime: 11
+productCount: 3
+readingTime: 10
 tldr:
   - >-
     Aus der Wohnung ausgesperrt? Prüfe gefahrlos andere Türen, ruf jemanden mit
-    Ersatzschlüssel an, dann die Hausverwaltung oder die Notfallnummer für
-    Reparaturen und erst danach einen Schlüsseldienst.
+    Ersatzschlüssel an, dann Vermieter oder Hausverwaltung und erst danach einen
+    Schlüsseldienst.
   - >-
-    Klettere nie über die Feuertreppe und brich kein Fenster auf. Das ist
-    gefährlich und kann dich mehr kosten als das Aussperren selbst.
+    Beim Schlüsseldienst rät die Verbraucherzentrale: ortsansässigen Betrieb
+    wählen, vorab einen Festpreis inklusive Anfahrt vereinbaren und nur die
+    Türöffnung beauftragen.
   - >-
-    Ob eine Gebühr fürs Öffnen anfällt und wer ein aufgebohrtes Schloss bezahlt,
-    hängt von deinem Mietvertrag und den Regeln vor Ort ab. Schau in den
-    Mietvertrag und frag deinen Vermieter schriftlich.
+    Hast du den Einsatz selbst verursacht, zahlst du in der Regel selbst; war ein
+    nicht repariertes, defektes Schloss schuld, kann der Vermieter in der Pflicht
+    stehen. Einen verlorenen Schlüssel meldest du sofort.
   - >-
-    Gegen das nächste Mal hilft den meisten Mietern ein Nachrüst-Smart-Lock, das
-    deinen Originalschlüssel behält, oder ein Schlüsseltresor mit
-    Ersatzschlüssel, beides ohne Bohren.
+    Gegen das nächste Mal helfen ein Smart Lock aus dem SwitchBot-EU-Shop, das
+    deinen Profilzylinder behält, oder ein Schlüsseltresor in der EU-Version,
+    beides ohne Bohren.
 products:
-  - name: August Wi-Fi Smart Lock (4th Gen)
-    brand: August
-    query: August Wi-Fi Smart Lock 4th Gen
-    matchName: August Wi-Fi Smart Lock
-    asin: B082VXK9CK
-    amazonTitle: >-
-      August Home, Silver Wi-Fi Connected Smart Keyless Entry Door Lock,
-      Electronic Door Lock Fits Your Existing Deadbolt in Minutes, ‎
-      ‎AUG-SL05-M01-S01
-    badge: 'Beste Nachrüstlösung, wenn das Handy drinnen liegt'
-    summary: >-
-      Ein Nachrüst-Smart-Lock, das innen auf dein vorhandenes einseitiges
-      Riegelschloss geklemmt wird und Schlüsselloch und Schlüssel außen
-      unverändert lässt. Dank eingebautem WLAN kann dich ein Freund oder dein
-      Vermieter per Handy hereinlassen, wenn du ohne Schlüssel vor der Tür
-      stehst.
-    renterNote: >-
-      Ersetzt nur die Innenseite mit dem Drehknauf, montiert mit einem
-      Schraubendreher, und deine vorhandenen Schlüssel funktionieren weiter.
-      Haken beim Thema Aussperren: Das Tastenfeld für Codes ohne Handy gibt es
-      nur separat, das Schloss läuft mit zwei CR123-Batterien, und Besitzer
-      wechseln sie nach eigenen Angaben alle 3 bis 7 Monate.
-    pros:
-      - >-
-        Passt von innen auf die meisten einseitigen Riegelschlösser, Außenseite
-        und Schlüssel bleiben, wie sie sind
-      - >-
-        Eingebautes WLAN (2,4 oder 5 GHz) ermöglicht das Entriegeln aus der
-        Ferne ohne separate Bridge
-      - >-
-        Auto-Lock und DoorSense verriegeln die Tür wieder, zusätzlich lässt sich
-        Auto-Unlock beim Heimkommen einrichten
-    cons:
-      - Das Tastenfeld für die Code-Eingabe von außen kostet extra
-      - >-
-        Besitzer berichten von Batteriewechseln alle 3 bis 7 Monate, was bei
-        einem Schloss gegen das Aussperren ins Gewicht fällt
-    scores:
-      install: 7
-      reversibility: 8
-      value: 7
-      compatibility: 10
-      portability: 8
-    scoreNote: >-
-      Nachrüstung mit dem Schraubendreher, Schlüssel und Außenseite bleiben;
-      läuft mit Alexa, Google und Apple Home. Batteriewechsel alle paar Monate
-      und das separate Tastenfeld drücken die Preis-Leistung.
-    owners:
-      read: 4
-      praise:
-        - >-
-          Im Alltag angenehm, wenn es einmal eingerichtet ist; Besitzer finden
-          den Schlüssel danach regelrecht lästig
-        - >-
-          Der normale Schlüssel funktioniert weiter, falls die Batterien doch
-          leer sind
-        - 'Viele Warnungen bei niedrigem Akkustand, bevor das Schloss streikt'
-      complaints:
-        - >-
-          Verbraucht viele Batterien: Ein Besitzer wechselt sie etwa alle 3
-          Monate, ein anderer etwa alle 7
-        - >-
-          Gelegentliche WLAN-Verbindungsprobleme tauchen in
-          Bewertungszusammenfassungen auf
-      sources:
-        - title: Slickdeals August Wi-Fi Smart Lock (4th Gen) owner thread
-          url: >-
-            https://slickdeals.net/f/16257052-august-wi-fi-smart-lock-4th-gen-black-or-silver-139-free-shipping
-        - title: ShopSavvy August Wi-Fi Smart Lock 4th Gen review summary
-          url: 'https://shopsavvy.com/reviews-tldr/august-wi-fi-smart-lock-4th-gen'
-    image:
-      url: 'https://m.media-amazon.com/images/I/4120PG5xbhL._SL500_.jpg'
-      width: 500
-      height: 500
-    gallery:
-      - url: 'https://m.media-amazon.com/images/I/41G5tNCzsCL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/51XzWyN4erL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/51pNaGPJnmL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/41SXQ6LB3WL._SL500_.jpg'
-        width: 500
-        height: 500
   - name: SwitchBot Lock Pro
     brand: SwitchBot
     query: SwitchBot Lock Pro
@@ -152,17 +66,17 @@ products:
     amazonTitle: SwitchBot Smart Lock Pro Electronic Door Lock Black
     badge: Beste Kombi aus Zusatz-Tastenfeld und Fingerabdruck
     summary: >-
-      Ein batteriebetriebener Motor, der über deinen vorhandenen Drehknauf
+      Ein batteriebetriebener Motor, der innen über deinen Euro-Profilzylinder
       gesetzt wird und Originalschloss und Schlüssel behält. Mit dem separaten
       Keypad Touch kommst du per Fingerabdruck, Code oder NFC-Karte ohne Handy
-      in die Wohnung.
+      in die Wohnung. Wähle die Version aus dem SwitchBot-EU-Shop.
     renterNote: >-
-      Wird innen mit Halterungen montiert (SwitchBot legt auch Klebepads und
-      einen Türmagneten bei), Originalschloss und Schlüssel bleiben an Ort und
-      Stelle, und Techlicious konnte es spurlos wieder abnehmen. Tastenfeld und
-      Hub fürs Entriegeln aus der Ferne kosten extra, und ob es passt, hängt vom
-      Schloss ab. Prüfe deshalb vor dem Kauf die Kompatibilitätsliste von
-      SwitchBot.
+      Nimm die EU-Version von eu.switch-bot.com und mach vorher den
+      EU-Kompatibilitätscheck: Dein Euro-Zylinder braucht innen einen Schlüssel
+      oder einen Knauf. Montiert wird innen mit Halterungen (SwitchBot legt auch
+      Klebepads und einen Türmagneten bei), und Techlicious konnte es spurlos
+      wieder abnehmen. Tastenfeld und Hub fürs Entriegeln aus der Ferne kosten
+      extra.
     pros:
       - >-
         Behält dein Originalschloss und den Schlüssel, der Zylinder des
@@ -233,85 +147,6 @@ products:
       - url: 'https://m.media-amazon.com/images/I/51wl7x8tl0L._SL500_.jpg'
         width: 500
         height: 500
-  - name: Yale Approach Lock with Wi-Fi and Keypad Touch
-    brand: Yale
-    query: Yale Approach Lock Deadbolt Wi-Fi Keypad B-YRR110-F-WF1-N-BSP
-    matchName: Yale Approach Lock
-    asin: B0D3VQD6YX
-    amazonTitle: >-
-      Yale Approach™ Lock Deadbolt, Silver Key-Free Smart Entry Door Lock with
-      Wi-Fi Connected Touchscreen Keypad and Biometric Fingerprint Scanner for
-      Code Entry and Remove Access, B-YRR110-F-WF1-N-BSP
-    badge: Bestes Set mit Tastenfeld und Fingerabdruck
-    summary: >-
-      Yales erstes Nachrüst-Smart-Lock wird innen über dein vorhandenes
-      Riegelschloss montiert und kommt mit biometrischem Tastenfeld und
-      WLAN-Bridge. Du kommst per Fingerabdruck oder Code ohne Handy hinein, und
-      der Schlüssel funktioniert weiter.
-    renterNote: >-
-      Das Schloss sitzt innen und du behältst deine Schlüssel; das beiliegende
-      Tastenfeld lässt sich mit einem Klebepad befestigen oder anschrauben, so
-      bleibt alles bohrfrei. PCWorld fand die Montage aufwendiger als bei einem
-      kompletten Austauschschloss, und die Montageplatte wird durch die
-      vorhandene Verriegelung in die Außengarnitur geschraubt.
-    pros:
-      - >-
-        Tastenfeld, Fingerabdruckleser und WLAN-Bridge sind dabei, du kommst
-        also ohne Handy hinein
-      - Dein vorhandener Schlüssel bleibt als Reserve
-      - >-
-        Tastenfeld hält per beiliegendem Klebepad oder Schrauben und ist nach
-        IPX5 geschützt
-    cons:
-      - >-
-        Mehr Montageschritte als ein komplettes Austauschschloss, und die Bridge
-        belegt eine Steckdose in etwa 9 m (30 ft) Entfernung (PCWorld)
-      - >-
-        Besitzer berichten von 3 bis 5 Sekunden Verzögerung beim Fingerabdruck
-        und müssen die Bridge etwa alle sechs Monate neu starten
-    scores:
-      install: 6
-      reversibility: 8
-      value: 7
-      compatibility: 6
-      portability: 7
-    scoreNote: >-
-      Schlüssel und Außenseite bleiben, das Tastenfeld geht auch ohne Bohren;
-      zusätzliche Montageschritte und eine Bridge an der Steckdose kosten Punkte
-      bei Montage und Kompatibilität.
-    owners:
-      read: 3
-      praise:
-        - >-
-          Ein Besitzer nennt es nach rund einem Jahr ziemlich solide und
-          zuverlässiger als erwartet
-        - >-
-          Besitzer schätzen den Fingerabdruck, während der Originalschlüssel
-          bleibt
-        - >-
-          Bei einem PCWorld-Redakteur klappte die Montage nach einer zweiten
-          Kalibrierung
-      complaints:
-        - Das Entriegeln per Fingerabdruck dauert ein paar Sekunden
-        - >-
-          Ein Besitzer muss die Bridge etwa alle sechs Monate neu starten; ein
-          anderer rät von jedem Schloss mit Bridge ab
-        - Probleme bei Kalibrierung und Firmware-Update im Bericht von PCWorld
-      sources:
-        - title: Slickdeals Yale Approach owner thread
-          url: >-
-            https://slickdeals.net/f/18584878-yale-approach-apartment-smart-lock-wi-fi-deadbolt-with-keypad-access-silver-72-99
-        - title: PCWorld Yale Approach Lock with Wi-Fi + Keypad review
-          url: >-
-            https://www.pcworld.com/article/2331746/yale-approach-lock-with-wi-fi-keypad-review-this-is-easier.html
-    image:
-      url: 'https://m.media-amazon.com/images/I/31MSy2yL9IL._SL500_.jpg'
-      width: 500
-      height: 500
-    gallery:
-      - url: 'https://m.media-amazon.com/images/I/41GhUqJ29zL._SL500_.jpg'
-        width: 500
-        height: 500
   - name: Master Lock Portable Key Lock Box 5400EC
     brand: Master Lock
     query: Master Lock Portable Key Lock Box 5400EC
@@ -325,15 +160,15 @@ products:
     summary: >-
       Ein Schlüsseltresor mit Zahlenschloss, der mit seinem Bügel über einen
       Türknauf gehängt wird. So liegt ein Ersatzschlüssel direkt an deiner Tür,
-      und du öffnest ihn mit einem selbst gewählten Code. Kein Strom, kein
-      Handy, kein Bohren, deshalb ist er die einfachste Lösung gegen das
-      Aussperren.
+      und du öffnest ihn mit einem selbst gewählten Code. In Europa heißt das
+      Modell Master Lock 5400EURD Select Access; nimm diese EU-Version.
     renterNote: >-
-      Passt über die meisten runden, flachen und tulpenförmigen Türknäufe, es
-      wird also nichts gebohrt oder geklebt. Einschränkungen: Er schreckt Diebe
-      ab, ist aber kein Tresor (Besitzer berichten, dass ein Einbrecher einen
-      aufgeschlagen hat), man sieht ihn vom Flur aus, und prüfe Mietvertrag und
-      Rücksprache mit dem Vermieter, bevor du einen Schlüssel draußen lässt.
+      Die EU-Version 5400EURD ist mittelgroß (90 mm, 3,5 in) und hängt laut
+      Amazon über runden, flachen und tulpenförmigen Knäufen, es wird also
+      nichts gebohrt oder geklebt. Einschränkungen: Er schreckt Diebe ab, ist aber kein Tresor
+      (Besitzer berichten, dass ein Einbrecher einen aufgeschlagen hat), man
+      sieht ihn vom Flur aus, und frag deinen Vermieter, bevor du einen
+      Schlüssel draußen lässt.
     pros:
       - >-
         Nichts zu laden oder zu tauschen: ein frei einstellbarer 4-stelliger
@@ -408,14 +243,16 @@ products:
     badge: Am besten für Türen mit Klinke
     summary: >-
       Ein kleinerer Schlüsseltresor mit Zahlenschloss und verstellbarem Bügel,
-      der an Türklinken sowie runde, flache und tulpenförmige Knäufe passt. Die
-      Wahl für eine Wohnungstür mit Klinke, an der ein Tresor mit festem Bügel
-      nicht hält.
+      der an Türklinken sowie runde, flache und tulpenförmige Knäufe passt. In
+      Europa heißt er Master Lock 5420EURD Select Access; nimm diese EU-Version
+      für eine Wohnungstür mit Klinke.
     renterNote: >-
-      Der Bügel lässt sich von 1,9 bis 4,4 cm (3/4 bis 1-3/4 in) verstellen und
-      hängt ohne Werkzeug oder Bohren an der Klinke. Miss vorher Dornmaß,
-      Bohrung und Türstärke, denn laut Amazon variiert die Passform, und denk
-      daran: Es ist ein versteckter Ersatzschlüssel, kein Tresor.
+      Beim US-Schwestermodell 5420D nennt Master Lock einen Bügel von 1,9 bis
+      4,4 cm (3/4 bis 1-3/4 in); prüfe das Maß der EU-Version 5420EURD. Die Box
+      hängt ohne Werkzeug oder Bohren an der Klinke. Ob er an
+      deine Türgarnitur passt, prüfst du selbst: Miss vorher Dornmaß, Bohrung
+      und Türstärke, denn laut Amazon variiert die Passform. Es ist ein
+      versteckter Ersatzschlüssel, kein Tresor.
     pros:
       - Verstellbarer Bügel passt an Klinken ebenso wie an runde Knäufe
       - >-
@@ -476,18 +313,10 @@ products:
         width: 500
         height: 500
 sources:
-  - title: August Wi-Fi Smart Lock (August)
-    url: 'https://august.com/products/august-wifi-smart-lock'
   - title: SwitchBot Lock Pro (SwitchBot)
     url: 'https://www.switch-bot.com/products/switchbot-lock-pro'
   - title: SwitchBot Lock Pro review (Techlicious)
     url: 'https://techlicious.com/review/switchbot-lock-pro-review'
-  - title: Yale Approach Lock with Wi-Fi and Keypad Touch (Yale)
-    url: >-
-      https://shopyalehome.com/products/yale-approach-lock-with-wi-fi-and-keypad-touch
-  - title: Yale Approach Lock with Wi-Fi + Keypad review (PCWorld)
-    url: >-
-      https://www.pcworld.com/article/2331746/yale-approach-lock-with-wi-fi-keypad-review-this-is-easier.html
   - title: Master Lock 5400D Portable Lock Box (Master Lock)
     url: 'https://www.masterlock.com/products/product/5400D'
   - title: Master Lock 5420D Portable Lock Box (Master Lock)
@@ -497,44 +326,79 @@ sources:
   - title: Best lock for a rental property (Landlord Studio)
     url: >-
       https://www.landlordstudio.com/blog/whats-the-best-lock-for-a-rental-property
+  - title: SwitchBot Lock Pro im EU-Shop (SwitchBot EU)
+    url: 'https://eu.switch-bot.com/products/switchbot-lock-pro'
+  - title: Master Lock 5400EURD Select Access Schlüsselbox (Master Lock EU)
+    url: 'https://shop.masterlock.eu/products/5400eurd'
+  - title: Master Lock 5420EURD Select Access Schlüsselbox (Master Lock EU)
+    url: >-
+      https://www.masterlock.eu/products/select-access-gray-portable-key-safe/5420EURD
+  - title: 'Schlüsseldienste: So schützen Sie sich vor überzogen hohen Rechnungen (Verbraucherzentrale)'
+    url: >-
+      https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/abzocke/schluesseldienste-so-schuetzen-sie-sich-vor-ueberzogen-hohen-rechnungen-6687
+  - title: 'AK warnt vor Abzocke durch Schlüsseldienste (Arbeiterkammer, konsumentenfragen.at)'
+    url: >-
+      https://www.konsumentenfragen.at/konsumentenfragen/Rund_um_den_Vertrag/Rund_um_den_Vertrag/AK-warnt-vor-Abzocke-durch-Schluesseldienste-Tipps-fuer-Kon.html
+  - title: 'Schließanlage: Wer muss bei Schlüsselverlust zahlen? (Haufe)'
+    url: >-
+      https://www.haufe.de/immobilien/verwaltung/schliessanlage-wer-muss-bei-schluesselverlust-zahlen_258_522626.html
+  - title: 'Schlüssel der Mietwohnung verloren: richtiges Verhalten und Haftung (mietrecht.de)'
+    url: >-
+      https://www.mietrecht.de/blog/schluessel-mietwohnung-verloren-richtiges-verhalten-haftung-mieter/
+  - title: 'Verlust eines Wohnungsschlüssels, Schließanlage, Schadensersatz (Mieterverein Hamburg)'
+    url: >-
+      https://www.mieterverein-hamburg.de/mediathek/urteile/verlust-eines-wohnungsschluessels-schliessanlage-schadensersatz/
+  - title: 'Muss mein Vermieter den Schlüsseldienst zahlen? (r/Vermieten)'
+    url: >-
+      https://www.reddit.com/r/Vermieten/comments/1thwg39/muss_mein_vermieter_den_schl%C3%BCsseldienst_zahlen/
+  - title: 'Muss der Vermieter trotz Kleinreparaturklausel zahlen? (r/LegaladviceGerman)'
+    url: >-
+      https://www.reddit.com/r/LegaladviceGerman/comments/1drbmtt/muss_der_vermieter_trotz_kleinreparaturklausel/
+  - title: 'Schlüsselverlust in der Mietwohnung (r/LegaladviceGerman)'
+    url: >-
+      https://www.reddit.com/r/LegaladviceGerman/comments/1exkrar/schl%C3%BCsselverlust_in_mietwohnung_der_vermieter/
 reviewedDate: '2026-10-19'
 faqs:
   - q: 'Was mache ich zuerst, wenn ich aus der Wohnung ausgesperrt bin?'
     a: >-
       Prüfe andere Türen, die du gefahrlos erreichst, und ruf dann Mitbewohner,
       Partner oder Freunde an, die einen Ersatzschlüssel haben. Hat niemand
-      einen, ruf die Hausverwaltung an, außerhalb der Bürozeiten die
-      Notfallnummer, und erst danach einen Schlüsseldienst.
+      einen, ruf Vermieter oder Hausverwaltung an und erst danach einen
+      Schlüsseldienst.
   - q: 'Wen rufe ich an, wenn ich nachts oder am Wochenende ausgesperrt bin?'
     a: >-
-      Die meisten Häuser nennen eine Notfall- oder Bereitschaftsnummer im
-      Mietvertrag, an der Bürotür oder im Mieterportal. Ruf sie zuerst an, denn
-      die Verwaltung hat womöglich einen Generalschlüssel. Geht niemand ran, ist
-      der Schlüsseldienst die letzte Option, und du solltest Ausweis und einen
-      Wohnnachweis bereithalten.
-  - q: Darf mein Vermieter mir eine Gebühr fürs Aufsperren berechnen?
+      Zuerst die Notfallnummer deiner Hausverwaltung, falls es eine gibt. Geht
+      niemand ran, ist der Schlüsseldienst die letzte Option: Die
+      Verbraucherzentrale rät zu einem ortsansässigen Betrieb und einem vorab
+      vereinbarten Festpreis inklusive Anfahrt, denn Nacht- und
+      Wochenendzuschläge können den Preis erhöhen.
+  - q: Wer zahlt den Schlüsseldienst, ich oder der Vermieter?
     a: >-
-      Manche Mietverträge legen eine Gebühr fest, wenn ein Mieter hereingelassen
-      werden muss, vor allem außerhalb der Bürozeiten, und die Regeln sind je
-      nach Ort unterschiedlich. Schau in deinen Mietvertrag und frag deinen
-      Vermieter schriftlich, was gilt, bevor du es brauchst, damit es keine
-      Überraschungen gibt.
+      Hast du den Einsatz selbst verursacht, etwa durch einen verlorenen oder
+      abgebrochenen Schlüssel, zahlst du in der Regel selbst. War ein defektes, nicht
+      repariertes Schloss die Ursache, kann der Vermieter in der Pflicht stehen.
+      Das hängt vom Einzelfall ab; im Zweifel hilft der Mieterverein.
   - q: 'Braucht der Schlüsseldienst einen Nachweis, dass ich dort wohne?'
     a: >-
       Ein seriöser Schlüsseldienst verlangt einen Ausweis und etwas, das dich
-      mit der Adresse verbindet, etwa den Mietvertrag, eine Nebenkostenrechnung
-      oder Post. Speichere ein Foto der Mietvertragsseite und deines Ausweises
-      in der Cloud deines Handys, dann kannst du beides zeigen, auch wenn dein
-      Portemonnaie drinnen liegt.
+      mit der Adresse verbindet, etwa den Mietvertrag oder Post. Speichere ein
+      Foto der Mietvertragsseite und deines Ausweises in der Cloud, dann kannst
+      du beides zeigen, auch wenn dein Portemonnaie drinnen liegt.
   - q: >-
       Was passiert, wenn die Batterie im Smart Lock leer ist und ich draußen
       stehe?
     a: >-
       Nutze die Notlösung, die das Schloss mitbringt. Nachrüst-Schlösser wie das
-      August Wi-Fi Smart Lock behalten deinen normalen Schlüssel, und viele
-      Tastenfeld-Riegelschlösser haben unter dem Tastenfeld Kontakte für eine
+      SwitchBot Lock Pro behalten deinen normalen Schlüssel, und viele
+      Tastenfeld-Schlösser haben unter dem Tastenfeld Kontakte für eine
       9-Volt-Batterie; schau in die Anleitung. Gibt es keine Notlösung, ruf die
       Notfallnummer deines Vermieters an.
+  - q: Was muss ich tun, wenn ich den Wohnungsschlüssel verloren habe?
+    a: >-
+      Melde den Verlust sofort dem Vermieter oder der Hausverwaltung. Bei einer
+      Schließanlage müssen Mieter laut Mieterverein Hamburg nur bei Verschulden
+      und tatsächlicher Missbrauchsgefahr mit Schadensersatz rechnen, und der
+      Austausch kann nur verlangt werden, wenn er tatsächlich erfolgt ist.
   - q: >-
       Darf ich ohne Wissen des Vermieters einen Ersatzschlüssel nachmachen
       lassen?
@@ -550,177 +414,137 @@ heroAlt: >-
   RenterSmartHome Ratgeber
 ---
 
-Ausgesperrt sein fängt fast immer gleich an: Die Tür fällt hinter dir ins Schloss, deine Hand greift in eine leere Tasche, und im Treppenhaus wird es plötzlich sehr still. Ein Mieter auf r/legaladvice hat eine schlimmere Version beschrieben: Er stand um 2 Uhr nachts vor der Tür, weil das Smart Lock des Hauses ausgefallen war, und bekam danach die Rechnung für den Schlüsseldienst und das aufgebohrte Schloss. Wir haben diesen Ratgeber für beide Situationen geschrieben. Zuerst bekommst du sieben Schritte in der Reihenfolge, die dich am schnellsten und günstigsten wieder in deine Wohnung bringt. Danach geht es um Aussperren durch Smart Locks, um Gebühren und um die Ausrüstung ohne Bohren, die das nächste Mal verhindert.
+Die Tür fällt ins Schloss, der Schlüssel liegt drinnen. Hier findest du die Reihenfolge, die dich am schnellsten und günstigsten wieder hineinbringt, eine Checkliste gegen Abzocke beim Schlüsseldienst, die Antwort auf die Frage, wer zahlt, und die Ausrüstung ohne Bohren, die das nächste Mal verhindert.
 
 ## Aus der Wohnung ausgesperrt – was du jetzt sofort tun solltest
 
-**Wenn du aus der Wohnung ausgesperrt bist, geh diese sieben Schritte der Reihe nach durch: Die kostenlosen, schnellen Möglichkeiten kommen zuerst, der kostenpflichtige Schlüsseldienst ganz zum Schluss.** Die meisten Fälle sind bei Schritt 2 oder 3 erledigt.
+**Geh diese sieben Schritte der Reihe nach durch: Die kostenlosen, schnellen Wege kommen zuerst, der Schlüsseldienst ganz zum Schluss.** Die meisten Fälle sind bei Schritt 2 oder 3 erledigt.
 
-Diese Reihenfolge empfehlen wir, von Anfang bis Ende:
+1. **Gefahrlos andere Türen prüfen.** Eine Balkon- oder Terrassentür, die du vom Boden aus erreichst, ohne zu klettern. Erzwinge nichts.
+2. **Alle anrufen, die einen Ersatzschlüssel haben.** Mitbewohner, Partner, Nachbarn oder Freunde in der Nähe sind der schnellste Weg hinein.
+3. **Vermieter, Hausverwaltung oder Hausmeister anrufen.** Frag, ob dort ein Schlüssel liegt. Rechne mit einer Ausweiskontrolle, bevor jemand öffnet; sie schützt dich.
+4. **Nachts oder am Wochenende die Notfallnummer der Hausverwaltung wählen**, falls es eine gibt. Sie steht oft im Mietvertrag oder im Aushang im Treppenhaus.
+5. **Smart Lock? Nutze die Notlösung.** Normaler Schlüssel, Code am Tastenfeld, Entriegeln über die App eines Mitbewohners oder die 9-Volt-Kontakte, falls dein Tastenfeld-Schloss welche hat.
+6. **Erst dann den Schlüsseldienst, mit Festpreis.** Ortsansässiger Betrieb, verbindlicher Festpreis inklusive Anfahrt und Zuschlägen, beauftragt wird nur die Türöffnung (Details unten).
+7. **Danach alles schriftlich festhalten.** Schreib deinem Vermieter per E-Mail, was passiert ist, heb Rechnung und Anrufliste auf und melde einen verlorenen Schlüssel sofort.
 
-1. **Kurz durchatmen und gefahrlos andere Türen prüfen.** Probier eine Terrassentür oder einen Hintereingang, den du vom Boden aus erreichst. Erzwinge nichts.
-2. **Ruf alle an, die einen Ersatzschlüssel haben.** Mitbewohner, Partner, Tiersitter oder ein Freund in der Nähe sind der schnellste Weg hinein.
-3. **Ruf die Hausverwaltung oder deinen Vermieter an.** Während der Bürozeiten kann dich das Personal oft nach einer Ausweiskontrolle mit dem Generalschlüssel hereinlassen.
-4. **Außerhalb der Bürozeiten die Notfallnummer anrufen.** Sie steht meist im Mietvertrag, an der Bürotür oder im Mieterportal.
-5. **Smart Lock? Nutze die Notlösung.** Probier deinen normalen Schlüssel, einen Code am Tastenfeld, das Entriegeln aus der Ferne über die App eines Mitbewohners oder die 9-Volt-Kontakte, falls dein Tastenfeld-Schloss welche hat.
-6. **Ruf als letzte Option einen zugelassenen Schlüsseldienst.** Lass dir am Telefon einen Komplettpreis nennen und halte Ausweis und Wohnnachweis bereit.
-7. **Halte alles schriftlich fest, sobald du drin bist.** Schreib deinem Vermieter per SMS oder E-Mail, was passiert ist, frag nach einer möglichen Gebühr und richte einen Ersatzschlüssel ein, damit es nicht wieder passiert.
+### Warum du nicht über Balkon oder Fenster einsteigen solltest
 
-### Ruhig bleiben und Türen und Fenster gefahrlos prüfen
+Klettern ist der eine Schritt, von dem wir immer abraten. Dabei wird aus einem harmlosen Aussperren schnell eine Verletzung, und ein Nachbar ruft womöglich zu Recht die Polizei, wenn jemand durchs Fenster steigt. Wege, das Schloss selbst zu überwinden, beschreiben wir nicht: Sie können das Schloss ruinieren, und es gehört deinem Vermieter.
 
-Ausgesperrt zu sein fühlt sich dringend an, aber du musst selten hetzen. Schau nur dann nach einem offenen Fenster oder einer offenen Schiebetür, wenn du sie vom Boden aus erreichst, ohne zu klettern. Wenn es in deinem Haus einen Pförtner, einen Empfang oder einen Hausmeister gibt, frag dort, bevor du irgendwen sonst anrufst.
+## Zuerst Ersatzschlüssel, Vermieter oder Hausverwaltung
 
-### Warum sich der Weg über die Feuertreppe nicht lohnt
+**Der günstigste Weg zurück ist ein vorhandener Schlüssel: beim Mitbewohner, bei Freunden in der Nähe oder beim Vermieter.** Ein Mitbewohner hat ohnehin einen, da reicht oft eine Nachricht, und das Aussperren ist in Minuten vorbei.
 
-**Über die Feuertreppe oder durchs Fenster im Erdgeschoss einzusteigen ist genau das, wovon wir unseren Lesern immer abraten.** Beim Klettern wird aus einem harmlosen Aussperren schnell eine Verletzung. Ein Nachbar ruft außerdem womöglich zu Recht die Polizei, wenn jemand durchs Fenster steigt. Beschädigte Fliegengitter oder Rahmen können von deiner Kaution abgehen. Wege, das Schloss selbst zu überwinden, beschreiben wir ebenfalls nicht: Sie können das Schloss ruinieren, und diese Hardware gehört deinem Vermieter.
+Ruf Vermieter oder Hausverwaltung an, statt eine E-Mail zu schreiben. Landest du auf der Mailbox, hinterlass Namen, Adresse mit Wohnungsnummer und eine Rückrufnummer und schick zusätzlich eine Nachricht.
 
-## Zuerst Hausverwaltung oder Vermieter anrufen
+Frag am besten jetzt, solange du nicht im Treppenhaus stehst, ob deine Hausverwaltung eine Notfallnummer hat und ob ein Aussperren dort als Notfall gilt. Speichere die Nummer noch heute im Handy und leg sie in einer Notiz ab, die ein Familienmitglied lesen kann.
 
-**Die Hausverwaltung ist der günstigste Weg zurück in die Wohnung, weil das Haus meist einen Generalschlüssel hat.** Ein Generalschlüssel ist der Schlüssel, den die Verwaltung für Reparaturen und Notfälle aufbewahrt. Rechne mit einer Ausweiskontrolle, denn das Personal braucht einen Nachweis, dass du dort wohnst, bevor es eine Tür öffnet.
+## Schlüsseldienst rufen, ohne abgezockt zu werden
 
-Ruf zuerst die Nummer der Hausverwaltung an, statt eine E-Mail zu schreiben. Landest du auf der Mailbox, hinterlass deinen Namen, deine Wohnungsnummer und eine Rückrufnummer und schreib zusätzlich eine Nachricht, wenn die Verwaltung das anbietet.
+**Ruf den Schlüsseldienst erst, wenn kein Schlüssel greifbar ist, und vereinbare am Telefon einen verbindlichen Festpreis, bevor jemand losfährt.** Die [Verbraucherzentrale](https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/abzocke/schluesseldienste-so-schuetzen-sie-sich-vor-ueberzogen-hohen-rechnungen-6687) nennt für einfache Türöffnungen Rechnungen im drei- bis vierstelligen Bereich. Ihre Ratschläge, ergänzt um unsere Fragen aus dem Original:
 
-### Nachts oder am Wochenende ausgesperrt
+- **Ortsansässig wählen:** Prüf im Impressum, ob der Betrieb eine Adresse vor Ort hat, und vergleich Preise, wenn du die Zeit hast.
+- **Festpreis vorab:** verbindlich, inklusive Anfahrt und aller Zuschläge. Nacht- und Wochenendzuschläge können den Preis erhöhen.
+- **Genau schildern:** Ist die Tür nur zugefallen oder abgeschlossen? Das entscheidet über den Aufwand.
+- **Nur die Türöffnung beauftragen:** Ein Austausch des ganzen Schlosses ist laut Verbraucherzentrale in den meisten Fällen nicht nötig. Frag, ob zuerst zerstörungsfrei geöffnet wird.
+- **Ausweis und Wohnnachweis bereithalten:** Ein seriöser Dienst fragt danach, bevor er öffnet. Ein Foto von Mietvertrag und Ausweis in der Cloud hilft, wenn das Portemonnaie drinnen liegt.
+- **Nur zahlen, was vereinbart war:** Rechnung vor der Unterschrift prüfen. Wirst du unter Druck gesetzt oder genötigt, ruf die Polizei über 110.
 
-Genau für ein Aussperren außerhalb der Bürozeiten gibt es die Notfallnummer. Manche Häuser behandeln ein Aussperren als Notfall, andere nicht. Frag deshalb jetzt nach, solange du nicht im Flur stehst. Speichere die Notfallnummer noch heute in deinem Handy und leg eine Kopie in einer Notiz ab, die ein Familienmitglied lesen kann.
+Laut Verbraucherzentrale hat der Bundesgerichtshof im Januar 2020 (Az. 1 StR 113/19) bestätigt, dass Schlüsselnotdienste, die die Notsituation von Verbraucher:innen ausnutzen, um weit überzogene Rechnungsbeträge zu fordern, Wucher betreiben. In Österreich warnt die [Arbeiterkammer](https://www.konsumentenfragen.at/konsumentenfragen/Rund_um_den_Vertrag/Rund_um_den_Vertrag/AK-warnt-vor-Abzocke-durch-Schluesseldienste-Tipps-fuer-Kon.html) ebenso vor Abzocke und rät, lokale Anbieter vorab zu recherchieren. Unser Tipp: Such dir heute einen Betrieb in deiner Nähe heraus und speichere die Nummer. Das ist allgemeine Information, keine Rechtsberatung.
 
-### Mitbewohner, Partner oder Tiersitter mit Schlüssel
+## Wer zahlt den Schlüsseldienst – du oder der Vermieter?
 
-Ein Ersatzschlüssel bei jemandem, der in der Nähe wohnt, ist die beste einzelne Lösung gegen das Aussperren. Wähl einen vertrauenswürdigen Freund, der nur eine kurze Fahrt entfernt wohnt, oder einen Nachbarn, dem du vertraust. Ein Mitbewohner hat ohnehin einen Schlüssel, da reicht oft eine Nachricht, und das Aussperren ist in Minuten vorbei.
+**Hast du den Einsatz selbst verursacht (Schlüssel verloren, abgebrochen), zahlst du in der Regel selbst; war ein defektes, nicht repariertes Schloss die Ursache, kann der Vermieter in der Pflicht stehen.** So fasst es [Haufe](https://www.haufe.de/immobilien/verwaltung/schliessanlage-wer-muss-bei-schluesselverlust-zahlen_258_522626.html) mit Verweis auf Haus & Grund zusammen. Entscheidend ist der Einzelfall.
 
-### Frag deinen Vermieter: Gibt es eine Gebühr fürs Aufsperren? (Mietvertrag prüfen)
+Die Frage taucht in deutschen Foren immer wieder auf. Auf r/Vermieten schreibt ein Mieter: ["Ich musste in letzter Instanz den Schlüsseldienst rufen, welcher mir eine Rechnung von […] ausgestellt hat."](https://www.reddit.com/r/Vermieten/comments/1thwg39/muss_mein_vermieter_den_schl%C3%BCsseldienst_zahlen/) Was in jedem Fall hilft: Festpreis vorab, Rechnung prüfen, den Vermieter sofort informieren und schriftlich nachfragen, wie er den Fall sieht.
 
-**Eine Gebühr fürs Aufsperren ist ein Betrag, den manche Mietverträge festlegen, wenn ein Mieter hereingelassen werden muss, und Höhe und Regeln unterscheiden sich.** Wir können dir nicht sagen, was dein Vermieter berechnen darf, denn das hängt von deinem Mietvertrag und den Regeln vor Ort ab. Such im Mietvertrag nach der entsprechenden Klausel, die oft auch Schlüsselkopien und Schlosswechsel regelt. Frag dann deinen Vermieter schriftlich, damit du die Antwort schwarz auf weiß hast, bevor du um 2 Uhr nachts anrufen musst.
+### Wenn sich der Schlüssel nicht mehr dreht
 
-## Wann du den Schlüsseldienst rufst (und wie du nicht zu viel zahlst)
+Ein Mieter auf r/LegaladviceGerman beschreibt genau diesen Fall: ["Vor ein paar Monaten musste ich einen Schlüsseldienst rufen, weil ich nicht mehr in meine Wohnung konnte, weil der Schlüssel sich nicht drehen ließ."](https://www.reddit.com/r/LegaladviceGerman/comments/1drbmtt/muss_der_vermieter_trotz_kleinreparaturklausel/) Bei einem defekten Schloss, das nicht repariert wurde, kann laut Haufe der Vermieter in der Pflicht stehen. Melde den Defekt deshalb noch am selben Tag schriftlich, mit Fotos und Rechnung. So etwas funktioniert:
 
-**Ruf einen Schlüsseldienst erst, wenn der Weg über den Vermieter gescheitert ist, und lass dir einen Komplettpreis nennen, bevor jemand losfährt.** Der Schlüsseldienst ist die letzte Option, weil er Geld kostet und ein beschädigtes Schloss bedeuten kann, das du womöglich bezahlen musst.
-
-### Fragen, bevor jemand losfährt
-
-Bevor du eine Adresse nennst, stell am Telefon diese Fragen:
-
-- Wie heißt der Betrieb, und wo ist die Adresse vor Ort?
-- Wie hoch ist der Gesamtpreis vorab, inklusive Anfahrt und Zuschlägen außerhalb der Geschäftszeiten?
-- Falls Schlüsseldienste dort, wo du wohnst, eine Zulassung brauchen: Wie lautet die Zulassungsnummer? Ist der Betrieb zugelassen und versichert?
-- Wird zuerst versucht, die Tür zerstörungsfrei zu öffnen, und wann würde gebohrt?
-- Welchen Ausweis und welchen Wohnnachweis braucht der Schlüsseldienst? (Mietvertrag, Nebenkostenrechnung oder ein Ausweis mit deiner Adresse.)
-
-Ein guter Schlüsseldienst verlangt einen Ausweis, bevor er irgendetwas öffnet. Diese Kontrolle schützt dich, also begrüße sie. Speichere ein Foto von Mietvertrag und Ausweis in einem Cloud-Speicher, den du von jedem Handy aus öffnen kannst.
-
-### Was du deinem Vermieter schreibst, wenn das Schloss beschädigt wurde
-
-Muss der Schlüsseldienst bohren, ist der Zylinder des Vermieters hinüber, und dein Vermieter muss es noch am selben Tag erfahren. So etwas funktioniert:
-
-> Betreff: Ausgesperrt und Türschloss beschädigt, Wohnung [Nr.]
+> Betreff: Defektes Türschloss und Schlüsseldienst, [Adresse, Wohnung Nr.]
 >
-> Hallo [Name], wir haben uns heute gegen [Uhrzeit] aus Wohnung [Nr.] ausgesperrt. Wir haben um [Uhrzeit] die Notfallnummer angerufen und niemanden erreicht, deshalb haben wir einen Schlüsseldienst gerufen, der das Schloss aufbohren musste. Die Quittung liegt uns vor. Könnten Sie uns schriftlich mitteilen, wie das Schloss ersetzt werden soll und ob wir laut Mietvertrag für die Kosten aufkommen müssen? Danke, [Dein Name]
+> Hallo [Name], am [Datum] gegen [Uhrzeit] ließ sich mein Schlüssel im Wohnungsschloss nicht mehr drehen, und ich kam nicht in die Wohnung. Ich habe um [Uhrzeit] Sie bzw. die Notfallnummer angerufen und niemanden erreicht, deshalb habe ich einen Schlüsseldienst gerufen, der nur die Tür geöffnet hat. Fotos und Rechnung hänge ich an. Bitte teilen Sie mir schriftlich mit, wie das Schloss repariert wird und wer die Kosten trägt. Danke, [Dein Name]
+
+### Schlüssel verloren: sofort melden, Sonderfall Schließanlage
+
+Einen verlorenen Schlüssel musst du dem Vermieter oder der Hausverwaltung sofort melden ([mietrecht.de](https://www.mietrecht.de/blog/schluessel-mietwohnung-verloren-richtiges-verhalten-haftung-mieter/)). Heikel wird es bei einer Schließanlage. Der [Mieterverein Hamburg](https://www.mieterverein-hamburg.de/mediathek/urteile/verlust-eines-wohnungsschluessels-schliessanlage-schadensersatz/) fasst die BGH-Rechtsprechung so zusammen: Mieter müssen mit Schadensersatz rechnen, aber nur bei Verschulden und tatsächlicher Missbrauchsgefahr, und der Austausch der Schließanlage kann nur verlangt werden, wenn er tatsächlich erfolgt ist.
+
+Genau darüber wird gestritten, etwa auf r/LegaladviceGerman: ["Der Vermieter will den Türzylinder austauschen, wobei keine Missbrauchsgefahr bestehet."](https://www.reddit.com/r/LegaladviceGerman/comments/1exkrar/schl%C3%BCsselverlust_in_mietwohnung_der_vermieter/) In so einem Fall frag beim örtlichen Mieterverein oder in der Beratung des Deutschen Mieterbunds (DMB) nach, bevor du zahlst. Auch das ist allgemeine Information, keine Rechtsberatung.
 
 ## Ausgesperrt wegen Smart Lock, leerer Batterie oder App-Fehler
 
-**Ein Aussperren durch ein Smart Lock hat fast immer einen von drei Gründen: leere Batterien, eine abgebrochene App-Verbindung oder ein Schloss ohne normalen Schlüssel.** Hier ist jeder Grund mit seiner Lösung.
+**Ein Aussperren durch ein Smart Lock hat fast immer einen von drei Gründen: leere Batterien, eine abgebrochene Verbindung oder ein Schloss ohne normalen Schlüssel.**
 
 ### Leere Batterien und die 9-Volt-Notkontakte
 
-Leere Batterien sind ein Dauerthema in Threads auf r/ApartmentMaintenance, r/legaladvice und r/Locksmith. Ein Hausmeister auf r/ApartmentMaintenance hat es unverblümt formuliert: ["Wenn die Batterien leer sind, ist der Bewohner ausgesperrt, bis ein Techniker kommt."](https://www.reddit.com/r/ApartmentMaintenance/comments/1p38soy/these_door_locks_requires_batteries_when_the/) Die Lösung ist einfach, braucht aber eine Gewohnheit: Wechsle die Batterien bei der ersten Warnung, nicht bei der letzten. Viele Tastenfeld-Riegelschlösser haben außerdem unter dem Tastenfeld zwei Kontakte für eine 9-Volt-Batterie, die das Schloss von außen lange genug mit Strom versorgen, um einen Code einzugeben; schau in der Anleitung nach, ob deins das hat. Nachrüst-Schlösser umgehen das Problem anders: Der normale Schlüssel funktioniert weiterhin.
+Ein Hausmeister auf r/ApartmentMaintenance formuliert es unverblümt (von uns aus dem Englischen übersetzt): ["Wenn die Batterien leer sind, ist der Bewohner ausgesperrt, bis ein Techniker kommt."](https://www.reddit.com/r/ApartmentMaintenance/comments/1p38soy/these_door_locks_requires_batteries_when_the/) Die Lösung ist eine Gewohnheit: Batterien bei der ersten Warnung wechseln, nicht bei der letzten. Viele Tastenfeld-Schlösser haben unter dem Tastenfeld zwei Kontakte für eine 9-Volt-Batterie, die das Schloss von außen lange genug versorgen, um einen Code einzugeben; schau in der Anleitung nach, ob deins das hat. Nachrüst-Schlösser umgehen das Problem anders: Der normale Schlüssel funktioniert weiter.
 
 ### App, Bluetooth oder WLAN reagieren nicht
 
-Abbrüche von App und WLAN sind ein häufiges Thema in Hilfeseiten zu Smart Locks. Das Entriegeln aus der Ferne klappt nur, solange Schloss, Router und App miteinander sprechen. Die Fehlerbehebung eines Herstellers für WLAN-Schlösser rät: ["Starte deinen Router neu, warte 60 Sekunden und prüfe dann, ob sich das Schloss automatisch wieder verbindet."](https://iveise.com/blogs/how-to/smart-lock-not-working-10-common-problems-and-how-to-fix-them) Das hilft dir nicht, wenn du draußen stehst. Betrachte Bluetooth, WLAN und App deshalb als Komfort und halte einen zweiten Weg hinein bereit: einen Schlüssel, einen Code am Tastenfeld oder einen Ersatzschlüssel bei einem Freund.
-
-### Wer zahlt den Schlüsseldienst? Mietvertrag prüfen und den Vermieter schriftlich fragen
-
-Rechnungen nach einem ausgefallenen Smart Lock sind ein wiederkehrender Streitpunkt in Threads auf r/chicago, r/legaladvice und r/Locksmith. Der Mieter auf r/legaladvice, der um 2 Uhr nachts ausgesperrt war, sollte ["jetzt für Schlüsseldienst + aufgebohrtes Schloss zahlen."](https://www.reddit.com/r/legaladvice/comments/1pa2zkl/locked_out_at_2_am_due_to_failed_smart_lock/) Wir können dir nicht sagen, wer haftet, denn das hängt von deinem Mietvertrag und den Regeln vor Ort ab. Was in jedem Fall hilft: Ruf die Notfallnummer des Vermieters an, bevor du den Schlüsseldienst rufst, bewahre Anrufliste und Quittung auf und frag schriftlich nach, wie mit dem Ausfall des Schlosses umgegangen wird. Ein Mieterverein oder eine Rechtsberatung vor Ort kann dir sagen, wo du stehst.
+Das Entriegeln aus der Ferne klappt nur, solange Schloss, Router und App miteinander sprechen. Die Fehlerbehebung eines Herstellers für WLAN-Schlösser rät (von uns übersetzt): ["Starte deinen Router neu, warte 60 Sekunden und prüfe dann, ob sich das Schloss automatisch wieder verbindet."](https://iveise.com/blogs/how-to/smart-lock-not-working-10-common-problems-and-how-to-fix-them) Vor der Tür hilft dir das nicht. Betrachte App und WLAN deshalb als Komfort und halte einen zweiten Weg hinein bereit: Schlüssel, Code am Tastenfeld oder Ersatzschlüssel bei einem Freund.
 
 ### Der Vermieter hat ein Smart Lock ohne normalen Schlüssel eingebaut
 
-Vermieter, die reine App-Schlösser ohne Schlüssel einbauen, tauchen immer wieder in Threads auf r/NYCapartments, r/jerseycity und r/legaladvice auf. Ein Mieter aus New York verwies auf das ["New Yorker Local Law 63, das es Vermietern offenbar verbietet, von Mietern die Nutzung smarter Zugangssysteme zum Betreten ihrer Wohnung zu verlangen."](https://www.reddit.com/r/legaladvice/comments/1vuhqbh/my_apartment_building_has_smart_locks_used/) Das ist eine Regel aus New York; wir sind keine Juristen, also prüf die Regeln dort, wo du wohnst. Bitte deinen Vermieter dann schriftlich um einen normalen Schlüssel oder einen schriftlichen Notfallplan und um eine Nummer, die rund um die Uhr erreichbar ist, wenn das Schloss ausfällt.
-
-## Typische Probleme von Besitzern und die Lösung
-
-**Der meiste Ärger in Besitzer-Threads geht auf fünf Probleme zurück, und für jedes gibt es eine Lösung, die du an einem Nachmittag einrichtest.** Die Tabelle fasst jedes Problem zusammen, warum es passiert und was du tun kannst.
-
-| Problem | Warum es passiert | Lösung |
-|---|---|---|
-| Batterie im Smart Lock ist leer | Batteriewarnungen ignoriert | Bei der ersten Warnung tauschen; Schlüssel dabeihaben; 9-Volt-Kontakte kennen |
-| Rechnung für Schlüsseldienst und aufgebohrtes Schloss | Keine schriftliche Regelung fürs Aussperren | Klausel im Mietvertrag lesen; Vermieter jetzt schriftlich fragen |
-| Reines App-Schloss, kein Schlüssel | Vom Vermieter eingebautes Smart Lock | Schriftlich um Schlüssel oder Notfallplan bitten; Regeln vor Ort prüfen |
-| Angst vor einem Verstoß gegen den Mietvertrag | Austausch des Außenzylinders | Ein Nachrüst-Schloss nutzen, das die Außenseite in Ruhe lässt |
-| Entriegeln aus der Ferne klappt nicht | WLAN oder Bluetooth bricht ab | Schlüssel oder Tastenfeld-Code als zweiten Weg hinein behalten |
+Bitte deinen Vermieter schriftlich um einen normalen Schlüssel oder einen schriftlichen Notfallplan mit einer Nummer, die rund um die Uhr erreichbar ist. Fällt das Schloss aus, ruf zuerst diese Nummer an, bevor du den Schlüsseldienst rufst, und heb Anrufliste und Rechnung auf. Ob dir der Vermieter einen Schlüssel schuldet, kann dir ein Mieterverein sagen; wir sind keine Juristen.
 
 ## So sperrst du dich nicht wieder aus
 
-**Der Weg gegen das nächste Aussperren ist, die einzige Schwachstelle zu beseitigen: ein Schlüssel in einer Tasche.** Dazu kommen eine Gewohnheit, ein Ersatzschlüssel und, wenn dein Vermieter zustimmt, schlüsselloser Zugang.
+**Gegen das nächste Aussperren hilft, die einzige Schwachstelle zu beseitigen: ein Schlüssel in einer Tasche.** Dazu kommen eine Gewohnheit, ein Ersatzschlüssel und, wenn dein Vermieter zustimmt, schlüsselloser Zugang.
 
-### Eine feste Routine beim Gehen und ein Ersatzschlüssel bei Freunden in der Nähe
+Wir mögen eine Drei-Griffe-Routine an der Tür: Handy, Schlüssel, Portemonnaie, alle drei kurz berührt, bevor die Tür zufällt. Auto-Lock ist eine häufige Ursache fürs Aussperren, weil das Schloss verriegelt, sobald die Tür zugeht; stell eine längere Verzögerung ein oder kombiniere es mit einem Tastenfeld. Gib außerdem einem vertrauenswürdigen Freund in der Nähe einen Ersatzschlüssel.
 
-Wir mögen eine Drei-Griffe-Routine an der Tür: Handy, Schlüssel, Portemonnaie, alle drei kurz berührt, bevor die Tür zufällt. Auto-Lock ist eine häufige Ursache für Aussperren, weil das Schloss in dem Moment wieder verriegelt, in dem die Tür zugeht. Hat dein Schloss Auto-Lock, stell eine längere Verzögerung ein oder kombiniere es mit einem Tastenfeld. Gib dann einen zusätzlichen Schlüssel einem vertrauenswürdigen Freund, der in der Nähe wohnt.
+**Schlüsselkopien:** Manche Mietverträge verbieten das Nachmachen oder verlangen eine schriftliche Erlaubnis, und manche Schlüssel tragen den Vermerk, dass sie nicht kopiert werden dürfen. Frag deinen Vermieter schriftlich, bevor du einen nachmachen lässt, und notier dir, wer welche Kopie hat. Beim Auszug gehen alle zurück, und eine verlorene Kopie meldest du wie oben beschrieben.
 
-### Was der Mietvertrag zu Schlüsselkopien sagt
+**Schlüsseltresor:** Er bewahrt einen Ersatzschlüssel hinter einem Code an der Tür auf und braucht keinen Strom. Aber er schreckt nur ab und ist kein Tresor, und wer den Code kennt, kommt an deinen Schlüssel. Prüf Mietvertrag und Hausordnung, bevor du einen im Treppenhaus aufhängst.
 
-Manche Mietverträge verbieten das Nachmachen von Schlüsseln oder verlangen eine schriftliche Erlaubnis, und manche Schlüssel tragen den Vermerk, dass sie nicht kopiert werden dürfen. Frag deinen Vermieter schriftlich, bevor du einen Ersatzschlüssel nachmachen lässt. Notier dir, wer welche Kopie hat, denn beim Auszug musst du jede einzelne zurückgeben. Geht eine Kopie verloren, lässt dein Vermieter womöglich das Schloss umrüsten, und der Mietvertrag regelt eventuell, wer zahlt.
+> **Aus unseren Notizen:** Wir haben diese Produkte nicht getestet. In den Besitzer-Threads und Bewertungen, die wir gelesen haben, hatten die Nachrüst-Schlösser, bei denen der Originalschlüssel in der Tür blieb, eine Notlösung, wenn die Batterien schwach wurden. Bei den Schlüsseltresoren ging es um eine andere Sorge: Ein Rezensent bei Home Depot beschrieb, wie ein Einbrecher einen aufbrach. Und die wütendsten Threads drehten sich gar nicht um Hardware. Sie kamen von Mietern, die eine Rechnung vom Schlüsseldienst bekamen, ohne dass geklärt war, wer zahlt. Deshalb steht in diesem Ratgeber die schriftliche Nachricht an den Vermieter direkt neben den Produkten.
 
-### Schlüsseltresor oder Schlüsselbox
+## Die besten schlüssellosen Lösungen für Mieter (ohne Bohren, Zylinder bleibt)
 
-Ein Schlüsseltresor (Schlüsselbox) bewahrt einen Ersatzschlüssel in der Nähe der Tür hinter einem Code auf. Er braucht keinen Strom und kann dich deshalb nicht im Stich lassen. Aber er schreckt nur ab und ist kein Tresor, und wer den Code kennt, kommt an deinen Schlüssel. Prüf Mietvertrag und Hausordnung, bevor du einen in einem gemeinsamen Flur aufhängst.
-
-> **Aus unseren Notizen:** Wir haben diese Produkte nicht getestet. In den Besitzer-Threads und Bewertungen, die wir gelesen haben, hatten die Nachrüst-Schlösser, bei denen der Originalschlüssel in der Tür blieb, eine Notlösung, wenn die Batterien schwach wurden. Bei den Schlüsseltresoren ging es um eine andere Sorge: Ein Rezensent bei Home Depot beschrieb, wie ein Einbrecher einen aufbrach. Und die wütendsten Threads drehten sich gar nicht um Hardware. Sie kamen von Mietern, die nach dem Ausfall eines vom Vermieter eingebauten Schlosses eine Rechnung vom Schlüsseldienst bekamen, ohne dass schriftlich geregelt war, wer zahlt. Deshalb steht in diesem Ratgeber die schriftliche Nachricht an den Vermieter direkt neben den Produkten.
-
-## Die besten schlüssellosen Lösungen für Mieter (ohne Bohren, Originalschlüssel bleibt)
-
-**Die beste schlüssellose Lösung für Mieter behält den Außenzylinder und den Schlüssel des Vermieters, sodass ein Smart Lock einen Weg hinein hinzufügt, ohne einen wegzunehmen.** Ein Nachrüst-Smart-Lock ersetzt nur den Drehknauf auf der Innenseite. Ein Tastenfeld-Riegelschloss ersetzt das komplette Schloss und braucht die Zustimmung des Vermieters. Einen ausführlicheren Vergleich findest du in unserem Ratgeber zu [Smart Locks für Mieter, die dein Schloss behalten](/de/blog/beste-smart-locks-fuer-mieter/), oder stöbere in der [Smart-Lock-Übersicht](/category/smart-locks/).
-
-### August Wi-Fi Smart Lock (4th Gen): Nachrüstung mit Entriegeln aus der Ferne
-
-Für Mieter, die ihre Schlüssel immer wieder drinnen liegen lassen, ist das [August Wi-Fi Smart Lock (4th Gen)](amzn:August+Wi-Fi+Smart+Lock+4th+Gen) die einfachste Wahl. Es wird mit einem Schraubendreher innen über die meisten einseitigen Riegelschlösser geklemmt, und das Schlüsselloch außen bleibt, wie es ist. Der Schlüssel deines Vermieters und deiner funktionieren also weiter. Dank eingebautem WLAN kann ein Mitbewohner die Tür ohne separate Bridge aus der Ferne per App öffnen. Auto-Lock und der DoorSense-Sensor übernehmen das Wiederverriegeln, und Auto-Unlock kann aufschließen, wenn du ankommst. Besitzer auf Slickdeals loben vor allem die Notlösung: Einer betont, dass der normale Schlüssel weiter funktioniert, wenn die Batterien komplett leer sind. Sie erwähnen auch, dass es vorher reichlich Batteriewarnungen gibt. Die größte Beschwerde betrifft die Batterielaufzeit. August gibt auf seiner Seite bis zu 3 Monate mit zwei CR123-Zellen an, und Besitzer auf Slickdeals berichten von Wechseln alle 3 bis 7 Monate. Bewertungszusammenfassungen nennen außerdem gelegentliche WLAN-Abbrüche. Das Tastenfeld für Codes ohne Handy kostet extra, plane es also ein, wenn du oft ohne Handy aus dem Haus gehst.
+**Die beste Lösung für Mieter lässt den Profilzylinder und den Schlüssel des Vermieters, wie sie sind, und fügt einen Weg hinein hinzu, ohne einen wegzunehmen.** Die meisten Mietwohnungstüren hier haben einen Euro-Profilzylinder, auf den die US-Nachrüstschlösser für amerikanische Riegelschlösser nicht passen. Deshalb bleiben in diesem Ratgeber ein Smart Lock, das du über den SwitchBot-EU-Shop wählst, und zwei Schlüsseltresore in der EU-Version. Einen ausführlicheren Vergleich findest du in unserem Ratgeber zu [Smart Locks für Mieter, die dein Schloss behalten](/de/blog/beste-smart-locks-fuer-mieter/), oder stöbere in der [Smart-Lock-Übersicht](/category/smart-locks/).
 
 ### SwitchBot Lock Pro: Schloss behalten, Fingerabdruck dazu
 
-Das [SwitchBot Lock Pro](amzn:SwitchBot+Lock+Pro) geht sanfter vor: Ein Batteriemotor sitzt über deinem vorhandenen Drehknauf und dreht ihn für dich. Es wird auf Halterungen montiert, und Techlicious stellte fest, dass es keine dauerhaften Änderungen an der Tür braucht und sich spurlos wieder abnehmen ließ. Mit dem separaten Keypad Touch kommst du per Fingerabdruck, Code oder NFC-Karte ohne Handy hinein. Beim Thema Aussperren sticht Low Battery Unlock heraus, das laut Techlicious das Schloss auch nach der Warnung in Betrieb hält. SwitchBot gibt für vier AA-Batterien 6 bis 9 Monate an. Rezensenten loben auch das Tempo; NotEnoughTech fand das Entriegeln etwa so schnell wie mit einem Schlüssel. Die Schwächen sind Passform und Zubehör. Ein Trustpilot-Rezensent wünschte sich eine bessere Anpassung an verschiedene Türen, und NotEnoughTech fand den Magnetsensor an manchen Türen schwer zu platzieren. Fürs Entriegeln aus der Ferne brauchst du einen SwitchBot Hub, der separat verkauft wird. Prüfe vor dem Kauf die Kompatibilitätsliste auf der [Seite zum SwitchBot Lock Pro](https://www.switch-bot.com/products/switchbot-lock-pro).
+Das [SwitchBot Lock Pro](amzn:B0F9FQ7NT3) ist ein Batteriemotor, der innen über deinem Zylinder sitzt und den innen steckenden Schlüssel oder den Knauf für dich dreht. Wähle die Version aus dem [SwitchBot-EU-Shop](https://eu.switch-bot.com/products/switchbot-lock-pro): SwitchBot beschreibt sie dort als passend für europäische Wohnungen, mit Montageanleitungen für Euro-Zylinder mit Schlüssel und mit Knauf und einem EU-Kompatibilitätscheck. Den machst du vor dem Kauf, denn ob es passt, hängt von deinem Zylinder ab. Montiert wird auf Halterungen, und Techlicious stellte fest, dass es keine dauerhaften Änderungen an der Tür braucht und sich spurlos abnehmen ließ. Mit dem separaten Keypad Touch kommst du per Fingerabdruck, Code oder NFC-Karte ohne Handy hinein. Beim Thema Aussperren sticht Low Battery Unlock heraus, das laut Techlicious das Schloss auch nach der Warnung in Betrieb hält. SwitchBot gibt für vier AA-Batterien 6 bis 9 Monate an, und NotEnoughTech fand das Entriegeln etwa so schnell wie mit einem Schlüssel. Die Schwächen sind Passform und Zubehör: Ein Trustpilot-Rezensent wünschte sich eine bessere Anpassung an verschiedene Türen, NotEnoughTech fand den Magnetsensor an manchen Türen schwer zu platzieren, und fürs Entriegeln aus der Ferne brauchst du einen separat verkauften SwitchBot Hub.
 
-### Yale Approach Lock with Wi-Fi and Keypad Touch: Tastenfeld-Set in einer Packung
+### Master Lock Portable Key Lock Box 5400EC: Ersatzschlüssel am Knauf
 
-Wenn du alles in einer Packung willst, kommt das [Yale Approach Lock with Wi-Fi and Keypad Touch](amzn:Yale+Approach+Lock+Deadbolt+Wi-Fi+Keypad+B-YRR110-F-WF1-N-BSP) mit Schloss, Fingerabdruck-Tastenfeld und WLAN-Bridge. Das Schloss sitzt innen an deinem vorhandenen Riegelschloss, und der Schlüssel funktioniert weiter. Das nach IPX5 geschützte Tastenfeld hält per Klebepad oder Schrauben, so kann es bohrfrei bleiben. Ein Besitzer auf Slickdeals nennt es nach rund einem Jahr ziemlich solide und zuverlässiger als erwartet, mit vier AA-Batterien, die 4 bis 5 Monate halten. Derselbe Besitzer startet die Bridge etwa alle sechs Monate neu und bemerkt eine Verzögerung von 3 bis 5 Sekunden beim Fingerabdruck. In seinem [Bericht zum Yale Approach](https://www.pcworld.com/article/2331746/yale-approach-lock-with-wi-fi-keypad-review-this-is-easier.html) fand PCWorld die Montage aufwendiger als bei einem kompletten Austauschschloss. Dazu kamen Probleme bei Kalibrierung und Firmware. Die Bridge braucht eine Steckdose in etwa 9 m (30 ft) Entfernung von der Tür.
-
-### Master Lock Portable Key Lock Box 5400EC: Ersatzschlüssel am Türknauf
-
-Die günstigste Lösung ganz ohne Batterien ist die [Master Lock Portable Key Lock Box 5400EC](amzn:Master+Lock+Portable+Key+Lock+Box+5400EC). Sie hängt mit einem vinylbeschichteten Bügel über den meisten runden, flachen und tulpenförmigen Knäufen und öffnet sich mit einem selbst gewählten 4-stelligen Code. Laut Amazon-Angebot fasst sie bis zu 5 normale Haustürschlüssel. Rezensenten bei Home Depot loben, wie leicht sich der Code einstellen und ändern lässt. Makler und Hausverwaltungen nutzen solche Boxen, um Handwerkern Zugang zu geben. Jetzt die Einschränkung, die wir ernst nehmen. Ein Rezensent bei Home Depot beschrieb, wie ein Einbrecher das dünne Aluminiumgehäuse aufbrach, und ein anderer nennt die Box reine Abschreckung gegen Diebstahl. Einige Besitzer berichten von einem klemmenden Mechanismus oder einem Code, der auch mit falschen Ziffern aufging. Außerdem verrät sie jedem im Flur, dass ein Schlüssel darin liegt. Leg also nur den Ersatzschlüssel hinein, ändere den Code, nachdem du ihn weitergegeben hast, und frag deinen Vermieter, bevor du sie aufhängst.
+Die einfachste Lösung ganz ohne Batterien ist die [Schlüsselbox von Master Lock](amzn:B0002YP1VC). In Europa heißt das Modell [Master Lock 5400EURD Select Access](https://shop.masterlock.eu/products/5400eurd): mittelgroß (90 mm, 3,5 in), mit Bügel und selbst gewähltem 4-stelligem Code; nimm diese EU-Version. Der Bügel ist vinylbeschichtet; laut Amazon-Angebot hängt die Box über runden, flachen und tulpenförmigen Knäufen und fasst bis zu 5 normale Haustürschlüssel. Rezensenten bei Home Depot loben, wie leicht sich der Code einstellen und ändern lässt, und Hausverwaltungen nutzen solche Boxen für Handwerker. Jetzt die Einschränkung, die wir ernst nehmen: Ein Rezensent beschrieb, wie ein Einbrecher das dünne Aluminiumgehäuse aufbrach, ein anderer nennt die Box reine Abschreckung. Einige Besitzer berichten von einem klemmenden Mechanismus oder einem Code, der auch mit falschen Ziffern aufging, und jeder im Flur sieht, dass ein Schlüssel darin liegt. Leg also nur den Ersatzschlüssel hinein, ändere den Code, nachdem du ihn weitergegeben hast, und frag deinen Vermieter, bevor du sie aufhängst.
 
 ### Master Lock 5420EC Set Your Own Combination Portable Lock Box: für Türen mit Klinke
 
-Wohnungstüren mit Klinke brauchen die [Master Lock 5420EC Set Your Own Combination Portable Lock Box](amzn:Master+Lock+5420EC+Set+Your+Own+Combination+Portable+Lock+Box+Adjustable+Shackle). Ihr Bügel lässt sich von 1,9 bis 4,4 cm (3/4 bis 1-3/4 in) verstellen und passt an Klinken sowie runde, flache und tulpenförmige Knäufe. Laut Angebot fasst sie 6 Schlüssel, mit einer Wetterschutzkappe über den Zahlenrädern. Besitzer bei Home Depot mögen, dass sie an Türen mit Knauf und mit Klinke funktioniert, was Boxen mit festem Bügel nicht können. Die Passform ist die größte Beschwerde. Ein Besitzer fand sie an einem einfachen runden Knauf sehr eng. Ein anderer sagt, der Bügel öffne sich nicht so weit wie erwartet. Ein Exemplar blockierte beim Einstellen des Codes und musste umgetauscht werden, also stell deinen Code zu Hause ein, bevor du dich darauf verlässt. Wie die 5400EC ist sie ein versteckter Ersatzschlüssel, kein Tresor.
+Hat deine Wohnungstür eine Klinke statt eines Knaufs, nimm die [Master-Lock-Box mit verstellbarem Bügel](amzn:B07FD2N88X), in Europa die [Master Lock 5420EURD Select Access](https://www.masterlock.eu/products/select-access-gray-portable-key-safe/5420EURD). Beim US-Schwestermodell 5420D nennt Master Lock einen Bügel von 1,9 bis 4,4 cm (3/4 bis 1-3/4 in); prüfe das Maß für die EU-Version auf der Herstellerseite. Laut Amazon-Angebot passt sie an Klinken sowie runde, flache und tulpenförmige Knäufe und fasst 6 Schlüssel; eine Schutzkappe deckt die Zahlenräder gegen Wetter ab. Besitzer bei Home Depot mögen, dass sie an Knauf und Klinke funktioniert, was Boxen mit festem Bügel nicht können. Die größte Beschwerde ist die Passform: Ein Besitzer fand sie an einem runden Knauf sehr eng, ein anderer sagt, der Bügel öffne sich nicht so weit wie erwartet. Ob sie an deine Türgarnitur passt, prüfst du deshalb selbst. Ein Exemplar blockierte beim Einstellen des Codes und musste umgetauscht werden, also stell deinen Code zu Hause ein, bevor du dich darauf verlässt. Auch sie ist ein versteckter Ersatzschlüssel, kein Tresor.
 
-### Nachrüst-Smart-Lock, Tastenfeld-Riegelschloss oder Schlüsseltresor (Vergleichstabelle)
-
-Diese Tabelle vergleicht die drei Wege, mit denen Mieter dem Aussperren vorbeugen, nach den Punkten, die Vermietern wichtig sind.
+### Nachrüst-Smart-Lock, Tastenfeld-Schloss oder Schlüsseltresor (Vergleichstabelle)
 
 | Lösung | Ändert das Schloss außen? | Braucht Strom? | Notzugang | Zustimmung des Vermieters |
 |---|---|---|---|---|
 | Nachrüst-Smart-Lock | Nein | Ja, Batterien | Originalschlüssel | Schriftlich fragen |
-| Tastenfeld-Riegelschloss | Ja, kompletter Austausch | Ja, Batterien | Schlüssel oder 9-Volt-Kontakte | Erforderlich |
-| Schlüsseltresor (Schlüsselbox) | Nein | Nein | Ersatzschlüssel darin | Hausordnung prüfen |
+| Tastenfeld-Schloss (Austausch) | Ja, kompletter Austausch | Ja, Batterien | Schlüssel oder 9-Volt-Kontakte | Erforderlich |
+| Schlüsseltresor | Nein | Nein | Ersatzschlüssel darin | Hausordnung prüfen |
 
-Mieter sorgen sich am meisten um den Mietvertrag. Ein Kommentator auf r/jerseycity warnte: ["Wenn der Vermieter es herausfindet und das als Veränderung am Schloss wertet, könnte dir die Räumung drohen."](https://www.reddit.com/r/jerseycity/comments/1ncrxoj/landlord_wont_provide_physical_keys_for_smart/) Diese Angst zieht sich durch Threads auf r/jerseycity und r/homeautomation. Ein Nachrüst-Schloss umgeht sie, wie eine Antwort auf r/homeautomation erklärt: ["Die Außenseite des Schlosses bleibt gleich. So kann der Vermieter weiter seinen Schlüssel benutzen."](https://www.reddit.com/r/homeautomation/comments/1rm2gag/best_renter_friendly_smart_lock/)
+Die größte Sorge von Mietern ist Ärger mit dem Vermieter. Ein Nachrüst-Schloss umgeht sie, wie eine Antwort auf r/homeautomation erklärt (von uns übersetzt): ["Die Außenseite des Schlosses bleibt gleich. So kann der Vermieter weiter seinen Schlüssel benutzen."](https://www.reddit.com/r/homeautomation/comments/1rm2gag/best_renter_friendly_smart_lock/)
 
 ### So bittest du deinen Vermieter um Erlaubnis (Muster-E-Mail)
 
 Wir würden etwas Kurzes und Konkretes schicken, damit das Ja leichtfällt:
 
-> Betreff: Anfrage zu einem Nachrüst-Smart-Lock, Wohnung [Nr.]
+> Betreff: Anfrage zu einem Nachrüst-Smart-Lock, [Adresse, Wohnung Nr.]
 >
-> Hallo [Name], wir würden gern ein Nachrüst-Smart-Lock an der Innenseite unseres Türschlosses anbringen. Es ersetzt nur den inneren Drehknauf. Der Außenzylinder und Ihr Schlüssel bleiben genau so, wie sie sind, Sie haben also weiterhin vollen Zugang. Beim Auszug bauen wir den originalen Drehknauf wieder ein. Könnten Sie uns schriftlich bestätigen, dass das in Ordnung ist, und uns die Notfallnummer für Aussperren außerhalb der Bürozeiten nennen? Danke, [Dein Name]
+> Hallo [Name], ich würde gern ein Nachrüst-Smart-Lock innen an meiner Wohnungstür anbringen. Es sitzt über dem vorhandenen Zylinder und dreht den Schlüssel bzw. Knauf. Zylinder und Ihr Schlüssel bleiben genau so, wie sie sind, Sie haben also weiterhin vollen Zugang. Beim Auszug nehme ich es spurlos wieder ab. Könnten Sie mir schriftlich bestätigen, dass das in Ordnung ist, und mir die Notfallnummer der Hausverwaltung nennen? Danke, [Dein Name]
 
 Weitere mieterfreundliche Ausrüstung für die Tür findest du in unseren Ratgebern zur [Türklingel mit Kamera für die Wohnung](/de/blog/tuerklingel-mit-kamera-fuer-die-wohnung/) und zu [Türspion-Kameras ohne Bohren](/de/blog/beste-tuerspion-kamera-fuer-wohnungen/).
 
-## Checkliste gegen das Aussperren und für den Auszug
+## Checkliste für heute und den Auszugstag
 
-**Eine Checkliste von zwei Minuten erspart dir jetzt die schlimmste Nacht deines Mietverhältnisses, und am Auszugstag geht jeder Ersatzschlüssel und jedes Originalteil zurück.** Druck diese Liste aus oder mach einen Screenshot:
+**Zwei Minuten Vorbereitung ersparen dir die schlimmste Nacht deines Mietverhältnisses, und am Auszugstag geht jeder Schlüssel zurück.**
 
-- Speichere die Nummer der Hausverwaltung und die Notfallnummer für außerhalb der Bürozeiten in deinem Handy.
-- Frag deinen Vermieter schriftlich nach einer Gebühr fürs Aufsperren und nach den Regeln für Schlüsselkopien.
-- Gib einem vertrauenswürdigen Freund oder Mitbewohner einen Ersatzschlüssel und notier dir, wer welche Kopie hat.
-- Bewahre Fotos von Mietvertrag und Ausweis in der Cloud auf, für die Wohnnachweis-Kontrolle beim Schlüsseldienst.
-- Wechsle beim Smart Lock die Batterien bei der ersten Warnung und behalte den normalen Schlüssel.
-- Sammle am Auszugstag jeden Ersatzschlüssel ein, nimm den Schlüsseltresor ab und bau den originalen Drehknauf wieder ein.
+- Notfallnummer der Hausverwaltung und einen ortsansässigen Schlüsseldienst im Handy speichern.
+- Einem vertrauenswürdigen Freund einen Ersatzschlüssel geben und notieren, wer welche Kopie hat.
+- Fotos von Mietvertrag und Ausweis in der Cloud ablegen.
+- Beim Smart Lock die Batterien bei der ersten Warnung wechseln und den normalen Schlüssel behalten.
+- Am Auszugstag jeden Ersatzschlüssel einsammeln, den Schlüsseltresor und das Smart Lock abnehmen.
 
-Für den Mieter, der um 2 Uhr nachts ausgesperrt war, ist die Lösung also kein einzelnes Gerät. Es ist ein schriftlicher Plan mit dem Vermieter, ein Ersatzschlüssel in der Nähe und ein Schloss, bei dem der Originalschlüssel weiter funktioniert. Wir würden alle drei noch diese Woche einrichten, bevor die nächste Tür hinter uns ins Schloss fällt.
+Die Lösung ist also kein einzelnes Gerät, sondern ein Ersatzschlüssel in der Nähe, eine gespeicherte Nummer mit Festpreis-Plan und ein Schloss, bei dem der Originalschlüssel weiter funktioniert. Wir würden alle drei noch diese Woche einrichten, bevor die nächste Tür hinter uns ins Schloss fällt.
