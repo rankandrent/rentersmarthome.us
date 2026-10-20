@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T12:59:01.043046Z",
+  "updatedAt": "2026-10-20T20:06:06.962Z",
   "categories": {
     "smart-locks": [
       {
@@ -305,10 +305,183 @@
           "smart lock keeps disconnecting wifi",
           "smart lock remote unlock not working"
         ],
-        "keywords": [],
+        "keywords": [
+          "best apartment intercom buzzer alternative"
+        ],
         "mentions": 3,
         "coveredBy": [],
         "foundAt": "2026-10-19"
+      },
+      {
+        "id": "smart-locks-intercom-retrofit-rewiring-landlord",
+        "pain": "Smart intercom retrofits need wiring into the building handset, which renters find risky and landlords may not allow",
+        "details": "Renters who want their buzzer on their phone find that boxes like Ring Intercom, Nuki Opener or the discontinued nello connect to the handset or its wiring. They worry about doing it themselves and about landlord permission.",
+        "sources": [
+          {
+            "url": "https://aaronyeager.com/blog/a-clever-workaround-for-making-your-intercom-smart",
+            "platform": "forum",
+            "title": "A clever workaround for making your intercom smart",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://blog.switch-bot.com/the-easiest-way-to-make-your-intercom-smart/",
+            "platform": "review",
+            "title": "The easiest way to make your intercom smart",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://knockli.com/blog/apartment-buzzers-how-they-work-smart-alternatives",
+            "platform": "review",
+            "title": "Apartment Buzzers: How They Work and Smarter Alternatives",
+            "seen": "2026-10-20"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Nello is meant for intercoms that have a handset, and requires rewiring your intercom yourself, which can be hard, and dangerous.",
+            "url": "https://aaronyeager.com/blog/a-clever-workaround-for-making-your-intercom-smart",
+            "via": "page"
+          },
+          {
+            "text": "It is very troublesome to install it yourself, and you might not get permitted by your landlord",
+            "url": "https://blog.switch-bot.com/the-easiest-way-to-make-your-intercom-smart/",
+            "via": "page"
+          }
+        ],
+        "searches": [
+          "make apartment buzzer smart without wiring",
+          "smart intercom landlord permission"
+        ],
+        "keywords": [
+          "best apartment intercom buzzer alternative"
+        ],
+        "mentions": 3,
+        "coveredBy": [],
+        "foundAt": "2026-10-20"
+      },
+      {
+        "id": "smart-locks-buzzer-release-needs-active-call",
+        "pain": "A button pusher on the buzzer may only open the door during an active call and cannot tell who is downstairs",
+        "details": "Owners who stick a button pusher on the door-release key find that some systems only release the lobby door while a visitor call is in progress, and an automated press lets in anyone who buzzes.",
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/homeautomation/comments/ybm7hq/is_switchbot_my_only_chance_to_make_this_old/",
+            "platform": "reddit",
+            "title": "Is SwitchBot my only chance to make this old intercom smart?",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://aaronyeager.com/blog/a-clever-workaround-for-making-your-intercom-smart",
+            "platform": "forum",
+            "title": "A clever workaround for making your intercom smart",
+            "seen": "2026-10-20"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Check if the key button works even without a “call in progress”",
+            "url": "https://www.reddit.com/r/homeautomation/comments/ybm7hq/is_switchbot_my_only_chance_to_make_this_old/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "The thing is, you can't specify who can come in — it lets in anyone who buzzes.",
+            "url": "https://aaronyeager.com/blog/a-clever-workaround-for-making-your-intercom-smart",
+            "via": "page"
+          }
+        ],
+        "searches": [
+          "switchbot intercom only works during call",
+          "apartment buzzer door release without call"
+        ],
+        "keywords": [
+          "best apartment intercom buzzer alternative"
+        ],
+        "mentions": 2,
+        "coveredBy": [],
+        "foundAt": "2026-10-20"
+      },
+      {
+        "id": "smart-locks-buzzer-missed-deliveries-no-phone-alert",
+        "pain": "The in-unit buzzer cannot reach the renter's phone, so buzzes and deliveries are missed when away",
+        "details": "Renters with a wall handset miss couriers and guests whenever they are out or in another room, and ask how to get a phone notification or answer the buzzer remotely.",
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/astoria/comments/1gzqegq/make_apartment_buzzer_smart/",
+            "platform": "reddit",
+            "title": "Make apartment buzzer smart",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.reddit.com/r/smarthome/comments/pg3684/need_advice_to_get_my_old_apartment_intercom/",
+            "platform": "reddit",
+            "title": "Need advice to get my old apartment intercom buzzer to my cell phone",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://knockli.com/blog/apartment-buzzers-how-they-work-smart-alternatives",
+            "platform": "review",
+            "title": "Apartment Buzzers: How They Work and Smarter Alternatives",
+            "seen": "2026-10-20"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "My last resort solution is a switchbot but I'd love to get notifications on my phone when someone buzzes if that's possible.",
+            "url": "https://www.reddit.com/r/astoria/comments/1gzqegq/make_apartment_buzzer_smart/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "Miss that 15-second window and the delivery fails.",
+            "url": "https://knockli.com/blog/apartment-buzzers-how-they-work-smart-alternatives",
+            "via": "page"
+          }
+        ],
+        "searches": [
+          "apartment buzzer to phone",
+          "get notified when apartment buzzer rings"
+        ],
+        "keywords": [
+          "best apartment intercom buzzer alternative"
+        ],
+        "mentions": 3,
+        "coveredBy": [],
+        "foundAt": "2026-10-20"
+      },
+      {
+        "id": "smart-locks-old-buzzer-broken-landlord-repair",
+        "pain": "The building buzzer is old or broken and the renter does not know what they can fix or who must repair it",
+        "details": "Aging intercoms crackle, go silent or stop releasing the door; renters ask whether to replace parts themselves or push the landlord to repair the shared system.",
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/sanfrancisco/comments/sfmbng/need_help_replacing_broken_apartment_buzzer/",
+            "platform": "reddit",
+            "title": "Need help replacing broken apartment buzzer",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://knockli.com/blog/apartment-buzzers-how-they-work-smart-alternatives",
+            "platform": "review",
+            "title": "Apartment Buzzers: How They Work and Smarter Alternatives",
+            "seen": "2026-10-20"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Crackling audio, no sound at all, or the unlock tone not registering are common issues with aging systems.",
+            "url": "https://knockli.com/blog/apartment-buzzers-how-they-work-smart-alternatives",
+            "via": "page"
+          }
+        ],
+        "searches": [
+          "apartment buzzer not working who fixes",
+          "broken apartment intercom landlord"
+        ],
+        "keywords": [
+          "best apartment intercom buzzer alternative"
+        ],
+        "mentions": 2,
+        "coveredBy": [],
+        "foundAt": "2026-10-20"
       }
     ],
     "lighting": [
@@ -1203,6 +1376,159 @@
         "mentions": 3,
         "coveredBy": [],
         "foundAt": "2026-10-20"
+      },
+      {
+        "id": "security-sliding-door-lifted-off-track",
+        "pain": "Locked apartment sliding door can still be lifted out of its track from outside",
+        "details": "Renters find the factory latch holds, but the whole panel can be pushed up and popped off the rollers; a dowel in the bottom track does not stop it.",
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/Apartmentliving/comments/1u82pd5/how_do_you_secure_sliding_glass_doors_as_a_renter/",
+            "platform": "reddit",
+            "title": "How do you secure sliding glass doors as a renter?",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.reddit.com/r/homedefense/comments/1ffgxd5/sliding_door_security_for_an_apartment_help/",
+            "platform": "reddit",
+            "title": "Sliding door security for an apartment HELP!!",
+            "seen": "2026-10-20"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "You literally grab it with two hands apply pressure upwards.",
+            "url": "https://www.reddit.com/r/Apartmentliving/comments/1u82pd5/how_do_you_secure_sliding_glass_doors_as_a_renter/"
+          },
+          {
+            "text": "One of the best ways to lock the door is a threaded pin that passes thru both frames near the top where the two meet.",
+            "url": "https://www.reddit.com/r/homedefense/comments/1ffgxd5/sliding_door_security_for_an_apartment_help/"
+          }
+        ],
+        "searches": [
+          "how do you secure sliding glass doors as a renter",
+          "sliding door security for an apartment"
+        ],
+        "keywords": [
+          "how to secure sliding glass door in rental"
+        ],
+        "mentions": 2,
+        "coveredBy": [
+          "how-to-secure-sliding-glass-door-in-rental"
+        ],
+        "foundAt": "2026-10-20"
+      },
+      {
+        "id": "security-sliding-door-broken-latch-landlord",
+        "pain": "Rental sliding door is off its track or the latch won't lock, and the landlord hasn't fixed it",
+        "details": "Tenants move in to a slider that will not latch or was badly repaired and ask whether the landlord must fix it and who pays.",
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/Renters/comments/1rfuc2n/landlord_didnt_disclose_that_sliding_glass_door/",
+            "platform": "reddit",
+            "title": "Landlord didn't disclose that sliding glass door is off tracks and can't lock",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.reddit.com/r/vancouver/comments/i078af/can_i_ask_my_landlord_to_fix_an_incorrectly/",
+            "platform": "reddit",
+            "title": "Can I ask my landlord to fix an incorrectly installed sliding glass door",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.reddit.com/r/Landlord/comments/rt0qmj/landlord_usaz_broken_sliding_glass_doorwho_pays/",
+            "platform": "reddit",
+            "title": "[Landlord US-AZ] Broken Sliding Glass Door-Who pays?",
+            "seen": "2026-10-20"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Generally the landlord is responsible for damage to the property or fixtures unless those damages were caused by the tenant.",
+            "url": "https://www.reddit.com/r/Landlord/comments/rt0qmj/landlord_usaz_broken_sliding_glass_doorwho_pays/"
+          }
+        ],
+        "searches": [
+          "landlord sliding glass door won't lock",
+          "broken sliding glass door who pays rental"
+        ],
+        "keywords": [
+          "how to secure sliding glass door in rental"
+        ],
+        "mentions": 3,
+        "coveredBy": [
+          "how-to-secure-sliding-glass-door-in-rental"
+        ],
+        "foundAt": "2026-10-20"
+      },
+      {
+        "id": "security-sliding-door-no-drill-options",
+        "pain": "Renter wants a secure sliding door without drilling, film or other changes the lease forbids",
+        "details": "Apartment renters ask for fixes that leave no holes: bars, alarms and sensors that install nondestructively, and whether window film needs permission.",
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/homedefense/comments/f47yjo/any_way_to_actually_secure_an_apartment_sliding/",
+            "platform": "reddit",
+            "title": "Any way to actually secure an apartment sliding glass door?",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.reddit.com/r/homedefense/comments/1u82bns/sliding_door_at_rental/",
+            "platform": "reddit",
+            "title": "Sliding Door At Rental",
+            "seen": "2026-10-20"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Get an alarm system that can be installed nondestructively, like Simpli Safe.",
+            "url": "https://www.reddit.com/r/homedefense/comments/f47yjo/any_way_to_actually_secure_an_apartment_sliding/"
+          }
+        ],
+        "searches": [
+          "any way to actually secure an apartment sliding glass door",
+          "sliding door at rental"
+        ],
+        "keywords": [
+          "how to secure sliding glass door in rental"
+        ],
+        "mentions": 2,
+        "coveredBy": [
+          "how-to-secure-sliding-glass-door-in-rental"
+        ],
+        "foundAt": "2026-10-20"
+      },
+      {
+        "id": "security-sliding-door-main-entry-bar-lockout",
+        "pain": "A bar only works from inside, so a slider used as the main entry, or landlord access rules, complicate it",
+        "details": "Renters whose slider is the main door cannot leave a bar in place when they go out, and others ask whether a bar that blocks landlord entry is allowed.",
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/AskSF/comments/k1y4b8/looking_at_an_apartment_with_a_sliding_glass_door/",
+            "platform": "reddit",
+            "title": "Looking at an apartment with a sliding glass door as the main entry",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.reddit.com/r/Renters/comments/1iy665r/is_it_legal_to_installhave_a_security_bar_on/",
+            "platform": "reddit",
+            "title": "Is it legal to install/have a security bar on apartment door?",
+            "seen": "2026-10-20"
+          }
+        ],
+        "quotes": [],
+        "searches": [
+          "apartment sliding glass door main entry",
+          "is it legal to have a security bar on apartment door"
+        ],
+        "keywords": [
+          "how to secure sliding glass door in rental"
+        ],
+        "mentions": 2,
+        "coveredBy": [
+          "how-to-secure-sliding-glass-door-in-rental"
+        ],
+        "foundAt": "2026-10-20"
       }
     ],
     "hubs-voice": [
@@ -1622,7 +1948,7 @@
         ],
         "quotes": [
           {
-            "text": "Mine just keeps saying \u201cI'm having trouble right now. Please try again later\u201d for a few specific devices.",
+            "text": "Mine just keeps saying “I'm having trouble right now. Please try again later” for a few specific devices.",
             "url": "https://www.reddit.com/r/alexa/comments/1nln3zz/alexa_is_noticeably_worse_lately_makes_many/",
             "via": "search-excerpt"
           },

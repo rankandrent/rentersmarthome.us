@@ -1,13 +1,67 @@
 {
- "products": [],
- "skip": true,
- "skipReason": "Fewer than 3 products can be shown as recommended by at least 2 distinct top-10 pages for this keyword. WebFetch was blocked, so pages were only seen through WebSearch summaries. The generic ranking pages for the exact keyword (Bob Vila, Dummies, journeymanhq, ForRent) recommend methods (dowel in track, clamp-on track lock, door-stop alarm, security film), not specific models. Model-level lists only appear on 'sliding door security bar' pages, whose picks do not overlap across pages and are mostly affiliate/low-quality sites; the one overlapping model (Ideal Security patio bar) is screw-mounted, so not a no-drill renter product.",
- "serpProducts": [
-  {"name": "Ideal Security Patio Door Bar with Anti-Lift Lock (SK110 / BK110 family)", "pages": ["https://www.bobvila.com/reviews/best-door-security-bars/", "https://www.covesmart.com/blog/the-best-door-security-bars"], "note": "Covesmart page only seen as a fragment, not confirmed by name; mounts with screws on the door frame, so fails the no-drill test; does not qualify"},
-  {"name": "SecurityMan 2-in-1 Security Bar", "pages": ["https://www.talkofthehouse.com/?p=61709"], "note": "securitymaninc.com is the maker's own blog; only 1 independent page seen; does not qualify"},
-  {"name": "DIIG door security bar", "pages": ["https://www.talkofthehouse.com/?p=61709", "https://outdoorsecurity.blog/best-sliding-door-security-bar/"], "note": "snippets only, low-quality affiliate-style sites, not verified as top-10 for the keyword; does not qualify"},
-  {"name": "Maxi Twist Tight security bar", "pages": ["https://outdoorsecurity.blog/best-sliding-door-security-bar/", "https://thewearify.com/best-locks-for-sliding-glass-doors/"], "note": "snippets only, affiliate-style sites, not verified as top-10; does not qualify"},
-  {"name": "AceMining door security bar", "pages": ["https://foliumbiosciences.com/best-door-security-bars-for-sliding-patio-doors/"], "note": "1 page; does not qualify"},
-  {"name": "MSIC Global SecuraDoor", "pages": ["https://www.bobvila.com/reviews/best-door-security-bars/"], "note": "1 page; hinged-door bar, not for sliders; does not qualify"}
- ]
+  "status": "ok",
+  "productCount": 3,
+  "note": "2026-10-20 retry with page access (Firecrawl). The keyword's top 10 are method guides; product evidence comes from the keyword SERP (securitymaninc.com) plus 'best sliding glass door security bar' review pages (ROUTINE step 3, question keyword). Three models are recommended by 2+ pages; no lock, sensor or film model reached 2 pages, so productCount is 3.",
+  "serpProducts": [
+    { "name": "Master Lock 265D Dual Function Door Security Bar", "pages": ["https://www.bobvila.com/reviews/best-door-security-bars/", "https://www.safewise.com/blog/top-rated-door-jammers/"] },
+    { "name": "Ideal Security SK110 Patio Door Security Bar with Anti-Lift Lock (BK110 / SK110 family)", "pages": ["https://www.bobvila.com/reviews/best-door-security-bars/", "https://www.safewise.com/home-security-systems/best-sliding-door-locks/"] },
+    { "name": "SECURITYMAN 2-in-1 Door Security Bar with Alarm", "pages": ["https://securitymaninc.com/blogs/security/how-to-secure-a-sliding-door-in-a-rental-renter-friendly-methods", "https://www.safewise.com/blog/top-rated-door-jammers/", "https://outdoorsecurity.blog/door-alarm-security-bar/"] }
+  ],
+  "products": [
+    {
+      "name": "Master Lock 265D Door Security Bar",
+      "brand": "Master Lock",
+      "query": "Master Lock 265D Door Security Bar",
+      "badge": "Best no-drill bar",
+      "facts": [
+        "20-gauge steel (Bob Vila)",
+        "Adjusts 27.5 to 42 in. for sliding doors, 30.5 to 45 in. for hinged doors (Bob Vila); Home Depot lists 27-1/2 to 42 in.",
+        "Remove the yoke pin to lay it in the sliding-door track; no tools (SafeWise, Bob Vila)",
+        "Pivoting ball joint and padded foot (Home Depot, Bob Vila)"
+      ],
+      "sources": [
+        "https://www.bobvila.com/reviews/best-door-security-bars/",
+        "https://www.safewise.com/blog/top-rated-door-jammers/",
+        "https://www.homedepot.com/p/reviews/Master-Lock-Adjustable-Door-Security-Bar-27-1-2-in-to-42-in-265DCCSEN/100210730/1"
+      ]
+    },
+    {
+      "name": "Ideal Security SK110 Patio Door Security Bar",
+      "brand": "Ideal Security",
+      "query": "Ideal Security SK110 Patio Door Security Bar Anti-Lift Lock",
+      "badge": "Best mid-door bar (screws)",
+      "facts": [
+        "Adjusts 25.75 to 47.5 in., no cutting (Ideal Security)",
+        "Bar and saddle screw into the door frame and profile (Ideal Security, Home Depot Canada)",
+        "Mounts at mid-door height and swings up out of the way (Ideal Security)",
+        "Childproof anti-lift clip stops children pushing the bar up (Home Depot Canada)",
+        "Locks at any width so the door can stay partly open for ventilation (Ideal Security)",
+        "Extruded aluminum (Home Depot Canada)"
+      ],
+      "sources": [
+        "https://www.idealinc.com/en/patio-door-security-bar-with-anti-lift-lock",
+        "https://www.homedepot.ca/product/ideal-security-patio-door-security-bar-with-anti-lift-lock-black/1000858845",
+        "https://www.bobvila.com/reviews/best-door-security-bars/"
+      ]
+    },
+    {
+      "name": "SECURITYMAN 2-in-1 Door Security Bar with Alarm",
+      "brand": "SECURITYMAN",
+      "query": "SECURITYMAN 2-in-1 Door Security Bar with Alarm",
+      "badge": "Best with alarm",
+      "facts": [
+        "120 dB vibration-triggered alarm (SecurityMan, outdoorsecurity.blog)",
+        "Interchangeable end caps for hinged doors or the sliding-door track (SecurityMan)",
+        "Adjusts 18.25 to 46.5 in. with the sliding-door cap (SecurityMan)",
+        "Iron construction; maker rates it at 400 lb of force (SecurityMan)",
+        "No tools or drilling (SecurityMan)"
+      ],
+      "sources": [
+        "https://securitymaninc.com/products/door-security-bar-with-alarm",
+        "https://www.walmart.com/ip/Securityman-Door-Security-Bar-Alarm-Detachable-120dB-Siren-Door-Stopper-Alarm-Adjustable-Jammer-Patio-Bar-Strong-Withstands-400lbs-Home-Protection/21038113102",
+        "https://www.safewise.com/blog/top-rated-door-jammers/",
+        "https://outdoorsecurity.blog/door-alarm-security-bar/"
+      ]
+    }
+  ]
 }

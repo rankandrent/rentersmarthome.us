@@ -1,0 +1,456 @@
+{
+  "keyword": "how to secure sliding glass door in rental",
+  "createdAt": "2026-10-20T20:06:31.578Z",
+  "via": "claude-routine",
+  "brief": {
+    "keyword": "how to secure sliding glass door in rental",
+    "slug": "how-to-secure-sliding-glass-door-in-rental",
+    "category": "security",
+    "articleType": "guide",
+    "centralEntity": "sliding glass door",
+    "entityVariants": [
+      "sliding door",
+      "patio door",
+      "sliding patio door",
+      "slider",
+      "sliding glass doors"
+    ],
+    "entities": [
+      {
+        "name": "security bar",
+        "type": "product type",
+        "relation": "blocks the sliding panel in the track"
+      },
+      {
+        "name": "bottom track",
+        "type": "door part",
+        "relation": "where a bar or dowel sits"
+      },
+      {
+        "name": "upper track",
+        "type": "door part",
+        "relation": "where anti-lift protection goes"
+      },
+      {
+        "name": "latch",
+        "type": "door part",
+        "relation": "factory hook lock that can be pried or lifted"
+      },
+      {
+        "name": "anti-lift",
+        "type": "method",
+        "relation": "stops the panel being lifted off its rollers"
+      },
+      {
+        "name": "dowel",
+        "type": "DIY method",
+        "relation": "cheap track blocker"
+      },
+      {
+        "name": "foot lock",
+        "type": "product type",
+        "relation": "secondary lock at the base of the door"
+      },
+      {
+        "name": "security film",
+        "type": "product type",
+        "relation": "holds broken glass together"
+      },
+      {
+        "name": "door sensor",
+        "type": "product type",
+        "relation": "alerts when the door opens"
+      },
+      {
+        "name": "landlord",
+        "type": "person",
+        "relation": "owns the door and must approve permanent changes"
+      },
+      {
+        "name": "lease",
+        "type": "legal document",
+        "relation": "alterations clause decides what you may install"
+      },
+      {
+        "name": "security deposit",
+        "type": "money",
+        "relation": "at risk from holes and damage"
+      },
+      {
+        "name": "Master Lock",
+        "type": "brand",
+        "relation": "makes the 265D dual-function security bar"
+      },
+      {
+        "name": "Ideal Security",
+        "type": "brand",
+        "relation": "makes the SK110 mid-door patio bar"
+      },
+      {
+        "name": "SecurityMan",
+        "type": "brand",
+        "relation": "makes a 2-in-1 security bar with alarm"
+      }
+    ],
+    "attributes": [
+      "no drilling",
+      "adjustable length",
+      "fits the track",
+      "removable at move-out",
+      "childproof clip",
+      "alarm volume",
+      "mounting height",
+      "landlord permission"
+    ],
+    "ngrams": [
+      "sliding glass door",
+      "security bar",
+      "sliding door",
+      "patio door",
+      "bottom track",
+      "upper track",
+      "anti-lift",
+      "factory latch",
+      "no drilling",
+      "security film",
+      "door sensor",
+      "landlord permission",
+      "move-out"
+    ],
+    "skipgrams": [
+      "bar…track",
+      "lift…track",
+      "landlord…writing",
+      "latch…pried",
+      "film…glass",
+      "sensor…alert"
+    ],
+    "nlpTerms": [
+      "renter",
+      "lease",
+      "landlord",
+      "deposit",
+      "latch",
+      "track",
+      "rollers",
+      "panel",
+      "dowel",
+      "bar",
+      "alarm",
+      "sensor",
+      "film",
+      "curtains",
+      "burglar",
+      "pry",
+      "lift",
+      "screws",
+      "adhesive",
+      "move-out"
+    ],
+    "questions": [
+      "How do you secure a sliding glass door without drilling?",
+      "Can a sliding glass door be lifted off its track?",
+      "Is my landlord responsible for a sliding door that won't lock?",
+      "Do sliding door security bars actually work?",
+      "Do I need landlord permission for window security film?",
+      "What if the sliding door is my main entrance?"
+    ],
+    "contentGaps": [
+      "Which fixes need landlord permission and which don't, as one map",
+      "A copy-ready landlord email for a broken latch or a screw-mounted bar",
+      "The 'anti-lift lock' on popular patio bars stops kids lifting the bar, not burglars lifting the door",
+      "What to do when the slider is the main entry and a bar can't stay in while you're out",
+      "Move-out day for bars, brackets, film and sensors"
+    ],
+    "outline": [
+      {
+        "h2": "How to secure a sliding glass door in a rental",
+        "intent": "direct answer in 5 steps",
+        "h3": []
+      },
+      {
+        "h2": "Step 1: test the sliding glass door and get the latch fixed",
+        "intent": "lift test, latch, track; landlord repairs",
+        "h3": []
+      },
+      {
+        "h2": "Step 2: stop the sliding door from being lifted",
+        "intent": "anti-lift without drilling",
+        "h3": []
+      },
+      {
+        "h2": "Step 3: block the track with a security bar",
+        "intent": "the three bars top pages recommend",
+        "h3": [
+          "Master Lock 265D Door Security Bar",
+          "Ideal Security SK110 Patio Door Security Bar",
+          "SECURITYMAN 2-in-1 Door Security Bar with Alarm"
+        ]
+      },
+      {
+        "h2": "Steps 4 and 5: add an alarm and cover the glass",
+        "intent": "sensors, film, curtains",
+        "h3": []
+      },
+      {
+        "h2": "What needs landlord permission",
+        "intent": "permission map + email",
+        "h3": []
+      },
+      {
+        "h2": "When the slider is your main door",
+        "intent": "pain point: bar only works from inside",
+        "h3": []
+      },
+      {
+        "h2": "Sliding glass door security on move-out day",
+        "intent": "restore and photograph",
+        "h3": []
+      },
+      {
+        "h2": "The verdict",
+        "intent": "close the scene, next links",
+        "h3": []
+      }
+    ],
+    "targetWords": 1550,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://securitymaninc.com/blogs/security/how-to-secure-a-sliding-door-in-a-rental-renter-friendly-methods",
+        "https://www.adt.com/resources/patio-door-security",
+        "https://locksmithurbanail.com/how-to-secure-sliding-glass-doors/",
+        "https://reolink.com/blog/secure-sliding-glass-door/",
+        "https://prlglass.com/blog/how-to-improve-your-sliding-door-security/",
+        "https://todayshomeowner.com/doors/guides/sliding-glass-door-security-options/",
+        "https://www.vivint.com/resources/article/how-to-secure-a-sliding-glass-door"
+      ],
+      "productStyle": "paragraph",
+      "productStyleReason": "The ranking pages are method guides that describe each fix (bar, anti-lift, lock, film, sensor) in prose paragraphs; none use pros-cons lists or spec tables per product.",
+      "avgWords": 1500,
+      "avgProducts": 1,
+      "commonSections": [
+        "why sliding doors are vulnerable",
+        "security bar in the track",
+        "anti-lift protection",
+        "secondary lock or foot lock",
+        "security film",
+        "door and glass-break sensors",
+        "curtains, lighting and cameras",
+        "FAQ"
+      ],
+      "usesComparisonTable": true,
+      "usesFaq": true,
+      "usesBuyingGuide": false
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.reddit.com/r/Apartmentliving/comments/1u82pd5/how_do_you_secure_sliding_glass_doors_as_a_renter/",
+        "title": "How do you secure sliding glass doors as a renter? - Reddit"
+      },
+      {
+        "position": 2,
+        "url": "https://securitymaninc.com/blogs/security/how-to-secure-a-sliding-door-in-a-rental-renter-friendly-methods",
+        "title": "How to Secure a Sliding Door in a Rental: Renter-Friendly Methods"
+      },
+      {
+        "position": 3,
+        "url": "https://www.adt.com/resources/patio-door-security",
+        "title": "Patio Door Security: How to Secure Your Sliding Glass Door - ADT"
+      },
+      {
+        "position": 4,
+        "url": "https://www.quora.com/How-should-you-secure-a-first-floor-apartment-with-sliding-glass-doors",
+        "title": "How should you secure a first-floor apartment with sliding glass doors?"
+      },
+      {
+        "position": 5,
+        "url": "https://locksmithurbanail.com/how-to-secure-sliding-glass-doors/",
+        "title": "How to Secure Sliding Glass Doors in an Urbana IL Rental"
+      },
+      {
+        "position": 6,
+        "url": "https://reolink.com/blog/secure-sliding-glass-door/",
+        "title": "How to Secure a Sliding Glass Door: 2026 Patio Security Guide - Reolink"
+      },
+      {
+        "position": 7,
+        "url": "https://www.vivint.com/resources/article/how-to-secure-a-sliding-glass-door",
+        "title": "How To Secure a Sliding Glass Door: 4 Burglar Tactics and the Fixes That ..."
+      },
+      {
+        "position": 8,
+        "url": "https://prlglass.com/blog/how-to-improve-your-sliding-door-security/",
+        "title": "How to Improve Sliding Glass Door Security Without Sacrificing Design"
+      },
+      {
+        "position": 9,
+        "url": "https://www.bobvila.com/articles/apartment-door-security/",
+        "title": "7 Practical Ways to Enhance Apartment Door Security When ..."
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 6,
+      "withYear": 1,
+      "withNumber": 2,
+      "commonModifiers": [
+        "rental",
+        "renter",
+        "patio",
+        "renter-friendly",
+        "apartment"
+      ],
+      "gap": "No title tells the renter which fixes need the landlord's OK and which don't; we promise no-drill steps plus a permission map."
+    },
+    "commonPoints": [
+      "The factory latch is weak and can be pried or lifted",
+      "Put a security bar or dowel in the bottom track",
+      "Add anti-lift protection in the upper track",
+      "Add a secondary lock such as a foot lock or pin",
+      "Apply security film to the glass",
+      "Add door and glass-break sensors or an alarm",
+      "Close curtains at night and light the patio",
+      "Keep the track clean so the door closes and latches"
+    ],
+    "ourGain": [
+      {
+        "point": "The 'Anti-Lift Lock' on the popular Ideal Security patio bar is a childproof clip that stops the bar being pushed up, not a guard against the door panel being lifted out of the track, so a bar alone does not stop the lift attack renters describe",
+        "source": "https://www.idealinc.com/en/patio-door-security-bar-with-anti-lift-lock; https://www.homedepot.ca/product/ideal-security-patio-door-security-bar-with-anti-lift-lock-black/1000858845; data/pain-points.json#security-sliding-door-lifted-off-track"
+      },
+      {
+        "point": "A permission map: what renters can add with no holes (track bars, removable alarms) versus what puts screws or film on the landlord's door (anti-lift screws, the screw-mounted Ideal bar, film) and needs written OK; top pages call track screws renter-friendly",
+        "source": "https://locksmithurbanail.com/how-to-secure-sliding-glass-doors/; data/pain-points.json#security-sliding-door-no-drill-options"
+      },
+      {
+        "point": "A latch that won't lock or a door off its track is usually the landlord's repair; ask in writing with a copy-ready email instead of fixing it yourself",
+        "source": "https://www.reddit.com/r/Landlord/comments/rt0qmj/landlord_usaz_broken_sliding_glass_doorwho_pays/; data/pain-points.json#security-sliding-door-broken-latch-landlord"
+      },
+      {
+        "point": "When the slider is the main entry, a bar can't stay in while you're out; use the bar at night and an alarm or sensor for time away",
+        "source": "https://www.reddit.com/r/AskSF/comments/k1y4b8/looking_at_an_apartment_with_a_sliding_glass_door/; data/pain-points.json#security-sliding-door-main-entry-bar-lockout"
+      },
+      {
+        "point": "Owner reports show single layers fail: one owner's screw-mounted Ideal bar was torn from the wall, and SafeWise relays reports of the Master Lock bar's adjustment pin loosening",
+        "source": "https://www.reddit.com/r/HomeImprovement/comments/ek2tbc/how_to_secure_a_sliding_patio_door/; https://www.safewise.com/blog/top-rated-door-jammers/"
+      }
+    ],
+    "painPoints": [
+      {
+        "id": "security-sliding-door-lifted-off-track",
+        "pain": "Locked apartment sliding door can still be lifted out of its track from outside",
+        "details": "Renters find the factory latch holds, but the whole panel can be pushed up and popped off the rollers; a dowel in the bottom track does not stop it.",
+        "sources": [
+          "https://www.reddit.com/r/Apartmentliving/comments/1u82pd5/how_do_you_secure_sliding_glass_doors_as_a_renter/",
+          "https://www.reddit.com/r/homedefense/comments/1ffgxd5/sliding_door_security_for_an_apartment_help/"
+        ],
+        "quotes": [
+          {
+            "text": "You literally grab it with two hands apply pressure upwards.",
+            "url": "https://www.reddit.com/r/Apartmentliving/comments/1u82pd5/how_do_you_secure_sliding_glass_doors_as_a_renter/"
+          }
+        ]
+      },
+      {
+        "id": "security-sliding-door-broken-latch-landlord",
+        "pain": "Rental sliding door is off its track or the latch won't lock, and the landlord hasn't fixed it",
+        "details": "Tenants move in to a slider that will not latch or was badly repaired and ask whether the landlord must fix it and who pays.",
+        "sources": [
+          "https://www.reddit.com/r/Renters/comments/1rfuc2n/landlord_didnt_disclose_that_sliding_glass_door/",
+          "https://www.reddit.com/r/Landlord/comments/rt0qmj/landlord_usaz_broken_sliding_glass_doorwho_pays/"
+        ],
+        "quotes": [
+          {
+            "text": "Generally the landlord is responsible for damage to the property or fixtures unless those damages were caused by the tenant.",
+            "url": "https://www.reddit.com/r/Landlord/comments/rt0qmj/landlord_usaz_broken_sliding_glass_doorwho_pays/"
+          }
+        ]
+      },
+      {
+        "id": "security-sliding-door-no-drill-options",
+        "pain": "Renter wants a secure sliding door without drilling, film or other changes the lease forbids",
+        "details": "Apartment renters ask for fixes that leave no holes: bars, alarms and sensors that install nondestructively, and whether window film needs permission.",
+        "sources": [
+          "https://www.reddit.com/r/homedefense/comments/f47yjo/any_way_to_actually_secure_an_apartment_sliding/"
+        ],
+        "quotes": [
+          {
+            "text": "Get an alarm system that can be installed nondestructively, like Simpli Safe.",
+            "url": "https://www.reddit.com/r/homedefense/comments/f47yjo/any_way_to_actually_secure_an_apartment_sliding/"
+          }
+        ]
+      },
+      {
+        "id": "security-sliding-door-main-entry-bar-lockout",
+        "pain": "A bar only works from inside, so a slider used as the main entry, or landlord access rules, complicate it",
+        "details": "Renters whose slider is the main door cannot leave a bar in place when they go out, and others ask whether a bar that blocks landlord entry is allowed.",
+        "sources": [
+          "https://www.reddit.com/r/AskSF/comments/k1y4b8/looking_at_an_apartment_with_a_sliding_glass_door/",
+          "https://www.reddit.com/r/Renters/comments/1iy665r/is_it_legal_to_installhave_a_security_bar_on/"
+        ],
+        "quotes": []
+      }
+    ],
+    "serpProducts": [
+      {
+        "name": "Ideal Security SK110 / BK110 Patio Door Security Bar with Anti-Lift Lock",
+        "pages": [
+          "https://www.bobvila.com/reviews/best-door-security-bars/",
+          "https://www.safewise.com/home-security-systems/best-sliding-door-locks/"
+        ]
+      },
+      {
+        "name": "Master Lock 265D Dual Function Door Security Bar",
+        "pages": [
+          "https://www.bobvila.com/reviews/best-door-security-bars/",
+          "https://www.safewise.com/blog/top-rated-door-jammers/"
+        ]
+      },
+      {
+        "name": "SECURITYMAN 2-in-1 Door Security Bar with Alarm",
+        "pages": [
+          "https://securitymaninc.com/blogs/security/how-to-secure-a-sliding-door-in-a-rental-renter-friendly-methods",
+          "https://www.safewise.com/blog/top-rated-door-jammers/",
+          "https://outdoorsecurity.blog/door-alarm-security-bar/"
+        ]
+      }
+    ],
+    "serpProductsNote": "The keyword's own top 10 are method guides; only securitymaninc.com names models. Per ROUTINE step 3 (question keyword), we also searched 'best sliding glass door security bar' and 'best sliding patio door locks and security bars review' and kept models that 2+ editorial pages recommend. productCount lowered from 4 to 3: no fourth model (lock, sensor or film) was recommended by 2 pages.",
+    "linkPlan": [
+      {
+        "slug": "best-wireless-security-cameras-for-apartments",
+        "anchor": "no-drill security cameras for apartments",
+        "where": "alarm/sensor step and verdict"
+      },
+      {
+        "slug": "best-smart-lock-for-renters",
+        "anchor": "renter-friendly smart lock for the front door",
+        "where": "verdict, next question"
+      },
+      {
+        "slug": "smart-home-for-renters",
+        "anchor": "renter smart home basics",
+        "where": "permission section"
+      },
+      {
+        "slug": "how-to-baby-proof-a-rental-without-damage",
+        "anchor": "baby proofing a rental without damage",
+        "where": "Ideal Security childproof clip"
+      }
+    ]
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "door-camera-for-apartment",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-wireless-security-cameras-for-apartments",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-peephole-camera-for-apartments",
+      "mode": "related-box"
+    }
+  ]
+}
