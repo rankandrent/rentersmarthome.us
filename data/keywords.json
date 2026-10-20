@@ -728,7 +728,7 @@
     "funnel": "mofu",
     "workingTitle": "Ring vs Blink for Renters: Which Camera System Should You Choose?",
     "cluster": "apartment security",
-    "rationale": "150/mo, KD 0, TP 1.7k (Ahrefs); ≤250 long-tail rule",
+    "rationale": "150/mo, KD 0, TP 1.7k (Ahrefs); \u2264250 long-tail rule",
     "ahrefs": {
       "volume": 150,
       "kd": 0,
@@ -798,7 +798,7 @@
     "articleType": "comparison",
     "intent": "informational",
     "funnel": "mofu",
-    "workingTitle": "Matter vs Zigbee (2026) – What Renters Should Buy",
+    "workingTitle": "Matter vs Zigbee (2026) \u2013 What Renters Should Buy",
     "cluster": "voice assistants",
     "rationale": "400/mo, KD 0 (Ahrefs)",
     "ahrefs": {
@@ -1236,7 +1236,7 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     },
-    "lastError": "owner keyword paused: Ahrefs volume 0 (≤ 10/mo, no measurable demand)"
+    "lastError": "owner keyword paused: Ahrefs volume 0 (\u2264 10/mo, no measurable demand)"
   },
   {
     "status": "published",
@@ -1717,7 +1717,7 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     },
-    "lastError": "owner keyword paused: Ahrefs volume 10 (≤ 10/mo, no measurable demand)"
+    "lastError": "owner keyword paused: Ahrefs volume 10 (\u2264 10/mo, no measurable demand)"
   },
   {
     "status": "parked",
@@ -1741,7 +1741,7 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     },
-    "lastError": "owner keyword paused: Ahrefs volume 0 (≤ 10/mo, no measurable demand)"
+    "lastError": "owner keyword paused: Ahrefs volume 0 (\u2264 10/mo, no measurable demand)"
   },
   {
     "status": "pending",
@@ -2628,7 +2628,7 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     },
-    "lastError": "owner keyword paused: Ahrefs volume 10 (≤ 10/mo, no measurable demand)"
+    "lastError": "owner keyword paused: Ahrefs volume 10 (\u2264 10/mo, no measurable demand)"
   },
   {
     "status": "pending",
@@ -2744,7 +2744,7 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     },
-    "lastError": "owner keyword paused: Ahrefs volume 10 (≤ 10/mo, no measurable demand)"
+    "lastError": "owner keyword paused: Ahrefs volume 10 (\u2264 10/mo, no measurable demand)"
   },
   {
     "status": "pending",
@@ -2929,7 +2929,7 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     },
-    "lastError": "owner keyword paused: Ahrefs volume 0 (≤ 10/mo, no measurable demand)"
+    "lastError": "owner keyword paused: Ahrefs volume 0 (\u2264 10/mo, no measurable demand)"
   },
   {
     "status": "pending",
@@ -3929,7 +3929,7 @@
       "date": "2026-10-19"
     },
     "slug": "how-to-baby-proof-cords",
-    "note": "2026-10-20: SERP gate failed — top-10 pages recommend only product types (cord covers, shorteners, box outlet covers), no model on 2+ pages. Revisit if the SERP starts naming models, or write as a no-product how-to if the owner allows."
+    "note": "2026-10-20: SERP gate failed \u2014 top-10 pages recommend only product types (cord covers, shorteners, box outlet covers), no model on 2+ pages. Revisit if the SERP starts naming models, or write as a no-product how-to if the owner allows."
   },
   {
     "status": "pending",
@@ -4039,7 +4039,7 @@
     "slug": "apple-homekit-compatible-devices"
   },
   {
-    "status": "pending",
+    "status": "deferred",
     "attempts": 0,
     "addedAt": "2026-10-19T12:59:25.176Z",
     "secondaryKeywords": [
@@ -4072,7 +4072,8 @@
       "source": "ahrefs site-explorer-organic-keywords us",
       "date": "2026-10-19"
     },
-    "slug": "homekit-door-lock"
+    "slug": "homekit-door-lock",
+    "note": "2026-10-20: SERP gate failed \u2014 the live top 10 is mostly shop/maker pages; on strict top-10 editorial pages only Schlage Encode Plus is clearly named by 2+ pages (min 3 for a roundup). Product research with wider pages is in data/briefs/homekit-door-lock.products.json; revisit when the SERP has more review articles."
   },
   {
     "status": "pending",
