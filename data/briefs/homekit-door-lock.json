@@ -1,0 +1,443 @@
+{
+  "centralEntity": "HomeKit door lock",
+  "entityVariants": [
+    "Apple HomeKit smart lock",
+    "Apple Home compatible lock",
+    "Apple Home Key lock",
+    "HomeKit deadbolt",
+    "Matter smart lock for Apple Home"
+  ],
+  "entities": [
+    {
+      "name": "Apple Home Key",
+      "type": "feature",
+      "relation": "NFC/UWB tap-to-unlock stored in Apple Wallet; works locally without internet"
+    },
+    {
+      "name": "Matter over Thread",
+      "type": "protocol",
+      "relation": "connectivity standard most 2025-26 HomeKit locks use; needs a Thread border router"
+    },
+    {
+      "name": "Thread border router (HomePod mini / Apple TV 4K)",
+      "type": "hardware",
+      "relation": "home hub required for remote access, notifications and automations"
+    },
+    {
+      "name": "Aqara U200",
+      "type": "product",
+      "relation": "retrofit lock with Home Key that attaches to the interior side of the existing deadbolt"
+    },
+    {
+      "name": "Aqara U400",
+      "type": "product",
+      "relation": "deadbolt replacement with Home Key and UWB hands-free unlock"
+    },
+    {
+      "name": "Schlage Encode Plus",
+      "type": "product",
+      "relation": "Wi-Fi deadbolt with Home Key, built-in keypad, BHMA Grade 1"
+    },
+    {
+      "name": "Level Lock Pro",
+      "type": "product",
+      "relation": "hidden in-door lock with Home Key, Matter over Thread, CR2 battery"
+    },
+    {
+      "name": "Yale Assure Lock 2 Plus",
+      "type": "product",
+      "relation": "keypad deadbolt with Home Key, Matter/Thread, 9V emergency terminal"
+    },
+    {
+      "name": "ULTRALOQ Bolt NFC",
+      "type": "product",
+      "relation": "Wi-Fi Home Key deadbolt, no hub needed for tap unlock"
+    },
+    {
+      "name": "Express Mode / Power Reserve",
+      "type": "feature",
+      "relation": "tap to unlock for up to about 5 hours after iPhone battery dies, per addtohomekit"
+    },
+    {
+      "name": "Retrofit smart lock",
+      "type": "category",
+      "relation": "attaches to existing deadbolt, keeps your key and cylinder, reversible"
+    },
+    {
+      "name": "Landlord lock alteration clause",
+      "type": "lease concept",
+      "relation": "lease language that governs changing locks"
+    },
+    {
+      "name": "BHMA/ANSI Grade 1",
+      "type": "standard",
+      "relation": "deadbolt security rating"
+    }
+  ],
+  "attributes": [
+    "Home Key (NFC/UWB) support",
+    "retrofit vs replacement install",
+    "hub / Thread border router required",
+    "Matter vs HomeKit-native",
+    "battery type and life",
+    "physical key backup",
+    "keypad and guest codes",
+    "works offline",
+    "no subscription",
+    "reversible for move-out",
+    "door thickness / backset fit",
+    "iPhone compatibility"
+  ],
+  "ngrams": [
+    "homekit door lock",
+    "apple home key",
+    "homekit compatible smart lock",
+    "apple home app",
+    "matter over thread",
+    "thread border router",
+    "existing deadbolt",
+    "retrofit smart lock",
+    "tap to unlock",
+    "apple watch",
+    "physical key",
+    "no monthly fees",
+    "auto-lock",
+    "guest access codes",
+    "homepod mini",
+    "apple tv"
+  ],
+  "skipgrams": [
+    "retrofit\u2026existing deadbolt",
+    "Home Key\u2026Apple Wallet",
+    "Thread\u2026border router",
+    "HomePod\u2026hub",
+    "lock\u2026Siri",
+    "battery\u20269V",
+    "keypad\u2026guest codes",
+    "lock\u2026landlord",
+    "original\u2026deadbolt",
+    "tap\u2026iPhone"
+  ],
+  "nlpTerms": [
+    "HomeKit",
+    "Home Key",
+    "Apple Wallet",
+    "Matter",
+    "Thread",
+    "border router",
+    "NFC",
+    "UWB",
+    "Express Mode",
+    "deadbolt",
+    "retrofit",
+    "keypad",
+    "fingerprint",
+    "Siri",
+    "auto-lock",
+    "firmware",
+    "Wi-Fi",
+    "Bluetooth",
+    "tenancy",
+    "landlord",
+    "key cylinder",
+    "backset",
+    "BHMA",
+    "hub"
+  ],
+  "questions": [
+    "What is the difference between a HomeKit lock and a Home Key lock?",
+    "Do I need a HomePod or Apple TV for a HomeKit lock?",
+    "Is there a HomeKit lock that keeps my existing deadbolt?",
+    "Does a HomeKit lock work if the internet or iPhone battery is dead?",
+    "Can I install a HomeKit door lock in a rental?",
+    "Which HomeKit locks need no monthly fee?",
+    "Does Home Key work with Apple Watch?",
+    "Can guests and my landlord get access without an Apple device?"
+  ],
+  "contentGaps": [
+    "Which HomeKit/Home Key locks are actually reversible for a renter (retrofit) versus a deadbolt swap",
+    "The hub/Thread border router dependency and what happens to it when you move",
+    "Lockout planning: physical key, 9V terminal, Express Mode battery limits",
+    "Guests, roommates, landlord and maintenance access without an Apple device",
+    "Lease language and a ready-to-send landlord request",
+    "Move-out restore checklist (keep the original deadbolt and keys)",
+    "Android-using roommates or guests"
+  ],
+  "outline": [
+    {
+      "h2": "Best HomeKit door locks for renters at a glance",
+      "intent": "Quick answer and comparison table with install type (retrofit vs swap), Home Key, hub need",
+      "h3": []
+    },
+    {
+      "h2": "Picks: retrofit locks that keep your deadbolt",
+      "intent": "Renter-safe picks first",
+      "h3": [
+        "Aqara Smart Lock U200: retrofit with Home Key",
+        "(one more verified retrofit pick)"
+      ]
+    },
+    {
+      "h2": "Picks: deadbolt-swap locks if your lease allows it",
+      "intent": "Standard roundup picks",
+      "h3": [
+        "Aqara Smart Lock U400",
+        "Schlage Encode Plus",
+        "Yale Assure Lock 2 Plus",
+        "Level Lock Pro",
+        "ULTRALOQ Bolt NFC"
+      ]
+    },
+    {
+      "h2": "HomeKit vs Home Key vs Matter: what you actually need",
+      "intent": "Short common-points section: compatibility, iOS, hub",
+      "h3": [
+        "Do you need a HomePod or Apple TV?"
+      ]
+    },
+    {
+      "h2": "Get the landlord's yes (email template)",
+      "intent": "Lease clause and approval",
+      "h3": [
+        "What to look for in the lease",
+        "Send-ready email"
+      ]
+    },
+    {
+      "h2": "Problems owners run into, and the fix",
+      "intent": "Answer pain points: dead battery lockouts, hub drops, misaligned doors, privacy",
+      "h3": [
+        "Dead battery or dead phone",
+        "Lock shows no response in Apple Home",
+        "Door alignment and motor strain",
+        "Who can see the entry log"
+      ]
+    },
+    {
+      "h2": "Move-out day: restore the original",
+      "intent": "Reversal checklist",
+      "h3": []
+    },
+    {
+      "h2": "Which HomeKit door lock should you pick?",
+      "intent": "Choose X if / Y if verdict",
+      "h3": []
+    }
+  ],
+  "targetWords": 1850,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.addtohomekit.com/blog/apple-home-key-compatible-locks/",
+      "https://www.aqara.com/en/blog/the-best-homekit-smart-locks/",
+      "https://www.cnet.com/home/security/best-smart-locks/ (snippet only, scrape blocked)",
+      "https://www.eufy.com/collections/homekit-door-lock (snippet)"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "The ranking articles (addtohomekit, Aqara) give each lock a short prose paragraph with no pros/cons lists or spec tables; only a summary table at the top.",
+    "avgWords": 1850,
+    "avgProducts": 6,
+    "commonSections": [
+      "summary comparison table",
+      "picks with a paragraph each",
+      "what is Home Key / how it works",
+      "what to look for",
+      "cost",
+      "FAQ"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.apple.com/shop/home/accessories/smart-home-accessories/locks",
+      "title": "Locks - Smart Home Accessories - Apple"
+    },
+    {
+      "position": 2,
+      "url": "https://www.reddit.com/r/HomeKit/comments/1ppiax5/best_apple_home_compatible_smart_deadbolts_and/",
+      "title": "Best Apple home compatible smart deadbolts and locks? : r/HomeKit"
+    },
+    {
+      "position": 3,
+      "url": "https://shopyalehome.com/collections/apple-homekit",
+      "title": "Smart Locks Compatible with Apple Homekit | Yale Home"
+    },
+    {
+      "position": 4,
+      "url": "https://www.homedepot.com/b/Smart-Home-Smart-Devices-Smart-Home-Security-Smart-Locks/HomeKit/N-5yc1vZc7byZ1z0kb2w",
+      "title": "HomeKit - Smart Locks - The Home Depot"
+    },
+    {
+      "position": 5,
+      "url": "https://www.addtohomekit.com/blog/apple-home-key-compatible-locks/",
+      "title": "HomeKit Door Locks & Apple Home Key Compatible Locks (2026)"
+    },
+    {
+      "position": 6,
+      "url": "https://www.aqara.com/en/blog/the-best-homekit-smart-locks/",
+      "title": "The Best Homekit Door Locks - Aqara"
+    },
+    {
+      "position": 7,
+      "url": "https://www.eufy.com/collections/homekit-door-lock",
+      "title": "HomeKit Door Locks for Apple Home eufy US"
+    },
+    {
+      "position": 8,
+      "url": "https://www.cnet.com/home/security/best-smart-locks/",
+      "title": "Best Smart Locks of 2026: Your Door Deserves This - CNET"
+    },
+    {
+      "position": 9,
+      "url": "https://www.amazon.com/HomeKit-Door-Lock/s?k=HomeKit+Door+Lock",
+      "title": "HomeKit Door Lock - Amazon.com"
+    },
+    {
+      "position": 10,
+      "url": "https://www.lowes.com/pl/door-hardware/electronic-door-locks/apple-homekit/946307085-4294414630",
+      "title": "Apple HomeKit Electronic Door Locks | Lowe's"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 3,
+    "withYear": 2,
+    "withNumber": 0,
+    "commonModifiers": [
+      "Apple Home / Home Key compatible",
+      "best",
+      "2026"
+    ],
+    "gap": "No title speaks to renters: keep your deadbolt, no lease violation, reversible"
+  },
+  "commonPoints": [
+    "HomeKit locks let you lock/unlock from the Home app, Siri and Apple Watch",
+    "Home Key puts the key in Apple Wallet and works by tapping iPhone or Apple Watch",
+    "Newer locks use Matter over Thread and need a HomePod mini or Apple TV as hub for remote control",
+    "Schlage, Yale, Aqara, Level and ULTRALOQ are the main brands",
+    "Keypad, fingerprint and physical key backups, auto-lock and shareable guest codes are standard",
+    "Prices run roughly $175 to $1,000 (per Aqara)"
+  ],
+  "ourGain": [
+    {
+      "point": "Sort every pick by renter reversibility: retrofit that keeps your deadbolt and key (Aqara U200 attaches inside the existing deadbolt) versus swap-in deadbolts; top results list them all as equal",
+      "source": "https://www.addtohomekit.com/blog/apple-home-key-compatible-locks/ and https://www.reddit.com/r/HomeKit/comments/18wyl18/are_there_any_retrofit_locks_that_support_apple/"
+    },
+    {
+      "point": "Lockout plan for rentals: Home Key works offline and Express Mode can last about 5 hours after the iPhone dies, Yale's 9V terminal, keep the physical key; lockout fees can land on the tenant",
+      "source": "https://www.reddit.com/r/legaladvice/comments/1pa2zkl/locked_out_at_2_am_due_to_failed_smart_lock/ and data/pain-points.json smart-locks-battery-dies-lockout"
+    },
+    {
+      "point": "The hidden hub dependency: remote access and automations need a Thread border router that stays powered and on Wi-Fi, which a renter must pack and re-set up; the lock shows unresponsive without it",
+      "source": "https://www.addtohomekit.com/blog/apple-home-key-compatible-locks/ (troubleshooting) and data/pain-points.json smart-locks-wifi-app-connection-drops"
+    },
+    {
+      "point": "A send-ready landlord request plus lease clause check and move-out restore steps, because no top result covers the lease side",
+      "source": "data/pain-points.json smart-locks-retrofit-lease-eviction-risk"
+    },
+    {
+      "point": "Guest, roommate and landlord access without an Apple device (keypad codes, physical key), since Home Key is Apple-only",
+      "source": "https://www.addtohomekit.com/blog/apple-home-key-compatible-locks/ (Android NFC only noted for ULTRALOQ)"
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "smart-locks-retrofit-lease-eviction-risk",
+      "pain": "Renter wants a smart lock but fears the landlord will treat it as a lock alteration",
+      "details": "Renters ask for a lock that leaves the outside key cylinder alone so the landlord keeps access and there is no lease violation or eviction risk.",
+      "sources": [
+        "https://www.reddit.com/r/jerseycity/comments/1ncrxoj/landlord_wont_provide_physical_keys_for_smart/",
+        "https://www.reddit.com/r/homeautomation/comments/1rm2gag/best_renter_friendly_smart_lock/",
+        "https://www.landlordstudio.com/blog/whats-the-best-lock-for-a-rental-property",
+        "https://www.reddit.com/r/HomeKit/comments/18wyl18/are_there_any_retrofit_locks_that_support_apple/"
+      ],
+      "quotes": [
+        {
+          "text": "If the landlord found out and considered this an alteration of the lock, you could face eviction.",
+          "url": "https://www.reddit.com/r/jerseycity/comments/1ncrxoj/landlord_wont_provide_physical_keys_for_smart/"
+        },
+        {
+          "text": "You leave the outside of the deadbolt the same. This allows the landlord to keep using their same key.",
+          "url": "https://www.reddit.com/r/homeautomation/comments/1rm2gag/best_renter_friendly_smart_lock/"
+        },
+        {
+          "text": "I live in a rented apartment and can't change the locks as per the tenancy agreement, so am restricted to retrofit locks only.",
+          "url": "https://www.reddit.com/r/HomeKit/comments/18wyl18/are_there_any_retrofit_locks_that_support_apple/"
+        }
+      ]
+    },
+    {
+      "id": "smart-locks-battery-dies-lockout",
+      "pain": "Smart lock battery dies and the renter is locked out with no physical key",
+      "details": "Renters in building-managed or retrofit smart locks get locked out at night when the batteries fail, often with no key or backup. Many ask who is liable and how to prevent it.",
+      "sources": [
+        "https://www.reddit.com/r/legaladvice/comments/1pa2zkl/locked_out_at_2_am_due_to_failed_smart_lock/",
+        "https://www.reddit.com/r/ApartmentMaintenance/comments/1p38soy/these_door_locks_requires_batteries_when_the/",
+        "https://www.reddit.com/r/Locksmith/comments/16h9v92/lockout_due_to_battery_issue_is_the_landlord/",
+        "https://www.landlordstudio.com/blog/whats-the-best-lock-for-a-rental-property"
+      ],
+      "quotes": [
+        {
+          "text": "When the batteries die, the occupant is locked out until a maintenance technician comes.",
+          "url": "https://www.reddit.com/r/ApartmentMaintenance/comments/1p38soy/these_door_locks_requires_batteries_when_the/"
+        },
+        {
+          "text": "Batteries die, and a smart lock with dead batteries is a locked door.",
+          "url": "https://www.landlordstudio.com/blog/whats-the-best-lock-for-a-rental-property"
+        }
+      ]
+    },
+    {
+      "id": "smart-locks-wifi-app-connection-drops",
+      "pain": "Smart lock loses Wi-Fi or Bluetooth connection and remote unlock stops working",
+      "details": "Owners find the lock offline, the app not connecting, or remote unlock failing; standard fixes are restarting the router, reinstalling the app, or checking batteries.",
+      "sources": [
+        "https://iveise.com/blogs/how-to/smart-lock-not-working-10-common-problems-and-how-to-fix-them",
+        "https://www.facebook.com/groups/rockypointmexicofriends/posts/1712461169235088/",
+        "https://ardanshield.com/blogs/ttlock-smart-access/ttlock-remote-unlock-not-working-uk"
+      ],
+      "quotes": [
+        {
+          "text": "Restart your router, wait 60 seconds, then check if the lock reconnects automatically.",
+          "url": "https://iveise.com/blogs/how-to/smart-lock-not-working-10-common-problems-and-how-to-fix-them"
+        }
+      ]
+    },
+    {
+      "id": "smart-locks-motor-misaligned-door-fails",
+      "pain": "Smart lock motor will not fully lock or unlock because of door alignment, heat or cold",
+      "details": "Owners report the bolt not extending when the latch does not pull the door in or when temperature changes make the motor struggle.",
+      "sources": [
+        "https://www.reddit.com/r/smarthome/comments/1l473e3/anybody_having_trouble_with_smart_locks_not/",
+        "https://www.reddit.com/r/smarthome/comments/1i2bxz5/discussion_why_smart_lock_are_not_used_by/"
+      ],
+      "quotes": [
+        {
+          "text": "If you close the door and the latch doesn't pull the door in enough for the deadbolt to slide out, then you have to adjust the latch.",
+          "url": "https://www.reddit.com/r/smarthome/comments/1l473e3/anybody_having_trouble_with_smart_locks_not/"
+        },
+        {
+          "text": "If it is hot, or cold, or your door isn't exactly perfectly fitted, there",
+          "url": "https://www.reddit.com/r/smarthome/comments/1i2bxz5/discussion_why_smart_lock_are_not_used_by/"
+        }
+      ]
+    },
+    {
+      "id": "smart-locks-landlord-access-privacy",
+      "pain": "Tenants worry app-based locks let the landlord or a hacker track entries and open the door",
+      "details": "Residents of buildings with managed smart locks object to entry logging and to flaws that let others trip the lock.",
+      "sources": [
+        "https://www.reddit.com/r/StallmanWasRight/comments/vlyvjy/apartment_wants_to_install_smartlocks_we_dont/",
+        "https://www.eff.org/deeplinks/2023/04/smart-locks-endanger-tenants-privacy-and-should-be-regulated",
+        "https://www.reddit.com/r/Seattle/comments/ydfayy/help_smart_locks_and_tenant_rights/"
+      ],
+      "quotes": [
+        {
+          "text": "Smart locks can be tripped by more than just the landlord.",
+          "url": "https://www.reddit.com/r/StallmanWasRight/comments/vlyvjy/apartment_wants_to_install_smartlocks_we_dont/"
+        }
+      ]
+    }
+  ]
+}
