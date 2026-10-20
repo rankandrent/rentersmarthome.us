@@ -1,0 +1,43 @@
+{
+ "products": [
+  {
+   "name": "D-Line Mini Raceway Cord Cover (1.18 in x 0.59 in, self-adhesive)",
+   "brand": "D-Line",
+   "query": "D-Line cord cover self adhesive wire hider paintable",
+   "badge": "Best wall cord hider",
+   "summary": "A half-round, paintable raceway with a click-lock lid and self-adhesive backing that sits above the baseboard and on vertical drops, so a lamp or TV cord is enclosed instead of dangling within reach.",
+   "renterNote": "For renters with a few cords running up or along a wall in a nursery or living room. Caveat: the adhesive bonds strongly, and D-Line says removal takes a wall-paper scraper and adhesive remover, so test a hidden spot and plan the move-out cleanup.",
+   "pros": ["No drilling: self-adhesive backing, click-lock lid", "Paintable to match the wall", "Fits cords on baseboard runs, vertical drops and ceiling runs"],
+   "cons": ["Adhesive is strong and needs remover on removal, so wall or paint damage is possible", "Wall raceway only; it does not protect cords crossing open floor"],
+   "specs": {"profile": "1.18 in W x 0.59 in H half-round", "install": "self-adhesive backing, click-lock lid, flexible hinge", "finish": "paintable", "accessories": "bends, T, connector and end caps sold for the range", "removal": "D-Line advises a wall-paper scraper and adhesive remover (Amazon safety note for the 157 in kit)"},
+   "scores": {"install": 8, "reversibility": 5, "value": 8, "portability": 3},
+   "scoreNote": "Tool-free peel-and-stick install, but the maker itself warns the bond is strong and needs adhesive remover, so reversibility is only mid-range.",
+   "sources": ["https://d-line-it.com/us/mini-raceway/", "https://d-line-it.com/us/raceway/"],
+   "serpEvidence": "type-level only: wall/floor cord covers or concealers recommended by babyproofme.com, lifesupplyusa.com, mistersparky.com, barnettelectrical.com, myfivestarhomeservices.com; D-Line is not named by any of them"
+  },
+  {
+   "name": "Safety 1st Outlet Cover with Cord Shortener (Item 48308)",
+   "brand": "Safety 1st",
+   "query": "Safety 1st outlet cover with cord shortener",
+   "badge": "Best for a plugged-in lamp or monitor",
+   "summary": "A box-style outlet cover that encloses the plug in a used outlet and has a built-in cord shortener, so excess cord is stored inside and a toddler cannot pull the plug out.",
+   "renterNote": "For renters whose nursery lamp, monitor or charger sits in a wall outlet at crawling height. Caveat: I could not confirm from maker or retailer text how it attaches to the outlet, so check the package before assuming it is fully tool-free and removable.",
+   "pros": ["Child-resistant dual-press release", "Built-in cord shortener to avoid cord entanglement", "Listed by Home Depot as UL-listed"],
+   "cons": ["Stores roughly four feet of cord depending on thickness, so very long cords still need another fix", "Covers one outlet only; power strips need a separate cover"],
+   "specs": {"model": "48308", "release": "child-resistant dual press", "cordStorage": "up to 4 ft of cord depending on thickness (Target listing)", "certification": "UL-listed (Home Depot listing)"},
+   "scores": {"install": 7, "reversibility": 7, "value": 8, "portability": 6},
+   "scoreNote": "Scores assume a no-drill plug-over fit that I could not verify; the dual-press release and built-in shortener are sourced, but the attachment method is not stated in the text I read.",
+   "sources": ["https://www.homedepot.com/p/Safety-1st-Outlet-Cover-with-Cord-Shorterner-48308/205904465", "https://consumercare.safety1st.com/s/article/Image-Safety-1st-Outlet-Cover-with-Cord-Shortener-Item-No-48308"],
+   "serpEvidence": "type-level only: box outlet covers and cord shorteners recommended by babyproofme.com, lifesupplyusa.com, mistersparky.com, myfivestarhomeservices.com; The Bump forum thread names Safety 1st (a different Double Touch Plug N Outlet Cover) once"
+  }
+ ],
+ "serpProducts": [
+  {"name": "Cord covers / cord hiders / concealers (generic type)", "pages": ["https://babyproofme.com/blogs/the-parenting-journal/how-to-baby-proof-electrical-outlets-and-cords-a-comprehensive-guide", "https://lifesupplyusa.com/blogs/news/how-to-childproof-extension-cords-and-electrical-outlets", "https://www.mistersparky.com/expert-tips/general-electrical/child-proofing-outlets-plugs-and-cords/", "https://barnettelectrical.com/how-to-childproof-the-wires-in-your-living-room/", "https://www.myfivestarhomeservices.com/how-to-babyproof-your-home/"], "note": "no brand or model named"},
+  {"name": "Cord shorteners / winders (generic type)", "pages": ["https://babyproofme.com/blogs/the-parenting-journal/how-to-baby-proof-electrical-outlets-and-cords-a-comprehensive-guide", "https://lifesupplyusa.com/blogs/news/how-to-childproof-extension-cords-and-electrical-outlets", "https://www.mistersparky.com/expert-tips/general-electrical/child-proofing-outlets-plugs-and-cords/", "https://barnettelectrical.com/how-to-childproof-the-wires-in-your-living-room/", "https://www.myfivestarhomeservices.com/how-to-babyproof-your-home/"], "note": "no brand or model named"},
+  {"name": "Box outlet covers for in-use outlets (generic type)", "pages": ["https://babyproofme.com/blogs/the-parenting-journal/how-to-baby-proof-electrical-outlets-and-cords-a-comprehensive-guide", "https://lifesupplyusa.com/blogs/news/how-to-childproof-extension-cords-and-electrical-outlets", "https://www.mistersparky.com/expert-tips/general-electrical/child-proofing-outlets-plugs-and-cords/", "https://www.myfivestarhomeservices.com/how-to-babyproof-your-home/"], "note": "no brand or model named"},
+  {"name": "Power strip covers (generic type)", "pages": ["https://babyproofme.com/blogs/the-parenting-journal/how-to-baby-proof-electrical-outlets-and-cords-a-comprehensive-guide", "https://www.mistersparky.com/expert-tips/general-electrical/child-proofing-outlets-plugs-and-cords/", "https://barnettelectrical.com/how-to-childproof-the-wires-in-your-living-room/", "https://www.myfivestarhomeservices.com/how-to-babyproof-your-home/"], "note": "no brand or model named"},
+  {"name": "Cord sleeves / bundling (generic type)", "pages": ["https://lifesupplyusa.com/blogs/news/how-to-childproof-extension-cords-and-electrical-outlets", "https://www.mistersparky.com/expert-tips/general-electrical/child-proofing-outlets-plugs-and-cords/", "https://babyproofme.com/blogs/the-parenting-journal/how-to-baby-proof-electrical-outlets-and-cords-a-comprehensive-guide"], "note": "no brand or model named"},
+  {"name": "Safety 1st Double Touch Plug N Outlet Covers", "pages": ["https://forums.thebump.com/discussion/1801626/how-to-baby-proof-cords"], "note": "1 page (2009 forum); does not qualify"}
+ ],
+ "qualifiedNote": "No specific brand/model is named by 2+ top-10 pages; all ranking pages recommend product TYPES only. The two products above are representative models of the two most-recommended renter-friendly types and are NOT SERP-confirmed models."
+}
