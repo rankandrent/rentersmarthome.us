@@ -1359,7 +1359,7 @@
     }
   },
   {
-    "status": "pending",
+    "status": "deferred",
     "attempts": 1,
     "addedAt": "2026-10-14T08:48:40.167Z",
     "secondaryKeywords": [],
@@ -1376,7 +1376,7 @@
     "rationale": "user-provided keyword list (2026-10-14)",
     "slug": "best-no-drill-mailbox-lock-for-apartment-renters",
     "productCount": 4,
-    "note": "2026-10-17: skipped, no no-drill mailbox lock recommended by 2+ top-10 pages; USPS/landlord own cluster box locks. Consider a guide \"can a renter change an apartment mailbox lock\".",
+    "note": "2026-10-17: skipped, no no-drill mailbox lock recommended by 2+ top-10 pages; USPS/landlord own cluster box locks. Consider a guide \"can a renter change an apartment mailbox lock\". 2026-10-20: skipped again: SERP is smart door locks/stores; renters cannot fit CBU mailbox locks. Retry only as a guide keyword.",
     "ahrefs": {
       "notInDatabase": true,
       "source": "ahrefs keywords-explorer-overview us",
@@ -1483,7 +1483,7 @@
     }
   },
   {
-    "status": "pending",
+    "status": "deferred",
     "attempts": 1,
     "addedAt": "2026-10-14T08:48:40.167Z",
     "secondaryKeywords": [],
@@ -1500,7 +1500,7 @@
     "rationale": "user-provided keyword list (2026-10-14)",
     "slug": "best-stove-knob-covers-for-renters",
     "productCount": 5,
-    "note": "2026-10-17: skipped, only 2 products with 2+ pages and owner reviews nearly empty",
+    "note": "2026-10-17: skipped, only 2 products with 2+ pages and owner reviews nearly empty 2026-10-20: only Safety 1st has 2+ top-10 pages; SERP is stores + Consumer Reports. Retry as guide: how to baby proof gas stove knobs in an apartment.",
     "ahrefs": {
       "notInDatabase": true,
       "source": "ahrefs keywords-explorer-overview us",
