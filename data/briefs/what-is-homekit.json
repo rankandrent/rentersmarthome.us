@@ -1,0 +1,474 @@
+{
+  "centralEntity": "Apple HomeKit",
+  "entityVariants": [
+    "HomeKit",
+    "Apple Home",
+    "Apple Home app",
+    "Apple HomeKit",
+    "HomeKit platform",
+    "Home app"
+  ],
+  "entities": [
+    {
+      "name": "Home app",
+      "type": "software",
+      "relation": "the interface on iPhone, iPad, Mac and Apple Watch that runs on the HomeKit framework"
+    },
+    {
+      "name": "HomeKit Accessory Protocol (HAP)",
+      "type": "protocol",
+      "relation": "the rigid accessory language HomeKit uses; open-sourced as part of Apple's contribution to Matter"
+    },
+    {
+      "name": "Siri",
+      "type": "voice assistant",
+      "relation": "voice control for HomeKit accessories"
+    },
+    {
+      "name": "Home hub",
+      "type": "hardware role",
+      "relation": "always-on Apple TV 4K, HomePod or HomePod mini that enables remote access and automations"
+    },
+    {
+      "name": "HomePod mini",
+      "type": "product",
+      "relation": "lowest-cost Apple hub and Thread border router"
+    },
+    {
+      "name": "Apple TV 4K",
+      "type": "product",
+      "relation": "home hub and Thread border router (Thread-capable models)"
+    },
+    {
+      "name": "Matter",
+      "type": "standard",
+      "relation": "cross-ecosystem standard that Apple Home supports"
+    },
+    {
+      "name": "Thread",
+      "type": "protocol",
+      "relation": "low-power mesh network needing a border router"
+    },
+    {
+      "name": "Thread border router",
+      "type": "hardware role",
+      "relation": "bridges Thread devices to Wi-Fi/Ethernet"
+    },
+    {
+      "name": "HomeKit Secure Video",
+      "type": "feature",
+      "relation": "end-to-end encrypted camera recording that requires an iCloud+ plan and a hub"
+    },
+    {
+      "name": "iCloud+",
+      "type": "subscription",
+      "relation": "required for HomeKit Secure Video"
+    },
+    {
+      "name": "Apple ID / iCloud account",
+      "type": "account",
+      "relation": "owns the Home and the hub; central to move-out and roommate sharing"
+    },
+    {
+      "name": "Homebridge",
+      "type": "software",
+      "relation": "workaround to add non-HomeKit devices"
+    },
+    {
+      "name": "Alexa and Google Home",
+      "type": "competing ecosystems",
+      "relation": "alternatives; Matter lets devices work across them"
+    },
+    {
+      "name": "Zigbee",
+      "type": "protocol",
+      "relation": "needs a manufacturer bridge (e.g. Philips Hue Bridge) to join HomeKit"
+    }
+  ],
+  "attributes": [
+    "privacy and end-to-end encryption",
+    "no subscription for the platform itself",
+    "Apple-only control",
+    "hub required for remote access and automations",
+    "Matter and Thread support",
+    "accessory compatibility badge (Works with Apple Home)",
+    "setup by QR or 8-digit code",
+    "hub cost",
+    "local control",
+    "iCloud+ for camera recording",
+    "move-out portability"
+  ],
+  "ngrams": [
+    "Apple HomeKit",
+    "Apple Home app",
+    "home hub",
+    "Works with Apple Home",
+    "Matter and Thread",
+    "Thread border router",
+    "Siri voice commands",
+    "HomeKit Secure Video",
+    "HomeKit Accessory Protocol",
+    "smart home platform",
+    "HomeKit compatible devices",
+    "scenes and automations",
+    "remote access",
+    "Apple TV or HomePod",
+    "what is HomeKit"
+  ],
+  "skipgrams": [
+    "HomeKit\u2026framework",
+    "Home\u2026app",
+    "hub\u2026remote access",
+    "hub\u2026automations",
+    "Thread\u2026border router",
+    "Matter\u2026compatible",
+    "Siri\u2026voice",
+    "Apple ID\u2026home",
+    "HomePod\u2026hub",
+    "accessories\u2026QR code",
+    "Secure Video\u2026iCloud+",
+    "works with\u2026badge"
+  ],
+  "nlpTerms": [
+    "Apple",
+    "iPhone",
+    "iPad",
+    "Home app",
+    "accessory",
+    "hub",
+    "HomePod mini",
+    "Apple TV",
+    "Siri",
+    "automation",
+    "scene",
+    "Matter",
+    "Thread",
+    "border router",
+    "Wi-Fi",
+    "Bluetooth",
+    "iCloud",
+    "Apple ID",
+    "encryption",
+    "privacy",
+    "framework",
+    "protocol",
+    "pairing",
+    "setup code",
+    "QR code",
+    "iOS",
+    "room",
+    "invite",
+    "household",
+    "renter",
+    "landlord",
+    "lease"
+  ],
+  "questions": [
+    "What is HomeKit?",
+    "Is HomeKit the same as the Apple Home app?",
+    "Do I need a hub to use HomeKit?",
+    "Does HomeKit cost money?",
+    "Does HomeKit work with Alexa or Google Home?",
+    "Does Matter mean a device works with HomeKit?",
+    "Can I use HomeKit without an Apple TV or HomePod?",
+    "Can HomeKit work on Android?",
+    "What happens to my HomeKit setup when I move?",
+    "Can roommates share HomeKit?"
+  ],
+  "contentGaps": [
+    "Whose Apple ID owns the home and hub in a shared apartment, and how to invite a roommate without handing over control",
+    "What to take and what to reset on move-out: removing the Home, resetting accessories, leaving the hub behind or not",
+    "Landlord-installed smart devices (locks, thermostats, hubs) and why not to add them to your own Home without written permission",
+    "Which first accessories need no drilling, no wiring and no unique hub (Wi-Fi or Thread plugs, bulbs, sensors)",
+    "Realistic cheapest renter starting kit and what a hub actually costs versus skipping it",
+    "Wi-Fi/Thread pitfalls in a dense apartment building: Thread devices dropping offline, 2.4 GHz-only devices",
+    "Matter label does not guarantee full Apple Home features"
+  ],
+  "commonPoints": [
+    "HomeKit is Apple's smart home platform/framework; the Home app is the interface",
+    "Control from iPhone, iPad, Mac, Apple Watch and Siri voice commands",
+    "Privacy and security are the selling point (encryption, local processing)",
+    "A home hub (Apple TV, HomePod, HomePod mini) is needed for remote access and automations",
+    "Look for the Works with Apple Home or Matter badge when buying accessories",
+    "Scenes and automations group and trigger devices",
+    "Matter and Thread now supported, so cross-brand compatibility is improving"
+  ],
+  "ourGain": [
+    {
+      "point": "Who owns the Home: set up the Home and hub under your own Apple ID, and invite a roommate rather than sharing a login, so the setup follows you at move-out. Include a move-out checklist (leave Home, factory reset accessories, remove shared members).",
+      "source": "https://www.reddit.com/r/HomeKit/comments/n51voa/homekit_in_a_rental_property/ (renter thread: hub and Apple ID are the first decision); gap confirmed against SERP top results, none cover it"
+    },
+    {
+      "point": "Renter starter kit logic: skip anything that needs its own bridge, pick Wi-Fi or Thread devices, and buy the hub only when you want away-from-home control and automations; a hub is not needed for at-home control.",
+      "source": "https://www.reddit.com/r/HomeKit/comments/zzyc45/first_apartment_homekit_recommendations/ ; hub facts from https://www.addtohomekit.com/blog/apple-homekit/"
+    },
+    {
+      "point": "Matter on the box does not guarantee a device works fully in Apple Home, so check the Works with Apple Home label and the maker's Apple Home page before buying.",
+      "source": "hubs-voice-matter-ecosystem-compat-confusion in data/pain-points.json (https://www.reddit.com/r/HomeKit/comments/1l0soq3/does_matter_automatically_mean_a_device_will_work/)"
+    },
+    {
+      "point": "Honest failure modes in a dense building: Thread devices going offline until the border router is reset, and Matter pairing failing; how to reduce the risk (hub placement, one set of border routers, restart order).",
+      "source": "hubs-voice-matter-thread-devices-offline and hubs-voice-matter-pairing-fails in data/pain-points.json (https://www.reddit.com/r/HomeKit/comments/1j8pf7q/thread_devices_keep_going_out/)"
+    },
+    {
+      "point": "Landlord-owned smart devices: you generally should not add a building's lock or thermostat to your own Home without written permission; ask for the pairing code or leave it out. Frame as 'check your lease', not legal advice.",
+      "source": "https://www.reddit.com/r/HomeKit/comments/1nm350y/homekit_for_rental_property/ (tenants linking property smart devices to their own voice-assistant accounts)"
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "hubs-voice-matter-ecosystem-compat-confusion",
+      "pain": "Buyers cannot tell if a Matter device will work with their Apple, Google or Alexa setup",
+      "details": "Owners ask whether Matter means a device automatically works in Apple Home, whether Echo Matter updates matter for HomeKit users, and why Google Home will not control some Matter plugs. Support varies by device and app version.",
+      "sources": [
+        "https://www.reddit.com/r/HomeKit/comments/1l0soq3/does_matter_automatically_mean_a_device_will_work/",
+        "https://www.reddit.com/r/HomeKit/comments/167zmbx/matter_contradictions/",
+        "https://www.reddit.com/r/googlehome/comments/1lcgf60/matter_devices_and_google_home/",
+        "https://www.reddit.com/r/HomeKit/comments/1hyiyn8/for_those_on_homekit_only_no_alexa_or_google_home/"
+      ],
+      "quotes": [
+        {
+          "text": "The challenge is that Matter is evolving quickly.",
+          "url": "https://www.reddit.com/r/HomeKit/comments/1l0soq3/does_matter_automatically_mean_a_device_will_work/"
+        },
+        {
+          "text": "you can't control Matter devices from Google Home",
+          "url": "https://www.reddit.com/r/googlehome/comments/1lcgf60/matter_devices_and_google_home/"
+        }
+      ]
+    },
+    {
+      "id": "hubs-voice-which-protocol-to-buy-confusion",
+      "pain": "New buyers do not understand Matter vs Zigbee vs Z-Wave vs Thread and fear buying the wrong standard",
+      "details": "First-time smart home buyers ask which protocol to start with. Replies split: stick with cheaper Zigbee for now, go Matter over Thread for speed, or run both.",
+      "sources": [
+        "https://www.reddit.com/r/HomeKit/comments/1o3xfj6/zigbee_or_matter_whats_better_looking_into_near/",
+        "https://www.reddit.com/r/smarthome/comments/1aks24p/matter_or_zigbee_which_one_will_you_choose_for/",
+        "https://www.reddit.com/r/homeassistant/comments/14uh5w7/zigbee_or_matter_for_new_installation/",
+        "https://www.reddit.com/r/homeautomation/comments/1eamwov/new_smart_home_what_protocol_should_i_use_zigbee/"
+      ],
+      "quotes": [
+        {
+          "text": "I want to make my home smart, but I ran into difficulty understanding the differences between Zigbee, Zwave and Matter.",
+          "url": "https://www.reddit.com/r/homeautomation/comments/1eamwov/new_smart_home_what_protocol_should_i_use_zigbee/"
+        },
+        {
+          "text": "Zigbee and Matter are not self exclusive and shouldn't be compared.",
+          "url": "https://www.reddit.com/r/homeassistant/comments/14uh5w7/zigbee_or_matter_for_new_installation/"
+        },
+        {
+          "text": "Matter will be the way to go in the future, but Zigbee is way more affordable for now.",
+          "url": "https://www.reddit.com/r/homeassistant/comments/1qkrlmw/zigbee_vs_matterthread_for_new_setup_in_2026/"
+        }
+      ]
+    },
+    {
+      "id": "hubs-voice-matter-thread-devices-offline",
+      "pain": "Matter over Thread devices randomly go offline and stay offline until the hub or border router is reset",
+      "details": "Owners using Apple, Eero or Home Assistant border routers report whole groups of Thread devices dropping every few days or after a restart. They tried swapping the home hub, turning off Thread on a second router, or fixing router settings.",
+      "sources": [
+        "https://www.reddit.com/r/homeassistant/comments/1u951al/matter_over_thread_is_a_pain_after_ha_restart_all/",
+        "https://www.reddit.com/r/MatterProtocol/comments/1ra5g8h/devices_constantly_offline/",
+        "https://www.reddit.com/r/HomeKit/comments/1j8pf7q/thread_devices_keep_going_out/",
+        "https://www.reddit.com/r/MatterProtocol/comments/1kcxclq/one_month_later_half_of_my_matter_devices_over/"
+      ],
+      "quotes": [
+        {
+          "text": "Pretty much randomly every other day or so- all my thread devices just go completely offline.",
+          "url": "https://www.reddit.com/r/HomeKit/comments/1j8pf7q/thread_devices_keep_going_out/"
+        },
+        {
+          "text": "I had the exact same issues with Apple thread border routers (ATVs and HomePods)",
+          "url": "https://www.reddit.com/r/MatterProtocol/comments/1ra5g8h/devices_constantly_offline/"
+        }
+      ]
+    },
+    {
+      "id": "hubs-voice-matter-pairing-fails",
+      "pain": "Matter devices will not pair or the controller refuses to add them",
+      "details": "Users spend hours or days trying to commission Matter devices into Alexa, Apple Home or Home Assistant and get stuck on border router or network errors.",
+      "sources": [
+        "https://www.reddit.com/r/alexa/comments/1dgisga/cant_add_any_matter_smart_home_products_to_alexa/",
+        "https://www.reddit.com/r/homeassistant/comments/1qzf7q3/matter_over_thread_2_hours_and_still_not_working/",
+        "https://www.reddit.com/r/homeassistant/comments/1rgodgx/ive_been_trying_to_pair_matter_devices_for_3_days/",
+        "https://www.reddit.com/r/homeassistant/comments/1r8fslh/an_update_on_im_done_with_matter_over_thread/"
+      ],
+      "quotes": [
+        {
+          "text": "Alexa suddenly won't add any Matter smart home products to its ecosystem.",
+          "url": "https://www.reddit.com/r/alexa/comments/1dgisga/cant_add_any_matter_smart_home_products_to_alexa/"
+        }
+      ]
+    },
+    {
+      "id": "hubs-voice-homekit-renter-hub-apple-id-moving",
+      "pain": "Renters starting HomeKit worry about whose Apple ID owns the home hub and what happens to the setup when they move or a roommate leaves",
+      "details": "Threads from renters ask how to set up the hub and Apple ID in a rental, what to buy that does not need a unique hub, and whether landlord-owned smart devices can be linked to the tenant's own Siri account. Only search excerpts were readable (Reddit scraping unsupported), so treat as lead-level evidence.",
+      "sources": [
+        "https://www.reddit.com/r/HomeKit/comments/n51voa/homekit_in_a_rental_property/",
+        "https://www.reddit.com/r/HomeKit/comments/1nm350y/homekit_for_rental_property/",
+        "https://www.reddit.com/r/HomeKit/comments/zzyc45/first_apartment_homekit_recommendations/",
+        "https://www.reddit.com/r/HomeKit/comments/wg8f0t/im_moving_into_an_apartment_in_a_few_months_and/"
+      ],
+      "quotes": [
+        {
+          "text": "One of the first decisions is regarding HomeKit hub and the Apple ID.",
+          "url": "https://www.reddit.com/r/HomeKit/comments/n51voa/homekit_in_a_rental_property/"
+        },
+        {
+          "text": "I'd stay away from anything that needs a unique hub and stick with WiFi or Thread devices.",
+          "url": "https://www.reddit.com/r/HomeKit/comments/zzyc45/first_apartment_homekit_recommendations/"
+        },
+        {
+          "text": "Only the wired one works with HomeKit, and you need an additional Arlo hub. Also, you lose a lot of features if you don't pay for the subscription.",
+          "url": "https://www.reddit.com/r/HomeKit/comments/wg8f0t/im_moving_into_an_apartment_in_a_few_months_and/"
+        }
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "h2": "What is HomeKit?",
+      "intent": "Direct definition: platform vs Home app, what it controls, why renters pick it",
+      "h3": [
+        "HomeKit vs the Home app",
+        "What it can and cannot do (Apple-only control, Siri, scenes)"
+      ]
+    },
+    {
+      "h2": "What you need to run HomeKit in an apartment",
+      "intent": "Core components: Apple device, hub, accessories, wireless standards in brief",
+      "h3": [
+        "Do you need a hub?",
+        "Matter, Thread and the Works with Apple Home badge"
+      ]
+    },
+    {
+      "h2": "Who owns the Home when you rent",
+      "intent": "Apple ID ownership, roommates, landlord devices, move-out checklist (ourGain)",
+      "h3": [
+        "Set it up under your own Apple ID",
+        "Inviting a roommate without sharing a login",
+        "Landlord-owned locks and thermostats",
+        "Move-out checklist"
+      ]
+    },
+    {
+      "h2": "A no-drill, no-bridge starter kit",
+      "intent": "Cheapest renter-friendly first purchases; budget and subscription flags (iCloud+ for Secure Video)",
+      "h3": [
+        "What to buy first",
+        "What to skip"
+      ]
+    },
+    {
+      "h2": "Problems owners run into, and the fix",
+      "intent": "Answer painPoints: Matter confusion, protocol choice, Thread dropouts, pairing failures",
+      "h3": [
+        "Matter does not always mean full Apple Home support",
+        "Thread devices going offline",
+        "Matter device will not pair"
+      ]
+    },
+    {
+      "h2": "Is HomeKit right for your rental?",
+      "intent": "Short decision verdict and next-step links (Matter, hubs, Alexa vs Google Home)",
+      "h3": []
+    }
+  ],
+  "targetWords": 1500,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.addtohomekit.com/blog/apple-homekit/",
+      "https://helpcenter.netatmo.com/hc/en-us/articles/360015726012-What-is-HomeKit-and-how-does-it-work",
+      "https://linkdhome.com/articles/complete-homekit-guide",
+      "https://www.apple.com/home-app/",
+      "https://www.reddit.com/r/HomeKit/comments/bjnjv9/what_is_homekit/",
+      "https://en.wikipedia.org/wiki/Apple_Home",
+      "https://www.nytimes.com/wirecutter/reviews/best-homekit-devices/",
+      "https://burzmart.lv/en/blogs/viedas-majas-celvedis/kasir-homekit-viedas-majas-sistema"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "This is an explainer, not a roundup: top results define the platform in prose and mention only hub hardware in passing (productCount 2), so any product mention gets a short prose paragraph rather than pros-cons lists or spec tables.",
+    "avgWords": 1500,
+    "avgProducts": 2,
+    "commonSections": [
+      "What is HomeKit / Apple Home",
+      "Home app and Siri",
+      "Hub requirement",
+      "Compatible accessories",
+      "Matter and Thread",
+      "Setup steps",
+      "FAQ"
+    ],
+    "usesComparisonTable": false,
+    "usesFaq": true,
+    "usesBuyingGuide": false,
+    "note": "Full text read for addtohomekit.com (~3,300 words) and Netatmo (~60 words); others judged from Firecrawl search excerpts. Mix of tiny help pages, video, forum and long guides; avgWords is an estimate (~1,500) weighted toward the text guides, set deliberately concise."
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.apple.com/home-app/",
+      "title": "Home app"
+    },
+    {
+      "position": 2,
+      "url": "https://www.reddit.com/r/HomeKit/comments/bjnjv9/what_is_homekit/",
+      "title": "What is HomeKit?"
+    },
+    {
+      "position": 3,
+      "url": "https://www.youtube.com/watch?v=mu6rUvPOg9o",
+      "title": "HomeKit EXPLAINED - Beginner's Guide"
+    },
+    {
+      "position": 4,
+      "url": "https://en.wikipedia.org/wiki/Apple_Home",
+      "title": "Apple Home"
+    },
+    {
+      "position": 5,
+      "url": "https://www.youtube.com/watch?v=FSLrKqBYQyg",
+      "title": "What is Apple Home? An introduction to Apples Smart home ..."
+    },
+    {
+      "position": 6,
+      "url": "https://www.addtohomekit.com/blog/apple-homekit/",
+      "title": "Apple HomeKit for Beginners: Complete 2026 Setup Guide"
+    },
+    {
+      "position": 7,
+      "url": "https://www.nytimes.com/wirecutter/reviews/best-homekit-devices/",
+      "title": "The Best Smart Home Devices for Apple HomeKit and Siri"
+    },
+    {
+      "position": 8,
+      "url": "https://burzmart.lv/en/blogs/viedas-majas-celvedis/kasir-homekit-viedas-majas-sistema",
+      "title": "What is HomeKit? Everything you need to know."
+    },
+    {
+      "position": 9,
+      "url": "https://linkdhome.com/articles/complete-homekit-guide",
+      "title": "Enthusiasts Guide to HomeKit"
+    },
+    {
+      "position": 10,
+      "url": "https://helpcenter.netatmo.com/hc/en-us/articles/360015726012-What-is-HomeKit-and-how-does-it-work",
+      "title": "What is HomeKit and how does it work? - Netatmo"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 3,
+    "withYear": 1,
+    "withNumber": 0,
+    "commonModifiers": [
+      "Apple",
+      "Beginner's Guide",
+      "explained",
+      "how it works",
+      "Complete / Everything you need to know"
+    ],
+    "gap": "No result frames HomeKit for renters: apartment, no-drill, and keeping your setup when you move out."
+  }
+}

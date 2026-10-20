@@ -1,0 +1,83 @@
+{
+ "status": "INSUFFICIENT: only 1 product (HOOBS Box) is a purchasable hardware item named by 2+ top-10 organic pages. Homebridge, Scrypted, AddToHomeKit, Home Assistant are software, not Amazon products. ATH Bridge is named only by addtohomekit.com pages. Amazon US listing for HOOBS Box not confirmed (only hoobs.com and eBay seen); the Amazon refresh must verify or drop it.",
+ "products": [
+  {
+   "name": "HOOBS Box (HSLF-3)",
+   "brand": "HOOBS",
+   "query": "HOOBS Box HomeKit Homebridge hub",
+   "matchName": "HOOBS",
+   "badge": "Plug-and-play bridge for Ring",
+   "summary": "A pre-built Homebridge hub that runs the Ring plugin and shows Ring doorbells, cameras and Ring Alarm in the Apple Home app. HOOBS lists the Ring Video Doorbell Pro, Ring Alarm Security Kit, Stick Up Cam Elite and Floodlight Cam as tested accessories. Ring is not HomeKit-native, so this is a third-party workaround, not an official Ring feature.",
+   "renterNote": "For an Apple Home renter who already has Ring and does not want to run a Raspberry Pi or server. Caveat: it must stay plugged in and online, uses Ring's cloud (live view can lag), and the standard Ring plugin does not give HomeKit Secure Video (Scrypted is the route the pages name for that).",
+   "pros": [
+    "Pre-installed Homebridge; no server to build, per HOOBS and addtohomekit.com",
+    "Ring plugin exposes doorbell, cameras and Ring Alarm sensors to Apple Home per the sources",
+    "Doorbell presses can trigger HomeKit scenes and chime a HomePod per the sources"
+   ],
+   "cons": [
+    "Third-party and unofficial: Ring can change its cloud login and break the plugin",
+    "No HomeKit Secure Video through the standard Ring plugin; cloud-based live view is slower than native HomeKit cameras"
+   ],
+   "scores": {
+    "install": 6,
+    "reversibility": 9,
+    "value": 6,
+    "compatibility": 6,
+    "portability": 8
+   },
+   "scoreNote": "No drilling and unplugs cleanly; setup is plugin and token work, and Ring support is unofficial, so compatibility is partial.",
+   "sources": [
+    "https://hoobs.com/ring/",
+    "https://hoobs.com/box/",
+    "https://www.addtohomekit.com/blog/ring-homekit/",
+    "https://www.addtohomekit.com/blog/ring-camera-homekit/",
+    "https://wasserstein-home.com/blogs/smart-home/does-ring-work-with-apple-homekit-top-3-methods"
+   ]
+  }
+ ],
+ "serpProducts": [
+  {
+   "name": "HOOBS (HOOBS Box hardware)",
+   "pages": [
+    "https://www.addtohomekit.com/blog/ring-homekit/",
+    "https://www.addtohomekit.com/blog/ring-camera-homekit/",
+    "https://wasserstein-home.com/blogs/smart-home/does-ring-work-with-apple-homekit-top-3-methods"
+   ]
+  },
+  {
+   "name": "Homebridge (software, no Amazon listing)",
+   "pages": [
+    "https://www.safehome.org/doorbell-cameras/ring/automation/",
+    "https://www.addtohomekit.com/blog/ring-homekit/",
+    "https://wasserstein-home.com/blogs/smart-home/does-ring-work-with-apple-homekit-top-3-methods"
+   ]
+  },
+  {
+   "name": "Scrypted (software, no Amazon listing)",
+   "pages": [
+    "https://www.addtohomekit.com/blog/ring-homekit/",
+    "https://wasserstein-home.com/blogs/smart-home/does-ring-work-with-apple-homekit-top-3-methods"
+   ]
+  },
+  {
+   "name": "ATH Bridge (addtohomekit.com only, Amazon unverified)",
+   "pages": [
+    "https://www.addtohomekit.com/blog/ring-homekit/",
+    "https://www.addtohomekit.com/blog/ring-camera-homekit/"
+   ]
+  },
+  {
+   "name": "Raspberry Pi (generic host for Homebridge; model-specific mention on 1 page)",
+   "pages": [
+    "https://www.addtohomekit.com/blog/ring-homekit/",
+    "https://wasserstein-home.com/blogs/smart-home/does-ring-work-with-apple-homekit-top-3-methods"
+   ]
+  },
+  {
+   "name": "HomeKit-native cameras (Eve Outdoor Cam, eufy Solo IndoorCam, Logitech Circle View Doorbell, Aqara G3): 1 page each",
+   "pages": [
+    "https://www.addtohomekit.com/blog/ring-camera-homekit/"
+   ]
+  }
+ ]
+}

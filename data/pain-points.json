@@ -1622,7 +1622,7 @@
         ],
         "quotes": [
           {
-            "text": "Mine just keeps saying “I'm having trouble right now. Please try again later” for a few specific devices.",
+            "text": "Mine just keeps saying \u201cI'm having trouble right now. Please try again later\u201d for a few specific devices.",
             "url": "https://www.reddit.com/r/alexa/comments/1nln3zz/alexa_is_noticeably_worse_lately_makes_many/",
             "via": "search-excerpt"
           },
@@ -1694,6 +1694,63 @@
         ],
         "coveredBy": [],
         "foundAt": "2026-10-19"
+      },
+      {
+        "id": "hubs-voice-homekit-renter-hub-apple-id-moving",
+        "pain": "Renters starting HomeKit worry about whose Apple ID owns the home hub and what happens to the setup when they move or a roommate leaves",
+        "details": "Threads from renters ask how to set up the hub and Apple ID in a rental, what to buy that does not need a unique hub, and whether landlord-owned smart devices can be linked to the tenant's own Siri account. Only search excerpts were readable (Reddit scraping unsupported), so treat as lead-level evidence.",
+        "mentions": 4,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/HomeKit/comments/n51voa/homekit_in_a_rental_property/",
+            "platform": "reddit",
+            "title": "HomeKit in a rental property",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.reddit.com/r/HomeKit/comments/1nm350y/homekit_for_rental_property/",
+            "platform": "reddit",
+            "title": "HomeKit for rental property",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.reddit.com/r/HomeKit/comments/zzyc45/first_apartment_homekit_recommendations/",
+            "platform": "reddit",
+            "title": "First apartment HomeKit recommendations",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.reddit.com/r/HomeKit/comments/wg8f0t/im_moving_into_an_apartment_in_a_few_months_and/",
+            "platform": "reddit",
+            "title": "I'm moving into an apartment in a few months and wondering ...",
+            "seen": "2026-10-20"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "One of the first decisions is regarding HomeKit hub and the Apple ID.",
+            "url": "https://www.reddit.com/r/HomeKit/comments/n51voa/homekit_in_a_rental_property/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "I'd stay away from anything that needs a unique hub and stick with WiFi or Thread devices.",
+            "url": "https://www.reddit.com/r/HomeKit/comments/zzyc45/first_apartment_homekit_recommendations/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "Only the wired one works with HomeKit, and you need an additional Arlo hub. Also, you lose a lot of features if you don't pay for the subscription.",
+            "url": "https://www.reddit.com/r/HomeKit/comments/wg8f0t/im_moving_into_an_apartment_in_a_few_months_and/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "site:reddit.com HomeKit renting apartment moving out home hub landlord"
+        ],
+        "keywords": [
+          "what is homekit"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-20"
       }
     ],
     "baby-proofing": [
