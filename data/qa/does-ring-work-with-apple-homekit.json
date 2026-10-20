@@ -1,9 +1,12 @@
 {
   "slug": "does-ring-work-with-apple-homekit",
   "pass": true,
-  "checkedAt": "2026-10-20T17:16:08.123Z",
+  "checkedAt": "2026-10-20T17:19:10.072Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "source didn't respond normally (403): https://hoobs.com/ring/",
+    "source didn't respond normally (403): https://hoobs.com/box/"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Converted to zero-product guide (removed products block, productCount 0, no amzn links). Re-compared changed HOOBS section against hoobs.com/ring (4 tested Ring accessories) and hoobs.com/box (preloaded HOOBS software, Homebridge-based) and addtohomekit ring-homekit (doorbell press scenes/HomePod chime, no HKSV on standard plugin). Removed owner-review claims (r/HOOBS, 40 devices, crashes, eight posts) that depended on the product block. Other text unchanged and previously verified; no prices added.",

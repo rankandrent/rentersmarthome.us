@@ -147,6 +147,27 @@ products:
       Peel-and-stick plus plug-in power with no wiring; adhesive can still pull
       paint on removal. Matter gives bridge-free Apple Home control but only the
       basic light controls.
+    image:
+      url: 'https://m.media-amazon.com/images/I/51sOXVVsKKL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Govee RGBIC LED Strip Lights M1 with Matter, 16.4ft WiFi LED Lights for
+      Cabinet, TV, Bed and Gaming Desk, Smart LED Lights Work with Apple Home,
+      Alexa, Google Assistant, Party, Home Decor
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/414tENDDaEL._SL500_.jpg'
+        width: 383
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41Ftcy7YLTL._SL500_.jpg'
+        width: 383
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/4141bhikmML._SL500_.jpg'
+        width: 383
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51+1CcoPnFL._SL500_.jpg'
+        width: 383
+        height: 500
 sources:
   - title: Matter FAQ (Govee)
     url: 'https://us.govee.com/pages/matter-faq'
