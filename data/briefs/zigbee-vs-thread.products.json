@@ -1,0 +1,178 @@
+{
+ "products": [
+  {
+   "name": "Aqara Hub M3",
+   "brand": "Aqara",
+   "query": "Aqara Hub M3 Zigbee Thread Matter hub",
+   "matchName": "Aqara Hub M3",
+   "badge": "Best if you want Zigbee and Thread in one plug-in box",
+   "summary": "A small USB-C powered hub with Zigbee and Thread radios (IEEE 802.15.4), Wi-Fi, Bluetooth 5.1 and an Ethernet port. Matter Alpha and ZigbeeGuru describe it as a Zigbee hub that is also a Thread border router and a Matter bridge, so cheap Aqara Zigbee sensors and newer Matter-over-Thread devices can sit on one hub.",
+   "renterNote": "Suits a renter who wants to try both protocols without picking one: plug it in or screw the bracket to a shelf, nothing is hardwired. Caveat: owners on the Aqara forum report Matter pairing failures that needed network changes and resets, and ZigbeeGuru notes advanced Zigbee diagnostics are limited compared with a bare coordinator.",
+   "pros": [
+    "Zigbee and Thread radios in one hub, plus Matter bridge and Thread border router roles, per Matter Alpha and ZigbeeGuru",
+    "Plugs in over USB-C (5V 2A); the box includes a bracket and screws but wall-mounting is optional",
+    "Aqara Zigbee devices are bridged to Matter automatically once the hub is set up as a bridge, per Matter Alpha"
+   ],
+   "cons": [
+    "Aqara forum owners report Matter pairing failing with 'Failed to bind' errors on some home networks, fixed only after IPv6 or network resets",
+    "Power adapter is not included (Matter Alpha), and Zigbee-to-Matter bridging does not expose every vendor-specific feature"
+   ],
+   "specs": {
+    "model": "HM-G01D / HM-G01E",
+    "radios": "Zigbee and Thread (IEEE 802.15.4), Wi-Fi 802.11 a/b/g/n/ac 2.4/5 GHz, Bluetooth 5.1",
+    "thread": "Thread border router",
+    "matter": "Matter controller and Matter bridge (per Matter Alpha)",
+    "dimensions": "105 x 105 x 36.5 mm (4.13 x 4.13 x 1.44 in)",
+    "power": "5V 2A via USB-C cable (adapter not included per Matter Alpha); PoE 48V 0.27A supported",
+    "inBox": "Hub, manual, USB-A to USB-C cable, screws and anchors kit, bracket",
+    "operatingTemp": "-10 to 50 C",
+    "wiring": "Plug-in, no hardwiring"
+   },
+   "sources": [
+    "https://www.aqara.com/us/product/hub-m3-specs/",
+    "https://www.matteralpha.com/review/aqara-hub-m3-review",
+    "https://zigbeeguru.com/aqara-hub-m3-review-2026/",
+    "https://zigbeeguru.com/zigbee-vs-thread-vs-matter-what-to-use-where-and-why-engineering-perspective/",
+    "https://smarterhome.sk/en/blog/zigbee-wifi-z-wave-matter-thread-which-protocol_177.html",
+    "https://www.matteralpha.com/frequently-asked-questions/complete-list-thread-border-routers"
+   ],
+   "scores": {
+    "install": 8,
+    "reversibility": 9,
+    "value": 7,
+    "compatibility": 8,
+    "portability": 8
+   },
+   "scoreNote": "Plug-in and bracket-optional, so easy to take with you; held back by owner-reported Matter pairing trouble and the need to supply your own USB power adapter.",
+   "owners": {
+    "read": 6,
+    "praise": [
+     "Bridges existing Zigbee sensors into Matter automatically, so you do not have to replace devices (Matter Alpha)",
+     "Aqara Home app dashboard and automations are powerful once you learn the wording (Matter Alpha); one forum owner calls the hub isolated enough from the cloud for their needs",
+     "Doubles as a Thread border router for Matter-over-Thread sensors, so one box covers both protocols"
+    ],
+    "complaints": [
+     "Matter pairing can fail with 'Failed to bind' or 'Connected Ecosystems: 0'; two forum owners needed IPv6, network and Thread resets, and one said it became unrecoverable after moving their network",
+     "Thread mode on some Aqara devices loses features that Zigbee mode has (decoupled switch mode, light icon choice, slower first press when the device sleeps), per one forum owner",
+     "Advanced Zigbee diagnostics and per-device depth are limited versus a dedicated coordinator under Home Assistant (ZigbeeGuru)"
+    ],
+    "sources": [
+     {
+      "title": "Matter Alpha: Aqara Hub M3 review",
+      "url": "https://www.matteralpha.com/review/aqara-hub-m3-review"
+     },
+     {
+      "title": "ZigbeeGuru: Aqara Hub M3 review (2026)",
+      "url": "https://zigbeeguru.com/aqara-hub-m3-review-2026/"
+     },
+     {
+      "title": "Aqara Forum: Is my Aqara Hub M3 just broken? Matter refuses to work (UniFi setup)",
+      "url": "https://forum.aqara.com/t/is-my-aqara-hub-m3-just-broken-matter-absolutely-refuses-to-work-unifi-setup/170399"
+     },
+     {
+      "title": "Aqara Forum: If you rebuilt your Aqara home today, what would stay Zigbee and what would move to Matter/Thread?",
+      "url": "https://forum.aqara.com/t/if-you-rebuilt-your-aqara-home-today-what-would-stay-zigbee-and-what-would-move-to-matter-thread/322862"
+     }
+    ]
+   }
+  },
+  {
+   "name": "Amazon Echo Hub",
+   "brand": "Amazon",
+   "query": "Amazon Echo Hub smart home control panel",
+   "matchName": "Echo Hub",
+   "badge": "Best if you already live in Alexa",
+   "summary": "An 8-inch touchscreen control panel with Zigbee, Thread and Matter built in, so one Alexa device is a Zigbee hub, a Thread border router and a Matter controller. The Ambient calls it the best smart home touchscreen companion for an Alexa household but notes the interface has kinks.",
+   "renterNote": "Suits a renter already on Alexa who wants a single screen that runs Zigbee and Thread devices. Caveat: Amazon sells it as a wall-mount unit (the box includes anchors and screws and needs an electric drill), and the desk stand is sold separately, so a renter should budget for the stand to avoid drilling.",
+   "pros": [
+    "Zigbee, Thread and Matter radios in one Alexa device, per The Ambient and Best Buy's spec sheet",
+    "Power adapter and cord are in the box; it can also run on PoE with a compatible adapter",
+    "Dashboard puts lights, locks, cameras and routines on one screen"
+   ],
+   "cons": [
+    "Designed for the wall: mounting needs a drill, and the stand is a separate purchase",
+    "The Ambient found the interface a bit sluggish, with no way to hide disabled or duplicate devices, and no Z-Wave"
+   ],
+   "specs": {
+    "radios": "Wi-Fi (dual-band), Bluetooth LE mesh, Zigbee, Thread, Matter, Amazon Sidewalk",
+    "thread": "Thread border router, Matter controller (The Ambient)",
+    "display": "8-inch touchscreen, 1280 x 800",
+    "dimensions": "7.9 x 5.4 x 0.6 in (202 x 137 x 15 mm)",
+    "weight": "12.9 oz (365 g)",
+    "power": "USB-C PD (5V/2.4A and 9V/3A); 12.5W adapter and 6 ft cord in box; PoE with compatible USB-C converter",
+    "mounting": "Wall mount kit with anchors and screws included (drill required); desk stand sold separately",
+    "wiring": "Plug-in power, no hardwiring"
+   },
+   "sources": [
+    "https://www.the-ambient.com/reviews/amazon-echo-hub-review/",
+    "https://www.bestbuy.com/product/amazon-echo-hub-smart-home-control-panel-with-alexa-white/J39HW66S4K",
+    "https://datawiresolutions.com/blog/matter-thread-explained-2026",
+    "https://zigbeeguru.com/zigbee-vs-thread-vs-matter-what-to-use-where-and-why-engineering-perspective/",
+    "https://www.matteralpha.com/frequently-asked-questions/complete-list-thread-border-routers"
+   ],
+   "scores": {
+    "install": 6,
+    "reversibility": 6,
+    "value": 5,
+    "compatibility": 8,
+    "portability": 6
+   },
+   "scoreNote": "Strong radio coverage (Zigbee plus Thread plus Matter) for Alexa homes, but wall mounting and the separate stand make it the less renter-friendly pick, and it is mostly locked to the Alexa app.",
+   "owners": {
+    "read": 3,
+    "praise": [
+     "Easy setup and a good-looking, tablet-style panel; Best Buy's review summary says buyers praise setup ease and display quality",
+     "Matter-over-Wi-Fi, Matter-over-Thread and Zigbee devices pair directly to the hub and respond quickly (The Ambient)",
+     "Multiple power options, including PoE"
+    ],
+    "complaints": [
+     "Interface is a little sluggish and lists disabled or duplicate devices that cannot be deleted (The Ambient)",
+     "Camera snapshot widget and the Security tab only fully work with Ring, per The Ambient",
+     "Zigbee devices already paired to another hub cannot also live on the Echo Hub; one Home Assistant forum poster given an Alexa hub asked how to share them (Zigbee devices pair to one hub)"
+    ],
+    "sources": [
+     {
+      "title": "The Ambient: Amazon Echo Hub review",
+      "url": "https://www.the-ambient.com/reviews/amazon-echo-hub-review/"
+     },
+     {
+      "title": "Best Buy: Amazon Echo Hub Smart Home Control Panel (customer review summary and specs)",
+      "url": "https://www.bestbuy.com/product/amazon-echo-hub-smart-home-control-panel-with-alexa-white/J39HW66S4K",
+      "reviews": 110
+     },
+     {
+      "title": "Home Assistant Community: HA's Zigbee devices into Alexa?",
+      "url": "https://community.home-assistant.io/t/has-zigbee-devices-into-alexa/846207"
+     }
+    ]
+   }
+  }
+ ],
+ "serpProducts": [
+  {
+   "name": "Aqara Hub M3",
+   "pages": [
+    "https://zigbeeguru.com/zigbee-vs-thread-vs-matter-what-to-use-where-and-why-engineering-perspective/",
+    "https://smarterhome.sk/en/blog/zigbee-wifi-z-wave-matter-thread-which-protocol_177.html",
+    "https://www.matteralpha.com/frequently-asked-questions/complete-list-thread-border-routers"
+   ]
+  },
+  {
+   "name": "Amazon Echo Hub",
+   "pages": [
+    "https://zigbeeguru.com/zigbee-vs-thread-vs-matter-what-to-use-where-and-why-engineering-perspective/",
+    "https://datawiresolutions.com/blog/matter-thread-explained-2026",
+    "https://www.matteralpha.com/frequently-asked-questions/complete-list-thread-border-routers"
+   ]
+  },
+  {
+   "name": "Apple HomePod mini (qualifies, Thread only, not selected: no Zigbee radio)",
+   "pages": [
+    "https://zigbeeguru.com/zigbee-vs-thread-vs-matter-what-to-use-where-and-why-engineering-perspective/",
+    "https://datawiresolutions.com/blog/matter-thread-explained-2026",
+    "https://smarterhome.sk/en/blog/zigbee-wifi-z-wave-matter-thread-which-protocol_177.html",
+    "https://www.matteralpha.com/frequently-asked-questions/complete-list-thread-border-routers"
+   ]
+  }
+ ]
+}
