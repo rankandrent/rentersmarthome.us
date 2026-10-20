@@ -1,17 +1,13 @@
 {
   "slug": "does-ring-work-with-apple-homekit",
   "pass": true,
-  "checkedAt": "2026-10-20T13:29:00.483Z",
+  "checkedAt": "2026-10-20T17:16:08.123Z",
   "errors": [],
-  "warnings": [
-    "product \"HOOBS Box (HSLF-3)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://hoobs.com/ring/",
-    "source didn't respond normally (403): https://hoobs.com/box/"
-  ],
+  "warnings": [],
   "factCheck": {
     "verified": true,
-    "notes": "Re-opened hoobs.com/ring (4 tested Ring accessories: Video Doorbell Pro, Alarm Security Kit, Stick Up Cam Elite, Floodlight Cam), hoobs.com/box (HSLF-3, preloaded software), addtohomekit.com/blog/ring-homekit (no native HomeKit/Matter, Scrypted HKSV, iCloud+, standard Homebridge Ring plugin no HKSV, Ring recordings not transferred, HomeView unconfirmed, HomePod chime), safehome.org (HomeKit needs Homebridge; Ring Protect monthly fee), wasserstein-home (Scrypted HKSV, HOOBS). Reddit quotes verified verbatim via exact-phrase firecrawl_search site:reddit.com: 1x50tp7, 1l0soq3, 1ef2zou, 184g6hd, in3p6e, 1ot0xm0 (1ebelua/1tiqf0c/1l15kwk titles taken from brief). Added HOOBS owners block from 7 r/HOOBS and r/homeautomation excerpts plus Stacey on IoT review. Removed unsupported iPhone-Wi-Fi claim, router-swap claim and 'pre-installed Homebridge per addtohomekit' attribution.",
-    "at": "2026-10-20T13:03:09.240Z",
-    "hash": "5a3ac258b9f305fc"
+    "notes": "Converted to zero-product guide (removed products block, productCount 0, no amzn links). Re-compared changed HOOBS section against hoobs.com/ring (4 tested Ring accessories) and hoobs.com/box (preloaded HOOBS software, Homebridge-based) and addtohomekit ring-homekit (doorbell press scenes/HomePod chime, no HKSV on standard plugin). Removed owner-review claims (r/HOOBS, 40 devices, crashes, eight posts) that depended on the product block. Other text unchanged and previously verified; no prices added.",
+    "at": "2026-10-20T17:16:07.097Z",
+    "hash": "50aaf04a21a12370"
   }
 }

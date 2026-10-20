@@ -56,6 +56,8 @@ products:
     brand: Govee
     query: Govee LED Strip Light M1 Matter
     matchName: Govee LED Strip Light M1
+    asin: B0B42BWVLM
+    asinVerified: true
     badge: Govee's original Matter strip light
     summary: >-
       A plug-in RGBIC strip with an adhesive back and a control box. Govee's

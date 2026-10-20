@@ -32,7 +32,7 @@ tags:
 articleType: how-to
 funnel: mofu
 productStyle: paragraph
-productCount: 1
+productCount: 0
 readingTime: 9
 tldr:
   - >-
@@ -45,92 +45,6 @@ tldr:
   - >-
     Renters should check the lease first, then decide whether a bridge is worth
     maintaining or a native HomeKit doorbell is simpler.
-products:
-  - name: HOOBS Box (HSLF-3)
-    brand: HOOBS
-    query: HOOBS Box HomeKit Homebridge hub
-    matchName: HOOBS
-    badge: Plug-and-play bridge for Ring
-    summary: >-
-      A pre-built Homebridge hub that runs the Ring plugin and shows Ring
-      doorbells, cameras and Ring Alarm in the Apple Home app. HOOBS lists the
-      Ring Video Doorbell Pro, Ring Alarm Security Kit, Stick Up Cam Elite and
-      Floodlight Cam as tested accessories. Ring is not HomeKit-native, so this
-      is a third-party workaround, not an official Ring feature.
-    renterNote: >-
-      For an Apple Home renter who already has Ring and does not want to run a
-      Raspberry Pi or server. It must stay plugged in and online, uses Ring's
-      cloud (live view can lag), and the standard Ring plugin does not give
-      HomeKit Secure Video.
-    pros:
-      - >-
-        Ships preloaded with the HOOBS software (a Homebridge platform); no
-        server to build, per HOOBS
-      - >-
-        Ring plugin exposes doorbell, cameras and Ring Alarm sensors to Apple
-        Home per the sources
-      - >-
-        Doorbell presses can trigger HomeKit scenes and chime a HomePod per the
-        sources
-    cons:
-      - >-
-        Third-party and unofficial: Ring can change its cloud login and break
-        the plugin
-      - >-
-        No HomeKit Secure Video through the standard Ring plugin; cloud-based
-        live view is slower than native HomeKit cameras
-    scores:
-      install: 6
-      reversibility: 9
-      value: 6
-      compatibility: 6
-      portability: 8
-    scoreNote: >-
-      No drilling and unplugs cleanly; setup is plugin and token work, and Ring
-      support is unofficial, so compatibility is partial.
-    owners:
-      read: 8
-      praise:
-        - >-
-          One r/HOOBS owner had a HOOBS Pro online in under 2 minutes with about
-          40 Ring devices added
-        - >-
-          Owners say the box updates itself and its plugins and runs fine day to
-          day
-        - >-
-          A reviewer found first-time setup quick and polished, with Home app
-          automations responding fast
-      complaints:
-        - >-
-          Several r/HOOBS owners report Ring cameras or tiles showing "not
-          responding" after a plugin or system update
-        - One owner says their HOOBS box crashed daily and needed a power reset
-        - >-
-          The same reviewer found plugin setup beyond the basics fiddly and had
-          to reinstall the software once
-      sources:
-        - title: HOOBS Pro users reviews/feedback (r/HOOBS)
-          url: >-
-            https://www.reddit.com/r/HOOBS/comments/14yfyom/hoobs_pro_users_reviewsfeedback/
-        - title: HOOBs Pro feedback (r/HOOBS)
-          url: 'https://www.reddit.com/r/HOOBS/comments/148koyr/hoobs_pro_feedback/'
-        - title: HOOBS crashes daily (r/HOOBS)
-          url: >-
-            https://www.reddit.com/r/HOOBS/comments/1hub2kv/hoobs_crashes_dailyunable_to_access_via_client_app/
-        - title: Ring bridge not working after update (r/HOOBS)
-          url: >-
-            https://www.reddit.com/r/HOOBS/comments/1elpgqp/ring_bridge_not_working_after_yesterdays_update/
-        - title: I'm about to throw this thing away (r/HOOBS)
-          url: >-
-            https://www.reddit.com/r/HOOBS/comments/10wstqk/im_about_to_throw_this_thing_away/
-        - title: Ring camera feed on Apple TV (r/HOOBS)
-          url: >-
-            https://www.reddit.com/r/HOOBS/comments/vl6ztp/ring_camera_feed_on_apple_tv/
-        - title: HOOBS out of the box review (r/homeautomation)
-          url: >-
-            https://www.reddit.com/r/homeautomation/comments/j0ed8t/hoobs_out_of_the_box_review/
-        - title: HOOBS review (Stacey on IoT)
-          url: 'https://staceyoniot.com/hoobs-review-homekit-homebridge/'
 sources:
   - title: How to add Ring to Apple Home with HOOBS (HOOBS)
     url: 'https://hoobs.com/ring/'
@@ -162,7 +76,7 @@ faqs:
   - q: Do I need a hub or Raspberry Pi to connect Ring to HomeKit?
     a: >-
       You need an always-on host for the bridge software, such as a Raspberry
-      Pi, a computer that never sleeps, or a pre-built HOOBS Box. For remote
+      Pi, a computer that never sleeps, or a ready-made Homebridge host such as the HOOBS Box. For remote
       access and automations, Apple Home also needs a HomePod or Apple TV as its
       home hub.
   - q: Does Apple HomeView work with Ring?
@@ -221,13 +135,13 @@ This table compares the three routes on what a renter has to run and what they g
 
 | Route | Host needed | HomeKit Secure Video | Best for |
 |---|---|---|---|
-| Homebridge / HOOBS | Raspberry Pi, always-on computer or HOOBS Box | No (standard Ring plugin) | Doorbell alerts, Siri, automations |
+| Homebridge / HOOBS | Raspberry Pi, always-on computer or ready-made Homebridge host | No (standard Ring plugin) | Doorbell alerts, Siri, automations |
 | Scrypted | Always-on computer or server | Yes, with iCloud+ | Camera recording inside Apple Home |
 | Home Assistant | Existing Home Assistant server | No | People already running it |
 
-### HOOBS Box (HSLF-3): plug-and-play bridge for Ring
+### A ready-made Homebridge host, if you don't want to build a server
 
-For a renter who already owns Ring and does not want to build a server, we think the [HOOBS Box](amzn:HOOBS+Box+HomeKit+Homebridge+hub) is the simplest host. It ships preloaded with the HOOBS software, a Homebridge-based platform, per HOOBS, so the job is adding the Ring plugin and pairing, not setting up Linux. HOOBS lists the Ring Video Doorbell Pro, Ring Alarm Security Kit, Stick Up Cam Elite and Floodlight Cam as tested accessories on its [Ring setup page](https://hoobs.com/ring/), and the sources say doorbell presses can trigger HomeKit scenes and chime a HomePod. The drawbacks are the ones every Ring bridge shares. It is unofficial, so a change to Ring's cloud login can break the plugin, and live view runs through Ring's cloud, which makes it slower than a native HomeKit camera. The standard Ring plugin gives no HomeKit Secure Video either. HOOBS owners on r/HOOBS describe the same upkeep: one reports Ring cameras stopping after a plugin update and others see "not responding" tiles after updates, while another says the box updates itself and runs fine day to day and a different poster got about 40 Ring devices online in under 2 minutes (those two used a HOOBS Pro). We read eight owner and reviewer posts, mostly on older Box and Pro models since the HSLF-3 is new, so treat them as a guide to the software, not this exact unit. One owner reports a box that crashed daily and needed a power reset. For renters, the box needs no drilling and unplugs in seconds at move-out, but it must stay plugged in and online in your unit.
+For a renter who already owns Ring and does not want to set up a Raspberry Pi, we think a ready-made Homebridge host is the simplest route. HOOBS sells one, the [HOOBS Box](https://hoobs.com/box/), which ships preloaded with the HOOBS software, a Homebridge-based platform, per HOOBS, so the job is adding the Ring plugin and pairing, not setting up Linux. HOOBS lists the Ring Video Doorbell Pro, Ring Alarm Security Kit, Stick Up Cam Elite and Floodlight Cam as tested accessories on its [Ring setup page](https://hoobs.com/ring/), and the sources say doorbell presses can trigger HomeKit scenes and chime a HomePod. We name HOOBS only as an example; we have not tested it and this guide picks no product. The drawbacks are the ones every Ring bridge shares. It is unofficial, so a change to Ring's cloud login can break the plugin, and live view runs through Ring's cloud, which makes it slower than a native HomeKit camera. The standard Ring plugin gives no HomeKit Secure Video either. For renters, such a box needs no drilling and unplugs in seconds at move-out, but it must stay plugged in and online in your unit.
 
 ## What you can and cannot do once Ring is bridged
 
@@ -249,7 +163,7 @@ A HomePod or Apple TV acts as the Apple Home hub, and you need one for remote ac
 
 **Install Homebridge on an always-on host, add the Ring plugin, sign in with two-factor authentication, then scan the QR code in the Home app.** The steps below follow the Homebridge and HOOBS guides in our sources:
 
-1. Install Homebridge on a Raspberry Pi, a computer that never sleeps, or a Docker container, or plug in a HOOBS Box.
+1. Install Homebridge on a Raspberry Pi, a computer that never sleeps, or a Docker container, or plug in a ready-made host such as the HOOBS Box.
 2. Open the Homebridge web interface and install the Ring plugin.
 3. Sign in with your Ring account and enter the two-factor authentication code; the plugin stores a Ring refresh token instead of asking every time.
 4. Restart Homebridge so Ring devices load.
@@ -286,7 +200,7 @@ This checklist is our suggestion, not a rule from Ring or Apple:
 
 1. Remove the bridge's sign-in from your Ring account security settings, or change your Ring password, so the refresh token stops working.
 2. Remove the Ring accessories and the bridge from the Apple Home app.
-3. Unplug the HOOBS Box or Raspberry Pi and reset it if you're selling it.
+3. Unplug the bridge host (a Raspberry Pi or a ready-made box) and reset it if you're selling it.
 4. Take down the Ring, patch any holes the way your lease requires, and reinstall the original doorbell or peephole.
 5. Re-link Ring in the Ring app at your new place, then re-pair the bridge.
 
@@ -306,4 +220,4 @@ Monthly camera fees are a recurring gripe in r/homeowners and r/homeautomation t
 
 Ignore any listing that says Ring is "HomeKit compatible" or "Matter ready" without Apple's logo on the box. AddToHomeKit reports that Apple has announced a home display called HomeView; we haven't confirmed its details, but no Apple screen can show Ring until a bridge puts it in the Home app.
 
-So for that renter on r/HomeKit: if you don't own a Ring yet and want Apple Home, buy native. If you already have one, a HOOBS Box or Homebridge gets it into the Home app, once the lease says yes. Still deciding between ecosystems? Our [Alexa vs Google Home comparison for renters](/blog/alexa-vs-google-home/) explains where Ring fits natively.
+So for that renter on r/HomeKit: if you don't own a Ring yet and want Apple Home, buy native. If you already have one, a Homebridge host gets it into the Home app, once the lease says yes. Still deciding between ecosystems? Our [Alexa vs Google Home comparison for renters](/blog/alexa-vs-google-home/) explains where Ring fits natively.
