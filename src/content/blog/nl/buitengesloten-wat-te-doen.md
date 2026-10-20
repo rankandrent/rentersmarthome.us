@@ -2,9 +2,8 @@
 title: Buitengesloten wat te doen? 7 stappen om snel weer binnen te komen
 seoTitle: Buitengesloten wat te doen? 7 stappen die direct helpen
 description: >-
-  Buitengesloten? Volg 7 stappen op volgorde, van de beheerder tot een
-  betrouwbare slotenmaker, en voorkom de volgende keer met een slim slot zonder
-  boren.
+  Buitengesloten? Volg 7 stappen op volgorde, van reservesleutel en verhuurder
+  tot een betrouwbare slotenmaker, en voorkom de volgende keer zonder boren.
 pubDate: '2026-10-19T20:55:00.000Z'
 lang: nl
 translationOf: locked-out-of-apartment
@@ -18,6 +17,7 @@ secondaryKeywords:
   - slotenmaker kosten huurwoning
   - buitengesloten wie bellen
   - slotenmaker betrouwbaar
+  - wie betaalt slotenmaker huurwoning
 entities:
   - locked out of apartment
   - property manager
@@ -39,128 +39,46 @@ tags:
 articleType: how-to
 funnel: tofu
 productStyle: paragraph
-productCount: 5
-readingTime: 11
+productCount: 3
+readingTime: 8
 tldr:
   - >-
     Buitengesloten? Controleer veilig andere deuren, bel iemand met een
-    reservesleutel, dan de beheerder of het nummer voor spoedreparaties, en pas
-    daarna een slotenmaker.
+    reservesleutel, dan je verhuurder of beheerder, en pas daarna een
+    slotenmaker. Vraag die vooraf om een prijsindicatie met alle kosten.
   - >-
-    Klim nooit via een brandtrap en forceer geen raam; dat is gevaarlijk en kan
-    je meer kosten dan het buitensluiten zelf.
+    Bel 112 alleen bij levensgevaar, bijvoorbeeld als het fornuis aanstaat;
+    is er geen spoed, dan noemt de Rijksoverheid een sleutelmaker. Klim nooit
+    naar binnen en forceer geen raam.
   - >-
-    Of je moet betalen om binnengelaten te worden en wie een uitgeboord slot
-    betaalt, hangt af van je huurcontract en de lokale regels. Kijk dus in je
-    huurcontract en vraag het je verhuurder schriftelijk.
+    Volgens de Woonbond moet de verhuurder zorgen voor deugdelijk hang- en
+    sluitwerk; bij een defect slot kan de rekening dus bij hem liggen. Meld
+    een defect schriftelijk en bewaar de bon.
   - >-
-    Om de volgende keer te voorkomen, volstaat voor de meeste huurders een
-    opzetslot dat je originele sleutel behoudt of een sleutelkluis met een
-    reservesleutel, allebei zonder boren.
+    Om de volgende keer te voorkomen: een reservesleutel bij familie of
+    vrienden, een sleutelkluisje in EU-uitvoering, of een slim opzetslot voor
+    een Europese profielcilinder dat je originele sleutel behoudt.
 products:
-  - name: August Wi-Fi Smart Lock (4th Gen)
-    brand: August
-    query: August Wi-Fi Smart Lock 4th Gen
-    matchName: August Wi-Fi Smart Lock
-    asin: B082VXK9CK
-    amazonTitle: >-
-      August Home, Silver Wi-Fi Connected Smart Keyless Entry Door Lock,
-      Electronic Door Lock Fits Your Existing Deadbolt in Minutes, ‎
-      ‎AUG-SL05-M01-S01
-    badge: Beste opzetslot als je telefoon binnen ligt
-    summary: >-
-      Een slim opzetslot dat aan de binnenkant op je bestaande enkelzijdige
-      nachtslot klemt en het sleutelgat buiten en je sleutel laat zoals ze zijn.
-      Dankzij de ingebouwde wifi kan een vriend of je verhuurder je via zijn
-      telefoon binnenlaten als je zonder sleutels voor de deur staat.
-    renterNote: >-
-      Vervangt alleen de binnenkant met de draaiknop, installeren gaat met een
-      schroevendraaier en je bestaande sleutels blijven werken. Aandachtspunt
-      bij buitensluiten: het toetsenpaneel voor codes zonder telefoon wordt los
-      verkocht, het slot werkt op twee CR123-batterijen en eigenaren vervangen
-      die naar eigen zeggen elke 3 tot 7 maanden.
-    pros:
-      - >-
-        Past van binnenuit op de meeste enkelzijdige nachtsloten, dus de
-        buitenkant en je sleutel blijven zoals ze zijn
-      - >-
-        Ingebouwde wifi (2,4 of 5 GHz) voor ontgrendelen op afstand zonder
-        aparte bridge
-      - >-
-        Auto-Lock en DoorSense vergrendelen de deur opnieuw, en je kunt ook
-        automatisch ontgrendelen bij thuiskomst instellen
-    cons:
-      - Het toetsenpaneel om van buitenaf een code in te voeren koop je los
-      - >-
-        Eigenaren melden dat ze de batterijen elke 3 tot 7 maanden vervangen, en
-        dat telt bij een slot dat buitensluiten moet voorkomen
-    scores:
-      install: 7
-      reversibility: 8
-      value: 7
-      compatibility: 10
-      portability: 8
-    scoreNote: >-
-      Opzetslot met een schroevendraaier dat je sleutel en de buitenkant
-      behoudt; werkt met Alexa, Google en Apple Home. Batterijen om de paar
-      maanden en een los toetsenpaneel drukken de prijs-kwaliteit.
-    owners:
-      read: 4
-      praise:
-        - >-
-          Prettig in het dagelijks gebruik zodra het is ingesteld; eigenaren
-          vinden teruggaan naar een sleutel daarna vervelend
-        - De gewone sleutel werkt nog als de batterijen toch leeg raken
-        - Veel meldingen over een bijna lege batterij voordat het slot stopt
-      complaints:
-        - >-
-          Verbruikt veel batterijen: de ene eigenaar vervangt ze ongeveer elke 3
-          maanden, de andere ongeveer elke 7
-        - >-
-          In samenvattingen van ervaringen duiken af en toe
-          wifi-verbindingsproblemen op
-      sources:
-        - title: Slickdeals August Wi-Fi Smart Lock (4th Gen) owner thread
-          url: >-
-            https://slickdeals.net/f/16257052-august-wi-fi-smart-lock-4th-gen-black-or-silver-139-free-shipping
-        - title: ShopSavvy August Wi-Fi Smart Lock 4th Gen review summary
-          url: 'https://shopsavvy.com/reviews-tldr/august-wi-fi-smart-lock-4th-gen'
-    image:
-      url: 'https://m.media-amazon.com/images/I/4120PG5xbhL._SL500_.jpg'
-      width: 500
-      height: 500
-    gallery:
-      - url: 'https://m.media-amazon.com/images/I/41G5tNCzsCL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/51XzWyN4erL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/51pNaGPJnmL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/41SXQ6LB3WL._SL500_.jpg'
-        width: 500
-        height: 500
   - name: SwitchBot Lock Pro
     brand: SwitchBot
     query: SwitchBot Lock Pro
     matchName: SwitchBot Smart Lock Pro
     asin: B0F9FQ7NT3
     amazonTitle: SwitchBot Smart Lock Pro Electronic Door Lock Black
-    badge: Beste combinatie van extra toetsenpaneel en vingerafdruk
+    badge: Beste opzetslot voor een Europese cilinder
     summary: >-
-      Een motor op batterijen die over je bestaande draaiknop wordt geplaatst en
-      het originele slot en de sleutel behoudt. Combineer hem met het los
-      verkrijgbare Keypad Touch en je komt binnen met vingerafdruk, code of
-      NFC-kaart, zonder telefoon.
+      Een motor op batterijen die aan de binnenkant over je cilinder komt en het
+      originele slot en de sleutel behoudt. Kies de versie uit de Europese
+      SwitchBot-winkel, die installatiegidsen heeft voor een Euro-cilinder met
+      sleutel of met knop. Met het los verkrijgbare Keypad Touch kom je binnen
+      met vingerafdruk, code of NFC-kaart, zonder telefoon.
     renterNote: >-
       Wordt aan de binnenkant met beugels gemonteerd (SwitchBot levert ook
       plakstrips en een deurmagneet mee), laat het originele slot en de sleutel
-      op hun plek, en Techlicious kon hem zonder sporen weer verwijderen. Het
-      toetsenpaneel en de hub voor ontgrendelen op afstand koop je los, en of
-      hij past hangt af van je slot, dus controleer de compatibiliteitslijst van
-      SwitchBot voordat je hem koopt.
+      op hun plek, en Techlicious kon hem zonder sporen weer verwijderen. Je
+      hebt een geschikte Europese profielcilinder met sleutel of knop aan de
+      binnenkant nodig: doe eerst de EU-compatibiliteitscheck van SwitchBot.
+      Toetsenpaneel en hub voor ontgrendelen op afstand koop je los.
     pros:
       - >-
         Behoudt je originele slot en sleutel, dus de cilinder van de verhuurder
@@ -233,85 +151,6 @@ products:
       - url: 'https://m.media-amazon.com/images/I/51wl7x8tl0L._SL500_.jpg'
         width: 500
         height: 500
-  - name: Yale Approach Lock with Wi-Fi and Keypad Touch
-    brand: Yale
-    query: Yale Approach Lock Deadbolt Wi-Fi Keypad B-YRR110-F-WF1-N-BSP
-    matchName: Yale Approach Lock
-    asin: B0D3VQD6YX
-    amazonTitle: >-
-      Yale Approach™ Lock Deadbolt, Silver Key-Free Smart Entry Door Lock with
-      Wi-Fi Connected Touchscreen Keypad and Biometric Fingerprint Scanner for
-      Code Entry and Remove Access, B-YRR110-F-WF1-N-BSP
-    badge: Beste set met toetsenpaneel en vingerafdruk
-    summary: >-
-      Het eerste slimme opzetslot van Yale komt aan de binnenkant over je
-      bestaande nachtslot en wordt geleverd met een biometrisch toetsenpaneel en
-      een wifi-bridge. Je komt binnen met vingerafdruk of code zonder telefoon,
-      en de sleutel blijft werken.
-    renterNote: >-
-      Het slot zit aan de binnenkant en je houdt je sleutels; het meegeleverde
-      toetsenpaneel kun je vastplakken met een kleefpad of vastschroeven, dus
-      boren is niet nodig. PCWorld vond dat de installatie meer stappen had dan
-      een volledig vervangend nachtslot, en de montageplaat wordt door de
-      bestaande schoot heen in het beslag aan de buitenkant geschroefd.
-    pros:
-      - >-
-        Toetsenpaneel, vingerafdruklezer en wifi-bridge zitten erbij, dus je
-        komt binnen zonder telefoon
-      - Je bestaande sleutel blijft als reserve
-      - >-
-        Toetsenpaneel bevestig je met het meegeleverde kleefpad of met schroeven
-        en heeft IPX5
-    cons:
-      - >-
-        Meer installatiestappen dan een volledig vervangend nachtslot, en de
-        bridge bezet een stopcontact binnen ongeveer 9 m (30 ft) (PCWorld)
-      - >-
-        Eigenaren melden 3 tot 5 seconden vertraging bij de vingerafdruk en
-        moeten de bridge ongeveer elk half jaar herstarten
-    scores:
-      install: 6
-      reversibility: 8
-      value: 7
-      compatibility: 6
-      portability: 7
-    scoreNote: >-
-      Behoudt je sleutel en de buitenkant, met een toetsenpaneel dat zonder
-      boren kan; extra installatiestappen en een bridge in het stopcontact
-      kosten punten op installatie en compatibiliteit.
-    owners:
-      read: 3
-      praise:
-        - >-
-          Een eigenaar die hem zo'n jaar heeft, noemt hem behoorlijk degelijk en
-          betrouwbaarder dan verwacht
-        - >-
-          Eigenaren waarderen binnenkomen met vingerafdruk terwijl de originele
-          sleutel blijft
-        - >-
-          Bij een recensent van PCWorld lukte de installatie na een tweede
-          kalibratiepoging
-      complaints:
-        - Ontgrendelen met vingerafdruk duurt een paar seconden
-        - >-
-          Een eigenaar moet de bridge ongeveer elk half jaar herstarten; een
-          ander raadt elk slot met een bridge af
-        - Problemen met kalibratie en firmware-update in de recensie van PCWorld
-      sources:
-        - title: Slickdeals Yale Approach owner thread
-          url: >-
-            https://slickdeals.net/f/18584878-yale-approach-apartment-smart-lock-wi-fi-deadbolt-with-keypad-access-silver-72-99
-        - title: PCWorld Yale Approach Lock with Wi-Fi + Keypad review
-          url: >-
-            https://www.pcworld.com/article/2331746/yale-approach-lock-with-wi-fi-keypad-review-this-is-easier.html
-    image:
-      url: 'https://m.media-amazon.com/images/I/31MSy2yL9IL._SL500_.jpg'
-      width: 500
-      height: 500
-    gallery:
-      - url: 'https://m.media-amazon.com/images/I/41GhUqJ29zL._SL500_.jpg'
-        width: 500
-        height: 500
   - name: Master Lock Portable Key Lock Box 5400EC
     brand: Master Lock
     query: Master Lock Portable Key Lock Box 5400EC
@@ -321,24 +160,24 @@ products:
       Master Lock Portable Key Lock Box, Combination Lock Box Holds 5 Keys
       5400EC | Secure Storage Lock Box For Realtors, Landlords, Tenants &
       Property Managers, Weather Resistant, Resettable 4-digit Code
-    badge: Beste sleutelkluis zonder gereedschap
+    badge: Beste sleutelkluisje zonder gereedschap
     summary: >-
-      Een sleutelkluis met cijferslot die je met zijn beugel over een deurknop
-      hangt, zodat er een reservesleutel bij je eigen deur ligt die je opent met
-      een code die je zelf kiest. Geen stroom, geen telefoon en geen boren
-      nodig, en daarom is het de eenvoudigste oplossing tegen buitensluiten.
+      Een sleutelkluisje met cijferslot dat je met zijn beugel aan de deur
+      hangt, zodat er een reservesleutel bij je eigen deur ligt achter een code
+      die je zelf kiest. In Europa is dit de Master Lock 5400EURD Select Access
+      (middelgroot, 90 mm). Geen stroom, geen telefoon en geen boren nodig.
     renterNote: >-
-      Hangt over de meeste ronde, platte en tulpvormige deurknoppen, dus er
-      wordt niets geboord of geplakt. Aandachtspunten: hij schrikt dieven af
-      maar is geen kluis (eigenaren melden dat een inbreker er een openbrak),
-      hij is zichtbaar vanaf de gang, en kijk in je huurcontract en overleg met
-      je verhuurder voordat je een sleutel buiten laat.
+      Kies de EU-uitvoering 5400EURD met beugel en zelf in te stellen
+      4-cijferige code. Er wordt niets geboord of geplakt. Aandachtspunten: hij
+      schrikt dieven af maar is geen kluis (eigenaren melden dat een inbreker er
+      een openbrak), hij is zichtbaar vanaf de gang, en overleg met je
+      verhuurder voordat je een sleutel buiten hangt.
     pros:
       - 'Niets op te laden of te vervangen: een instelbare 4-cijferige code'
       - >-
-        Biedt plaats aan maximaal 5 gewone huissleutels, volgens de
-        Amazon-vermelding
-      - Beugel met vinyl coating hangt zonder gereedschap aan een deurknop
+        Metalen behuizing van 90 mm breed met een binnenruimte van 7,8 x 6,8 x
+        3 cm, volgens Master Lock EU
+      - Beugel met vinyl coating hangt zonder gereedschap aan de deur
     cons:
       - >-
         Geen kluis: een geverifieerde koper meldde dat een inbreker er een
@@ -352,7 +191,7 @@ products:
       value: 9
       portability: 9
     scoreNote: >-
-      Aan de knop hangen, code instellen en er blijft niets achter. De beperkte
+      Ophangen, code instellen en er blijft niets achter. De beperkte
       beveiliging en de bevestiging met alleen een beugel houden de topscore
       tegen.
     owners:
@@ -409,23 +248,24 @@ products:
       Adjustable Shackle, 6 Key Capacity
     badge: Beste voor deuren met een klink
     summary: >-
-      Een kleinere sleutelkluis met cijferslot en een verstelbare beugel die
-      past op deurklinken en op ronde, platte en tulpvormige knoppen. Dit is de
-      keuze voor een voordeur met een klink, waar een kluis met vaste beugel
-      niet aan blijft hangen.
+      Een kleiner sleutelkluisje met cijferslot en een verstelbare beugel voor de
+      meeste soorten deurbeslag, zoals klinken en knoppen. In Europa is dit de Master Lock
+      5420EURD Select Access met verstelbare beugel. De keuze voor een deur met
+      een klink, waar een kluisje met vaste beugel niet aan blijft hangen.
     renterNote: >-
-      De beugel is verstelbaar van 1,9 tot 4,4 cm (3/4 tot 1-3/4 in) en hangt
-      zonder gereedschap of boren aan de klink. Meet eerst de doornmaat, het
-      boorgat en de deurdikte, want Amazon waarschuwt dat de pasvorm verschilt,
-      en onthoud dat het een verstopte reservesleutel is, geen kluis.
+      Kies de EU-uitvoering 5420EURD: verstelbare beugel voor de meeste soorten
+      deurbeslag en een zelf in te stellen 4-cijferige code. Hij hangt zonder
+      gereedschap of boren aan de klink, maar controleer zelf of de beugel om
+      jouw klink past, en onthoud dat het een verstopte reservesleutel is, geen
+      kluis.
     pros:
-      - Verstelbare beugel past op klinken en ook op ronde deurknoppen
+      - Verstelbare beugel (19 tot 44 mm) voor de meeste soorten deurbeslag; eigenaren van de Amerikaanse versie noemen klinken en knoppen
       - >-
-        Zelf in te stellen 4-cijferige code, ruimte voor 6 sleutels volgens de
-        Amazon-vermelding
+        Zelf in te stellen 4-cijferige code en een binnenruimte van 8,8 x 5,7 x
+        3,2 cm, volgens Master Lock EU
       - >-
-        Voor binnen en buiten, met een weerbestendige klep over de
-        cijferwieltjes
+        Beschermklep voor betere weerbestendigheid en meer discretie, volgens
+        Master Lock EU
     cons:
       - >-
         Zit krap op sommige ronde knoppen, en een recensent zegt dat de beugel
@@ -445,12 +285,12 @@ products:
       read: 23
       praise:
         - Makkelijk in te stellen en de code is makkelijk te wijzigen
-        - 'Past op klinken en op knoppen, wat andere sleutelkluizen niet kunnen'
+        - 'Past op klinken en op knoppen, wat andere sleutelkluisjes niet kunnen'
         - Beheerders en vakmensen gebruiken hem om sleutels over te dragen
       complaints:
         - >-
-          Zat zo krap op een ronde knop dat een eigenaar de knop samen met de
-          kluis moest draaien
+          Zat zo krap op een ronde knop dat een eigenaar de knop samen met het
+          kluisje moest draaien
         - >-
           De verstelbare beugel gaat bij een recensent niet zo ver open als
           verwacht
@@ -478,70 +318,74 @@ products:
         width: 500
         height: 500
 sources:
-  - title: August Wi-Fi Smart Lock (August)
-    url: 'https://august.com/products/august-wifi-smart-lock'
-  - title: SwitchBot Lock Pro (SwitchBot)
-    url: 'https://www.switch-bot.com/products/switchbot-lock-pro'
+  - title: SwitchBot Lock Pro (SwitchBot EU-winkel)
+    url: 'https://eu.switch-bot.com/products/switchbot-lock-pro'
   - title: SwitchBot Lock Pro review (Techlicious)
     url: 'https://techlicious.com/review/switchbot-lock-pro-review'
-  - title: Yale Approach Lock with Wi-Fi and Keypad Touch (Yale)
+  - title: Master Lock 5400EURD Select Access sleutelkluis (Master Lock EU)
+    url: 'https://shop.masterlock.eu/products/5400eurd'
+  - title: Master Lock 5420EURD Select Access sleutelkluis (Master Lock EU)
     url: >-
-      https://shopyalehome.com/products/yale-approach-lock-with-wi-fi-and-keypad-touch
-  - title: Yale Approach Lock with Wi-Fi + Keypad review (PCWorld)
-    url: >-
-      https://www.pcworld.com/article/2331746/yale-approach-lock-with-wi-fi-keypad-review-this-is-easier.html
-  - title: Master Lock 5400D Portable Lock Box (Master Lock)
-    url: 'https://www.masterlock.com/products/product/5400D'
-  - title: Master Lock 5420D Portable Lock Box (Master Lock)
-    url: 'https://www.masterlock.com/products/product/5420D'
+      https://www.masterlock.eu/products/select-access-gray-portable-key-safe/5420EURD
   - title: Best key lock boxes (Bob Vila)
     url: 'https://www.bobvila.com/articles/best-key-lock-box/'
   - title: Best lock for a rental property (Landlord Studio)
     url: >-
       https://www.landlordstudio.com/blog/whats-the-best-lock-for-a-rental-property
+  - title: Slotenmakers (Consumentenbond)
+    url: 'https://www.consumentenbond.nl/verbouwen-en-klussen/slotenmakers'
+  - title: Moet mijn verhuurder sleutelservice betalen? (Woonbond)
+    url: 'https://www.woonbond.nl/faq/moet-mijn-verhuurder-sleutelservice-betalen/'
+  - title: Onderhoudskosten huurwoning (Juridisch Loket)
+    url: >-
+      https://www.juridischloket.nl/wonen-en-buren/huurwoning/onderhoudskosten/
+  - title: Wanneer bel ik 112? (Rijksoverheid)
+    url: >-
+      https://www.rijksoverheid.nl/vraag-en-antwoord/alarmnummer-112/wanneer-112-bellen
+  - title: Ervaringen met spoedmonteurs (r/nederlands)
+    url: >-
+      https://www.reddit.com/r/nederlands/comments/1o036wo/pas_op_met_cvstoringservicenl_1500_kwijt_voor/
 reviewedDate: '2026-10-19'
 faqs:
   - q: 'Buitengesloten, wat moet ik als eerste doen?'
     a: >-
       Controleer andere deuren die je veilig kunt bereiken en bel daarna een
-      huisgenoot, partner of vriend die een reservesleutel heeft. Heeft niemand
-      er een, bel dan de beheerder of het verhuurkantoor, of buiten kantooruren
-      het nummer voor spoedreparaties, voordat je een slotenmaker belt.
-  - q: Wie bel ik als ik 's avonds of in het weekend buitengesloten ben?
+      huisgenoot, partner, familielid of vriend met een reservesleutel. Heeft
+      niemand er een, bel dan je verhuurder of beheerder, ook buiten
+      kantooruren via het storingsnummer, voordat je een slotenmaker belt.
+  - q: Moet ik 112 bellen als ik buitengesloten ben?
     a: >-
-      De meeste gebouwen vermelden een spoed- of storingsnummer in het
-      huurcontract, op de deur van het kantoor of in het huurdersportaal. Bel
-      dat eerst, want het gebouw heeft misschien een loper. Neemt niemand op,
-      dan is een slotenmaker het laatste redmiddel, en houd dan je
-      identiteitsbewijs en een bewijs dat je er woont bij de hand.
-  - q: Mag mijn verhuurder kosten rekenen om me binnen te laten?
+      Alleen bij levensgevaar of een heterdaadsituatie. De Rijksoverheid noemt
+      als voorbeeld dat je jezelf hebt buitengesloten terwijl het fornuis
+      aanstaat. Is er geen spoed, dan noemt de Rijksoverheid
+      een sleutelmaker; 0900-8844 is het nummer voor de politie zonder spoed.
+  - q: Wie betaalt de slotenmaker in een huurwoning?
     a: >-
-      Sommige huurcontracten noemen een vergoeding voor het binnenlaten van een
-      huurder, vooral buiten kantooruren, en de regels verschillen per plaats.
-      Kijk in je huurcontract en vraag je verhuurder schriftelijk wat er geldt
-      voordat je het nodig hebt, zodat je niet voor verrassingen komt te staan.
-  - q: Heeft een slotenmaker bewijs nodig dat ik er woon?
+      Dat hangt af van de oorzaak. Volgens de Woonbond moet de verhuurder zorgen
+      voor deugdelijk hang- en sluitwerk, dus bij een defect slot door
+      nalatigheid van de verhuurder kunnen de kosten bij hem liggen. Kleine en
+      dagelijkse reparaties zijn volgens het Juridisch Loket voor de huurder.
+      Meld een defect schriftelijk en bewaar de bon. Dit is algemene informatie,
+      geen juridisch advies.
+  - q: Vergoedt mijn inboedelverzekering de slotenmaker?
     a: >-
-      Een betrouwbare slotenmaker vraagt om een identiteitsbewijs en iets dat je
-      aan het adres koppelt, zoals je huurcontract, een energierekening of post.
-      Bewaar een foto van de pagina uit je huurcontract en van je ID in de cloud
-      van je telefoon, zodat je ze kunt laten zien ook als je portemonnee binnen
-      ligt.
+      Soms deels, bij verlies of diefstal van de sleutel, aldus de
+      Consumentenbond. Bij vergeten sleutels of een kapot slot meestal niet.
+      Kijk in je polis.
+  - q: Hoe herken ik een betrouwbare slotenmaker?
+    a: >-
+      De Consumentenbond noemt: aangesloten bij de NSSG of met het
+      Politiekeurmerk Veilig Wonen, een controleerbaar adres op de website, en
+      vooraf een duidelijke prijsindicatie inclusief voorrijkosten, noodtarief,
+      toeslagen, materiaal en btw. Pas op voor tussenpersonen en advertenties
+      bovenaan Google, en teken niets zonder alle kosten te kennen.
   - q: Wat als de batterij van mijn slimme slot leeg is en ik buitengesloten ben?
     a: >-
       Gebruik de noodoplossing waarmee het slot is gebouwd. Opzetsloten zoals de
-      August Wi-Fi Smart Lock behouden je gewone sleutel, en veel nachtsloten
-      met toetsenpaneel hebben onder het paneel contactpunten voor een
-      9V-batterij; kijk in de handleiding. Is er geen noodoplossing, bel dan het
-      spoednummer van je verhuurder.
-  - q: >-
-      Mag ik een reservesleutel laten bijmaken zonder dat mijn verhuurder het
-      weet?
-    a: >-
-      Sommige huurcontracten verbieden het kopiëren van sleutels of vereisen
-      toestemming, en op sommige sleutels staat dat ze niet gekopieerd mogen
-      worden. Kijk in je huurcontract, vraag je verhuurder schriftelijk om
-      toestemming en lever bij vertrek elke kopie weer in.
+      SwitchBot Lock Pro behouden je gewone sleutel, en veel sloten met
+      toetsenpaneel hebben onder het paneel contactpunten voor een
+      9V-batterij; kijk in de handleiding. Is er geen noodoplossing, bel dan je
+      verhuurder.
 author: editorial-team
 heroImage: /images/featured/locked-out-of-apartment.png
 heroAlt: >-
@@ -549,177 +393,145 @@ heroAlt: >-
   RenterSmartHome stappenplan
 ---
 
-Buitengesloten worden begint meestal op dezelfde manier: de deur valt achter je in het slot, je hand gaat naar een lege broekzak en in de gang wordt het opeens heel stil. Een huurder op r/legaladvice beschreef een ergere versie: om 2 uur 's nachts buitengesloten omdat het slimme slot van het gebouw het begaf, en daarna een rekening voor de slotenmaker en het uitgeboorde slot. We schreven deze gids voor allebei die momenten. Eerst krijg je zeven stappen in de volgorde die je het snelst en het goedkoopst weer binnen brengt. Daarna gaan we in op buitensluiten door een slim slot, op de kosten van binnengelaten worden en op de spullen zonder boren die de volgende keer voorkomen.
+**Buitengesloten? Bel eerst iemand met een reservesleutel, dan je verhuurder of beheerder, en pas als laatste een slotenmaker, met vooraf een prijsindicatie inclusief alle kosten.** De meeste gevallen zijn dan bij stap 2 of 3 opgelost. Een huurder op r/legaladvice zat om 2 uur 's nachts buiten omdat het slimme slot van het gebouw het begaf, en kreeg daarna de rekening voor de slotenmaker en het uitgeboorde slot. Voor allebei die situaties staat hieronder wat wij zouden doen.
 
 ## Buitengesloten wat te doen? Dit doe je nu meteen
 
-**Ben je buitengesloten, loop dan deze zeven stappen op volgorde door: de gratis, snelle opties eerst en de betaalde slotenmaker als laatste.** De meeste gevallen zijn bij stap 2 of 3 al opgelost.
+**Loop deze zeven stappen op volgorde door: de gratis, snelle opties eerst en de betaalde slotenmaker als laatste.**
 
-Dit is de volgorde die wij aanraden, van begin tot eind:
+1. **Rustig blijven en veilig andere deuren controleren.** Probeer een achterdeur of tuindeur die je vanaf de grond bereikt. Forceer niets.
+2. **Bel iedereen met een reservesleutel.** Een huisgenoot, partner, familielid of vriend in de buurt is de snelste weg naar binnen.
+3. **Bel je verhuurder of beheerder.** Woningcorporaties en beheerders hebben vaak een storingsnummer dat ook 's avonds en in het weekend opneemt.
+4. **Gevaar? Bel 112.** Alleen bij levensgevaar of heterdaad, bijvoorbeeld als je buitengesloten bent en het fornuis aanstaat, aldus de [Rijksoverheid](https://www.rijksoverheid.nl/vraag-en-antwoord/alarmnummer-112/wanneer-112-bellen). Geen spoed? Dan bel je volgens de Rijksoverheid een sleutelmaker (zie stap 6); het nummer 0900-8844 is voor de politie zonder spoed, bijvoorbeeld bij een inbraak die al is gebeurd.
+5. **Slim slot? Gebruik de noodoplossing.** Probeer je gewone sleutel, een code op het toetsenpaneel, ontgrendelen op afstand via de app van een huisgenoot, of de 9V-contactpunten als je slot met toetsenpaneel die heeft.
+6. **Bel als laatste redmiddel een slotenmaker uit de buurt.** Vraag eerst een prijsindicatie met alle kosten en houd je ID en bewijs dat je er woont bij de hand.
+7. **Leg het vast zodra je binnen bent.** Stuur je verhuurder een bericht over wat er gebeurde en regel een reservesleutel, zodat het niet nog eens gebeurt.
 
-1. **Rustig blijven en veilig andere deuren controleren.** Probeer een terrasdeur of achteringang die je vanaf de grond bereikt. Forceer niets.
-2. **Bel iedereen met een reservesleutel.** Een huisgenoot, partner, oppas voor je huisdier of een vriend in de buurt is de snelste manier om binnen te komen.
-3. **Bel je beheerder of het verhuurkantoor.** Tijdens kantooruren kan het personeel je vaak met de loper binnenlaten na een ID-controle.
-4. **Buiten kantooruren: bel het nummer voor spoedreparaties.** Dat staat meestal in je huurcontract, op de deur van het kantoor of in het huurdersportaal.
-5. **Slim slot? Gebruik de noodoplossing.** Probeer je gewone sleutel, een code op het toetsenpaneel, ontgrendelen op afstand via de app van een huisgenoot, of de contactpunten voor een 9V-batterij als je slot met toetsenpaneel die heeft.
-6. **Bel als laatste redmiddel een erkende slotenmaker.** Vraag telefonisch om een volledige prijsopgave en houd je ID en bewijs dat je er woont bij de hand.
-7. **Leg het vast zodra je binnen bent.** Stuur je verhuurder een bericht of e-mail over wat er gebeurde, vraag naar eventuele kosten en regel een reservesleutel zodat het niet nog eens gebeurt.
+### Klim niet naar binnen
 
-### Blijf kalm en controleer deuren en ramen veilig
+**Via een balkon, brandtrap of raam naar binnen klimmen raden we altijd af.** Zo wordt een onschuldig buitensluiten een blessure, een buurman belt terecht de politie, en schade aan horren of kozijnen kan de verhuurder op jou verhalen. We leggen ook geen manieren uit om zelf langs het slot te komen: je kunt het slot vernielen, en dat is van je verhuurder. Heeft je gebouw een huismeester of conciërge, vraag het dan eerst daar.
 
-Buitengesloten zijn voelt dringend, maar haast is zelden nodig. Kijk alleen of je een raam of schuifdeur open hebt laten staan als je die vanaf de grond kunt bereiken zonder te klimmen. Heeft je gebouw een portier, een receptie of een huismeester, vraag het dan daar voordat je iemand anders belt.
+## Bel eerst je verhuurder of beheerder
 
-### Waarom klimmen via de brandtrap het niet waard is
+**Je verhuurder of beheerder is de goedkoopste weg naar binnen, omdat die vaak een reservesleutel of loper heeft.** Reken op een ID-controle: ze moeten zeker weten dat je er woont. Bel in plaats van te mailen; krijg je de voicemail, spreek dan je naam, adres en terugbelnummer in. Sla het storingsnummer vandaag nog op in je telefoon, nu je niet in het trapportaal staat, en vraag meteen of ze buitensluiten als spoed behandelen.
 
-**Binnenkomen via de brandtrap of een raam op de begane grond is precies wat we onze lezers altijd afraden.** Door te klimmen wordt een onschuldig buitensluiten al snel een blessure. Een buurman belt bovendien terecht de politie als hij iemand door een raam ziet klimmen. Beschadigde horren of kozijnen kunnen van je borg af gaan. We leggen ook geen manieren uit om zelf langs het slot te komen: daarmee kun je het slot vernielen, en die hardware is van je verhuurder.
+### Wie betaalt de slotenmaker?
 
-## Bel eerst je beheerder of verhuurder
-
-**Je beheerder is de goedkoopste weg naar binnen, omdat het gebouw meestal een loper heeft.** Een loper is de sleutel die de beheerder bewaart voor reparaties en noodgevallen. Reken op een ID-controle, want het personeel moet zeker weten dat je er woont voordat ze een deur openen.
-
-Bel eerst het nummer van de beheerder of het verhuurkantoor, in plaats van te mailen. Krijg je de voicemail, laat dan je naam, je huisnummer en een terugbelnummer achter en stuur daarna een bericht als het kantoor dat mogelijk maakt.
-
-### 's Avonds of in het weekend buitengesloten
-
-Voor buitensluiten buiten kantooruren is het nummer voor spoedreparaties bedoeld. Sommige gebouwen zien buitensluiten als noodgeval en andere niet, dus vraag het nu, nu je niet in de gang staat. Sla het spoednummer vandaag nog op in je telefoon en zet een kopie in een notitie die een familielid kan lezen.
-
-### Huisgenoot, partner of huisdierenoppas met een sleutel
-
-Een reservesleutel bij iemand die dichtbij woont is de allerbeste oplossing tegen buitensluiten. Kies een vriend die je vertrouwt en die op korte rijafstand woont, of een buur die je vertrouwt. Een huisgenoot heeft al een sleutel, dus vaak is het met één berichtje in een paar minuten opgelost.
-
-### Vraag je verhuurder: zijn er kosten om je binnen te laten? (check je huurcontract)
-
-**Een vergoeding voor binnenlaten is een bedrag dat sommige huurcontracten rekenen om een huurder binnen te laten, en de hoogte en regels verschillen.** We kunnen je niet vertellen wat je verhuurder mag rekenen, want dat hangt af van je huurcontract en de lokale regels. Zoek in je huurcontract naar de bepaling over buitensluiten, die vaak ook sleutelkopieën en het vervangen van sloten regelt. Vraag het je verhuurder daarna schriftelijk, zodat je het antwoord zwart op wit hebt voordat je om 2 uur 's nachts moet bellen.
+**Dat hangt af van de oorzaak: bij een defect slot door nalatigheid van de verhuurder kan de rekening bij hem liggen.** De [Woonbond](https://www.woonbond.nl/faq/moet-mijn-verhuurder-sleutelservice-betalen/) zegt dat de verhuurder verplicht is te zorgen voor deugdelijk hang- en sluitwerk; is hij nalatig, dan kunnen de kosten van de sleutelservice bij hem liggen. Kleine en dagelijkse reparaties zijn volgens het [Juridisch Loket](https://www.juridischloket.nl/wonen-en-buren/huurwoning/onderhoudskosten/) voor de huurder. Meld een defect slot dus schriftelijk en bewaar je belgeschiedenis en de bon. Je inboedelverzekering vergoedt volgens de Consumentenbond soms een deel bij verlies of diefstal van de sleutel, maar niet bij vergeten sleutels of een kapot slot. Dit is algemene informatie, geen juridisch advies; het Juridisch Loket kan je vertellen waar je in jouw geval staat.
 
 ## Wanneer bel je een slotenmaker (en hoe betaal je niet te veel)
 
-**Bel pas een slotenmaker als de route via de verhuurder is mislukt, en vraag een volledige prijsopgave voordat iemand op pad gaat.** Een slotenmaker is het laatste redmiddel, omdat het geld kost en kan uitdraaien op een beschadigd slot dat je misschien moet betalen.
+**Bel pas een slotenmaker als de route via de verhuurder mislukt, en laat niemand komen voordat je een prijsindicatie met alle kosten hebt.** Spoedslotenmakers en bemiddelaars maken misbruik van je haast. Een Nederlander op r/nederlands vatte het samen: ["Loodgieters, slotenmakers en nu blijkbaar ook cv ketels. Ze maken misbruik van de situatie waarin je zit."](https://www.reddit.com/r/nederlands/comments/1o036wo/pas_op_met_cvstoringservicenl_1500_kwijt_voor/)
 
-### Vragen voordat hij op pad gaat
+### De checks van de Consumentenbond
 
-Stel deze vragen aan de telefoon voordat je een adres geeft:
+Wij volgen de [Consumentenbond](https://www.consumentenbond.nl/verbouwen-en-klussen/slotenmakers). Vraag aan de telefoon, voordat je een adres geeft:
 
-- Wat is de bedrijfsnaam en het adres in de buurt?
-- Wat is de totale prijs vooraf, inclusief voorrijkosten en toeslagen buiten kantooruren?
-- Als slotenmakers waar je woont een vergunning nodig hebben: wat is het vergunningsnummer? Zijn ze erkend en verzekerd?
-- Proberen ze eerst zonder schade te openen, en wanneer zouden ze boren?
-- Welk identiteitsbewijs en welk bewijs dat je er woont hebben ze nodig? (Een huurcontract, een energierekening of een ID met je adres.)
+- **Prijsindicatie vooraf:** voorrijkosten, noodtarief, avondtoeslag en materiaalkosten, alles inclusief btw.
+- **Lokaal bedrijf:** een adres op de website dat je kunt controleren. Pas op voor tussenpersonen (leadbedrijven) en advertenties bovenaan Google.
+- **Keurmerk:** aangesloten bij de Nederlandse Sleutel- en Slotenspecialisten Gilde (NSSG) of met het Politiekeurmerk Veilig Wonen.
+- **Werkwijze:** vraag of ze eerst zonder schade proberen te openen (volgens de Consumentenbond zijn bijna alle dichtgevallen deuren zonder schade te openen) en wanneer ze zouden boren.
+- **Niet tekenen:** zet geen handtekening onder een offerte zolang je niet alle kosten kent.
 
-Een goede slotenmaker vraagt om een identiteitsbewijs voordat hij iets opent. Die controle beschermt jou, dus wees er blij mee. Bewaar een foto van je huurcontract en je ID in cloudopslag die je vanaf elke telefoon kunt openen.
+Een goede slotenmaker vraagt om je ID en iets dat je aan het adres koppelt, zoals je huurcontract of post. Die controle beschermt jou. Bewaar daarom een foto van je huurcontract en ID in de cloud. Heb je meer betaald dan redelijk lijkt, dan heeft de Consumentenbond een stappenplan.
 
 ### Wat je je verhuurder schrijft als het slot beschadigd is
 
-Moet de slotenmaker boren, dan is de cilinder van de verhuurder kapot en moet je verhuurder het dezelfde dag nog weten. Zoiets werkt:
+Moet de slotenmaker boren, dan is de cilinder van de verhuurder kapot en moet hij het dezelfde dag weten:
 
-> Onderwerp: Buitengesloten en beschadigd nachtslot, woning [nr.]
+> Onderwerp: Buitengesloten en beschadigd slot, [adres]
 >
-> Beste [naam], we waren vanavond rond [tijd] buitengesloten uit woning [nr.]. We hebben om [tijd] het spoednummer gebeld en kregen geen gehoor, dus hebben we een slotenmaker gebeld die het nachtslot moest uitboren. We hebben de bon. Kunt u ons schriftelijk laten weten hoe u het slot wilt laten vervangen en of wij volgens het huurcontract voor de kosten opdraaien? Met vriendelijke groet, [je naam]
+> Beste [naam], we waren vanavond rond [tijd] buitengesloten. We hebben om [tijd] uw storingsnummer gebeld en kregen geen gehoor, dus hebben we een slotenmaker gebeld die de cilinder moest uitboren. We hebben de bon. Kunt u ons schriftelijk laten weten hoe u het slot wilt laten vervangen en wie de kosten draagt? Met vriendelijke groet, [je naam]
 
 ## Buitengesloten door een slim slot, lege batterij of app-storing
 
-**Buitengesloten door een slim slot komt bijna altijd door een van drie dingen: lege batterijen, een weggevallen app-verbinding of een slot zonder gewone sleutel.** Hier is elk probleem met de oplossing.
+**Buitensluiten door een slim slot komt bijna altijd door lege batterijen, een weggevallen verbinding of een slot zonder gewone sleutel.**
 
 ### Lege batterijen en de 9V-noodcontacten
 
-Lege batterijen zijn een terugkerende klacht in threads op r/ApartmentMaintenance, r/legaladvice en r/Locksmith. Een onderhoudsmedewerker op r/ApartmentMaintenance zei het zonder omwegen: ["Als de batterijen leeg zijn, zit de bewoner buiten tot er een onderhoudsmonteur komt."](https://www.reddit.com/r/ApartmentMaintenance/comments/1p38soy/these_door_locks_requires_batteries_when_the/) De oplossing is simpel maar vraagt om een gewoonte: vervang de batterijen bij de eerste waarschuwing, niet bij de laatste. Veel nachtsloten met toetsenpaneel hebben bovendien onder het paneel twee contactpunten voor een 9V-batterij die het slot van buitenaf lang genoeg van stroom voorzien om een code in te voeren; kijk in de handleiding of jouw slot die heeft. Opzetsloten vermijden het probleem op een andere manier: de gewone sleutel blijft werken.
+Een onderhoudsmedewerker op [r/ApartmentMaintenance](https://www.reddit.com/r/ApartmentMaintenance/comments/1p38soy/these_door_locks_requires_batteries_when_the/) schreef (Engels, vrij samengevat) dat een bewoner bij lege batterijen buiten staat tot er een onderhoudsmonteur komt. Vervang de batterijen bij de eerste waarschuwing, niet bij de laatste. Veel sloten met toetsenpaneel hebben onder het paneel twee contactpunten voor een 9V-batterij die lang genoeg stroom geven om een code in te voeren; kijk in de handleiding. Opzetsloten lossen het anders op: de gewone sleutel blijft werken.
 
 ### App, Bluetooth of wifi reageert niet
 
-Wegvallende apps en wifi zijn een veelbesproken onderwerp in hulppagina's over slimme sloten. Ontgrendelen op afstand werkt alleen zolang het slot, de router en de app met elkaar praten. De probleemoplossing van een fabrikant van wifi-sloten zegt: ["Herstart je router, wacht 60 seconden en kijk dan of het slot automatisch opnieuw verbinding maakt."](https://iveise.com/blogs/how-to/smart-lock-not-working-10-common-problems-and-how-to-fix-them) Daar heb je niets aan als je buiten staat. Zie Bluetooth, wifi en de app dus als gemak en houd een tweede manier om binnen te komen: een sleutel, een code op het toetsenpaneel of een reservesleutel bij een vriend.
-
-### Wie betaalt de slotenmaker? Check je huurcontract en vraag je verhuurder schriftelijk
-
-Rekeningen na een kapot slim slot zijn een terugkerend twistpunt in threads op r/chicago, r/legaladvice en r/Locksmith. De huurder op r/legaladvice die om 2 uur 's nachts buitengesloten was, kreeg ["nu de rekening voor slotenmaker + uitgeboord slot."](https://www.reddit.com/r/legaladvice/comments/1pa2zkl/locked_out_at_2_am_due_to_failed_smart_lock/) We kunnen je niet vertellen wie aansprakelijk is, want dat hangt af van je huurcontract en de lokale regels. Wat in elk geval helpt: bel het spoednummer van de verhuurder voordat je een slotenmaker belt, bewaar je belgeschiedenis en de bon, en vraag schriftelijk hoe het defect van het slot wordt afgehandeld. Een huurdersvereniging of gratis rechtshulp bij jou in de buurt kan je vertellen waar je staat.
+Ontgrendelen op afstand werkt alleen zolang slot, router en app met elkaar praten. De [probleemoplossing van een fabrikant van wifi-sloten](https://iveise.com/blogs/how-to/smart-lock-not-working-10-common-problems-and-how-to-fix-them) adviseert (vrij samengevat) de router te herstarten, 60 seconden te wachten en te kijken of het slot zelf weer verbinding maakt. Daar heb je buiten niets aan. Zie de app dus als gemak en houd een tweede weg naar binnen: een sleutel, een code of een reservesleutel bij een vriend.
 
 ### De verhuurder plaatste een slim slot zonder gewone sleutel
 
-Verhuurders die sloten zonder sleutel plaatsen die alleen met een app werken, komen steeds weer terug in threads op r/NYCapartments, r/jerseycity en r/legaladvice. Een huurder uit New York wees op ["New York Local Law 63, die verhuurders lijkt te verbieden huurders te verplichten slimme toegangssystemen te gebruiken om hun woning binnen te gaan."](https://www.reddit.com/r/legaladvice/comments/1vuhqbh/my_apartment_building_has_smart_locks_used/) Dat is een regel uit New York; wij zijn geen juristen, dus check de regels waar jij woont. Vraag je verhuurder daarna schriftelijk om een gewone sleutel of een schriftelijk noodplan en een nummer dat 24 uur per dag bereikbaar is als het slot het begeeft.
+De huurder op r/legaladvice die om 2 uur 's nachts buitenstond, kreeg [daarna de rekening voor de slotenmaker en het uitgeboorde slot](https://www.reddit.com/r/legaladvice/comments/1pa2zkl/locked_out_at_2_am_due_to_failed_smart_lock/) (r/legaladvice, Amerikaanse situatie). Plaatste je verhuurder het slot, dan is het hang- en sluitwerk van hem, en volgens de Woonbond moet hij zorgen dat het deugdelijk is. Vraag hem schriftelijk om een gewone sleutel of een noodplan en een nummer dat 24 uur per dag bereikbaar is, en bel bij een storing eerst dat nummer en pas daarna een slotenmaker.
 
-## Problemen waar eigenaren tegenaan lopen, en de oplossing
-
-**De meeste ellende rond buitensluiten in threads van eigenaren komt neer op vijf problemen, en voor elk ervan is een oplossing die je in één middag regelt.** De tabel vat elk probleem samen, waarom het gebeurt en wat je eraan doet.
+## Problemen waar huurders tegenaan lopen, en de oplossing
 
 | Probleem | Waarom het gebeurt | Oplossing |
 |---|---|---|
-| Batterij van het slimme slot is leeg | Batterijwaarschuwingen genegeerd | Bij de eerste waarschuwing vervangen; sleutel meenemen; de 9V-contacten kennen |
-| Rekening voor slotenmaker en uitgeboord slot | Geen schriftelijke afspraak over buitensluiten | De bepaling in het huurcontract lezen; de verhuurder nu schriftelijk vragen |
-| Slot met alleen een app, geen sleutel | Slim slot geplaatst door de verhuurder | Schriftelijk om een sleutel of noodplan vragen; lokale regels checken |
-| Angst om het huurcontract te schenden | De cilinder aan de buitenkant vervangen | Een opzetslot gebruiken dat de buitenkant met rust laat |
-| Ontgrendelen op afstand mislukt | Wifi of Bluetooth valt weg | Een sleutel of code als tweede manier om binnen te komen houden |
+| Batterij van het slimme slot is leeg | Waarschuwingen genegeerd | Bij de eerste waarschuwing vervangen; sleutel meenemen; 9V-contacten kennen |
+| Hoge rekening van een spoedslotenmaker | Eerste advertentie gebeld, geen prijs vooraf | Prijsindicatie vragen; NSSG of Politiekeurmerk; niets tekenen |
+| Rekening voor een uitgeboord slot | Geen afspraak over defecten | Defect schriftelijk melden; Woonbond: verhuurder zorgt voor deugdelijk slot |
+| Slot met alleen een app, geen sleutel | Slim slot geplaatst door de verhuurder | Schriftelijk om een sleutel of noodplan vragen |
+| Angst om het huurcontract te schenden | De cilinder aan de buitenkant vervangen | Een opzetslot dat de buitenkant met rust laat |
 
 ## Zo voorkom je dat je jezelf weer buitensluit
 
-**De manier om buitensluiten te voorkomen is het ene zwakke punt weghalen: één sleutel in één broekzak.** Voeg een gewoonte, een reservesleutel en, als je verhuurder akkoord is, sleutelloze toegang toe.
+**Haal het ene zwakke punt weg: één sleutel in één broekzak.** Voeg een gewoonte toe, een reservesleutel en, als je verhuurder akkoord is, sleutelloze toegang.
 
-### Een vaste routine bij het weggaan en een reservesleutel bij een vriend in de buurt
+### Routine bij het weggaan en een reservesleutel
 
-Wij zijn fan van een routine met drie tikken bij de deur: telefoon, sleutels, portemonnee, alle drie even aangeraakt voordat de deur dichtvalt. Automatisch vergrendelen is een veelvoorkomende oorzaak van buitensluiten, omdat het slot opnieuw vergrendelt zodra de deur dichtgaat. Heeft jouw slot automatisch vergrendelen, stel dan een langere vertraging in of combineer het met een toetsenpaneel. Geef daarna een extra sleutel aan een vriend die je vertrouwt en die dichtbij woont.
+Wij zweren bij drie tikken bij de deur: telefoon, sleutels, portemonnee, aangeraakt voordat de deur dichtvalt. Laat nooit een sleutel aan de binnenkant in de deur zitten, en leg reservesleutels bij familie of vrienden in de buurt, zoals de Consumentenbond adviseert. Heeft je slot automatisch vergrendelen, stel dan een langere vertraging in of combineer het met een toetsenpaneel.
 
-### Wat je huurcontract zegt over sleutelkopieën
+### Sleutels bijmaken
 
-Sommige huurcontracten verbieden het kopiëren van sleutels of vereisen schriftelijke toestemming, en op sommige sleutels staat dat ze niet gekopieerd mogen worden. Vraag je verhuurder schriftelijk om toestemming voordat je een reservesleutel laat maken. Houd bij wie welke kopie heeft, want bij vertrek moet je ze allemaal inleveren. Raakt er een kopie zoek, dan kan je verhuurder de cilinder laten vervangen, en het huurcontract kan bepalen wie dat betaalt.
+Sommige huurcontracten verbieden sleutels kopiëren zonder toestemming, en sommige sleutels mogen niet zomaar worden bijgemaakt. Vraag je verhuurder schriftelijk om toestemming, houd bij wie welke kopie heeft en lever bij vertrek alles in. Raakt er een kopie zoek, dan kan de verhuurder de cilinder laten vervangen.
 
-### Sleutelkluis of sleutelkastje
+### Sleutelkluisje
 
-Een sleutelkluis (sleutelkastje) bewaart een reservesleutel bij de deur achter een code. Hij heeft geen stroom nodig, dus hij kan je niet in de steek laten. Maar hij schrikt alleen af en is geen echte kluis, en wie de code te weten komt, heeft je sleutel. Kijk in je huurcontract en het huishoudelijk reglement voordat je er een in een gedeelde gang ophangt.
+Een sleutelkluisje bewaart een reservesleutel bij de deur achter een code. Het heeft geen stroom nodig, maar het schrikt alleen af en is geen echte kluis: wie de code kent, heeft je sleutel. Kijk in het huishoudelijk reglement voordat je er een in een gedeelde gang ophangt.
 
-> **Uit onze notities:** We hebben deze producten niet getest. In de threads van eigenaren en de recensies die we lazen, hadden de opzetsloten die de originele sleutel in de deur lieten een noodoplossing als de batterijen bijna leeg waren. Bij de sleutelkluizen ging het om een andere zorg: een recensent bij Home Depot beschreef hoe een inbreker er een openbrak. En de bozeste threads gingen helemaal niet over hardware. Ze kwamen van huurders die een rekening van de slotenmaker kregen nadat een door de verhuurder geplaatst slot het begaf, zonder dat er iets op papier stond over wie betaalt. Daarom zet deze gids het schriftelijke bericht aan de verhuurder direct naast de producten.
+> **Uit onze notities:** We hebben deze producten niet getest. In de threads en recensies die we lazen, hadden de opzetsloten die de originele sleutel in de deur lieten een noodoplossing als de batterijen bijna leeg waren. Bij de sleutelkluisjes ging het om een andere zorg: een recensent bij Home Depot beschreef hoe een inbreker er een openbrak. En de bozeste threads gingen helemaal niet over hardware, maar over huurders die een rekening van de slotenmaker kregen nadat een door de verhuurder geplaatst slot het begaf, zonder dat er iets op papier stond. Daarom staat het bericht aan de verhuurder in deze gids naast de producten.
 
 ## Beste sleutelloze opties voor huurders (zonder boren, originele sleutel blijft)
 
-**De beste sleutelloze oplossing voor een huurder behoudt de buitencilinder en de sleutel van de verhuurder, zodat een slim slot een manier om binnen te komen toevoegt zonder er een weg te nemen.** Een slim opzetslot vervangt alleen de draaiknop aan de binnenkant. Een nachtslot met toetsenpaneel vervangt het hele slot en heeft toestemming van de verhuurder nodig. Voor een uitgebreidere vergelijking, zie onze gids over [slimme sloten voor huurders die je nachtslot behouden](/nl/blog/beste-slimme-sloten-voor-huurders/), of bekijk het [overzicht van slimme sloten](/category/smart-locks/).
-
-### August Wi-Fi Smart Lock (4th Gen): opzetslot met ontgrendelen op afstand
-
-Voor een huurder die steeds zijn sleutels binnen laat liggen, is de [August Wi-Fi Smart Lock (4th Gen)](amzn:August+Wi-Fi+Smart+Lock+4th+Gen) de makkelijkste keuze. Hij klemt met een schroevendraaier aan de binnenkant over de meeste enkelzijdige nachtsloten, en het sleutelgat buiten blijft hetzelfde. De sleutel van je verhuurder en die van jou blijven dus werken. Dankzij de ingebouwde wifi kan een huisgenoot hem op afstand via de app openen, zonder aparte bridge. Auto-Lock en de DoorSense-sensor zorgen voor het opnieuw vergrendelen, en automatisch ontgrendelen kan de deur openen als je aankomt. Eigenaren op Slickdeals prijzen vooral de noodoplossing: een van hen merkt op dat de gewone sleutel nog werkt als de batterijen helemaal leeg zijn. Ze noemen ook dat er vooraf ruim genoeg batterijwaarschuwingen komen. De grootste klacht is de batterijduur. Op de pagina van August staat tot 3 maanden op twee CR123-cellen, en eigenaren op Slickdeals melden dat ze elke 3 tot 7 maanden vervangen. Samenvattingen van ervaringen noemen ook af en toe wegvallende wifi. Het toetsenpaneel voor codes zonder telefoon koop je los, dus reken daar op als je vaak zonder telefoon de deur uitgaat.
+**De beste oplossing voor een huurder laat de buitencilinder en de sleutel van de verhuurder zoals ze zijn, zodat er een weg naar binnen bij komt zonder dat er een verdwijnt.** Een slim opzetslot komt alleen aan de binnenkant van je Europese profielcilinder. Voor een uitgebreidere vergelijking, zie onze gids over [slimme sloten voor huurders die je cilinder behouden](/nl/blog/beste-slimme-sloten-voor-huurders/), of het [overzicht van slimme sloten](/category/smart-locks/).
 
 ### SwitchBot Lock Pro: houd je slot en voeg vingerafdruk toe
 
-De [SwitchBot Lock Pro](amzn:SwitchBot+Lock+Pro) kiest een zachtere aanpak: een motor op batterijen die over je bestaande draaiknop zit en hem voor je omdraait. Hij wordt op beugels gemonteerd, en Techlicious stelde vast dat er geen blijvende aanpassingen aan de deur nodig zijn en dat hij zonder sporen weer loskwam. Combineer hem met het los verkrijgbare Keypad Touch en je komt binnen met vingerafdruk, code of NFC-kaart, zonder telefoon. Voor buitensluiten springt Low Battery Unlock eruit, dat het slot volgens Techlicious na de waarschuwing werkend houdt. SwitchBot geeft voor vier AA-batterijen 6 tot 9 maanden op. Recensenten prijzen ook de snelheid; NotEnoughTech vond ontgrendelen ongeveer zo snel als met een sleutel. De nadelen zijn pasvorm en extra's. Een recensent op Trustpilot wilde een betere aanpassing aan verschillende deuren, en NotEnoughTech vond de magneetsensor op sommige deuren lastig te plaatsen. Voor ontgrendelen op afstand heb je een SwitchBot-hub nodig, die los wordt verkocht. Controleer de compatibiliteitslijst op de [pagina van de SwitchBot Lock Pro](https://www.switch-bot.com/products/switchbot-lock-pro) voordat je koopt.
+De [SwitchBot Lock Pro](amzn:B0F9FQ7NT3) is een motor op batterijen die aan de binnenkant over je cilinder zit en hem voor je omdraait. Kies de versie uit de [Europese SwitchBot-winkel](https://eu.switch-bot.com/products/switchbot-lock-pro): die beschrijft het slot als geschikt voor Europese woningen, je behoudt het originele slot, en er zijn installatiegidsen voor een Euro-cilinder met sleutel of met knop. Je hebt aan de binnenkant zo'n geschikte cilinder nodig, dus doe eerst de EU-compatibiliteitscheck. Techlicious stelde vast dat montage op beugels geen blijvende aanpassingen aan de deur vraagt en dat het slot zonder sporen weer loskwam. Met het los verkrijgbare Keypad Touch kom je binnen met vingerafdruk, code of NFC-kaart, zonder telefoon. Voor buitensluiten springt Low Battery Unlock eruit, dat het slot volgens Techlicious na de waarschuwing werkend houdt; SwitchBot geeft voor vier AA-batterijen 6 tot 9 maanden op. NotEnoughTech vond ontgrendelen ongeveer zo snel als met een sleutel. De nadelen zijn pasvorm en extra's: een recensent op Trustpilot wilde een betere aanpassing aan verschillende deuren, NotEnoughTech vond de magneetsensor op sommige deuren lastig te plaatsen, en voor ontgrendelen op afstand heb je een los verkochte SwitchBot-hub nodig.
 
-### Yale Approach Lock with Wi-Fi and Keypad Touch: set met toetsenpaneel in één doos
+### Master Lock Portable Key Lock Box 5400EC: reservesleutel aan de deur
 
-Wil je alles in één doos, dan komt de [Yale Approach Lock with Wi-Fi and Keypad Touch](amzn:Yale+Approach+Lock+Deadbolt+Wi-Fi+Keypad+B-YRR110-F-WF1-N-BSP) met het slot, een toetsenpaneel met vingerafdruklezer en een wifi-bridge. Het slot komt aan de binnenkant op je bestaande nachtslot, en de sleutel blijft werken. Het IPX5-toetsenpaneel plak je vast met een kleefpad of schroef je vast, dus het kan zonder boren. Een eigenaar op Slickdeals die hem zo'n jaar heeft, noemt hem behoorlijk degelijk en betrouwbaarder dan verwacht, met vier AA-batterijen die 4 tot 5 maanden meegaan. Dezelfde eigenaar herstart de bridge ongeveer elk half jaar en merkt 3 tot 5 seconden vertraging bij de vingerafdruk. In de [recensie van de Yale Approach](https://www.pcworld.com/article/2331746/yale-approach-lock-with-wi-fi-keypad-review-this-is-easier.html) vond PCWorld dat de installatie meer stappen had dan een volledig vervangend nachtslot. Er waren ook problemen met kalibratie en firmware. De bridge heeft een stopcontact nodig binnen ongeveer 9 m (30 ft) van de deur.
-
-### Master Lock Portable Key Lock Box 5400EC: reservesleutel aan de deurknop
-
-De goedkoopste oplossing zonder batterijen is de [Master Lock Portable Key Lock Box 5400EC](amzn:Master+Lock+Portable+Key+Lock+Box+5400EC). Hij hangt met een beugel met vinyl coating over de meeste ronde, platte en tulpvormige knoppen en gaat open met een 4-cijferige code die je zelf instelt. Volgens de Amazon-vermelding passen er maximaal 5 gewone huissleutels in. Recensenten bij Home Depot prijzen hoe makkelijk de code in te stellen en te wijzigen is. Makelaars en beheerders gebruiken ze om vakmensen toegang te geven. Nu het voorbehoud dat wij serieus nemen. Een recensent bij Home Depot beschreef hoe een inbreker de dunne aluminium behuizing openbrak, en een ander noemt hem alleen een afschrikmiddel tegen diefstal. Een paar eigenaren melden een vastzittend mechanisme of een code die met verkeerde cijfers openging. Hij laat bovendien iedereen in de gang weten dat er een sleutel in zit. Stop er dus alleen de reservesleutel in, verander de code nadat je hem hebt gedeeld en vraag het je verhuurder voordat je hem ophangt.
+De goedkoopste oplossing zonder batterijen is een sleutelkluisje als de [Master Lock 5400](amzn:B0002YP1VC); in Europa heet hij de **Master Lock 5400EURD Select Access** (middelgroot, 90 mm, met beugel en een 4-cijferige code die je zelf instelt, volgens de [Master Lock EU-winkel](https://shop.masterlock.eu/products/5400eurd)). Hij hangt met een beugel met vinyl coating aan de deur. De binnenruimte is volgens Master Lock EU 7,8 x 6,8 x 3 cm; meet of je sleutels erin passen. Recensenten bij Home Depot (reviews van de Amerikaanse versie van dit kluisje) prijzen hoe makkelijk de code in te stellen en te wijzigen is, en makelaars en beheerders gebruiken ze om vakmensen toegang te geven. Het voorbehoud nemen wij serieus: een recensent bij Home Depot beschreef hoe een inbreker de dunne aluminium behuizing openbrak, een ander noemt hem alleen een afschrikmiddel, en een paar eigenaren melden een vastzittend mechanisme of een code die met verkeerde cijfers openging. Iedereen in de gang ziet bovendien dat er een sleutel in zit. Stop er dus alleen de reservesleutel in, verander de code nadat je hem hebt gedeeld en vraag het je verhuurder voordat je hem ophangt.
 
 ### Master Lock 5420EC Set Your Own Combination Portable Lock Box: voor deuren met een klink
 
-Voordeuren met een klink hebben de [Master Lock 5420EC Set Your Own Combination Portable Lock Box](amzn:Master+Lock+5420EC+Set+Your+Own+Combination+Portable+Lock+Box+Adjustable+Shackle) nodig. De beugel is verstelbaar van 1,9 tot 4,4 cm (3/4 tot 1-3/4 in) en past op klinken en op ronde, platte en tulpvormige knoppen. Volgens de vermelding passen er 6 sleutels in, met een weerbestendige klep over de cijferwieltjes. Eigenaren bij Home Depot vinden het fijn dat hij op deuren met een knop én met een klink werkt, wat kluisjes met een vaste beugel niet kunnen. De pasvorm is de grootste klacht. Een eigenaar vond hem erg krap op een gewone ronde knop. Een ander zegt dat de beugel niet zo ver opengaat als verwacht. Een exemplaar liep vast tijdens het instellen van de code en moest worden omgeruild, dus stel je code thuis in voordat je erop vertrouwt. Net als de 5400EC is het een verstopte reservesleutel, geen kluis.
+Hangt een vaste beugel niet om je klink, kijk dan naar de [Master Lock 5420](amzn:B07FD2N88X), in Europa de **Master Lock 5420EURD Select Access** met verstelbare beugel voor de meeste soorten deurbeslag en een 4-cijferige code die je zelf instelt ([Master Lock EU](https://www.masterlock.eu/products/select-access-gray-portable-key-safe/5420EURD)). Controleer zelf of de beugel om jouw klink past. De binnenruimte is volgens Master Lock EU 8,8 x 5,7 x 3,2 cm, met een beschermklep voor meer weerbestendigheid; meet of je sleutels passen. Eigenaren bij Home Depot (Amerikaanse versie) vinden het fijn dat hij op deuren met een knop én met een klink werkt. De pasvorm is ook de grootste klacht: een eigenaar vond hem erg krap op een ronde knop, een ander zegt dat de beugel niet zo ver opengaat als verwacht. Een exemplaar liep vast tijdens het instellen van de code en moest worden omgeruild, dus stel je code thuis in voordat je erop vertrouwt. Ook dit is een verstopte reservesleutel, geen kluis.
 
-### Opzetslot, nachtslot met toetsenpaneel of sleutelkluis (vergelijkingstabel)
-
-Deze tabel vergelijkt de drie manieren waarop huurders buitensluiten voorkomen, op de punten waar verhuurders om geven.
+### Opzetslot, slot met toetsenpaneel of sleutelkluisje (vergelijkingstabel)
 
 | Optie | Verandert het slot aan de buitenkant? | Stroom nodig? | Noodtoegang | Toestemming verhuurder |
 |---|---|---|---|---|
 | Slim opzetslot | Nee | Ja, batterijen | Originele sleutel | Schriftelijk vragen |
-| Nachtslot met toetsenpaneel | Ja, volledig vervangen | Ja, batterijen | Sleutel of 9V-contacten | Vereist |
-| Sleutelkluis (sleutelkastje) | Nee | Nee | Reservesleutel erin | Huishoudelijk reglement checken |
+| Slot met toetsenpaneel (vervangt het hele slot) | Ja, volledig vervangen | Ja, batterijen | Sleutel of 9V-contacten | Vereist |
+| Sleutelkluisje | Nee | Nee | Reservesleutel erin | Huishoudelijk reglement checken |
 
-Huurders maken zich het meest zorgen om het huurcontract. Een reageerder op r/jerseycity waarschuwde: ["Als de verhuurder erachter komt en dit als een aanpassing van het slot beschouwt, kun je uit huis gezet worden."](https://www.reddit.com/r/jerseycity/comments/1ncrxoj/landlord_wont_provide_physical_keys_for_smart/) Die angst komt steeds terug in threads op r/jerseycity en r/homeautomation. Een opzetslot omzeilt dat, zoals een reactie op r/homeautomation uitlegt: ["De buitenkant van het nachtslot blijft hetzelfde. Zo kan de verhuurder zijn eigen sleutel blijven gebruiken."](https://www.reddit.com/r/homeautomation/comments/1rm2gag/best_renter_friendly_smart_lock/)
+Huurders maken zich het meest zorgen om het huurcontract. Een opzetslot omzeilt dat, zoals een [reactie op r/homeautomation](https://www.reddit.com/r/homeautomation/comments/1rm2gag/best_renter_friendly_smart_lock/) uitlegt: de buitenkant van het slot blijft gelijk, dus de verhuurder kan zijn eigen sleutel blijven gebruiken.
 
 ### Zo vraag je je verhuurder om toestemming (voorbeeldmail)
 
 Wij zouden iets korts en concreets sturen, zodat ja zeggen makkelijk is:
 
-> Onderwerp: Verzoek om een slim opzetslot te plaatsen, woning [nr.]
+> Onderwerp: Verzoek om een slim opzetslot te plaatsen, [adres]
 >
-> Beste [naam], we willen graag een slim opzetslot aan de binnenkant van ons nachtslot plaatsen. Het vervangt alleen de draaiknop aan de binnenkant. De cilinder aan de buitenkant en uw sleutel blijven precies zoals ze zijn, dus u houdt volledige toegang. Bij vertrek zetten we de originele draaiknop terug. Kunt u schriftelijk bevestigen dat dit akkoord is, en ons het spoednummer voor buitensluiten buiten kantooruren geven? Met vriendelijke groet, [je naam]
+> Beste [naam], we willen graag een slim opzetslot aan de binnenkant van onze voordeur plaatsen. Het komt alleen over de binnenkant van de cilinder. De buitenkant en uw sleutel blijven precies zoals ze zijn, dus u houdt volledige toegang. Bij vertrek halen we het weg zonder sporen. Kunt u schriftelijk bevestigen dat dit akkoord is, en ons het storingsnummer voor buiten kantooruren geven? Met vriendelijke groet, [je naam]
 
-Voor meer huurdervriendelijke spullen voor de deur, zie onze gidsen over een [videodeurbel voor je appartement](/nl/blog/videodeurbel-voor-appartement/) en [deurspioncamera's zonder boren](/nl/blog/beste-deurspion-camera-voor-appartementen/).
+Meer huurdervriendelijke spullen voor de deur: een [videodeurbel voor je appartement](/nl/blog/videodeurbel-voor-appartement/) en [deurspioncamera's zonder boren](/nl/blog/beste-deurspion-camera-voor-appartementen/).
 
 ## Checklist tegen buitensluiten en voor de verhuisdag
 
-**Een checklist van twee minuten bespaart je nu de ergste nacht van je huurperiode, en op de verhuisdag gaat elke reservesleutel en elk origineel onderdeel terug.** Print deze lijst of maak er een screenshot van:
+**Twee minuten nu besparen je de ergste nacht van je huurperiode.** Maak een screenshot van deze lijst:
 
-- Sla het nummer van het verhuurkantoor en het spoednummer voor buiten kantooruren op in je telefoon.
-- Vraag je verhuurder schriftelijk naar kosten voor binnenlaten en de regels voor sleutelkopieën.
-- Geef een reservesleutel aan een vriend of huisgenoot die je vertrouwt, en noteer wie welke kopie heeft.
-- Bewaar foto's van je huurcontract en ID in de cloud voor de woonbewijscontrole van een slotenmaker.
-- Vervang bij een slim slot de batterijen bij de eerste waarschuwing en houd de gewone sleutel.
-- Haal op de verhuisdag elke reservesleutel op, haal de sleutelkluis weg en zet de originele draaiknop terug.
+- Sla het storingsnummer van je verhuurder op, en onthoud: 112 alleen bij levensgevaar of heterdaad; anders een sleutelmaker.
+- Zoek nu een slotenmaker uit de buurt met NSSG-lidmaatschap of Politiekeurmerk, zodat je 's nachts niet de eerste advertentie belt.
+- Leg een reservesleutel bij familie of een vriend in de buurt en noteer wie welke kopie heeft.
+- Bewaar foto's van je huurcontract en ID in de cloud voor de controle van de slotenmaker.
+- Vervang bij een slim slot de batterijen bij de eerste waarschuwing en houd de gewone sleutel bij je.
+- Haal op de verhuisdag elke reservesleutel op, haal het sleutelkluisje weg en monteer het slimme slot af.
 
-Voor die huurder die om 2 uur 's nachts buitengesloten was, is de oplossing dus niet één apparaat. Het is een schriftelijk plan met de verhuurder, een reservesleutel dichtbij en een slot waarbij de originele sleutel blijft werken. Wij zouden die drie deze week nog regelen, voordat de volgende deur achter ons in het slot valt.
+Voor die huurder van 2 uur 's nachts is de oplossing dus niet één apparaat, maar een schriftelijke afspraak met de verhuurder, een reservesleutel dichtbij en een slot waarbij de originele sleutel blijft werken. Wij zouden die drie deze week nog regelen.
