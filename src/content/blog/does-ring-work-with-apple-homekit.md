@@ -188,6 +188,8 @@ heroImage: /images/featured/does-ring-work-with-apple-homekit.png
 heroAlt: >-
   Does Ring Work With Apple HomeKit? 3 Bridges and a Renter Check (2026) –
   RenterSmartHome how-to
+related:
+  - what-is-homekit
 ---
 
 A renter on r/HomeKit asks which doorbell camera to buy for an all-Apple apartment, and the first reply is blunt: ["Dont get a ring doorbell. They're not compatible with Homekit, and you'll have to pay to play."](https://www.reddit.com/r/HomeKit/comments/1x50tp7/doorbell_camera_for_an_apartment_recommendation/) That reply is right on the basics. **Ring does not work with Apple HomeKit natively: Ring doorbells, cameras and Ring Alarm have no HomeKit or Matter support, so they never appear in the Apple Home app on their own.** Third-party bridges such as Homebridge, Scrypted and HOOBS can add Ring to Apple Home, but they are unofficial workarounds that need an always-on device.

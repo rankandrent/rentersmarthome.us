@@ -217,6 +217,13 @@
       "keyword": "does ring work with apple homekit",
       "category": "security",
       "funnel": "mofu"
+    },
+    {
+      "date": "2026-10-20",
+      "slug": "what-is-homekit",
+      "keyword": "what is homekit",
+      "category": "hubs-voice",
+      "funnel": "tofu"
     }
   ],
   "translated": [
