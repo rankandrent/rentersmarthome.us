@@ -1,9 +1,11 @@
 {
   "slug": "best-indoor-security-camera-for-renters-no-drilling",
   "pass": true,
-  "checkedAt": "2026-10-20T23:38:55.715Z",
+  "checkedAt": "2026-10-20T23:41:44.062Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "source didn't respond normally (no response): https://realestate.usnews.com/home-services/home-security-systems/best-home-security-systems-for-renters"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Removed Abode Cam 2 everywhere (products, entities, table, section, sources, tldr, FAQ, title, counts); remaining Ring, Nest, SimpliSafe content unchanged and previously verified against maker pages and sources; adhesive angle replaced by generic box-mount sentence.",
