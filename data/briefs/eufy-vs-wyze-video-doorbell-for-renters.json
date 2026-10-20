@@ -1,0 +1,456 @@
+{
+  "centralEntity": "Eufy vs Wyze video doorbell",
+  "entityVariants": [
+    "Eufy vs Wyze",
+    "Wyze vs Eufy",
+    "Eufy or Wyze",
+    "eufy vs wyze doorbell",
+    "Eufy and Wyze doorbells",
+    "Eufy E340 vs Wyze Duo Cam"
+  ],
+  "entities": [
+    {
+      "name": "Eufy Video Doorbell E340",
+      "type": "product",
+      "relation": "Eufy's battery or wired dual-camera doorbell with 8 GB on-device storage and free AI detection"
+    },
+    {
+      "name": "Wyze Duo Cam Doorbell",
+      "type": "product",
+      "relation": "Wyze's dual-camera battery doorbell with included Wi-Fi chime and 3M adhesive mount"
+    },
+    {
+      "name": "Cam Plus",
+      "type": "subscription",
+      "relation": "Wyze plan that unlocks person, package and vehicle detection and full-length cloud event video"
+    },
+    {
+      "name": "HomeBase",
+      "type": "hardware",
+      "relation": "Optional Eufy hub that expands E340 storage and acts as a chime"
+    },
+    {
+      "name": "eMMC",
+      "type": "storage",
+      "relation": "E340 keeps 8 GB of clips inside the doorbell, no card or plan"
+    },
+    {
+      "name": "microSD card",
+      "type": "storage",
+      "relation": "Wyze local storage up to 256 GB; local recording needs wired power"
+    },
+    {
+      "name": "Wyze Wi-Fi Chime",
+      "type": "accessory",
+      "relation": "Plug-in chime included with Duo Cam, sold separately for Battery Video Doorbell"
+    },
+    {
+      "name": "3M adhesive",
+      "type": "install",
+      "relation": "No-drill mounting included with Duo Cam"
+    },
+    {
+      "name": "2.4 GHz Wi-Fi",
+      "type": "network",
+      "relation": "E340 and Battery Video Doorbell are 2.4 GHz; Duo Cam is dual-band"
+    },
+    {
+      "name": "transformer",
+      "type": "hardware",
+      "relation": "Optional wiring (8-24 V for E340, 10-24 V AC Duo Cam, 12-24 V AC Battery Video Doorbell)"
+    },
+    {
+      "name": "Alexa",
+      "type": "platform",
+      "relation": "All three work with both; none supports Apple HomeKit per Eufy FAQ (E340)"
+    },
+    {
+      "name": "camera clause",
+      "type": "legal",
+      "relation": "Lease language that can ban doorbell cameras"
+    },
+    {
+      "name": "IP65",
+      "type": "spec",
+      "relation": "Weather rating of all three doorbells"
+    },
+    {
+      "name": "Google Assistant",
+      "type": "platform",
+      "relation": "All three doorbells work with Google Assistant"
+    }
+  ],
+  "attributes": [
+    "mounting method (adhesive vs screws)",
+    "power (removable vs built-in battery)",
+    "local storage on battery power",
+    "subscription features",
+    "Wi-Fi band",
+    "chime included",
+    "dual camera package view",
+    "field of view",
+    "night vision",
+    "smart home compatibility",
+    "battery life",
+    "move-out reversibility"
+  ],
+  "ngrams": [
+    "eufy vs wyze",
+    "video doorbell",
+    "battery doorbell",
+    "dual camera",
+    "package detection",
+    "no subscription",
+    "local storage",
+    "microSD card",
+    "cam plus",
+    "head to toe view",
+    "color night vision",
+    "wi-fi chime",
+    "3m adhesive",
+    "existing doorbell wiring",
+    "2.4 GHz wi-fi",
+    "for renters",
+    "no drill"
+  ],
+  "skipgrams": [
+    "doorbell…adhesive",
+    "storage…subscription",
+    "battery…wired",
+    "package…camera",
+    "chime…included",
+    "lease…camera",
+    "neighbor…doors",
+    "microSD…hardwired",
+    "wifi…2.4"
+  ],
+  "nlpTerms": [
+    "E340",
+    "Duo Cam",
+    "Cam Plus",
+    "HomeBase",
+    "eMMC",
+    "microSD",
+    "IP65",
+    "2K",
+    "1536 x 1536",
+    "dual-band",
+    "2.4 GHz",
+    "corner kit",
+    "pre-roll",
+    "two-way audio",
+    "Alexa",
+    "Google Assistant",
+    "IFTTT",
+    "firmware",
+    "security deposit",
+    "landlord"
+  ],
+  "questions": [
+    "Is Eufy or Wyze better for a video doorbell?",
+    "Which Eufy or Wyze doorbell can a renter install without drilling?",
+    "Does the Wyze doorbell need a subscription?",
+    "Does the Eufy E340 need a subscription?",
+    "Does the Eufy E340 work on 5 GHz Wi-Fi?",
+    "Can my landlord ban a doorbell camera?",
+    "Do Eufy and Wyze doorbells work with Alexa and Google Home?"
+  ],
+  "contentGaps": [
+    "No top result compares the Eufy and Wyze doorbells for renters specifically",
+    "On battery, Wyze records events only to microSD and needs Cam Plus for smart alerts; Eufy has free AI and built-in storage",
+    "Chime: only Duo Cam includes one; a renter without a wired chime needs a plug-in chime or Echo",
+    "Lease camera clauses, hallway privacy and theft in shared buildings",
+    "Mounting: Duo Cam ships with 3M adhesive, Eufy says E340 may need screws"
+  ],
+  "outline": [
+    {
+      "h2": "Eufy vs Wyze video doorbell for renters: the short answer",
+      "intent": "Direct verdict and comparison table",
+      "h3": [
+        "Choose Eufy if...",
+        "Choose Wyze if...",
+        "Side-by-side comparison table"
+      ]
+    },
+    {
+      "h2": "The two doorbells the top comparisons put head to head",
+      "intent": "Product sections with owner reports",
+      "h3": [
+        "Eufy Video Doorbell E340",
+        "Wyze Duo Cam Doorbell"
+      ]
+    },
+    {
+      "h2": "Mounting without drilling",
+      "intent": "ourGain: what is in each box and move-out",
+      "h3": []
+    },
+    {
+      "h2": "Storage and subscriptions when the doorbell runs on battery",
+      "intent": "ourGain: local storage on battery, Cam Plus",
+      "h3": []
+    },
+    {
+      "h2": "Wi-Fi band and chime in an apartment",
+      "intent": "ourGain: 2.4 GHz vs dual-band, chime",
+      "h3": []
+    },
+    {
+      "h2": "Problems renters run into, and the fix",
+      "intent": "Answer the linked pain points",
+      "h3": [
+        "If your lease bans cameras",
+        "If the doorbell sees your neighbors' doors",
+        "If you worry it will be stolen"
+      ]
+    },
+    {
+      "h2": "Eufy or Wyze: which should you buy?",
+      "intent": "Verdict and next-question links",
+      "h3": []
+    }
+  ],
+  "commonPoints": [
+    "Eufy's E340 has two cameras, one aimed down at packages, and records 2K video",
+    "Eufy stores clips on the device and gives AI detection with no monthly fee",
+    "Wyze costs less up front and puts smart detection behind the Cam Plus plan",
+    "Wyze uses a microSD card slot up to 256 GB for local storage",
+    "All the doorbells run on battery or existing doorbell wiring and work with Alexa and Google Assistant",
+    "Both brands rate their doorbells IP65 for outdoor use"
+  ],
+  "ourGain": [
+    {
+      "point": "Mounting check: the Wyze Duo Cam Doorbell lists 3M adhesive, a corner kit and a plug-in chime in the box, while Eufy's own apartment guide says the E340 may still need screws or drilling",
+      "source": "https://www.wyze.com/products/wyze-duo-cam-doorbell ; https://www.eufy.com/blogs/security-camera/best-doorbell-camera-for-apartments"
+    },
+    {
+      "point": "On battery, the Duo Cam saves only event clips to a microSD card you buy (24/7 needs wiring) and needs Cam Plus for person and package alerts, while the E340 saves to 8 GB built in with free person, package and face detection",
+      "source": "https://support.wyze.com/hc/en-us/articles/31270933879707-Can-I-use-24-7-continuous-recording-with-Wyze-Duo-Cam-Doorbell ; https://www.eufy.com/products/t8214111"
+    },
+    {
+      "point": "Wi-Fi band: Eufy says the E340 works only on 2.4 GHz, while the Duo Cam is dual-band; r/EufyCam owners report trouble joining 2.4 GHz networks",
+      "source": "https://www.eufy.com/products/t8214111 ; https://www.reddit.com/r/EufyCam/comments/1ate2ok/eufy_e340_doorbell_wont_connect_to_network/"
+    },
+    {
+      "point": "Chime without wiring: the Duo Cam includes a plug-in Wi-Fi chime; the E340 needs an existing chime, an Alexa device, a HomeBase or a Eufy add-on chime",
+      "source": "https://www.wyze.com/products/wyze-duo-cam-doorbell ; https://www.eufy.com/products/t8214111"
+    },
+    {
+      "point": "Renter problems answered: lease camera clauses, doorbells that see neighbors' doors and theft in shared hallways",
+      "source": "data/pain-points.json (security-landlord-bans-cameras-doorbells, security-doorbell-records-neighbors, security-doorbell-theft-fear)"
+    }
+  ],
+  "targetWords": 1450,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://hometheaterreview.com/vs/wyze-duo-cam-video-doorbell-vs-eufy-security-e340-2k-dual-camera-video-doorbell-comparison-1/",
+      "https://www.wyze.com/blogs/smart-home/wyze-vs-eufy",
+      "https://www.wyze.com/blogs/smart-home/best-video-doorbell-for-renters",
+      "https://www.eufy.com/blogs/security-camera/best-doorbell-camera-for-apartments"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "The comparisons give each doorbell a feature table row and short bullet lists of strengths and limits, then a choose-this-if verdict; with three products a pros/cons list per model fits.",
+    "avgWords": 1400,
+    "avgProducts": 2.5,
+    "commonSections": [
+      "comparison table",
+      "video and field of view",
+      "storage and subscriptions",
+      "power and installation",
+      "smart home integration",
+      "verdict / how to decide",
+      "FAQ"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": false
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.reddit.com/r/homesecurity/comments/123zc0d/help_me_choose_between_wyze_and_eufy_for_basic/",
+      "title": "Help me choose between Wyze and Eufy for basic doorbell and camera ..."
+    },
+    {
+      "position": 2,
+      "url": "https://www.facebook.com/groups/professionalhosts/posts/9861676390595631/",
+      "title": "What are the best door cameras for short-term rentals? - Facebook"
+    },
+    {
+      "position": 3,
+      "url": "https://www.eufy.com/collections/video-doorbell-for-apartments",
+      "title": "Video Doorbell for Apartments | Door Camera for Apartment - eufy US"
+    },
+    {
+      "position": 4,
+      "url": "https://www.cnet.com/home/security/best-video-doorbell-cameras/",
+      "title": "The Best Video Doorbells of 2026: Reinvent Your Front Door - CNET"
+    },
+    {
+      "position": 5,
+      "url": "https://www.youtube.com/watch?v=r1vyUsejuFQ",
+      "title": "eufy S330 vs Wyze Video Doorbell Pro - YouTube"
+    },
+    {
+      "position": 6,
+      "url": "https://www.eufy.com/blogs/security-camera/best-doorbell-camera-for-apartments",
+      "title": "Pro Guide 101: Best Doorbell Camera for Apartments - eufy US"
+    },
+    {
+      "position": 7,
+      "url": "https://www.consumerreports.org/home-garden/home-security-cameras/best-video-doorbell-cameras-without-a-subscription-a1134473783/",
+      "title": "Best Video Doorbell Cameras Without a Subscription - Consumer Reports"
+    },
+    {
+      "position": 8,
+      "url": "https://forum.aqara.com/t/wyze-cam-v2-vs-eufy-2k-a-comprehensive-review/71629",
+      "title": "Wyze Cam V2 vs. Eufy 2K: A Comprehensive Review - General"
+    },
+    {
+      "position": 9,
+      "url": "https://www.youtube.com/watch?v=0yopHOmzKy4",
+      "title": "The Best Alternative to Ring and Wyze: No Monthly Fee Doorbell Camera"
+    },
+    {
+      "position": 10,
+      "url": "https://www.wyze.com/blogs/smart-home/best-video-doorbell-for-renters",
+      "title": "Best Video Doorbell for Renters - Wyze"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 1,
+    "withNumber": 1,
+    "commonModifiers": [
+      "Best",
+      "vs",
+      "for Apartments",
+      "for Renters",
+      "No Subscription / No Monthly Fee",
+      "Doorbell Camera"
+    ],
+    "gap": "No top result compares the Eufy and Wyze doorbells head to head for renters: which one mounts without drilling, which keeps clips on battery power and which works on a 2.4 GHz apartment router."
+  },
+  "serpProducts": [
+    {
+      "name": "Eufy Video Doorbell E340",
+      "pages": [
+        "https://hometheaterreview.com/vs/wyze-duo-cam-video-doorbell-vs-eufy-security-e340-2k-dual-camera-video-doorbell-comparison-1/",
+        "https://www.wyze.com/blogs/smart-home/wyze-vs-eufy",
+        "https://www.eufy.com/blogs/security-camera/best-doorbell-camera-for-apartments",
+        "https://www.cnet.com/home/security/best-video-doorbell-cameras/"
+      ]
+    },
+    {
+      "name": "Wyze Duo Cam Doorbell",
+      "pages": [
+        "https://hometheaterreview.com/vs/wyze-duo-cam-video-doorbell-vs-eufy-security-e340-2k-dual-camera-video-doorbell-comparison-1/",
+        "https://www.wyze.com/blogs/smart-home/best-video-doorbell-for-renters"
+      ]
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "security-landlord-bans-cameras-doorbells",
+      "pain": "Lease or landlord forbids doorbell cameras or personal cameras and renter fears enforcement",
+      "details": "Renters ask whether a lease clause banning cameras is enforceable and what happens if they install a temporary device anyway.",
+      "sources": [
+        "https://www.reddit.com/r/Apartmentliving/comments/1ebelua/ring_doorbells_not_allowed/",
+        "https://www.reddit.com/r/LandlordLove/comments/1ef2zou/can_landlord_say_we_cant_have_cameras/",
+        "https://www.reddit.com/r/legaladvicecanada/comments/1iy8q6v/is_it_legal_for_my_landlord_to_prohibit_the_use/",
+        "https://www.reddit.com/r/Ring/comments/17ct3sk/apartment_complex_wont_allow_ring_doorbell_after/",
+        "https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/"
+      ],
+      "quotes": [
+        {
+          "text": "If there is any mention of no cameras then your landlord can enforce that however the law allows",
+          "url": "https://www.reddit.com/r/LandlordLove/comments/1ef2zou/can_landlord_say_we_cant_have_cameras/"
+        },
+        {
+          "text": "Make sure it's legal and not excluded in your lease.",
+          "url": "https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/"
+        }
+      ]
+    },
+    {
+      "id": "security-doorbell-records-neighbors",
+      "pain": "Hallway doorbell cameras record neighbors, raising privacy objections",
+      "details": "Management and neighbors object that a door camera in a shared hallway captures other residents' doors.",
+      "sources": [
+        "https://www.reddit.com/r/Apartmentliving/comments/1ebelua/ring_doorbells_not_allowed/",
+        "https://www.reddit.com/r/Ring/comments/14ur9pl/ring_camera_in_apartments/",
+        "https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/"
+      ],
+      "quotes": [
+        {
+          "text": "you're likely to be recording other residents doors",
+          "url": "https://www.reddit.com/r/Apartmentliving/comments/1ebelua/ring_doorbells_not_allowed/"
+        },
+        {
+          "text": "No doorbell cams allowed in apartments here if your door faces another one.",
+          "url": "https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/"
+        }
+      ]
+    },
+    {
+      "id": "security-no-drill-doorbell-mount",
+      "pain": "Renters cannot drill the door or exterior wall to mount a doorbell camera",
+      "details": "Renters need tape, clip-on or door-frame mounts that leave no marks; some buildings forbid drilling on the exterior.",
+      "sources": [
+        "https://www.reddit.com/r/Ring/comments/184g6hd/what_are_your_thoughts_on_putting_up_a_ring/",
+        "https://gatewise.com/blog/ring-doorbell-for-apartments",
+        "https://www.youtube.com/watch?v=FH6RPHb8ykk"
+      ],
+      "quotes": [
+        {
+          "text": "No drilling required which is needed at my apartment because they don't allow drilling to the exterior.",
+          "url": "https://www.reddit.com/r/Ring/comments/184g6hd/what_are_your_thoughts_on_putting_up_a_ring/"
+        }
+      ]
+    },
+    {
+      "id": "security-doorbell-theft-fear",
+      "pain": "Renters fear a doorbell camera on a shared hallway or exterior will be stolen",
+      "details": "Apartment dwellers ask how to protect a battery doorbell and whether insurance covers a stolen device.",
+      "sources": [
+        "https://www.facebook.com/groups/ringdoorbellusersgroup/posts/1159754994376236/",
+        "https://www.amazon.com/No-Drill-Doorbell-Anti-Theft-Compatible-Apartment/dp/B0GYNWLQTB",
+        "https://www.youtube.com/watch?v=j-hGw6AWFOI"
+      ],
+      "quotes": [
+        {
+          "text": "Want to get one for my apartment but afraid it will be stolen.",
+          "url": "https://www.facebook.com/groups/ringdoorbellusersgroup/posts/1159754994376236/"
+        }
+      ]
+    },
+    {
+      "id": "security-cloud-subscription-fees",
+      "pain": "Cameras need a monthly subscription to be useful; renters want no-fee options",
+      "details": "Buyers resent fees for cloud video and look for SD-card or local storage cameras such as Wyze, Eufy or Reolink.",
+      "sources": [
+        "https://www.reddit.com/r/BuyItForLife/comments/1n94pqy/why_did_we_accept_that_security_cameras_need/",
+        "https://www.reddit.com/r/homeowners/comments/1ot0xm0/home_security_cameras_without_monthly_payment/",
+        "https://www.reddit.com/r/homeautomation/comments/1nrmayb/what_are_my_options_for_a_good_security_camera/",
+        "https://www.cnet.com/home/security/best-home-security-cameras-without-subscriptions/"
+      ],
+      "quotes": [
+        {
+          "text": "Subscription not required to record to SD card and view via your cell phone.",
+          "url": "https://www.reddit.com/r/homeowners/comments/1ot0xm0/home_security_cameras_without_monthly_payment/"
+        },
+        {
+          "text": "Reolink is a good call for no subscription.",
+          "url": "https://www.reddit.com/r/homeautomation/comments/1nrmayb/what_are_my_options_for_a_good_security_camera/"
+        }
+      ]
+    }
+  ],
+  "internalLinks": [
+    "best-video-doorbell-without-subscription-for-renters",
+    "ring-doorbell-in-apartment",
+    "wyze-vs-ring-vs-eufy-for-renters",
+    "door-camera-for-apartment",
+    "ring-vs-nest-doorbell"
+  ]
+}

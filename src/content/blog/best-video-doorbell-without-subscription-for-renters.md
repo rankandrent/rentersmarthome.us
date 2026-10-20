@@ -295,10 +295,10 @@ heroAlt: >-
   Best Video Doorbell Without Subscription for Renters (Top 3, No Drill) –
   RenterSmartHome buying guide
 related:
+  - eufy-vs-wyze-video-doorbell-for-renters
   - best-water-leak-sensor-for-renters
   - best-wireless-security-cameras-for-apartments
   - best-heavy-duty-adhesive-hooks-for-renters
-  - best-pressure-mounted-baby-gate-for-renters
 ---
 
 The best video doorbell without subscription for renters does two jobs: it saves clips locally so you never pay a monthly fee, and it runs on a battery so you never touch the building's wiring. **Our top pick is the eufy Video Doorbell E340, with the eufy Security Video Doorbell C31 as the single-camera pick with a removable battery and the Tapo D210 as the budget choice.** All three record to local storage instead of a paid cloud plan.
