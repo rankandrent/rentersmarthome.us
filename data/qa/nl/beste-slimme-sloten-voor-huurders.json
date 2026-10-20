@@ -3,10 +3,9 @@
   "lang": "nl",
   "translationOf": "best-smart-lock-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-20T20:18:48.625Z",
+  "checkedAt": "2026-10-20T23:29:12.065Z",
   "errors": [],
   "warnings": [
-    "source didn't respond normally (503): https://www.switch-bot.com/",
     "source didn't respond normally (403): https://www.reddit.com/r/juridischadvies/comments/12qlylr/onveilig_in_appartement_mag_ik_sloten_vervangen/"
   ],
   "factCheck": {

@@ -113,6 +113,28 @@ products:
         - title: 'r/AirPurifiers: Is it time to replace my Vital 200S-P filter?'
           url: >-
             https://www.reddit.com/r/AirPurifiers/comments/1rs7fhm/levoit_vital_200sp_is_it_time_to_replace_my/
+    asin: B0BGPF71Q6
+    image:
+      url: 'https://m.media-amazon.com/images/I/510mgrRPPIL._SL500_.jpg'
+      width: 430
+      height: 500
+    amazonTitle: >-
+      LEVOIT Smart Air Purifier for Home Large Room up to 1875 Ft² Vital 200S-P
+      | For Quiet Bedroom at 27dB, AHAM VERIFIDE, Air Quality Monitor, HEPA
+      Sleep Mode for Allergies, Pet Hair and dander, White
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51njwf+-o-L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51t8f9kYTfL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/515cTRFsX2L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51KCslKiIeL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Coway Airmega Mighty2
     brand: Coway
     query: Coway Airmega Mighty2 AP-1512N Air Purifier
@@ -169,6 +191,28 @@ products:
             https://www.reddit.com/r/AirPurifiers/comments/1v9bvjv/warning_for_coway_airmega_mighty2/
         - title: HouseFresh Coway Airmega Mighty2 review
           url: 'https://housefresh.com/coway-airmega-mighty2-ap-1512n-review/'
+    asin: B0GS7FF1D6
+    image:
+      url: 'https://m.media-amazon.com/images/I/31z9aHBkBBL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      COWAY Airmega Mighty2 Air Purifier, Next Gen of AP-1512HH, for Large Room
+      & Home Cleans up to 1,800 ft², IEST certified HEPA and Active Carbon for
+      Allergies, Smoke, Dust, Pets & Mold, AP-1512N(W)
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51E-osbnU1L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41KcyF0RabL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/516X3GKmS9L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51ArfVaw67L._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Winix 5530
     brand: Winix
     query: Winix 5530 Air Purifier
@@ -229,6 +273,28 @@ products:
         - title: 'r/AirPurifiers: Winix 5510 started making a whirring noise'
           url: >-
             https://www.reddit.com/r/AirPurifiers/comments/1qrbksp/winix_5510_started_making_this_whirring_noise/
+    asin: B0GVLNG9DZ
+    image:
+      url: 'https://m.media-amazon.com/images/I/416qY3AD4YL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      WINIX 5530 Air Purifier (New Generation of 5500-2 with App Control) for
+      Home Large Room Up to 1882 Ft² in 1 Hr, True HEPA, High Deodorization
+      Carbon Filter and Auto Mode, Captures Pet Allergies, Smoke
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41GLjSRa1cL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51vATLWnmHL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41CSLEY4WwL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41r8uHVMqyL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Blueair Blue Signature Large
     brand: Blueair
     query: BLUEAIR Blue Signature Large Air Purifier SP4i
@@ -283,6 +349,28 @@ products:
         - title: RTINGS Blueair Blue Signature Large owner comments
           url: >-
             https://www.rtings.com/air-purifier/reviews/blueair/blue-signature-large
+    asin: B08KTH125D
+    image:
+      url: 'https://m.media-amazon.com/images/I/41wLJ1HqjFL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      BLUEAIR Air Purifiers for Home Large Room up to 3,385 Ft², Signature SP4i
+      | OdorFence Removes Odors, WiFi, Auto Detects Particles, Swedish
+      Engineered Quiet 23db & Powerful HEPASilent Filtration
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/5177jo1eAFL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41iaHxTCGfL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41Jtgkqsw1L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41WN8syIA2L._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: 'AHAM Verifide: Find a certified room air cleaner (2/3 rule)'
     url: 'https://ahamverifide.org/directory-of-air-cleaners/'

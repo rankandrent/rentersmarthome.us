@@ -131,6 +131,28 @@ products:
         - title: Eufy e340 doorbell hardwired but battery still drained (r/EufyCam)
           url: >-
             https://www.reddit.com/r/EufyCam/comments/1ix18yl/eufy_e340_doorbell_hardwired_but_battery_still/
+    asin: B0CD7NT4Y9
+    image:
+      url: 'https://m.media-amazon.com/images/I/41bwjHx5PUL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      eufy Security Video Doorbell E340, Dual Cameras, 2K FHD, 8GB Local Storage
+      | No Subscription,Head-to-Toe View,Wireless or Wired,Color Night
+      Vision,Two-way talk,AI motion/Package Detection, 2.4 GHz Wi-Fi
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41kKAqJnvJL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41e591NHWIL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41tstr05QzL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41v5jdJzg+L._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Wyze Duo Cam Doorbell
     brand: Wyze
     query: Wyze Duo Cam Doorbell
@@ -211,6 +233,28 @@ products:
           url: >-
             https://www.bestbuy.com/product/video-doorbell-camera-wyze-duo-cam-doorbell-dual-2k-camera-battery-or-wired-smart-doorbell-with-2-way-audio-chime-black/J3GWC6TY99
           reviews: 20
+    asin: B0DCJB43TH
+    image:
+      url: 'https://m.media-amazon.com/images/I/414DvVkSBKL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      WYZE Wireless Duo Cam Doorbell Camera Video Doorbell w Wi-Fi Chime, 2K HD
+      | Battery Powered Smart Doorbell Camera With Dual Cameras For People &
+      Package. Features 2-Way Audio And Color Night Vision
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/415XHimq0SL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41RCzP45X0L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/5182n9sGcYL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51-2LEj4obL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: eufy Video Doorbell E340 product page and FAQ (Eufy)
     url: 'https://www.eufy.com/products/t8214111'

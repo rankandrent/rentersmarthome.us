@@ -1,11 +1,10 @@
 {
   "slug": "eufy-vs-wyze-video-doorbell-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-20T20:19:51.826Z",
+  "checkedAt": "2026-10-20T23:22:57.460Z",
   "errors": [],
   "warnings": [
-    "product \"Eufy Video Doorbell E340\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Wyze Duo Cam Doorbell\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "source didn't respond normally (403): https://support.wyze.com/hc/en-us/articles/31270933879707-Can-I-use-24-7-continuous-recording-with-Wyze-Duo-Cam-Doorbell"
   ],
   "factCheck": {
     "verified": true,

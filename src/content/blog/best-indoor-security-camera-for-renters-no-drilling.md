@@ -110,6 +110,16 @@ products:
         - title: 'r/Ring: Renter friendly advice for security cameras needed'
           url: >-
             https://www.reddit.com/r/Ring/comments/18mzgdi/renter_friendly_advice_for_security_cameras/
+    asin: B0FVXKWYX9
+    image:
+      url: 'https://m.media-amazon.com/images/I/31gfyJtjhLL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Surveillance Housing Compatible with Ring Indoor Cam (2nd Gen) | Window
+      Mount Light Blocker | Reduce Glare for Enhanced Night Vision | Anti-Peep
+      Privacy Cover | Easy to Install & Remove (Black)
+    gallery: []
   - name: 'Google Nest Cam Indoor (Wired, 3rd Gen)'
     brand: Google
     query: Google Nest Cam Indoor Wired 3rd Gen
@@ -174,6 +184,28 @@ products:
         - title: 'r/smarthome: Are nest cameras a good buy?'
           url: >-
             https://www.reddit.com/r/smarthome/comments/18xjfi5/are_nest_cameras_a_good_buy/
+    asin: B0FN7DLWGF
+    image:
+      url: 'https://m.media-amazon.com/images/I/21WKXm7Is6L._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Google Nest Cam Indoor (Wired, 3rd Gen) - Security Camera - 2025 - Snow |
+      2K video, motion detection, color night vision, 2-way audio, works with
+      Google Home and Gemini, intelligent alerts
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/21pz+uSbTWL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51cX0cshVJL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51lRcquR2DL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41kK-nxvP1L._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Abode Cam 2
     brand: Abode
     query: abode Cam 2 indoor outdoor security camera
@@ -292,6 +324,25 @@ products:
         - title: 'r/simplisafe: Smart Alarm Wireless Indoor Security Camera worth it?'
           url: >-
             https://www.reddit.com/r/simplisafe/comments/1isjylc/smart_alarm_wireless_indoor_security_camera_worth/
+    asin: B0C5NY1PB2
+    image:
+      url: 'https://m.media-amazon.com/images/I/110h6qmeaAL._SL500_.jpg'
+      width: 500
+      height: 375
+    amazonTitle: SimpliSafe Smart Alarm Wireless Indoor Security Camera
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/1142iSnvA-L._SL500_.jpg'
+        width: 500
+        height: 281
+      - url: 'https://m.media-amazon.com/images/I/41ahXShWPlL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51LOeloEB-L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51qveTDVvWL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: Ring Indoor Cam (2nd Gen) product page
     url: 'https://ring.com/products/mini-indoor-security-camera-plug-in'

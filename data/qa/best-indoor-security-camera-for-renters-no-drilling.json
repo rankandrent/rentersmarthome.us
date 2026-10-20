@@ -1,13 +1,12 @@
 {
   "slug": "best-indoor-security-camera-for-renters-no-drilling",
   "pass": true,
-  "checkedAt": "2026-10-20T20:17:28.565Z",
+  "checkedAt": "2026-10-20T23:21:32.944Z",
   "errors": [],
   "warnings": [
-    "product \"Ring Indoor Cam (2nd Gen)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Google Nest Cam Indoor (Wired, 3rd Gen)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Abode Cam 2\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"SimpliSafe Smart Alarm Wireless Indoor Security Camera\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "product \"Abode Cam 2\" has no Amazon listing: the refresh could not match it, so it would show no photo and a search link. Set its asin by hand (asinVerified: true) or drop the product",
+    "source didn't respond normally (no response): https://realestate.usnews.com/home-services/home-security-systems/best-home-security-systems-for-renters"
   ],
   "factCheck": {
     "verified": true,

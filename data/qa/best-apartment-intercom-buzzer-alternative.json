@@ -1,11 +1,9 @@
 {
   "slug": "best-apartment-intercom-buzzer-alternative",
   "pass": true,
-  "checkedAt": "2026-10-20T20:09:39.260Z",
+  "checkedAt": "2026-10-20T23:20:53.114Z",
   "errors": [],
-  "warnings": [
-    "product \"SwitchBot Bot\" has no Amazon photo yet (the Amazon refresh adds it after push)"
-  ],
+  "warnings": [],
   "factCheck": {
     "verified": true,
     "notes": "Verified 2026-10-20 via Firecrawl. SwitchBot Bot: 3M adhesive tool-free mount, works with most rocker switches and one-way buttons, Bluetooth app control, Hub needed for remote/voice (Alexa, Google Assistant, Siri) on 2.4 GHz Wi-Fi, HomeKit via Matter with Hub 2, CR2 battery - us.switch-bot.com product page + LinkdHOME review (pull tab, add to home before cloud, press/switch modes, sits beside button, recessed-button struggle fixed with silicone pad, occasional app timeouts). Intercom compatibility 'nearly all old apartment intercoms as long as you push the button' and Nuki/Ring 'troublesome to install yourself... might not get permitted by your landlord' - blog.switch-bot.com. Dial-out flow (press 9 or designated key), call forwarding, save number, DND exceptions, delivery instructions, aging-system faults, Ring Intercom installs on panel / answers in Ring app, Nuki Opener attaches to handset - Knockli. Talk/Listen/Door station buttons and monthly fees for wireless/cloud intercoms - IntercomsOnline. ButterflyMX system types - ButterflyMX summary. Aaron Yeager page: SwitchBot next to buzzer, nello discontinued and rewiring quote, 'lets in anyone who buzzes'. Reddit quotes (ybm7hq, astoria) checked verbatim in Firecrawl search excerpts at the same thread URLs; r/HomeKit 1cpie4r (Bot + Hub 2 + HomeKit) and r/TrySwitchBot 110s72x (reset reply) from excerpts. Amazon US search: 'Ring Intercom' returns only Ring Intercom Kit for Video Doorbell; no Nuki Opener listing; SwitchBot Bot has a clear listing. No prices, ratings or testing claims; landlord text framed as general information, not legal advice.",

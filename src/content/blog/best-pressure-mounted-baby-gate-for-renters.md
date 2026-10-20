@@ -55,22 +55,10 @@ products:
       - Not for the top of stairs
     asin: B001OC5UMQ
     image:
-      url: 'https://m.media-amazon.com/images/I/41IaGgwTpvL._SL500_.jpg'
+      url: 'https://m.media-amazon.com/images/I/41wn1nlbDfL._SL500_.jpg'
       width: 500
       height: 500
-    gallery:
-      - url: 'https://m.media-amazon.com/images/I/511sKXqAGSL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/31mhfupeo4L._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/411hgueAEVL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/41wMeId97pL._SL500_.jpg'
-        width: 500
-        height: 500
+    gallery: []
     amazonTitle: >-
       Regalo Safety 29"-38.5" Easy Step Baby Gate, Bottom of Stairs & Doorways |
       Pressure Mounted with Door, For Babies, Toddlers & Pets, White, Tested &

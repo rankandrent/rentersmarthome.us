@@ -1,9 +1,10 @@
 ---
-title: 'Traphekje zonder boren – de beste klemhekjes voor huurders'
-seoTitle: 'Traphekje zonder boren (2026) – 3 klemhekjes voor huurders'
+title: Traphekje zonder boren – de beste klemhekjes voor huurders
+seoTitle: Traphekje zonder boren (2026) – 3 klemhekjes voor huurders
 description: >-
   Het beste traphekje zonder boren sluit deuropeningen en de onderkant van de
-  trap in je huurwoning af met klemkracht. Onze keuzes, veiligheidsregels en tips.
+  trap in je huurwoning af met klemkracht. Onze keuzes, veiligheidsregels en
+  tips.
 pubDate: '2026-10-17T19:00:00.000Z'
 lang: nl
 translationOf: best-pressure-mounted-baby-gate-for-renters
@@ -36,8 +37,8 @@ tldr:
     De Regalo Easy Step Walk Thru Gate is onze eerste keuze voor standaard
     deuropeningen en de onderkant van de trap.
   - >-
-    Gebruik een klemhekje nooit boven aan de trap; daar hoort een
-    vastgeschroefd hekje, dus vraag het je verhuurder.
+    Gebruik een klemhekje nooit boven aan de trap; daar hoort een vastgeschroefd
+    hekje, dus vraag het je verhuurder.
   - >-
     Gebruik wandkapjes (wall cups) of beschermende pads, zodat het hekje geen
     sporen op de verf achterlaat.
@@ -59,22 +60,10 @@ products:
       - Niet voor boven aan de trap
     asin: B001OC5UMQ
     image:
-      url: 'https://m.media-amazon.com/images/I/41IaGgwTpvL._SL500_.jpg'
+      url: 'https://m.media-amazon.com/images/I/41wn1nlbDfL._SL500_.jpg'
       width: 500
       height: 500
-    gallery:
-      - url: 'https://m.media-amazon.com/images/I/511sKXqAGSL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/31mhfupeo4L._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/411hgueAEVL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/41wMeId97pL._SL500_.jpg'
-        width: 500
-        height: 500
+    gallery: []
     amazonTitle: >-
       Regalo Safety 29"-38.5" Easy Step Baby Gate, Bottom of Stairs & Doorways |
       Pressure Mounted with Door, For Babies, Toddlers & Pets, White, Tested &
@@ -84,7 +73,9 @@ products:
       reversibility: 9
       value: 9
       portability: 8
-    scoreNote: Klemmontage met wandkapjes voor deuropeningen; nooit voor boven aan de trap.
+    scoreNote: >-
+      Klemmontage met wandkapjes voor deuropeningen; nooit voor boven aan de
+      trap.
     owners:
       read: 8
       praise:
@@ -114,7 +105,9 @@ products:
     summary: >-
       Een hoger hekje met deurtje voor klimmers en huisdieren, dat je vastklemt
       in deuropeningen en gangen.
-    renterNote: Klemmontage voor deuropeningen; controleer het breedtebereik voordat je koopt.
+    renterNote: >-
+      Klemmontage voor deuropeningen; controleer het breedtebereik voordat je
+      koopt.
     pros:
       - Extra hoog voor klimmers en huisdieren
       - Doorloopdeurtje
@@ -127,7 +120,9 @@ products:
       reversibility: 9
       value: 8
       portability: 8
-    scoreNote: Extra hoog klemhekje voor deuropeningen en gangen; controleer het breedtebereik.
+    scoreNote: >-
+      Extra hoog klemhekje voor deuropeningen en gangen; controleer het
+      breedtebereik.
     owners:
       read: 3
       praise:
@@ -208,14 +203,18 @@ products:
       reversibility: 8
       value: 8
       portability: 8
-    scoreNote: Zelfsluitend hekje met doorloopdeurtje; montagemogelijkheden verschillen per set.
+    scoreNote: >-
+      Zelfsluitend hekje met doorloopdeurtje; montagemogelijkheden verschillen
+      per set.
     owners:
       read: 3
       praise:
         - Stevig deurtje dat twee kanten op zwaait
         - Bediening met één hand
       complaints:
-        - Het zelfsluitende deurtje valt zonder bijstellen niet altijd in het slot en kan luid zijn
+        - >-
+          Het zelfsluitende deurtje valt zonder bijstellen niet altijd in het
+          slot en kan luid zijn
         - >-
           Verwarrende instructies, problemen met de pasvorm van verlengstukken,
           en de klemmontage kan losraken bij intensief gebruik door huisdieren

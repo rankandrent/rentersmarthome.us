@@ -120,6 +120,28 @@ products:
         - title: switchbot bot doesnt work (anymore) (r/TrySwitchBot)
           url: >-
             https://www.reddit.com/r/TrySwitchBot/comments/110s72x/switchbot_bot_doesnt_work_anymore/
+    asin: B07B7NXV4R
+    image:
+      url: 'https://m.media-amazon.com/images/I/316eAadOw2L._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Switchbot Smart Switch Button Pusher (Bluetooth) – Fingerbot for Rocker
+      Switch/One-Way Buttons, App Timer Control, No Wiring, Optional Hub
+      Required for Voice/Remote, White
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41SRs62EvpL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41hromcG4eS._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41YrgPWINhL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/418Q60OqbjL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: SwitchBot Bot product page (SwitchBot)
     url: 'https://us.switch-bot.com/products/switchbot-bot'

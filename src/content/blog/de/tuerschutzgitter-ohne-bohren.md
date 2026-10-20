@@ -1,9 +1,9 @@
 ---
-title: 'Türschutzgitter ohne Bohren – die besten Klemmgitter für Mieter'
-seoTitle: 'Türschutzgitter ohne Bohren 2026 – 3 Klemmgitter für Mieter'
+title: Türschutzgitter ohne Bohren – die besten Klemmgitter für Mieter
+seoTitle: Türschutzgitter ohne Bohren 2026 – 3 Klemmgitter für Mieter
 description: >-
-  Das beste Türschutzgitter ohne Bohren sichert Türen und den Treppenfuß in
-  der Mietwohnung per Klemmung. Unsere Empfehlungen, Sicherheitsregeln und Tipps.
+  Das beste Türschutzgitter ohne Bohren sichert Türen und den Treppenfuß in der
+  Mietwohnung per Klemmung. Unsere Empfehlungen, Sicherheitsregeln und Tipps.
 pubDate: '2026-10-17T19:00:00.000Z'
 lang: de
 translationOf: best-pressure-mounted-baby-gate-for-renters
@@ -59,22 +59,10 @@ products:
       - Nicht für das obere Treppenende
     asin: B001OC5UMQ
     image:
-      url: 'https://m.media-amazon.com/images/I/41IaGgwTpvL._SL500_.jpg'
+      url: 'https://m.media-amazon.com/images/I/41wn1nlbDfL._SL500_.jpg'
       width: 500
       height: 500
-    gallery:
-      - url: 'https://m.media-amazon.com/images/I/511sKXqAGSL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/31mhfupeo4L._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/411hgueAEVL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/41wMeId97pL._SL500_.jpg'
-        width: 500
-        height: 500
+    gallery: []
     amazonTitle: >-
       Regalo Safety 29"-38.5" Easy Step Baby Gate, Bottom of Stairs & Doorways |
       Pressure Mounted with Door, For Babies, Toddlers & Pets, White, Tested &
@@ -84,7 +72,9 @@ products:
       reversibility: 9
       value: 9
       portability: 8
-    scoreNote: Klemmmontage mit Wandschalen für Türöffnungen; niemals für das obere Treppenende.
+    scoreNote: >-
+      Klemmmontage mit Wandschalen für Türöffnungen; niemals für das obere
+      Treppenende.
     owners:
       read: 8
       praise:
@@ -127,14 +117,18 @@ products:
       reversibility: 9
       value: 8
       portability: 8
-    scoreNote: Extrahohes Klemmgitter für Türöffnungen und Flure; prüfe den Breitenbereich.
+    scoreNote: >-
+      Extrahohes Klemmgitter für Türöffnungen und Flure; prüfe den
+      Breitenbereich.
     owners:
       read: 3
       praise:
         - Stabil und gut verarbeitet
         - Lässt sich leicht mit einer Hand öffnen
       complaints:
-        - In den 3 Beiträgen von Besitzern, die wir gelesen haben, gab es keine wiederkehrende Kritik
+        - >-
+          In den 3 Beiträgen von Besitzern, die wir gelesen haben, gab es keine
+          wiederkehrende Kritik
       sources:
         - title: 'Multi-Use Extra Tall Walk-Thru Gate reviews, Kids2'
           url: >-
@@ -208,14 +202,18 @@ products:
       reversibility: 8
       value: 8
       portability: 8
-    scoreNote: Selbstschließendes Gitter mit Durchgangstür; die Montageoptionen hängen vom Set ab.
+    scoreNote: >-
+      Selbstschließendes Gitter mit Durchgangstür; die Montageoptionen hängen
+      vom Set ab.
     owners:
       read: 3
       praise:
-        - Stabile Tür, die in beide Richtungen schwingt
+        - 'Stabile Tür, die in beide Richtungen schwingt'
         - Bedienung mit einer Hand
       complaints:
-        - Die Selbstschließung rastet ohne Nachjustieren nicht immer ein und kann laut sein
+        - >-
+          Die Selbstschließung rastet ohne Nachjustieren nicht immer ein und
+          kann laut sein
         - >-
           Verwirrende Anleitung, Probleme mit der Passform der Verlängerungen,
           und die Klemmung kann sich bei starker Beanspruchung durch Haustiere
@@ -234,9 +232,8 @@ reviewedDate: '2026-10-14T00:00:00.000Z'
 faqs:
   - q: Sind Türschutzgitter zum Klemmen sicher?
     a: >-
-      Ja, in Türöffnungen, Fluren und am Fuß der Treppe, wenn sie laut
-      Anleitung fest eingespannt sind. Am oberen Ende der Treppe sind sie nicht
-      sicher.
+      Ja, in Türöffnungen, Fluren und am Fuß der Treppe, wenn sie laut Anleitung
+      fest eingespannt sind. Am oberen Ende der Treppe sind sie nicht sicher.
   - q: Darf ich ein Klemmgitter oben an der Treppe anbringen?
     a: >-
       Nein. Drückt ein Kind gegen ein Klemmgitter, kann es sich lösen. Oben an

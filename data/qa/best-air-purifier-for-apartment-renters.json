@@ -1,14 +1,9 @@
 {
   "slug": "best-air-purifier-for-apartment-renters",
   "pass": true,
-  "checkedAt": "2026-10-20T20:14:02.057Z",
+  "checkedAt": "2026-10-20T23:20:50.436Z",
   "errors": [],
-  "warnings": [
-    "product \"Levoit Vital 200S-P\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Coway Airmega Mighty2\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Winix 5530\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Blueair Blue Signature Large\" has no Amazon photo yet (the Amazon refresh adds it after push)"
-  ],
+  "warnings": [],
   "factCheck": {
     "verified": true,
     "notes": "Verified 2026-10-20 against sources opened with Firecrawl. Product selection: 4 models recommended by 2+ independent top-10 pages (Air Purifier First rentals guide, HouseFresh best air purifiers, RTINGS best air purifiers; Reddit r/BuyItForLife thread for the Winix 55xx line); planned productCount 6 lowered to 4 because no other model qualified. Amazon US listings seen: Levoit Vital 200S-P (B0BGPF71Q6, Amazon best-seller list), Coway Airmega Mighty2 AP-1512N (B0GS7FF1D6), Winix 5530 (B0GVLNG9DZ via RTINGS), Blueair Signature SP4i large (B08KTH125D); asin left out. Levoit: CADR 250 CFM, 388 sq ft at 4.8 ACH vs 1862 at 1 ACH, 23-54 dB, washable pre-filter, 0.3-micron main filter, activated carbon, U-shaped inlet, VeSync with Alexa/Google, 2-yr warranty (levoit.com); 13.2 lb, 15.6x8.5x19.8 in, 12-month filter, sub-45 dBA 128 cfm, bonded filter (HouseFresh review); no ozone (Air Purifier First). Coway Mighty2: CADR 240/242/249, 1800 sq ft at 1 ACH, 19-50 dB, filter up to 1 yr, 16.9x17.9x9.3 in, 15.2 lb, laser PM1/2.5/10 sensor, slide-out pre-filter, carbon+HEPA (cowaymega.com); no app, no ionizer, quieter than Levoit/Winix, sleep in darkness, carbon full 6-9 months, 151 cfm at speed 2 42.6 dBA, first unit rattled (HouseFresh); owner rattle (Reddit). Winix 5530: 12.1 lb, 13.4x8.2x21.9 in, 32.4-60.7 dBA, 258 CFM/404 sq ft, 122 CFM/190 sq ft at speed 2, filters every 12 months, ionizer switchable, display dims only (RTINGS review); AHAM 253/252/247 and 392 sq ft (Breathe Quality); same filtration as 5510 (Winix apartments page). Blueair Signature Large: 429 CFM/670 sq ft, 213 CFM/332 sq ft, 31.2-58.2 dBA, 12.1 lb, 14.4x14.4x17 in, filter ~1 yr, ionizer always on, ozone certified safe, night mode (RTINGS review); 705 sq ft in 12.5 min (Amazon listing); ionizer can't be disabled (HouseFresh). Sizing: AHAM 2/3 rule and higher-ceiling advice (ahamverifide.org). CR buying guide: carbon every 3 months, mechanical 6-12 months, AHAM seal room size trustworthy, ~50 dB fridge hum, high when away/low when home, bedroom placement, clearance from curtains, ionizers/ozone not recommended. Owner praise/complaints from Levoit and Coway review pages and Reddit threads listed in owners.sources; pain-point quotes copied verbatim from Firecrawl search excerpts of the linked Reddit threads. Removed an ambiguous 'Levoit 200S underwhelming' owner claim (model unclear) and PlasmaWave naming for the 5530.",
