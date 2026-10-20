@@ -3,9 +3,11 @@
   "lang": "es",
   "translationOf": "best-smart-light-bulbs-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-17T19:36:37.183Z",
+  "checkedAt": "2026-10-20T13:33:59.865Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "not localized yet: run localizer-agent for best-smart-light-bulbs-for-renters (data/briefs/es/best-smart-light-bulbs-for-renters.local.json), then rewrite with translator-agent"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Compared every claim with the English post best-smart-light-bulbs-for-renters (QA pass, factcheck verified; no dead sources reported). Same 5 products, order, ASINs, scores, owners.read and sources; all facts, numbers (1100/800 lm, 9 W, 60 W equivalent, CRI 80, 10-device Bluetooth limit, 2.4 GHz, 19 owner posts, 2021-2022 forum dates) match the English text. Only addition, on owner instruction: one US-specific note that E26 is the US base while Europe uses E27, with a check that the bulb fits the socket and 230 V. Australian E27 owner-page remark kept from English. No prices, no local Amazon store claims, negated no-test sentence translated from English.",

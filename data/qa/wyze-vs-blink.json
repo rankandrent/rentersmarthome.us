@@ -1,9 +1,10 @@
 {
   "slug": "wyze-vs-blink",
   "pass": true,
-  "checkedAt": "2026-10-19T13:43:11.219Z",
+  "checkedAt": "2026-10-20T13:29:41.705Z",
   "errors": [],
   "warnings": [
+    "body has 3514 words, over the 1725 limit (top results average 1500): cut repetition and filler",
     "source didn't respond normally (403): https://support.wyze.com/hc/en-us/articles/23746258989851-Wyze-Cam-v4-Tech-Specs"
   ],
   "factCheck": {

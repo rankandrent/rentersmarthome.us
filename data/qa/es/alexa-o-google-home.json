@@ -3,9 +3,10 @@
   "lang": "es",
   "translationOf": "alexa-vs-google-home",
   "pass": true,
-  "checkedAt": "2026-10-19T13:46:00.991Z",
+  "checkedAt": "2026-10-20T13:32:45.023Z",
   "errors": [],
   "warnings": [
+    "not localized yet: run localizer-agent for alexa-vs-google-home (data/briefs/es/alexa-vs-google-home.local.json), then rewrite with translator-agent",
     "source didn't respond normally (403): https://www.the-ambient.com/versus/alexa-plus-vs-gemini/"
   ],
   "factCheck": {

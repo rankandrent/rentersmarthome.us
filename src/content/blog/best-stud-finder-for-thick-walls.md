@@ -233,7 +233,10 @@ products:
       Hand tool with nothing to install; DeepScan depth and wire warning at a
       lower price tier.
     asin: B0GZWS1324
-    amazonTitle: Zircon® StudSensor™ Pro55 Stud Finder with Deep Scan & Live Wire Detection
+    amazonTitle: >-
+      Zircon® StudSensor™ Pro55 Stud Finder with Deep Scan & Live Wire Detection
+      | Locates wood and metal stud edges up to 1 1/2 in. deep with one-touch
+      calibration and visual target guidance
     matchName: Zircon StudSensor Pro55
     owners:
       read: 6

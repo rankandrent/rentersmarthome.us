@@ -3,9 +3,13 @@
   "lang": "de",
   "translationOf": "locked-out-of-apartment",
   "pass": true,
-  "checkedAt": "2026-10-20T04:37:33.505Z",
+  "checkedAt": "2026-10-20T13:30:17.400Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "source didn't respond normally (403): https://www.reddit.com/r/Vermieten/comments/1thwg39/muss_mein_vermieter_den_schl%C3%BCsseldienst_zahlen/",
+    "source didn't respond normally (403): https://www.reddit.com/r/LegaladviceGerman/comments/1drbmtt/muss_der_vermieter_trotz_kleinreparaturklausel/",
+    "source didn't respond normally (403): https://www.reddit.com/r/LegaladviceGerman/comments/1exkrar/schl%C3%BCsselverlust_in_mietwohnung_der_vermieter/"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Re-opened 2026-10-20: Verbraucherzentrale (local advice, fast 800 Euro case not quoted as currency, BGH Jan 2020 Az. 1 StR 113/19 wording 'betreiben Wucher', 110), AK OOe (konsumentenfragen.at), Haufe/Haus&Grund (who pays; removed unsupported 'Schluessel drinnen vergessen'), mietrecht.de (sofort melden; dropped Haufe as co-source for that), Mieterverein Hamburg (Verschulden, Missbrauchsgefahr, Austausch tatsaechlich), SwitchBot EU (ideal for European homes, euro cylinder key/knob videos, compatibility check, 4 AA 6-9 months, Keypad/Hub separate), Master Lock EU 5400EURD (90 mm, 4 digits, vinyl shackle) and 5420EURD (4 digits, cover; shackle range only on US 5420D page 19-44 mm, now attributed; knob types/key capacity attributed to Amazon). Reddit quotes (Vermieten with [...] for the amount, LegaladviceGerman x2) confirmed via search excerpts at same thread URLs; three translated English quotes labelled as translated. Compared with English post section by section; August and Yale gone, EU versions named, no prices/currencies, liability as general information citing sources, every dropOrChange applied.",

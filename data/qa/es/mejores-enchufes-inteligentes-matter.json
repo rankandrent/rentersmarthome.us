@@ -3,9 +3,11 @@
   "lang": "es",
   "translationOf": "best-matter-smart-plugs",
   "pass": true,
-  "checkedAt": "2026-10-19T14:49:14.969Z",
+  "checkedAt": "2026-10-20T13:34:16.922Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "not localized yet: run localizer-agent for best-matter-smart-plugs (data/briefs/es/best-matter-smart-plugs.local.json), then rewrite with translator-agent"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Compared against en/best-matter-smart-plugs: same 4 products/ASINs (B0BYGRLRS1, B0BXMNJDW3, B0C1CL2MV3, B0GWD5RPRF), scores, owner sources and maker sources (English URLs). Claims (Matter ecosystems, Wi-Fi vs Thread, border router, energy monitoring only Kasa/Eve, 2.4 GHz, safety rules, setup steps) match the English post. Removed untested/local-store paragraph and unsupported notes claim; kept US-plug (Type A/B, 120 V) vs 230 V safety note. Internal links point to localized sister posts. No prices.",

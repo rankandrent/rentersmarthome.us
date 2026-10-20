@@ -1,9 +1,11 @@
 {
   "slug": "locked-out-of-apartment",
   "pass": true,
-  "checkedAt": "2026-10-19T13:42:47.341Z",
+  "checkedAt": "2026-10-20T13:29:17.548Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "body has 3251 words, over the 1150 limit (top results average 1000): cut repetition and filler"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Re-opened August, SwitchBot, Yale (shopyalehome), Master Lock 5400D/5420D maker pages, Techlicious and iveise pages; confirmed batteries, Wi-Fi bands, keypad separate, shackle range, IPX5, 4-digit combos. Verified 6 Reddit quotes via exact-phrase site:reddit.com search (ApartmentMaintenance, legaladvice x2, jerseycity, homeautomation) plus iveise quote. Removed unsupported Yale 'no HomeKit' (Yale page lists Apple HomeKit), fixed iveise quote framing, removed bypass-trick mention and unsupported 'fewest complaints' claim. All 5 brief pain points answered with lease/landlord-in-writing framing; no legal advice.",

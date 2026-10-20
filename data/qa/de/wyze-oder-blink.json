@@ -3,9 +3,10 @@
   "lang": "de",
   "translationOf": "wyze-vs-blink",
   "pass": true,
-  "checkedAt": "2026-10-19T13:45:40.150Z",
+  "checkedAt": "2026-10-20T13:32:24.906Z",
   "errors": [],
   "warnings": [
+    "not localized yet: run localizer-agent for wyze-vs-blink (data/briefs/de/wyze-vs-blink.local.json), then rewrite with translator-agent",
     "source didn't respond normally (403): https://support.wyze.com/hc/en-us/articles/23746258989851-Wyze-Cam-v4-Tech-Specs"
   ],
   "factCheck": {

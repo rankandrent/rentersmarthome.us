@@ -92,14 +92,14 @@ products:
       wireless: 'Wi-Fi 6E, Bluetooth 6, Thread, Ultra Wideband'
       power: '20-W-Netzteil, 100–240 V'
       sensors: Temperatur und Luftfeuchtigkeit
-      hub: 'HomeKit-Steuerzentrale (laut addtohomekit.com, linkdhome.com, burzmart.lv)'
+      hub: >-
+        HomeKit-Steuerzentrale (laut addtohomekit.com, linkdhome.com,
+        burzmart.lv)
     owners:
       read: 6
       praise:
-        - >-
-          Guter Klang für Größe und Preis, funktioniert gut für Apple-Nutzer
-        - >-
-          Günstigste Apple-Steuerzentrale, die zugleich Thread-Border-Router ist
+        - 'Guter Klang für Größe und Preis, funktioniert gut für Apple-Nutzer'
+        - 'Günstigste Apple-Steuerzentrale, die zugleich Thread-Border-Router ist'
       complaints:
         - >-
           Manche Besitzer nennen ihn unzuverlässig: Verbindungsabbrüche und
@@ -136,10 +136,20 @@ products:
       Einstecken, keine Montage. Kompatibilität mit 7 bewertet, weil er mit
       Apple Home und Matter-/Thread-Geräten arbeitet, aber ein Apple-Gerät
       voraussetzt.
+    asin: B0DXR9NKS7
+    amazonTitle: Apple - HomePod mini - Yellow
+    image:
+      url: 'https://m.media-amazon.com/images/I/51MadOWBaBL._SL500_.jpg'
+      width: 500
+      height: 461
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51177ca94gL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Apple TV 4K (4th generation)
     brand: Apple
     query: Apple TV 4K
-    badge: Beste Steuerzentrale, wenn du auch streamen willst
+    badge: 'Beste Steuerzentrale, wenn du auch streamen willst'
     summary: >-
       Eine Streaming-Box für den Fernseher, die zugleich als
       HomeKit-Steuerzentrale dient. Apple nennt ein Modell mit 128 GB, A19 Chip,
@@ -159,14 +169,18 @@ products:
       - Steht im Regal; nichts zu montieren
     cons:
       - Braucht einen Fernseher mit HDMI und ein separat erhältliches HDMI-Kabel
-      - 'Mehr, als du brauchst, wenn du nur eine Steuerzentrale willst und nicht streamst'
+      - >-
+        Mehr, als du brauchst, wenn du nur eine Steuerzentrale willst und nicht
+        streamst
     specs:
       size: '93,24 x 93,24 x 31 mm (3.67 x 3.67 x 1.22 in)'
       weight: 217 g (7.6 oz)
       wireless: 'Wi-Fi 7, Bluetooth 6, Thread'
       wired: 'Gigabit Ethernet, HDMI 2.1'
       power: 'Integriertes Netzteil, Netzkabel im Lieferumfang'
-      hub: 'HomeKit-Steuerzentrale (laut addtohomekit.com, linkdhome.com, burzmart.lv)'
+      hub: >-
+        HomeKit-Steuerzentrale (laut addtohomekit.com, linkdhome.com,
+        burzmart.lv)
     owners:
       read: 4
       praise:
@@ -200,6 +214,27 @@ products:
     scoreNote: >-
       Keine Montage, aber sie muss am Fernseher stehen, und sie kostet mehr als
       ein reines Zentralen-Gerät, wenn du nicht streamen willst.
+    asin: B0HMX69N2K
+    amazonTitle: >-
+      Apple TV 4K (4th generation) | 4K Dolby Vision, HDR10+, Dolby Atmos, Siri
+      AI, Far-field mics, Home theater surround sound, Siri Remote with Find My
+    image:
+      url: 'https://m.media-amazon.com/images/I/31TNFUtZnfL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31Biae7SciL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41iSZ-xeLIL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41ZB8gBdssL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41YcWKvL5UL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: 'Apple: Home app'
     url: 'https://www.apple.com/home-app/'

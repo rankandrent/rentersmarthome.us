@@ -3,7 +3,8 @@ title: ¿Qué es HomeKit? La app Casa de Apple explicada para inquilinos
 seoTitle: ¿Qué es HomeKit? Apple Casa para inquilinos (2026)
 description: >-
   Qué es HomeKit y cómo funciona la app Casa de Apple en un piso de alquiler:
-  cuándo hace falta una central, qué significa Matter, compañeros de piso y mudanza.
+  cuándo hace falta una central, qué significa Matter, compañeros de piso y
+  mudanza.
 pubDate: '2026-10-20T17:15:00.000Z'
 lang: es
 translationOf: what-is-homekit
@@ -46,8 +47,8 @@ tldr:
     Apple TV 4K siempre encendido solo hace falta para el acceso remoto y las
     automatizaciones.
   - >-
-    En un piso de alquiler, crea la casa con tu propia cuenta de Apple, invita
-    a tus compañeros de piso en lugar de compartir contraseña y deja fuera las
+    En un piso de alquiler, crea la casa con tu propia cuenta de Apple, invita a
+    tus compañeros de piso en lugar de compartir contraseña y deja fuera las
     cerraduras y termostatos del casero salvo que tengas permiso por escrito.
   - >-
     Un logo de Matter por sí solo no garantiza compatibilidad total con Apple
@@ -61,41 +62,46 @@ products:
     summary: >-
       Un altavoz inteligente pequeño que se enchufa a la pared y hace también de
       central de accesorios de HomeKit, para que las automatizaciones y el
-      control remoto funcionen cuando no estás. Apple indica Wi-Fi 6E,
-      Bluetooth 6, red Thread, sensor de temperatura y humedad y un adaptador de
-      corriente de 20 W en la caja.
+      control remoto funcionen cuando no estás. Apple indica Wi-Fi 6E, Bluetooth
+      6, red Thread, sensor de temperatura y humedad y un adaptador de corriente
+      de 20 W en la caja.
     renterNote: >-
       Para el inquilino con iPhone que empieza con HomeKit y quiere una central
-      que se deja en una estantería, sin taladrar. Ojo: hay que configurarlo
-      con un iPhone o iPad, y la ficha técnica actual de Apple es la del
-      HomePod mini 2, así que las unidades antiguas de primera generación que
-      describen algunas guías pueden ser distintas. Elige la versión europea
-      (100 a 240 V) y no una importación de EE. UU., porque el enchufe del
-      adaptador cambia según la región.
+      que se deja en una estantería, sin taladrar. Ojo: hay que configurarlo con
+      un iPhone o iPad, y la ficha técnica actual de Apple es la del HomePod
+      mini 2, así que las unidades antiguas de primera generación que describen
+      algunas guías pueden ser distintas. Elige la versión europea (100 a 240 V)
+      y no una importación de EE. UU., porque el enchufe del adaptador cambia
+      según la región.
     pros:
       - >-
         Funciona como central de accesorios de HomeKit para el acceso remoto y
         las automatizaciones, según las guías consultadas
       - Se enchufa a la pared; no hay nada que montar ni taladrar
-      - >-
-        Red Thread y sensor de temperatura y humedad integrado, según Apple
+      - 'Red Thread y sensor de temperatura y humedad integrado, según Apple'
     cons:
       - Necesita un iPhone o iPad con iOS actualizado para configurarlo
       - >-
         Como central solo sirve para dispositivos de Apple Casa; no controla
         aparatos que solo funcionan con Alexa
     specs:
-      size: 8,43 cm de alto x 9,79 cm de ancho (3.3 x 3.9 in)
+      size: '8,43 cm de alto x 9,79 cm de ancho (3.3 x 3.9 in)'
       weight: 335 g (0.74 lb)
       wireless: 'Wi-Fi 6E, Bluetooth 6, Thread, Ultra Wideband'
       power: 'Adaptador de corriente de 20 W, 100-240 V'
       sensors: Temperatura y humedad
-      hub: 'Central de accesorios HomeKit (según addtohomekit.com, linkdhome.com, burzmart.lv)'
+      hub: >-
+        Central de accesorios HomeKit (según addtohomekit.com, linkdhome.com,
+        burzmart.lv)
     owners:
       read: 6
       praise:
-        - 'Buen sonido para su tamaño y precio, y funciona bien para usuarios de Apple'
-        - La central de Apple más económica que además hace de router de borde Thread
+        - >-
+          Buen sonido para su tamaño y precio, y funciona bien para usuarios de
+          Apple
+        - >-
+          La central de Apple más económica que además hace de router de borde
+          Thread
       complaints:
         - >-
           Algunos propietarios lo ven irregular: conexiones que se caen y
@@ -132,13 +138,23 @@ products:
       Se enchufa y listo, sin montaje. La compatibilidad se queda en 7 porque
       funciona con Apple Casa y con accesorios Matter/Thread, pero necesita un
       dispositivo de Apple.
+    asin: B0DXR9NKS7
+    amazonTitle: Apple - HomePod mini - Yellow
+    image:
+      url: 'https://m.media-amazon.com/images/I/51MadOWBaBL._SL500_.jpg'
+      width: 500
+      height: 461
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51177ca94gL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Apple TV 4K (4th generation)
     brand: Apple
     query: Apple TV 4K
     badge: La mejor central si además quieres un reproductor de streaming
     summary: >-
-      Un reproductor de streaming para la tele que también sirve como central
-      de accesorios de HomeKit. Apple indica un modelo de 128 GB con chip A19,
+      Un reproductor de streaming para la tele que también sirve como central de
+      accesorios de HomeKit. Apple indica un modelo de 128 GB con chip A19,
       Wi-Fi 7, Gigabit Ethernet, Bluetooth 6 y tecnología de red Thread.
     renterNote: >-
       Para el inquilino que ya quiere un reproductor de streaming de Apple y
@@ -157,17 +173,23 @@ products:
       - Necesita una tele con HDMI y un cable HDMI que se vende aparte
       - Es más de lo que necesita quien solo busca una central y no ve streaming
     specs:
-      size: 9,32 x 9,32 x 3,1 cm (3.67 x 3.67 x 1.22 in)
+      size: '9,32 x 9,32 x 3,1 cm (3.67 x 3.67 x 1.22 in)'
       weight: 217 g (7.6 oz)
       wireless: 'Wi-Fi 7, Bluetooth 6, Thread'
       wired: 'Gigabit Ethernet, HDMI 2.1'
       power: 'Fuente de alimentación integrada, cable de corriente incluido'
-      hub: 'Central de accesorios HomeKit (según addtohomekit.com, linkdhome.com, burzmart.lv)'
+      hub: >-
+        Central de accesorios HomeKit (según addtohomekit.com, linkdhome.com,
+        burzmart.lv)
     owners:
       read: 4
       praise:
-        - Usarlo como central por cable Ethernet resolvió problemas de conexión a varios propietarios
-        - Considerado la opción de central de Apple más estable cuando va por cable
+        - >-
+          Usarlo como central por cable Ethernet resolvió problemas de conexión
+          a varios propietarios
+        - >-
+          Considerado la opción de central de Apple más estable cuando va por
+          cable
       complaints:
         - >-
           A algunos propietarios se les siguen desconectando accesorios Thread
@@ -195,6 +217,27 @@ products:
       No hay que montar nada, pero tiene que estar junto a una tele, y cuesta
       más que un dispositivo que solo hace de central si no vas a usar el
       streaming.
+    asin: B0HMX69N2K
+    amazonTitle: >-
+      Apple TV 4K (4th generation) | 4K Dolby Vision, HDR10+, Dolby Atmos, Siri
+      AI, Far-field mics, Home theater surround sound, Siri Remote with Find My
+    image:
+      url: 'https://m.media-amazon.com/images/I/31TNFUtZnfL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31Biae7SciL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41iSZ-xeLIL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41ZB8gBdssL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41YcWKvL5UL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: 'Apple: Home app'
     url: 'https://www.apple.com/home-app/'
@@ -210,14 +253,17 @@ sources:
     url: 'https://www.apple.com/es/homepod-mini/specs/'
   - title: 'Apple España: Especificaciones técnicas del Apple TV 4K'
     url: 'https://www.apple.com/es/apple-tv-4k/specs/'
-  - title: 'Soporte de Apple: Configurar el HomePod, HomePod mini o Apple TV como central de accesorios'
+  - title: >-
+      Soporte de Apple: Configurar el HomePod, HomePod mini o Apple TV como
+      central de accesorios
     url: 'https://support.apple.com/es-es/102557'
   - title: 'Soporte de Apple: Si un accesorio muestra Sin respuesta en la app Casa'
     url: 'https://support.apple.com/es-es/102056'
   - title: 'BOE: Ley 29/1994 de Arrendamientos Urbanos (texto consolidado)'
     url: 'https://www.boe.es/buscar/act.php?id=BOE-A-1994-26003'
   - title: 'OCU: Problemas con tu casa de alquiler'
-    url: 'https://www.ocu.org/vivienda-y-energia/comprar-vender-alquilar/informe/problemas-con-tu-casa-de-alquiler'
+    url: >-
+      https://www.ocu.org/vivienda-y-energia/comprar-vender-alquilar/informe/problemas-con-tu-casa-de-alquiler
   - title: 'Forocoches: hilo sobre HomeKit en casa'
     url: 'https://forocoches.com/foro/index.php/showthread.php?p=465446225'
   - title: 'Comunidad de Apple: la app Casa no funciona fuera de la red wifi'

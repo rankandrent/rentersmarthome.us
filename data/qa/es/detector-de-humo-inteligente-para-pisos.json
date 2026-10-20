@@ -3,10 +3,10 @@
   "lang": "es",
   "translationOf": "best-smart-smoke-detector-for-apartments",
   "pass": true,
-  "checkedAt": "2026-10-19T19:25:47.300Z",
+  "checkedAt": "2026-10-20T13:32:55.922Z",
   "errors": [],
   "warnings": [
-    "source didn't respond normally (503): https://customer.resideo.com/resources/Techlit/TechLitDocuments/BRK-First%20Alert/FSMCO600NVACL1_SMCO600NV-A_SC5__SpecSheet.pdf"
+    "not localized yet: run localizer-agent for best-smart-smoke-detector-for-apartments (data/briefs/es/best-smart-smoke-detector-for-apartments.local.json), then rewrite with translator-agent"
   ],
   "factCheck": {
     "verified": true,

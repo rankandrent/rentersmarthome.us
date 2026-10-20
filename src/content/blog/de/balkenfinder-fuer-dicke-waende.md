@@ -1,7 +1,8 @@
 ---
-title: 'Balkenfinder für dicke Wände 2026 – 6 Ortungsgeräte mit Tiefenscan'
-seoTitle: 'Balkenfinder für dicke Wände (2026) – 6 Modelle'
-description: Ein guter Balkenfinder für dicke Wände misst tief durch Putz und doppelte
+title: Balkenfinder für dicke Wände 2026 – 6 Ortungsgeräte mit Tiefenscan
+seoTitle: Balkenfinder für dicke Wände (2026) – 6 Modelle
+description: >-
+  Ein guter Balkenfinder für dicke Wände misst tief durch Putz und doppelte
   Gipskartonplatten. 6 Geräte mit Tiefenscan, Tipps zu Putz und zum Auszug.
 pubDate: '2026-10-17T19:00:00.000Z'
 lang: de
@@ -9,416 +10,481 @@ translationOf: best-stud-finder-for-thick-walls
 category: storage-decor
 keyword: balkenfinder für dicke wände
 secondaryKeywords:
-- ortungsgerät für dicke wände
-- balkenfinder mit tiefenscan
-- balkenfinder für putzwände
-- ständer finden in lattenputz
+  - ortungsgerät für dicke wände
+  - balkenfinder mit tiefenscan
+  - balkenfinder für putzwände
+  - ständer finden in lattenputz
 entities:
-- stud finder
-- deep scan mode
-- lath and plaster
-- double-layer drywall
-- metal lath
-- wood stud
-- steel stud
-- AC wire detection
-- magnetic stud finder
-- Franklin Sensors ProSensor MAX
-- Franklin Sensors ProSensor M210
-- Zircon MultiScanner i520 OneStep
-- Zircon StudSensor Pro55
-- DeepScan
-- WireWarning
-- Bosch GMS 120
-- Zircon MetalliScanner m40
+  - stud finder
+  - deep scan mode
+  - lath and plaster
+  - double-layer drywall
+  - metal lath
+  - wood stud
+  - steel stud
+  - AC wire detection
+  - magnetic stud finder
+  - Franklin Sensors ProSensor MAX
+  - Franklin Sensors ProSensor M210
+  - Zircon MultiScanner i520 OneStep
+  - Zircon StudSensor Pro55
+  - DeepScan
+  - WireWarning
+  - Bosch GMS 120
+  - Zircon MetalliScanner m40
 tags:
-- balkenfinder
-- bilder aufhängen
-- werkzeug
-- mieter
+  - balkenfinder
+  - bilder aufhängen
+  - werkzeug
+  - mieter
 articleType: roundup
 funnel: bofu
 productStyle: pros-cons
 productCount: 6
 readingTime: 11
 tldr:
-- 'Der Franklin Sensors ProSensor MAX ist unsere Empfehlung für dicken Putz: Der
-  Hersteller nennt bis zu 6,4 cm (2.5 in) maximale Erfassungstiefe und einen eigenen
-  Modus für Putz auf Holzlatten.'
-- 'Der Zircon StudSensor Pro55 ist der günstige Balkenfinder mit Tiefenscan für
-  dicke Gipskartonwände: Im DeepScan-Modus verdoppelt er seine normale Tiefe auf
-  3,8 cm (1.5 in).'
-- Bei altem Lattenputz findet der Zircon MetalliScanner m40 die Nägel in den Latten
-  und Ständern, statt die Dichte zu erraten.
-- Sehr dicker Putz oder Putz auf Metallgitter kann jeden elektronischen Balkenfinder
-  überfordern. Prüf deshalb einen Ständer, bevor du ein echtes Loch bohrst.
+  - >-
+    Der Franklin Sensors ProSensor MAX ist unsere Empfehlung für dicken Putz:
+    Der Hersteller nennt bis zu 6,4 cm (2.5 in) maximale Erfassungstiefe und
+    einen eigenen Modus für Putz auf Holzlatten.
+  - >-
+    Der Zircon StudSensor Pro55 ist der günstige Balkenfinder mit Tiefenscan für
+    dicke Gipskartonwände: Im DeepScan-Modus verdoppelt er seine normale Tiefe
+    auf 3,8 cm (1.5 in).
+  - >-
+    Bei altem Lattenputz findet der Zircon MetalliScanner m40 die Nägel in den
+    Latten und Ständern, statt die Dichte zu erraten.
+  - >-
+    Sehr dicker Putz oder Putz auf Metallgitter kann jeden elektronischen
+    Balkenfinder überfordern. Prüf deshalb einen Ständer, bevor du ein echtes
+    Loch bohrst.
 products:
-- name: Franklin Sensors ProSensor MAX
-  brand: Franklin Sensors
-  query: Franklin Sensors ProSensor MAX stud finder
-  badge: Beste Wahl für dicken Putz
-  summary: Franklins Balkenfinder mit der größten Messtiefe, gebaut für Lattenputz,
-    doppelt beplankte oder geflieste Wände. Seine 13 Sensoren erfassen auf einmal
-    eine breite Fläche.
-  renterNote: Ein Handgerät, das keine Spuren hinterlässt; markiere die Ständer
-    vor dem Aufhängen mit Bleistift oder Malerkrepp.
-  pros:
-  - Franklin nennt 6,4 cm (2.5 in) maximale Erfassungstiefe, die größte hier
-  - Ein Modus für Lattenputz, doppelt beplankte Wände und große Fliesen, ganz ohne
-    Kalibrierung
-  - 13 Sensoren zeigen die Ständerposition, ohne das Gerät zu verschieben
-  cons:
-  - Erkennung bei dickem oder unregelmäßigem Putz nicht garantiert
-  - Liegt im oberen Preisbereich
-  scores:
-    install: 10
-    reversibility: 10
-    value: 8
-    portability: 10
-  scoreNote: Handwerkzeug, nichts zu montieren; teurer als einfache Balkenfinder,
-    aber mit der größten angegebenen Reichweite hier.
-  asin: B0D3MDJWVC
-  image:
-    url: https://m.media-amazon.com/images/I/31+9bKL9N5L._SL500_.jpg
-    width: 500
-    height: 274
-  amazonTitle: Franklin Sensors ProSensor MAX 13-Sensor Stud Finder, 2.5-in Deep
-    Detection | High Accuracy Wood and Metal Stud Finder Wall Scanner For Thick
-    Walls, Plaster, and OSB, Made in the USA, Built-in Level
-  gallery:
-  - url: https://m.media-amazon.com/images/I/41ceSVU-ufL._SL500_.jpg
-    width: 500
-    height: 500
-  - url: https://m.media-amazon.com/images/I/51MvjIqF9fL._SL500_.jpg
-    width: 500
-    height: 500
-  - url: https://m.media-amazon.com/images/I/51tp32q34lL._SL500_.jpg
-    width: 500
-    height: 500
-  - url: https://m.media-amazon.com/images/I/51aPGGOWqoL._SL500_.jpg
-    width: 500
-    height: 500
-- name: Franklin Sensors ProSensor M210
-  brand: Franklin Sensors
-  query: Franklin Sensors ProSensor M210 stud finder
-  badge: Beste Wahl für Gipskarton mit Leitungserkennung
-  summary: Franklins Modell mit 13 Sensoren, Erkennung stromführender Leitungen
-    und 4,3 cm (1.7 in) Messtiefe, ideal für dickere Gipskartonwände oder dünnen
-    Putz.
-  renterNote: Handgerät ohne Spuren, beim Auszug gibt es also nichts zu spachteln.
-  pros:
-  - 13 Sensoren messen bis zu 4,3 cm (1.7 in) tief
-  - Eine Anzeige leuchtet, wenn eine stromführende Leitung erkannt wird
-  - Zeigt den Ständerbereich auf einmal, statt dass du hin- und herfahren musst
-  cons:
-  - Laut Franklin keine garantierte Erkennung über alten Holzlatten
-  - Für schweren Putz weniger geeignet als der MAX
-  scores:
-    install: 10
-    reversibility: 10
-    value: 8
-    portability: 10
-  scoreNote: Handwerkzeug, nichts zu montieren; mittlere bis gehobene Preisklasse,
-    am stärksten auf Gipskarton.
-  asin: B0917VXLDK
-  image:
-    url: https://m.media-amazon.com/images/I/31sFkzKwYKL._SL500_.jpg
-    width: 500
-    height: 500
-  amazonTitle: Franklin Sensors ProSensor M210 13-Sensor Stud Finder, Live Wire
-    Detection | High-Accuracy Stud Finder Wall Scanner, Wood and Metal Stud Detector,
-    Made in the USA, Shows Full Width of Studs
-  gallery:
-  - url: https://m.media-amazon.com/images/I/51g9tN+zAuL._SL500_.jpg
-    width: 500
-    height: 500
-  - url: https://m.media-amazon.com/images/I/5102rkDYFAL._SL500_.jpg
-    width: 500
-    height: 500
-  - url: https://m.media-amazon.com/images/I/514nnQP6v2L._SL500_.jpg
-    width: 500
-    height: 500
-  - url: https://m.media-amazon.com/images/I/51gaeWVxs4L._SL500_.jpg
-    width: 500
-    height: 415
-  owners:
-    read: 2
-    praise:
-    - Breites LED-Display, gut ablesbar
-    - Leitungsanzeige und eingebaute Libelle kommen gut an
-    complaints:
-    - AA-Batterien nicht enthalten und müssen ab und zu ersetzt werden
-    sources:
-    - title: Franklin Sensors ProSensor M210
-      url: https://franklinsensors.com/prosensor-m210/
-- name: Zircon MultiScanner i520 OneStep
-  brand: Zircon
-  query: Zircon MultiScanner i520 OneStep stud finder
-  badge: Bester Multiscanner
-  summary: Ein Multiscanner mit DeepScan-Modus für Ständer und eigenen Modi für
-    stromführende Leitungen und Metall.
-  renterNote: Handgerät, das an der Wand nichts zurücklässt.
-  pros:
-  - DeepScan-Modus bis 3,8 cm (38 mm, 1.5 in)
-  - Erkennt stromführende, nicht abgeschirmte Leitungen bis 5 cm (50 mm, 2 in)
-  - Eisenmetall wie Bewehrungsstahl bis 7,6 cm (76 mm, 3 in)
-  cons:
-  - 3,8 cm DeepScan reicht bei dickem Putz womöglich gerade so
-  - Spürbar teurer als einfache Balkenfinder
-  scores:
-    install: 10
-    reversibility: 10
-    value: 7
-    portability: 10
-  scoreNote: Handwerkzeug, nichts zu montieren; Premiumpreis für eine ähnliche Ständertiefe
-    wie günstigere Zircon-Geräte.
-  asin: B001ACRPKK
-  image:
-    url: https://m.media-amazon.com/images/I/41zd1V3CibL._SL500_.jpg
-    width: 241
-    height: 500
-  amazonTitle: Zircon® MultiScanner™ i520 OneStep® Stud Finder with Metal & AC Detection
-    | Find wood and metal studs, hidden metal and live AC wiring with one tool for
-    hanging, mounting and remodeling projects
-  gallery:
-  - url: https://m.media-amazon.com/images/I/419jqr3NwLL._SL500_.jpg
-    width: 370
-    height: 500
-  - url: https://m.media-amazon.com/images/I/41lGuvla8pL._SL500_.jpg
-    width: 235
-    height: 500
-  - url: https://m.media-amazon.com/images/I/51iHmOiyT8L._SL500_.jpg
-    width: 453
-    height: 500
-- name: Zircon StudSensor Pro55 Stud Finder with Deep Scan
-  brand: Zircon
-  query: Zircon StudSensor Pro55 Stud Finder with Deep Scan
-  badge: Bester günstiger Tiefenscan
-  summary: Ein einfacher, auf Ständer ausgelegter Zircon, dessen DeepScan-Modus
-    die normale Messtiefe auf 3,8 cm (1.5 in) verdoppelt, mit LCD, SpotLite-Zeiger
-    und WireWarning.
-  renterNote: Handgerät ohne Markierungen, also für jede Mietwand unbedenklich.
-  pros:
-  - DeepScan erreicht 3,8 cm (38 mm, 1.5 in) statt 1,9 cm (19 mm, 0.75 in) im StudScan-Modus
-  - WireWarning meldet stromführende, nicht abgeschirmte Leitungen bis 5 cm (50
-    mm, 2 in) Tiefe
-  - SpotLite-Zeiger projiziert einen Pfeil an der Ständerkante auf die Wand
-  cons:
-  - 3,8 cm DeepScan reichen für schweren Lattenputz nicht; die Tiefe hängt von Feuchtigkeit,
-    Oberflächenstruktur und Farbe ab
-  - Besitzer verwandter Zircon-DeepScan-Modelle berichten von Aussetzern und lückenhaften
-    Anzeigen auf Putz und Fliesen
-  scores:
-    install: 10
-    reversibility: 10
-    value: 9
-    portability: 10
-  scoreNote: Handwerkzeug, nichts zu montieren; DeepScan-Tiefe und Leitungswarnung
-    in einer niedrigeren Preisklasse.
-  asin: B0GZWS1324
-  amazonTitle: Zircon® StudSensor™ Pro55 Stud Finder with Deep Scan & Live Wire
-    Detection
-  matchName: Zircon StudSensor Pro55
-  owners:
-    read: 6
-    praise:
-    - Auf Gipskarton einfach zu bedienen, und der Pfeil markiert beide Ständerkanten
-      (Besitzer des verwandten HD55)
-    - DeepScan funktioniert auf Gipskarton, und einige Besitzer bekamen auch auf
-      Putz brauchbare Anzeigen
-    complaints:
-    - Zircon-DeepScan-Geräte haben oft Probleme mit altem oder 2,5 cm (1 in) dickem
-      Putz (Forenbesitzer verwandter Modelle)
-    - Einige Besitzer des verwandten HD55 fanden gar keine Ständer oder bekamen
-      hinter Profilholz oder Fliesen nur lückenhafte Ergebnisse
-    sources:
-    - title: Sawdust Zone forum thread on stud finders
-      url: https://www.sawdustzone.org/forum/discussions/home-improvements-maintenance/20375-is-there-such-a-thing-as-a-good-stud-finder
-    - title: Garage Journal forum post on stud finders and plaster
-      url: https://www.garagejournal.com/forum/goto/post?id=1773355
-    - title: Tilers Forums stud finder thread
-      url: https://www.tilersforums.com/threads/stud-finder.27867
-    - title: Home Depot Zircon StudSensor HD55 reviews (related model)
-      url: https://www.homedepot.com/p/reviews/Zircon-StudSensor-HD55-Stud-Finder-65945/205143494/3
-  image:
-    url: https://m.media-amazon.com/images/I/41NeDRLXfRL._SL500_.jpg
-    width: 500
-    height: 500
-  gallery:
-  - url: https://m.media-amazon.com/images/I/51YliE9xh0L._SL500_.jpg
-    width: 500
-    height: 500
-  - url: https://m.media-amazon.com/images/I/51fRgDKw9eL._SL500_.jpg
-    width: 500
-    height: 500
-- name: Bosch GMS 120
-  brand: Bosch
-  query: Bosch GMS 120 digital multi scanner
-  badge: Beste Wahl für Metall- und Leitungstiefe
-  summary: Ein Multimaterial-Scanner mit den Einstellungen Metall, Trockenbau und
-    stromführende Leitung sowie einem mittigen Markierloch.
-  renterNote: Durch das Markierloch zeichnest du mit dem Bleistift an, statt Probelöcher
-    zu bohren.
-  pros:
-  - Erkennt magnetisches Metall bis 120 mm, nichtmagnetisches Metall bis 80 mm und
-    stromführende Leitungen bis 50 mm
-  - Mittenfinder mit Markierloch
-  - LED-Ring zeigt den Status in Rot, Gelb oder Grün
-  cons:
-  - Holz erkennt er bis 38 mm, also nicht tiefer als Zircon DeepScan bei Ständern
-  - Klobiger als die anderen
-  scores:
-    install: 10
-    reversibility: 10
-    value: 8
-    portability: 9
-  scoreNote: Handwerkzeug, nichts zu montieren; größeres Gehäuse, Multiscanner der
-    mittleren Preisklasse.
-  asin: B0DBWSSPT2
-  image:
-    url: https://m.media-amazon.com/images/I/41D3KR1ySkL._SL500_.jpg
-    width: 500
-    height: 500
-  amazonTitle: BOSCH GMS120-27 Professional Wall Scanner, Stud Finder, Live Wire
-    Detector | Multi-function wall detector scanner with center indication, metal
-    stud finder for electricians, plumbers & contractors
-  gallery:
-  - url: https://m.media-amazon.com/images/I/51PT6OO42ML._SL500_.jpg
-    width: 500
-    height: 500
-  - url: https://m.media-amazon.com/images/I/41qxOzqoSPL._SL500_.jpg
-    width: 500
-    height: 500
-  - url: https://m.media-amazon.com/images/I/51+7JXy5lZL._SL500_.jpg
-    width: 500
-    height: 500
-  - url: https://m.media-amazon.com/images/I/51D31IZezZL._SL500_.jpg
-    width: 500
-    height: 500
-  owners:
-    read: 3
-    praise:
-    - Findet Metall- und Holzständer zuverlässig; in einem Testbericht wurde die
-      Mitte eines Kupferrohrs jedes Mal gefunden
-    - In einem Testbericht wurde die stromführende Leitung schnell gefunden
-    complaints:
-    - Leitungserkennung unzuverlässig; statische Aufladung führt zu Fehlanzeigen
-    - Ein Rezensent fand in neuem Gipskarton keine Ständer
-    sources:
-    - title: One Project Closer Bosch GMS120 review
-      url: https://oneprojectcloser.com/bosch-gms120-wall-scanner-review
-    - title: Home Depot Bosch GMS120 reviews
-      url: https://www.homedepot.com/p/reviews/Bosch-Digital-Wall-Scanner-with-Modes-for-Wood-Metal-and-AC-Wiring-GMS120/202850662/2
-    - title: Travis Perkins Bosch GMS 120 reviews
-      url: https://travisperkins.co.uk/levelling-measuring-and-detecting-tools/bosch-gms-120-laser-multi-detector/p/189471
-- name: Zircon MetalliScanner m40
-  brand: Zircon
-  query: Zircon MetalliScanner m40 metal scanner
-  badge: Beste Wahl für Befestigungen im Putz
-  summary: Ein elektronischer Metallscanner, der die Nägel und Schrauben in Ständern
-    und Latten findet, statt die Dichte zu messen.
-  renterNote: Handgerät ohne Markierungen; Stellen mit Malerkrepp oder Bleistift
-    markieren.
-  pros:
-  - Eisenmetall bis etwa 10,2 cm (102 mm, 4 in) und Nichteisenmetall bis etwa 5,1
-    cm (51 mm, 2 in)
-  - Modi Wide Scan und Pinpoint Scan
-  - Ausgewiesen für Gipskarton, Beton, Lattenputz und Außenputz
-  cons:
-  - Findet nur Metall, keine Holzständer direkt
-  - Es gibt mehrere Modellnummern, also auf die Verpackung achten
-  scores:
-    install: 10
-    reversibility: 10
-    value: 8
-    portability: 10
-  scoreNote: Handwerkzeug, nichts zu montieren; Spezialscanner der mittleren Preisklasse,
-    der gut zu Putz passt.
-  asin: B000VKJ1MM
-  image:
-    url: https://m.media-amazon.com/images/I/31kwCoPDy5L._SL500_.jpg
-    width: 500
-    height: 500
-  amazonTitle: Zircon® MetalliScanner® m40 Electronic Metal Detector, Up to 4 in.
-    Deep | Ideal for lath and plaster walls and reclaimed lumber; locates hidden
-    metal before drilling, cutting or remodeling
-  gallery:
-  - url: https://m.media-amazon.com/images/I/51lVIGPfQ2L._SL500_.jpg
-    width: 500
-    height: 500
-  - url: https://m.media-amazon.com/images/I/41xvXvc3fUL._SL500_.jpg
-    width: 500
-    height: 500
-  - url: https://m.media-amazon.com/images/I/518flVIWMeL._SL500_.jpg
-    width: 500
-    height: 500
-  - url: https://m.media-amazon.com/images/I/41qG--F1d1L._SL500_.jpg
-    width: 500
-    height: 500
-  owners:
-    read: 1
-    praise:
-    - Findet Eisenmetall bis 10,2 cm (4 in) und zeigt einen Treffer mit deutlichem
-      Licht und Ton an
-    complaints:
-    - Keine wiederkehrende Kritik in dem einen Besitzerbeitrag, den wir gelesen
-      haben
-    sources:
-    - title: Walmart Zircon MetalliScanner m40 listing
-      url: https://www.walmart.com/ip/3519189735
-      reviews: 5
+  - name: Franklin Sensors ProSensor MAX
+    brand: Franklin Sensors
+    query: Franklin Sensors ProSensor MAX stud finder
+    badge: Beste Wahl für dicken Putz
+    summary: >-
+      Franklins Balkenfinder mit der größten Messtiefe, gebaut für Lattenputz,
+      doppelt beplankte oder geflieste Wände. Seine 13 Sensoren erfassen auf
+      einmal eine breite Fläche.
+    renterNote: >-
+      Ein Handgerät, das keine Spuren hinterlässt; markiere die Ständer vor dem
+      Aufhängen mit Bleistift oder Malerkrepp.
+    pros:
+      - 'Franklin nennt 6,4 cm (2.5 in) maximale Erfassungstiefe, die größte hier'
+      - >-
+        Ein Modus für Lattenputz, doppelt beplankte Wände und große Fliesen,
+        ganz ohne Kalibrierung
+      - '13 Sensoren zeigen die Ständerposition, ohne das Gerät zu verschieben'
+    cons:
+      - Erkennung bei dickem oder unregelmäßigem Putz nicht garantiert
+      - Liegt im oberen Preisbereich
+    scores:
+      install: 10
+      reversibility: 10
+      value: 8
+      portability: 10
+    scoreNote: >-
+      Handwerkzeug, nichts zu montieren; teurer als einfache Balkenfinder, aber
+      mit der größten angegebenen Reichweite hier.
+    asin: B0D3MDJWVC
+    image:
+      url: 'https://m.media-amazon.com/images/I/31+9bKL9N5L._SL500_.jpg'
+      width: 500
+      height: 274
+    amazonTitle: >-
+      Franklin Sensors ProSensor MAX 13-Sensor Stud Finder, 2.5-in Deep
+      Detection | High Accuracy Wood and Metal Stud Finder Wall Scanner For
+      Thick Walls, Plaster, and OSB, Made in the USA, Built-in Level
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41ceSVU-ufL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51MvjIqF9fL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51tp32q34lL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51aPGGOWqoL._SL500_.jpg'
+        width: 500
+        height: 500
+  - name: Franklin Sensors ProSensor M210
+    brand: Franklin Sensors
+    query: Franklin Sensors ProSensor M210 stud finder
+    badge: Beste Wahl für Gipskarton mit Leitungserkennung
+    summary: >-
+      Franklins Modell mit 13 Sensoren, Erkennung stromführender Leitungen und
+      4,3 cm (1.7 in) Messtiefe, ideal für dickere Gipskartonwände oder dünnen
+      Putz.
+    renterNote: 'Handgerät ohne Spuren, beim Auszug gibt es also nichts zu spachteln.'
+    pros:
+      - '13 Sensoren messen bis zu 4,3 cm (1.7 in) tief'
+      - 'Eine Anzeige leuchtet, wenn eine stromführende Leitung erkannt wird'
+      - >-
+        Zeigt den Ständerbereich auf einmal, statt dass du hin- und herfahren
+        musst
+    cons:
+      - Laut Franklin keine garantierte Erkennung über alten Holzlatten
+      - Für schweren Putz weniger geeignet als der MAX
+    scores:
+      install: 10
+      reversibility: 10
+      value: 8
+      portability: 10
+    scoreNote: >-
+      Handwerkzeug, nichts zu montieren; mittlere bis gehobene Preisklasse, am
+      stärksten auf Gipskarton.
+    asin: B0917VXLDK
+    image:
+      url: 'https://m.media-amazon.com/images/I/31sFkzKwYKL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Franklin Sensors ProSensor M210 13-Sensor Stud Finder, Live Wire Detection
+      | High-Accuracy Stud Finder Wall Scanner, Wood and Metal Stud Detector,
+      Made in the USA, Shows Full Width of Studs
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51g9tN+zAuL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/5102rkDYFAL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/514nnQP6v2L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51gaeWVxs4L._SL500_.jpg'
+        width: 500
+        height: 415
+    owners:
+      read: 2
+      praise:
+        - 'Breites LED-Display, gut ablesbar'
+        - Leitungsanzeige und eingebaute Libelle kommen gut an
+      complaints:
+        - AA-Batterien nicht enthalten und müssen ab und zu ersetzt werden
+      sources:
+        - title: Franklin Sensors ProSensor M210
+          url: 'https://franklinsensors.com/prosensor-m210/'
+  - name: Zircon MultiScanner i520 OneStep
+    brand: Zircon
+    query: Zircon MultiScanner i520 OneStep stud finder
+    badge: Bester Multiscanner
+    summary: >-
+      Ein Multiscanner mit DeepScan-Modus für Ständer und eigenen Modi für
+      stromführende Leitungen und Metall.
+    renterNote: 'Handgerät, das an der Wand nichts zurücklässt.'
+    pros:
+      - 'DeepScan-Modus bis 3,8 cm (38 mm, 1.5 in)'
+      - >-
+        Erkennt stromführende, nicht abgeschirmte Leitungen bis 5 cm (50 mm, 2
+        in)
+      - 'Eisenmetall wie Bewehrungsstahl bis 7,6 cm (76 mm, 3 in)'
+    cons:
+      - '3,8 cm DeepScan reicht bei dickem Putz womöglich gerade so'
+      - Spürbar teurer als einfache Balkenfinder
+    scores:
+      install: 10
+      reversibility: 10
+      value: 7
+      portability: 10
+    scoreNote: >-
+      Handwerkzeug, nichts zu montieren; Premiumpreis für eine ähnliche
+      Ständertiefe wie günstigere Zircon-Geräte.
+    asin: B001ACRPKK
+    image:
+      url: 'https://m.media-amazon.com/images/I/41zd1V3CibL._SL500_.jpg'
+      width: 241
+      height: 500
+    amazonTitle: >-
+      Zircon® MultiScanner™ i520 OneStep® Stud Finder with Metal & AC Detection
+      | Find wood and metal studs, hidden metal and live AC wiring with one tool
+      for hanging, mounting and remodeling projects
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/419jqr3NwLL._SL500_.jpg'
+        width: 370
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41lGuvla8pL._SL500_.jpg'
+        width: 235
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51iHmOiyT8L._SL500_.jpg'
+        width: 453
+        height: 500
+  - name: Zircon StudSensor Pro55 Stud Finder with Deep Scan
+    brand: Zircon
+    query: Zircon StudSensor Pro55 Stud Finder with Deep Scan
+    badge: Bester günstiger Tiefenscan
+    summary: >-
+      Ein einfacher, auf Ständer ausgelegter Zircon, dessen DeepScan-Modus die
+      normale Messtiefe auf 3,8 cm (1.5 in) verdoppelt, mit LCD, SpotLite-Zeiger
+      und WireWarning.
+    renterNote: 'Handgerät ohne Markierungen, also für jede Mietwand unbedenklich.'
+    pros:
+      - >-
+        DeepScan erreicht 3,8 cm (38 mm, 1.5 in) statt 1,9 cm (19 mm, 0.75 in)
+        im StudScan-Modus
+      - >-
+        WireWarning meldet stromführende, nicht abgeschirmte Leitungen bis 5 cm
+        (50 mm, 2 in) Tiefe
+      - SpotLite-Zeiger projiziert einen Pfeil an der Ständerkante auf die Wand
+    cons:
+      - >-
+        3,8 cm DeepScan reichen für schweren Lattenputz nicht; die Tiefe hängt
+        von Feuchtigkeit, Oberflächenstruktur und Farbe ab
+      - >-
+        Besitzer verwandter Zircon-DeepScan-Modelle berichten von Aussetzern und
+        lückenhaften Anzeigen auf Putz und Fliesen
+    scores:
+      install: 10
+      reversibility: 10
+      value: 9
+      portability: 10
+    scoreNote: >-
+      Handwerkzeug, nichts zu montieren; DeepScan-Tiefe und Leitungswarnung in
+      einer niedrigeren Preisklasse.
+    asin: B0GZWS1324
+    amazonTitle: >-
+      Zircon® StudSensor™ Pro55 Stud Finder with Deep Scan & Live Wire Detection
+      | Locates wood and metal stud edges up to 1 1/2 in. deep with one-touch
+      calibration and visual target guidance
+    matchName: Zircon StudSensor Pro55
+    owners:
+      read: 6
+      praise:
+        - >-
+          Auf Gipskarton einfach zu bedienen, und der Pfeil markiert beide
+          Ständerkanten (Besitzer des verwandten HD55)
+        - >-
+          DeepScan funktioniert auf Gipskarton, und einige Besitzer bekamen auch
+          auf Putz brauchbare Anzeigen
+      complaints:
+        - >-
+          Zircon-DeepScan-Geräte haben oft Probleme mit altem oder 2,5 cm (1 in)
+          dickem Putz (Forenbesitzer verwandter Modelle)
+        - >-
+          Einige Besitzer des verwandten HD55 fanden gar keine Ständer oder
+          bekamen hinter Profilholz oder Fliesen nur lückenhafte Ergebnisse
+      sources:
+        - title: Sawdust Zone forum thread on stud finders
+          url: >-
+            https://www.sawdustzone.org/forum/discussions/home-improvements-maintenance/20375-is-there-such-a-thing-as-a-good-stud-finder
+        - title: Garage Journal forum post on stud finders and plaster
+          url: 'https://www.garagejournal.com/forum/goto/post?id=1773355'
+        - title: Tilers Forums stud finder thread
+          url: 'https://www.tilersforums.com/threads/stud-finder.27867'
+        - title: Home Depot Zircon StudSensor HD55 reviews (related model)
+          url: >-
+            https://www.homedepot.com/p/reviews/Zircon-StudSensor-HD55-Stud-Finder-65945/205143494/3
+    image:
+      url: 'https://m.media-amazon.com/images/I/41NeDRLXfRL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51YliE9xh0L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51fRgDKw9eL._SL500_.jpg'
+        width: 500
+        height: 500
+  - name: Bosch GMS 120
+    brand: Bosch
+    query: Bosch GMS 120 digital multi scanner
+    badge: Beste Wahl für Metall- und Leitungstiefe
+    summary: >-
+      Ein Multimaterial-Scanner mit den Einstellungen Metall, Trockenbau und
+      stromführende Leitung sowie einem mittigen Markierloch.
+    renterNote: >-
+      Durch das Markierloch zeichnest du mit dem Bleistift an, statt Probelöcher
+      zu bohren.
+    pros:
+      - >-
+        Erkennt magnetisches Metall bis 120 mm, nichtmagnetisches Metall bis 80
+        mm und stromführende Leitungen bis 50 mm
+      - Mittenfinder mit Markierloch
+      - 'LED-Ring zeigt den Status in Rot, Gelb oder Grün'
+    cons:
+      - >-
+        Holz erkennt er bis 38 mm, also nicht tiefer als Zircon DeepScan bei
+        Ständern
+      - Klobiger als die anderen
+    scores:
+      install: 10
+      reversibility: 10
+      value: 8
+      portability: 9
+    scoreNote: >-
+      Handwerkzeug, nichts zu montieren; größeres Gehäuse, Multiscanner der
+      mittleren Preisklasse.
+    asin: B0DBWSSPT2
+    image:
+      url: 'https://m.media-amazon.com/images/I/41D3KR1ySkL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      BOSCH GMS120-27 Professional Wall Scanner, Stud Finder, Live Wire Detector
+      | Multi-function wall detector scanner with center indication, metal stud
+      finder for electricians, plumbers & contractors
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51PT6OO42ML._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41qxOzqoSPL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51+7JXy5lZL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51D31IZezZL._SL500_.jpg'
+        width: 500
+        height: 500
+    owners:
+      read: 3
+      praise:
+        - >-
+          Findet Metall- und Holzständer zuverlässig; in einem Testbericht wurde
+          die Mitte eines Kupferrohrs jedes Mal gefunden
+        - In einem Testbericht wurde die stromführende Leitung schnell gefunden
+      complaints:
+        - >-
+          Leitungserkennung unzuverlässig; statische Aufladung führt zu
+          Fehlanzeigen
+        - Ein Rezensent fand in neuem Gipskarton keine Ständer
+      sources:
+        - title: One Project Closer Bosch GMS120 review
+          url: 'https://oneprojectcloser.com/bosch-gms120-wall-scanner-review'
+        - title: Home Depot Bosch GMS120 reviews
+          url: >-
+            https://www.homedepot.com/p/reviews/Bosch-Digital-Wall-Scanner-with-Modes-for-Wood-Metal-and-AC-Wiring-GMS120/202850662/2
+        - title: Travis Perkins Bosch GMS 120 reviews
+          url: >-
+            https://travisperkins.co.uk/levelling-measuring-and-detecting-tools/bosch-gms-120-laser-multi-detector/p/189471
+  - name: Zircon MetalliScanner m40
+    brand: Zircon
+    query: Zircon MetalliScanner m40 metal scanner
+    badge: Beste Wahl für Befestigungen im Putz
+    summary: >-
+      Ein elektronischer Metallscanner, der die Nägel und Schrauben in Ständern
+      und Latten findet, statt die Dichte zu messen.
+    renterNote: >-
+      Handgerät ohne Markierungen; Stellen mit Malerkrepp oder Bleistift
+      markieren.
+    pros:
+      - >-
+        Eisenmetall bis etwa 10,2 cm (102 mm, 4 in) und Nichteisenmetall bis
+        etwa 5,1 cm (51 mm, 2 in)
+      - Modi Wide Scan und Pinpoint Scan
+      - 'Ausgewiesen für Gipskarton, Beton, Lattenputz und Außenputz'
+    cons:
+      - 'Findet nur Metall, keine Holzständer direkt'
+      - 'Es gibt mehrere Modellnummern, also auf die Verpackung achten'
+    scores:
+      install: 10
+      reversibility: 10
+      value: 8
+      portability: 10
+    scoreNote: >-
+      Handwerkzeug, nichts zu montieren; Spezialscanner der mittleren
+      Preisklasse, der gut zu Putz passt.
+    asin: B000VKJ1MM
+    image:
+      url: 'https://m.media-amazon.com/images/I/31kwCoPDy5L._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Zircon® MetalliScanner® m40 Electronic Metal Detector, Up to 4 in. Deep |
+      Ideal for lath and plaster walls and reclaimed lumber; locates hidden
+      metal before drilling, cutting or remodeling
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51lVIGPfQ2L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41xvXvc3fUL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/518flVIWMeL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41qG--F1d1L._SL500_.jpg'
+        width: 500
+        height: 500
+    owners:
+      read: 1
+      praise:
+        - >-
+          Findet Eisenmetall bis 10,2 cm (4 in) und zeigt einen Treffer mit
+          deutlichem Licht und Ton an
+      complaints:
+        - >-
+          Keine wiederkehrende Kritik in dem einen Besitzerbeitrag, den wir
+          gelesen haben
+      sources:
+        - title: Walmart Zircon MetalliScanner m40 listing
+          url: 'https://www.walmart.com/ip/3519189735'
+          reviews: 5
 sources:
-- title: Franklin Sensors ProSensor MAX (Franklin Sensors)
-  url: https://franklinsensors.com/prosensor-max/
-- title: Franklin Sensors ProSensor M210 (Franklin Sensors)
-  url: https://franklinsensors.com/prosensor-m210/
-- title: Franklin ProSensor M210 review (Pro Tool Reviews)
-  url: https://www.protoolreviews.com/?p=132572
-- title: Zircon MultiScanner i520 OneStep (True Value)
-  url: https://www.truevalue.com/product/onestep-multiscanner-stud-metal-electrical-finder-i520/
-- title: Zircon StudSensor Pro55 (Zircon)
-  url: https://www.zircon.com/products/studsensor-pro55
-- title: Zircon 74239 StudSensor Pro55 Stud Finder (SupplyHouse)
-  url: https://www.supplyhouse.com/Zircon-74239-StudSensor-Pro55-Stud-Finder
-- title: Zircon StudSensor Pro55 SL Stud Finder (Do it Best)
-  url: https://www.doitbest.com/product/360252/zircon-studsensor-pro55-sl-stud-finder-360252
-- title: Zircon MetalliScanner m40 (RONA)
-  url: https://rona.ca/en/product/zircon-metalliscanner-m40-scan-depth-object-detection-finder-zir62518-331005146
-- title: Stud finder (Wikipedia)
-  url: https://en.wikipedia.org/wiki/Stud_finder
-- title: How do stud finders work? (HowStuffWorks)
-  url: https://home.howstuffworks.com/question271.htm
+  - title: Franklin Sensors ProSensor MAX (Franklin Sensors)
+    url: 'https://franklinsensors.com/prosensor-max/'
+  - title: Franklin Sensors ProSensor M210 (Franklin Sensors)
+    url: 'https://franklinsensors.com/prosensor-m210/'
+  - title: Franklin ProSensor M210 review (Pro Tool Reviews)
+    url: 'https://www.protoolreviews.com/?p=132572'
+  - title: Zircon MultiScanner i520 OneStep (True Value)
+    url: >-
+      https://www.truevalue.com/product/onestep-multiscanner-stud-metal-electrical-finder-i520/
+  - title: Zircon StudSensor Pro55 (Zircon)
+    url: 'https://www.zircon.com/products/studsensor-pro55'
+  - title: Zircon 74239 StudSensor Pro55 Stud Finder (SupplyHouse)
+    url: 'https://www.supplyhouse.com/Zircon-74239-StudSensor-Pro55-Stud-Finder'
+  - title: Zircon StudSensor Pro55 SL Stud Finder (Do it Best)
+    url: >-
+      https://www.doitbest.com/product/360252/zircon-studsensor-pro55-sl-stud-finder-360252
+  - title: Zircon MetalliScanner m40 (RONA)
+    url: >-
+      https://rona.ca/en/product/zircon-metalliscanner-m40-scan-depth-object-detection-finder-zir62518-331005146
+  - title: Stud finder (Wikipedia)
+    url: 'https://en.wikipedia.org/wiki/Stud_finder'
+  - title: How do stud finders work? (HowStuffWorks)
+    url: 'https://home.howstuffworks.com/question271.htm'
 reviewedDate: '2026-10-15'
 faqs:
-- q: Welcher Balkenfinder funktioniert am besten bei dicken Wänden?
-  a: Der Franklin Sensors ProSensor MAX hat mit 6,4 cm (2.5 in) die größte angegebene
-    Reichweite unserer Auswahl, dazu einen Modus für Putz auf Holzlatten und doppelt
-    beplankte Wände. Trotzdem garantiert Franklin die Erkennung bei dickem oder
-    unregelmäßigem Putz nicht.
-- q: Was bedeutet Tiefenscan (Deep Scan) bei einem Balkenfinder?
-  a: Im Tiefenscan-Modus erhöht der Sensor seine Empfindlichkeit und misst tiefer
-    in die Wand hinein. Beim Zircon StudSensor Pro55 erreicht DeepScan 3,8 cm (1.5
-    in) statt 1,9 cm (0.75 in) im normalen StudScan-Modus, dafür wird die Anzeige
-    breiter und ungenauer.
-- q: Funktioniert ein Balkenfinder auch auf Putzwänden?
-  a: Manchmal. Balkenfinder, die nach Dichte messen, tun sich mit dichtem, unebenem
-    Putz und Holzlatten schwer, und ein Metallgitter als Putzträger kann überall
-    Fehlanzeigen auslösen. Ein Metallscanner wie der Zircon MetalliScanner m40,
-    der die Nägel von Latten und Ständern findet, ist bei altem Putz oft zuverlässiger.
-- q: Wie tief kann ein Balkenfinder messen?
-  a: Einfache Balkenfinder messen etwa 1,9 cm (0.75 in), Tiefenscan-Modi etwa 3,8
-    cm (1.5 in), und der Franklin ProSensor MAX nennt 6,4 cm (2.5 in). Franklins
-    eigene Anleitung gibt für Holzständer etwa 4,4 cm (1.75 in) an. Feuchtigkeit,
-    Oberflächenstruktur, Farbe und Wanddichte verringern die Tiefe in der Praxis.
-- q: Ist ein magnetischer Balkenfinder bei alten Putzwänden besser?
-  a: Ein magnetischer Balkenfinder kann bei Putz eine günstige Notlösung sein, weil
-    er die Nägel findet, mit denen die Latten an jedem Ständer befestigt sind. Dicker
-    Putz schwächt aber die Anziehung. Ein elektronischer Metallscanner reicht für
-    dieselbe Aufgabe tiefer.
+  - q: Welcher Balkenfinder funktioniert am besten bei dicken Wänden?
+    a: >-
+      Der Franklin Sensors ProSensor MAX hat mit 6,4 cm (2.5 in) die größte
+      angegebene Reichweite unserer Auswahl, dazu einen Modus für Putz auf
+      Holzlatten und doppelt beplankte Wände. Trotzdem garantiert Franklin die
+      Erkennung bei dickem oder unregelmäßigem Putz nicht.
+  - q: Was bedeutet Tiefenscan (Deep Scan) bei einem Balkenfinder?
+    a: >-
+      Im Tiefenscan-Modus erhöht der Sensor seine Empfindlichkeit und misst
+      tiefer in die Wand hinein. Beim Zircon StudSensor Pro55 erreicht DeepScan
+      3,8 cm (1.5 in) statt 1,9 cm (0.75 in) im normalen StudScan-Modus, dafür
+      wird die Anzeige breiter und ungenauer.
+  - q: Funktioniert ein Balkenfinder auch auf Putzwänden?
+    a: >-
+      Manchmal. Balkenfinder, die nach Dichte messen, tun sich mit dichtem,
+      unebenem Putz und Holzlatten schwer, und ein Metallgitter als Putzträger
+      kann überall Fehlanzeigen auslösen. Ein Metallscanner wie der Zircon
+      MetalliScanner m40, der die Nägel von Latten und Ständern findet, ist bei
+      altem Putz oft zuverlässiger.
+  - q: Wie tief kann ein Balkenfinder messen?
+    a: >-
+      Einfache Balkenfinder messen etwa 1,9 cm (0.75 in), Tiefenscan-Modi etwa
+      3,8 cm (1.5 in), und der Franklin ProSensor MAX nennt 6,4 cm (2.5 in).
+      Franklins eigene Anleitung gibt für Holzständer etwa 4,4 cm (1.75 in) an.
+      Feuchtigkeit, Oberflächenstruktur, Farbe und Wanddichte verringern die
+      Tiefe in der Praxis.
+  - q: Ist ein magnetischer Balkenfinder bei alten Putzwänden besser?
+    a: >-
+      Ein magnetischer Balkenfinder kann bei Putz eine günstige Notlösung sein,
+      weil er die Nägel findet, mit denen die Latten an jedem Ständer befestigt
+      sind. Dicker Putz schwächt aber die Anziehung. Ein elektronischer
+      Metallscanner reicht für dieselbe Aufgabe tiefer.
 author: editorial-team
 heroImage: /images/featured/best-stud-finder-for-thick-walls.png
-heroAlt: 'Balkenfinder für dicke Wände 2026 (6 Geräte mit Tiefenscan) – Kaufberatung
-  von RenterSmartHome'
+heroAlt: >-
+  Balkenfinder für dicke Wände 2026 (6 Geräte mit Tiefenscan) – Kaufberatung von
+  RenterSmartHome
 ---
 
 Der beste Balkenfinder für dicke Wände ist einer, der mehr als 3,8 cm (1.5 in) Material durchdringt, ohne bei jeder Unebenheit im alten Putz anzuschlagen. Wer in einem Altbau zur Miete wohnt, kennt das: Man fährt mit einem billigen Balkenfinder über die Wand, er piept überall, und am Ende bohrt man Probelöcher, die man vor dem Auszug wieder spachteln muss. Wir haben sechs Balkenfinder mit Tiefenscan und Multiscanner anhand von Herstellerangaben und Händlerangeboten verglichen, und ich sage es gleich vorweg: Sehr dicker Putz oder Putz auf Metallgitter kann jeden elektronischen Balkenfinder überfordern. Deshalb nennen wir zu jeder Empfehlung eine Möglichkeit, das Ergebnis zu überprüfen.

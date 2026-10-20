@@ -3,9 +3,10 @@
   "lang": "nl",
   "translationOf": "best-magnetic-cabinet-locks-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-19T13:49:40.526Z",
+  "checkedAt": "2026-10-20T13:36:43.243Z",
   "errors": [],
   "warnings": [
+    "not localized yet: run localizer-agent for best-magnetic-cabinet-locks-for-renters (data/briefs/nl/best-magnetic-cabinet-locks-for-renters.local.json), then rewrite with translator-agent",
     "source didn't respond normally (403): https://www.woolworths.com.au/shop/productdetails/1122750099",
     "source didn't respond normally (403): https://fuhrmannmanagement.com/best-cabinet-locks/"
   ],

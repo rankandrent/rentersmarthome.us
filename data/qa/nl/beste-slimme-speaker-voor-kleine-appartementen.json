@@ -3,9 +3,10 @@
   "lang": "nl",
   "translationOf": "best-voice-assistant-speaker-for-small-apartments",
   "pass": true,
-  "checkedAt": "2026-10-19T13:49:20.824Z",
+  "checkedAt": "2026-10-20T13:36:13.904Z",
   "errors": [],
   "warnings": [
+    "not localized yet: run localizer-agent for best-voice-assistant-speaker-for-small-apartments (data/briefs/nl/best-voice-assistant-speaker-for-small-apartments.local.json), then rewrite with translator-agent",
     "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1847671-REG/amazon_b0bfc7wq6r_echo_spot_2024.html"
   ],
   "factCheck": {

@@ -1,9 +1,11 @@
 {
   "slug": "best-smart-light-bulbs-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-17T13:02:48.326Z",
+  "checkedAt": "2026-10-20T13:28:14.224Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "body has 2693 words, over the 1725 limit (top results average 1500): cut repetition and filler"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Checked via web search against TP-Link/Kasa listings (Auto-White follows daylight dawn to dusk, 2500-6500K), Philips Hue bridge/retailer sheets (Zigbee hub plugs into router; HomeKit via bridge), Amazon titles for lumens/E26/A19, CNN Underscored (Tapo L535E top pick, 1,100 lm). Could not confirm CNN security claim about Wyze (CNN page blocked, search found nothing): removed it everywhere. Removed unsourced LIFX/Govee/Amazon Basics sentence. Softened research-story box. WiZ assistants left as 'check maker page'. Owner total 19 matches owners.read sum (4+4+4+4+3). General explainers (800 lm ~ 60W, enclosed-fixture heat) are hedged. ASINs untouched.",

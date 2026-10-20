@@ -1,1 +1,162 @@
-[]
+[
+  {
+    "post": "does-ring-work-with-apple-homekit",
+    "name": "HOOBS Box (HSLF-3)",
+    "brand": "HOOBS",
+    "query": "HOOBS Box HomeKit Homebridge hub",
+    "candidates": [
+      {
+        "asin": "B002YNQEII",
+        "title": "Jim Henson's The Hoobs: Hoobloads of Learning and Fun",
+        "strictMatch": true,
+        "image": true
+      },
+      {
+        "asin": "B07VG6NLB6",
+        "title": "Fast & Furious Presents: Hobbs & Shaw (4K UHD)",
+        "strictMatch": false,
+        "image": true
+      },
+      {
+        "asin": "B0B1B5BJBG",
+        "title": "Hoob \"Love in Arabic\" Tote Bag",
+        "strictMatch": false,
+        "image": true
+      },
+      {
+        "asin": "B0HM2Z97N8",
+        "title": "English Titles Bundle: Barsa Hello Hoobs + Barsa Hello Hoobs + 4 more",
+        "strictMatch": true,
+        "image": true
+      },
+      {
+        "asin": "B07MKJK4GJ",
+        "title": "Hoob Flex С Stainless Steel Shaft Premium Hookah with LED Light",
+        "strictMatch": false,
+        "image": true
+      },
+      {
+        "asin": "B0HLZNN3VL",
+        "title": "6-Volume Set: Barsa Hello Hoobs + Barsa Hello + Barsa Hello + 3 more",
+        "strictMatch": true,
+        "image": true
+      },
+      {
+        "asin": "B0GC73VCHW",
+        "title": "Hoob Cyber Hookah B30",
+        "strictMatch": false,
+        "image": true
+      },
+      {
+        "asin": "B0055KMHII",
+        "title": "Los Hoobs 3 [Import espagnol]",
+        "strictMatch": true,
+        "image": true
+      },
+      {
+        "asin": "B0GC7SRFTM",
+        "title": "Hoob Cyber Hookah G30",
+        "strictMatch": false,
+        "image": true
+      },
+      {
+        "asin": "B0HFKM7WHX",
+        "title": "The Curse",
+        "strictMatch": false,
+        "image": true
+      },
+      {
+        "asin": "B000AYAR8G",
+        "title": "The Hoobs - Hoobletoodledoo [Import anglais]",
+        "strictMatch": true,
+        "image": true
+      },
+      {
+        "asin": "B002XUBDWY",
+        "title": "Jim Henson's The Hoobs: Hoobloads of Learning and Fun",
+        "strictMatch": true,
+        "image": true
+      }
+    ]
+  },
+  {
+    "post": "govee-apple-homekit",
+    "name": "Govee LED Strip Light M1 (H61E0 6.56ft / H61E1 16.4ft)",
+    "brand": "Govee",
+    "query": "Govee LED Strip Light M1 Matter",
+    "candidates": [
+      {
+        "asin": "B0H4QGF6BS",
+        "title": "Govee LED Strip Light 2, 16.4ft, RGBWWIC, 1000K to 10000K White Light, WiFi | LED Lights for Bedroom, Cabinet,",
+        "strictMatch": false,
+        "image": true
+      },
+      {
+        "asin": "B0D7MKV1CK",
+        "title": "Govee RGBWWIC LED Strip Light 2 Pro 16.4ft, Smart Control, APP, WiFi | Work with Alexa, Google Assistant Segme",
+        "strictMatch": false,
+        "image": true
+      },
+      {
+        "asin": "B0H4MBMWBG",
+        "title": "Govee LED Strip Lights 2, 9.8ft, RGBWWIC, 1000K to 10000K White Light, WiFi | LED Lights for Bedroom, Cabinet,",
+        "strictMatch": false,
+        "image": true
+      },
+      {
+        "asin": "B0H4QR7CMX",
+        "title": "Govee LED Strip Light 2, 65.6ft, RGBWWIC, LED Lights for Bedroom, 2x32.8ft | 1000K to 10000K White Light, Cabi",
+        "strictMatch": false,
+        "image": true
+      },
+      {
+        "asin": "B0D7MHL8YB",
+        "title": "Govee RGBWWIC LED Strip Light 2 Pro 6.56ft, Smart Control, APP, WiFi | Work with Alexa, Google Assistant Segme",
+        "strictMatch": false,
+        "image": true
+      },
+      {
+        "asin": "B0H6MD1V44",
+        "title": "Govee COB LED Strip Lights 2, RGBIC, 840 LEDs/m, 1000K-10000K, 16.4ft | Work with Alexa, Google Assistant, Mat",
+        "strictMatch": false,
+        "image": true
+      },
+      {
+        "asin": "B0D7MHH79D",
+        "title": "Govee RGBWWIC LED Strip Light 2 Pro 32.8ft, Smart Control, APP, WiFi | Work with Alexa, Google Assistant, Matt",
+        "strictMatch": false,
+        "image": true
+      },
+      {
+        "asin": "B0H6MDZC4R",
+        "title": "Govee COB LED Strip Lights 2, RGBIC, 840 LEDs/m, 1000K-10000K, 32.8ft | Work with Alexa, Google Assistant, Mat",
+        "strictMatch": false,
+        "image": true
+      },
+      {
+        "asin": "B0991Q94KP",
+        "title": "Govee 16.4ft RGBIC LED Strip Lights, LED Lights for Bedroom, APP Control | DIY Multiple Colors on One Line, Co",
+        "strictMatch": false,
+        "image": true
+      },
+      {
+        "asin": "B0H4QPF7WP",
+        "title": "Govee LED Strip Light 2, 32.8ft, RGBWWIC, 1000K to 10000K White Light, WiFi | LED Lights for Bedroom, Cabinet,",
+        "strictMatch": false,
+        "image": true
+      },
+      {
+        "asin": "B09VBZC2CX",
+        "title": "Govee 100ft RGBIC LED Strip Lights, Work with Alexa and Google Assistant | LED Lights for Bedroom, WiFi App Co",
+        "strictMatch": false,
+        "image": true
+      },
+      {
+        "asin": "B099S9DXT7",
+        "title": "Govee 32.8ft RGBIC LED Strip Lights, LED Lights for Bedroom, APP Control | DIY Multiple Colors on One Line, Co",
+        "strictMatch": false,
+        "image": true
+      }
+    ]
+  }
+]

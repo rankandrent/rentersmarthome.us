@@ -3,9 +3,11 @@
   "lang": "es",
   "translationOf": "no-drill-motorized-blinds",
   "pass": true,
-  "checkedAt": "2026-10-17T19:11:26.359Z",
+  "checkedAt": "2026-10-20T13:33:19.924Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "not localized yet: run localizer-agent for no-drill-motorized-blinds (data/briefs/es/no-drill-motorized-blinds.local.json), then rewrite with translator-agent"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Compared with English no-drill-motorized-blinds: same 3 products/ASINs (B0DNYKLSMZ, B0BMLFZ4CP, B0F9W85LWF), scores, owners and sources (English URLs). Removed untested/local-Amazon paragraph; Graywind voice-assistant claim softened to check-the-listing; notes block facts from English post only; internal links point to localized sister posts, remaining English link labeled; no prices.",

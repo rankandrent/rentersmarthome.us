@@ -3,9 +3,11 @@
   "lang": "nl",
   "translationOf": "how-to-cool-apartment-without-ac",
   "pass": true,
-  "checkedAt": "2026-10-17T19:25:06.761Z",
+  "checkedAt": "2026-10-20T13:36:30.378Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "not localized yet: run localizer-agent for how-to-cool-apartment-without-ac (data/briefs/nl/how-to-cool-apartment-without-ac.local.json), then rewrite with translator-agent"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "2026-10-17: compared every claim with the English post how-to-cool-apartment-without-ac (factcheck verified 2026-10-14: Apartment List, Lemonade, Scientific American). Same 12 tips, fan table, 3 products/ASINs, scores, owners research and sources; no new facts. Only additions: 20 in -> 51 cm unit conversion and a US-version 230 V/socket note on the two mains-powered fans. Notes block restates the English intro.",

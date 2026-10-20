@@ -1,425 +1,497 @@
 ---
-title: 'Beste balkzoeker voor dikke muren 2026 – 6 modellen met deep scan'
-seoTitle: 'Balkzoeker voor dikke muren (2026) – 6 modellen'
-description: De beste balkzoeker voor dikke muren meet diep door pleisterwerk en
-  dubbele gipsplaat. Vergelijk 6 modellen met deep scan, tips voor stucwerk en verhuizen.
+title: Beste balkzoeker voor dikke muren 2026 – 6 modellen met deep scan
+seoTitle: Balkzoeker voor dikke muren (2026) – 6 modellen
+description: >-
+  De beste balkzoeker voor dikke muren meet diep door pleisterwerk en dubbele
+  gipsplaat. Vergelijk 6 modellen met deep scan, tips voor stucwerk en
+  verhuizen.
 pubDate: '2026-10-17T19:00:00.000Z'
 lang: nl
 translationOf: best-stud-finder-for-thick-walls
 category: storage-decor
 keyword: balkzoeker voor dikke muren
 secondaryKeywords:
-- balkzoeker met deep scan
-- balkzoeker voor gestucte muren
-- muurscanner voor dikke muren
-- staanders vinden in pleisterwerk op latten
+  - balkzoeker met deep scan
+  - balkzoeker voor gestucte muren
+  - muurscanner voor dikke muren
+  - staanders vinden in pleisterwerk op latten
 entities:
-- stud finder
-- deep scan mode
-- lath and plaster
-- double-layer drywall
-- metal lath
-- wood stud
-- steel stud
-- AC wire detection
-- magnetic stud finder
-- Franklin Sensors ProSensor MAX
-- Franklin Sensors ProSensor M210
-- Zircon MultiScanner i520 OneStep
-- Zircon StudSensor Pro55
-- DeepScan
-- WireWarning
-- Bosch GMS 120
-- Zircon MetalliScanner m40
+  - stud finder
+  - deep scan mode
+  - lath and plaster
+  - double-layer drywall
+  - metal lath
+  - wood stud
+  - steel stud
+  - AC wire detection
+  - magnetic stud finder
+  - Franklin Sensors ProSensor MAX
+  - Franklin Sensors ProSensor M210
+  - Zircon MultiScanner i520 OneStep
+  - Zircon StudSensor Pro55
+  - DeepScan
+  - WireWarning
+  - Bosch GMS 120
+  - Zircon MetalliScanner m40
 tags:
-- balkzoekers
-- ophangen aan de muur
-- gereedschap
-- huurders
+  - balkzoekers
+  - ophangen aan de muur
+  - gereedschap
+  - huurders
 articleType: roundup
 funnel: bofu
 productStyle: pros-cons
 productCount: 6
 readingTime: 11
 tldr:
-- 'De Franklin Sensors ProSensor MAX is onze keuze voor dik pleisterwerk: de fabrikant
-  noemt een maximale detectiediepte van 6,4 cm (2.5 in) en een modus voor pleisterwerk
-  op houten latten.'
-- 'De Zircon StudSensor Pro55 is de voordelige balkzoeker met deep scan voor dikke
-  gipsplaat: in DeepScan-modus verdubbelt hij zijn normale diepte tot 3,8 cm (1.5
-  in).'
-- Bij oud pleisterwerk op latten vindt de Zircon MetalliScanner m40 de spijkers
-  in de latten en staanders, in plaats van te gokken op dichtheid.
-- Heel dik pleisterwerk of pleisterwerk op metaalgaas kan elke elektronische balkzoeker
-  te slim af zijn, dus controleer een staander voordat je een echt gat boort.
+  - >-
+    De Franklin Sensors ProSensor MAX is onze keuze voor dik pleisterwerk: de
+    fabrikant noemt een maximale detectiediepte van 6,4 cm (2.5 in) en een modus
+    voor pleisterwerk op houten latten.
+  - >-
+    De Zircon StudSensor Pro55 is de voordelige balkzoeker met deep scan voor
+    dikke gipsplaat: in DeepScan-modus verdubbelt hij zijn normale diepte tot
+    3,8 cm (1.5 in).
+  - >-
+    Bij oud pleisterwerk op latten vindt de Zircon MetalliScanner m40 de
+    spijkers in de latten en staanders, in plaats van te gokken op dichtheid.
+  - >-
+    Heel dik pleisterwerk of pleisterwerk op metaalgaas kan elke elektronische
+    balkzoeker te slim af zijn, dus controleer een staander voordat je een echt
+    gat boort.
 products:
-- name: Franklin Sensors ProSensor MAX
-  brand: Franklin Sensors
-  query: Franklin Sensors ProSensor MAX stud finder
-  badge: Beste voor dik pleisterwerk
-  summary: Franklins balkzoeker met de grootste meetdiepte, gemaakt voor pleisterwerk
-    op latten, dubbel beplate of betegelde wanden. De 13 sensoren lezen in één keer
-    een breed gebied.
-  renterNote: Een handgereedschap dat geen sporen achterlaat; markeer staanders
-    met potlood of schilderstape voordat je iets ophangt.
-  pros:
-  - Franklin noemt een maximale detectiediepte van 6,4 cm (2.5 in), de grootste
-    hier
-  - Een modus voor pleisterwerk op latten, dubbel beplate wanden en grote tegels,
-    zonder kalibratie
-  - 13 sensoren tonen de positie van de staander in één keer
-  cons:
-  - Detectie bij dik of onregelmatig pleisterwerk is niet gegarandeerd
-  - Zit aan de bovenkant van de prijsklasse
-  scores:
-    install: 10
-    reversibility: 10
-    value: 8
-    portability: 10
-  scoreNote: Handgereedschap zonder installatie; duurder dan eenvoudige balkzoekers,
-    maar met het grootste opgegeven bereik hier.
-  asin: B0D3MDJWVC
-  image:
-    url: https://m.media-amazon.com/images/I/31+9bKL9N5L._SL500_.jpg
-    width: 500
-    height: 274
-  amazonTitle: Franklin Sensors ProSensor MAX 13-Sensor Stud Finder, 2.5-in Deep
-    Detection | High Accuracy Wood and Metal Stud Finder Wall Scanner For Thick
-    Walls, Plaster, and OSB, Made in the USA, Built-in Level
-  gallery:
-  - url: https://m.media-amazon.com/images/I/41ceSVU-ufL._SL500_.jpg
-    width: 500
-    height: 500
-  - url: https://m.media-amazon.com/images/I/51MvjIqF9fL._SL500_.jpg
-    width: 500
-    height: 500
-  - url: https://m.media-amazon.com/images/I/51tp32q34lL._SL500_.jpg
-    width: 500
-    height: 500
-  - url: https://m.media-amazon.com/images/I/51aPGGOWqoL._SL500_.jpg
-    width: 500
-    height: 500
-- name: Franklin Sensors ProSensor M210
-  brand: Franklin Sensors
-  query: Franklin Sensors ProSensor M210 stud finder
-  badge: Beste voor gipsplaat met leidingdetectie
-  summary: Franklins model met 13 sensoren, detectie van stroomvoerende leidingen
-    en een meetdiepte van 4,3 cm (1.7 in), het best voor dikkere gipsplaat of dun
-    pleisterwerk.
-  renterNote: Handgereedschap zonder sporen, dus bij de oplevering hoef je niets
-    te plamuren.
-  pros:
-  - 13 sensoren meten tot 4,3 cm (1.7 in) diep
-  - Een lampje gaat branden als hij een stroomvoerende leiding detecteert
-  - Toont het staandergebied in één keer in plaats van heen en weer schuiven
-  cons:
-  - Franklin zegt geen detectie te kunnen garanderen boven oude houten latten
-  - Minder geschikt voor zwaar pleisterwerk dan de MAX
-  scores:
-    install: 10
-    reversibility: 10
-    value: 8
-    portability: 10
-  scoreNote: Handgereedschap zonder installatie; midden- tot hogere prijsklasse,
-    het sterkst op gipsplaat.
-  asin: B0917VXLDK
-  image:
-    url: https://m.media-amazon.com/images/I/31sFkzKwYKL._SL500_.jpg
-    width: 500
-    height: 500
-  amazonTitle: Franklin Sensors ProSensor M210 13-Sensor Stud Finder, Live Wire
-    Detection | High-Accuracy Stud Finder Wall Scanner, Wood and Metal Stud Detector,
-    Made in the USA, Shows Full Width of Studs
-  gallery:
-  - url: https://m.media-amazon.com/images/I/51g9tN+zAuL._SL500_.jpg
-    width: 500
-    height: 500
-  - url: https://m.media-amazon.com/images/I/5102rkDYFAL._SL500_.jpg
-    width: 500
-    height: 500
-  - url: https://m.media-amazon.com/images/I/514nnQP6v2L._SL500_.jpg
-    width: 500
-    height: 500
-  - url: https://m.media-amazon.com/images/I/51gaeWVxs4L._SL500_.jpg
-    width: 500
-    height: 415
-  owners:
-    read: 2
-    praise:
-    - Breed ledscherm dat goed af te lezen is
-    - De leidingmeter en de ingebouwde waterpas vallen in de smaak
-    complaints:
-    - AA-batterijen niet meegeleverd en moeten af en toe worden vervangen
-    sources:
-    - title: Franklin Sensors ProSensor M210
-      url: https://franklinsensors.com/prosensor-m210/
-- name: Zircon MultiScanner i520 OneStep
-  brand: Zircon
-  query: Zircon MultiScanner i520 OneStep stud finder
-  badge: Beste multiscanner
-  summary: Een multiscanner met een DeepScan-modus voor staanders en aparte modi
-    voor stroomvoerende leidingen en metaal.
-  renterNote: Handscanner die niets op de muur achterlaat.
-  pros:
-  - DeepScan-modus tot 3,8 cm (38 mm, 1.5 in)
-  - Detectie van stroomvoerende, onafgeschermde leidingen tot 5 cm (50 mm, 2 in)
-  - IJzerhoudend metaal zoals wapening tot 7,6 cm (76 mm, 3 in)
-  cons:
-  - 3,8 cm DeepScan kan bij dik pleisterwerk net te weinig zijn
-  - Merkbaar duurder dan eenvoudige balkzoekers
-  scores:
-    install: 10
-    reversibility: 10
-    value: 7
-    portability: 10
-  scoreNote: Handgereedschap zonder installatie; premiumprijs voor een staanderdiepte
-    vergelijkbaar met goedkopere Zircon-modellen.
-  asin: B001ACRPKK
-  image:
-    url: https://m.media-amazon.com/images/I/41zd1V3CibL._SL500_.jpg
-    width: 241
-    height: 500
-  amazonTitle: Zircon® MultiScanner™ i520 OneStep® Stud Finder with Metal & AC Detection
-    | Find wood and metal studs, hidden metal and live AC wiring with one tool for
-    hanging, mounting and remodeling projects
-  gallery:
-  - url: https://m.media-amazon.com/images/I/419jqr3NwLL._SL500_.jpg
-    width: 370
-    height: 500
-  - url: https://m.media-amazon.com/images/I/41lGuvla8pL._SL500_.jpg
-    width: 235
-    height: 500
-  - url: https://m.media-amazon.com/images/I/51iHmOiyT8L._SL500_.jpg
-    width: 453
-    height: 500
-- name: Zircon StudSensor Pro55 Stud Finder with Deep Scan
-  brand: Zircon
-  query: Zircon StudSensor Pro55 Stud Finder with Deep Scan
-  badge: Beste voordelige deep scan
-  summary: Een eenvoudige Zircon gericht op staanders, waarvan de DeepScan-modus
-    de normale meetdiepte verdubbelt tot 3,8 cm (1.5 in), met lcd-scherm, SpotLite-aanwijzer
-    en WireWarning.
-  renterNote: Handgereedschap dat geen sporen achterlaat, dus veilig op elke huurmuur.
-  pros:
-  - DeepScan haalt 3,8 cm (38 mm, 1.5 in) tegenover 1,9 cm (19 mm, 0.75 in) in StudScan-modus
-  - WireWarning waarschuwt voor stroomvoerende, onafgeschermde leidingen tot 5 cm
-    (50 mm, 2 in) diep
-  - SpotLite-aanwijzer projecteert een pijl op de muur bij de rand van de staander
-  cons:
-  - 3,8 cm DeepScan is niet genoeg voor zwaar pleisterwerk op latten; de diepte
-    hangt af van vocht, structuur en verf
-  - Eigenaren van verwante Zircon DeepScan-modellen melden missers en wisselende
-    metingen op pleisterwerk en tegels
-  scores:
-    install: 10
-    reversibility: 10
-    value: 9
-    portability: 10
-  scoreNote: Handgereedschap zonder installatie; DeepScan-diepte en leidingwaarschuwing
-    in een lagere prijsklasse.
-  asin: B0GZWS1324
-  amazonTitle: Zircon® StudSensor™ Pro55 Stud Finder with Deep Scan & Live Wire
-    Detection
-  matchName: Zircon StudSensor Pro55
-  owners:
-    read: 6
-    praise:
-    - Makkelijk te gebruiken op gipsplaat, en de pijl markeert beide randen van
-      de staander (eigenaren van het verwante HD55-model)
-    - DeepScan werkt op gipsplaat, en sommige eigenaren kregen ook op pleisterwerk
-      bruikbare metingen
-    complaints:
-    - Zircon DeepScan-apparaten hebben vaak moeite met oud of 2,5 cm (1 in) dik
-      pleisterwerk (eigenaren van verwante modellen op fora)
-    - Sommige eigenaren van het verwante HD55-model vonden helemaal geen staanders
-      of kregen wisselende resultaten achter rabatdelen of tegels
-    sources:
-    - title: Sawdust Zone forum thread on stud finders
-      url: https://www.sawdustzone.org/forum/discussions/home-improvements-maintenance/20375-is-there-such-a-thing-as-a-good-stud-finder
-    - title: Garage Journal forum post on stud finders and plaster
-      url: https://www.garagejournal.com/forum/goto/post?id=1773355
-    - title: Tilers Forums stud finder thread
-      url: https://www.tilersforums.com/threads/stud-finder.27867
-    - title: Home Depot Zircon StudSensor HD55 reviews (related model)
-      url: https://www.homedepot.com/p/reviews/Zircon-StudSensor-HD55-Stud-Finder-65945/205143494/3
-  image:
-    url: https://m.media-amazon.com/images/I/41NeDRLXfRL._SL500_.jpg
-    width: 500
-    height: 500
-  gallery:
-  - url: https://m.media-amazon.com/images/I/51YliE9xh0L._SL500_.jpg
-    width: 500
-    height: 500
-  - url: https://m.media-amazon.com/images/I/51fRgDKw9eL._SL500_.jpg
-    width: 500
-    height: 500
-- name: Bosch GMS 120
-  brand: Bosch
-  query: Bosch GMS 120 digital multi scanner
-  badge: Beste voor metaal- en leidingdiepte
-  summary: Een multimateriaalscanner met de standen Metaal, Gipsplaat en Stroomvoerende
-    leiding en een markeergat in het midden.
-  renterNote: Met het markeergat teken je af met potlood in plaats van proefgaten
-    te boren.
-  pros:
-  - Detecteert magnetisch metaal tot 120 mm, niet-magnetisch metaal tot 80 mm en
-    stroomvoerende leidingen tot 50 mm
-  - Center Finder met markeergat
-  - Ledring toont de status in rood, geel of groen
-  cons:
-  - Hout detecteert hij tot 38 mm, niet dieper dan Zircon DeepScan voor staanders
-  - Groter en logger dan de andere
-  scores:
-    install: 10
-    reversibility: 10
-    value: 8
-    portability: 9
-  scoreNote: Handgereedschap zonder installatie; grotere behuizing, multiscanner
-    in de middenklasse.
-  asin: B0DBWSSPT2
-  image:
-    url: https://m.media-amazon.com/images/I/41D3KR1ySkL._SL500_.jpg
-    width: 500
-    height: 500
-  amazonTitle: BOSCH GMS120-27 Professional Wall Scanner, Stud Finder, Live Wire
-    Detector | Multi-function wall detector scanner with center indication, metal
-    stud finder for electricians, plumbers & contractors
-  gallery:
-  - url: https://m.media-amazon.com/images/I/51PT6OO42ML._SL500_.jpg
-    width: 500
-    height: 500
-  - url: https://m.media-amazon.com/images/I/41qxOzqoSPL._SL500_.jpg
-    width: 500
-    height: 500
-  - url: https://m.media-amazon.com/images/I/51+7JXy5lZL._SL500_.jpg
-    width: 500
-    height: 500
-  - url: https://m.media-amazon.com/images/I/51D31IZezZL._SL500_.jpg
-    width: 500
-    height: 500
-  owners:
-    read: 3
-    praise:
-    - Vindt metalen en houten staanders betrouwbaar; in één review werd het midden
-      van een koperen leiding elke keer gevonden
-    - In één review werd de stroomvoerende leiding snel gevonden
-    complaints:
-    - Leidingdetectie wisselvallig; statische lading zorgt voor valse meldingen
-    - Eén reviewer vond geen staanders in nieuwe gipsplaat
-    sources:
-    - title: One Project Closer Bosch GMS120 review
-      url: https://oneprojectcloser.com/bosch-gms120-wall-scanner-review
-    - title: Home Depot Bosch GMS120 reviews
-      url: https://www.homedepot.com/p/reviews/Bosch-Digital-Wall-Scanner-with-Modes-for-Wood-Metal-and-AC-Wiring-GMS120/202850662/2
-    - title: Travis Perkins Bosch GMS 120 reviews
-      url: https://travisperkins.co.uk/levelling-measuring-and-detecting-tools/bosch-gms-120-laser-multi-detector/p/189471
-- name: Zircon MetalliScanner m40
-  brand: Zircon
-  query: Zircon MetalliScanner m40 metal scanner
-  badge: Beste voor bevestigingen in pleisterwerk
-  summary: Een elektronische metaalscanner die de spijkers en schroeven vindt waarmee
-    staanders en latten vastzitten, in plaats van dichtheid te meten.
-  renterNote: Handgereedschap zonder sporen; markeer plekken met schilderstape of
-    potlood.
-  pros:
-  - IJzerhoudend metaal tot ongeveer 10,2 cm (102 mm, 4 in) en non-ferrometaal tot
-    ongeveer 5,1 cm (51 mm, 2 in)
-  - Modi Wide Scan en Pinpoint Scan
-  - Opgegeven voor gipsplaat, beton, pleisterwerk op latten en buitenpleister
-  cons:
-  - Vindt alleen metaal, geen houten staanders rechtstreeks
-  - Er bestaan meerdere modelnummers, dus kijk goed op de verpakking
-  scores:
-    install: 10
-    reversibility: 10
-    value: 8
-    portability: 10
-  scoreNote: Handgereedschap zonder installatie; gespecialiseerde scanner in de
-    middenklasse die goed bij pleisterwerk past.
-  asin: B000VKJ1MM
-  image:
-    url: https://m.media-amazon.com/images/I/31kwCoPDy5L._SL500_.jpg
-    width: 500
-    height: 500
-  amazonTitle: Zircon® MetalliScanner® m40 Electronic Metal Detector, Up to 4 in.
-    Deep | Ideal for lath and plaster walls and reclaimed lumber; locates hidden
-    metal before drilling, cutting or remodeling
-  gallery:
-  - url: https://m.media-amazon.com/images/I/51lVIGPfQ2L._SL500_.jpg
-    width: 500
-    height: 500
-  - url: https://m.media-amazon.com/images/I/41xvXvc3fUL._SL500_.jpg
-    width: 500
-    height: 500
-  - url: https://m.media-amazon.com/images/I/518flVIWMeL._SL500_.jpg
-    width: 500
-    height: 500
-  - url: https://m.media-amazon.com/images/I/41qG--F1d1L._SL500_.jpg
-    width: 500
-    height: 500
-  owners:
-    read: 1
-    praise:
-    - Vindt ijzerhoudend metaal tot 10,2 cm (4 in) en geeft een duidelijk lampje
-      en geluidssignaal bij detectie
-    complaints:
-    - Geen terugkerende klacht in de ene eigenaarsreactie die we lazen
-    sources:
-    - title: Walmart Zircon MetalliScanner m40 listing
-      url: https://www.walmart.com/ip/3519189735
-      reviews: 5
+  - name: Franklin Sensors ProSensor MAX
+    brand: Franklin Sensors
+    query: Franklin Sensors ProSensor MAX stud finder
+    badge: Beste voor dik pleisterwerk
+    summary: >-
+      Franklins balkzoeker met de grootste meetdiepte, gemaakt voor pleisterwerk
+      op latten, dubbel beplate of betegelde wanden. De 13 sensoren lezen in één
+      keer een breed gebied.
+    renterNote: >-
+      Een handgereedschap dat geen sporen achterlaat; markeer staanders met
+      potlood of schilderstape voordat je iets ophangt.
+    pros:
+      - >-
+        Franklin noemt een maximale detectiediepte van 6,4 cm (2.5 in), de
+        grootste hier
+      - >-
+        Een modus voor pleisterwerk op latten, dubbel beplate wanden en grote
+        tegels, zonder kalibratie
+      - 13 sensoren tonen de positie van de staander in één keer
+    cons:
+      - Detectie bij dik of onregelmatig pleisterwerk is niet gegarandeerd
+      - Zit aan de bovenkant van de prijsklasse
+    scores:
+      install: 10
+      reversibility: 10
+      value: 8
+      portability: 10
+    scoreNote: >-
+      Handgereedschap zonder installatie; duurder dan eenvoudige balkzoekers,
+      maar met het grootste opgegeven bereik hier.
+    asin: B0D3MDJWVC
+    image:
+      url: 'https://m.media-amazon.com/images/I/31+9bKL9N5L._SL500_.jpg'
+      width: 500
+      height: 274
+    amazonTitle: >-
+      Franklin Sensors ProSensor MAX 13-Sensor Stud Finder, 2.5-in Deep
+      Detection | High Accuracy Wood and Metal Stud Finder Wall Scanner For
+      Thick Walls, Plaster, and OSB, Made in the USA, Built-in Level
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41ceSVU-ufL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51MvjIqF9fL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51tp32q34lL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51aPGGOWqoL._SL500_.jpg'
+        width: 500
+        height: 500
+  - name: Franklin Sensors ProSensor M210
+    brand: Franklin Sensors
+    query: Franklin Sensors ProSensor M210 stud finder
+    badge: Beste voor gipsplaat met leidingdetectie
+    summary: >-
+      Franklins model met 13 sensoren, detectie van stroomvoerende leidingen en
+      een meetdiepte van 4,3 cm (1.7 in), het best voor dikkere gipsplaat of dun
+      pleisterwerk.
+    renterNote: >-
+      Handgereedschap zonder sporen, dus bij de oplevering hoef je niets te
+      plamuren.
+    pros:
+      - '13 sensoren meten tot 4,3 cm (1.7 in) diep'
+      - Een lampje gaat branden als hij een stroomvoerende leiding detecteert
+      - Toont het staandergebied in één keer in plaats van heen en weer schuiven
+    cons:
+      - >-
+        Franklin zegt geen detectie te kunnen garanderen boven oude houten
+        latten
+      - Minder geschikt voor zwaar pleisterwerk dan de MAX
+    scores:
+      install: 10
+      reversibility: 10
+      value: 8
+      portability: 10
+    scoreNote: >-
+      Handgereedschap zonder installatie; midden- tot hogere prijsklasse, het
+      sterkst op gipsplaat.
+    asin: B0917VXLDK
+    image:
+      url: 'https://m.media-amazon.com/images/I/31sFkzKwYKL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Franklin Sensors ProSensor M210 13-Sensor Stud Finder, Live Wire Detection
+      | High-Accuracy Stud Finder Wall Scanner, Wood and Metal Stud Detector,
+      Made in the USA, Shows Full Width of Studs
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51g9tN+zAuL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/5102rkDYFAL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/514nnQP6v2L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51gaeWVxs4L._SL500_.jpg'
+        width: 500
+        height: 415
+    owners:
+      read: 2
+      praise:
+        - Breed ledscherm dat goed af te lezen is
+        - De leidingmeter en de ingebouwde waterpas vallen in de smaak
+      complaints:
+        - AA-batterijen niet meegeleverd en moeten af en toe worden vervangen
+      sources:
+        - title: Franklin Sensors ProSensor M210
+          url: 'https://franklinsensors.com/prosensor-m210/'
+  - name: Zircon MultiScanner i520 OneStep
+    brand: Zircon
+    query: Zircon MultiScanner i520 OneStep stud finder
+    badge: Beste multiscanner
+    summary: >-
+      Een multiscanner met een DeepScan-modus voor staanders en aparte modi voor
+      stroomvoerende leidingen en metaal.
+    renterNote: Handscanner die niets op de muur achterlaat.
+    pros:
+      - 'DeepScan-modus tot 3,8 cm (38 mm, 1.5 in)'
+      - >-
+        Detectie van stroomvoerende, onafgeschermde leidingen tot 5 cm (50 mm, 2
+        in)
+      - 'IJzerhoudend metaal zoals wapening tot 7,6 cm (76 mm, 3 in)'
+    cons:
+      - '3,8 cm DeepScan kan bij dik pleisterwerk net te weinig zijn'
+      - Merkbaar duurder dan eenvoudige balkzoekers
+    scores:
+      install: 10
+      reversibility: 10
+      value: 7
+      portability: 10
+    scoreNote: >-
+      Handgereedschap zonder installatie; premiumprijs voor een staanderdiepte
+      vergelijkbaar met goedkopere Zircon-modellen.
+    asin: B001ACRPKK
+    image:
+      url: 'https://m.media-amazon.com/images/I/41zd1V3CibL._SL500_.jpg'
+      width: 241
+      height: 500
+    amazonTitle: >-
+      Zircon® MultiScanner™ i520 OneStep® Stud Finder with Metal & AC Detection
+      | Find wood and metal studs, hidden metal and live AC wiring with one tool
+      for hanging, mounting and remodeling projects
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/419jqr3NwLL._SL500_.jpg'
+        width: 370
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41lGuvla8pL._SL500_.jpg'
+        width: 235
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51iHmOiyT8L._SL500_.jpg'
+        width: 453
+        height: 500
+  - name: Zircon StudSensor Pro55 Stud Finder with Deep Scan
+    brand: Zircon
+    query: Zircon StudSensor Pro55 Stud Finder with Deep Scan
+    badge: Beste voordelige deep scan
+    summary: >-
+      Een eenvoudige Zircon gericht op staanders, waarvan de DeepScan-modus de
+      normale meetdiepte verdubbelt tot 3,8 cm (1.5 in), met lcd-scherm,
+      SpotLite-aanwijzer en WireWarning.
+    renterNote: 'Handgereedschap dat geen sporen achterlaat, dus veilig op elke huurmuur.'
+    pros:
+      - >-
+        DeepScan haalt 3,8 cm (38 mm, 1.5 in) tegenover 1,9 cm (19 mm, 0.75 in)
+        in StudScan-modus
+      - >-
+        WireWarning waarschuwt voor stroomvoerende, onafgeschermde leidingen tot
+        5 cm (50 mm, 2 in) diep
+      - >-
+        SpotLite-aanwijzer projecteert een pijl op de muur bij de rand van de
+        staander
+    cons:
+      - >-
+        3,8 cm DeepScan is niet genoeg voor zwaar pleisterwerk op latten; de
+        diepte hangt af van vocht, structuur en verf
+      - >-
+        Eigenaren van verwante Zircon DeepScan-modellen melden missers en
+        wisselende metingen op pleisterwerk en tegels
+    scores:
+      install: 10
+      reversibility: 10
+      value: 9
+      portability: 10
+    scoreNote: >-
+      Handgereedschap zonder installatie; DeepScan-diepte en leidingwaarschuwing
+      in een lagere prijsklasse.
+    asin: B0GZWS1324
+    amazonTitle: >-
+      Zircon® StudSensor™ Pro55 Stud Finder with Deep Scan & Live Wire Detection
+      | Locates wood and metal stud edges up to 1 1/2 in. deep with one-touch
+      calibration and visual target guidance
+    matchName: Zircon StudSensor Pro55
+    owners:
+      read: 6
+      praise:
+        - >-
+          Makkelijk te gebruiken op gipsplaat, en de pijl markeert beide randen
+          van de staander (eigenaren van het verwante HD55-model)
+        - >-
+          DeepScan werkt op gipsplaat, en sommige eigenaren kregen ook op
+          pleisterwerk bruikbare metingen
+      complaints:
+        - >-
+          Zircon DeepScan-apparaten hebben vaak moeite met oud of 2,5 cm (1 in)
+          dik pleisterwerk (eigenaren van verwante modellen op fora)
+        - >-
+          Sommige eigenaren van het verwante HD55-model vonden helemaal geen
+          staanders of kregen wisselende resultaten achter rabatdelen of tegels
+      sources:
+        - title: Sawdust Zone forum thread on stud finders
+          url: >-
+            https://www.sawdustzone.org/forum/discussions/home-improvements-maintenance/20375-is-there-such-a-thing-as-a-good-stud-finder
+        - title: Garage Journal forum post on stud finders and plaster
+          url: 'https://www.garagejournal.com/forum/goto/post?id=1773355'
+        - title: Tilers Forums stud finder thread
+          url: 'https://www.tilersforums.com/threads/stud-finder.27867'
+        - title: Home Depot Zircon StudSensor HD55 reviews (related model)
+          url: >-
+            https://www.homedepot.com/p/reviews/Zircon-StudSensor-HD55-Stud-Finder-65945/205143494/3
+    image:
+      url: 'https://m.media-amazon.com/images/I/41NeDRLXfRL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51YliE9xh0L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51fRgDKw9eL._SL500_.jpg'
+        width: 500
+        height: 500
+  - name: Bosch GMS 120
+    brand: Bosch
+    query: Bosch GMS 120 digital multi scanner
+    badge: Beste voor metaal- en leidingdiepte
+    summary: >-
+      Een multimateriaalscanner met de standen Metaal, Gipsplaat en
+      Stroomvoerende leiding en een markeergat in het midden.
+    renterNote: >-
+      Met het markeergat teken je af met potlood in plaats van proefgaten te
+      boren.
+    pros:
+      - >-
+        Detecteert magnetisch metaal tot 120 mm, niet-magnetisch metaal tot 80
+        mm en stroomvoerende leidingen tot 50 mm
+      - Center Finder met markeergat
+      - 'Ledring toont de status in rood, geel of groen'
+    cons:
+      - >-
+        Hout detecteert hij tot 38 mm, niet dieper dan Zircon DeepScan voor
+        staanders
+      - Groter en logger dan de andere
+    scores:
+      install: 10
+      reversibility: 10
+      value: 8
+      portability: 9
+    scoreNote: >-
+      Handgereedschap zonder installatie; grotere behuizing, multiscanner in de
+      middenklasse.
+    asin: B0DBWSSPT2
+    image:
+      url: 'https://m.media-amazon.com/images/I/41D3KR1ySkL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      BOSCH GMS120-27 Professional Wall Scanner, Stud Finder, Live Wire Detector
+      | Multi-function wall detector scanner with center indication, metal stud
+      finder for electricians, plumbers & contractors
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51PT6OO42ML._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41qxOzqoSPL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51+7JXy5lZL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51D31IZezZL._SL500_.jpg'
+        width: 500
+        height: 500
+    owners:
+      read: 3
+      praise:
+        - >-
+          Vindt metalen en houten staanders betrouwbaar; in één review werd het
+          midden van een koperen leiding elke keer gevonden
+        - In één review werd de stroomvoerende leiding snel gevonden
+      complaints:
+        - >-
+          Leidingdetectie wisselvallig; statische lading zorgt voor valse
+          meldingen
+        - Eén reviewer vond geen staanders in nieuwe gipsplaat
+      sources:
+        - title: One Project Closer Bosch GMS120 review
+          url: 'https://oneprojectcloser.com/bosch-gms120-wall-scanner-review'
+        - title: Home Depot Bosch GMS120 reviews
+          url: >-
+            https://www.homedepot.com/p/reviews/Bosch-Digital-Wall-Scanner-with-Modes-for-Wood-Metal-and-AC-Wiring-GMS120/202850662/2
+        - title: Travis Perkins Bosch GMS 120 reviews
+          url: >-
+            https://travisperkins.co.uk/levelling-measuring-and-detecting-tools/bosch-gms-120-laser-multi-detector/p/189471
+  - name: Zircon MetalliScanner m40
+    brand: Zircon
+    query: Zircon MetalliScanner m40 metal scanner
+    badge: Beste voor bevestigingen in pleisterwerk
+    summary: >-
+      Een elektronische metaalscanner die de spijkers en schroeven vindt waarmee
+      staanders en latten vastzitten, in plaats van dichtheid te meten.
+    renterNote: >-
+      Handgereedschap zonder sporen; markeer plekken met schilderstape of
+      potlood.
+    pros:
+      - >-
+        IJzerhoudend metaal tot ongeveer 10,2 cm (102 mm, 4 in) en
+        non-ferrometaal tot ongeveer 5,1 cm (51 mm, 2 in)
+      - Modi Wide Scan en Pinpoint Scan
+      - >-
+        Opgegeven voor gipsplaat, beton, pleisterwerk op latten en
+        buitenpleister
+    cons:
+      - 'Vindt alleen metaal, geen houten staanders rechtstreeks'
+      - 'Er bestaan meerdere modelnummers, dus kijk goed op de verpakking'
+    scores:
+      install: 10
+      reversibility: 10
+      value: 8
+      portability: 10
+    scoreNote: >-
+      Handgereedschap zonder installatie; gespecialiseerde scanner in de
+      middenklasse die goed bij pleisterwerk past.
+    asin: B000VKJ1MM
+    image:
+      url: 'https://m.media-amazon.com/images/I/31kwCoPDy5L._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Zircon® MetalliScanner® m40 Electronic Metal Detector, Up to 4 in. Deep |
+      Ideal for lath and plaster walls and reclaimed lumber; locates hidden
+      metal before drilling, cutting or remodeling
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51lVIGPfQ2L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41xvXvc3fUL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/518flVIWMeL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41qG--F1d1L._SL500_.jpg'
+        width: 500
+        height: 500
+    owners:
+      read: 1
+      praise:
+        - >-
+          Vindt ijzerhoudend metaal tot 10,2 cm (4 in) en geeft een duidelijk
+          lampje en geluidssignaal bij detectie
+      complaints:
+        - Geen terugkerende klacht in de ene eigenaarsreactie die we lazen
+      sources:
+        - title: Walmart Zircon MetalliScanner m40 listing
+          url: 'https://www.walmart.com/ip/3519189735'
+          reviews: 5
 sources:
-- title: Franklin Sensors ProSensor MAX (Franklin Sensors)
-  url: https://franklinsensors.com/prosensor-max/
-- title: Franklin Sensors ProSensor M210 (Franklin Sensors)
-  url: https://franklinsensors.com/prosensor-m210/
-- title: Franklin ProSensor M210 review (Pro Tool Reviews)
-  url: https://www.protoolreviews.com/?p=132572
-- title: Zircon MultiScanner i520 OneStep (True Value)
-  url: https://www.truevalue.com/product/onestep-multiscanner-stud-metal-electrical-finder-i520/
-- title: Zircon StudSensor Pro55 (Zircon)
-  url: https://www.zircon.com/products/studsensor-pro55
-- title: Zircon 74239 StudSensor Pro55 Stud Finder (SupplyHouse)
-  url: https://www.supplyhouse.com/Zircon-74239-StudSensor-Pro55-Stud-Finder
-- title: Zircon StudSensor Pro55 SL Stud Finder (Do it Best)
-  url: https://www.doitbest.com/product/360252/zircon-studsensor-pro55-sl-stud-finder-360252
-- title: Zircon MetalliScanner m40 (RONA)
-  url: https://rona.ca/en/product/zircon-metalliscanner-m40-scan-depth-object-detection-finder-zir62518-331005146
-- title: Stud finder (Wikipedia)
-  url: https://en.wikipedia.org/wiki/Stud_finder
-- title: How do stud finders work? (HowStuffWorks)
-  url: https://home.howstuffworks.com/question271.htm
+  - title: Franklin Sensors ProSensor MAX (Franklin Sensors)
+    url: 'https://franklinsensors.com/prosensor-max/'
+  - title: Franklin Sensors ProSensor M210 (Franklin Sensors)
+    url: 'https://franklinsensors.com/prosensor-m210/'
+  - title: Franklin ProSensor M210 review (Pro Tool Reviews)
+    url: 'https://www.protoolreviews.com/?p=132572'
+  - title: Zircon MultiScanner i520 OneStep (True Value)
+    url: >-
+      https://www.truevalue.com/product/onestep-multiscanner-stud-metal-electrical-finder-i520/
+  - title: Zircon StudSensor Pro55 (Zircon)
+    url: 'https://www.zircon.com/products/studsensor-pro55'
+  - title: Zircon 74239 StudSensor Pro55 Stud Finder (SupplyHouse)
+    url: 'https://www.supplyhouse.com/Zircon-74239-StudSensor-Pro55-Stud-Finder'
+  - title: Zircon StudSensor Pro55 SL Stud Finder (Do it Best)
+    url: >-
+      https://www.doitbest.com/product/360252/zircon-studsensor-pro55-sl-stud-finder-360252
+  - title: Zircon MetalliScanner m40 (RONA)
+    url: >-
+      https://rona.ca/en/product/zircon-metalliscanner-m40-scan-depth-object-detection-finder-zir62518-331005146
+  - title: Stud finder (Wikipedia)
+    url: 'https://en.wikipedia.org/wiki/Stud_finder'
+  - title: How do stud finders work? (HowStuffWorks)
+    url: 'https://home.howstuffworks.com/question271.htm'
 reviewedDate: '2026-10-15'
 faqs:
-- q: Welke balkzoeker werkt het best bij dikke muren?
-  a: De Franklin Sensors ProSensor MAX heeft met 6,4 cm (2.5 in) het grootste opgegeven
-    bereik van onze keuzes, plus een modus voor pleisterwerk op latten en dubbel
-    beplate wanden. Toch garandeert Franklin geen detectie bij dik of onregelmatig
-    pleisterwerk.
-- q: Wat is de deep scan-modus op een balkzoeker?
-  a: De deep scan-modus verhoogt de gevoeligheid van de sensor, zodat hij dieper
-    in de muur kijkt. Op de Zircon StudSensor Pro55 haalt DeepScan 3,8 cm (1.5 in)
-    tegenover 1,9 cm (0.75 in) in de normale StudScan-modus, ten koste van een bredere,
-    minder precieze meting.
-- q: Werkt een balkzoeker op gestucte muren?
-  a: Soms. Balkzoekers die op dichtheid meten hebben moeite met dicht, oneffen pleisterwerk
-    en houten latten, en metaalgaas kan overal valse meldingen geven. Een metaalscanner
-    zoals de Zircon MetalliScanner m40, die de spijkers van latten en staanders
-    vindt, is bij oud pleisterwerk vaak betrouwbaarder.
-- q: Hoe diep kan een balkzoeker meten?
-  a: Eenvoudige balkzoekers meten ongeveer 1,9 cm (0.75 in), deep scan-modi ongeveer
-    3,8 cm (1.5 in), en de Franklin ProSensor MAX noemt 6,4 cm (2.5 in). Franklins
-    eigen handleiding geeft ongeveer 4,4 cm (1.75 in) voor houten staanders. Vocht,
-    structuur, verf en de dichtheid van de muur verminderen de diepte in de praktijk.
-- q: Is een magnetische balkzoeker beter voor oude gestucte muren?
-  a: Een magnetische balkzoeker kan een goedkope reserve zijn bij pleisterwerk,
-    omdat hij de spijkers vindt waarmee de latten aan elke staander vastzitten,
-    maar dik pleisterwerk verzwakt de aantrekkingskracht. Een elektronische metaalscanner
-    meet voor dezelfde klus dieper.
+  - q: Welke balkzoeker werkt het best bij dikke muren?
+    a: >-
+      De Franklin Sensors ProSensor MAX heeft met 6,4 cm (2.5 in) het grootste
+      opgegeven bereik van onze keuzes, plus een modus voor pleisterwerk op
+      latten en dubbel beplate wanden. Toch garandeert Franklin geen detectie
+      bij dik of onregelmatig pleisterwerk.
+  - q: Wat is de deep scan-modus op een balkzoeker?
+    a: >-
+      De deep scan-modus verhoogt de gevoeligheid van de sensor, zodat hij
+      dieper in de muur kijkt. Op de Zircon StudSensor Pro55 haalt DeepScan 3,8
+      cm (1.5 in) tegenover 1,9 cm (0.75 in) in de normale StudScan-modus, ten
+      koste van een bredere, minder precieze meting.
+  - q: Werkt een balkzoeker op gestucte muren?
+    a: >-
+      Soms. Balkzoekers die op dichtheid meten hebben moeite met dicht, oneffen
+      pleisterwerk en houten latten, en metaalgaas kan overal valse meldingen
+      geven. Een metaalscanner zoals de Zircon MetalliScanner m40, die de
+      spijkers van latten en staanders vindt, is bij oud pleisterwerk vaak
+      betrouwbaarder.
+  - q: Hoe diep kan een balkzoeker meten?
+    a: >-
+      Eenvoudige balkzoekers meten ongeveer 1,9 cm (0.75 in), deep scan-modi
+      ongeveer 3,8 cm (1.5 in), en de Franklin ProSensor MAX noemt 6,4 cm (2.5
+      in). Franklins eigen handleiding geeft ongeveer 4,4 cm (1.75 in) voor
+      houten staanders. Vocht, structuur, verf en de dichtheid van de muur
+      verminderen de diepte in de praktijk.
+  - q: Is een magnetische balkzoeker beter voor oude gestucte muren?
+    a: >-
+      Een magnetische balkzoeker kan een goedkope reserve zijn bij pleisterwerk,
+      omdat hij de spijkers vindt waarmee de latten aan elke staander
+      vastzitten, maar dik pleisterwerk verzwakt de aantrekkingskracht. Een
+      elektronische metaalscanner meet voor dezelfde klus dieper.
 author: editorial-team
 heroImage: /images/featured/best-stud-finder-for-thick-walls.png
-heroAlt: 'Beste balkzoeker voor dikke muren 2026 (6 modellen met deep scan) – koopgids
-  van RenterSmartHome'
+heroAlt: >-
+  Beste balkzoeker voor dikke muren 2026 (6 modellen met deep scan) – koopgids
+  van RenterSmartHome
 ---
 
 De beste balkzoeker voor dikke muren is er een die door meer dan 3,8 cm (1.5 in) materiaal heen kijkt zonder bij elke bult in oud pleisterwerk aan te slaan. Huur je in een ouder gebouw, dan ken ik het gevoel: je beweegt een goedkope balkzoeker over de muur, hij piept overal, en je eindigt met proefgaten die je voor de oplevering weer moet dichtmaken. Wij hebben zes balkzoekers met deep scan en multiscanners vergeleken op basis van specificaties van de fabrikanten en productinformatie van verkopers, en ik zeg het meteen eerlijk: heel dik pleisterwerk of pleisterwerk op metaalgaas kan elke elektronische balkzoeker te slim af zijn. Daarom geven we bij elke keuze een manier om het resultaat te controleren.

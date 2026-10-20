@@ -3,9 +3,10 @@
   "lang": "de",
   "translationOf": "how-to-baby-proof-a-rental-without-damage",
   "pass": true,
-  "checkedAt": "2026-10-19T13:44:49.410Z",
+  "checkedAt": "2026-10-20T13:31:26.128Z",
   "errors": [],
   "warnings": [
+    "not localized yet: run localizer-agent for how-to-baby-proof-a-rental-without-damage (data/briefs/de/how-to-baby-proof-a-rental-without-damage.local.json), then rewrite with translator-agent",
     "source didn't respond normally (403): https://homedepot.com/p/Safety-1st-Grip-n-Twist-Doorknob-Covers-4-Pack-48394/202259354",
     "source didn't respond normally (403): https://homedepot.com/p/QuakeHOLD-Black-Nylon-Furniture-Safety-Strap-4160/100137023",
     "source didn't respond normally (403): https://www.cpsc.gov/Safety-Education/Safety-Guides/Kids-and-Babies"

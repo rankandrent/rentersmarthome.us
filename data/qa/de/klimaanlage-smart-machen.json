@@ -3,9 +3,10 @@
   "lang": "de",
   "translationOf": "smart-ac-controller",
   "pass": true,
-  "checkedAt": "2026-10-19T13:44:12.922Z",
+  "checkedAt": "2026-10-20T13:30:53.337Z",
   "errors": [],
   "warnings": [
+    "not localized yet: run localizer-agent for smart-ac-controller (data/briefs/de/smart-ac-controller.local.json), then rewrite with translator-agent",
     "source didn't respond normally (no response): https://oldsupport.sensibo.com/en-US/sensibo-air-pro-technical-specs-606505"
   ],
   "factCheck": {

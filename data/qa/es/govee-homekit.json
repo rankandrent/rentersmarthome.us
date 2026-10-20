@@ -3,13 +3,16 @@
   "lang": "es",
   "translationOf": "govee-apple-homekit",
   "pass": false,
-  "checkedAt": "2026-10-20T13:17:48.131Z",
+  "checkedAt": "2026-10-20T13:33:39.760Z",
   "errors": [
     "product \"Govee LED Strip Light M1 (H61E0 6.56ft / H61E1 16.4ft)\" has no asin (translations never link an Amazon search page)",
     "Amazon link \"Govee LED Strip Light M1 Matter\" doesn't resolve to one of the post's products, so it would become a search link",
     "facts not verified yet: compare every claim with the English post and its sources, then run `node scripts/routine.mjs factcheck es/govee-homekit \"<notes>\"`"
   ],
-  "warnings": [],
+  "warnings": [
+    "source didn't respond normally (403): https://www.reddit.com/r/ESLegal/comments/1sfnmv7/casero_no_me_devuelve_fianza_por_tener_que_pintar/",
+    "source didn't respond normally (403): https://www.reddit.com/r/ESLegal/comments/1nhisum/cobro_de_900_euros_en_pintura_tras_terminar/"
+  ],
   "factCheck": {
     "verified": false
   }

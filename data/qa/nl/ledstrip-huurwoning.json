@@ -3,9 +3,11 @@
   "lang": "nl",
   "translationOf": "best-led-strip-lights-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-17T19:24:50.000Z",
+  "checkedAt": "2026-10-20T13:36:37.276Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "not localized yet: run localizer-agent for best-led-strip-lights-for-renters (data/briefs/nl/best-led-strip-lights-for-renters.local.json), then rewrite with translator-agent"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Compared against en/best-led-strip-lights-for-renters: same 3 products/ASINs (B0991Q94KP, B08CKJWSFS, B0D7LSRWRR), names, scores, owner sources and maker sources (English URLs). Claims (RGBIC multi-color segments, Wi-Fi/no hub for Govee, Hue over Bluetooth plus optional Hue Bridge, COB dot-free light, cut sections not rejoinable without connectors, mounting/removal steps incl. 20-30 s hair dryer, 2.4 GHz Wi-Fi) match the English post. Notes block only restates post facts (adhesive is the risk, plan the run, keep off bare paint). Added short US-version/230 V plug check; per foot -> per metre. Internal links to localized Hue vs WiZ and Matter plug posts; renter checklist kept English (labelled). No prices, no testing claims.",

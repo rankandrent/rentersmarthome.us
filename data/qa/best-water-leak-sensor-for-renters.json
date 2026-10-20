@@ -1,9 +1,11 @@
 {
   "slug": "best-water-leak-sensor-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-17T13:13:35.425Z",
+  "checkedAt": "2026-10-20T13:28:50.674Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "body has 2363 words, over the 1725 limit (top results average 1500): cut repetition and filler"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Checked via search against TechHive (Eve 100 dB, Thread, 6.5 ft cable, no Android), Smart Home Compared (Eve reliability), Moen spec sheet (CR123A, so battery type hedged); could not fetch Universal Devices, Looria, Kimola, iPhone Life pages, so forum/summary praise softened to anecdotes; YoLink mop note scoped to valve-shutoff setups; lease and insurance statements hedged to general.",

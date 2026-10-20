@@ -3,9 +3,11 @@
   "lang": "es",
   "translationOf": "best-dehumidifier-for-small-apartment",
   "pass": true,
-  "checkedAt": "2026-10-19T13:47:02.547Z",
+  "checkedAt": "2026-10-20T13:33:54.646Z",
   "errors": [],
   "warnings": [
+    "not localized yet: run localizer-agent for best-dehumidifier-for-small-apartment (data/briefs/es/best-dehumidifier-for-small-apartment.local.json), then rewrite with translator-agent",
+    "source didn't respond normally (no response): https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home",
     "product \"Midea Cube 35 Pint Dehumidifier\" (B0GL7Q7173) is no longer returned by Amazon"
   ],
   "factCheck": {

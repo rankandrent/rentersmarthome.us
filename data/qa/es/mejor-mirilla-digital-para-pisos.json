@@ -3,9 +3,11 @@
   "lang": "es",
   "translationOf": "best-peephole-camera-for-apartments",
   "pass": true,
-  "checkedAt": "2026-10-17T19:11:22.416Z",
+  "checkedAt": "2026-10-20T13:33:55.582Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "not localized yet: run localizer-agent for best-peephole-camera-for-apartments (data/briefs/es/best-peephole-camera-for-apartments.local.json), then rewrite with translator-agent"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Compared against English post best-peephole-camera-for-apartments: same 4 products/ASINs, scores, owner sources, claims; removed untested/local-Amazon paragraph; notes block uses only English-post facts (keep original door viewer, ~5 min reinstall); links point to localized sister posts or are labeled English.",

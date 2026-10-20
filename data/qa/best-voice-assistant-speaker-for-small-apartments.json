@@ -1,9 +1,11 @@
 {
   "slug": "best-voice-assistant-speaker-for-small-apartments",
   "pass": true,
-  "checkedAt": "2026-10-20T13:22:12.316Z",
+  "checkedAt": "2026-10-20T13:28:48.365Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1847671-REG/amazon_b0bfc7wq6r_echo_spot_2024.html"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "2026-10-14: Echo Dot (5th Gen) temperature sensor and Matter control; Echo Pop compact budget Alexa speaker; Nest Mini (2nd Gen) wall-mount slot and mic switch (Google Store); HomePod mini Apple Home hub with temperature/humidity sensor (Apple). Wrong Echo Pop listing (Echo Dot) cleared for re-match.",

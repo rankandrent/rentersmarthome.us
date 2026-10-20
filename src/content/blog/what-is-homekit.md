@@ -124,6 +124,16 @@ products:
     scoreNote: >-
       Plug-in with no mounting. Compatibility scored 7 because it works with
       Apple Home and Matter/Thread accessories but needs an Apple device.
+    asin: B0DXR9NKS7
+    image:
+      url: 'https://m.media-amazon.com/images/I/51MadOWBaBL._SL500_.jpg'
+      width: 500
+      height: 461
+    amazonTitle: Apple - HomePod mini - Yellow
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51177ca94gL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Apple TV 4K (4th generation)
     brand: Apple
     query: Apple TV 4K
@@ -184,6 +194,27 @@ products:
     scoreNote: >-
       No mounting, but it has to sit by a TV, and it costs more than a hub-only
       device if streaming is not wanted.
+    asin: B0HMX69N2K
+    image:
+      url: 'https://m.media-amazon.com/images/I/31TNFUtZnfL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Apple TV 4K (4th generation) | 4K Dolby Vision, HDR10+, Dolby Atmos, Siri
+      AI, Far-field mics, Home theater surround sound, Siri Remote with Find My
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31Biae7SciL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41iSZ-xeLIL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41ZB8gBdssL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41YcWKvL5UL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: 'Apple: Home app'
     url: 'https://www.apple.com/home-app/'

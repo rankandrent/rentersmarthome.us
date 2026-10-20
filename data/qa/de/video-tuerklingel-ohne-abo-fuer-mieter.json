@@ -3,9 +3,10 @@
   "lang": "de",
   "translationOf": "best-video-doorbell-without-subscription-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-19T13:45:36.380Z",
+  "checkedAt": "2026-10-20T13:32:16.795Z",
   "errors": [],
   "warnings": [
+    "not localized yet: run localizer-agent for best-video-doorbell-without-subscription-for-renters (data/briefs/de/best-video-doorbell-without-subscription-for-renters.local.json), then rewrite with translator-agent",
     "source didn't respond normally (403): https://www.currys.co.uk/techtalk/smart-tech/smart-home/best-video-doorbell-cameras-without-a-subscription.html"
   ],
   "factCheck": {

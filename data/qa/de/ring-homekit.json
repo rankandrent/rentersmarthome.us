@@ -3,13 +3,20 @@
   "lang": "de",
   "translationOf": "does-ring-work-with-apple-homekit",
   "pass": false,
-  "checkedAt": "2026-10-20T13:16:39.004Z",
+  "checkedAt": "2026-10-20T13:31:39.237Z",
   "errors": [
     "product \"HOOBS Box (HSLF-3)\" has no asin (translations never link an Amazon search page)",
     "Amazon link \"HOOBS Box HomeKit Homebridge hub\" doesn't resolve to one of the post's products, so it would become a search link",
     "facts not verified yet: compare every claim with the English post and its sources, then run `node scripts/routine.mjs factcheck de/ring-homekit \"<notes>\"`"
   ],
-  "warnings": [],
+  "warnings": [
+    "source didn't respond normally (403): https://hoobs.com/ring/",
+    "source didn't respond normally (403): https://hoobs.com/box/",
+    "source didn't respond normally (403): https://hoobs.com/shop/HOOBS-Box-Starter-Kit-p709063339",
+    "source didn't respond normally (403): https://hoobs.com/shipping-taxes/",
+    "source didn't respond normally (403): https://www.reddit.com/r/LegaladviceGerman/comments/uya0k3/ist_sicherheitskamera_als_mieter_um_zu_sehen_wer/",
+    "source didn't respond normally (403): https://www.reddit.com/r/LegaladviceGerman/comments/1f7bsw4/nachbar_ist_laut_und_hat_kamera_im_hausflur/"
+  ],
   "factCheck": {
     "verified": false
   }

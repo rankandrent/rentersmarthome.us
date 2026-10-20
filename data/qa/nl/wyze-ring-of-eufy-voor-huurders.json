@@ -3,9 +3,10 @@
   "lang": "nl",
   "translationOf": "wyze-vs-ring-vs-eufy-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-19T13:50:36.278Z",
+  "checkedAt": "2026-10-20T13:38:02.598Z",
   "errors": [],
   "warnings": [
+    "not localized yet: run localizer-agent for wyze-vs-ring-vs-eufy-for-renters (data/briefs/nl/wyze-vs-ring-vs-eufy-for-renters.local.json), then rewrite with translator-agent",
     "source didn't respond normally (403): https://support.wyze.com/hc/en-us/articles/23746258989851-Wyze-Cam-v4-Tech-Specs",
     "source didn't respond normally (no response): https://bestbuy.com/product/ring-indoor-plug-in-1080p-security-camera-2nd-generation-with-privacy-cover-white/J39HW6QGC4"
   ],

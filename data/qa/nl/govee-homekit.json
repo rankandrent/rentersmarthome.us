@@ -3,13 +3,15 @@
   "lang": "nl",
   "translationOf": "govee-apple-homekit",
   "pass": false,
-  "checkedAt": "2026-10-20T13:17:50.424Z",
+  "checkedAt": "2026-10-20T13:36:28.631Z",
   "errors": [
     "product \"Govee LED Strip Light M1 (H61E0 6.56ft / H61E1 16.4ft)\" has no asin (translations never link an Amazon search page)",
     "Amazon link \"Govee LED Strip Light M1 Matter\" doesn't resolve to one of the post's products, so it would become a search link",
     "facts not verified yet: compare every claim with the English post and its sources, then run `node scripts/routine.mjs factcheck nl/govee-homekit \"<notes>\"`"
   ],
-  "warnings": [],
+  "warnings": [
+    "source didn't respond normally (403): https://gathering.tweakers.net/forum/list_messages/1308304/127"
+  ],
   "factCheck": {
     "verified": false
   }

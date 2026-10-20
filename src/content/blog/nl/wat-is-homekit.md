@@ -46,8 +46,8 @@ tldr:
     staat (HomePod mini of Apple TV 4K) heb je pas nodig voor bediening op
     afstand en automatiseringen.
   - >-
-    In een huurwoning maak je de woning aan met je eigen Apple Account, nodig
-    je huisgenoten uit in plaats van één login te delen en laat je sloten en
+    In een huurwoning maak je de woning aan met je eigen Apple Account, nodig je
+    huisgenoten uit in plaats van één login te delen en laat je sloten en
     thermostaten van de verhuurder erbuiten zonder schriftelijke toestemming.
   - >-
     Een Matter-logo alleen belooft geen volledige ondersteuning in Apple Woning;
@@ -135,6 +135,16 @@ products:
       Gaat in het stopcontact, niets te monteren. Compatibiliteit krijgt een 7
       omdat hij werkt met Apple Woning en Matter/Thread-accessoires, maar een
       Apple-apparaat nodig heeft.
+    asin: B0DXR9NKS7
+    amazonTitle: Apple - HomePod mini - Yellow
+    image:
+      url: 'https://m.media-amazon.com/images/I/51MadOWBaBL._SL500_.jpg'
+      width: 500
+      height: 461
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51177ca94gL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Apple TV 4K (4th generation)
     brand: Apple
     query: Apple TV 4K
@@ -168,8 +178,10 @@ products:
     owners:
       read: 4
       praise:
-        - Een bekabelde hub via Ethernet loste verbindingsproblemen op voor eigenaren
-        - Bekabeld de stabielste Apple-hub, volgens eigenaren
+        - >-
+          Een bekabelde hub via Ethernet loste verbindingsproblemen op voor
+          eigenaren
+        - 'Bekabeld de stabielste Apple-hub, volgens eigenaren'
       complaints:
         - >-
           Bij sommige eigenaren vallen Thread-accessoires toch weg als Apple TV
@@ -196,6 +208,27 @@ products:
     scoreNote: >-
       Niets te monteren, maar hij moet bij een tv staan, en hij kost meer dan
       een apparaat dat alleen hub is als je niet wilt streamen.
+    asin: B0HMX69N2K
+    amazonTitle: >-
+      Apple TV 4K (4th generation) | 4K Dolby Vision, HDR10+, Dolby Atmos, Siri
+      AI, Far-field mics, Home theater surround sound, Siri Remote with Find My
+    image:
+      url: 'https://m.media-amazon.com/images/I/31TNFUtZnfL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31Biae7SciL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41iSZ-xeLIL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41ZB8gBdssL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41YcWKvL5UL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: 'Apple: Home app'
     url: 'https://www.apple.com/home-app/'
@@ -260,9 +293,9 @@ faqs:
   - q: Werkt HomeKit op Android?
     a: >-
       Nee. De Woning-app draait alleen op Apple-apparaten, dus een huisgenoot
-      met Android kan niet meedoen in een Apple-woning. In een gemengd huishouden
-      zijn Matter-accessoires die je aan zowel Apple Woning als Google Home of
-      Alexa toevoegt de praktische oplossing.
+      met Android kan niet meedoen in een Apple-woning. In een gemengd
+      huishouden zijn Matter-accessoires die je aan zowel Apple Woning als
+      Google Home of Alexa toevoegt de praktische oplossing.
   - q: Kun je HomeKit delen met huisgenoten?
     a: >-
       Ja. Wie de woning aanmaakt, kan andere gebruikers met een eigen Apple

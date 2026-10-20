@@ -1,10 +1,11 @@
 {
   "slug": "best-dehumidifier-for-small-apartment",
   "pass": true,
-  "checkedAt": "2026-10-19T13:40:54.342Z",
+  "checkedAt": "2026-10-20T13:27:21.174Z",
   "errors": [],
   "warnings": [
     "product \"Midea Cube 35 Pint Dehumidifier\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "source didn't respond normally (no response): https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home",
     "product \"Midea Cube 35 Pint Dehumidifier\" (B0GL7Q7173) is no longer returned by Amazon"
   ],
   "factCheck": {

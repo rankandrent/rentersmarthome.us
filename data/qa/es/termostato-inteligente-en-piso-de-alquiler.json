@@ -3,9 +3,11 @@
   "lang": "es",
   "translationOf": "smart-thermostat-in-apartment",
   "pass": true,
-  "checkedAt": "2026-10-17T19:18:46.342Z",
+  "checkedAt": "2026-10-20T13:34:50.580Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "not localized yet: run localizer-agent for smart-thermostat-in-apartment (data/briefs/es/smart-thermostat-in-apartment.local.json), then rewrite with translator-agent"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Compared every claim with the English post smart-thermostat-in-apartment (QA pass, factcheck 2026-10-14): same 3 products/ASINs, sources, owners data, scores; no new facts. US-specific items (24V HVAC, C-wire, R/W/Y/G/C labels, 120/240V baseboard heat) kept and marked as US systems; smart-ac-controller link kept in English.",

@@ -3,9 +3,11 @@
   "lang": "de",
   "translationOf": "best-smart-smoke-detector-for-apartments",
   "pass": true,
-  "checkedAt": "2026-10-17T19:38:48.635Z",
+  "checkedAt": "2026-10-20T13:31:49.656Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "not localized yet: run localizer-agent for best-smart-smoke-detector-for-apartments (data/briefs/de/best-smart-smoke-detector-for-apartments.local.json), then rewrite with translator-agent"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Compared every claim with the English post best-smart-smoke-detector-for-apartments (QA pass, factcheck verified): same 3 products, order, ASINs, scores, sources and owner sources; facts match the English text and its factcheck. Units converted (6 in = 15 cm, 3 in = 7,5 cm). US-specific items marked as such: UL 217/UL 2034/UL listing, CPSC/NFPA/NFPA 72, Amazon US selection rule; sealed 10-year-battery rule framed as some places such as some US states (English factcheck: NY, MD). Added per owner instruction one line to pick an alarm certified for the reader's country (EN 14604 in the EU). No prices, testing claims, local Amazon store or availability claims.",

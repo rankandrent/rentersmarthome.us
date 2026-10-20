@@ -3,9 +3,11 @@
   "lang": "es",
   "translationOf": "best-pressure-mounted-baby-gate-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-17T19:24:38.000Z",
+  "checkedAt": "2026-10-20T13:32:45.830Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "not localized yet: run localizer-agent for best-pressure-mounted-baby-gate-for-renters (data/briefs/es/best-pressure-mounted-baby-gate-for-renters.local.json), then rewrite with translator-agent"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Compared every claim with the English post best-pressure-mounted-baby-gate-for-renters (factcheck verified 2026-10-14): same 3 products, order, ASINs, scores, sources and owner sources; pressure gates never at top of stairs, hardware-mounted gate needed there, ask landlord in writing; Regalo wall cups and extensions; Summer Infant extra tall; Cumbor auto-close, mount options vary by kit; wall protection, measuring and placement tips as in English. No new facts, no prices; JPMA marked as US standard; notes block only restates English facts.",

@@ -1,9 +1,10 @@
 {
   "slug": "how-to-baby-proof-a-rental-without-damage",
   "pass": true,
-  "checkedAt": "2026-10-19T13:42:40.080Z",
+  "checkedAt": "2026-10-20T13:29:11.574Z",
   "errors": [],
   "warnings": [
+    "body has 3022 words, over the 1725 limit (top results average 1500): cut repetition and filler",
     "source didn't respond normally (403): https://homedepot.com/p/Safety-1st-Grip-n-Twist-Doorknob-Covers-4-Pack-48394/202259354",
     "source didn't respond normally (403): https://homedepot.com/p/QuakeHOLD-Black-Nylon-Furniture-Safety-Strap-4160/100137023",
     "source didn't respond normally (403): https://www.cpsc.gov/Safety-Education/Safety-Guides/Kids-and-Babies"

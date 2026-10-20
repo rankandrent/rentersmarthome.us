@@ -3,9 +3,11 @@
   "lang": "de",
   "translationOf": "smart-home-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-17T19:18:42.260Z",
+  "checkedAt": "2026-10-20T13:31:44.409Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "not localized yet: run localizer-agent for smart-home-for-renters (data/briefs/de/smart-home-for-renters.local.json), then rewrite with translator-agent"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Compared line by line against English smart-home-for-renters: products/ASINs/specs, claims, units (none), steps, FAQ, table; no new facts, no prices/testing claims; removed unsupported sourcing/local-Amazon disclosure paragraph; links point to localized sister posts or labeled English",
