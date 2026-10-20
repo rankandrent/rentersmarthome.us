@@ -3998,7 +3998,8 @@
     "painPoints": [
       "hubs-voice-matter-ecosystem-compat-confusion"
     ],
-    "slug": "what-is-homekit"
+    "slug": "what-is-homekit",
+    "productCount": 2
   },
   {
     "status": "pending",
