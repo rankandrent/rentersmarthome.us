@@ -1,0 +1,49 @@
+{
+  "status": "OK (2 products). Top-10 organic pages read: addtohomekit.com, linkdhome.com, burzmart.lv (all name both). Apple.com/home-app, Wikipedia, Reddit, Netatmo, Tedee, Medium, Intego, istyle.ae did not name hubs by model or were not read; Wirecutter (nytimes.com) could not be read (Firecrawl unsupported, WebFetch blocked), so it is not counted as evidence. YouTube results skipped.",
+  "products": [
+    {
+      "name": "Apple HomePod mini 2",
+      "brand": "Apple",
+      "query": "Apple HomePod mini",
+      "badge": "Cheapest way to get a HomeKit home hub",
+      "summary": "A small plug-in smart speaker that doubles as a HomeKit home hub, so automations and remote control work when you are away. Apple lists Wi-Fi 6E, Bluetooth 6, Thread networking, a temperature and humidity sensor and a 20W power adapter in the box.",
+      "renterNote": "Suits an iPhone-owning renter starting HomeKit who wants a hub that sits on a shelf with no drilling. Caveat: it needs an iPhone or iPad to set up, and Apple's current spec page lists HomePod mini 2, so older first-generation units that guides describe may differ.",
+      "pros": ["Acts as a HomeKit home hub for remote access and automations, per the guides read", "Plugs into a wall outlet; nothing to mount or drill", "Thread networking and a built-in temperature and humidity sensor, per Apple"],
+      "cons": ["Requires an iPhone or iPad running current iOS to set up", "Hub role only helps Apple Home devices; it does not control Alexa-only devices"],
+      "specs": {"size": "3.3 in high x 3.9 in wide (84.3 x 97.9 mm)", "weight": "0.74 lb (335 g)", "wireless": "Wi-Fi 6E, Bluetooth 6, Thread, Ultra Wideband", "power": "20W power adapter, 100-240V", "sensors": "Temperature and humidity", "hub": "HomeKit home hub (per addtohomekit.com, linkdhome.com, burzmart.lv)"},
+      "scores": {"install": 10, "reversibility": 10, "value": 8, "compatibility": 7, "portability": 8},
+      "scoreNote": "Plug-in with no mounting. Compatibility scored 7 because it works with Apple Home and Matter/Thread accessories but needs an Apple device.",
+      "sources": [
+        "https://www.apple.com/homepod-mini/specs/",
+        "https://www.addtohomekit.com/blog/apple-homekit/",
+        "https://linkdhome.com/articles/complete-homekit-guide",
+        "https://burzmart.lv/en/blogs/viedas-majas-celvedis/kasir-homekit-viedas-majas-sistema"
+      ]
+    },
+    {
+      "name": "Apple TV 4K (4th generation)",
+      "brand": "Apple",
+      "query": "Apple TV 4K",
+      "badge": "Best hub if you also want a streaming box",
+      "summary": "A TV streaming box that also serves as a HomeKit home hub. Apple lists a 128GB model with A19 chip, Wi-Fi 7, Gigabit Ethernet, Bluetooth 6 and Thread networking technology.",
+      "renterNote": "Suits a renter who already wants an Apple streaming box and wants it to double as an always-on hub. Caveat: it needs a TV with HDMI and an HDMI cable (sold separately), and it stays at the TV rather than moving around the home like a speaker.",
+      "pros": ["Doubles as a HomeKit home hub and has Thread, per Apple and the guides read", "Wired Gigabit Ethernet option for a steadier hub connection", "Sits on a shelf; nothing to mount"],
+      "cons": ["Needs an HDMI TV and an HDMI cable sold separately", "More than a hub-only buyer needs if they do not stream"],
+      "specs": {"size": "3.67 x 3.67 x 1.22 in", "weight": "7.6 oz (217 g)", "wireless": "Wi-Fi 7, Bluetooth 6, Thread", "wired": "Gigabit Ethernet, HDMI 2.1", "power": "Built-in power supply, power cord included", "hub": "HomeKit home hub (per addtohomekit.com, linkdhome.com, burzmart.lv)"},
+      "scores": {"install": 9, "reversibility": 10, "value": 6, "compatibility": 7, "portability": 6},
+      "scoreNote": "No mounting, but it has to sit by a TV, and it costs more than a hub-only device if streaming is not wanted.",
+      "sources": [
+        "https://www.apple.com/apple-tv-4k/specs/",
+        "https://www.addtohomekit.com/blog/apple-homekit/",
+        "https://linkdhome.com/articles/complete-homekit-guide",
+        "https://burzmart.lv/en/blogs/viedas-majas-celvedis/kasir-homekit-viedas-majas-sistema"
+      ]
+    }
+  ],
+  "serpProducts": [
+    {"name": "Apple HomePod mini", "pages": ["https://www.addtohomekit.com/blog/apple-homekit/", "https://linkdhome.com/articles/complete-homekit-guide", "https://burzmart.lv/en/blogs/viedas-majas-celvedis/kasir-homekit-viedas-majas-sistema"]},
+    {"name": "Apple TV (4K)", "pages": ["https://www.addtohomekit.com/blog/apple-homekit/", "https://linkdhome.com/articles/complete-homekit-guide", "https://burzmart.lv/en/blogs/viedas-majas-celvedis/kasir-homekit-viedas-majas-sistema"]},
+    {"name": "Apple HomePod 2 (full size)", "pages": ["https://www.addtohomekit.com/blog/apple-homekit/", "https://linkdhome.com/articles/complete-homekit-guide"]}
+  ],
+  "note": "linkdhome says 'HomePod or Apple TV' and 'HomePod Mini' without naming Apple TV 4K model; burzmart says 'Apple TV or a HomePod mini'. Full-size HomePod also had 2 pages but is not a starter/cheap pick and not requested. Prices omitted. HomePod mini 2 / Apple TV 4K model naming taken from Apple spec pages; guides use the shorter names."
+}
