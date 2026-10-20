@@ -504,6 +504,8 @@ heroImage: /images/featured/locked-out-of-apartment.png
 heroAlt: >-
   Locked Out of Apartment? 7 Steps to Get Back In Fast and Prevent It –
   RenterSmartHome how-to
+related:
+  - best-apartment-intercom-buzzer-alternative
 ---
 
 Being locked out of your apartment usually starts the same way: the door clicks shut behind you, your hand goes to an empty pocket, and the hallway suddenly feels very quiet. One renter on r/legaladvice described a worse version, locked out at 2 a.m. when a building smart lock failed, then billed for the locksmith and a drilled lock. We wrote this guide for both moments. First you get seven steps in the order that gets you back inside fastest and cheapest. Then we cover smart-lock lockouts, lockout fees, and the no-drill gear that stops the next one.

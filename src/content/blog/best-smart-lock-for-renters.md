@@ -399,10 +399,10 @@ heroAlt: >-
   Best Smart Lock for Renters 2026 – 4 Reversible Picks and Fit Check –
   RenterSmartHome buying guide
 related:
+  - best-apartment-intercom-buzzer-alternative
   - locked-out-of-apartment
   - best-smart-light-bulbs-for-renters
   - best-smart-smoke-detector-for-apartments
-  - best-magnetic-cabinet-locks-for-renters
 ---
 
 The best smart lock for renters is a **retrofit smart lock**: a smart lock that replaces only the interior thumbturn of your existing deadbolt, so the exterior keyhole, the bolt and your landlord's key all keep working. A retrofit smart lock gives you keyless entry, auto-lock and guest codes without re-keying, drilling, or risking your security deposit, and it moves with you to the next apartment.

@@ -1,32 +1,43 @@
 {
- "status": "INSUFFICIENT: only 1 product (Ring Intercom) is a real consumer retrofit device with supporting sources; fewer than the 3-product roundup minimum. Not verified as recommended by 2+ top-10 pages.",
+ "status": "GUIDE: 1 qualifying product. SERP is guide intent; SwitchBot Bot is the only product recommended by 2+ top-10 pages (Aaron Yeager #9, r/smarthome thread #2) with a clear Amazon US listing. Ring Intercom and Nuki Opener are mentioned (Knockli #8, Reddit #2, Aaron Yeager comment) but no Amazon US listing of the retrofit box was found (amazon.com search for Ring Intercom returns the Ring Intercom Kit for Video Doorbell, a different product).",
  "products": [
   {
-   "name": "Ring Intercom",
-   "brand": "Ring",
-   "query": "Ring Intercom",
-   "matchName": "Ring Intercom",
-   "badge": "Best retrofit for wired building intercoms",
-   "summary": "A small box that wires in beside an existing building intercom handset and sends the visitor call to the Ring app, so a renter can answer and unlock the building entrance from a phone. Ring says basic features need no subscription.",
-   "renterNote": "Suits a renter whose building has a compatible wired intercom and a landlord who approves. Caveat: it only opens the building entrance (not your apartment door), gives no video from a video intercom, and Ring says to run its online compatibility checker and check landlord rules first.",
-   "pros": ["Retrofit box that needs only a screwdriver, per Ring and reviewers", "Answer and unlock from the Ring app; features work without a subscription per sources"],
-   "cons": ["Compatibility depends on your building's intercom; one reviewer reported a long setup that needed a fix from Ring", "No video stream or recording from a video intercom"],
-   "scores": {"install": 6, "reversibility": 6, "value": 6, "compatibility": 5, "portability": 4},
-   "scoreNote": "Wired into the intercom, so removal needs the original wiring restored; compatibility is building-specific.",
-   "owners": {"read": 0, "praise": [], "complaints": [], "sources": []},
+   "name": "SwitchBot Bot",
+   "brand": "SwitchBot",
+   "query": "SwitchBot Bot Smart Switch Button Pusher",
+   "matchName": "SwitchBot Smart Switch Button Pusher",
+   "badge": "Best no-wiring buzzer alternative",
+   "summary": "A small battery-powered robot arm that sticks beside your in-unit intercom and presses the door-release button from the SwitchBot app. Add a SwitchBot Hub and you can buzz the lobby door open from anywhere or by voice.",
+   "renterNote": "Sticks next to the handset with the supplied 3M adhesive and touches no wiring, so it peels off at move-out; still tell your landlord because the intercom is shared building hardware.",
+   "pros": ["No tools or wiring: the 3M adhesive mounts it beside the door-release button", "Sits next to the button, so you can still press it by hand", "With a SwitchBot Hub it works remotely and with Alexa, Google Assistant and Siri"],
+   "cons": ["Remote control needs a separate SwitchBot Hub on 2.4 GHz Wi-Fi", "Cannot detect a buzz or show who is downstairs, and some systems only release the door during a call"],
+   "scores": {"install": 9, "reversibility": 9, "value": 7, "compatibility": 6, "portability": 9},
+   "scoreNote": "Adhesive, tool-free and fully removable; compatibility depends on a physical door-release button that works on its own, and remote use needs a hub.",
+   "owners": {
+    "read": 5,
+    "praise": ["Quick tool-free setup that leaves the intercom untouched", "Lets owners buzz guests or couriers in from the app, a voice assistant or HomeKit once a hub is added", "Manual use of the button still works"],
+    "complaints": ["Needs the hub for anything beyond Bluetooth range", "Struggles with small or recessed buttons; one reviewer added a silicone pad to the arm", "Occasional app timeouts, and a Bot that stopped working and needed a reset"],
+    "sources": [
+     {"title": "A clever workaround for making your intercom smart (Aaron Yeager)", "url": "https://aaronyeager.com/blog/a-clever-workaround-for-making-your-intercom-smart"},
+     {"title": "SwitchBot Bot Review (LinkdHOME)", "url": "https://linkdhome.com/articles/switchbot-review"},
+     {"title": "Integrated my building's dumb door buzzer (r/HomeKit)", "url": "https://www.reddit.com/r/HomeKit/comments/1cpie4r/success_finally_managed_to_integrate_my_buildings/"},
+     {"title": "Is SwitchBot my only chance to make this old intercom smart? (r/homeautomation)", "url": "https://www.reddit.com/r/homeautomation/comments/ybm7hq/is_switchbot_my_only_chance_to_make_this_old/"},
+     {"title": "switchbot bot doesnt work (anymore) (r/TrySwitchBot)", "url": "https://www.reddit.com/r/TrySwitchBot/comments/110s72x/switchbot_bot_doesnt_work_anymore/"}
+    ]
+   },
    "sources": [
-    "https://www.techradar.com/reviews/ring-intercom",
-    "https://www.stuff.tv/?p=866648",
-    "https://techcrunch.com/2022/09/01/ring-adds-a-wifi-intercom-add-on-to-its-lineup",
-    "https://www.expertreviews.co.uk/security/1416719/ring-announces-new-smart-intercom",
-    "https://www.aestumanda.com/reviews/2023/01/ring-intercom-an-accessible-and-secure-addition-to-your-home-security/"
+    "https://us.switch-bot.com/products/switchbot-bot",
+    "https://blog.switch-bot.com/the-easiest-way-to-make-your-intercom-smart/",
+    "https://linkdhome.com/articles/switchbot-review",
+    "https://aaronyeager.com/blog/a-clever-workaround-for-making-your-intercom-smart"
    ]
   }
  ],
  "serpProducts": [
-  {"name": "Ring Intercom", "pages": ["https://techcrunch.com/2022/09/01/ring-adds-a-wifi-intercom-add-on-to-its-lineup", "https://www.expertreviews.co.uk/security/1416719/ring-announces-new-smart-intercom"]},
-  {"name": "Buzr (not on Amazon, unverified)", "pages": ["https://staceyoniot.com/buzr-aims-to-make-your-apartment-intercom-systems-smart/", "https://www.intercomsonline.com/apartment-buzzer-to-cell-phone"]},
-  {"name": "Doorport (2019 prototype, likely discontinued)", "pages": ["https://techcrunch.com/2019/03/17/doorport-wants-to-make-your-apartment-buildings-front-door-smarter/"]},
-  {"name": "Nuki Opener (single seen page set, not Amazon-verified)", "pages": ["https://nuki.io/en/opener"]}
+  {"name": "SwitchBot Bot", "pages": ["https://aaronyeager.com/blog/a-clever-workaround-for-making-your-intercom-smart", "https://www.reddit.com/r/smarthome/comments/pg3684/need_advice_to_get_my_old_apartment_intercom/"]},
+  {"name": "Nuki Opener (no Amazon US listing found)", "pages": ["https://knockli.com/blog/apartment-buzzers-how-they-work-smart-alternatives", "https://www.reddit.com/r/smarthome/comments/pg3684/need_advice_to_get_my_old_apartment_intercom/", "https://aaronyeager.com/blog/a-clever-workaround-for-making-your-intercom-smart"]},
+  {"name": "Ring Intercom (no Amazon US listing of the retrofit box found)", "pages": ["https://knockli.com/blog/apartment-buzzers-how-they-work-smart-alternatives"]},
+  {"name": "ButterflyMX (property-installed system, not a renter product)", "pages": ["https://butterflymx.com/blog/apartment-buzzer/"]},
+  {"name": "Swiftlane (property-installed system, not a renter product)", "pages": ["https://swiftlane.com/video-intercom-for-apartments/"]}
  ]
 }

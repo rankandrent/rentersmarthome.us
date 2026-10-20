@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T20:06:06.962Z",
+  "updatedAt": "2026-10-20T20:09:52.541Z",
   "categories": {
     "smart-locks": [
       {
@@ -2445,6 +2445,267 @@
         ],
         "foundAt": "2026-10-19",
         "coveredBy": []
+      }
+    ],
+    "climate": [
+      {
+        "id": "climate-neighbor-smoke-seeps-in",
+        "pain": "Neighbor's cigarette or weed smoke seeps into the apartment and a purifier doesn't fully stop it",
+        "details": "Renters in shared-wall buildings smell smoke from units below or next door through outlets, vents and gaps. Some run purifiers that help but can't keep up; some ask the landlord, some moved.",
+        "mentions": 6,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/AirPurifiers/comments/1e0ewk2/smoking_next_door_neighbor_best_purifier/",
+            "platform": "reddit",
+            "title": "smoking next door neighbor best purifier",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.reddit.com/r/AirPurifiers/comments/12qqduw/will_an_air_purifier_help_deal_with_smokers_below/",
+            "platform": "reddit",
+            "title": "will an air purifier help deal with smokers below",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.reddit.com/r/AirPurifiers/comments/1hey6cz/need_to_remove_cigarette_smell_from_my_apartment/",
+            "platform": "reddit",
+            "title": "need to remove cigarette smell from my apartment",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.reddit.com/r/AirPurifiers/comments/1i6o7mg/neighbors_smoke_getting_into_our_apartment/",
+            "platform": "reddit",
+            "title": "neighbors smoke getting into our apartment",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.reddit.com/r/ApartmentHacks/comments/pgrw7e/what_to_do_about_neighbors_cigarette_smoke/",
+            "platform": "reddit",
+            "title": "what to do about neighbors cigarette smoke",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.reddit.com/r/AirPurifiers/comments/1nlvu1j/best_air_purifier_for_neighbors_weed/",
+            "platform": "reddit",
+            "title": "best air purifier for neighbors weed",
+            "seen": "2026-10-20"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I had this happen to me and my Winix was powerless.",
+            "url": "https://www.reddit.com/r/AirPurifiers/comments/1i6o7mg/neighbors_smoke_getting_into_our_apartment/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "Cover electric wall outlets with masking tape. Try to find where the smoke is seeping through the wall.",
+            "url": "https://www.reddit.com/r/AirPurifiers/comments/1e0ewk2/smoking_next_door_neighbor_best_purifier/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "An air purifier will take smoke and particulates out of the air.",
+            "url": "https://www.reddit.com/r/AirPurifiers/comments/1hey6cz/need_to_remove_cigarette_smell_from_my_apartment/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "neighbor smoke coming into apartment air purifier",
+          "will an air purifier help with neighbors cigarette smoke",
+          "best air purifier for neighbors weed smoke"
+        ],
+        "keywords": [
+          "best air purifier for apartment renters"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-20"
+      },
+      {
+        "id": "climate-cooking-odors-linger",
+        "pain": "Cooking smells linger in a studio even with the purifier running all day",
+        "details": "In studios and small one-bedrooms the kitchen shares the air with the bed; owners of mid-size purifiers report some odors never clear because the carbon layer is small.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/AirPurifiers/comments/1rmeme1/question_about_smells_levoit_vital_200s_purifier/",
+            "platform": "reddit",
+            "title": "question about smells levoit vital 200s purifier",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.reddit.com/r/HouseFresh/comments/1odtull/winix_5510not_working_that_well/",
+            "platform": "reddit",
+            "title": "winix 5510not working that well",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.reddit.com/r/AirPurifiers/comments/1r3ywmg/do_we_keep_changing_the_air_purifier_filter_every/",
+            "platform": "reddit",
+            "title": "do we keep changing the air purifier filter every",
+            "seen": "2026-10-20"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "there are still certain smells that never go away",
+            "url": "https://www.reddit.com/r/AirPurifiers/comments/1rmeme1/question_about_smells_levoit_vital_200s_purifier/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "It does not clear cooking odors",
+            "url": "https://www.reddit.com/r/HouseFresh/comments/1odtull/winix_5510not_working_that_well/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "air purifier not removing cooking smell",
+          "best air purifier for cooking odors studio apartment"
+        ],
+        "keywords": [
+          "best air purifier for apartment renters"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-20"
+      },
+      {
+        "id": "climate-purifier-too-loud-at-night",
+        "pain": "The purifier is too loud to sleep next to, so it gets turned down or off at night",
+        "details": "In a studio or small bedroom the purifier runs a few feet from the bed. Owners find strong units loud even in sleep mode and turn them down, which cuts cleaning.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/AirPurifiers/comments/1sbrete/quiet_air_purifier_for_bedroom/",
+            "platform": "reddit",
+            "title": "quiet air purifier for bedroom",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.reddit.com/r/AirPurifiers/comments/1ib6utx/my_sleep_quality_is_terrible_my_room_is_full_of/",
+            "platform": "reddit",
+            "title": "my sleep quality is terrible my room is full of",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.reddit.com/r/AirPurifiers/comments/1rqtt3d/loud_air_purifier_recommendations/",
+            "platform": "reddit",
+            "title": "loud air purifier recommendations",
+            "seen": "2026-10-20"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "It was also kinda loud at night even in Sleep mode.",
+            "url": "https://www.reddit.com/r/AirPurifiers/comments/1sbrete/quiet_air_purifier_for_bedroom/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "I used a germ guardian but it was too loud",
+            "url": "https://www.reddit.com/r/AirPurifiers/comments/1ib6utx/my_sleep_quality_is_terrible_my_room_is_full_of/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "quiet air purifier for studio apartment",
+          "air purifier too loud to sleep"
+        ],
+        "keywords": [
+          "best air purifier for apartment renters"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-20"
+      },
+      {
+        "id": "climate-filter-replacement-cost",
+        "pain": "Replacement filters cost more and wear out sooner than expected",
+        "details": "Owners are surprised by how often filters need changing; the carbon layer usually gives out first and starts to smell.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/AirPurifiers/comments/1pi2bq0/replacing_hepa_filters_is_getting_way_too/",
+            "platform": "reddit",
+            "title": "replacing hepa filters is getting way too",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.reddit.com/r/AirPurifiers/comments/1r3ywmg/do_we_keep_changing_the_air_purifier_filter_every/",
+            "platform": "reddit",
+            "title": "do we keep changing the air purifier filter every",
+            "seen": "2026-10-20"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Replacing HEPA filters is getting way too expensive.",
+            "url": "https://www.reddit.com/r/AirPurifiers/comments/1pi2bq0/replacing_hepa_filters_is_getting_way_too/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "The carbon filter dies first and stinks up the room",
+            "url": "https://www.reddit.com/r/AirPurifiers/comments/1r3ywmg/do_we_keep_changing_the_air_purifier_filter_every/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "how often replace air purifier filter",
+          "air purifier filter replacement cost"
+        ],
+        "keywords": [
+          "best air purifier for apartment renters"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-20"
+      },
+      {
+        "id": "climate-room-size-claims-inflated",
+        "pain": "Room-size claims on the box are inflated, so renters buy a purifier too small for their apartment",
+        "details": "Listings advertise 1,800+ sq ft based on one air change per hour; buyers on r/AirPurifiers are told to ignore those numbers and size by CADR at about 4.8 air changes per hour.",
+        "mentions": 4,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/AirPurifiers/comments/1hfwqce/is_this_a_good_deal_and_do_you_recommend_this_air/",
+            "platform": "reddit",
+            "title": "is this a good deal and do you recommend this air",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.reddit.com/r/AirPurifiers/comments/vxk178/coway_inflatingmisleading_room_sqft_coverage/",
+            "platform": "reddit",
+            "title": "coway inflatingmisleading room sqft coverage",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.reddit.com/r/AirPurifiers/comments/1l3ixwy/shark_never_change_air_purifier/",
+            "platform": "reddit",
+            "title": "shark never change air purifier",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.reddit.com/r/AirPurifiers/comments/1imgbm5/air_purifier_for_700sqft_apartment/",
+            "platform": "reddit",
+            "title": "air purifier for 700sqft apartment",
+            "seen": "2026-10-20"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Ignore the 1,824 sq. ft. claim—it's useless.",
+            "url": "https://www.reddit.com/r/AirPurifiers/comments/1hfwqce/is_this_a_good_deal_and_do_you_recommend_this_air/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "I came to conclusion that the advertised sq. ft for each unit doesn't tell much",
+            "url": "https://www.reddit.com/r/AirPurifiers/comments/vxk178/coway_inflatingmisleading_room_sqft_coverage/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "what size air purifier for apartment",
+          "air purifier square footage misleading"
+        ],
+        "keywords": [
+          "best air purifier for apartment renters"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-20"
       }
     ]
   }

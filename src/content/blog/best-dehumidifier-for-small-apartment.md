@@ -502,6 +502,7 @@ heroAlt: >-
   Best Dehumidifier for Small Apartment Living (2026) – 6 Picks by Size –
   RenterSmartHome buying guide
 related:
+  - best-apartment-intercom-buzzer-alternative
   - locked-out-of-apartment
   - best-cat-tree-for-small-apartment
   - best-litter-box-for-small-apartment
