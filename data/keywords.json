@@ -1458,7 +1458,7 @@
     }
   },
   {
-    "status": "pending",
+    "status": "deferred",
     "attempts": 1,
     "addedAt": "2026-10-14T08:48:40.167Z",
     "secondaryKeywords": [],
@@ -1475,7 +1475,7 @@
     "rationale": "user-provided keyword list (2026-10-14)",
     "slug": "best-toilet-lock-for-toddlers-rental-friendly",
     "productCount": 4,
-    "note": "2026-10-17: skipped, only Wappa had 2+ pages; no owner evidence (page fetch blocked)",
+    "note": "2026-10-17: skipped, only Wappa had 2+ pages; no owner evidence (page fetch blocked) 2026-10-20: skipped again, no toilet-lock roundup in the top 10 (stores/kit pages only).",
     "ahrefs": {
       "notInDatabase": true,
       "source": "ahrefs keywords-explorer-overview us",
