@@ -1,12 +1,11 @@
 {
   "slug": "how-to-secure-sliding-glass-door-in-rental",
   "pass": true,
-  "checkedAt": "2026-10-20T20:05:59.021Z",
+  "checkedAt": "2026-10-20T20:10:15.269Z",
   "errors": [],
   "warnings": [
-    "product \"Master Lock 265D Door Security Bar\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Ideal Security Patio Door Security Bar\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"SECURITYMAN 2-in-1 Door Security Bar with Alarm\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "source didn't respond normally (403): https://www.idealinc.com/en/patio-door-security-bar-with-anti-lift-lock",
+    "source didn't respond normally (403): https://www.vivint.com/resources/article/how-to-secure-a-sliding-glass-door"
   ],
   "factCheck": {
     "verified": true,

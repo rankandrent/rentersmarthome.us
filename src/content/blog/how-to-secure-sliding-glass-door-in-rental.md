@@ -104,6 +104,28 @@ products:
         - title: Master Lock 265D door security bar review (Facebook group)
           url: >-
             https://www.facebook.com/groups/372871582823054/posts/2062746570502205/
+    asin: B09X6BT44D
+    image:
+      url: 'https://m.media-amazon.com/images/I/4162IrbthDL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Master Lock Sliding Door Stopper and Door Security Bar, Adjustable for
+      Hinged and Sliding Doors, Compact Enough to Travel for Hotel Security,
+      White, 270EC
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51wNaqkt9VL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41KluAgLCjL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41FSG2iswiL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51xhDHIBEkL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Ideal Security Patio Door Security Bar
     brand: Ideal Security
     query: Ideal Security SK110 Patio Door Security Bar Anti-Lift Lock
@@ -147,6 +169,25 @@ products:
         - title: Ideal Security patio bar (Home Depot Canada)
           url: >-
             https://www.homedepot.ca/product/ideal-security-patio-door-security-bar-with-anti-lift-lock-black/1000858845
+    asin: B0CP3JVNX2
+    image:
+      url: 'https://m.media-amazon.com/images/I/31M8LBenUWL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: 'Ideal Security Patio Door Security Bar with Anti-Lift Lock, Matte Black'
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41cjS+e0pfL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41gIaV6aJYL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41mw1SZgrAL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41MBbqpWcvL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: SECURITYMAN 2-in-1 Door Security Bar with Alarm
     brand: SECURITYMAN
     query: SECURITYMAN 2-in-1 Door Security Bar with Alarm
@@ -188,6 +229,28 @@ products:
             https://www.reddit.com/r/homesecurity/comments/18vq387/is_a_door_security_bar_needed/
         - title: SafeWise review of the Securityman 2-in-1 bar
           url: 'https://www.safewise.com/blog/top-rated-door-jammers/'
+    asin: B0CLSBVW1V
+    image:
+      url: 'https://m.media-amazon.com/images/I/21nTq4vGVeL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Securityman Door Security Bar with Alarm (Detachable) - 120dB Siren Door
+      Stopper Alarm - Adjustable Jammer & Patio Bar - Strong, Withstands 400lbs
+      - Home Protection
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51u41AZLx3L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51sW6pwlTdL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/418ZmW2N0hL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51LTVVmvM7L._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: Patio Door Security Bar With Anti-Lift Lock (Ideal Security)
     url: 'https://www.idealinc.com/en/patio-door-security-bar-with-anti-lift-lock'
