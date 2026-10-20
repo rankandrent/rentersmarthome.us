@@ -235,6 +235,8 @@ heroImage: /images/featured/what-is-homekit.png
 heroAlt: >-
   What Is HomeKit? Apple Home Explained for Renters and Roommates –
   RenterSmartHome renter guide
+related:
+  - govee-apple-homekit
 ---
 
 **HomeKit is Apple's smart home platform: a framework that lets plugs, bulbs, sensors, locks and cameras from many brands be controlled from the Home app on an iPhone, iPad, Mac or Apple Watch, or by Siri.** You don't need a hub to control things at home, but you do need an always-on HomePod mini or Apple TV for remote access and automations. For renters, the bigger question is whose Apple ID owns the setup, because that decides what happens when a roommate leaves or you move out.

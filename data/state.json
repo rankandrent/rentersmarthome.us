@@ -224,6 +224,13 @@
       "keyword": "what is homekit",
       "category": "hubs-voice",
       "funnel": "tofu"
+    },
+    {
+      "date": "2026-10-20",
+      "slug": "govee-apple-homekit",
+      "keyword": "govee apple homekit",
+      "category": "lighting",
+      "funnel": "mofu"
     }
   ],
   "translated": [

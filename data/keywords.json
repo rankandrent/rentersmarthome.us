@@ -4150,7 +4150,7 @@
     "publishedAt": "2026-10-20T13:03:30.337Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-19T12:59:25.176Z",
     "secondaryKeywords": [
@@ -4187,7 +4187,8 @@
     "painPoints": [
       "hubs-voice-matter-ecosystem-compat-confusion"
     ],
-    "slug": "govee-apple-homekit"
+    "slug": "govee-apple-homekit",
+    "publishedAt": "2026-10-20T13:06:56.328Z"
   },
   {
     "status": "pending",

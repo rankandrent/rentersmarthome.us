@@ -255,6 +255,7 @@ heroAlt: >-
   Best LED Strip Lights for Renters 2026 – 3 Picks That Won't Peel Paint –
   RenterSmartHome buying guide
 related:
+  - govee-apple-homekit
   - best-smart-light-bulbs-for-renters
 ---
 
