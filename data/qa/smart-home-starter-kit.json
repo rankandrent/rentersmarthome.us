@@ -1,13 +1,9 @@
 {
   "slug": "smart-home-starter-kit",
-  "pass": false,
-  "checkedAt": "2026-10-21T19:59:02.894Z",
-  "errors": [
-    "source returns 404: https://support.google.com/googlehome/answer/12391458?hl=en"
-  ],
-  "warnings": [
-    "source didn't respond normally (403): https://www.nytimes.com/wirecutter/blog/smart-home-starter-kit/"
-  ],
+  "pass": true,
+  "checkedAt": "2026-10-21T22:56:05.979Z",
+  "errors": [],
+  "warnings": [],
   "factCheck": {
     "verified": true,
     "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
