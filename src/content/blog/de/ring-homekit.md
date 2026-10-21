@@ -2,8 +2,8 @@
 title: Ring HomeKit – geht das? 3 Bridges und ein Mieter-Check (2026)
 seoTitle: Ring HomeKit – 3 Bridges für Mieter (2026)
 description: >-
-  Nein, Ring kann weder HomeKit noch Matter. So bringen Homebridge, Scrypted
-  und HOOBS Ring trotzdem in Apple Home und das sollten Mieter vorher klären.
+  Nein, Ring kann weder HomeKit noch Matter. So bringen Homebridge, Scrypted und
+  HOOBS Ring trotzdem in Apple Home und das sollten Mieter vorher klären.
 pubDate: '2026-10-21T00:25:00.000Z'
 lang: de
 translationOf: does-ring-work-with-apple-homekit
@@ -63,8 +63,11 @@ sources:
   - title: Does Ring work with Apple HomeKit? Top 3 methods (Wasserstein Home)
     url: >-
       https://wasserstein-home.com/blogs/smart-home/does-ring-work-with-apple-homekit-top-3-methods
-  - title: Videoüberwachung in Mietshäusern (Berliner Beauftragte für Datenschutz und Informationsfreiheit)
-    url: 'https://www.datenschutz-berlin.de/themen/wohnen/videoueberwachung-in-mietshaeusern/'
+  - title: >-
+      Videoüberwachung in Mietshäusern (Berliner Beauftragte für Datenschutz und
+      Informationsfreiheit)
+    url: >-
+      https://www.datenschutz-berlin.de/themen/wohnen/videoueberwachung-in-mietshaeusern/
   - title: DSK Kurzpapier Nr. 15 Videoüberwachung (Datenschutzkonferenz)
     url: >-
       https://www.datenschutz-berlin.de/fileadmin/user_upload/pdf/publikationen/DSK/kurzpapiere/DSK_KPNr_15_Videoueberwachung.pdf
@@ -80,14 +83,15 @@ sources:
   - title: Ring Protect plans (Ring)
     url: 'https://ring.com/plans'
   - title: Set up security cameras in Home on iPhone (Apple Support)
-    url: 'https://support.apple.com/guide/iphone/set-up-security-cameras-iph7bc5df9d9/ios'
+    url: >-
+      https://support.apple.com/guide/iphone/set-up-security-cameras-iph7bc5df9d9/ios
 reviewedDate: '2026-10-20'
 faqs:
   - q: Funktioniert Ring mit Apple HomeKit?
     a: >-
       Nicht nativ. Ring-Türklingeln, Ring-Kameras und Ring Alarm erscheinen
-      nicht von selbst in der Apple-Home-App, und Ring hat keine Türklingeln oder
-      Kameras mit Matter. Bridges von Drittanbietern wie Homebridge mit dem
+      nicht von selbst in der Apple-Home-App, und Ring hat keine Türklingeln
+      oder Kameras mit Matter. Bridges von Drittanbietern wie Homebridge mit dem
       Ring-Plugin, HOOBS oder Scrypted können sie aber in HomeKit einbinden.
   - q: Unterstützen Ring-Kameras HomeKit Secure Video?
     a: >-
@@ -95,7 +99,7 @@ faqs:
       für HomeKit Secure Video mit Ring-Kameras nennen. HomeKit Secure Video
       speichert Clips in iCloud+, du brauchst also zusätzlich dieses Abo. Das
       Standard-Ring-Plugin für Homebridge kann das nicht.
-  - q: Brauche ich einen Hub oder Raspberry Pi, um Ring mit HomeKit zu verbinden?
+  - q: 'Brauche ich einen Hub oder Raspberry Pi, um Ring mit HomeKit zu verbinden?'
     a: >-
       Du brauchst ein Gerät, das die Bridge-Software rund um die Uhr ausführt,
       etwa einen Raspberry Pi, einen Computer, der nie in den Ruhezustand geht,
@@ -107,10 +111,10 @@ faqs:
       angekündigt hat; die Details haben wir nicht bestätigt. Wie jeder
       Apple-Home-Bildschirm kann es Ring nur anzeigen, wenn eine Bridge Ring in
       die Home-App bringt, denn Ring hat keine native HomeKit-Unterstützung.
-  - q: Ist es sicher, Homebridge meine Ring-Zugangsdaten zu geben?
+  - q: 'Ist es sicher, Homebridge meine Ring-Zugangsdaten zu geben?'
     a: >-
-      Das Ring-Plugin für Homebridge meldet sich einmal mit deinem Ring-Konto und
-      dem Zwei-Faktor-Code an und speichert dann ein Refresh-Token. Behandle
+      Das Ring-Plugin für Homebridge meldet sich einmal mit deinem Ring-Konto
+      und dem Zwei-Faktor-Code an und speichert dann ein Refresh-Token. Behandle
       dieses Token wie ein Passwort, halte die Bridge aktuell und entferne ihre
       Anmeldung aus deinem Ring-Konto, wenn du sie nicht mehr nutzt oder
       ausziehst.
@@ -128,8 +132,7 @@ illustrations:
       box sitting on a bookshelf next to a home router in a rental apartment,
       tidy cables, a potted plant and paperback books nearby, soft afternoon
       daylight, realistic photo
-    alt: >-
-      Kleiner Dauerläufer-Computer als Bridge neben dem Router im Wohnungsregal
+    alt: Kleiner Dauerläufer-Computer als Bridge neben dem Router im Wohnungsregal
     afterHeading: 2
   - prompt: >-
       A person holding a smartphone in a bright apartment kitchen, the screen
@@ -137,7 +140,8 @@ illustrations:
       smart speaker on the counter beside a coffee mug, morning light through
       the window, realistic photo, face not visible
     alt: >-
-      Mieterin prüft das Live-Bild der Türklingelkamera auf dem Handy in der Küche
+      Mieterin prüft das Live-Bild der Türklingelkamera auf dem Handy in der
+      Küche
     afterHeading: 3
   - prompt: >-
       A renter reading a printed lease agreement at a dining table, a
@@ -145,12 +149,14 @@ illustrations:
       unopened beside the papers, an apartment front door with a peephole
       visible in the background, natural daylight, realistic photo, face not
       visible
-    alt: >-
-      Mieter liest den Mietvertrag, bevor er eine Video-Türklingel montiert
+    alt: 'Mieter liest den Mietvertrag, bevor er eine Video-Türklingel montiert'
     afterHeading: 5
 videos:
   - id: mK8Wvv9aALs
     afterHeading: 4
+    title: The EASY Way to Add Ring to Apple Home! (Homebridge Required)
+    channel: Adam's Tech Life
+    checked: '2026-10-21'
 heroImage: /images/featured/does-ring-work-with-apple-homekit.png
 heroAlt: >-
   Ring HomeKit – geht das? 3 Bridges und ein Mieter-Check (2026) –

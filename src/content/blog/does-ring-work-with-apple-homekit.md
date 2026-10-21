@@ -62,7 +62,8 @@ sources:
   - title: Ring Protect plans (Ring)
     url: 'https://ring.com/plans'
   - title: Set up security cameras in Home on iPhone (Apple Support)
-    url: 'https://support.apple.com/guide/iphone/set-up-security-cameras-iph7bc5df9d9/ios'
+    url: >-
+      https://support.apple.com/guide/iphone/set-up-security-cameras-iph7bc5df9d9/ios
 reviewedDate: '2026-10-20'
 faqs:
   - q: Does Ring work with Apple HomeKit?
@@ -80,9 +81,9 @@ faqs:
   - q: Do I need a hub or Raspberry Pi to connect Ring to HomeKit?
     a: >-
       You need an always-on host for the bridge software, such as a Raspberry
-      Pi, a computer that never sleeps, or a ready-made Homebridge host such as the HOOBS Box. For remote
-      access and automations, Apple Home also needs a HomePod or Apple TV as its
-      home hub.
+      Pi, a computer that never sleeps, or a ready-made Homebridge host such as
+      the HOOBS Box. For remote access and automations, Apple Home also needs a
+      HomePod or Apple TV as its home hub.
   - q: Does Apple HomeView work with Ring?
     a: >-
       AddToHomeKit reports that Apple has announced a home display called
@@ -108,16 +109,14 @@ illustrations:
       box sitting on a bookshelf next to a home router in a rental apartment,
       tidy cables, a potted plant and paperback books nearby, soft afternoon
       daylight, realistic photo
-    alt: >-
-      Small always-on bridge computer next to a router on an apartment shelf
+    alt: Small always-on bridge computer next to a router on an apartment shelf
     afterHeading: 2
   - prompt: >-
       A person holding a smartphone in a bright apartment kitchen, the screen
       showing a blurred live video feed of a front door hallway, a small round
       smart speaker on the counter beside a coffee mug, morning light through
       the window, realistic photo, face not visible
-    alt: >-
-      Renter checking a doorbell camera live view on a phone in the kitchen
+    alt: Renter checking a doorbell camera live view on a phone in the kitchen
     afterHeading: 3
   - prompt: >-
       A renter reading a printed lease agreement at a dining table, a
@@ -125,12 +124,14 @@ illustrations:
       unopened beside the papers, an apartment front door with a peephole
       visible in the background, natural daylight, realistic photo, face not
       visible
-    alt: >-
-      Renter reviewing a lease before mounting a video doorbell on the door
+    alt: Renter reviewing a lease before mounting a video doorbell on the door
     afterHeading: 5
 videos:
   - id: mK8Wvv9aALs
     afterHeading: 4
+    title: The EASY Way to Add Ring to Apple Home! (Homebridge Required)
+    channel: Adam's Tech Life
+    checked: '2026-10-21'
 heroImage: /images/featured/does-ring-work-with-apple-homekit.png
 heroAlt: >-
   Does Ring Work With Apple HomeKit? 3 Bridges and a Renter Check (2026) –

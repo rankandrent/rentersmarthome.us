@@ -3,7 +3,8 @@ title: ¿Es Ring compatible con HomeKit? 3 puentes y qué revisar si alquilas
 seoTitle: ¿Es Ring compatible con HomeKit? 3 puentes para inquilinos
 description: >-
   Ring no es compatible con HomeKit ni con Matter de serie. Así lo integran
-  Homebridge, Scrypted y HOOBS en la app Casa, y qué revisar si vives de alquiler.
+  Homebridge, Scrypted y HOOBS en la app Casa, y qué revisar si vives de
+  alquiler.
 pubDate: '2026-10-21T01:05:00.000Z'
 lang: es
 translationOf: does-ring-work-with-apple-homekit
@@ -70,19 +71,24 @@ sources:
   - title: ¿Se aplica la normativa de protección de datos a los videoporteros? (AEPD)
     url: >-
       https://www.aepd.es/preguntas-frecuentes/9-comunidades-de-propietarios/FAQ-0912-la-normativa-de-proteccion-de-datos-se-aplica-a-los-videoporteros
-  - title: Guía sobre el uso de videocámaras para seguridad y otras finalidades (AEPD)
+  - title: >-
+      Guía sobre el uso de videocámaras para seguridad y otras finalidades
+      (AEPD)
     url: 'https://www.aepd.es/guias/guia-videovigilancia.pdf'
   - title: >-
       El Supremo confirma que una mirilla electrónica vulnera la intimidad de
       los vecinos (CAF Madrid)
     url: >-
       https://ciudadycomunidad.cafmadrid.es/el-supremo-confirma-que-una-mirilla-electronica-vulnera-la-intimidad-de-los-vecinos/
-  - title: Mirilla con cámara digital y protección de datos (Ayuda Ley Protección Datos)
+  - title: >-
+      Mirilla con cámara digital y protección de datos (Ayuda Ley Protección
+      Datos)
     url: 'https://ayudaleyprotecciondatos.es/2019/03/04/mirilla-camara-digital/'
   - title: Ring Protect plans (Ring)
     url: 'https://ring.com/plans'
   - title: Set up security cameras in Home on iPhone (Apple Support)
-    url: 'https://support.apple.com/guide/iphone/set-up-security-cameras-iph7bc5df9d9/ios'
+    url: >-
+      https://support.apple.com/guide/iphone/set-up-security-cameras-iph7bc5df9d9/ios
 reviewedDate: '2026-10-20'
 faqs:
   - q: ¿Ring es compatible con HomeKit de Apple?
@@ -95,8 +101,8 @@ faqs:
     a: >-
       No por sí solas. Scrypted es el puente que citan las guías principales
       para usar HomeKit Secure Video con cámaras Ring, y HomeKit Secure Video
-      guarda los clips en iCloud+, así que también necesitas ese plan. El
-      plugin estándar de Ring para Homebridge no lo ofrece.
+      guarda los clips en iCloud+, así que también necesitas ese plan. El plugin
+      estándar de Ring para Homebridge no lo ofrece.
   - q: ¿Necesito un hub o una Raspberry Pi para conectar Ring a HomeKit?
     a: >-
       Necesitas un equipo siempre encendido para el software del puente, como
@@ -132,7 +138,8 @@ illustrations:
       tidy cables, a potted plant and paperback books nearby, soft afternoon
       daylight, realistic photo
     alt: >-
-      Pequeño ordenador siempre encendido que hace de puente junto al router en una estantería
+      Pequeño ordenador siempre encendido que hace de puente junto al router en
+      una estantería
     afterHeading: 2
   - prompt: >-
       A person holding a smartphone in a bright apartment kitchen, the screen
@@ -140,7 +147,8 @@ illustrations:
       smart speaker on the counter beside a coffee mug, morning light through
       the window, realistic photo, face not visible
     alt: >-
-      Inquilina mira el vídeo en directo del timbre con cámara en el móvil en la cocina
+      Inquilina mira el vídeo en directo del timbre con cámara en el móvil en la
+      cocina
     afterHeading: 3
   - prompt: >-
       A renter reading a printed lease agreement at a dining table, a
@@ -148,16 +156,18 @@ illustrations:
       unopened beside the papers, an apartment front door with a peephole
       visible in the background, natural daylight, realistic photo, face not
       visible
-    alt: >-
-      Inquilino lee el contrato de alquiler antes de montar un timbre con cámara
+    alt: Inquilino lee el contrato de alquiler antes de montar un timbre con cámara
     afterHeading: 5
 videos:
   - id: mK8Wvv9aALs
     afterHeading: 4
+    title: The EASY Way to Add Ring to Apple Home! (Homebridge Required)
+    channel: Adam's Tech Life
+    checked: '2026-10-21'
 heroImage: /images/featured/does-ring-work-with-apple-homekit.png
 heroAlt: >-
-  ¿Es Ring compatible con HomeKit? 3 puentes y qué revisar si alquilas –
-  guía práctica de RenterSmartHome
+  ¿Es Ring compatible con HomeKit? 3 puentes y qué revisar si alquilas – guía
+  práctica de RenterSmartHome
 ---
 
 En un hilo de r/HomeKit, alguien que vive de alquiler pregunta qué timbre con cámara comprar para un piso donde todo es de Apple, y [la primera respuesta es tajante](https://www.reddit.com/r/HomeKit/comments/1x50tp7/doorbell_camera_for_an_apartment_recommendation/): que no compre un Ring, porque no es compatible con HomeKit y encima hay que pagar para sacarle partido. En lo básico, esa respuesta acierta. **Ring no es compatible con HomeKit de forma nativa: los timbres, las cámaras y Ring Alarm no tienen soporte para HomeKit ni para Matter, así que por sí solos nunca aparecen en la app Casa de Apple.** Puentes de terceros como Homebridge, Scrypted y HOOBS pueden añadir Ring a la app Casa, pero son apaños no oficiales que necesitan un dispositivo encendido todo el día.

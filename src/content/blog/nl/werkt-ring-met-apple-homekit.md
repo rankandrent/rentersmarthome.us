@@ -2,8 +2,9 @@
 title: Werkt Ring met Apple HomeKit? 3 bridges en een huurderscheck (2026)
 seoTitle: Werkt Ring met Apple HomeKit? 3 bridges voor huurders
 description: >-
-  Nee, Ring heeft geen eigen HomeKit- of Matter-ondersteuning. Zo zet je Ring via
-  Homebridge, Scrypted of HOOBS in Apple Woning, en dit check je als huurder.
+  Nee, Ring heeft geen eigen HomeKit- of Matter-ondersteuning. Zo zet je Ring
+  via Homebridge, Scrypted of HOOBS in Apple Woning, en dit check je als
+  huurder.
 pubDate: '2026-10-20T23:35:00.000Z'
 lang: nl
 translationOf: does-ring-work-with-apple-homekit
@@ -37,17 +38,17 @@ productStyle: paragraph
 readingTime: 9
 tldr:
   - >-
-    Nee. Ring-deurbellen, Ring-camera's en Ring Alarm hebben geen eigen
-    HomeKit- of Matter-ondersteuning en verschijnen dus nooit vanzelf in de
-    Woning-app van Apple.
+    Nee. Ring-deurbellen, Ring-camera's en Ring Alarm hebben geen eigen HomeKit-
+    of Matter-ondersteuning en verschijnen dus nooit vanzelf in de Woning-app
+    van Apple.
   - >-
     Bridges van derden (Homebridge met de Ring-plugin, HOOBS, of Scrypted voor
     HomeKit Secure Video) kunnen Ring wel aan Apple Woning toevoegen, maar ze
     hebben een apparaat nodig dat altijd aan staat.
   - >-
     Check als huurder eerst je huurcontract en of je camera niet de buren of de
-    openbare weg filmt; kies daarna tussen een bridge onderhouden of een
-    deurbel die HomeKit zelf ondersteunt.
+    openbare weg filmt; kies daarna tussen een bridge onderhouden of een deurbel
+    die HomeKit zelf ondersteunt.
 sources:
   - title: How to add Ring to Apple Home with HOOBS (HOOBS)
     url: 'https://hoobs.com/ring/'
@@ -62,13 +63,15 @@ sources:
   - title: Does Ring work with Apple HomeKit? Top 3 methods (Wasserstein Home)
     url: >-
       https://wasserstein-home.com/blogs/smart-home/does-ring-work-with-apple-homekit-top-3-methods
-  - title: Gefilmd worden door de camera van een ander huis (Autoriteit Persoonsgegevens)
+  - title: >-
+      Gefilmd worden door de camera van een ander huis (Autoriteit
+      Persoonsgegevens)
     url: >-
       https://www.autoriteitpersoonsgegevens.nl/themas/cameratoezicht/cameragebruik-in-en-om-het-huis/gefilmd-worden-door-de-camera-van-een-ander-huis
   - title: Camera's bij het eigen huis (Autoriteit Persoonsgegevens)
     url: >-
       https://www.autoriteitpersoonsgegevens.nl/themas/cameratoezicht/cameragebruik-in-en-om-het-huis/cameras-bij-het-eigen-huis
-  - title: Uitspraak ECLI:NL:RBZWB:2024:9594 (Rechtbank Zeeland-West-Brabant)
+  - title: 'Uitspraak ECLI:NL:RBZWB:2024:9594 (Rechtbank Zeeland-West-Brabant)'
     url: 'https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:9594'
   - title: Camera van de buren (Juridisch Loket)
     url: 'https://www.juridischloket.nl/wonen-en-buren/buren/camera/'
@@ -81,32 +84,33 @@ sources:
   - title: Ring Protect plans (Ring)
     url: 'https://ring.com/plans'
   - title: Set up security cameras in Home on iPhone (Apple Support)
-    url: 'https://support.apple.com/guide/iphone/set-up-security-cameras-iph7bc5df9d9/ios'
+    url: >-
+      https://support.apple.com/guide/iphone/set-up-security-cameras-iph7bc5df9d9/ios
 reviewedDate: '2026-10-20'
 faqs:
   - q: Werkt Ring met Apple HomeKit?
     a: >-
       Niet standaard. Ring-deurbellen, Ring-camera's en Ring Alarm verschijnen
-      niet vanzelf in de Woning-app van Apple, en Ring heeft geen Matter-deurbellen
-      of -camera's. Bridges van derden zoals Homebridge met de Ring-plugin, HOOBS
-      of Scrypted kunnen ze wel aan HomeKit doorgeven.
+      niet vanzelf in de Woning-app van Apple, en Ring heeft geen
+      Matter-deurbellen of -camera's. Bridges van derden zoals Homebridge met de
+      Ring-plugin, HOOBS of Scrypted kunnen ze wel aan HomeKit doorgeven.
   - q: Werkt HomeKit Secure Video met Ring-camera's?
     a: >-
-      Niet uit zichzelf. Scrypted is de bridge die de belangrijkste gidsen noemen
-      voor HomeKit Secure Video op Ring-camera's, en HomeKit Secure Video bewaart
-      opnamen in iCloud+, dus dat abonnement heb je ook nodig. De standaard
-      Homebridge Ring-plugin biedt het niet.
+      Niet uit zichzelf. Scrypted is de bridge die de belangrijkste gidsen
+      noemen voor HomeKit Secure Video op Ring-camera's, en HomeKit Secure Video
+      bewaart opnamen in iCloud+, dus dat abonnement heb je ook nodig. De
+      standaard Homebridge Ring-plugin biedt het niet.
   - q: Heb ik een hub of Raspberry Pi nodig om Ring aan HomeKit te koppelen?
     a: >-
       Je hebt een apparaat nodig dat altijd aan staat voor de bridge-software,
       zoals een Raspberry Pi, een computer die nooit in slaap valt of een
-      kant-en-klare HOOBS Box. Voor bediening op afstand en automatiseringen heeft
-      Apple Woning ook een HomePod of Apple TV als woninghub nodig.
+      kant-en-klare HOOBS Box. Voor bediening op afstand en automatiseringen
+      heeft Apple Woning ook een HomePod of Apple TV als woninghub nodig.
   - q: Werkt Apple HomeView met Ring?
     a: >-
       AddToHomeKit meldt dat Apple een thuisscherm met de naam HomeView heeft
-      aangekondigd; de details daarvan hebben we niet bevestigd. Zoals elk
-      Apple Woning-scherm kan het Ring pas tonen nadat een bridge Ring aan de
+      aangekondigd; de details daarvan hebben we niet bevestigd. Zoals elk Apple
+      Woning-scherm kan het Ring pas tonen nadat een bridge Ring aan de
       Woning-app heeft toegevoegd, omdat Ring geen eigen HomeKit-ondersteuning
       heeft.
   - q: Is het veilig om Homebridge mijn Ring-login te geven?
@@ -130,7 +134,8 @@ illustrations:
       tidy cables, a potted plant and paperback books nearby, soft afternoon
       daylight, realistic photo
     alt: >-
-      Kleine computer die altijd aan staat als bridge naast de router op een boekenplank
+      Kleine computer die altijd aan staat als bridge naast de router op een
+      boekenplank
     afterHeading: 2
   - prompt: >-
       A person holding a smartphone in a bright apartment kitchen, the screen
@@ -138,7 +143,8 @@ illustrations:
       smart speaker on the counter beside a coffee mug, morning light through
       the window, realistic photo, face not visible
     alt: >-
-      Huurder bekijkt het live beeld van de deurbelcamera op de telefoon in de keuken
+      Huurder bekijkt het live beeld van de deurbelcamera op de telefoon in de
+      keuken
     afterHeading: 3
   - prompt: >-
       A renter reading a printed lease agreement at a dining table, a
@@ -146,12 +152,14 @@ illustrations:
       unopened beside the papers, an apartment front door with a peephole
       visible in the background, natural daylight, realistic photo, face not
       visible
-    alt: >-
-      Huurder leest het huurcontract voordat hij een videodeurbel ophangt
+    alt: Huurder leest het huurcontract voordat hij een videodeurbel ophangt
     afterHeading: 5
 videos:
   - id: mK8Wvv9aALs
     afterHeading: 4
+    title: The EASY Way to Add Ring to Apple Home! (Homebridge Required)
+    channel: Adam's Tech Life
+    checked: '2026-10-21'
 heroImage: /images/featured/does-ring-work-with-apple-homekit.png
 heroAlt: >-
   Werkt Ring met Apple HomeKit? 3 bridges en een huurderscheck (2026) –

@@ -126,28 +126,28 @@ illustrations:
       few labelled battery door sensors into a cardboard moving box on the
       wooden floor of a half-empty apartment, soft daylight from a window,
       rolled rug and taped boxes in the background, realistic photo
-    alt: >-
-      Renter packing a smart home hub and labelled sensors into a moving box
+    alt: Renter packing a smart home hub and labelled sensors into a moving box
     afterHeading: 2
   - prompt: >-
-      A hallway in an older apartment building with thick painted brick walls,
-      a small white plug-in smart plug glowing softly in an outlet near the
-      floor acting as a signal repeater, an open apartment door with a living
-      room beyond, warm evening light, realistic photo
-    alt: >-
-      Plug-in smart plug in an apartment hallway with thick brick walls
+      A hallway in an older apartment building with thick painted brick walls, a
+      small white plug-in smart plug glowing softly in an outlet near the floor
+      acting as a signal repeater, an open apartment door with a living room
+      beyond, warm evening light, realistic photo
+    alt: Plug-in smart plug in an apartment hallway with thick brick walls
     afterHeading: 3
   - prompt: >-
       A person sitting on a sofa in a small rental living room, looking at a
       smartphone with a puzzled expression, a small round speaker and a plain
       white sensor on a side table, a desk lamp switched off nearby, cozy
       evening light, realistic photo, face not visible
-    alt: >-
-      Renter troubleshooting offline smart home devices on a phone at home
+    alt: Renter troubleshooting offline smart home devices on a phone at home
     afterHeading: 4
 videos:
   - id: 3h-uVVwXYcY
     afterHeading: 1
+    title: 'Zigbee vs. Thread: Which is BEST? | HomeKit Versus'
+    channel: myHomeKithome
+    checked: '2026-10-21'
 heroImage: /images/featured/zigbee-vs-thread.png
 heroAlt: >-
   Zigbee vs Thread for Renters – Range, Hubs and Moving Out – RenterSmartHome
