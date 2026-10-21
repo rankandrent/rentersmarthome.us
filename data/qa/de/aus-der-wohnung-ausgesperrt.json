@@ -3,9 +3,14 @@
   "lang": "de",
   "translationOf": "locked-out-of-apartment",
   "pass": true,
-  "checkedAt": "2026-10-21T19:51:37.671Z",
+  "checkedAt": "2026-10-21T19:59:45.060Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "source didn't respond normally (503): https://www.konsumentenfragen.at/konsumentenfragen/Rund_um_den_Vertrag/Rund_um_den_Vertrag/AK-warnt-vor-Abzocke-durch-Schluesseldienste-Tipps-fuer-Kon.html",
+    "source didn't respond normally (403): https://www.reddit.com/r/Vermieten/comments/1thwg39/muss_mein_vermieter_den_schl%C3%BCsseldienst_zahlen/",
+    "source didn't respond normally (403): https://www.reddit.com/r/LegaladviceGerman/comments/1drbmtt/muss_der_vermieter_trotz_kleinreparaturklausel/",
+    "source didn't respond normally (403): https://www.reddit.com/r/LegaladviceGerman/comments/1exkrar/schl%C3%BCsselverlust_in_mietwohnung_der_vermieter/"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",

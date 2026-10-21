@@ -1,12 +1,16 @@
 {
   "slug": "what-is-homebridge",
   "pass": true,
-  "checkedAt": "2026-10-21T19:51:34.764Z",
+  "checkedAt": "2026-10-21T19:59:06.869Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.reddit.com/r/homebridge/comments/1hkzlf0/homebridge_the_future_concerns/",
+    "source didn't respond normally (403): https://www.reddit.com/r/homebridge/comments/1eplbzv/about_to_give_up_on_homebridge/",
+    "source didn't respond normally (403): https://www.reddit.com/r/homebridge/comments/p8zmzr/homekit_devices_using_homebridge_get_no_response/",
+    "source didn't respond normally (403): https://www.reddit.com/r/HomeKit/comments/1d37h7m/is_it_worth_it_to_set_up_and_maintain_a/"
   ],
   "factCheck": {
     "verified": true,

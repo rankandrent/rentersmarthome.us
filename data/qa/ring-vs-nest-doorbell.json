@@ -1,10 +1,11 @@
 {
   "slug": "ring-vs-nest-doorbell",
   "pass": true,
-  "checkedAt": "2026-10-21T19:51:33.375Z",
+  "checkedAt": "2026-10-21T19:58:57.800Z",
   "errors": [],
   "warnings": [
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
+    "LIVE POST, FIX: source returns 404: https://support.google.com/googlehome/answer/10901611?hl=en"
   ],
   "factCheck": {
     "verified": true,

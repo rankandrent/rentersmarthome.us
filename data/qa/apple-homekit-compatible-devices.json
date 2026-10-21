@@ -1,9 +1,11 @@
 {
   "slug": "apple-homekit-compatible-devices",
   "pass": true,
-  "checkedAt": "2026-10-21T19:51:23.088Z",
+  "checkedAt": "2026-10-21T19:55:46.896Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "source didn't respond normally (403): https://www.macobserver.com/tips/round-ups/homekit-compatible-devices/"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",

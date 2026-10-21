@@ -3,12 +3,16 @@
   "lang": "de",
   "translationOf": "does-ring-work-with-apple-homekit",
   "pass": true,
-  "checkedAt": "2026-10-21T19:51:40.428Z",
+  "checkedAt": "2026-10-21T20:01:01.007Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://hoobs.com/ring/",
+    "source didn't respond normally (403): https://hoobs.com/box/",
+    "source didn't respond normally (403): https://www.reddit.com/r/LegaladviceGerman/comments/uya0k3/ist_sicherheitskamera_als_mieter_um_zu_sehen_wer/",
+    "source didn't respond normally (403): https://www.reddit.com/r/LegaladviceGerman/comments/1f7bsw4/nachbar_ist_laut_und_hat_kamera_im_hausflur/"
   ],
   "factCheck": {
     "verified": true,

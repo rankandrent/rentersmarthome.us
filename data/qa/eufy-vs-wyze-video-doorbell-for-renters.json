@@ -1,10 +1,11 @@
 {
   "slug": "eufy-vs-wyze-video-doorbell-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-21T19:51:27.410Z",
+  "checkedAt": "2026-10-21T19:58:20.849Z",
   "errors": [],
   "warnings": [
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
+    "source didn't respond normally (403): https://support.wyze.com/hc/en-us/articles/31270933879707-Can-I-use-24-7-continuous-recording-with-Wyze-Duo-Cam-Doorbell"
   ],
   "factCheck": {
     "verified": true,

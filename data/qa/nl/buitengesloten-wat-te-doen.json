@@ -3,10 +3,12 @@
   "lang": "nl",
   "translationOf": "locked-out-of-apartment",
   "pass": true,
-  "checkedAt": "2026-10-21T19:51:49.591Z",
+  "checkedAt": "2026-10-21T20:04:49.259Z",
   "errors": [],
   "warnings": [
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
+    "source didn't respond normally (403): https://www.juridischloket.nl/wonen-en-buren/huurwoning/onderhoudskosten/",
+    "source didn't respond normally (403): https://www.reddit.com/r/nederlands/comments/1o036wo/pas_op_met_cvstoringservicenl_1500_kwijt_voor/"
   ],
   "factCheck": {
     "verified": true,

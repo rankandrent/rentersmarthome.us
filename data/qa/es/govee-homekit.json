@@ -3,10 +3,12 @@
   "lang": "es",
   "translationOf": "govee-apple-homekit",
   "pass": true,
-  "checkedAt": "2026-10-21T19:51:43.168Z",
+  "checkedAt": "2026-10-21T20:02:31.331Z",
   "errors": [],
   "warnings": [
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
+    "source didn't respond normally (403): https://www.reddit.com/r/ESLegal/comments/1sfnmv7/casero_no_me_devuelve_fianza_por_tener_que_pintar/",
+    "source didn't respond normally (403): https://www.reddit.com/r/ESLegal/comments/1nhisum/cobro_de_900_euros_en_pintura_tras_terminar/"
   ],
   "factCheck": {
     "verified": true,

@@ -3,12 +3,20 @@
   "lang": "nl",
   "translationOf": "does-ring-work-with-apple-homekit",
   "pass": true,
-  "checkedAt": "2026-10-21T19:51:53.217Z",
+  "checkedAt": "2026-10-21T20:05:57.964Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://hoobs.com/ring/",
+    "source didn't respond normally (403): https://hoobs.com/box/",
+    "source didn't respond normally (no response): https://www.autoriteitpersoonsgegevens.nl/themas/cameratoezicht/cameragebruik-in-en-om-het-huis/gefilmd-worden-door-de-camera-van-een-ander-huis",
+    "source didn't respond normally (no response): https://www.autoriteitpersoonsgegevens.nl/themas/cameratoezicht/cameragebruik-in-en-om-het-huis/cameras-bij-het-eigen-huis",
+    "source didn't respond normally (no response): https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:9594",
+    "source didn't respond normally (403): https://www.juridischloket.nl/wonen-en-buren/buren/camera/",
+    "source didn't respond normally (403): https://www.reddit.com/r/juridischadvies/comments/1k31ick/deurbel_camera_appartementen_complex/",
+    "source didn't respond normally (403): https://www.reddit.com/r/thenetherlands/comments/ooymt5/camera_in_gemeenschappelijke_ruimte_door_huurder/"
   ],
   "factCheck": {
     "verified": true,

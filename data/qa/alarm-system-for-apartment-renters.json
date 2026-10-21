@@ -1,9 +1,11 @@
 {
   "slug": "alarm-system-for-apartment-renters",
   "pass": true,
-  "checkedAt": "2026-10-21T19:51:21.828Z",
+  "checkedAt": "2026-10-21T19:55:33.860Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "source didn't respond normally (no response): https://realestate.usnews.com/home-services/home-security-systems/best-home-security-systems-for-renters"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",

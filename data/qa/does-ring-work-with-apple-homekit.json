@@ -1,12 +1,14 @@
 {
   "slug": "does-ring-work-with-apple-homekit",
   "pass": true,
-  "checkedAt": "2026-10-21T19:51:26.703Z",
+  "checkedAt": "2026-10-21T19:58:15.218Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://hoobs.com/ring/",
+    "source didn't respond normally (403): https://hoobs.com/box/"
   ],
   "factCheck": {
     "verified": true,
