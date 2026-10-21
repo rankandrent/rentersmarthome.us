@@ -3,11 +3,12 @@
   "lang": "de",
   "translationOf": "reolink-vs-eufy",
   "pass": true,
-  "checkedAt": "2026-10-20T17:21:26.762Z",
+  "checkedAt": "2026-10-21T14:44:21.699Z",
   "errors": [],
   "warnings": [
     "not localized yet: run localizer-agent for reolink-vs-eufy (data/briefs/de/reolink-vs-eufy.local.json), then rewrite with translator-agent",
     "LIVE POST, FIX: source returns 404: https://reolink.com/product/argus-4-pro/",
+    "source didn't respond normally (503): https://arstechnica.com/gadgets/2022/11/eufys-no-clouds-cameras-upload-facial-thumbnails-to-aws/",
     "source didn't respond normally (403): https://cpisecurity.com/blog/how-cold-weather-affects-your-cpi-security-devices/",
     "product \"Reolink Argus 4 Pro\" (B0F189FV7K) is no longer returned by Amazon"
   ],

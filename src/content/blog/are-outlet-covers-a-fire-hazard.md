@@ -133,6 +133,9 @@ illustrations:
 videos:
   - id: 1_s6hxxWTiE
     afterHeading: 3
+    title: 'Childproofing Your Home: Tamper Resistant Receptacles'
+    channel: Electrical Safety Foundation International
+    checked: '2026-10-21'
 heroImage: /images/featured/are-outlet-covers-a-fire-hazard.png
 heroAlt: >-
   Are Outlet Covers a Fire Hazard? 3 Safer Options for Renters (2026) –

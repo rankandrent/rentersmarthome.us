@@ -149,6 +149,9 @@ illustrations:
 videos:
   - id: 1F2kj-hftkI
     afterHeading: 1
+    title: What I Use Homebridge For (and Why I Love It)
+    channel: 'Edgar’s Home Tech '
+    checked: '2026-10-21'
 heroImage: /images/featured/what-is-homebridge.png
 heroAlt: >-
   What Is Homebridge? What It Needs, Plugins and 5 Renter Limits –

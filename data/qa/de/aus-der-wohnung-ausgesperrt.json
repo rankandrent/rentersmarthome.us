@@ -3,10 +3,10 @@
   "lang": "de",
   "translationOf": "locked-out-of-apartment",
   "pass": true,
-  "checkedAt": "2026-10-21T10:19:51.067Z",
+  "checkedAt": "2026-10-21T14:43:03.804Z",
   "errors": [],
   "warnings": [
-    "source didn't respond normally (no response): https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/abzocke/schluesseldienste-so-schuetzen-sie-sich-vor-ueberzogen-hohen-rechnungen-6687",
+    "source didn't respond normally (503): https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/abzocke/schluesseldienste-so-schuetzen-sie-sich-vor-ueberzogen-hohen-rechnungen-6687",
     "source didn't respond normally (503): https://www.konsumentenfragen.at/konsumentenfragen/Rund_um_den_Vertrag/Rund_um_den_Vertrag/AK-warnt-vor-Abzocke-durch-Schluesseldienste-Tipps-fuer-Kon.html",
     "source didn't respond normally (403): https://www.reddit.com/r/Vermieten/comments/1thwg39/muss_mein_vermieter_den_schl%C3%BCsseldienst_zahlen/",
     "source didn't respond normally (403): https://www.reddit.com/r/LegaladviceGerman/comments/1drbmtt/muss_der_vermieter_trotz_kleinreparaturklausel/",

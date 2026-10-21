@@ -118,6 +118,27 @@ products:
             https://www.reddit.com/r/wyzecam/comments/11eqyzw/anyone_got_any_mounting_recommendations_for_the/
         - title: 'DoorbellBoa review video, EvenTechCorp (YouTube)'
           url: 'https://www.youtube.com/watch?v=nkPruKEFcT4'
+    image:
+      url: 'https://m.media-amazon.com/images/I/31OxUqDbqML._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      DoorbellBoa Anti-Theft Video Doorbell Door Mount, No Tools or
+      Installation, Mounts Securely in Seconds, Compatible with Ring & Other
+      Video Doorbells (Black)
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51F0xCcGwwL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51pq9Skw7-L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51GX5wXUdQL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51xRoq4ThoL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: 'Device stolen, Ring theft replacement policy'
     url: 'https://ring.com/pages/device-stolen'
@@ -170,6 +191,11 @@ author: editorial-team
 videos:
   - id: nkPruKEFcT4
     afterHeading: 2
+    title: >-
+      DoorbellBoa Anti-Theft Video Doorbell Door Mount, No Tools or Installation
+      (Honest Review)
+    channel: EvenTechCorp
+    checked: '2026-10-21'
 illustrations:
   - prompt: >-
       Close-up of a plain black metal bracket hooked over the top edge of an

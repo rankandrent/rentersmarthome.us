@@ -3,7 +3,7 @@
   "lang": "de",
   "translationOf": "does-ring-work-with-apple-homekit",
   "pass": true,
-  "checkedAt": "2026-10-21T10:21:25.372Z",
+  "checkedAt": "2026-10-21T14:44:23.879Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
@@ -11,6 +11,8 @@
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
     "source didn't respond normally (403): https://hoobs.com/ring/",
     "source didn't respond normally (403): https://hoobs.com/box/",
+    "source didn't respond normally (no response): https://www.datenschutz-berlin.de/themen/wohnen/videoueberwachung-in-mietshaeusern/",
+    "source didn't respond normally (no response): https://www.datenschutz-berlin.de/fileadmin/user_upload/pdf/publikationen/DSK/kurzpapiere/DSK_KPNr_15_Videoueberwachung.pdf",
     "source didn't respond normally (403): https://www.reddit.com/r/LegaladviceGerman/comments/uya0k3/ist_sicherheitskamera_als_mieter_um_zu_sehen_wer/",
     "source didn't respond normally (403): https://www.reddit.com/r/LegaladviceGerman/comments/1f7bsw4/nachbar_ist_laut_und_hat_kamera_im_hausflur/"
   ],

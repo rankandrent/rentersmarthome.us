@@ -305,6 +305,9 @@ products:
 videos:
   - id: dqBd64oIY5U
     afterHeading: 6
+    title: How to Install Your Base Station
+    channel: SimpliSafe
+    checked: '2026-10-21'
 sources:
   - title: 'Ring: Alarm Security Kit, 8-Piece'
     url: 'https://ring.com/products/security-system-alarm-8'
