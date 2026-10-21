@@ -134,6 +134,9 @@ illustrations:
 videos:
   - id: h7tfOHbBh2E
     afterHeading: 2
+    title: Safety 1st Lazy Susan Cabinet Lock
+    channel: Happy Shop
+    checked: '2026-10-21'
 heroImage: /images/featured/lazy-susan-child-lock.png
 heroAlt: >-
   Lazy Susan Child Lock – 3 Cabinet Types, No-Drill Fixes (2026) –
