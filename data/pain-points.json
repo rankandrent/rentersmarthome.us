@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T10:30:00.000Z",
+  "updatedAt": "2026-10-21T11:28:28.000Z",
   "categories": {
     "smart-locks": [
       {
@@ -3113,6 +3113,149 @@
         "coveredBy": [
           "lazy-susan-child-lock"
         ]
+      },
+      {
+        "id": "baby-proofing-fireplace-no-drill-rental",
+        "pain": "Renters can't drill the hearth, mantel or wall to anchor a fireplace gate or guard",
+        "details": "Parents in rentals with a gas, wood or inglenook fireplace ask how to block it off when the lease forbids drilling into brick, stone or the mantel; replies point to weighted freestanding guards, configurable gates tied to existing rails, or asking the landlord.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/AskParents/comments/1ipisgu/how_on_earth_do_i_babyproof_my_open_gas_fireplace/",
+            "platform": "reddit",
+            "title": "How on earth do I babyproof my open gas fireplace",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/UKParenting/comments/1wy8w69/how_would_you_childproof_this_inglenook_wood/",
+            "platform": "reddit",
+            "title": "How would you childproof this inglenook wood burner without ...",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/DIYUK/comments/1wy8vyl/how_would_you_childproof_this_inglenook_wood/",
+            "platform": "reddit",
+            "title": "How would you childproof this inglenook wood burner without ...",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "And we can't drill into the hearth or anything because we rent.",
+            "url": "https://www.reddit.com/r/AskParents/comments/1ipisgu/how_on_earth_do_i_babyproof_my_open_gas_fireplace/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "I would go for a large extending cube type fire guard, and secure that to the metal hearth rails on one side using zip ties.",
+            "url": "https://www.reddit.com/r/DIYUK/comments/1wy8vyl/how_would_you_childproof_this_inglenook_wood/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "how to baby proof fireplace in rental",
+          "fireplace gate without drilling",
+          "childproof fireplace no drill"
+        ],
+        "keywords": [
+          "how to baby proof fireplace in rental"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-21"
+      },
+      {
+        "id": "baby-proofing-fireplace-guard-pulled-over",
+        "pain": "A freestanding fireplace guard or gate that isn't anchored can be pushed or pulled over by a toddler",
+        "details": "Without screws, parents worry a lightweight fire screen or play-yard gate will tip onto the child or fold in; they look for weighted, wide-footprint guards or ways to tie the gate to something solid.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/UKParenting/comments/1wy8w69/how_would_you_childproof_this_inglenook_wood/",
+            "platform": "reddit",
+            "title": "How would you childproof this inglenook wood burner without ...",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=PYDmkxY-_gE",
+            "platform": "review",
+            "title": "How to Install a Baby Gate in Front of Pellet Stove or Fireplace",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://babyproofme.com/blogs/the-parenting-journal/how-to-baby-proof-a-fireplace-screen-guards-and-hearth-pads-explained",
+            "platform": "review",
+            "title": "How to Baby Proof a Fireplace: Screen Guards and Hearth Pads Explained",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Plenty of fire guards don't need drilling. You need to make sure it's weighted so baby can't pull it down over them.",
+            "url": "https://www.reddit.com/r/UKParenting/comments/1wy8w69/how_would_you_childproof_this_inglenook_wood/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "A guard that wasn’t anchored could be toppled by an 18-month-old.",
+            "url": "https://babyproofme.com/blogs/the-parenting-journal/how-to-baby-proof-a-fireplace-screen-guards-and-hearth-pads-explained",
+            "via": "page"
+          }
+        ],
+        "searches": [
+          "freestanding fireplace gate tip over",
+          "fireplace guard without screws safe"
+        ],
+        "keywords": [
+          "how to baby proof fireplace in rental"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-21"
+      },
+      {
+        "id": "baby-proofing-hearth-edges-padding-residue",
+        "pain": "Sharp brick or stone hearth edges need padding, but tape and adhesive can damage the hearth or leave residue in a rental",
+        "details": "Parents renting homes with raised hearths ask for edge foam or hearth pads; others warn which tapes leave residue on brick and stone, and padding must come off before the fireplace is used.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/daddit/comments/1kyso80/how_do_i_childproof_my_fireplace/",
+            "platform": "reddit",
+            "title": "How do I child-proof my fireplace?",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.facebook.com/groups/homedesign/posts/2131057644283744/",
+            "platform": "forum",
+            "title": "I'm RENTING this beautiful place with a fireplace that has sharp edges ...",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.houzz.com/discussions/4045668/easy-and-temporary-child-proof-fireplace-ideas",
+            "platform": "forum",
+            "title": "Easy and temporary child proof fireplace ideas?",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Gaff tape or painters tape are the only answer. Do not use masking tape!",
+            "url": "https://www.reddit.com/r/daddit/comments/1kyso80/how_do_i_childproof_my_fireplace/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "Make a shallow box that fits over the whole fireplace. Cover it with foam or batting, then a piece of felt.",
+            "url": "https://www.houzz.com/discussions/4045668/easy-and-temporary-child-proof-fireplace-ideas",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "hearth edge guard rental",
+          "baby proof brick hearth without damage",
+          "fireplace hearth pad"
+        ],
+        "keywords": [
+          "how to baby proof fireplace in rental"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-21"
       }
     ],
     "climate": [

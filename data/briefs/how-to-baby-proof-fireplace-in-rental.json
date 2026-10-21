@@ -1,0 +1,413 @@
+{
+  "centralEntity": "baby-proofing a fireplace in a rental",
+  "entityVariants": [
+    "how to baby proof fireplace in rental",
+    "childproof fireplace rental",
+    "baby proof fireplace without drilling",
+    "fireplace gate for renters",
+    "baby proof hearth rental",
+    "childproof gas fireplace"
+  ],
+  "entities": [
+    {
+      "name": "fireplace safety gate / configurable play yard",
+      "type": "product type",
+      "relation": "freestanding multi-panel barrier around the hearth; the main no-drill fix"
+    },
+    {
+      "name": "fireplace screen guard",
+      "type": "product type",
+      "relation": "heavy freestanding screen in front of the opening or glass"
+    },
+    {
+      "name": "hearth pad / hearth edge cushion",
+      "type": "product type",
+      "relation": "foam padding for sharp brick or stone hearth edges"
+    },
+    {
+      "name": "gas fireplace glass front",
+      "type": "hazard",
+      "relation": "can reach 1,328°F and stay hot for up to an hour after shut-off"
+    },
+    {
+      "name": "ANSI Z21.50 / CSA 2.22 barrier standard",
+      "type": "standard",
+      "relation": "since 2015 new gas fireplaces need a barrier when glass exceeds 172°F"
+    },
+    {
+      "name": "wood-burning fireplace",
+      "type": "appliance",
+      "relation": "adds sparks, ash and tools to childproof"
+    },
+    {
+      "name": "electric fireplace",
+      "type": "appliance",
+      "relation": "lower burn risk but the hearth edge and tip-over remain"
+    },
+    {
+      "name": "gas key / remote / wall switch",
+      "type": "control",
+      "relation": "must be out of reach or covered"
+    },
+    {
+      "name": "landlord",
+      "type": "person",
+      "relation": "approves anchoring, may supply a factory barrier or disable the gas fireplace"
+    },
+    {
+      "name": "lease / security deposit",
+      "type": "legal",
+      "relation": "why renters avoid drilling into brick, stone or the mantel"
+    },
+    {
+      "name": "carbon monoxide alarm",
+      "type": "device",
+      "relation": "required near fuel-burning fireplaces; renters should check it works"
+    },
+    {
+      "name": "American Academy of Pediatrics",
+      "type": "organization",
+      "relation": "source for gas fireplace burn data and advice"
+    }
+  ],
+  "attributes": [
+    "no drilling or screws",
+    "freestanding stability (weight, footprint)",
+    "distance from the hot glass or opening",
+    "gate height and latch",
+    "hearth edge padding thickness",
+    "residue-free attachment",
+    "works for gas, wood or electric",
+    "removable at move-out",
+    "landlord approval"
+  ],
+  "ngrams": [
+    "baby proof fireplace",
+    "fireplace gate",
+    "hearth pad",
+    "gas fireplace",
+    "glass front",
+    "sharp edges",
+    "without drilling",
+    "freestanding gate",
+    "fire screen",
+    "hearth edge",
+    "security deposit",
+    "hot glass"
+  ],
+  "skipgrams": [
+    "fireplace…gate",
+    "hearth…edges",
+    "glass…hot",
+    "drill…rent",
+    "gate…tip over",
+    "landlord…fireplace"
+  ],
+  "nlpTerms": [
+    "toddler",
+    "crawling",
+    "burns",
+    "firebox",
+    "mantel",
+    "brick",
+    "stone",
+    "foam",
+    "corner guards",
+    "painter's tape",
+    "gaffer tape",
+    "pilot light",
+    "remote",
+    "fireplace tools",
+    "ash",
+    "carbon monoxide"
+  ],
+  "questions": [
+    "how do I baby proof a fireplace without drilling",
+    "how do I cover sharp hearth edges in a rental",
+    "how hot does a gas fireplace glass get",
+    "can I ask my landlord to disable the gas fireplace",
+    "will a freestanding fireplace gate tip over",
+    "how far should a baby gate be from a fireplace"
+  ],
+  "contentGaps": [
+    "No top result is written for renters: none covers what you can do without drilling into brick, stone or the mantel, or how to remove it at move-out.",
+    "Few results quantify the gas-glass burn risk (temperatures, cooling time, injury counts) from an authoritative source.",
+    "No result tells renters to ask the landlord for the factory safety barrier (required on new gas units since 2015) or to shut off the gas fireplace.",
+    "No result addresses freestanding gates being pushed over, and how to make them stable without screws.",
+    "No result covers residue-free ways to pad brick or stone hearth edges."
+  ],
+  "outline": [
+    {
+      "h2": "The short answer: gate it, pad it, lock the controls",
+      "intent": "three-step renter plan without drilling",
+      "h3": []
+    },
+    {
+      "h2": "Why the fireplace is the riskiest spot",
+      "intent": "gas glass heat and cooling time, hearth falls, sparks/ash; AAP data",
+      "h3": []
+    },
+    {
+      "h2": "Block it off without drilling",
+      "intent": "freestanding configurable gate vs screen guard; footprint, weight, distance from glass",
+      "h3": [
+        "Make a freestanding gate stable",
+        "Gas vs wood vs electric"
+      ]
+    },
+    {
+      "h2": "Pad the hearth edges without damage",
+      "intent": "hearth pads and edge foam; residue-free tapes; remove before lighting",
+      "h3": []
+    },
+    {
+      "h2": "Controls, tools and fuel",
+      "intent": "gas key/remote/switch out of reach, tools and logs stored, glass doors latched",
+      "h3": []
+    },
+    {
+      "h2": "Ask your landlord",
+      "intent": "factory barrier for post-2015 gas units, disabling the fireplace, permission to anchor, CO alarm check",
+      "h3": []
+    },
+    {
+      "h2": "Problems parents run into, and the fix",
+      "intent": "gate tips over, tape residue, toddler climbs the gate",
+      "h3": []
+    },
+    {
+      "h2": "Our verdict",
+      "intent": "simplest safe setup for most rentals; next links (baby gates, other baby-proofing guides)",
+      "h3": []
+    }
+  ],
+  "targetWords": 1000,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.apartmenttherapy.com/10-ways-to-stylishly-childproof-a-fireplace-195447",
+      "https://www.climatecare.com/blog/4-steps-to-a-baby-proof-fireplace/",
+      "https://babyproofme.com/blogs/the-parenting-journal/how-to-baby-proof-a-fireplace-screen-guards-and-hearth-pads-explained",
+      "https://www.reddit.com/r/daddit/comments/1kyso80/how_do_i_childproof_my_fireplace/"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "Results describe solution types (gate, screen guard, hearth pad, covers) in prose or short numbered steps, not product cards with pros-cons or spec tables.",
+    "avgWords": 950,
+    "avgProducts": 0,
+    "commonSections": [
+      "why fireplaces are a hazard",
+      "gate or screen guard",
+      "hearth edge padding",
+      "sparks, ash and fuel",
+      "remote/controls out of reach",
+      "gas vs wood vs electric"
+    ],
+    "usesComparisonTable": false,
+    "usesFaq": false,
+    "usesBuyingGuide": false
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.facebook.com/groups/homedesign/posts/2131057644283744/",
+      "title": "I'm RENTING this beautiful place with a fireplace that has sharp edges ..."
+    },
+    {
+      "position": 2,
+      "url": "https://www.apartmenttherapy.com/10-ways-to-stylishly-childproof-a-fireplace-195447",
+      "title": "10 Ways to (Stylishly) Childproof a Fireplace - Apartment Therapy"
+    },
+    {
+      "position": 3,
+      "url": "https://www.reddit.com/r/daddit/comments/1kyso80/how_do_i_childproof_my_fireplace/",
+      "title": "How do I child-proof my fireplace? : r/daddit - Reddit"
+    },
+    {
+      "position": 4,
+      "url": "https://www.pinterest.com/ideas/how-to-childproof-a-fireplace/897464394256/",
+      "title": "How to Childproof a Fireplace - Pinterest"
+    },
+    {
+      "position": 5,
+      "url": "https://www.berkeleyparentsnetwork.org/advice/safety/fireplace",
+      "title": "Childproofing Fireplaces - Berkeley Parents Network"
+    },
+    {
+      "position": 6,
+      "url": "https://www.houzz.com/discussions/4045668/easy-and-temporary-child-proof-fireplace-ideas",
+      "title": "Easy and temporary child proof fireplace ideas? | Houzz Forum"
+    },
+    {
+      "position": 7,
+      "url": "https://www.climatecare.com/blog/4-steps-to-a-baby-proof-fireplace/",
+      "title": "4 Steps to A Baby-Proof Fireplace - ClimateCare"
+    },
+    {
+      "position": 8,
+      "url": "https://magikflame.com/learning-center/fireplace-safety/how-to-baby-proof-your-fireplace/",
+      "title": "How to Baby Proof Your Fireplace In Your Home | MagikFlame"
+    },
+    {
+      "position": 9,
+      "url": "https://babyproofme.com/blogs/the-parenting-journal/how-to-baby-proof-a-fireplace-screen-guards-and-hearth-pads-explained",
+      "title": "How to Baby Proof a Fireplace: Screen Guards and Hearth Pads ..."
+    },
+    {
+      "position": 10,
+      "url": "https://www.justanswer.com/home-improvement/kqwdg-fire-place-opening-bottom.html",
+      "title": "Fireplace Safety: Best Covers for Baby Proofing - Q&A Guide - JustAnswer"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 2,
+    "withYear": 0,
+    "withNumber": 2,
+    "commonModifiers": [
+      "Childproof",
+      "Steps",
+      "Ways",
+      "Temporary",
+      "Stylishly"
+    ],
+    "gap": "The SERP is forums and homeowner guides; only a Facebook post mentions renting. Use 'How to Baby Proof a Fireplace in a Rental' with a number (steps) and 'No Drilling'."
+  },
+  "commonPoints": [
+    "Use a gate or heavy screen to keep the child away from the fireplace.",
+    "Pad or cover sharp hearth edges.",
+    "Keep fireplace tools, fuel and remotes out of reach.",
+    "Gas fireplace glass gets very hot; supervise when it's on.",
+    "If you don't use the fireplace, you can cover or block it entirely."
+  ],
+  "ourGain": [
+    {
+      "point": "Renter no-drill setup: a weighted freestanding gate set well back from the glass, tied to existing rails or furniture where needed, plus padding that comes off cleanly.",
+      "source": "data/pain-points.json (baby-proofing-fireplace-no-drill-rental, baby-proofing-fireplace-guard-pulled-over)"
+    },
+    {
+      "point": "Hard numbers on the gas-glass hazard: up to 1,328°F, hot for up to an hour after shut-off, an estimated 17,000 medical visits a year, over 95% hand burns to toddlers.",
+      "source": "https://www.aap.org/en/news-room/aap-voices/glass-fronted-gas-firepace-burns/"
+    },
+    {
+      "point": "Ask the landlord: gas fireplaces made under the 2015 standard need a barrier when glass exceeds 172°F, so request the factory screen, permission to anchor, or to shut the unit off.",
+      "source": "https://members.hpba.org/Consumer-Information/Fireplace-Stove-Heater/Glass-Fronts-Safety"
+    },
+    {
+      "point": "Residue-free hearth padding: which tapes owners say are safe on brick/stone and why padding must come off before lighting the fire.",
+      "source": "https://www.reddit.com/r/daddit/comments/1kyso80/how_do_i_childproof_my_fireplace/"
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "baby-proofing-fireplace-no-drill-rental",
+      "pain": "Renters can't drill the hearth, mantel or wall to anchor a fireplace gate or guard",
+      "details": "Parents in rentals with a gas, wood or inglenook fireplace ask how to block it off when the lease forbids drilling into brick, stone or the mantel; replies point to weighted freestanding guards, configurable gates tied to existing rails, or asking the landlord.",
+      "sources": [
+        "https://www.reddit.com/r/AskParents/comments/1ipisgu/how_on_earth_do_i_babyproof_my_open_gas_fireplace/",
+        "https://www.reddit.com/r/UKParenting/comments/1wy8w69/how_would_you_childproof_this_inglenook_wood/",
+        "https://www.reddit.com/r/DIYUK/comments/1wy8vyl/how_would_you_childproof_this_inglenook_wood/"
+      ],
+      "quotes": [
+        {
+          "text": "And we can't drill into the hearth or anything because we rent.",
+          "url": "https://www.reddit.com/r/AskParents/comments/1ipisgu/how_on_earth_do_i_babyproof_my_open_gas_fireplace/"
+        },
+        {
+          "text": "I would go for a large extending cube type fire guard, and secure that to the metal hearth rails on one side using zip ties.",
+          "url": "https://www.reddit.com/r/DIYUK/comments/1wy8vyl/how_would_you_childproof_this_inglenook_wood/"
+        }
+      ]
+    },
+    {
+      "id": "baby-proofing-fireplace-guard-pulled-over",
+      "pain": "A freestanding fireplace guard or gate that isn't anchored can be pushed or pulled over by a toddler",
+      "details": "Without screws, parents worry a lightweight fire screen or play-yard gate will tip onto the child or fold in; they look for weighted, wide-footprint guards or ways to tie the gate to something solid.",
+      "sources": [
+        "https://www.reddit.com/r/UKParenting/comments/1wy8w69/how_would_you_childproof_this_inglenook_wood/",
+        "https://www.youtube.com/watch?v=PYDmkxY-_gE",
+        "https://babyproofme.com/blogs/the-parenting-journal/how-to-baby-proof-a-fireplace-screen-guards-and-hearth-pads-explained"
+      ],
+      "quotes": [
+        {
+          "text": "Plenty of fire guards don't need drilling. You need to make sure it's weighted so baby can't pull it down over them.",
+          "url": "https://www.reddit.com/r/UKParenting/comments/1wy8w69/how_would_you_childproof_this_inglenook_wood/"
+        },
+        {
+          "text": "A guard that wasn’t anchored could be toppled by an 18-month-old.",
+          "url": "https://babyproofme.com/blogs/the-parenting-journal/how-to-baby-proof-a-fireplace-screen-guards-and-hearth-pads-explained"
+        }
+      ]
+    },
+    {
+      "id": "baby-proofing-hearth-edges-padding-residue",
+      "pain": "Sharp brick or stone hearth edges need padding, but tape and adhesive can damage the hearth or leave residue in a rental",
+      "details": "Parents renting homes with raised hearths ask for edge foam or hearth pads; others warn which tapes leave residue on brick and stone, and padding must come off before the fireplace is used.",
+      "sources": [
+        "https://www.reddit.com/r/daddit/comments/1kyso80/how_do_i_childproof_my_fireplace/",
+        "https://www.facebook.com/groups/homedesign/posts/2131057644283744/",
+        "https://www.houzz.com/discussions/4045668/easy-and-temporary-child-proof-fireplace-ideas"
+      ],
+      "quotes": [
+        {
+          "text": "Gaff tape or painters tape are the only answer. Do not use masking tape!",
+          "url": "https://www.reddit.com/r/daddit/comments/1kyso80/how_do_i_childproof_my_fireplace/"
+        },
+        {
+          "text": "Make a shallow box that fits over the whole fireplace. Cover it with foam or batting, then a piece of felt.",
+          "url": "https://www.houzz.com/discussions/4045668/easy-and-temporary-child-proof-fireplace-ideas"
+        }
+      ]
+    },
+    {
+      "id": "baby-proofing-renter-cant-swap-outlet-plate",
+      "pain": "Renters are unsure whether they can replace wall plates or outlets for baby proofing without the landlord",
+      "details": "Renters hear to swap in tamper-resistant outlets or plates that take covers, but worry about landlord permission and deposits; some are told to hand it to the landlord.",
+      "sources": [
+        "https://www.reddit.com/r/howto/comments/1wjpzln/how_to_baby_proof_in_an_apartment/",
+        "https://www.reddit.com/r/HomeMaintenance/comments/1vja5r5/this_frustrating_outlet_is_in_my_toddlers_closet/",
+        "https://www.reddit.com/r/UKParenting/comments/1g1vvqa/babyproofing_in_a_rented_property/",
+        "https://www.reddit.com/r/shitrentals/comments/1fthezl/landlord_has_said_termination_if_we_drill_for/",
+        "https://www.reddit.com/r/beyondthebump/comments/1ibm5ay/baby_proof_outlet_covers_for_outlets_like_this/"
+      ],
+      "quotes": [
+        {
+          "text": "Unscrew the plate, unscrew the cable on the back side, replace it with a blank cover. Put it back on when you move.",
+          "url": "https://www.reddit.com/r/howto/comments/1wjpzln/how_to_baby_proof_in_an_apartment/"
+        },
+        {
+          "text": "It definitely needs to be handled by the landlord, but please don't risk your child's safety.",
+          "url": "https://www.reddit.com/r/HomeMaintenance/comments/1vja5r5/this_frustrating_outlet_is_in_my_toddlers_closet/"
+        },
+        {
+          "text": "You can replace the outlet face plates with ones that will work with outlet covers.",
+          "url": "https://www.reddit.com/r/beyondthebump/comments/1ibm5ay/baby_proof_outlet_covers_for_outlets_like_this/"
+        }
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "number": "1328 degrees Fahrenheit",
+      "claim": "how hot glass-fronted gas fireplaces can get, and the glass can stay hot for an hour after shut-off",
+      "url": "https://www.aap.org/en/news-room/aap-voices/glass-fronted-gas-firepace-burns/",
+      "quote": "they can reach temperatures as high as 1328 degrees Fahrenheit. In addition, their glass front can remain hot for even an hour after the fire has been turned off."
+    },
+    {
+      "number": "17,000",
+      "claim": "estimated annual medical visits for glass-fronted gas fireplace burns (5-year study, 17 burn centers)",
+      "url": "https://www.aap.org/en/news-room/aap-voices/glass-fronted-gas-firepace-burns/",
+      "quote": "This translated into an estimated 17,000 annual medical visits, 360 emergency room visits, and 33 admissions annually."
+    },
+    {
+      "number": "over 95 percent",
+      "claim": "share of these gas fireplace injuries that were palm burns to toddlers",
+      "url": "https://www.aap.org/en/news-room/aap-voices/glass-fronted-gas-firepace-burns/",
+      "quote": "Hand injuries on the palmer surface to toddlers, as in the case of the child I treated, accounted for over 95 percent of these injuries."
+    },
+    {
+      "number": "172 degrees",
+      "claim": "glass temperature above which new gas fireplaces must ship with a protective barrier",
+      "url": "https://members.hpba.org/Consumer-Information/Fireplace-Stove-Heater/Glass-Fronts-Safety",
+      "quote": "will require a protective barrier if their glass surface temperature exceeds 172 degrees Farenheit."
+    }
+  ],
+  "videos": []
+}

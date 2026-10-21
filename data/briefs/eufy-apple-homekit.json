@@ -1,0 +1,449 @@
+{
+  "centralEntity": "eufy and Apple HomeKit",
+  "entityVariants": [
+    "eufy apple homekit",
+    "eufy homekit",
+    "eufy homekit camera",
+    "does eufy work with apple home",
+    "eufy homekit secure video",
+    "eufy apple home"
+  ],
+  "entities": [
+    {
+      "name": "eufy Security app",
+      "type": "app",
+      "relation": "where HomeKit access is authorized for each camera or HomeBase"
+    },
+    {
+      "name": "HomeBase 2",
+      "type": "hub",
+      "relation": "bridges older battery eufyCams (2, 2C, 2 Pro, 2C Pro) into Apple Home"
+    },
+    {
+      "name": "HomeBase S380 (HomeBase 3)",
+      "type": "hub",
+      "relation": "bridges newer models such as eufyCam S3 Pro and Video Doorbell S4 into Apple Home"
+    },
+    {
+      "name": "eufy Indoor Cam E30 / Indoor Cam 2K",
+      "type": "product",
+      "relation": "plug-in indoor cameras that join Apple Home directly or via HomeBase"
+    },
+    {
+      "name": "eufy Video Doorbell S4",
+      "type": "product",
+      "relation": "the eufy doorbell with Apple Home support, through HomeBase S380"
+    },
+    {
+      "name": "eufy Smart Lock E30 / E40",
+      "type": "product",
+      "relation": "eufy locks that join Apple Home through Matter"
+    },
+    {
+      "name": "HomeKit Secure Video",
+      "type": "service",
+      "relation": "Apple's encrypted iCloud recording for HomeKit cameras; needs a home hub and iCloud+"
+    },
+    {
+      "name": "iCloud+",
+      "type": "subscription",
+      "relation": "plan tier sets how many HomeKit Secure Video cameras you can add"
+    },
+    {
+      "name": "Apple home hub (HomePod, HomePod mini, Apple TV)",
+      "type": "device",
+      "relation": "required for remote access, automations and HomeKit Secure Video"
+    },
+    {
+      "name": "Matter",
+      "type": "standard",
+      "relation": "how newer eufy locks join Apple Home without a HomeBase"
+    },
+    {
+      "name": "Homebridge",
+      "type": "software",
+      "relation": "open-source bridge (homebridge-eufy-security plugin) for eufy devices without native HomeKit"
+    },
+    {
+      "name": "Apple Home app",
+      "type": "app",
+      "relation": "where eufy cameras and locks appear once authorized"
+    }
+  ],
+  "attributes": [
+    "native HomeKit vs bridge required",
+    "HomeBase needed or not",
+    "1080p cap in Apple Home",
+    "HomeKit Secure Video support",
+    "iCloud+ plan camera limit",
+    "home hub requirement",
+    "features that stay in the eufy app (pan and tilt, AI tracking, two-way audio)",
+    "local storage with no eufy subscription",
+    "plug-in vs battery power",
+    "portability when you move"
+  ],
+  "ngrams": [
+    "eufy homekit",
+    "apple home",
+    "homekit secure video",
+    "eufy security app",
+    "homebase 2",
+    "homebase 3",
+    "home hub",
+    "icloud plan",
+    "indoor cam",
+    "video doorbell",
+    "smart lock",
+    "works with apple home"
+  ],
+  "skipgrams": [
+    "eufy…apple home",
+    "homebase…homekit",
+    "camera…1080p",
+    "icloud…cameras",
+    "home hub…remote",
+    "lock…matter",
+    "homebridge…plugin"
+  ],
+  "nlpTerms": [
+    "authorize access",
+    "HomeKit QR code",
+    "setup code",
+    "live view",
+    "activity zones",
+    "face recognition",
+    "arm and disarm",
+    "geofencing",
+    "Siri",
+    "automation",
+    "local storage",
+    "microSD",
+    "subscription",
+    "firmware",
+    "pan and tilt",
+    "privacy mode"
+  ],
+  "questions": [
+    "does eufy work with apple homekit",
+    "which eufy cameras work with homekit",
+    "do eufy doorbells work with homekit",
+    "do I need a homebase for eufy homekit",
+    "does eufy support homekit secure video",
+    "why is eufy video only 1080p in apple home",
+    "can I use the eufy app and apple home at the same time",
+    "do I need a homepod or apple tv for eufy homekit"
+  ],
+  "contentGaps": [
+    "No top result frames eufy HomeKit for renters: which models need no drilling or wiring (plug-in indoor cams, battery cams) and move with you.",
+    "No result says plainly what you lose in Apple Home (1080p cap, no pan/tilt, no AI tracking, one stream on dual cams) in one short table and when the eufy app is still the better place.",
+    "No result explains the iCloud+ plan math for a renter with 1-2 cameras (50 GB covers one camera, 200 GB up to five) vs eufy's own no-fee local storage.",
+    "No result covers what happens to a HomeKit camera setup when the renter moves or shares the Home with a roommate.",
+    "No result addresses eufy's past cloud-privacy controversy and how HomeKit Secure Video changes where footage goes."
+  ],
+  "outline": [
+    {
+      "h2": "Does eufy work with Apple HomeKit? The short answer",
+      "intent": "direct answer: some models natively (via HomeBase or direct), newer locks via Matter, others need Homebridge",
+      "h3": []
+    },
+    {
+      "h2": "Which eufy devices work with Apple Home",
+      "intent": "compact compatibility table: model, native or bridge, HomeBase needed, renter install (plug-in, battery, wired)",
+      "h3": [
+        "Cameras",
+        "Doorbells",
+        "Smart locks"
+      ]
+    },
+    {
+      "h2": "How to add eufy to the Home app",
+      "intent": "the two official methods: authorize in the eufy app, or scan the HomeKit code",
+      "h3": [
+        "Plug-in camera (direct)",
+        "Battery cameras through HomeBase",
+        "Locks through Matter"
+      ]
+    },
+    {
+      "h2": "What you give up in Apple Home",
+      "intent": "1080p cap, one stream, no pan/tilt or AI tracking, night vision on/off only; when to stay in the eufy app",
+      "h3": []
+    },
+    {
+      "h2": "HomeKit Secure Video: iCloud+ plan and home hub",
+      "intent": "plan camera limits, 10 days of history, home hub requirement, vs eufy local storage",
+      "h3": []
+    },
+    {
+      "h2": "Renter setup: no drilling, roommates and moving out",
+      "intent": "plug-in or battery placement, whose Apple ID owns the Home, removing the camera from Home before you move",
+      "h3": []
+    },
+    {
+      "h2": "Problems owners run into, and the fix",
+      "intent": "camera not showing in Home, bridge plugins breaking, privacy worries",
+      "h3": []
+    },
+    {
+      "h2": "Our verdict",
+      "intent": "who should use eufy with HomeKit, next links (Ring HomeKit, HomeKit devices list, Homebridge)",
+      "h3": []
+    }
+  ],
+  "targetWords": 1800,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://service.eufy.com/article-description/Apple-Home-Feature-Guide",
+      "https://www.addtohomekit.com/blog/eufy-homekit/",
+      "https://www.eufy.com/blogs/video-doorbell/homekit-video-doorbell",
+      "https://www.reddit.com/r/HomeKit/comments/wpig55/eufy_camera_owners_do_you_have_them_in_homekit/"
+    ],
+    "productStyle": "specs",
+    "productStyleReason": "The top results present eufy devices as compatibility tables (model, HomeKit yes/no, how it connects) and feature tables (Apple Home vs eufy app), not pros-cons lists or review paragraphs.",
+    "avgWords": 1900,
+    "avgProducts": 4,
+    "commonSections": [
+      "quick yes/some answer",
+      "compatible eufy models",
+      "how to connect (eufy app authorize, QR code)",
+      "HomeBase role",
+      "features in Apple Home vs eufy app",
+      "HomeKit Secure Video requirements",
+      "Homebridge for unsupported models",
+      "FAQ"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": false
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://service.eufy.com/article-description/HomeKit-on-eufy-Devices",
+      "title": "HomeKit on eufy Devices"
+    },
+    {
+      "position": 2,
+      "url": "https://www.reddit.com/r/HomeKit/comments/wpig55/eufy_camera_owners_do_you_have_them_in_homekit/",
+      "title": "eufy camera owners: Do you have them in HomeKit? What ... - Reddit"
+    },
+    {
+      "position": 3,
+      "url": "https://service.eufy.com/article-description/Apple-Home-Feature-Guide",
+      "title": "Apple Home Feature Guide - eufy Support"
+    },
+    {
+      "position": 4,
+      "url": "https://www.eufy.com/collections/homekit-door-lock",
+      "title": "HomeKit Door Locks for Apple Home eufy US"
+    },
+    {
+      "position": 5,
+      "url": "https://www.addtohomekit.com/blog/eufy-homekit/",
+      "title": "Does Eufy Work with Apple HomeKit and HomeView?(2026)"
+    },
+    {
+      "position": 6,
+      "url": "https://www.eufy.com/blogs/video-doorbell/homekit-video-doorbell",
+      "title": "A Complete Guide to HomeKit Video Doorbells (With Alternatives) - Eufy"
+    },
+    {
+      "position": 7,
+      "url": "https://community.eufy.com/t/is-apple-homekit-worth-it-or-should-i-just-stick-with-the-eufy-app/1010656",
+      "title": "Is Apple HomeKit worth it? Or should I just stick with the Eufy app?"
+    },
+    {
+      "position": 8,
+      "url": "https://www.youtube.com/watch?v=gfifuIDYmyA",
+      "title": "Eufy Does HomeKit Again, More Apple Smart Display Rumors, Fall ..."
+    },
+    {
+      "position": 9,
+      "url": "https://www.amazon.com/live/video/04fd83bf598048be81f818566d5b2d7e",
+      "title": "How to add eufy 2k security camera to Apple HomeKit - Amazon.com"
+    },
+    {
+      "position": 10,
+      "url": "https://www.amazon.com/eufy-homekit/s?k=eufy+homekit",
+      "title": "Eufy Homekit - Amazon.com"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 2,
+    "withYear": 1,
+    "withNumber": 0,
+    "commonModifiers": [
+      "Does eufy Work with",
+      "Apple Home",
+      "HomeKit Secure Video",
+      "Guide",
+      "Compatible"
+    ],
+    "gap": "Titles are maker help pages or bridge vendors; none answers the yes/no for renters or lists which models need no HomeBase, drilling or bridge. Use a question title with the year and a renter benefit."
+  },
+  "commonPoints": [
+    "Some eufy devices work with Apple Home natively; others need a bridge such as Homebridge.",
+    "You authorize HomeKit access in the eufy Security app (or scan a HomeKit code if the box has one).",
+    "Battery eufyCams join Apple Home through a HomeBase; plug-in indoor cams can connect directly.",
+    "Newer eufy smart locks join Apple Home through Matter.",
+    "HomeKit Secure Video needs a home hub (HomePod or Apple TV) and an iCloud+ plan.",
+    "You can keep using the eufy app alongside Apple Home."
+  ],
+  "ourGain": [
+    {
+      "point": "A one-table 'what you lose in Apple Home' list from eufy's own guide: 1080p cap, one stream on dual cams, no pan/tilt or AI tracking, night vision on/off only, auto-lock not in Home.",
+      "source": "https://service.eufy.com/article-description/Apple-Home-Feature-Guide"
+    },
+    {
+      "point": "iCloud+ math for a renter with 1-2 cameras: the 50 GB plan covers one HomeKit Secure Video camera, 200 GB up to five, with 10 days of history, vs eufy's no-fee local storage.",
+      "source": "https://support.apple.com/guide/iphone/set-up-security-cameras-iph7bc5df9d9/ios"
+    },
+    {
+      "point": "Renter angle: pick plug-in or battery eufy models that need no drilling or doorbell wiring, and remove them from the Home (and decide whose Apple ID owns it) before moving or when sharing with roommates.",
+      "source": "data/pain-points.json (hubs-voice-homekit-renter-hub-apple-id-moving)"
+    },
+    {
+      "point": "Bridge reality check: Homebridge plugins can break after updates or lose their maintainer, so a native model beats a bridged one for a set-and-forget renter setup.",
+      "source": "data/pain-points.json (hubs-voice-homebridge-plugins-abandoned-or-break)"
+    },
+    {
+      "point": "Owners report the main reason to add eufy to HomeKit is better geofencing for arm/disarm than the eufy app's own.",
+      "source": "https://community.eufy.com/t/is-apple-homekit-worth-it-or-should-i-just-stick-with-the-eufy-app/1010656"
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "hubs-voice-matter-ecosystem-compat-confusion",
+      "pain": "Buyers cannot tell if a Matter device will work with their Apple, Google or Alexa setup",
+      "details": "Owners ask whether Matter means a device automatically works in Apple Home, whether Echo Matter updates matter for HomeKit users, and why Google Home will not control some Matter plugs. Support varies by device and app version.",
+      "sources": [
+        "https://www.reddit.com/r/HomeKit/comments/1l0soq3/does_matter_automatically_mean_a_device_will_work/",
+        "https://www.reddit.com/r/HomeKit/comments/167zmbx/matter_contradictions/",
+        "https://www.reddit.com/r/googlehome/comments/1lcgf60/matter_devices_and_google_home/",
+        "https://www.reddit.com/r/HomeKit/comments/1hyiyn8/for_those_on_homekit_only_no_alexa_or_google_home/",
+        "https://www.reddit.com/r/HomeKit/comments/136mwtz/all_of_my_amazon_echo_devices_now_have_matter/"
+      ],
+      "quotes": [
+        {
+          "text": "The challenge is that Matter is evolving quickly.",
+          "url": "https://www.reddit.com/r/HomeKit/comments/1l0soq3/does_matter_automatically_mean_a_device_will_work/"
+        },
+        {
+          "text": "you can't control Matter devices from Google Home",
+          "url": "https://www.reddit.com/r/googlehome/comments/1lcgf60/matter_devices_and_google_home/"
+        }
+      ]
+    },
+    {
+      "id": "hubs-voice-homekit-renter-hub-apple-id-moving",
+      "pain": "Renters starting HomeKit worry about whose Apple ID owns the home hub and what happens to the setup when they move or a roommate leaves",
+      "details": "Threads from renters ask how to set up the hub and Apple ID in a rental, what to buy that does not need a unique hub, and whether landlord-owned smart devices can be linked to the tenant's own Siri account. Only search excerpts were readable (Reddit scraping unsupported), so treat as lead-level evidence.",
+      "sources": [
+        "https://www.reddit.com/r/HomeKit/comments/n51voa/homekit_in_a_rental_property/",
+        "https://www.reddit.com/r/HomeKit/comments/1nm350y/homekit_for_rental_property/",
+        "https://www.reddit.com/r/HomeKit/comments/zzyc45/first_apartment_homekit_recommendations/",
+        "https://www.reddit.com/r/HomeKit/comments/wg8f0t/im_moving_into_an_apartment_in_a_few_months_and/"
+      ],
+      "quotes": [
+        {
+          "text": "One of the first decisions is regarding HomeKit hub and the Apple ID.",
+          "url": "https://www.reddit.com/r/HomeKit/comments/n51voa/homekit_in_a_rental_property/"
+        },
+        {
+          "text": "I'd stay away from anything that needs a unique hub and stick with WiFi or Thread devices.",
+          "url": "https://www.reddit.com/r/HomeKit/comments/zzyc45/first_apartment_homekit_recommendations/"
+        },
+        {
+          "text": "Only the wired one works with HomeKit, and you need an additional Arlo hub. Also, you lose a lot of features if you don't pay for the subscription.",
+          "url": "https://www.reddit.com/r/HomeKit/comments/wg8f0t/im_moving_into_an_apartment_in_a_few_months_and/"
+        }
+      ]
+    },
+    {
+      "id": "security-camera-cloud-privacy-concerns",
+      "pain": "Owners distrust camera cloud privacy after reports of exposed footage or thumbnails",
+      "details": "Indoor camera buyers worry about cloud access, hacking and brands that use the cloud even for local storage.",
+      "sources": [
+        "https://www.reddit.com/r/BuyItForLife/comments/1n94pqy/why_did_we_accept_that_security_cameras_need/",
+        "https://www.reddit.com/r/privacytoolsIO/comments/p4wfh0/privacy_friendly_security_cameras/",
+        "https://www.thesmarthomehookup.com/indoor-cameras-reviewed-and-tested-for-privacy-concerns/"
+      ],
+      "quotes": [
+        {
+          "text": "Eufy (anker) cameras store locally but still use cloud for login.",
+          "url": "https://www.reddit.com/r/privacytoolsIO/comments/p4wfh0/privacy_friendly_security_cameras/"
+        }
+      ]
+    },
+    {
+      "id": "security-cloud-subscription-fees",
+      "pain": "Cameras need a monthly subscription to be useful; renters want no-fee options",
+      "details": "Buyers resent fees for cloud video and look for SD-card or local storage cameras such as Wyze, Eufy or Reolink.",
+      "sources": [
+        "https://www.reddit.com/r/BuyItForLife/comments/1n94pqy/why_did_we_accept_that_security_cameras_need/",
+        "https://www.reddit.com/r/homeowners/comments/1ot0xm0/home_security_cameras_without_monthly_payment/",
+        "https://www.reddit.com/r/homeautomation/comments/1nrmayb/what_are_my_options_for_a_good_security_camera/",
+        "https://www.cnet.com/home/security/best-home-security-cameras-without-subscriptions/"
+      ],
+      "quotes": [
+        {
+          "text": "Subscription not required to record to SD card and view via your cell phone.",
+          "url": "https://www.reddit.com/r/homeowners/comments/1ot0xm0/home_security_cameras_without_monthly_payment/"
+        },
+        {
+          "text": "Reolink is a good call for no subscription.",
+          "url": "https://www.reddit.com/r/homeautomation/comments/1nrmayb/what_are_my_options_for_a_good_security_camera/"
+        }
+      ]
+    },
+    {
+      "id": "hubs-voice-homebridge-plugins-abandoned-or-break",
+      "pain": "Homebridge plugins stop working after updates or are abandoned by their volunteer maintainers",
+      "details": "Owners report that many plugins did not support Homebridge v2 at launch or are no longer developed, and some call most plugins a waste of time until debugged. Fixes they use: prefer verified, recently updated plugins, back up before updating, and downgrade a plugin that breaks.",
+      "sources": [
+        "https://www.reddit.com/r/homebridge/comments/1hkzlf0/homebridge_the_future_concerns/",
+        "https://www.reddit.com/r/HomeKit/comments/sotx30/homebridge_99_of_plugins_dont_work_complete_waste/",
+        "https://www.reddit.com/r/homebridge/comments/1t3s1og/homebridge_20_is_here_and_it_speaks_matter/"
+      ],
+      "quotes": [
+        {
+          "text": "It appears that most of my plugins are not currently supporting HB v2, or even worse, they are no longer being developed by the maintainer.",
+          "url": "https://www.reddit.com/r/homebridge/comments/1hkzlf0/homebridge_the_future_concerns/"
+        },
+        {
+          "text": "it takes a lot of debugging to get it initially working",
+          "url": "https://www.reddit.com/r/HomeKit/comments/sotx30/homebridge_99_of_plugins_dont_work_complete_waste/"
+        }
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "number": "1080P",
+      "claim": "maximum camera resolution for eufy cameras viewed or recorded through Apple Home",
+      "url": "https://service.eufy.com/article-description/Apple-Home-Feature-Guide",
+      "quote": "Apple Home currently supports a maximum of 1080P resolution. If you need higher quality, please use the eufy App."
+    },
+    {
+      "number": "up to five cameras",
+      "claim": "the 200 GB iCloud+ plan supports up to five HomeKit Secure Video cameras; the 50 GB plan supports one",
+      "url": "https://support.apple.com/guide/iphone/set-up-security-cameras-iph7bc5df9d9/ios",
+      "quote": "The 50 GB iCloud+ plan supports a single camera, the 200 GB iCloud+ plan supports up to five cameras"
+    },
+    {
+      "number": "10 days",
+      "claim": "of camera activity history you can view with HomeKit Secure Video and iCloud+",
+      "url": "https://support.apple.com/guide/iphone/set-up-security-cameras-iph7bc5df9d9/ios",
+      "quote": "If you subscribe to iCloud+, you can view the last 10 days of activity from one to an unlimited number of cameras."
+    }
+  ],
+  "videos": [
+    {
+      "id": "ltg1xr_2C1A",
+      "title": "How to add eufy security cameras to Apple HomeKit",
+      "channel": "Tools. Electro. DIY",
+      "url": "https://www.youtube.com/watch?v=ltg1xr_2C1A",
+      "section": "How to add eufy to the Home app"
+    }
+  ]
+}

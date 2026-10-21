@@ -1,0 +1,407 @@
+{
+  "centralEntity": "SimpliSafe and Apple Home",
+  "entityVariants": [
+    "does simplisafe work with apple home",
+    "simplisafe homekit",
+    "simplisafe apple homekit",
+    "simplisafe siri",
+    "simplisafe homebridge",
+    "homekit alarm system for renters"
+  ],
+  "entities": [
+    {
+      "name": "SimpliSafe",
+      "type": "brand",
+      "relation": "DIY alarm system with no native Apple Home (HomeKit) support"
+    },
+    {
+      "name": "SimpliSafe Base Station (Gen 3)",
+      "type": "device",
+      "relation": "the alarm hub: 100 dB siren, up to 24-hour backup battery"
+    },
+    {
+      "name": "SimpliSafe app",
+      "type": "app",
+      "relation": "where arming, disarming and settings stay for iPhone users"
+    },
+    {
+      "name": "Apple Home app",
+      "type": "app",
+      "relation": "cannot add SimpliSafe without a third-party bridge"
+    },
+    {
+      "name": "Homebridge (homebridge-simplisafe3 plugin)",
+      "type": "software",
+      "relation": "unofficial bridge that exposes the SimpliSafe alarm to Apple Home"
+    },
+    {
+      "name": "HOOBS",
+      "type": "hardware",
+      "relation": "packaged Homebridge box used for the same plugin"
+    },
+    {
+      "name": "Home Assistant",
+      "type": "software",
+      "relation": "has a SimpliSafe integration and a HomeKit Bridge"
+    },
+    {
+      "name": "Amazon Alexa",
+      "type": "voice assistant",
+      "relation": "officially supported; can arm but not disarm by voice"
+    },
+    {
+      "name": "Google Assistant",
+      "type": "voice assistant",
+      "relation": "officially supported; can arm but not disarm by voice"
+    },
+    {
+      "name": "SimpliSafe monitoring plan",
+      "type": "subscription",
+      "relation": "required for smart home integrations"
+    },
+    {
+      "name": "Abode",
+      "type": "brand",
+      "relation": "DIY alarm with native HomeKit support, the usual alternative"
+    },
+    {
+      "name": "Siri Shortcuts",
+      "type": "feature",
+      "relation": "partial workaround to trigger SimpliSafe actions from an iPhone"
+    }
+  ],
+  "attributes": [
+    "native HomeKit support (no)",
+    "bridge required",
+    "arm by voice vs disarm by voice",
+    "monitoring plan needed for integrations",
+    "no-drill adhesive sensors",
+    "no long-term contract",
+    "portability when moving",
+    "siren volume in an apartment",
+    "backup battery"
+  ],
+  "ngrams": [
+    "simplisafe homekit",
+    "apple home",
+    "home app",
+    "homebridge plugin",
+    "alarm system",
+    "arm and disarm",
+    "monitoring plan",
+    "base station",
+    "siri shortcuts",
+    "native homekit",
+    "security system",
+    "home assistant"
+  ],
+  "skipgrams": [
+    "simplisafe…homekit",
+    "alarm…apple home",
+    "arm…voice",
+    "homebridge…simplisafe",
+    "monitoring…plan",
+    "abode…homekit"
+  ],
+  "nlpTerms": [
+    "entry sensor",
+    "motion sensor",
+    "keypad",
+    "siren",
+    "self-monitoring",
+    "professional monitoring",
+    "Alexa",
+    "Google Assistant",
+    "August lock",
+    "automation",
+    "Shortcuts",
+    "plugin",
+    "two-factor login",
+    "Matter",
+    "contract",
+    "adhesive"
+  ],
+  "questions": [
+    "does simplisafe work with apple homekit",
+    "can siri arm simplisafe",
+    "how do I add simplisafe to the home app",
+    "does simplisafe support matter",
+    "what alarm system works with apple home",
+    "is simplisafe good for renters"
+  ],
+  "contentGaps": [
+    "No top result answers from a renter's view: SimpliSafe is still one of the easiest no-contract, no-drill alarms to take with you, even without HomeKit.",
+    "No result separates what an iPhone user can still do without HomeKit (SimpliSafe app, widgets, Siri Shortcuts) from what needs a bridge.",
+    "No result notes that SimpliSafe's official integrations need a monitoring plan and that voice assistants can only arm, not disarm.",
+    "No result compares bridging SimpliSafe vs switching to a HomeKit-native alarm in one short table for an apartment.",
+    "No result addresses apartment issues like a 100 dB siren and neighbors, or adhesive sensors at move-out."
+  ],
+  "outline": [
+    {
+      "h2": "Does SimpliSafe work with Apple Home? The short answer",
+      "intent": "no native HomeKit; SimpliSafe says so; options are a bridge, the SimpliSafe app, or a HomeKit-native alarm",
+      "h3": []
+    },
+    {
+      "h2": "What iPhone users can do without HomeKit",
+      "intent": "SimpliSafe app, Alexa/Google arm-only voice, monitoring-plan requirement",
+      "h3": []
+    },
+    {
+      "h2": "Adding SimpliSafe to Apple Home with a bridge",
+      "intent": "Homebridge/HOOBS plugin or Home Assistant; what shows up; maintenance and login caveats",
+      "h3": []
+    },
+    {
+      "h2": "Bridge it or switch? Renter comparison",
+      "intent": "short table: SimpliSafe + bridge vs HomeKit-native alarm (Abode) on effort, contract, portability, monitoring",
+      "h3": []
+    },
+    {
+      "h2": "Apartment setup tips",
+      "intent": "siren volume and neighbors, adhesive sensors and paint, taking it with you",
+      "h3": []
+    },
+    {
+      "h2": "Our verdict",
+      "intent": "who should keep SimpliSafe, who should bridge, who should switch; next links",
+      "h3": []
+    }
+  ],
+  "targetWords": 850,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://support.simplisafe.com/articles/using-your-system/does-simplisafe-integrate-with-other-smart-home-devices",
+      "https://www.addtohomekit.com/blog/simplisafe-homekit/",
+      "https://goabode.com/blog/homekit-security-system-2/",
+      "https://www.reddit.com/r/simplisafe/comments/1c0o766/simplisafe_is_advertising_themselves_as_homekit/"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "The results answer in prose (no native HomeKit, then bridge methods or an alternative brand); comparison tables are used for methods/brands, not per-product pros-cons lists.",
+    "avgWords": 800,
+    "avgProducts": 2,
+    "commonSections": [
+      "no native HomeKit answer",
+      "official integrations (Alexa, Google, August)",
+      "bridge methods (Homebridge, HOOBS)",
+      "HomeKit-native alternative (Abode)",
+      "FAQ"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": false
+  },
+  "serpProducts": [
+    {
+      "name": "Abode Smart Security Kit",
+      "pages": [
+        "https://goabode.com/blog/homekit-security-system-2/",
+        "https://www.safehome.org/security-systems/best/apple/"
+      ]
+    }
+  ],
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.reddit.com/r/simplisafe/comments/1c0o766/simplisafe_is_advertising_themselves_as_homekit/",
+      "title": "SimpliSafe is advertising themselves as HomeKit compatible on Google"
+    },
+    {
+      "position": 2,
+      "url": "https://www.addtohomekit.com/blog/simplisafe-homekit/",
+      "title": "How to Add Any SimpliSafe Smart Home Devices to Apple HomeKit"
+    },
+    {
+      "position": 3,
+      "url": "https://support.simplisafe.com/articles/using-your-system/does-simplisafe-integrate-with-other-smart-home-devices",
+      "title": "Does SimpliSafe® Integrate With Other Smart Home Devices?"
+    },
+    {
+      "position": 4,
+      "url": "https://apps.apple.com/us/app/simplisafe-home-security-app/id555798051",
+      "title": "SimpliSafe Home Security App - App Store - Apple"
+    },
+    {
+      "position": 5,
+      "url": "https://www.facebook.com/groups/HOOBSorg/posts/2883002925316031/",
+      "title": "Connecting SimpliSafe to Apple HomeKit via Hoobs - Facebook"
+    },
+    {
+      "position": 6,
+      "url": "https://goabode.com/blog/homekit-security-system-2/",
+      "title": "HomeKit Security System 2026 | Setup Guide - Abode"
+    },
+    {
+      "position": 7,
+      "url": "https://www.safehome.org/security-systems/best/apple/",
+      "title": "Best Home Security Systems That Work with Apple Devices"
+    },
+    {
+      "position": 8,
+      "url": "https://www.youtube.com/watch?v=1ZVWgZrkWow",
+      "title": "Unlocking Home Security: Connect SimpliSafe to Apple HomeKit"
+    },
+    {
+      "position": 9,
+      "url": "https://forums.macrumors.com/threads/advice-on-homekit-devices.2431025/",
+      "title": "Advice on HomeKit Devices - MacRumors Forums"
+    },
+    {
+      "position": 10,
+      "url": "https://adaptable-canna-kwj4c2.mystrikingly.com/blog/simplisafe-home-bridge-and-hoobs",
+      "title": "SimpliSafe Home Bridge and HOOBS - Strikingly"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 1,
+    "withYear": 1,
+    "withNumber": 0,
+    "commonModifiers": [
+      "HomeKit",
+      "Apple Home",
+      "How to Add",
+      "Hoobs",
+      "Security System"
+    ],
+    "gap": "Only SimpliSafe's help page answers the question directly, and none gives renters the next step. Use the exact question as the title start, add the year, and promise renter options."
+  },
+  "commonPoints": [
+    "SimpliSafe has no native Apple HomeKit support (SimpliSafe's help center says so).",
+    "It works officially with Alexa and Google Assistant, and August locks.",
+    "Third-party bridges (Homebridge, HOOBS) can expose the alarm to the Home app.",
+    "Abode is the usual HomeKit-native alternative."
+  ],
+  "ourGain": [
+    {
+      "point": "SimpliSafe's integrations require a monitoring plan, and Alexa/Google can arm but never disarm by voice; we spell out what an iPhone user can still do without HomeKit.",
+      "source": "https://support.simplisafe.com/articles/using-your-system/does-simplisafe-integrate-with-other-smart-home-devices"
+    },
+    {
+      "point": "Renter trade-off table: keep SimpliSafe (no contract, adhesive sensors, take it with you) vs bridge it (maintenance) vs switch to a HomeKit-native alarm.",
+      "source": "data/pain-points.json (security-alarm-contracts-not-for-renters, hubs-voice-homebridge-worth-the-maintenance)"
+    },
+    {
+      "point": "Apartment siren reality: the Gen 3 Base Station siren is 100 dB with up to 24 hours of backup battery; set the volume and entry delay so a false alarm doesn't wake the hallway.",
+      "source": "https://support.simplisafe.com/articles/base-station/base-station-gen-3-installation-guide"
+    },
+    {
+      "point": "Owners flag that SimpliSafe ads implied HomeKit support, so we show how to check a 'Works with Apple Home' claim before buying.",
+      "source": "https://www.reddit.com/r/simplisafe/comments/1c0o766/simplisafe_is_advertising_themselves_as_homekit/"
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "hubs-voice-matter-ecosystem-compat-confusion",
+      "pain": "Buyers cannot tell if a Matter device will work with their Apple, Google or Alexa setup",
+      "details": "Owners ask whether Matter means a device automatically works in Apple Home, whether Echo Matter updates matter for HomeKit users, and why Google Home will not control some Matter plugs. Support varies by device and app version.",
+      "sources": [
+        "https://www.reddit.com/r/HomeKit/comments/1l0soq3/does_matter_automatically_mean_a_device_will_work/",
+        "https://www.reddit.com/r/HomeKit/comments/167zmbx/matter_contradictions/",
+        "https://www.reddit.com/r/googlehome/comments/1lcgf60/matter_devices_and_google_home/",
+        "https://www.reddit.com/r/HomeKit/comments/1hyiyn8/for_those_on_homekit_only_no_alexa_or_google_home/",
+        "https://www.reddit.com/r/HomeKit/comments/136mwtz/all_of_my_amazon_echo_devices_now_have_matter/"
+      ],
+      "quotes": [
+        {
+          "text": "The challenge is that Matter is evolving quickly.",
+          "url": "https://www.reddit.com/r/HomeKit/comments/1l0soq3/does_matter_automatically_mean_a_device_will_work/"
+        },
+        {
+          "text": "you can't control Matter devices from Google Home",
+          "url": "https://www.reddit.com/r/googlehome/comments/1lcgf60/matter_devices_and_google_home/"
+        }
+      ]
+    },
+    {
+      "id": "security-alarm-contracts-not-for-renters",
+      "pain": "Traditional alarm companies want long contracts or won't lease equipment to renters who may move",
+      "details": "Renters who may move within a year can't commit to multi-year monitoring contracts and often have to buy equipment outright, so they look for portable DIY systems with month-to-month plans.",
+      "sources": [
+        "https://www.reddit.com/r/homesecurity/comments/1v6l2hs/security_system_for_a_renter/",
+        "https://www.reddit.com/r/homesecurity/comments/p1ckcd/home_security_for_renters_is_it_really_possible/"
+      ],
+      "quotes": [
+        {
+          "text": "most security companies don't lease alarm systems to residential renters, so you would likely have to pay the full cost out of pocket.",
+          "url": "https://www.reddit.com/r/homesecurity/comments/1v6l2hs/security_system_for_a_renter/"
+        },
+        {
+          "text": "Ring, SimpliSafe, and Cove all make renter-friendly models that don't have contracts",
+          "url": "https://www.reddit.com/r/homesecurity/comments/p1ckcd/home_security_for_renters_is_it_really_possible/"
+        }
+      ]
+    },
+    {
+      "id": "security-alarm-siren-neighbors-false-alarms",
+      "pain": "An apartment alarm siren may disturb neighbors and trigger false alarms, so renters doubt it is worth it",
+      "details": "Apartment dwellers worry a loud siren in a shared building annoys neighbors, that pets or roommates set off false alarms, and that alarms are more deterrent than protection.",
+      "sources": [
+        "https://www.reddit.com/r/Apartmentliving/comments/18b0gtj/is_it_worth_it_to_get_a_security_system/",
+        "https://www.reddit.com/r/AskNYC/comments/1wbpbbe/is_a_home_security_system_worth_it_in_an_apartment/"
+      ],
+      "quotes": [
+        {
+          "text": "You probably wont be able to use the siren because of false alarms and distrubing the neighbors.",
+          "url": "https://www.reddit.com/r/Apartmentliving/comments/18b0gtj/is_it_worth_it_to_get_a_security_system/"
+        }
+      ]
+    },
+    {
+      "id": "security-alarm-adhesive-sensors-fall-off-paint",
+      "pain": "Adhesive alarm sensors fall off (causing false alarms) or pull paint off when removed at move-out",
+      "details": "Owners report peel-and-stick entry sensors and keypads dropping off doors, which can trip false alarms, while renters fear double-sided tape will take paint with it and cost them deposit money.",
+      "sources": [
+        "https://www.reddit.com/r/simplisafe/comments/rwccxp/was_there_any_theft_or_breakin_even_with/",
+        "https://www.reddit.com/r/simplisafe/comments/1kl4bn3/unreliable_and_unsafe_a_total_failure_for_rental/",
+        "https://www.reddit.com/r/Renters/comments/1nn7sde/removing_double_sided_tape_ie_are_we_going_to/"
+      ],
+      "quotes": [
+        {
+          "text": "One of the entry sensors fell off (the sticky tape is not very good so go get some better 3M).",
+          "url": "https://www.reddit.com/r/simplisafe/comments/rwccxp/was_there_any_theft_or_breakin_even_with/"
+        },
+        {
+          "text": "Yes, I took some money off tenant deposit; no way to remove these without damaging the paint.",
+          "url": "https://www.reddit.com/r/Renters/comments/1nn7sde/removing_double_sided_tape_ie_are_we_going_to/"
+        }
+      ]
+    },
+    {
+      "id": "hubs-voice-homebridge-worth-the-maintenance",
+      "pain": "People are unsure whether Homebridge is worth the setup and ongoing maintenance compared with buying native HomeKit or Matter devices",
+      "details": "New users ask whether it is worth setting up and maintaining a Homebridge server; replies range from completely worth it (virtual switches, timers, unsupported brands) to frustration with debugging and updates.",
+      "sources": [
+        "https://www.reddit.com/r/HomeKit/comments/1d37h7m/is_it_worth_it_to_set_up_and_maintain_a/",
+        "https://www.reddit.com/r/HomeKit/comments/167mmni/homebridge_is_amazing/",
+        "https://www.reddit.com/r/HomeKit/comments/gm86de/homebridge_advice_needed_roll_my_own_or_buy_a/"
+      ],
+      "quotes": [
+        {
+          "text": "Homebridge is completely worth it.",
+          "url": "https://www.reddit.com/r/HomeKit/comments/1d37h7m/is_it_worth_it_to_set_up_and_maintain_a/"
+        }
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "number": "up to 24 hours",
+      "claim": "backup battery life of the SimpliSafe Base Station (Gen 3) in a power cut",
+      "url": "https://support.simplisafe.com/articles/base-station/base-station-gen-3-installation-guide",
+      "quote": "If the Base Station is unplugged or the power goes out, the backup battery keeps you covered for up to 24 hours."
+    },
+    {
+      "number": "100 dB",
+      "claim": "siren volume of the SimpliSafe Base Station (Gen 3)",
+      "url": "https://support.simplisafe.com/articles/base-station/base-station-gen-3-installation-guide",
+      "quote": "a battery backup that lasts up to 24 hours, and a 100 dB siren."
+    },
+    {
+      "number": "150",
+      "claim": "accessories one Homebridge bridge can expose to Apple Home",
+      "url": "https://developers.homebridge.io/homebridge/",
+      "quote": "One bridge can only expose 150 accessories due to a HomeKit limit."
+    }
+  ],
+  "videos": []
+}

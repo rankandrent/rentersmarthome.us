@@ -1,0 +1,476 @@
+{
+  "centralEntity": "Z-Wave and Apple HomeKit",
+  "entityVariants": [
+    "z wave apple homekit",
+    "zwave homekit",
+    "z-wave homekit bridge",
+    "does homekit support z-wave",
+    "z-wave devices in apple home",
+    "homekit z-wave hub"
+  ],
+  "entities": [
+    {
+      "name": "Z-Wave",
+      "type": "protocol",
+      "relation": "sub-GHz mesh protocol that Apple Home does not speak directly"
+    },
+    {
+      "name": "Apple Home app",
+      "type": "app",
+      "relation": "can show Z-Wave devices only through a HomeKit bridge"
+    },
+    {
+      "name": "Thinka for Z-Wave",
+      "type": "bridge",
+      "relation": "HomeKit-certified Z-Wave bridge recommended by several top results"
+    },
+    {
+      "name": "Homey Pro",
+      "type": "hub",
+      "relation": "multi-protocol hub that exposes Z-Wave devices to Apple Home (HomeKit experiment)"
+    },
+    {
+      "name": "Hubitat Elevation",
+      "type": "hub",
+      "relation": "local Z-Wave/Zigbee hub with an Apple HomeKit integration"
+    },
+    {
+      "name": "Home Assistant",
+      "type": "software",
+      "relation": "open-source hub that exposes Z-Wave devices to HomeKit via its HomeKit Bridge"
+    },
+    {
+      "name": "Homebridge",
+      "type": "software",
+      "relation": "open-source bridge; one bridge exposes at most 150 accessories"
+    },
+    {
+      "name": "Z-Wave USB stick (e.g. Aeotec Z-Stick)",
+      "type": "hardware",
+      "relation": "Z-Wave radio for Home Assistant or Homebridge setups"
+    },
+    {
+      "name": "Matter",
+      "type": "standard",
+      "relation": "the native route into Apple Home that makes new Z-Wave purchases less necessary"
+    },
+    {
+      "name": "Thread",
+      "type": "protocol",
+      "relation": "low-power mesh Apple Home supports natively, the closest Z-Wave alternative"
+    },
+    {
+      "name": "Z-Wave Alliance",
+      "type": "organization",
+      "relation": "standards body that certifies Z-Wave products"
+    },
+    {
+      "name": "Apple home hub (HomePod, Apple TV)",
+      "type": "device",
+      "relation": "needed for remote control and automations of bridged devices"
+    }
+  ],
+  "attributes": [
+    "needs a bridge or hub",
+    "HomeKit-certified vs unofficial bridge",
+    "local control",
+    "locks and garage doors excluded from some bridges",
+    "setup difficulty",
+    "hub cost vs replacing devices with Matter",
+    "takes the hub with you when you move",
+    "number of devices per bridge",
+    "mesh range through apartment walls"
+  ],
+  "ngrams": [
+    "z-wave devices",
+    "apple home",
+    "homekit bridge",
+    "z-wave hub",
+    "home assistant",
+    "homebridge",
+    "thinka",
+    "hubitat elevation",
+    "homey pro",
+    "matter devices",
+    "smart lock",
+    "home hub"
+  ],
+  "skipgrams": [
+    "z-wave…homekit",
+    "bridge…apple home",
+    "hub…z-wave",
+    "locks…bridge",
+    "matter…replace",
+    "homebridge…plugin"
+  ],
+  "nlpTerms": [
+    "inclusion",
+    "exclusion",
+    "mesh network",
+    "repeater",
+    "controller",
+    "pairing code",
+    "QR code",
+    "Siri",
+    "scenes",
+    "automations",
+    "local control",
+    "Raspberry Pi",
+    "certified",
+    "firmware",
+    "S2 security",
+    "SmartStart"
+  ],
+  "questions": [
+    "does apple homekit support z-wave",
+    "what is the best z-wave hub for homekit",
+    "can I add z-wave locks to homekit",
+    "do I need home assistant for z-wave homekit",
+    "should I buy z-wave or matter for apple home",
+    "is z-wave worth it in an apartment"
+  ],
+  "contentGaps": [
+    "No top result asks whether a renter should buy into Z-Wave at all in 2026, or just buy Matter/Thread devices that join Apple Home natively.",
+    "No result covers the renter case of a landlord-installed Z-Wave lock or thermostat (common in managed buildings) and why you usually can't add it to your own Apple Home.",
+    "No result warns plainly that Apple restricts bridged locks: certified bridges may refuse to pass non-HomeKit locks into Apple Home.",
+    "No result compares the bridge options by effort and cost in one short table (certified bridge vs Homey/Hubitat vs Home Assistant/Homebridge).",
+    "No result says what happens to the bridge and its paired devices when a renter moves out."
+  ],
+  "outline": [
+    {
+      "h2": "Does Apple HomeKit work with Z-Wave? The short answer",
+      "intent": "no direct support; you need a bridge or hub; for new purchases Matter/Thread is simpler",
+      "h3": []
+    },
+    {
+      "h2": "Your bridge options, compared",
+      "intent": "short table: certified bridge (Thinka), hub with HomeKit integration (Homey, Hubitat), DIY (Home Assistant, Homebridge + Z-Wave stick); effort, local control, limits",
+      "h3": [
+        "HomeKit-certified Z-Wave bridge",
+        "Hub with a HomeKit integration",
+        "DIY: Home Assistant or Homebridge"
+      ]
+    },
+    {
+      "h2": "What works through the bridge, and what doesn't",
+      "intent": "lights, switches, plugs, sensors fine; locks and some devices restricted; 150-accessory bridge limit",
+      "h3": []
+    },
+    {
+      "h2": "Renters: Z-Wave or Matter?",
+      "intent": "when keeping existing Z-Wave gear is worth a bridge vs buying Matter/Thread devices; landlord-installed Z-Wave locks and thermostats",
+      "h3": []
+    },
+    {
+      "h2": "Problems owners run into, and the fix",
+      "intent": "protocol confusion, bridge plugins breaking, moving the hub and re-pairing",
+      "h3": []
+    },
+    {
+      "h2": "Our verdict",
+      "intent": "who should bridge Z-Wave into Apple Home; next links (Matter vs Thread, Homebridge, HomeKit devices)",
+      "h3": []
+    }
+  ],
+  "targetWords": 1500,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://homey.app/en-us/wiki/apple-homekit-zwave-with-homey/",
+      "https://www.addtohomekit.com/blog/zwave-homekit/",
+      "https://linkdhome.com/articles/best-zwave-hub",
+      "https://www.reddit.com/r/HomeKit/comments/xjs04y/best_way_to_use_zwave_devices_with_homekit/"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "The how-to results describe each bridge option (Thinka, Homey, Hubitat, Home Assistant, Homebridge) in prose with setup steps; only the LinkdHOME hub roundup uses pros-cons lists. Word average uses the how-to results (Homey ~700, AddToHomeKit ~2,300); the LinkdHOME roundup (~4,500) is a different intent.",
+    "avgWords": 1500,
+    "avgProducts": 4,
+    "commonSections": [
+      "yes with a hub/bridge answer",
+      "what you need",
+      "bridge or hub options",
+      "setup steps per option",
+      "what you can do in Apple Home",
+      "drawbacks",
+      "FAQ"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": false
+  },
+  "serpProducts": [
+    {
+      "name": "Thinka for Z-Wave",
+      "pages": [
+        "https://www.thinka.eu/zwave?locale=en",
+        "https://www.addtohomekit.com/blog/zwave-homekit/",
+        "https://linkdhome.com/articles/best-zwave-hub",
+        "https://forum.aqara.com/t/exploring-the-thinka-z-wave-hub-for-homekit-integration/169659"
+      ]
+    },
+    {
+      "name": "Homey Pro",
+      "pages": [
+        "https://homey.app/en-us/wiki/apple-homekit-zwave-with-homey/",
+        "https://linkdhome.com/articles/best-zwave-hub"
+      ]
+    },
+    {
+      "name": "Hubitat Elevation",
+      "pages": [
+        "https://linkdhome.com/articles/best-zwave-hub",
+        "https://community.hubitat.com/t/cannot-add-z-wave-devices-to-homekit/120561"
+      ]
+    },
+    {
+      "name": "Home Assistant (software)",
+      "pages": [
+        "https://www.reddit.com/r/HomeKit/comments/xjs04y/best_way_to_use_zwave_devices_with_homekit/",
+        "https://community.home-assistant.io/t/start-from-scratch-z-wave-zigbee-or-and-homekit/81864"
+      ]
+    },
+    {
+      "name": "Homebridge (software)",
+      "pages": [
+        "https://www.addtohomekit.com/blog/zwave-homekit/",
+        "https://discussions.apple.com/thread/7690108"
+      ]
+    }
+  ],
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.reddit.com/r/HomeKit/comments/xjs04y/best_way_to_use_zwave_devices_with_homekit/",
+      "title": "Best way to use zwave devices with HomeKit? - Reddit"
+    },
+    {
+      "position": 2,
+      "url": "https://www.thinka.eu/zwave?locale=en",
+      "title": "Thinka for Z-Wave"
+    },
+    {
+      "position": 3,
+      "url": "https://homey.app/en-us/wiki/apple-homekit-zwave-with-homey/",
+      "title": "Control Z-Wave devices via Apple Home with Homey"
+    },
+    {
+      "position": 4,
+      "url": "https://discussions.apple.com/thread/7690108",
+      "title": "Homekit Bridge for z-wave Devices - Apple Support Community"
+    },
+    {
+      "position": 5,
+      "url": "https://www.addtohomekit.com/blog/zwave-homekit/",
+      "title": "How to add any Z-Wave Devices to HomeKit"
+    },
+    {
+      "position": 6,
+      "url": "https://www.apple.com/home/accessories/",
+      "title": "Home Accessories - Apple"
+    },
+    {
+      "position": 7,
+      "url": "https://forum.aqara.com/t/exploring-the-thinka-z-wave-hub-for-homekit-integration/169659",
+      "title": "Exploring the Thinka Z-Wave Hub for HomeKit Integration - Aqara Forum"
+    },
+    {
+      "position": 8,
+      "url": "https://community.hubitat.com/t/cannot-add-z-wave-devices-to-homekit/120561",
+      "title": "Cannot add Z-Wave devices to Homekit - Hubitat Community"
+    },
+    {
+      "position": 9,
+      "url": "https://community.home-assistant.io/t/start-from-scratch-z-wave-zigbee-or-and-homekit/81864",
+      "title": "Start from scratch: Z-Wave, Zigbee or/and HomeKit?"
+    },
+    {
+      "position": 10,
+      "url": "https://linkdhome.com/articles/best-zwave-hub",
+      "title": "Best Z-Wave Hubs (2026 Update) - LinkdHOME"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 3,
+    "withYear": 1,
+    "withNumber": 0,
+    "commonModifiers": [
+      "Bridge",
+      "Hub",
+      "How to add",
+      "Control Z-Wave devices",
+      "Best way"
+    ],
+    "gap": "The SERP is forums, vendor pages and one bridge vendor blog; nobody answers 'do I need a bridge, or should I just buy Matter' for a renter. Use a question title with the year and the bridge-vs-Matter angle."
+  },
+  "commonPoints": [
+    "Z-Wave devices cannot connect to Apple Home directly.",
+    "A hub or bridge that speaks both Z-Wave and HomeKit makes them appear in the Home app.",
+    "Devices stay paired to the hub; Apple Home controls them through it.",
+    "Options include Thinka, Homey, Hubitat, Home Assistant and Homebridge.",
+    "Once bridged you get Home app control, Siri, rooms, scenes and automations."
+  ],
+  "ourGain": [
+    {
+      "point": "Apple puts restrictions on what a bridge can pass through: non-HomeKit locks (and Wi-Fi devices) may be refused, so Z-Wave locks often can't be bridged.",
+      "source": "https://www.youtube.com/watch?v=bRa01MA7vOY"
+    },
+    {
+      "point": "Renter decision: bridge existing Z-Wave gear only if you already own several devices; otherwise buy Matter/Thread devices that join Apple Home natively and move with you.",
+      "source": "data/pain-points.json (hubs-voice-which-protocol-to-buy-confusion)"
+    },
+    {
+      "point": "Landlord-installed Z-Wave locks and thermostats belong to the building's hub, so a tenant usually can't add them to their own Apple Home; ask management instead.",
+      "source": "data/pain-points.json (smart-locks-landlord-installed-no-physical-key)"
+    },
+    {
+      "point": "One Homebridge bridge exposes at most 150 accessories, and community plugins can break after updates; a HomeKit-certified bridge avoids that maintenance.",
+      "source": "https://developers.homebridge.io/homebridge/"
+    },
+    {
+      "point": "Moving out: the Z-Wave mesh lives in the hub, so you take the hub, exclude/re-include devices at the new place and re-add the bridge to Apple Home.",
+      "source": "data/pain-points.json (hubs-voice-homekit-renter-hub-apple-id-moving)"
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "hubs-voice-which-protocol-to-buy-confusion",
+      "pain": "New buyers do not understand Matter vs Zigbee vs Z-Wave vs Thread and fear buying the wrong standard",
+      "details": "First-time smart home buyers ask which protocol to start with. Replies split: stick with cheaper Zigbee for now, go Matter over Thread for speed, or run both.",
+      "sources": [
+        "https://www.reddit.com/r/HomeKit/comments/1o3xfj6/zigbee_or_matter_whats_better_looking_into_near/",
+        "https://www.reddit.com/r/smarthome/comments/1aks24p/matter_or_zigbee_which_one_will_you_choose_for/",
+        "https://www.reddit.com/r/homeassistant/comments/14uh5w7/zigbee_or_matter_for_new_installation/",
+        "https://www.reddit.com/r/homeautomation/comments/1eamwov/new_smart_home_what_protocol_should_i_use_zigbee/",
+        "https://www.reddit.com/r/homeassistant/comments/1qk3btx/advice_for_a_newbie_on_home_assistant_os_zigbee/",
+        "https://www.reddit.com/r/homeassistant/comments/1pq31bw/should_i_slowly_transition_from_zigbee_to_matter/",
+        "https://www.reddit.com/r/homeassistant/comments/1lx5r87/zigbee_vs_thread_matter_for_new_house/",
+        "https://www.reddit.com/r/homeassistant/comments/1qkrlmw/zigbee_vs_matterthread_for_new_setup_in_2026/"
+      ],
+      "quotes": [
+        {
+          "text": "I want to make my home smart, but I ran into difficulty understanding the differences between Zigbee, Zwave and Matter.",
+          "url": "https://www.reddit.com/r/homeautomation/comments/1eamwov/new_smart_home_what_protocol_should_i_use_zigbee/"
+        },
+        {
+          "text": "Zigbee and Matter are not self exclusive and shouldn't be compared.",
+          "url": "https://www.reddit.com/r/homeassistant/comments/14uh5w7/zigbee_or_matter_for_new_installation/"
+        },
+        {
+          "text": "Matter will be the way to go in the future, but Zigbee is way more affordable for now.",
+          "url": "https://www.reddit.com/r/homeassistant/comments/1qkrlmw/zigbee_vs_matterthread_for_new_setup_in_2026/"
+        }
+      ]
+    },
+    {
+      "id": "hubs-voice-matter-ecosystem-compat-confusion",
+      "pain": "Buyers cannot tell if a Matter device will work with their Apple, Google or Alexa setup",
+      "details": "Owners ask whether Matter means a device automatically works in Apple Home, whether Echo Matter updates matter for HomeKit users, and why Google Home will not control some Matter plugs. Support varies by device and app version.",
+      "sources": [
+        "https://www.reddit.com/r/HomeKit/comments/1l0soq3/does_matter_automatically_mean_a_device_will_work/",
+        "https://www.reddit.com/r/HomeKit/comments/167zmbx/matter_contradictions/",
+        "https://www.reddit.com/r/googlehome/comments/1lcgf60/matter_devices_and_google_home/",
+        "https://www.reddit.com/r/HomeKit/comments/1hyiyn8/for_those_on_homekit_only_no_alexa_or_google_home/",
+        "https://www.reddit.com/r/HomeKit/comments/136mwtz/all_of_my_amazon_echo_devices_now_have_matter/"
+      ],
+      "quotes": [
+        {
+          "text": "The challenge is that Matter is evolving quickly.",
+          "url": "https://www.reddit.com/r/HomeKit/comments/1l0soq3/does_matter_automatically_mean_a_device_will_work/"
+        },
+        {
+          "text": "you can't control Matter devices from Google Home",
+          "url": "https://www.reddit.com/r/googlehome/comments/1lcgf60/matter_devices_and_google_home/"
+        }
+      ]
+    },
+    {
+      "id": "hubs-voice-homekit-renter-hub-apple-id-moving",
+      "pain": "Renters starting HomeKit worry about whose Apple ID owns the home hub and what happens to the setup when they move or a roommate leaves",
+      "details": "Threads from renters ask how to set up the hub and Apple ID in a rental, what to buy that does not need a unique hub, and whether landlord-owned smart devices can be linked to the tenant's own Siri account. Only search excerpts were readable (Reddit scraping unsupported), so treat as lead-level evidence.",
+      "sources": [
+        "https://www.reddit.com/r/HomeKit/comments/n51voa/homekit_in_a_rental_property/",
+        "https://www.reddit.com/r/HomeKit/comments/1nm350y/homekit_for_rental_property/",
+        "https://www.reddit.com/r/HomeKit/comments/zzyc45/first_apartment_homekit_recommendations/",
+        "https://www.reddit.com/r/HomeKit/comments/wg8f0t/im_moving_into_an_apartment_in_a_few_months_and/"
+      ],
+      "quotes": [
+        {
+          "text": "One of the first decisions is regarding HomeKit hub and the Apple ID.",
+          "url": "https://www.reddit.com/r/HomeKit/comments/n51voa/homekit_in_a_rental_property/"
+        },
+        {
+          "text": "I'd stay away from anything that needs a unique hub and stick with WiFi or Thread devices.",
+          "url": "https://www.reddit.com/r/HomeKit/comments/zzyc45/first_apartment_homekit_recommendations/"
+        },
+        {
+          "text": "Only the wired one works with HomeKit, and you need an additional Arlo hub. Also, you lose a lot of features if you don't pay for the subscription.",
+          "url": "https://www.reddit.com/r/HomeKit/comments/wg8f0t/im_moving_into_an_apartment_in_a_few_months_and/"
+        }
+      ]
+    },
+    {
+      "id": "hubs-voice-homebridge-worth-the-maintenance",
+      "pain": "People are unsure whether Homebridge is worth the setup and ongoing maintenance compared with buying native HomeKit or Matter devices",
+      "details": "New users ask whether it is worth setting up and maintaining a Homebridge server; replies range from completely worth it (virtual switches, timers, unsupported brands) to frustration with debugging and updates.",
+      "sources": [
+        "https://www.reddit.com/r/HomeKit/comments/1d37h7m/is_it_worth_it_to_set_up_and_maintain_a/",
+        "https://www.reddit.com/r/HomeKit/comments/167mmni/homebridge_is_amazing/",
+        "https://www.reddit.com/r/HomeKit/comments/gm86de/homebridge_advice_needed_roll_my_own_or_buy_a/"
+      ],
+      "quotes": [
+        {
+          "text": "Homebridge is completely worth it.",
+          "url": "https://www.reddit.com/r/HomeKit/comments/1d37h7m/is_it_worth_it_to_set_up_and_maintain_a/"
+        }
+      ]
+    },
+    {
+      "id": "hubs-voice-homebridge-plugins-abandoned-or-break",
+      "pain": "Homebridge plugins stop working after updates or are abandoned by their volunteer maintainers",
+      "details": "Owners report that many plugins did not support Homebridge v2 at launch or are no longer developed, and some call most plugins a waste of time until debugged. Fixes they use: prefer verified, recently updated plugins, back up before updating, and downgrade a plugin that breaks.",
+      "sources": [
+        "https://www.reddit.com/r/homebridge/comments/1hkzlf0/homebridge_the_future_concerns/",
+        "https://www.reddit.com/r/HomeKit/comments/sotx30/homebridge_99_of_plugins_dont_work_complete_waste/",
+        "https://www.reddit.com/r/homebridge/comments/1t3s1og/homebridge_20_is_here_and_it_speaks_matter/"
+      ],
+      "quotes": [
+        {
+          "text": "It appears that most of my plugins are not currently supporting HB v2, or even worse, they are no longer being developed by the maintainer.",
+          "url": "https://www.reddit.com/r/homebridge/comments/1hkzlf0/homebridge_the_future_concerns/"
+        },
+        {
+          "text": "it takes a lot of debugging to get it initially working",
+          "url": "https://www.reddit.com/r/HomeKit/comments/sotx30/homebridge_99_of_plugins_dont_work_complete_waste/"
+        }
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "number": "232 nodes",
+      "claim": "maximum devices on a classic Z-Wave network (Z-Wave Long Range raises it to 4,000)",
+      "url": "https://z-wavealliance.org/what-is-z-wave-long-range-how-does-it-differ-from-z-wave/",
+      "quote": "Z-Wave LR also increases scalability on a single smart home network up to 4000 nodes. Compared to Z-Wave (232 nodes)"
+    },
+    {
+      "number": "150",
+      "claim": "accessories one Homebridge bridge can expose to Apple Home",
+      "url": "https://developers.homebridge.io/homebridge/",
+      "quote": "One bridge can only expose 150 accessories due to a HomeKit limit."
+    },
+    {
+      "number": "1 mile",
+      "claim": "proven line-of-sight range of the first Z-Wave Long Range implementation",
+      "url": "https://z-wavealliance.org/what-is-z-wave-long-range-how-does-it-differ-from-z-wave/",
+      "quote": "a proven transmission distance of 1 mile (1.6 KM) direct line of sight has been achieved utilizing +14dBm output power"
+    }
+  ],
+  "videos": [
+    {
+      "id": "bRa01MA7vOY",
+      "title": "How to Integrate Hubitat Elevation hub with Apple HomeKit",
+      "channel": "Hubitat Home Automation",
+      "url": "https://www.youtube.com/watch?v=bRa01MA7vOY",
+      "section": "Your bridge options, compared"
+    }
+  ]
+}

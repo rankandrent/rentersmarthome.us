@@ -1,0 +1,440 @@
+{
+  "centralEntity": "smart light switch with no wiring",
+  "entityVariants": [
+    "smart light switch no wiring",
+    "wireless smart light switch",
+    "stick on smart switch",
+    "no wiring smart switch for renters",
+    "smart switch that fits over existing switch",
+    "switchbot bot light switch"
+  ],
+  "entities": [
+    {
+      "name": "ThirdReality Smart Switch Gen3",
+      "type": "product",
+      "relation": "Zigbee switch that snaps over an existing toggle or rocker and flips it mechanically"
+    },
+    {
+      "name": "SwitchBot Bot",
+      "type": "product",
+      "relation": "stick-on robotic button pusher that presses a switch for you"
+    },
+    {
+      "name": "Philips Hue Dimmer Switch",
+      "type": "product",
+      "relation": "battery remote for Hue bulbs that sticks to the wall"
+    },
+    {
+      "name": "Lutron Aurora Smart Bulb Dimmer",
+      "type": "product",
+      "relation": "mounts over a toggle, locks it on, and dims Hue/Zigbee bulbs"
+    },
+    {
+      "name": "Tapo S200D Smart Remote Dimmer Switch",
+      "type": "product",
+      "relation": "battery remote for Tapo lights; needs a Tapo hub"
+    },
+    {
+      "name": "smart bulbs",
+      "type": "product type",
+      "relation": "the alternative approach: the wall switch stays on and bulbs do the smarts"
+    },
+    {
+      "name": "Zigbee hub",
+      "type": "device",
+      "relation": "needed by ThirdReality and Aurora (Echo with Zigbee, Hue Bridge or similar)"
+    },
+    {
+      "name": "neutral wire",
+      "type": "wiring",
+      "relation": "why in-wall smart switches are hard in older rentals; irrelevant for no-wiring options"
+    },
+    {
+      "name": "toggle switch vs rocker (Decora) switch",
+      "type": "attribute",
+      "relation": "decides which over-the-switch product fits"
+    },
+    {
+      "name": "lease",
+      "type": "legal document",
+      "relation": "most leases forbid electrical changes, so renters avoid in-wall swaps"
+    },
+    {
+      "name": "Apple Home / Alexa / Google Home",
+      "type": "platform",
+      "relation": "which ecosystem each no-wiring switch works with"
+    }
+  ],
+  "attributes": [
+    "no wiring or tools",
+    "fits toggle or rocker",
+    "works with regular bulbs or needs smart bulbs",
+    "hub required",
+    "battery life",
+    "removable at move-out without marks",
+    "voice assistant compatibility",
+    "keeps the wall switch usable by guests",
+    "bulky look on the wall"
+  ],
+  "ngrams": [
+    "smart light switch",
+    "no wiring",
+    "light switch",
+    "smart bulbs",
+    "toggle switch",
+    "rocker switch",
+    "wall plate",
+    "zigbee hub",
+    "hue dimmer",
+    "switchbot bot",
+    "renter friendly",
+    "regular bulbs"
+  ],
+  "skipgrams": [
+    "switch…no wiring",
+    "fits…toggle",
+    "smart bulbs…switch off",
+    "hub…zigbee",
+    "landlord…wiring",
+    "adhesive…paint"
+  ],
+  "nlpTerms": [
+    "mechanical switch pusher",
+    "battery remote",
+    "adhesive pad",
+    "faceplate screws",
+    "Zigbee",
+    "Bluetooth",
+    "Wi-Fi",
+    "Matter",
+    "Alexa",
+    "Siri",
+    "dimming",
+    "scenes",
+    "motion sensor",
+    "security deposit",
+    "electrician",
+    "neutral"
+  ],
+  "questions": [
+    "how can I make my light switch smart without wiring",
+    "do stick on smart switches work",
+    "can renters replace light switches",
+    "do I need smart bulbs for a wireless switch",
+    "does the switchbot bot work on rocker switches",
+    "what if someone flips the switch off on my smart bulbs"
+  ],
+  "contentGaps": [
+    "Most top results are about no-NEUTRAL in-wall switches, which still mean opening the wall box; few separate truly no-wiring options for renters.",
+    "No result gives a simple decision path: regular bulbs (switch pusher) vs smart bulbs (remote or over-switch dimmer).",
+    "No result covers the lease question (electrical changes) and move-out marks from adhesive pads.",
+    "No result fixes the classic smart-bulb problem of someone flipping the wall switch off, except passing mentions of the Aurora.",
+    "No result checks toggle vs rocker fit before buying."
+  ],
+  "outline": [
+    {
+      "h2": "The short answer: three ways to get a smart switch without wiring",
+      "intent": "switch pusher (regular bulbs), over-switch dimmer (smart bulbs), stick-on remote; quick picks",
+      "h3": []
+    },
+    {
+      "h2": "Our picks",
+      "intent": "one section per product with role, fit (toggle/rocker), hub and bulb needs",
+      "h3": [
+        "ThirdReality Smart Switch Gen3: best for regular bulbs",
+        "Lutron Aurora Smart Bulb Dimmer: best for Hue bulbs on toggle switches",
+        "Philips Hue Dimmer Switch: best stick-on remote",
+        "SwitchBot Bot: most flexible for odd switches"
+      ]
+    },
+    {
+      "h2": "Comparison table",
+      "intent": "fit, bulbs needed, hub, ecosystems, power",
+      "h3": []
+    },
+    {
+      "h2": "Check before you buy: switch type, bulbs, hub",
+      "intent": "toggle vs rocker, regular vs smart bulbs, Zigbee hub or not",
+      "h3": []
+    },
+    {
+      "h2": "Can renters change light switches?",
+      "intent": "lease and electrical changes; why no-wiring options avoid the question; move-out removal",
+      "h3": []
+    },
+    {
+      "h2": "Problems owners run into, and the fix",
+      "intent": "smart bulbs die when the switch is flipped, adhesive falling off or pulling paint, bulbs disconnecting",
+      "h3": []
+    },
+    {
+      "h2": "Our verdict",
+      "intent": "pick by bulbs and switch type; next links (smart bulbs, LED strips)",
+      "h3": []
+    }
+  ],
+  "targetWords": 1600,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://harmony-electric.com/blog/smart-light-switches-without-neutral-wires-that-actually-work/",
+      "https://linkdhome.com/articles/best-no-neutral-switch",
+      "https://www.youtube.com/watch?v=8ReqtMlA0fA",
+      "https://www.reddit.com/r/homeassistant/comments/17rp4dw/nowiring_smart_light_switches_for_apartment/"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "LinkdHOME (the longest editorial result) gives each switch Pros/Cons lists; Harmony Electric uses a comparison table plus short paragraphs. Average is pulled up by LinkdHOME (~5,000 words incl. comments) vs Harmony (~1,300) and short Reddit/video pages, so targetWords follows a 4-product roundup (~700 + 150 x 4, plus the renter sections).",
+    "avgWords": 2300,
+    "avgProducts": 6,
+    "commonSections": [
+      "why a neutral/wiring is the problem",
+      "product picks with hub/protocol",
+      "comparison table",
+      "smart bulbs as the alternative",
+      "flicker/compatibility caveats",
+      "FAQ"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true
+  },
+  "serpProducts": [
+    {
+      "name": "ThirdReality Smart Switch Gen3",
+      "pages": [
+        "https://www.reddit.com/r/homeassistant/comments/17rp4dw/nowiring_smart_light_switches_for_apartment/",
+        "https://www.reddit.com/r/homeautomation/comments/1pozfct/looking_for_renter_friendly_way_to_control_toggle/",
+        "https://www.reddit.com/r/homeautomation/comments/1sqd712/renterfriendly_smart_switches/",
+        "https://www.youtube.com/watch?v=8ReqtMlA0fA"
+      ]
+    },
+    {
+      "name": "Philips Hue Dimmer Switch",
+      "pages": [
+        "https://linkdhome.com/articles/best-no-neutral-switch",
+        "https://www.reddit.com/r/smarthome/comments/hsvvk6/smart_switch_advice_for_apartment/",
+        "https://www.youtube.com/watch?v=8ReqtMlA0fA"
+      ]
+    },
+    {
+      "name": "Lutron Aurora Smart Bulb Dimmer",
+      "pages": [
+        "https://www.reddit.com/r/homeautomation/comments/18hm0cp/im_in_a_rental_and_cant_do_any_wiring_are_there/",
+        "https://www.youtube.com/watch?v=8ReqtMlA0fA"
+      ]
+    },
+    {
+      "name": "SwitchBot Bot",
+      "pages": [
+        "https://www.youtube.com/watch?v=8ReqtMlA0fA",
+        "https://restechtoday.com/switchbot-review/"
+      ]
+    },
+    {
+      "name": "Tapo S200D Smart Remote Dimmer Switch",
+      "pages": [
+        "https://www.youtube.com/watch?v=8ReqtMlA0fA"
+      ]
+    },
+    {
+      "name": "GE CYNC Wire-Free Smart Switch",
+      "pages": [
+        "https://www.gelighting.com/smart-home/light-switches-remotes/wire-free-switches"
+      ]
+    }
+  ],
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.reddit.com/r/homeassistant/comments/17rp4dw/nowiring_smart_light_switches_for_apartment/",
+      "title": "No-wiring smart light switches for apartment? : r/homeassistant - Reddit"
+    },
+    {
+      "position": 2,
+      "url": "https://www.amazon.com/smart-switch-no-wiring/s?k=smart+switch+no+wiring",
+      "title": "Smart Switch No Wiring - Amazon.com"
+    },
+    {
+      "position": 3,
+      "url": "https://www.youtube.com/watch?v=YGD_kCwMP1Y",
+      "title": "Turn ANY Light Switch Into a Smart Switch the EASY Way (No Neutral ..."
+    },
+    {
+      "position": 4,
+      "url": "https://moeshouse.com/products/us-wifi-white-light-switch-no-neutral-no-capacitor",
+      "title": "WiFi Smart No Neutral Light Switch|Push Button Single ... - MOES"
+    },
+    {
+      "position": 5,
+      "url": "https://www.youtube.com/watch?v=obnV48YFSyc",
+      "title": "Add a 3-Way Light Switch ANYWHERE (No New Wires)"
+    },
+    {
+      "position": 6,
+      "url": "https://www.gelighting.com/smart-home/light-switches-remotes/wire-free-switches",
+      "title": "CYNC Wire-Free Smart Switches & Remotes - GE Lighting"
+    },
+    {
+      "position": 7,
+      "url": "https://www.facebook.com/groups/110936289745387/posts/1939472536891744/",
+      "title": "What smart switches don't require a neutral wire or hub? - Facebook"
+    },
+    {
+      "position": 8,
+      "url": "https://www.homedepot.com/b/Smart-Home-Smart-Wiring-Devices-Smart-Light-Switches/N-5yc1vZc7cc",
+      "title": "Smart Light Switches - The Home Depot"
+    },
+    {
+      "position": 9,
+      "url": "https://www.nytimes.com/wirecutter/reviews/best-in-wall-wireless-light-switch-and-dimmer/",
+      "title": "The Best In-Wall Smart Light Switch and Dimmer - The New York Times"
+    },
+    {
+      "position": 10,
+      "url": "https://harmony-electric.com/blog/smart-light-switches-without-neutral-wires-that-actually-work/",
+      "title": "Smart Light Switches Without Neutral Wires That Actually Work"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 2,
+    "withYear": 0,
+    "withNumber": 0,
+    "commonModifiers": [
+      "No Neutral",
+      "Wire-Free",
+      "Apartment",
+      "EASY Way",
+      "That Actually Work"
+    ],
+    "gap": "No editorial top-10 result is a dated, renter-specific no-wiring roundup; most mix up no-wiring with no-neutral. Use the keyword, the year, a product count and 'no electrician / renter-safe'."
+  },
+  "commonPoints": [
+    "Many in-wall smart switches need a neutral wire that older homes lack.",
+    "Wireless remotes and smart bulbs avoid the wiring problem entirely.",
+    "Some options need a hub (Zigbee, Hue Bridge) while Wi-Fi ones don't.",
+    "Check compatibility with your bulbs and voice assistant before buying."
+  ],
+  "ourGain": [
+    {
+      "point": "A renter decision path: regular bulbs -> a switch pusher (ThirdReality, SwitchBot Bot); Hue/Zigbee bulbs on a toggle -> Lutron Aurora; any smart bulbs -> a stick-on remote.",
+      "source": "https://www.youtube.com/watch?v=8ReqtMlA0fA"
+    },
+    {
+      "point": "Fix for the #1 smart-bulb complaint (someone flips the wall switch off): the Aurora locks the toggle on and can control up to 50 Zigbee bulbs via a Hue Bridge.",
+      "source": "https://support.lutron.com/us/en/product/aurora/z3-1brl/faqs/smart-bulb-compatability"
+    },
+    {
+      "point": "Fit check: the Aurora only fits toggle switches; ThirdReality fits toggle and rocker; SwitchBot Bot needs a flat surface beside the switch.",
+      "source": "https://support.lutron.com/us/en/product/aurora/z3-1brl/faqs/installation"
+    },
+    {
+      "point": "Lease and move-out: no-wiring options avoid electrical changes; owners in rentals ask for exactly this, and adhesive pads should come off slowly to protect paint.",
+      "source": "data/pain-points.json (lighting-no-wiring-allowed-smart-switch)"
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "lighting-no-wiring-allowed-smart-switch",
+      "pain": "Renter cannot rewire the wall switch but wants phone or voice control of the light",
+      "details": "Renters ask for smart switch options that need no wiring, such as switch-cover bots or smart bulbs.",
+      "sources": [
+        "https://www.reddit.com/r/homeassistant/comments/17rp4dw/nowiring_smart_light_switches_for_apartment/",
+        "https://www.reddit.com/r/homeautomation/comments/18hm0cp/im_in_a_rental_and_cant_do_any_wiring_are_there/",
+        "https://www.reddit.com/r/homeautomation/comments/1pozfct/looking_for_renter_friendly_way_to_control_toggle/"
+      ],
+      "quotes": [
+        {
+          "text": "I use third reality zigbee switches which fit over the existing switches so I don't need to rewire an apartment.",
+          "url": "https://www.reddit.com/r/homeassistant/comments/17rp4dw/nowiring_smart_light_switches_for_apartment/"
+        }
+      ]
+    },
+    {
+      "id": "lighting-bulbs-die-when-wall-switch-flipped",
+      "pain": "Smart bulbs lose control when someone flips the wall switch",
+      "details": "Households and roommates turn off the wall switch, which cuts power to the smart bulb so voice and app control fail.",
+      "sources": [
+        "https://www.reddit.com/r/HomeKit/comments/rv0eb8/is_there_a_smart_switch_that_keep_yours_smart/",
+        "https://www.reddit.com/r/smartlife/comments/17x8orb/smart_bulbs_not_working_with_alexa/",
+        "https://www.facebook.com/groups/AmazonAlexaUsersGroup/posts/1896783667423308/",
+        "https://doitforme.solutions/blog/are-your-smart-bulbs-making-your-smart-home-dumb/"
+      ],
+      "quotes": [
+        {
+          "text": "Most smart bulb disconnection issues come down to one thing - someone's turning them off at the wall switch.",
+          "url": "https://www.facebook.com/groups/AmazonAlexaUsersGroup/posts/1896783667423308/"
+        },
+        {
+          "text": "when you flip the wall switch, all power is stopped so the smart bulb becomes totally dead.",
+          "url": "https://doitforme.solutions/blog/are-your-smart-bulbs-making-your-smart-home-dumb/"
+        }
+      ]
+    },
+    {
+      "id": "lighting-smart-bulbs-unreliable-regret",
+      "pain": "Smart bulbs disconnect from Alexa or Wi-Fi and owners regret buying them",
+      "details": "Users report unresponsive bulbs with weak Wi-Fi radios or flaky firmware and say plain bulbs would have been less hassle.",
+      "sources": [
+        "https://www.reddit.com/r/HomeKit/comments/hd9slr/3_reasons_why_you_need_smart_switches_smart/",
+        "https://www.reddit.com/r/smartlife/comments/17x8orb/smart_bulbs_not_working_with_alexa/",
+        "https://www.facebook.com/groups/AmazonAlexaUsersGroup/posts/1896783667423308/"
+      ],
+      "quotes": [
+        {
+          "text": "Every smart bulb I have in/around the house makes me regret having it.",
+          "url": "https://www.reddit.com/r/HomeKit/comments/hd9slr/3_reasons_why_you_need_smart_switches_smart/"
+        },
+        {
+          "text": "Some smart lights have unreliable firmware or weak Wi-Fi radios, making them prone to disconnections.",
+          "url": "https://www.reddit.com/r/smartlife/comments/17x8orb/smart_bulbs_not_working_with_alexa/"
+        }
+      ]
+    },
+    {
+      "id": "baby-proofing-renter-cant-swap-outlet-plate",
+      "pain": "Renters are unsure whether they can replace wall plates or outlets for baby proofing without the landlord",
+      "details": "Renters hear to swap in tamper-resistant outlets or plates that take covers, but worry about landlord permission and deposits; some are told to hand it to the landlord.",
+      "sources": [
+        "https://www.reddit.com/r/howto/comments/1wjpzln/how_to_baby_proof_in_an_apartment/",
+        "https://www.reddit.com/r/HomeMaintenance/comments/1vja5r5/this_frustrating_outlet_is_in_my_toddlers_closet/",
+        "https://www.reddit.com/r/UKParenting/comments/1g1vvqa/babyproofing_in_a_rented_property/",
+        "https://www.reddit.com/r/shitrentals/comments/1fthezl/landlord_has_said_termination_if_we_drill_for/",
+        "https://www.reddit.com/r/beyondthebump/comments/1ibm5ay/baby_proof_outlet_covers_for_outlets_like_this/"
+      ],
+      "quotes": [
+        {
+          "text": "Unscrew the plate, unscrew the cable on the back side, replace it with a blank cover. Put it back on when you move.",
+          "url": "https://www.reddit.com/r/howto/comments/1wjpzln/how_to_baby_proof_in_an_apartment/"
+        },
+        {
+          "text": "It definitely needs to be handled by the landlord, but please don't risk your child's safety.",
+          "url": "https://www.reddit.com/r/HomeMaintenance/comments/1vja5r5/this_frustrating_outlet_is_in_my_toddlers_closet/"
+        },
+        {
+          "text": "You can replace the outlet face plates with ones that will work with outlet covers.",
+          "url": "https://www.reddit.com/r/beyondthebump/comments/1ibm5ay/baby_proof_outlet_covers_for_outlets_like_this/"
+        }
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "number": "up to 50",
+      "claim": "Zigbee smart bulbs one Lutron Aurora dimmer can control when paired with a Philips Hue Bridge",
+      "url": "https://support.lutron.com/us/en/product/aurora/z3-1brl/faqs/smart-bulb-compatability",
+      "quote": "When paired with a Philips Hue Smart Bridge, each Lutron Aurora smart bulb dimmer can control up to 50 Zigbee smart bulbs"
+    },
+    {
+      "number": "two minutes",
+      "claim": "Lutron's stated install time for the wire-free Aurora over a toggle switch",
+      "url": "https://commercial.lutron.com/us/en/press-releases/new-lutron-aurora-smart-bulb-dimmer-locks-toggle-style-light-switch-into-place-keeping-philips-hue-smart-lighting-always-ready",
+      "quote": "The completely wire-free Lutron Aurora dimmer can be installed easily over toggle switches in just two minutes."
+    },
+    {
+      "number": "600-day",
+      "claim": "SwitchBot's stated battery life for the SwitchBot Bot",
+      "url": "https://us.switch-bot.com/products/switchbot-bot",
+      "quote": "SwitchBot Bot automates physical switches with universal compatibility, easy installation, and 600-day battery life."
+    }
+  ],
+  "videos": []
+}

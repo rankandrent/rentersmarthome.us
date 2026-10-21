@@ -1,0 +1,461 @@
+{
+  "centralEntity": "SwitchBot Lock Pro",
+  "entityVariants": [
+    "switchbot lock pro review",
+    "switchbot lock pro",
+    "switchbot lock",
+    "switchbot lock renters",
+    "switchbot smart lock pro",
+    "switchbot retrofit smart lock"
+  ],
+  "entities": [
+    {
+      "name": "SwitchBot Lock Pro",
+      "type": "product",
+      "relation": "retrofit smart lock that replaces only the inside thumb turn of a deadbolt"
+    },
+    {
+      "name": "SwitchBot Keypad Touch",
+      "type": "accessory",
+      "relation": "optional outside keypad with fingerprint, passcodes and NFC"
+    },
+    {
+      "name": "SwitchBot Hub Mini (Matter enabled) / Hub 2",
+      "type": "hub",
+      "relation": "needed for remote access, Matter and Apple Home, Alexa or Google"
+    },
+    {
+      "name": "SwitchBot Dual Power Pack",
+      "type": "accessory",
+      "relation": "rechargeable packs that extend battery life to up to 12 months"
+    },
+    {
+      "name": "SwitchBot Lock Ultra",
+      "type": "product",
+      "relation": "newer, slimmer successor that several top results now review"
+    },
+    {
+      "name": "Matter",
+      "type": "standard",
+      "relation": "how the lock reaches Apple Home and other platforms via the SwitchBot hub"
+    },
+    {
+      "name": "Apple Home Key",
+      "type": "feature",
+      "relation": "not supported by the Lock Pro"
+    },
+    {
+      "name": "deadbolt thumb turn",
+      "type": "hardware",
+      "relation": "the part the renter removes and keeps for move-out"
+    },
+    {
+      "name": "landlord / lease",
+      "type": "legal",
+      "relation": "retrofit locks keep the landlord's key working, the main renter advantage"
+    },
+    {
+      "name": "Nuki Smart Lock",
+      "type": "product",
+      "relation": "retrofit rival used for comparison in top reviews"
+    },
+    {
+      "name": "Aqara U200 / U50",
+      "type": "product",
+      "relation": "retrofit rivals with Apple Home Key the reviews compare against"
+    },
+    {
+      "name": "SwitchBot app",
+      "type": "app",
+      "relation": "setup, calibration, battery status and passcode management"
+    }
+  ],
+  "attributes": [
+    "retrofit over existing deadbolt",
+    "keeps original keys",
+    "no drilling (brackets screw to existing deadbolt; adhesive option)",
+    "4 AA batteries, up to 9 months",
+    "rechargeable Dual Power Pack",
+    "hub required for remote and Matter",
+    "no Apple Home Key",
+    "built-in door sensor",
+    "bulky size",
+    "quiet motor"
+  ],
+  "ngrams": [
+    "switchbot lock pro",
+    "retrofit smart lock",
+    "keypad touch",
+    "hub mini",
+    "aa batteries",
+    "battery life",
+    "door sensor",
+    "apple home",
+    "home key",
+    "matter support",
+    "thumb turn",
+    "existing keys"
+  ],
+  "skipgrams": [
+    "lock pro…hub mini",
+    "keypad…fingerprint",
+    "lock…existing deadbolt",
+    "battery…9 months",
+    "matter…apple home",
+    "renters…landlord key"
+  ],
+  "nlpTerms": [
+    "calibration",
+    "mounting bracket",
+    "adapter",
+    "tailpiece",
+    "auto-lock",
+    "geofencing",
+    "NFC card",
+    "passcode",
+    "one-time code",
+    "Bluetooth",
+    "IR blaster",
+    "Alexa",
+    "Google Home",
+    "Siri",
+    "Home Assistant",
+    "security deposit"
+  ],
+  "questions": [
+    "does switchbot lock work with existing deadbolt",
+    "does switchbot lock need a hub",
+    "is switchbot lock pro secure",
+    "does switchbot lock pro work with apple home",
+    "how long do switchbot lock pro batteries last",
+    "can renters use the switchbot lock pro",
+    "switchbot lock pro vs lock ultra"
+  ],
+  "contentGaps": [
+    "Top reviews mention renters in passing but none walks through the lease side: keep the original thumb turn, the landlord's key still works, reinstall before move-out.",
+    "No review covers what happens when the batteries die (key still works from outside; keypad uses separate CR123A batteries).",
+    "Few reviews address owner complaints on Reddit about features promised but missing and reliability after updates.",
+    "No review explains clearly that remote access, Matter and Apple Home all need the SwitchBot hub, so the real cost is a bundle.",
+    "No review says whether to buy the Lock Pro now that the Lock Ultra exists."
+  ],
+  "outline": [
+    {
+      "h2": "SwitchBot Lock Pro review: the short verdict",
+      "intent": "who it suits (renters who must keep their key), main catches (bulk, hub needed, no Home Key)",
+      "h3": []
+    },
+    {
+      "h2": "How it fits a rental door",
+      "intent": "retrofit over the deadbolt, brackets A/B, adhesive option, keeping the original thumb turn for move-out",
+      "h3": []
+    },
+    {
+      "h2": "Setup, hub and smart home",
+      "intent": "install time, calibration, Hub Mini for remote, Matter into Apple Home/Alexa/Google, no Home Key",
+      "h3": []
+    },
+    {
+      "h2": "Daily use: keypad, fingerprints and auto-lock",
+      "intent": "Keypad Touch options, door sensor, quiet motor",
+      "h3": []
+    },
+    {
+      "h2": "Battery life and what happens when it dies",
+      "intent": "4 AA up to 9 months, Dual Power Pack up to 12 months, lockout risk and backup key",
+      "h3": []
+    },
+    {
+      "h2": "What owners complain about",
+      "intent": "missing features, reliability, tiny screws, bulk; with fixes",
+      "h3": []
+    },
+    {
+      "h2": "SwitchBot Lock Pro vs Lock Ultra and other retrofit locks",
+      "intent": "short comparison so renters pick the right one",
+      "h3": []
+    },
+    {
+      "h2": "Our verdict",
+      "intent": "buy / skip by renter situation; next links (best smart lock for renters)",
+      "h3": []
+    }
+  ],
+  "targetWords": 1700,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://homekitnews.com/2024/06/03/switchbot-lock-pro-review/",
+      "https://en.techreviewer.de/switchbot-lock-pro-test/",
+      "https://www.youtube.com/watch?v=MB1Az_HD7GY",
+      "https://www.reddit.com/r/TrySwitchBot/comments/1jnf1mo/do_not_buy_switchbot_lock_pro_or_any_other/"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "Both editorial reviews end with a scored Pros/Cons (HomeKit News 'Pros/Cons', Techreviewer 'Positive/Negative'); the body is prose sections on design, install, app, keypad and battery. TrustedReviews (#6) could not be scraped.",
+    "avgWords": 1800,
+    "avgProducts": 1,
+    "commonSections": [
+      "design and build",
+      "installation",
+      "app and setup",
+      "keypad touch",
+      "hub mini / Matter",
+      "battery life",
+      "pros and cons",
+      "verdict with score"
+    ],
+    "usesComparisonTable": false,
+    "usesFaq": false,
+    "usesBuyingGuide": false
+  },
+  "serpProducts": [
+    {
+      "name": "SwitchBot Lock Pro",
+      "pages": [
+        "https://homekitnews.com/2024/06/03/switchbot-lock-pro-review/",
+        "https://en.techreviewer.de/switchbot-lock-pro-test/",
+        "https://www.trustedreviews.com/reviews/switchbot-lock-pro",
+        "https://www.youtube.com/watch?v=MB1Az_HD7GY"
+      ]
+    },
+    {
+      "name": "SwitchBot Lock Ultra",
+      "pages": [
+        "https://smarthomescene.com/reviews/switchbot-lock-ultra-and-keypad-vision-review/",
+        "https://www.pcworld.com/article/2787700/switchbot-lock-ultra-review.html"
+      ]
+    },
+    {
+      "name": "Nuki Smart Lock",
+      "pages": [
+        "https://homekitnews.com/2024/06/03/switchbot-lock-pro-review/",
+        "https://en.techreviewer.de/switchbot-lock-pro-test/"
+      ]
+    }
+  ],
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.reddit.com/r/TrySwitchBot/comments/1jnf1mo/do_not_buy_switchbot_lock_pro_or_any_other/",
+      "title": "do NOT buy SwitchBot lock pro (or any other product from them) - Reddit"
+    },
+    {
+      "position": 2,
+      "url": "https://homekitnews.com/2024/06/03/switchbot-lock-pro-review/",
+      "title": "Switchbot Lock Pro (review) - Homekit News and Reviews"
+    },
+    {
+      "position": 3,
+      "url": "https://www.youtube.com/watch?v=aknx3p_HF9A",
+      "title": "The SwitchBot Lock Pro Is Great But.. - YouTube"
+    },
+    {
+      "position": 4,
+      "url": "https://smarthomescene.com/reviews/switchbot-lock-ultra-and-keypad-vision-review/",
+      "title": "SwitchBot Lock Ultra and Keypad Vision Review - SmartHomeScene"
+    },
+    {
+      "position": 5,
+      "url": "https://us.switch-bot.com/products/switchbot-lock-pro",
+      "title": "SwitchBot Lock Pro | Smart Lock | Matter Compatible"
+    },
+    {
+      "position": 6,
+      "url": "https://www.trustedreviews.com/reviews/switchbot-lock-pro",
+      "title": "SwitchBot Lock Pro Review"
+    },
+    {
+      "position": 7,
+      "url": "https://en.techreviewer.de/switchbot-lock-pro-test/",
+      "title": "SwitchBot Lock Pro in the test: Inexpensive alternative to Nuki and ..."
+    },
+    {
+      "position": 8,
+      "url": "https://www.pcworld.com/article/2787700/switchbot-lock-ultra-review.html",
+      "title": "SwitchBot Lock Ultra review: Big upgrades, smaller form factor"
+    },
+    {
+      "position": 9,
+      "url": "https://www.youtube.com/watch?v=MB1Az_HD7GY",
+      "title": "A Matter smart lock that actually works? | SwitchBot Lock Pro Review"
+    },
+    {
+      "position": 10,
+      "url": "https://forums.appleinsider.com/discussion/245879/switchbot-lock-vision-pro-review-lack-of-home-key-support-will-drive-apple-users-away",
+      "title": "SwitchBot Lock Vision Pro review: lack of home key support will drive ..."
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 4,
+    "withYear": 0,
+    "withNumber": 0,
+    "commonModifiers": [
+      "Review",
+      "Is Great But",
+      "in the test",
+      "Matter",
+      "alternative to Nuki"
+    ],
+    "gap": "Reviews are 2024 and none is written for renters; the top result is a Reddit warning. Lead with the keyword, add the year and a renter angle (keeps your landlord's key)."
+  },
+  "commonPoints": [
+    "It is a retrofit lock that fits over an existing deadbolt and keeps your keys.",
+    "Installation takes minutes with brackets and tiny hex screws; calibration is in the app.",
+    "The optional Keypad Touch adds fingerprints, passcodes and NFC.",
+    "Remote access and Matter (Apple Home, Alexa, Google) need a SwitchBot hub.",
+    "It runs on 4 AA batteries and is bulky; no Apple Home Key."
+  ],
+  "ourGain": [
+    {
+      "point": "Renter checklist: keep the original thumb turn and screws in a labeled bag, the landlord's key keeps working, and reinstall at move-out.",
+      "source": "data/pain-points.json (smart-locks-retrofit-lease-eviction-risk)"
+    },
+    {
+      "point": "Dead-battery plan: 4 AA last up to 9 months (12 with the Dual Power Pack); keep the physical key, because a lockout can mean locksmith charges.",
+      "source": "https://us.switch-bot.com/pages/switchbot-lock-pro"
+    },
+    {
+      "point": "What owners on Reddit report going wrong (advertised features still missing, reliability concerns) and whether it matters for a renter.",
+      "source": "https://www.reddit.com/r/TrySwitchBot/comments/1jnf1mo/do_not_buy_switchbot_lock_pro_or_any_other/"
+    },
+    {
+      "point": "Real cost is the bundle: the lock alone is Bluetooth-only; remote access, auto-lock automations and Apple Home need the Hub Mini or Hub 2.",
+      "source": "https://homekitnews.com/2024/06/03/switchbot-lock-pro-review/"
+    },
+    {
+      "point": "Lock Pro vs Lock Ultra: the Ultra is the slimmer successor, so we say when the older Pro is still the better buy.",
+      "source": "https://smarthomescene.com/reviews/switchbot-lock-ultra-and-keypad-vision-review/"
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "smart-locks-retrofit-lease-eviction-risk",
+      "pain": "Renter wants a smart lock but fears the landlord will treat it as a lock alteration",
+      "details": "Renters ask for a lock that leaves the outside key cylinder alone so the landlord keeps access and there is no lease violation or eviction risk.",
+      "sources": [
+        "https://www.reddit.com/r/jerseycity/comments/1ncrxoj/landlord_wont_provide_physical_keys_for_smart/",
+        "https://www.reddit.com/r/homeautomation/comments/1rm2gag/best_renter_friendly_smart_lock/",
+        "https://www.landlordstudio.com/blog/whats-the-best-lock-for-a-rental-property"
+      ],
+      "quotes": [
+        {
+          "text": "If the landlord found out and considered this an alteration of the lock, you could face eviction.",
+          "url": "https://www.reddit.com/r/jerseycity/comments/1ncrxoj/landlord_wont_provide_physical_keys_for_smart/"
+        },
+        {
+          "text": "You leave the outside of the deadbolt the same. This allows the landlord to keep using their same key.",
+          "url": "https://www.reddit.com/r/homeautomation/comments/1rm2gag/best_renter_friendly_smart_lock/"
+        }
+      ]
+    },
+    {
+      "id": "smart-locks-battery-dies-lockout",
+      "pain": "Smart lock battery dies and the renter is locked out with no physical key",
+      "details": "Renters in building-managed or retrofit smart locks get locked out at night when the batteries fail, often with no key or backup. Many ask who is liable and how to prevent it.",
+      "sources": [
+        "https://www.reddit.com/r/legaladvice/comments/1pa2zkl/locked_out_at_2_am_due_to_failed_smart_lock/",
+        "https://www.reddit.com/r/ApartmentMaintenance/comments/1p38soy/these_door_locks_requires_batteries_when_the/",
+        "https://www.reddit.com/r/Locksmith/comments/16h9v92/lockout_due_to_battery_issue_is_the_landlord/",
+        "https://www.landlordstudio.com/blog/whats-the-best-lock-for-a-rental-property"
+      ],
+      "quotes": [
+        {
+          "text": "When the batteries die, the occupant is locked out until a maintenance technician comes.",
+          "url": "https://www.reddit.com/r/ApartmentMaintenance/comments/1p38soy/these_door_locks_requires_batteries_when_the/"
+        },
+        {
+          "text": "Batteries die, and a smart lock with dead batteries is a locked door.",
+          "url": "https://www.landlordstudio.com/blog/whats-the-best-lock-for-a-rental-property"
+        }
+      ]
+    },
+    {
+      "id": "smart-locks-lockout-charges-landlord-liability",
+      "pain": "Landlord charges the tenant for locksmith or a drilled lock after a smart lock fails",
+      "details": "Tenants locked out by a failed or bricked landlord-supplied smart lock report being billed for locksmith and lock replacement and ask whether the landlord is liable.",
+      "sources": [
+        "https://www.reddit.com/r/chicago/comments/1aqpr0d/smart_lock_bricked_last_night_now_my_landlord/",
+        "https://www.reddit.com/r/legaladvice/comments/1pa2zkl/locked_out_at_2_am_due_to_failed_smart_lock/",
+        "https://www.reddit.com/r/Locksmith/comments/16h9v92/lockout_due_to_battery_issue_is_the_landlord/"
+      ],
+      "quotes": [
+        {
+          "text": "The landlord owns the lock, the lock malfunctioned rendering the apartment uninhabitable and therefore the landlord is responsible.",
+          "url": "https://www.reddit.com/r/chicago/comments/1aqpr0d/smart_lock_bricked_last_night_now_my_landlord/"
+        },
+        {
+          "text": "now charged for locksmith + drilled lock.",
+          "url": "https://www.reddit.com/r/legaladvice/comments/1pa2zkl/locked_out_at_2_am_due_to_failed_smart_lock/"
+        }
+      ]
+    },
+    {
+      "id": "smart-locks-motor-misaligned-door-fails",
+      "pain": "Smart lock motor will not fully lock or unlock because of door alignment, heat or cold",
+      "details": "Owners report the bolt not extending when the latch does not pull the door in or when temperature changes make the motor struggle.",
+      "sources": [
+        "https://www.reddit.com/r/smarthome/comments/1l473e3/anybody_having_trouble_with_smart_locks_not/",
+        "https://www.reddit.com/r/smarthome/comments/1i2bxz5/discussion_why_smart_lock_are_not_used_by/"
+      ],
+      "quotes": [
+        {
+          "text": "If you close the door and the latch doesn't pull the door in enough for the deadbolt to slide out, then you have to adjust the latch.",
+          "url": "https://www.reddit.com/r/smarthome/comments/1l473e3/anybody_having_trouble_with_smart_locks_not/"
+        },
+        {
+          "text": "If it is hot, or cold, or your door isn't exactly perfectly fitted, there",
+          "url": "https://www.reddit.com/r/smarthome/comments/1i2bxz5/discussion_why_smart_lock_are_not_used_by/"
+        }
+      ]
+    },
+    {
+      "id": "smart-locks-wifi-app-connection-drops",
+      "pain": "Smart lock loses Wi-Fi or Bluetooth connection and remote unlock stops working",
+      "details": "Owners find the lock offline, the app not connecting, or remote unlock failing; standard fixes are restarting the router, reinstalling the app, or checking batteries.",
+      "sources": [
+        "https://iveise.com/blogs/how-to/smart-lock-not-working-10-common-problems-and-how-to-fix-them",
+        "https://www.facebook.com/groups/rockypointmexicofriends/posts/1712461169235088/",
+        "https://ardanshield.com/blogs/ttlock-smart-access/ttlock-remote-unlock-not-working-uk"
+      ],
+      "quotes": [
+        {
+          "text": "Restart your router, wait 60 seconds, then check if the lock reconnects automatically.",
+          "url": "https://iveise.com/blogs/how-to/smart-lock-not-working-10-common-problems-and-how-to-fix-them"
+        }
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "number": "up to 9 months",
+      "claim": "SwitchBot's stated battery life for the Lock Pro on 4 AA batteries",
+      "url": "https://us.switch-bot.com/pages/switchbot-lock-pro",
+      "quote": "SwitchBot Lock Pro uses 4 x AA batteries that enable you to get up to 9 months' worth of power when using."
+    },
+    {
+      "number": "12 months",
+      "claim": "maximum battery life with the optional SwitchBot Dual Power Pack",
+      "url": "https://us.switch-bot.com/pages/switchbot-lock-pro",
+      "quote": "SwitchBot Dual Power Pack is also available which helps give a maximum battery life of 12 months."
+    },
+    {
+      "number": "10°C to 45°C",
+      "claim": "the Lock Pro's rated operating temperature",
+      "url": "https://us.switch-bot.com/pages/switchbot-lock-pro",
+      "quote": "Operating temperature: 10°C to 45°C"
+    },
+    {
+      "number": "up to 15",
+      "claim": "unlocking methods with the Lock Pro + Hub Mini + Keypad Touch bundle",
+      "url": "https://us.switch-bot.com/products/switchbot-lock-pro",
+      "quote": "The Lock Pro + Hub Mini Matter Enabled + Keypad Touch bundle offers up to 15 different unlocking methods."
+    }
+  ],
+  "videos": [
+    {
+      "id": "MB1Az_HD7GY",
+      "title": "A Matter smart lock that actually works? | SwitchBot Lock Pro Review",
+      "channel": "DIY Smart Home Guy",
+      "url": "https://www.youtube.com/watch?v=MB1Az_HD7GY",
+      "section": "Setup, hub and smart home"
+    }
+  ]
+}
