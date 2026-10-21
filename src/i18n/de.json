@@ -133,5 +133,8 @@
   "list.newer": "Neuere Ratgeber",
   "list.older": "Ältere Ratgeber",
   "list.pagination": "Seitennavigation",
-  "score.name": "RenterSmartHome Spec-Score"
+  "score.name": "RenterSmartHome Spec-Score",
+  "photo.ai": "KI-generierte Illustration",
+  "video.play": "Video abspielen",
+  "video.caption": "Video: {title} ({channel} auf YouTube)"
 }

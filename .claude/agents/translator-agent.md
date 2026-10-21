@@ -45,3 +45,5 @@ Products: the English products whose local `productFit.status` is `fits` or `loc
 3. Stop. Do not run factcheck, QA, finalize, commit or push; the qa-agent and publisher-agent do that.
 
 Return: the file path, the id `<lang>/<localized-slug>`, the localized title and keyword, and anything from the English post you dropped or kept as US-specific.
+
+- Media and numbers: copy `illustrations` from the English post (same order, `prompt`, `afterHeading`, `src`, `width`, `height`; translate only `alt`) and `videos` unchanged (same `id`, `afterHeading`), and keep every number link on the same number and URL (convert units in the text, keep the link).

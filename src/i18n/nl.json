@@ -133,5 +133,8 @@
   "list.newer": "Nieuwere gidsen",
   "list.older": "Oudere gidsen",
   "list.pagination": "Paginering",
-  "score.name": "RenterSmartHome Spec-score"
+  "score.name": "RenterSmartHome Spec-score",
+  "photo.ai": "Door AI gegenereerde illustratie",
+  "video.play": "Video afspelen",
+  "video.caption": "Video: {title} ({channel} op YouTube)"
 }

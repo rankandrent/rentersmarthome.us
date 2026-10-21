@@ -1,0 +1,66 @@
+name: AI images and videos
+
+# Owner rule: no text-only posts. Generates the AI illustrations the writer
+# described in a post's `illustrations` (Cloudflare Workers AI) and checks the
+# post's YouTube `videos` with oEmbed (agents/ai-images.mjs), then deploys.
+# Needs CLOUDFLARE_API_TOKEN with the "Workers AI" permission; without it the
+# images are skipped and only the videos are checked.
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'src/content/blog/**'
+  schedule:
+    - cron: '41 9 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publisher
+  cancel-in-progress: false
+
+jobs:
+  media:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    timeout-minutes: 20
+    env:
+      RAW_CF_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID || '62f912a0c185f2042615da812a6e62e6' }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Clean token
+        run: |
+          TOKEN=$(printf '%s' "$RAW_CF_TOKEN" | tr -d '[:space:]"'"'" | sed 's/^CLOUDFLARE_API_TOKEN=//')
+          if [ -n "$TOKEN" ]; then echo "::add-mask::$TOKEN"; echo "CLOUDFLARE_API_TOKEN=$TOKEN" >> "$GITHUB_ENV"; fi
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Generate illustrations, check videos
+        run: node agents/ai-images.mjs
+      - name: Validate and build
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then echo "No changes."; exit 0; fi
+          npm run check:content
+          npm run build
+      - name: Commit and push
+        id: commit
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then echo "No changes."; exit 0; fi
+          git config user.name "${{ github.event.repository.name }}-agents"
+          git config user.email "agents@users.noreply.github.com"
+          git add src/content public/images/ai
+          git commit -m "content: AI illustrations and video check"
+          git pull --rebase
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+  deploy:
+    needs: media
+    if: needs.media.outputs.changed == 'true'
+    uses: ./.github/workflows/deploy.yml
+    secrets: inherit

@@ -133,5 +133,8 @@
   "list.newer": "Guías más recientes",
   "list.older": "Guías anteriores",
   "list.pagination": "Paginación",
-  "score.name": "Puntuación técnica RenterSmartHome"
+  "score.name": "Puntuación técnica RenterSmartHome",
+  "photo.ai": "Ilustración generada con IA",
+  "video.play": "Reproducir vídeo",
+  "video.caption": "Vídeo: {title} ({channel} en YouTube)"
 }

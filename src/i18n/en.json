@@ -118,5 +118,8 @@
   "list.empty": "No guides yet. Check back soon.",
   "list.newer": "Newer guides",
   "list.older": "Older guides",
-  "list.pagination": "Pagination"
+  "list.pagination": "Pagination",
+  "photo.ai": "AI-generated illustration",
+  "video.play": "Play video",
+  "video.caption": "Video: {title} ({channel} on YouTube)"
 }
