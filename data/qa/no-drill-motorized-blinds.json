@@ -1,9 +1,11 @@
 {
   "slug": "no-drill-motorized-blinds",
   "pass": true,
-  "checkedAt": "2026-10-14T13:21:20.280Z",
+  "checkedAt": "2026-10-21T10:18:31.584Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "2026-10-14: SwitchBot Blind Tilt fits tilt wands, rechargeable with optional solar panel, Matter/voice via SwitchBot hub; SwitchBot Curtain 3 rides rods/tracks, hub for remote/voice (switch-bot.com). Graywind 2-inch depth, silicone pad and voice-assistant claims could not be verified, so they were removed or replaced with check-the-listing guidance. Wrong Amazon listing (LICHTDIM24) cleared.",

@@ -1,12 +1,14 @@
 {
   "slug": "can-a-landlord-put-cameras-outside-the-house",
   "pass": true,
-  "checkedAt": "2026-10-21T10:05:37.965Z",
+  "checkedAt": "2026-10-21T10:17:59.993Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.ncrealtors.org/question/are-surveillance-cameras-allowed-on-the-outside-of-rental-properties/",
+    "source didn't respond normally (403): https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1954"
   ],
   "factCheck": {
     "verified": true,

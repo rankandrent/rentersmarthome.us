@@ -1,10 +1,11 @@
 {
   "slug": "best-water-leak-sensor-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-20T13:28:50.674Z",
+  "checkedAt": "2026-10-21T10:17:48.001Z",
   "errors": [],
   "warnings": [
-    "body has 2363 words, over the 1725 limit (top results average 1500): cut repetition and filler"
+    "body has 2363 words, over the 1725 limit (top results average 1500): cut repetition and filler",
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,

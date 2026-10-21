@@ -3,10 +3,11 @@
   "lang": "es",
   "translationOf": "blink-vs-ring-subscription",
   "pass": true,
-  "checkedAt": "2026-10-20T13:32:46.568Z",
+  "checkedAt": "2026-10-21T10:22:28.380Z",
   "errors": [],
   "warnings": [
-    "not localized yet: run localizer-agent for blink-vs-ring-subscription (data/briefs/es/blink-vs-ring-subscription.local.json), then rewrite with translator-agent"
+    "not localized yet: run localizer-agent for blink-vs-ring-subscription (data/briefs/es/blink-vs-ring-subscription.local.json), then rewrite with translator-agent",
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,

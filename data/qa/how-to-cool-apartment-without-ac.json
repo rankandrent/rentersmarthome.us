@@ -1,9 +1,11 @@
 {
   "slug": "how-to-cool-apartment-without-ac",
   "pass": true,
-  "checkedAt": "2026-10-14T13:15:33.645Z",
+  "checkedAt": "2026-10-21T10:18:16.821Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "2026-10-14: blackout curtains, cross ventilation, window fan direction, night ventilation, avoiding heat-producing appliances (Apartment List, Lemonade, Scientific American); NICETOWN, Vornado 660 and Lasko box fan described generically without specs.",

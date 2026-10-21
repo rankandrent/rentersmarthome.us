@@ -1,12 +1,15 @@
 {
   "slug": "lazy-susan-child-lock",
   "pass": true,
-  "checkedAt": "2026-10-21T10:04:45.380Z",
+  "checkedAt": "2026-10-21T10:18:21.222Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Poison-Prevention-Information-Center",
+    "source didn't respond normally (403): https://www.cpsc.gov/Recalls/2012/safety-1st-cabinet-locks-recalled-due-to-lock-failure-children-can-gain-unintended",
+    "source didn't respond normally (403): https://forums.thebump.com/discussion/4334066/did-you-babyproof-your-lazy-susan-cabinet"
   ],
   "factCheck": {
     "verified": true,

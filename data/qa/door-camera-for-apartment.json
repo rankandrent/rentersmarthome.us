@@ -1,10 +1,11 @@
 {
   "slug": "door-camera-for-apartment",
   "pass": true,
-  "checkedAt": "2026-10-20T20:10:05.278Z",
+  "checkedAt": "2026-10-21T10:18:05.985Z",
   "errors": [],
   "warnings": [
     "body has 2549 words, over the 2012 limit (top results average 1750): cut repetition and filler",
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
     "LIVE POST, FIX: source returns 404: https://support.google.com/googlehome/answer/9259110?hl=en",
     "LIVE POST, FIX: source returns 404: https://support.google.com/googlehome/answer/11830989?hl=en"
   ],

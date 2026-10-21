@@ -124,6 +124,16 @@ products:
         - title: 'r/HomeKit: Total home failure'
           url: >-
             https://www.reddit.com/r/HomeKit/comments/1v3bcsp/what_did_i_do_wrong_total_home_failure/
+    asin: B0DXR9NKS7
+    image:
+      url: 'https://m.media-amazon.com/images/I/51MadOWBaBL._SL500_.jpg'
+      width: 500
+      height: 461
+    amazonTitle: Apple - HomePod mini - Yellow
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51177ca94gL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Philips Hue White and Color Ambiance Starter Kit
     brand: Philips Hue
     query: Philips Hue White and Color Ambiance Starter Kit Bridge A19
@@ -185,6 +195,28 @@ products:
         - title: 'r/HomeKit: Philips Hue users, Matter or HomeKit direct?'
           url: >-
             https://www.reddit.com/r/HomeKit/comments/1hjjjm0/philips_hue_users_matter_or_homekit_direct/
+    asin: B0DBM4538Y
+    image:
+      url: 'https://m.media-amazon.com/images/I/31xoXcJlSUL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Philips Hue Smart Light Bulbs Starter Kit, Includes (1) Bridge, (2) 75W
+      A19 Bulbs, White and Color Ambiance LED Color Changing Lights, 1100LM,
+      E26, Control with App or Voice Assistant
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31g25JP0XJS._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/316to6x8QCL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41D6Y8ZXQiL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41--NCfKRYL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Eve Energy (Matter)
     brand: Eve
     query: Eve Energy Matter smart plug
@@ -244,6 +276,28 @@ products:
         - title: 'r/EveHome: Eve Energy Matter devices unresponsive'
           url: >-
             https://www.reddit.com/r/EveHome/comments/1kh4akf/eve_energy_matter_devices_unresponsive_on/
+    asin: B0C1CL2MV3
+    image:
+      url: 'https://m.media-amazon.com/images/I/21mweapzbxL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Eve Energy (Matter) 2-Pack - Smart Plug & Power Meter | app/voice control,
+      automate lights/appliances, for Alexa/Apple/Google/SmartThings/Home
+      Assistant, Thread Border Router requ.
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31yaIBRCl4L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/417K4AZZlIL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/416B5ARutsL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41ttJOFubuL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Eve Motion (Matter)
     brand: Eve
     query: Eve Motion Matter wireless motion sensor
@@ -315,6 +369,28 @@ products:
         - title: 'Matter Alpha: Eve Motion review'
           url: >-
             https://www.matteralpha.com/review/eve-motion-review-smart-speedy-ultra-reliable
+    asin: B0CGF5JLGN
+    image:
+      url: 'https://m.media-amazon.com/images/I/31ywuV6bsvL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Eve Motion (Matter) 3-Pack – Smart Motion and Light Sensor, IPX3,
+      Automatic Activation of Devices, Future-Proof, Works with Apple Home,
+      Alexa, Google Home, SmartThings, Requires Thread Border Router
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31CKd4sBeML._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41TLDb5rfVL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/411kLlXDPbL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41Mqp-8a5eL._SL500_.jpg'
+        width: 500
+        height: 500
 videos:
   - id: zUsRhs1y8e8
     afterHeading: 3

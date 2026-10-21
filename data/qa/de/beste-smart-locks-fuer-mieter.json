@@ -3,9 +3,11 @@
   "lang": "de",
   "translationOf": "best-smart-lock-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-20T13:30:29.255Z",
+  "checkedAt": "2026-10-21T10:20:17.408Z",
   "errors": [],
   "warnings": [
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
+    "source didn't respond normally (no response): https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/abzocke/schluesseldienste-so-schuetzen-sie-sich-vor-ueberzogen-hohen-rechnungen-6687",
     "source didn't respond normally (403): https://www.reddit.com/r/wohnen/comments/11m0yzw/darf_ich_das_t%C3%BCrschloss_gegen_ein_smartes/",
     "source didn't respond normally (403): https://www.gutefrage.net/frage/tuerschloss-in-der-mietwohnung-tauschen"
   ],

@@ -1,9 +1,10 @@
 {
   "slug": "best-peephole-camera-for-apartments",
   "pass": true,
-  "checkedAt": "2026-10-14T13:21:11.323Z",
+  "checkedAt": "2026-10-21T10:17:02.049Z",
   "errors": [],
   "warnings": [
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
     "no semantic brief (data/briefs), SEO audit skipped"
   ],
   "factCheck": {

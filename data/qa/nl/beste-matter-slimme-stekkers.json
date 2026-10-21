@@ -3,10 +3,11 @@
   "lang": "nl",
   "translationOf": "best-matter-smart-plugs",
   "pass": true,
-  "checkedAt": "2026-10-20T13:36:05.486Z",
+  "checkedAt": "2026-10-21T10:25:20.962Z",
   "errors": [],
   "warnings": [
-    "not localized yet: run localizer-agent for best-matter-smart-plugs (data/briefs/nl/best-matter-smart-plugs.local.json), then rewrite with translator-agent"
+    "not localized yet: run localizer-agent for best-matter-smart-plugs (data/briefs/nl/best-matter-smart-plugs.local.json), then rewrite with translator-agent",
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,

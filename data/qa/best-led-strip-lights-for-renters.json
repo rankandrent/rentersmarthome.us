@@ -1,9 +1,11 @@
 {
   "slug": "best-led-strip-lights-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-14T13:15:33.579Z",
+  "checkedAt": "2026-10-21T10:16:32.447Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "2026-10-14: Govee RGBIC multi-color segments with app/voice control; Philips Hue Lightstrip Plus works over Bluetooth and with the Hue Bridge (Amazon listing title, Philips Hue); Govee COB Strip Light Pro dot-free COB light (Govee blog); cut sections can't be rejoined without connectors (Neewer guide).",

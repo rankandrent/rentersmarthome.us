@@ -106,6 +106,26 @@ products:
         - title: 'r/amazonecho: Inaccurate temp sensor on the Echo Dot 5th gen'
           url: >-
             https://www.reddit.com/r/amazonecho/comments/zfgfes/inaccurate_temp_sensor_on_the_echo_dot_5th_gen/
+    image:
+      url: 'https://m.media-amazon.com/images/I/315PBUzfZiL._SL500_.jpg'
+      width: 313
+      height: 500
+    amazonTitle: >-
+      Amazon Echo Dot (newest model) - Vibrant sounding speaker, Designed for
+      Alexa+, Great for bedrooms, dining rooms and offices, Charcoal
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31vkCUuIWCL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41NkdsdZ3OL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41zlK85Vc4L._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41B464fZINL._SL500_.jpg'
+        width: 313
+        height: 500
   - name: Google Nest Hub (2nd Gen)
     brand: Google
     query: Google Nest Hub 2nd Gen smart display
@@ -161,6 +181,21 @@ products:
             brick
           url: >-
             https://www.reddit.com/r/googlehome/comments/1mh6s8v/google_nest_hub_in_2025_less_useful_than_a_broken/
+    asin: B0H6H2CC12
+    image:
+      url: 'https://m.media-amazon.com/images/I/31TaeVD2OfL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Google Nest Hub 7” Smart Display with Google Assistant (1st Gen) - Chalk
+      (Bulk Packaging)
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41MTXcZo2pL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41XZplYkJdL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Philips Hue White and Color Ambiance Starter Kit
     brand: Philips Hue
     query: Philips Hue White and Color Ambiance Starter Kit
@@ -209,6 +244,27 @@ products:
         - title: 'r/smarthome: Are Philips Hue products worth it?'
           url: >-
             https://www.reddit.com/r/smarthome/comments/17l0yxj/are_phillips_hue_products_worth_it_the_pricing/
+    image:
+      url: 'https://m.media-amazon.com/images/I/31xoXcJlSUL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Philips Hue Smart Light Bulbs Starter Kit, Includes (1) Bridge, (2) 75W
+      A19 Bulbs, White and Color Ambiance LED Color Changing Lights, 1100LM,
+      E26, Control with App or Voice Assistant
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31g25JP0XJS._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/316to6x8QCL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41D6Y8ZXQiL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41--NCfKRYL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Lutron Caseta Smart Lamp Dimmer Kit
     brand: Lutron
     query: Lutron Caseta Smart Lamp Dimmer Kit P-BDG-PKG1P
@@ -264,6 +320,28 @@ products:
             https://www.consumerreports.org/home-garden/smart-home/lutron-caseta-smart-switch-review-a3157375430/
         - title: 'YouTube: Lutron Caseta Smart Plug Review, Ugly but 100% Reliable?'
           url: 'https://www.youtube.com/watch?v=VkjyORqDJZM'
+    asin: B0777TC8QZ
+    image:
+      url: 'https://m.media-amazon.com/images/I/41AwU66ZcIS._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Lutron Caseta Smart Lamp Dimmer Starter Kit: Lamp Dimmer, Smart Hub,
+      Remote | Smart Kit has ultra reliable connection, doesn't rely on WiFi;
+      connect to Alexa, Apple Home, Google Home, P-BDG-PKG1P, White
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51QHDghrBqL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51fNT89GZ0L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51QJ63aB3FL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51XFVRtCSbL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: 'Google Home Help: Prepare your smart home for Matter'
     url: 'https://support.google.com/googlehome/answer/12391458?hl=en'

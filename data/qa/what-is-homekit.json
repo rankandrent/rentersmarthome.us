@@ -1,9 +1,11 @@
 {
   "slug": "what-is-homekit",
   "pass": true,
-  "checkedAt": "2026-10-20T13:29:38.094Z",
+  "checkedAt": "2026-10-21T10:19:00.528Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Re-opened Apple HomePod mini 2 and Apple TV 4K spec pages (size, weight, Wi-Fi 6E/7, Bluetooth 6, Thread, UWB, 20W, A19, Gigabit Ethernet, HDMI cable sold separately all match); Apple Support 102557 (hubs, Matter needs hub, Thread hub); Apple iCloud guide (HKSV needs iCloud+ and hub). Verified Reddit quotes verbatim via exact-phrase search (MatterProtocol 1ra5g8h, homeassistant 14uh5w7, HomeKit n51voa [OP not reply, fixed], zzyc45, wg8f0t, 1j8pf7q); removed unconfirmed 1l0soq3 quote, unsupported Google Home claim and HAP open-source claim. Added owners research: HomePod mini (5 Reddit excerpts + Stacey on IoT review) and Apple TV 4K (4 Reddit excerpts), no Amazon.",

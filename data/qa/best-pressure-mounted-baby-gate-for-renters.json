@@ -1,9 +1,11 @@
 {
   "slug": "best-pressure-mounted-baby-gate-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-16T10:49:22.239Z",
+  "checkedAt": "2026-10-21T10:17:02.971Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "2026-10-14: pressure-mounted gates must not be used at the top of stairs, hardware-mounted gates required there (mommyhood101, easytot); Regalo Easy Step pressure mount 29-38.5 in with wall cups (Amazon listing); Cumbor auto-close gate; Summer Infant Extra Tall walk-thru pressure gate.",
