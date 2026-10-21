@@ -318,6 +318,9 @@ products:
 videos:
   - id: zUsRhs1y8e8
     afterHeading: 3
+    title: I Tested Over 100 Apple Home Accessories. Here's The Best for 2026.
+    channel: Nikias Molina
+    checked: '2026-10-21'
 sources:
   - title: 'Apple: Home accessories (Works with Apple Home)'
     url: 'https://www.apple.com/home/accessories/'

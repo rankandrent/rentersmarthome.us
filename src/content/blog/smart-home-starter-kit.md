@@ -318,8 +318,16 @@ author: editorial-team
 videos:
   - id: EsFPaVeukEw
     afterHeading: 3
+    title: >-
+      How To Build a Smart Home (101): The Ultimate Beginner's Guide to Home
+      Automation
+    channel: Automate Your Life
+    checked: '2026-10-21'
   - id: tORXga2oZLI
     afterHeading: 5
+    title: 'Caséta Wireless: Setting Up the Plug-In Lamp Dimmer Kit'
+    channel: Lutron Electronics
+    checked: '2026-10-21'
 related:
   - can-a-landlord-put-cameras-outside-the-house
 heroImage: /images/featured/smart-home-starter-kit.png

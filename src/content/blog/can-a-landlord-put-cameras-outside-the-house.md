@@ -156,6 +156,9 @@ illustrations:
 videos:
   - id: qPNBLUCH96k
     afterHeading: 2
+    title: 'Security Cameras for Landlords: What''s Legal and What''s Not?'
+    channel: TurboTenant
+    checked: '2026-10-21'
 heroImage: /images/featured/can-a-landlord-put-cameras-outside-the-house.png
 heroAlt: >-
   Can a Landlord Put Cameras Outside the House? 5 Tenant Steps (2026) –
