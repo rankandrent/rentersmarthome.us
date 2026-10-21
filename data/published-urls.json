@@ -1,6 +1,7 @@
 {
   "_note": "Every blog URL that has gone live. scripts/redirects.mjs adds new ones on each build; a URL whose post is gone needs a redirect in data/redirects.json.",
   "urls": [
+    "/blog/alarm-system-for-apartment-renters/",
     "/blog/alexa-vs-google-home/",
     "/blog/apple-homekit-compatible-devices/",
     "/blog/best-air-purifier-for-apartment-renters/",
@@ -35,6 +36,7 @@
     "/blog/how-to-secure-sliding-glass-door-in-rental/",
     "/blog/lazy-susan-child-lock/",
     "/blog/locked-out-of-apartment/",
+    "/blog/matter-vs-thread/",
     "/blog/no-drill-motorized-blinds/",
     "/blog/philips-hue-vs-wiz/",
     "/blog/reolink-vs-eufy/",
