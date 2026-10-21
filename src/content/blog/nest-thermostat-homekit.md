@@ -149,6 +149,9 @@ illustrations:
 videos:
   - id: L6Vh3vKbgFU
     afterHeading: 3
+    title: How To Connect Nest Thermostat To Apple HomeKit
+    channel: One Hour Smart Home
+    checked: '2026-10-21'
 heroImage: /images/featured/nest-thermostat-homekit.png
 heroAlt: >-
   Nest Thermostat HomeKit Guide (2026) – Which Models Work for Renters –

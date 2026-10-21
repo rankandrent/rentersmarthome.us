@@ -170,6 +170,11 @@ author: editorial-team
 videos:
   - id: nkPruKEFcT4
     afterHeading: 2
+    title: >-
+      DoorbellBoa Anti-Theft Video Doorbell Door Mount, No Tools or Installation
+      (Honest Review)
+    channel: EvenTechCorp
+    checked: '2026-10-21'
 illustrations:
   - prompt: >-
       Close-up of a plain black metal bracket hooked over the top edge of an
