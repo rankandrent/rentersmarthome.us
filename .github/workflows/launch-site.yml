@@ -95,6 +95,30 @@ jobs:
           AMAZON_CREATORS_VERSION: ${{ vars.AMAZON_CREATORS_VERSION }}
         run: npm run amazon:refresh || echo "Amazon refresh failed; deploying without new product data."
 
+      # Owner rule: no text-only posts. The sister repo has no Cloudflare
+      # secret, so its AI illustrations are generated here (Workers AI, this
+      # repo's token) and kept in the Actions cache; file names carry a prompt
+      # hash, so each image is generated once. Videos are checked with oEmbed.
+      - name: Restore AI images
+        uses: actions/cache/restore@v4
+        with:
+          path: site/public/images/ai
+          key: ai-media-${{ inputs.project }}-${{ github.run_id }}
+          restore-keys: ai-media-${{ inputs.project }}-
+
+      - name: AI images and videos
+        working-directory: site
+        run: |
+          mkdir -p public/images/ai
+          test -f agents/ai-images.mjs && node agents/ai-images.mjs || echo "No ai-images agent in this site (or it failed); deploying without new media."
+
+      - name: Save AI images
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: site/public/images/ai
+          key: ai-media-${{ inputs.project }}-${{ github.run_id }}
+
       - name: QA agent (all posts, with online checks)
         working-directory: site
         env:
@@ -118,6 +142,7 @@ jobs:
           path: |
             site/src/content/blog
             site/data/qa
+            site/public/images/ai
           retention-days: 7
 
       - name: Create the Pages project (first run only)
