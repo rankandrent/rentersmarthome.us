@@ -351,6 +351,7 @@ heroAlt: >-
   Ring vs Nest Doorbell for Renters – Which Battery Model Fits a Lease? –
   RenterSmartHome comparison
 related:
+  - anti-theft-doorbell-mount
   - does-ring-work-with-apple-homekit
 ---
 

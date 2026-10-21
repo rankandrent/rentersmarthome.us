@@ -3793,7 +3793,7 @@
     "publishedAt": "2026-10-21T10:06:53.309Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-19T06:59:55.632Z",
     "secondaryKeywords": [
@@ -3827,7 +3827,8 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-19"
     },
-    "slug": "anti-theft-doorbell-mount"
+    "slug": "anti-theft-doorbell-mount",
+    "publishedAt": "2026-10-21T10:16:02.272Z"
   },
   {
     "status": "published",

@@ -1,0 +1,452 @@
+{
+  "keyword": "anti theft doorbell mount",
+  "createdAt": "2026-10-21T10:16:02.274Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "anti theft doorbell mount",
+    "entityVariants": [
+      "anti-theft doorbell mount",
+      "anti theft ring doorbell mount",
+      "anti theft video doorbell mount",
+      "no drill doorbell mount for apartment",
+      "over-the-door doorbell mount",
+      "doorbell door mount"
+    ],
+    "entities": [
+      {
+        "name": "DoorbellBoa Anti-Theft Video Doorbell Door Mount",
+        "type": "product",
+        "relation": "branded clamp-style anti theft doorbell mount recommended in the top results"
+      },
+      {
+        "name": "clamp (over-the-door) mount",
+        "type": "product type",
+        "relation": "wraps the door edge so it can only be removed from inside with the door open"
+      },
+      {
+        "name": "screw-on anti-theft cover",
+        "type": "product type",
+        "relation": "metal or plastic shell screwed to the wall or frame; needs drilling"
+      },
+      {
+        "name": "Ring Tamper Proof Cover",
+        "type": "accessory",
+        "relation": "Ring's locking cover; not compatible with the Ring no-drill mount"
+      },
+      {
+        "name": "Ring theft protection policy",
+        "type": "policy",
+        "relation": "free replacement for stolen Ring doorbells bought on ring.com, police report required"
+      },
+      {
+        "name": "battery video doorbell",
+        "type": "device",
+        "relation": "what the mount holds (Ring, Blink, eufy, Arlo, Wyze)"
+      },
+      {
+        "name": "security screws",
+        "type": "hardware",
+        "relation": "the standard anti-theft fix for homeowners; drilling makes it a lease question"
+      },
+      {
+        "name": "lease",
+        "type": "legal document",
+        "relation": "decides whether drilling, adhesive or door hardware is allowed"
+      },
+      {
+        "name": "landlord approval",
+        "type": "process",
+        "relation": "written OK before attaching anything to the door or frame"
+      },
+      {
+        "name": "renters insurance",
+        "type": "insurance",
+        "relation": "may cover a stolen doorbell as personal property, minus the deductible"
+      },
+      {
+        "name": "door gap",
+        "type": "attribute",
+        "relation": "space between door and frame that a clamp mount needs to close properly"
+      }
+    ],
+    "attributes": [
+      "no drilling",
+      "removable only from inside",
+      "door must swing inward",
+      "door thickness limit",
+      "door gap clearance",
+      "doorbell size fit",
+      "foam inserts",
+      "sensor and lens not blocked",
+      "weather cover",
+      "portability to next apartment"
+    ],
+    "ngrams": [
+      "anti theft doorbell mount",
+      "no drill",
+      "doorbell mount",
+      "apartment door",
+      "ring doorbell",
+      "door mount",
+      "video doorbell",
+      "renter friendly",
+      "inward swinging door",
+      "battery doorbell"
+    ],
+    "skipgrams": [
+      "mount…door edge",
+      "doorbell…stolen",
+      "door…swing inward",
+      "lease…drilling",
+      "landlord…approval",
+      "police…report"
+    ],
+    "nlpTerms": [
+      "clamp",
+      "bracket",
+      "foam insert",
+      "door frame",
+      "hallway",
+      "theft",
+      "vandalism",
+      "tamper",
+      "deductible",
+      "security deposit",
+      "move-out",
+      "weatherproof",
+      "motion sensor",
+      "two-way audio",
+      "chime"
+    ],
+    "questions": [
+      "how do I stop my doorbell being stolen in an apartment",
+      "can I mount a doorbell without drilling",
+      "do anti theft doorbell mounts block the camera",
+      "will my door still close with a doorbell mount",
+      "does Ring replace a stolen doorbell",
+      "can my landlord stop me using a doorbell mount"
+    ],
+    "contentGaps": [
+      "No top result explains what a renter's lease usually allows for each mount type (clamp vs screw vs adhesive).",
+      "No result tells readers to measure the door gap and swing direction before buying; owner complaints say the door would not shut.",
+      "No result notes that Ring's theft replacement only covers devices bought on ring.com and needs a police report within 15 days.",
+      "No result notes that Ring's own Tamper Proof Cover does not work with the Ring no-drill mount.",
+      "No result covers the neighbor-privacy angle of aiming a hallway doorbell."
+    ],
+    "outline": [
+      {
+        "h2": "Which anti theft doorbell mount works on an apartment door?",
+        "intent": "compare clamp, screw-on cover and adhesive mounts for theft resistance and lease fit",
+        "h3": []
+      },
+      {
+        "h2": "Our pick for renters",
+        "intent": "the one branded clamp mount the top results recommend",
+        "h3": [
+          "DoorbellBoa Anti-Theft Video Doorbell Door Mount: best no-drill pick"
+        ]
+      },
+      {
+        "h2": "Measure before you buy",
+        "intent": "door swing, thickness, gap and doorbell size so the door still closes",
+        "h3": []
+      },
+      {
+        "h2": "What your lease allows, and how to ask",
+        "intent": "landlord approval, neighbors' privacy, move-out",
+        "h3": []
+      },
+      {
+        "h2": "If your doorbell is stolen anyway",
+        "intent": "Ring theft policy limits, renters insurance, footage",
+        "h3": []
+      },
+      {
+        "h2": "Our verdict",
+        "intent": "close the opening scene, next links",
+        "h3": []
+      }
+    ],
+    "targetWords": 750,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://reolink.com/blog/doorbell-camera-against-theft/",
+        "https://www.yahoo.com/lifestyle/no-drill-video-doorbell-mount-201745114.html",
+        "https://universityedge.net/how-to-use-a-security-doorbell-for-your-apartment/",
+        "https://ring.com/pages/device-stolen"
+      ],
+      "productStyle": "paragraph",
+      "productStyleReason": "The editorial results describe the mount in prose (how it wraps the door, what fits); none use pros-cons lists or spec tables. The rest of the top 10 are store listings, Reddit threads and YouTube.",
+      "avgWords": 700,
+      "avgProducts": 1,
+      "commonSections": [
+        "why doorbells get stolen",
+        "mount or cover options",
+        "how the clamp mount installs",
+        "what to do if it is stolen"
+      ],
+      "usesComparisonTable": false,
+      "usesFaq": true,
+      "usesBuyingGuide": false
+    },
+    "serpProducts": [
+      {
+        "name": "DoorbellBoa Anti-Theft Video Doorbell Door Mount",
+        "pages": [
+          "https://www.reddit.com/r/Ring/comments/1mzh1cs/any_recommendations_for_antitheft_mounts_for_a/",
+          "https://www.yahoo.com/lifestyle/no-drill-video-doorbell-mount-201745114.html",
+          "https://universityedge.net/how-to-use-a-security-doorbell-for-your-apartment/",
+          "https://www.reddit.com/r/Ring/comments/13zeusk/no_drill_mount_a_massive_fail_other_suggestions/"
+        ]
+      }
+    ],
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.amazon.com/Anti-Theft-Doorbell-Non-Blocking-Accessories-Apartment/dp/B0GXKRZDVY",
+        "title": "Amazon.com: Anti-Theft Ring/Blink Doorbell Mount for 2026 Newest ..."
+      },
+      {
+        "position": 2,
+        "url": "https://www.reddit.com/r/Ring/comments/1mzh1cs/any_recommendations_for_antitheft_mounts_for_a/",
+        "title": "Any recommendations for anti-theft mounts for a Ring Battery Doorbell?"
+      },
+      {
+        "position": 3,
+        "url": "https://www.target.com/s/anti+theft+doorbell+mount",
+        "title": "Anti-Theft Doorbell Mount | Ring, Blink & Nest Options - Target"
+      },
+      {
+        "position": 4,
+        "url": "https://www.homedepot.com/p/Adrinfly-Anti-Theft-Doorbell-Mount-No-Drill-Door-Mount-Easy-to-Install-and-Not-Block-Camera-Sensor-SA1127H110/335476979",
+        "title": "Adrinfly Anti-Theft Doorbell Mount, No Drill Door Mount, Easy to Install and ..."
+      },
+      {
+        "position": 5,
+        "url": "https://www.amazon.com/live/video/03dcf7a22d534cea8311090d81f61785",
+        "title": "Ring Doorbell Anti-Theft Door Mount. See How To Use It. - Amazon.com"
+      },
+      {
+        "position": 6,
+        "url": "https://www.youtube.com/watch?v=j-hGw6AWFOI",
+        "title": "Ring Doorbell Anti Theft Door Mount - YouTube"
+      },
+      {
+        "position": 7,
+        "url": "https://www.walmart.com/browse/home-improvement/doorbell-mount/1072864_1067612_1230759_1067613_9329359_3502155_4314049",
+        "title": "Doorbell Mounts and Accessories for Secure Entry - Walmart.com"
+      },
+      {
+        "position": 8,
+        "url": "https://www.reddit.com/r/Ring/comments/1j3e648/anyone_know_of_a_different_renter_friendly/",
+        "title": "Anyone know of a different renter friendly doorbell holder that is anti ..."
+      },
+      {
+        "position": 9,
+        "url": "https://jayso.com/products/anti-theft-video-doorbell-mount-jvdbm",
+        "title": "Anti-Theft Video Doorbell Mount JVDBM - Jayso Electronics"
+      },
+      {
+        "position": 10,
+        "url": "https://www.ebay.com/itm/235410173632",
+        "title": "Anti-Theft Video Doorbell Mount | eBay"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 4,
+      "withYear": 1,
+      "withNumber": 0,
+      "commonModifiers": [
+        "No Drill",
+        "Ring/Blink",
+        "Door Mount",
+        "Apartment",
+        "Renter Friendly"
+      ],
+      "gap": "None of the top 10 tells a renter whether the mount fits their door and lease; we add a fit check and a lease check."
+    },
+    "commonPoints": [
+      "Clamp mounts wrap the door edge, so the doorbell can only come off from inside with the door open.",
+      "They need no drilling, screws or adhesive.",
+      "They fit battery doorbells such as Ring, Blink, eufy and Arlo.",
+      "The door must swing inward and be thin enough for the clamp.",
+      "Screw-on covers and security screws are the homeowner fix."
+    ],
+    "ourGain": [
+      {
+        "point": "Measure the door gap and swing before buying: owners report doors that would not close with the mount on.",
+        "source": "https://business.walmart.com/reviews/product/574699575"
+      },
+      {
+        "point": "Ring's free theft replacement only covers devices bought on ring.com, needs a police report and must be filed within 15 days.",
+        "source": "https://ring.com/pages/device-stolen"
+      },
+      {
+        "point": "Ring's own Tamper Proof Cover is not compatible with the Ring no-drill mount, so renters cannot stack the two.",
+        "source": "https://ring.com/support/articles/w3k6t/Learn-About-the-Tamper-Proof-Cover-for-Ring-Video-Doorbell"
+      },
+      {
+        "point": "Which mount type a lease usually allows (clamp vs screws vs adhesive) and a landlord request that covers theft and neighbors' privacy.",
+        "source": "data/pain-points.json (security-landlord-bans-cameras-doorbells, security-doorbell-records-neighbors)"
+      },
+      {
+        "point": "Only about half of renters carry renters insurance, the other route to replacing a stolen doorbell.",
+        "source": "https://naahq.org/news/renters-insurance-premiums-constant"
+      }
+    ],
+    "painPoints": [
+      {
+        "id": "security-doorbell-theft-fear",
+        "pain": "Renters fear a doorbell camera on a shared hallway or exterior will be stolen",
+        "details": "Apartment dwellers ask how to protect a battery doorbell and whether insurance covers a stolen device.",
+        "sources": [
+          "https://www.facebook.com/groups/ringdoorbellusersgroup/posts/1159754994376236/",
+          "https://www.reddit.com/r/Ring/comments/wtmiqy/whats_stopping_someone_just_walking_up_and/"
+        ],
+        "quotes": [
+          {
+            "text": "Want to get one for my apartment but afraid it will be stolen.",
+            "url": "https://www.facebook.com/groups/ringdoorbellusersgroup/posts/1159754994376236/"
+          }
+        ]
+      },
+      {
+        "id": "security-no-drill-doorbell-mount",
+        "pain": "Renters cannot drill the door or exterior wall to mount a doorbell camera",
+        "details": "Renters need tape, clip-on or door-frame mounts that leave no marks; some buildings forbid drilling on the exterior.",
+        "sources": [
+          "https://www.reddit.com/r/Ring/comments/1j3e648/anyone_know_of_a_different_renter_friendly/",
+          "https://www.reddit.com/r/Ring/comments/184g6hd/what_are_your_thoughts_on_putting_up_a_ring/"
+        ],
+        "quotes": [
+          {
+            "text": "I don't want to screw into the house or the doors, but need anti theft.. seems like I can't find anything!",
+            "url": "https://www.reddit.com/r/Ring/comments/1j3e648/anyone_know_of_a_different_renter_friendly/"
+          }
+        ]
+      },
+      {
+        "id": "security-doorbell-mount-door-wont-close",
+        "pain": "A clamp-style doorbell mount stops the apartment door from closing or does not fit the doorbell",
+        "details": "Over-the-door mounts need an inward-swinging door, a thin enough door and room between door and frame; owners report doors that would not shut and doorbells that did not fit the case.",
+        "sources": [
+          "https://business.walmart.com/reviews/product/574699575",
+          "https://www.reddit.com/r/Ring/comments/13zeusk/no_drill_mount_a_massive_fail_other_suggestions/"
+        ],
+        "quotes": [
+          {
+            "text": "Sadly, I could not shut my door with the Boa.",
+            "url": "https://business.walmart.com/reviews/product/574699575"
+          }
+        ]
+      },
+      {
+        "id": "security-ring-theft-replacement-limits",
+        "pain": "Renters count on Ring replacing a stolen doorbell but the policy has conditions",
+        "details": "Ring's courtesy replacement needs a police report, the receipt and a claim within 15 days, and only covers devices bought on ring.com.",
+        "sources": [
+          "https://www.reddit.com/r/Ring/comments/1jv9cw3/rings_device_theft_protection_policy_not_being/",
+          "https://ring.com/pages/device-stolen"
+        ],
+        "quotes": [
+          {
+            "text": "Ring covered all of the replacements as long as I got a police report.",
+            "url": "https://www.reddit.com/r/Ring/comments/1jv9cw3/rings_device_theft_protection_policy_not_being/"
+          }
+        ]
+      },
+      {
+        "id": "security-landlord-bans-cameras-doorbells",
+        "pain": "Lease or landlord forbids doorbell cameras or personal cameras and renter fears enforcement",
+        "details": "Renters ask whether a lease clause banning cameras is enforceable and what happens if they install a temporary device anyway.",
+        "sources": [
+          "https://www.reddit.com/r/LandlordLove/comments/1ef2zou/can_landlord_say_we_cant_have_cameras/"
+        ],
+        "quotes": [
+          {
+            "text": "Make sure it's legal and not excluded in your lease.",
+            "url": "https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/"
+          }
+        ]
+      },
+      {
+        "id": "security-doorbell-records-neighbors",
+        "pain": "Hallway doorbell cameras record neighbors, raising privacy objections",
+        "details": "Management and neighbors object that a door camera in a shared hallway captures other residents' doors.",
+        "sources": [
+          "https://www.reddit.com/r/Apartmentliving/comments/1ebelua/ring_doorbells_not_allowed/"
+        ],
+        "quotes": [
+          {
+            "text": "you're likely to be recording other residents doors",
+            "url": "https://www.reddit.com/r/Apartmentliving/comments/1ebelua/ring_doorbells_not_allowed/"
+          }
+        ]
+      }
+    ],
+    "stats": [
+      {
+        "number": "38 percent",
+        "claim": "of Security.org survey respondents said they had been victims of package theft",
+        "url": "https://www.security.org/doorbell-camera/",
+        "quote": "38 percent of respondents said they’d been the victims of package theft; that’s nearly four in 10!"
+      },
+      {
+        "number": "55%",
+        "claim": "of renters have renters insurance (SafeHome.org 2022 report, via the National Apartment Association)",
+        "url": "https://naahq.org/news/renters-insurance-premiums-constant",
+        "quote": "The 2022 Renter’s Insurance Industry Report from SafeHome.org reports 55% of residents have renters insurance"
+      },
+      {
+        "number": "15 days",
+        "claim": "deadline to file a Ring theft replacement request",
+        "url": "https://ring.com/pages/device-stolen",
+        "quote": "Any replacement request must be submitted within 15 days of the theft and include copies of the original sales receipt, and the police report."
+      }
+    ],
+    "videos": [
+      {
+        "id": "nkPruKEFcT4",
+        "title": "DoorbellBoa Anti-Theft Video Doorbell Door Mount, No Tools or Installation (Honest Review)",
+        "channel": "EvenTechCorp",
+        "url": "https://www.youtube.com/watch?v=nkPruKEFcT4",
+        "section": "Our pick for renters"
+      }
+    ],
+    "secondaryKeywordsFromAutocomplete": [
+      "anti theft ring doorbell mount",
+      "no drill doorbell mount for apartment",
+      "anti theft video doorbell mount",
+      "doorbell door mount",
+      "blink doorbell anti theft door mount"
+    ]
+  },
+  "sources": [
+    {
+      "title": "yahoo.com/lifestyle/no-drill-video-doorbell-mount-201745114.html",
+      "url": "https://www.yahoo.com/lifestyle/no-drill-video-doorbell-mount-201745114.html"
+    },
+    {
+      "title": "universityedge.net/how-to-use-a-security-doorbell-for-your-apartment",
+      "url": "https://universityedge.net/how-to-use-a-security-doorbell-for-your-apartment/"
+    },
+    {
+      "title": "business.walmart.com/reviews/product/574699575",
+      "url": "https://business.walmart.com/reviews/product/574699575"
+    }
+  ],
+  "backlinks": [
+    {
+      "slug": "ring-doorbell-in-apartment",
+      "mode": "related-box"
+    },
+    {
+      "slug": "ring-vs-nest-doorbell",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-video-doorbell-without-subscription-for-renters",
+      "mode": "related-box"
+    }
+  ]
+}
