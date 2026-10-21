@@ -1,0 +1,427 @@
+{
+  "keyword": "lazy susan child lock",
+  "createdAt": "2026-10-21T10:06:53.311Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "lazy susan child lock",
+    "entityVariants": [
+      "lazy susan lock",
+      "lazy susan cabinet",
+      "lazy susan",
+      "corner cabinet lock",
+      "child proof lazy susan"
+    ],
+    "entities": [
+      {
+        "name": "pie-cut lazy susan",
+        "type": "cabinet type",
+        "relation": "door is attached to the trays and turns with them, so the lock has to stop rotation"
+      },
+      {
+        "name": "kidney lazy susan",
+        "type": "cabinet type",
+        "relation": "tray spins on its own behind a door hinged to the cabinet, often a bi-fold pair"
+      },
+      {
+        "name": "bi-fold door",
+        "type": "cabinet part",
+        "relation": "two hinged leaves on a corner cabinet; a lock must hold the leaf hinged to the frame"
+      },
+      {
+        "name": "turntable",
+        "type": "cabinet insert",
+        "relation": "loose lazy susan inside a regular cabinet; a normal cabinet lock works"
+      },
+      {
+        "name": "adhesive magnetic lock",
+        "type": "product category",
+        "relation": "hidden latch inside the door opened with a magnetic key, mounted without drilling"
+      },
+      {
+        "name": "strap lock",
+        "type": "product category",
+        "relation": "flexible strap that spans a gap or corner and releases with a press"
+      },
+      {
+        "name": "dual-press release",
+        "type": "mechanism",
+        "relation": "two buttons pressed together to open, used on the Safety 1st Lazy Susan Cabinet Lock"
+      },
+      {
+        "name": "face frame",
+        "type": "cabinet part",
+        "relation": "fixed frame around the opening where the catch half of a lock sticks"
+      },
+      {
+        "name": "CPSC",
+        "type": "organization",
+        "relation": "US agency that recalled push-button strap locks children could open and urges locked storage of chemicals"
+      },
+      {
+        "name": "Safety 1st",
+        "type": "brand",
+        "relation": "sells a lazy susan specific lock and adhesive magnetic locks, publishes install and removal guidance"
+      },
+      {
+        "name": "security deposit",
+        "type": "lease concept",
+        "relation": "at risk if drilling or adhesive damages the landlord's cabinets"
+      },
+      {
+        "name": "cleaning products",
+        "type": "hazard",
+        "relation": "the reason the corner cabinet needs locking; should move up and out of reach"
+      }
+    ],
+    "attributes": [
+      "no drilling",
+      "adhesive cure time",
+      "magnetic key",
+      "dual-press release",
+      "pinch risk",
+      "rotation",
+      "door type",
+      "age limit",
+      "removal without residue",
+      "caregiver friendly"
+    ],
+    "ngrams": [
+      "lazy susan cabinet",
+      "corner cabinet",
+      "magnetic lock",
+      "strap lock",
+      "cabinet frame",
+      "cleaning products",
+      "no drill",
+      "pie-cut lazy susan",
+      "kidney lazy susan",
+      "bi-fold door"
+    ],
+    "skipgrams": [
+      "lazy…susan",
+      "magnetic…key",
+      "strap…corner",
+      "adhesive…cure",
+      "door…frame",
+      "cleaning…reach"
+    ],
+    "nlpTerms": [
+      "childproof",
+      "baby proof",
+      "toddler",
+      "rotating",
+      "tray",
+      "hinge",
+      "adhesive",
+      "latch",
+      "catch",
+      "renter",
+      "landlord",
+      "deposit",
+      "floss",
+      "fingers",
+      "poison"
+    ],
+    "questions": [
+      "How do you baby proof a lazy susan cabinet?",
+      "Do magnetic locks work on a lazy susan?",
+      "Is there a child lock made for lazy susans?",
+      "How do you childproof a lazy susan without drilling?",
+      "What do you do with a bi-fold corner cabinet door?",
+      "Can a lazy susan pinch a toddler's fingers?"
+    ],
+    "contentGaps": [
+      "Which lock fits which of the three lazy susan designs (pie-cut, kidney with bi-fold doors, turntable in a regular cabinet)",
+      "Renter install and removal without drilling (24-hour cure, floss removal) so the deposit survives",
+      "Pinch and fall risk of the spinning tray itself, not only what is stored in it",
+      "Recall history of push-button strap locks and the age window of adhesive locks"
+    ],
+    "outline": [
+      {
+        "h2": "Which lazy susan child lock fits your cabinet?",
+        "intent": "direct answer and identify the cabinet type",
+        "h3": []
+      },
+      {
+        "h2": "Pie-cut lazy susan – stop the rotation",
+        "intent": "lock for doors that turn with the tray",
+        "h3": []
+      },
+      {
+        "h2": "Kidney lazy susan with bi-fold doors – lock the hinge-side leaf",
+        "intent": "lock for separate doors, offset locks, pinch risk",
+        "h3": []
+      },
+      {
+        "h2": "Turntable inside a regular cabinet",
+        "intent": "standard cabinet lock is enough",
+        "h3": []
+      },
+      {
+        "h2": "Problems parents run into, and the fix",
+        "intent": "pain points: nothing fits, toddler defeats lock, pinched fingers, no drilling",
+        "h3": []
+      },
+      {
+        "h2": "Install a lazy susan lock without drilling (renter steps)",
+        "intent": "numbered install and move-out removal steps",
+        "h3": []
+      },
+      {
+        "h2": "What to keep off the lazy susan",
+        "intent": "move cleaning products up, age limits, brief caregivers",
+        "h3": []
+      }
+    ],
+    "targetWords": 820,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://babyproofme.com/blogs/the-parenting-journal/how-to-baby-proof-a-lazy-susan-cabinet",
+        "https://forums.thebump.com/discussion/4334066/did-you-babyproof-your-lazy-susan-cabinet",
+        "https://www.reddit.com/r/NewParents/comments/11grmzk/any_recommendations_on_baby_proofing_this_lazy/",
+        "https://www.reddit.com/r/NewDads/comments/157npw9/no_drill_lazy_susan_babyproofing/"
+      ],
+      "productStyle": "paragraph",
+      "productStyleReason": "The ranking pages are a how-to article and parent forum threads; they describe lock types in prose rather than product cards, so this is a guide with no featured products.",
+      "avgWords": 800,
+      "avgProducts": 0,
+      "commonSections": [
+        "why a lazy susan is harder to lock",
+        "lock types that work",
+        "measure or check the door first",
+        "move hazardous items off the tray",
+        "test and show caregivers"
+      ],
+      "usesComparisonTable": false,
+      "usesFaq": false,
+      "usesBuyingGuide": false,
+      "note": "The rest of the top 10 is Amazon, Target, Walmart and Etsy listings, an Amazon video, an Instagram reel, a YouTube top-5 list and a BabyCenter thread (not readable). avgWords averages the babyproofme guide (about 1,150 words) and The Bump thread (about 420 words); the Reddit threads were read through search excerpts only."
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.reddit.com/r/NewParents/comments/11grmzk/any_recommendations_on_baby_proofing_this_lazy/",
+        "title": "Any recommendations on “baby proofing” this lazy susan cabinet?"
+      },
+      {
+        "position": 2,
+        "url": "https://www.amazon.com/child-proof-lazy-susan/s?k=child+proof+lazy+susan",
+        "title": "Child Proof Lazy Susan - Amazon.com"
+      },
+      {
+        "position": 3,
+        "url": "https://www.target.com/s/lazy+susan+lock",
+        "title": "Lazy Susan Locks | Childproof Cabinet Solutions - Target"
+      },
+      {
+        "position": 4,
+        "url": "https://www.walmart.com/ip/Safety-1st-Lazy-Susan-Cabinet-Lock-for-Childproofing-White-3-Piece/497412371",
+        "title": "Safety 1st Lazy Susan Cabinet Lock for Childproofing, White, 3 Piece"
+      },
+      {
+        "position": 5,
+        "url": "https://www.amazon.com/live/video/040a4eea6cc24e7fa38eb8099efc6e73",
+        "title": "Review & DEMO - Safety 1st Lazy Susan Cabinet Lock - Amazon.com"
+      },
+      {
+        "position": 6,
+        "url": "https://www.instagram.com/reel/DVjuGapD3cs/",
+        "title": "Baby proofing a lazy Susan tutorial #babyproofing #lazysusan #howto ..."
+      },
+      {
+        "position": 7,
+        "url": "https://babyproofme.com/blogs/the-parenting-journal/how-to-baby-proof-a-lazy-susan-cabinet",
+        "title": "How to Baby Proof a Lazy Susan Cabinet"
+      },
+      {
+        "position": 8,
+        "url": "https://www.youtube.com/watch?v=wxyQWlfK74g",
+        "title": "The Top 5 Best Lazy Susan Locks in 2025 - Must Watch Before Buying!"
+      },
+      {
+        "position": 9,
+        "url": "https://www.etsy.com/listing/59369866/multi-use-lazy-susan-child-safety-lock",
+        "title": "Multi-use Lazy Susan Child Safety Lock Latch Cupboard Latch ... - Etsy"
+      },
+      {
+        "position": 10,
+        "url": "https://community.babycenter.com/post/a43409044/child_proofing_a_corner_lazy_susan_cabinet",
+        "title": "Child proofing a corner lazy susan cabinet - Community | BabyCenter"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 2,
+      "withYear": 1,
+      "withNumber": 2,
+      "commonModifiers": [
+        "baby proofing",
+        "childproof",
+        "cabinet",
+        "lock",
+        "corner"
+      ],
+      "gap": "No title separates the three lazy susan designs or promises a no-drill, renter-safe fix; we lead with the keyword, the 3 cabinet types and no drilling."
+    },
+    "commonPoints": [
+      "A lazy susan is harder to lock than a normal cabinet because the tray turns and the door can flex or fold",
+      "Adhesive magnetic locks are the most mentioned fix for the lazy susan door",
+      "Strap or spanning locks are used where a single latch cannot reach",
+      "Hazardous products should move off the tray regardless of the lock",
+      "Test the lock and show every caregiver how it opens"
+    ],
+    "ourGain": [
+      {
+        "point": "Match the lock to the cabinet design: pie-cut doors turn with the trays, kidney units have a separate (often bi-fold) door, a turntable sits in a normal cabinet",
+        "source": "https://www.captivatingcabinets.com/blog/lazy-susan-cabinet-sizes-and-alternatives"
+      },
+      {
+        "point": "Offset two locks on a bi-fold door so it still opens both ways, and plan for the pinch risk owners mention",
+        "source": "https://www.reddit.com/r/NewParents/comments/11grmzk/any_recommendations_on_baby_proofing_this_lazy/"
+      },
+      {
+        "point": "Push-button strap locks have a recall history: CPSC says 140 children aged 9 months to 5 years disengaged the recalled Push 'N Snap strap locks",
+        "source": "https://www.cpsc.gov/Recalls/2012/safety-1st-cabinet-locks-recalled-due-to-lock-failure-children-can-gain-unintended"
+      },
+      {
+        "point": "Renter install and removal: clean with alcohol, wait 24 hours for the adhesive to cure, and saw the lock off with floss at move-out; Safety 1st rates its adhesive locks for about 6 to 24 months of age",
+        "source": "https://safety1st.com/pages/home-safety-help-center"
+      }
+    ],
+    "painPoints": [
+      {
+        "id": "baby-proofing-lazy-susan-nothing-fits",
+        "pain": "Standard cabinet locks don't fit a lazy susan corner cabinet with its spinning tray and folding or rotating door",
+        "details": "Parents say they tried several products and nothing worked, or that the bi-fold door opens both ways and two locks collide.",
+        "sources": [
+          "https://forums.thebump.com/discussion/4334066/did-you-babyproof-your-lazy-susan-cabinet",
+          "https://www.reddit.com/r/NewParents/comments/11grmzk/any_recommendations_on_baby_proofing_this_lazy/",
+          "https://www.reddit.com/r/toddlers/comments/nv8row/what_type_of_child_proof_locks_do_people_use_for/"
+        ],
+        "quotes": [
+          {
+            "text": "I haven't been able to find a baby proof for the lazy suzie, I tried several different products and nothing worked.",
+            "url": "https://forums.thebump.com/discussion/4334066/did-you-babyproof-your-lazy-susan-cabinet"
+          },
+          {
+            "text": "Offsetting the locks allows the cabinet to open both ways without conflicting with each other.",
+            "url": "https://www.reddit.com/r/NewParents/comments/11grmzk/any_recommendations_on_baby_proofing_this_lazy/"
+          }
+        ]
+      },
+      {
+        "id": "baby-proofing-lazy-susan-no-drill",
+        "pain": "Parents (and renters) don't want to drill holes in lazy susan cabinet fronts",
+        "details": "Owners look for no-drill options and settle on adhesive magnetic locks that stick to the door and frame.",
+        "sources": [
+          "https://www.reddit.com/r/NewDads/comments/157npw9/no_drill_lazy_susan_babyproofing/",
+          "https://forums.thebump.com/discussion/4334066/did-you-babyproof-your-lazy-susan-cabinet"
+        ],
+        "quotes": [
+          {
+            "text": "This house is much newer and I don't know if I want to put holes in the cabinet fronts.",
+            "url": "https://forums.thebump.com/discussion/4334066/did-you-babyproof-your-lazy-susan-cabinet"
+          },
+          {
+            "text": "We put these magnet locks for all our lower cabinets including the Lazy Susan door.",
+            "url": "https://www.reddit.com/r/NewDads/comments/157npw9/no_drill_lazy_susan_babyproofing/"
+          }
+        ]
+      },
+      {
+        "id": "baby-proofing-lazy-susan-pinch-fall",
+        "pain": "The lazy susan itself can hurt a toddler: pinched fingers in a folding door, or a child wedged in the spinning tray",
+        "details": "Owners mention smashed fingers as the trade-off of bi-fold locks, and a toddler who fell into an open lazy susan and got stuck.",
+        "sources": [
+          "https://www.reddit.com/r/NewParents/comments/11grmzk/any_recommendations_on_baby_proofing_this_lazy/",
+          "https://forums.thebump.com/discussion/4334066/did-you-babyproof-your-lazy-susan-cabinet"
+        ],
+        "quotes": [
+          {
+            "text": "The con is that smashed fingers are a risk.",
+            "url": "https://www.reddit.com/r/NewParents/comments/11grmzk/any_recommendations_on_baby_proofing_this_lazy/"
+          },
+          {
+            "text": "He fell into it, and the side of it jammed into his back and lodged him in there.",
+            "url": "https://forums.thebump.com/discussion/4334066/did-you-babyproof-your-lazy-susan-cabinet"
+          }
+        ]
+      },
+      {
+        "id": "baby-proofing-toddler-defeats-cabinet-lock",
+        "pain": "Toddlers learn to open or break cabinet locks, including on the lazy susan",
+        "details": "Parents report locks that broke, toddlers yanking at adhesive locks, and children who figured out both magnetic and press latches.",
+        "sources": [
+          "https://forums.thebump.com/discussion/4334066/did-you-babyproof-your-lazy-susan-cabinet",
+          "https://www.reddit.com/r/toddlers/comments/nv8row/what_type_of_child_proof_locks_do_people_use_for/"
+        ],
+        "quotes": [
+          {
+            "text": "We do but it broke last week!",
+            "url": "https://forums.thebump.com/discussion/4334066/did-you-babyproof-your-lazy-susan-cabinet"
+          },
+          {
+            "text": "They attached by adhesive and thus far he hasn't been able to yank them off- and believe me, he's tried.",
+            "url": "https://forums.thebump.com/discussion/4334066/did-you-babyproof-your-lazy-susan-cabinet"
+          }
+        ]
+      }
+    ],
+    "stats": [
+      {
+        "number": "67,000",
+        "claim": "estimated emergency department-treated poisoning injuries in children under 5 in 2023",
+        "url": "https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Poison-Prevention-Information-Center",
+        "quote": "there were an estimated 67,000 emergency department-treated injuries in children under 5 in 2023"
+      },
+      {
+        "number": "seven out of 10",
+        "claim": "share of child poisonings that happened in the home",
+        "url": "https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Poison-Prevention-Information-Center",
+        "quote": "Nearly seven out of 10 poisonings occurred in the home."
+      },
+      {
+        "number": "140",
+        "claim": "children aged 9 months to 5 years who disengaged recalled Push 'N Snap strap cabinet locks",
+        "url": "https://www.cpsc.gov/Recalls/2012/safety-1st-cabinet-locks-recalled-due-to-lock-failure-children-can-gain-unintended",
+        "quote": "the firm is aware of 140 children between the ages of 9 months and 5 years who were able to disengage the locks"
+      },
+      {
+        "number": "About 900,000",
+        "claim": "units in the 2012 Push 'N Snap cabinet lock recall",
+        "url": "https://www.cpsc.gov/Recalls/2012/safety-1st-cabinet-locks-recalled-due-to-lock-failure-children-can-gain-unintended",
+        "quote": "Units: About 900,000"
+      },
+      {
+        "number": "24 hours",
+        "claim": "adhesive cure time before using an adhesive cabinet latch",
+        "url": "https://safety1st.com/pages/home-safety-help-center",
+        "quote": "you must wait 24 hours for adhesive to cure to cabinet/drawer surface before using latch"
+      }
+    ],
+    "videos": [
+      {
+        "id": "h7tfOHbBh2E",
+        "title": "Safety 1st Lazy Susan Cabinet Lock",
+        "channel": "unverified (checked by the AI images workflow via oEmbed)",
+        "url": "https://www.youtube.com/watch?v=h7tfOHbBh2E",
+        "section": "Pie-cut lazy susan – stop the rotation"
+      }
+    ],
+    "serpProducts": []
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-magnetic-cabinet-locks-for-renters",
+      "mode": "related-box"
+    },
+    {
+      "slug": "how-to-baby-proof-a-rental-without-damage",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-pressure-mounted-baby-gate-for-renters",
+      "mode": "related-box"
+    }
+  ]
+}

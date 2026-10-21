@@ -1,0 +1,213 @@
+{
+  "centralEntity": "smart home starter kit",
+  "entityVariants": [
+    "smart home starter pack",
+    "beginner smart home devices",
+    "smart home bundle",
+    "smart home starter kit for apartment",
+    "starter smart home setup"
+  ],
+  "entities": [
+    { "name": "Amazon Echo Dot (5th Gen)", "type": "product", "relation": "voice controller and Matter controller for Alexa homes" },
+    { "name": "Google Nest Hub (2nd Gen)", "type": "product", "relation": "smart display that is both a Matter hub and a Thread border router" },
+    { "name": "Philips Hue White and Color Ambiance Starter Kit", "type": "product", "relation": "bulbs plus Hue Bridge, the lighting half of a starter kit" },
+    { "name": "Lutron Caseta Smart Lamp Dimmer Kit", "type": "product", "relation": "plug-in lamp dimmer, smart hub and Pico remote, no wiring" },
+    { "name": "Matter", "type": "standard", "relation": "lets one device work with Alexa, Google Home and Apple Home" },
+    { "name": "Thread", "type": "protocol", "relation": "low-power mesh that needs a Thread border router" },
+    { "name": "Thread border router", "type": "hardware role", "relation": "hub role some speakers and displays include" },
+    { "name": "Zigbee", "type": "protocol", "relation": "radio the Hue Bridge uses for its bulbs" },
+    { "name": "Clear Connect RF", "type": "protocol", "relation": "Lutron radio used by the Caseta smart hub instead of Wi-Fi" },
+    { "name": "Hue Bridge", "type": "hub", "relation": "Philips Hue hub that plugs into the router by Ethernet" },
+    { "name": "Pico remote", "type": "accessory", "relation": "battery remote that replaces a wall switch without wiring" },
+    { "name": "smart plug", "type": "product type", "relation": "cheapest first device in most starter kits" },
+    { "name": "IPv6", "type": "network setting", "relation": "required for Matter per Google" },
+    { "name": "lease", "type": "legal concept", "relation": "limits wiring and switch changes for renters" },
+    { "name": "security deposit", "type": "legal concept", "relation": "why renters prefer plug-in devices" }
+  ],
+  "attributes": [
+    "no wiring",
+    "plug-in install",
+    "Matter controller",
+    "Thread border router",
+    "Ethernet port needed",
+    "voice assistant ecosystem",
+    "wall switch problem",
+    "moves with you",
+    "no subscription for basic control"
+  ],
+  "ngrams": [
+    "smart home starter kit",
+    "smart plugs and bulbs",
+    "smart speaker",
+    "smart home hub",
+    "Thread border router",
+    "Matter certified",
+    "voice control",
+    "smart bulbs"
+  ],
+  "skipgrams": [
+    "starter…kit",
+    "hub…router",
+    "plug…lamp",
+    "bridge…Ethernet",
+    "switch…bulb",
+    "Matter…Thread"
+  ],
+  "nlpTerms": [
+    "Alexa",
+    "Google Home",
+    "Apple Home",
+    "automation",
+    "routine",
+    "schedule",
+    "dimmer",
+    "remote",
+    "pairing",
+    "ecosystem",
+    "border router",
+    "Ethernet",
+    "move-out"
+  ],
+  "questions": [
+    "what should i buy first for a smart home",
+    "do i need a hub to start a smart home",
+    "how much does a smart home starter kit cost",
+    "can you mix and match smart home devices",
+    "what is the best smart home starter kit for an apartment",
+    "does a smart home starter kit work without drilling"
+  ],
+  "contentGaps": [
+    "Which starter hub can run Thread devices and which cannot (Echo Dot 5th Gen is a Matter controller but not a Thread border router)",
+    "Hue Bridge and Caseta smart hub both need an Ethernet port on your router, which renters on building-managed Wi-Fi may not have",
+    "How to stop roommates or guests killing smart bulbs at the wall switch without rewiring",
+    "Whose account owns the hub and what to reset on move-out day"
+  ],
+  "outline": [
+    { "h2": "The smart home starter kit we'd buy for a rental", "intent": "direct answer and picks", "h3": [] },
+    { "h2": "Smart home starter kit picks", "intent": "product reviews", "h3": ["Amazon Echo Dot (5th Gen)", "Google Nest Hub (2nd Gen)", "Philips Hue White and Color Ambiance Starter Kit", "Lutron Caseta Smart Lamp Dimmer Kit"] },
+    { "h2": "Do you need a hub to start a smart home", "intent": "hub, Matter and Thread explained", "h3": ["Which starter hubs run Thread", "Matter, Zigbee and Clear Connect without the jargon"] },
+    { "h2": "Problems owners run into, and the fix", "intent": "pain points", "h3": ["Bulbs die at the wall switch", "Matter devices won't pair", "No router port in your building"] },
+    { "h2": "Setup and move-out day for renters", "intent": "install steps, landlord, move-out", "h3": [] },
+    { "h2": "Our verdict", "intent": "choose X if", "h3": [] }
+  ],
+  "targetWords": 1850,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.nytimes.com/wirecutter/blog/smart-home-starter-kit/",
+      "https://www.zdnet.com/home-and-office/smart-home/everything-you-need-to-start-a-smart-home-setup/",
+      "https://www.online-tech-tips.com/smart-home-starter-kit-under-200/",
+      "https://www.casetawireless.com/us/en/products/smart-kits",
+      "https://www.homedepot.com/b/Smart-Home-Smart-Devices-Smart-Home-Systems-Smart-Home-Starter-Kits/N-5yc1vZ1z18gh7"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "ZDNET (the longest editorial result) shows pros and cons per pick; Wirecutter writes short paragraphs per device type and Online Tech Tips lists pros and cons for the whole kit.",
+    "avgWords": 1770,
+    "avgProducts": 8,
+    "commonSections": [
+      "smart speaker or hub first",
+      "smart plugs",
+      "smart bulbs",
+      "Matter and compatibility",
+      "do I need a hub",
+      "what to add next",
+      "cost"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    { "position": 1, "url": "https://www.amazon.com/smart-home-starter-kit/s?k=smart+home+starter+kit", "title": "Smart Home Starter Kit - Amazon.com" },
+    { "position": 2, "url": "https://www.reddit.com/r/smarthome/comments/1pt8gsf/what_should_i_buy_for_my_beginner_smart_home_that/", "title": "What should I buy for my beginner smart home that will also work as I ..." },
+    { "position": 3, "url": "https://www.makershed.com/collections/smart-home", "title": "Smart Home - Maker Shed" },
+    { "position": 4, "url": "https://www.homedepot.com/b/Smart-Home-Smart-Devices-Smart-Home-Systems-Smart-Home-Starter-Kits/N-5yc1vZ1z18gh7", "title": "Smart Home Starter Kits - The Home Depot" },
+    { "position": 5, "url": "https://www.casetawireless.com/us/en/products/smart-kits", "title": "Smart Home Starter Kits | Caséta by Lutron" },
+    { "position": 6, "url": "https://www.youtube.com/watch?v=kM7i8i5egQ0", "title": "Complete Smart Home Starter Kit For Under £200 - YouTube" },
+    { "position": 7, "url": "https://www.zdnet.com/home-and-office/smart-home/everything-you-need-to-start-a-smart-home-setup/", "title": "Smart home starter pack: Top 5 devices you need - ZDNET" },
+    { "position": 8, "url": "https://shop.deako.com/products/starter-home-8-pack", "title": "Starter Smart Home 8-Pack - Deako" },
+    { "position": 9, "url": "https://www.online-tech-tips.com/smart-home-starter-kit-under-200/", "title": "Smart Home Starter Kit Under $200: The Beginner's Buying Guide (2026)" },
+    { "position": 10, "url": "https://www.nytimes.com/wirecutter/blog/smart-home-starter-kit/", "title": "The Smart Home Starter Kit: 3 Things for Newbies | Wirecutter" }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 4,
+    "withYear": 1,
+    "withNumber": 3,
+    "commonModifiers": ["beginner / newbies", "under a budget", "top N devices"],
+    "gap": "No result is written for renters: no wiring, which hub handles Thread, and what to unplug on move-out day"
+  },
+  "commonPoints": [
+    "Start with a smart speaker or display as the voice hub",
+    "Smart plugs are the cheapest, easiest first device",
+    "Smart bulbs screw into existing lamps and fixtures",
+    "Pick Matter-compatible gear so you are not locked into one ecosystem",
+    "Many budget devices pair only on 2.4 GHz Wi-Fi",
+    "Expand later with cameras, locks or a thermostat"
+  ],
+  "ourGain": [
+    { "point": "Not every speaker is a Thread hub: Amazon lists the Echo Dot family as Matter-enabled but not among its Thread border routers, while Google lists the Nest Hub (2nd gen) as a Wi-Fi and Thread hub", "source": "https://developer.amazon.com/docs/alexa/smarthome/matter-support.html ; https://support.google.com/googlehome/answer/12391458?hl=en" },
+    { "point": "The Hue Bridge and the Caseta smart hub both plug into your router with an Ethernet cable, a problem in buildings with managed Wi-Fi and no router you can reach", "source": "https://www.philips-hue.com/en-us/explore-hue/faq/controls/what-is-the-hue-bridge ; https://www.casetawireless.com/us/en/products/smart-kits/lamp-dimming-smart-plug-starter-kit" },
+    { "point": "Fix the wall-switch problem without rewiring: a plug-in lamp dimmer plus a Pico remote that sits on a pedestal or wall with no wiring", "source": "https://www.casetawireless.com/us/en/products/smart-kits/lamp-dimming-smart-plug-starter-kit ; data/pain-points.json lighting-bulbs-die-when-wall-switch-flipped" },
+    { "point": "Matter setups fail quietly without IPv6 on the home network, per Google, which is worth checking on a landlord or ISP router", "source": "https://support.google.com/googlehome/answer/12391458?hl=en" },
+    { "point": "Move-out plan: keep hubs in your own account, factory reset before you leave, and keep the original bulbs", "source": "data/pain-points.json hubs-voice-homekit-renter-hub-apple-id-moving" }
+  ],
+  "painPoints": [
+    {
+      "id": "hubs-voice-which-protocol-to-buy-confusion",
+      "pain": "New buyers do not understand Matter vs Zigbee vs Z-Wave vs Thread and fear buying the wrong standard",
+      "details": "First-time smart home buyers ask which protocol to start with.",
+      "sources": ["https://www.reddit.com/r/homeautomation/comments/1eamwov/new_smart_home_what_protocol_should_i_use_zigbee/"],
+      "quotes": [{ "text": "I want to make my home smart, but I ran into difficulty understanding the differences between Zigbee, Zwave and Matter.", "url": "https://www.reddit.com/r/homeautomation/comments/1eamwov/new_smart_home_what_protocol_should_i_use_zigbee/" }]
+    },
+    {
+      "id": "hubs-voice-matter-ecosystem-compat-confusion",
+      "pain": "Buyers cannot tell if a Matter device will work with their Apple, Google or Alexa setup",
+      "details": "Support varies by device and app version.",
+      "sources": ["https://www.reddit.com/r/HomeKit/comments/1l0soq3/does_matter_automatically_mean_a_device_will_work/"],
+      "quotes": [{ "text": "The challenge is that Matter is evolving quickly.", "url": "https://www.reddit.com/r/HomeKit/comments/1l0soq3/does_matter_automatically_mean_a_device_will_work/" }]
+    },
+    {
+      "id": "hubs-voice-matter-pairing-fails",
+      "pain": "Matter devices will not pair or the controller refuses to add them",
+      "details": "Users get stuck on border router or network errors.",
+      "sources": ["https://www.reddit.com/r/alexa/comments/1dgisga/cant_add_any_matter_smart_home_products_to_alexa/"],
+      "quotes": [{ "text": "Alexa suddenly won't add any Matter smart home products to its ecosystem.", "url": "https://www.reddit.com/r/alexa/comments/1dgisga/cant_add_any_matter_smart_home_products_to_alexa/" }]
+    },
+    {
+      "id": "lighting-bulbs-die-when-wall-switch-flipped",
+      "pain": "Smart bulbs lose control when someone flips the wall switch",
+      "details": "Roommates turn off the wall switch, which cuts power to the smart bulb.",
+      "sources": ["https://doitforme.solutions/blog/are-your-smart-bulbs-making-your-smart-home-dumb/"],
+      "quotes": [{ "text": "when you flip the wall switch, all power is stopped so the smart bulb becomes totally dead.", "url": "https://doitforme.solutions/blog/are-your-smart-bulbs-making-your-smart-home-dumb/" }]
+    },
+    {
+      "id": "hubs-voice-homekit-renter-hub-apple-id-moving",
+      "pain": "Renters worry about whose account owns the home hub and what happens when they move or a roommate leaves",
+      "details": "Lead-level evidence from search excerpts.",
+      "sources": ["https://www.reddit.com/r/HomeKit/comments/zzyc45/first_apartment_homekit_recommendations/"],
+      "quotes": [{ "text": "I'd stay away from anything that needs a unique hub and stick with WiFi or Thread devices.", "url": "https://www.reddit.com/r/HomeKit/comments/zzyc45/first_apartment_homekit_recommendations/" }]
+    }
+  ],
+  "stats": [
+    { "number": "over 80,000", "claim": "Works with Google Home compatible devices", "url": "https://support.google.com/googlehome/answer/12391458?hl=en", "quote": "Google Home allows you to choose from over 80,000 compatible Works with Google Home devices from your favorite brands." },
+    { "number": "50 lights and 12 accessories", "claim": "Hue Bridge capacity", "url": "https://www.philips-hue.com/en-us/explore-hue/faq/controls/what-is-the-hue-bridge", "quote": "Scalability, supporting up to 50 lights and 12 accessories on one hub." },
+    { "number": "10 bulbs", "claim": "Hue limit without a Bridge over Bluetooth", "url": "https://www.philips-hue.com/en-us/explore-hue/faq/controls/what-is-the-hue-bridge", "quote": "Without a Bridge, you're limited to controlling up to 10 bulbs locally via Bluetooth" },
+    { "number": "150W dimmable LED or 300W incandescent/halogen", "claim": "Caseta lamp dimming smart plug load", "url": "https://www.casetawireless.com/us/en/products/smart-kits/lamp-dimming-smart-plug-starter-kit", "quote": "Controls up to two table or floor lamps, supporting a total of 150W dimmable LED or 300W incandescent/halogen bulbs per plug." }
+  ],
+  "videos": [
+    { "id": "tORXga2oZLI", "title": "Caséta Wireless: Setting Up the Plug-In Lamp Dimmer Kit", "channel": "Lutron (Caséta)", "url": "https://www.youtube.com/watch?v=tORXga2oZLI", "section": "Setup and move-out day for renters" },
+    { "id": "EsFPaVeukEw", "title": "How To Build a Smart Home (101): The Ultimate Beginner's Guide to Home Automation", "channel": "Automate Your Life", "url": "https://www.youtube.com/watch?v=EsFPaVeukEw", "section": "Do you need a hub to start a smart home" }
+  ],
+  "serpProducts": [
+    { "name": "Amazon Echo Dot (5th Gen)", "pages": ["https://www.nytimes.com/wirecutter/blog/smart-home-starter-kit/", "https://www.reddit.com/r/smarthome/comments/1pt8gsf/what_should_i_buy_for_my_beginner_smart_home_that/", "https://www.online-tech-tips.com/smart-home-starter-kit-under-200/"], "note": "Wirecutter names the Echo Dot; the Reddit thread says start with an Amazon Echo device; Online Tech Tips recommends an Echo-class hub speaker (Echo Pop); ZDNET picks the Echo (4th Gen)" },
+    { "name": "Google Nest Hub (2nd Gen)", "pages": ["https://www.nytimes.com/wirecutter/blog/smart-home-starter-kit/", "https://www.online-tech-tips.com/smart-home-starter-kit-under-200/"] },
+    { "name": "Philips Hue White and Color Ambiance Starter Kit", "pages": ["https://www.nytimes.com/wirecutter/blog/smart-home-starter-kit/", "https://www.zdnet.com/home-and-office/smart-home/everything-you-need-to-start-a-smart-home-setup/"] },
+    { "name": "Lutron Caseta Smart Lamp Dimmer Kit", "pages": ["https://www.nytimes.com/wirecutter/blog/smart-home-starter-kit/", "https://www.casetawireless.com/us/en/products/smart-kits", "https://www.homedepot.com/b/Smart-Home-Smart-Devices-Smart-Home-Systems-Smart-Home-Starter-Kits/N-5yc1vZ1z18gh7"] }
+  ],
+  "secondaryKeywordsFromAutocomplete": [
+    "smart home starter kit for apartment",
+    "beginner smart home devices",
+    "smart home bundle",
+    "smart home starter pack",
+    "best smart home starter kit"
+  ]
+}

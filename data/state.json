@@ -280,6 +280,34 @@
       "keyword": "matter vs thread",
       "category": "hubs-voice",
       "funnel": "mofu"
+    },
+    {
+      "date": "2026-10-21",
+      "slug": "lazy-susan-child-lock",
+      "keyword": "lazy susan child lock",
+      "category": "baby-proofing",
+      "funnel": "tofu"
+    },
+    {
+      "date": "2026-10-21",
+      "slug": "can-a-landlord-put-cameras-outside-the-house",
+      "keyword": "can a landlord put cameras outside the house",
+      "category": "security",
+      "funnel": "tofu"
+    },
+    {
+      "date": "2026-10-21",
+      "slug": "smart-home-starter-kit",
+      "keyword": "smart home starter kit",
+      "category": "guides",
+      "funnel": "bofu"
+    },
+    {
+      "date": "2026-10-21",
+      "slug": "apple-homekit-compatible-devices",
+      "keyword": "apple homekit compatible devices",
+      "category": "hubs-voice",
+      "funnel": "mofu"
     }
   ],
   "translated": [

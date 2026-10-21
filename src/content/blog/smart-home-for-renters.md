@@ -357,9 +357,10 @@ heroAlt: >-
   Smart Home for Renters – 4 No-Drill Steps and a Move-Out Checklist –
   RenterSmartHome renter guide
 related:
+  - smart-home-starter-kit
+  - can-a-landlord-put-cameras-outside-the-house
   - smart-thermostat-in-apartment
   - no-drill-motorized-blinds
-  - alexa-vs-google-home
 ---
 
 A **smart home for renters** is built from devices that plug in, screw in, stick on or clamp over existing hardware, so the apartment itself never changes and your security deposit stays safe. Renters can automate lighting, locks, cameras and climate without drilling a single hole, and every device packs into a box when the lease ends.

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T10:02:13.929Z",
+  "updatedAt": "2026-10-21T10:30:00.000Z",
   "categories": {
     "smart-locks": [
       {
@@ -971,7 +971,8 @@
         "mentions": 5,
         "coveredBy": [
           "ring-doorbell-in-apartment",
-          "door-camera-for-apartment"
+          "door-camera-for-apartment",
+          "can-a-landlord-put-cameras-outside-the-house"
         ],
         "foundAt": "2026-10-19"
       },
@@ -1017,7 +1018,9 @@
           "ring vs nest doorbell"
         ],
         "mentions": 3,
-        "coveredBy": [],
+        "coveredBy": [
+          "can-a-landlord-put-cameras-outside-the-house"
+        ],
         "foundAt": "2026-10-19"
       },
       {
@@ -1056,7 +1059,9 @@
           "can a landlord put cameras outside the house"
         ],
         "mentions": 2,
-        "coveredBy": [],
+        "coveredBy": [
+          "can-a-landlord-put-cameras-outside-the-house"
+        ],
         "foundAt": "2026-10-19"
       },
       {
@@ -1568,6 +1573,130 @@
           "best-indoor-security-camera-for-renters-no-drilling"
         ],
         "foundAt": "2026-10-20"
+      },
+      {
+        "id": "security-alarm-siren-neighbors-false-alarms",
+        "pain": "An apartment alarm siren may disturb neighbors and trigger false alarms, so renters doubt it is worth it",
+        "details": "Apartment dwellers worry a loud siren in a shared building annoys neighbors, that pets or roommates set off false alarms, and that alarms are more deterrent than protection.",
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/Apartmentliving/comments/18b0gtj/is_it_worth_it_to_get_a_security_system/",
+            "platform": "reddit",
+            "title": "Is it worth it to get a security system?",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/AskNYC/comments/1wbpbbe/is_a_home_security_system_worth_it_in_an_apartment/",
+            "platform": "reddit",
+            "title": "Is a home security system worth it in an apartment?",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "You probably wont be able to use the siren because of false alarms and distrubing the neighbors.",
+            "url": "https://www.reddit.com/r/Apartmentliving/comments/18b0gtj/is_it_worth_it_to_get_a_security_system/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "apartment alarm system worth it",
+          "alarm siren apartment neighbors"
+        ],
+        "keywords": [
+          "alarm system for apartment renters"
+        ],
+        "mentions": 2,
+        "coveredBy": [],
+        "foundAt": "2026-10-21"
+      },
+      {
+        "id": "security-alarm-adhesive-sensors-fall-off-paint",
+        "pain": "Adhesive alarm sensors fall off (causing false alarms) or pull paint off when removed at move-out",
+        "details": "Owners report peel-and-stick entry sensors and keypads dropping off doors, which can trip false alarms, while renters fear double-sided tape will take paint with it and cost them deposit money.",
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/simplisafe/comments/rwccxp/was_there_any_theft_or_breakin_even_with/",
+            "platform": "reddit",
+            "title": "Was there any theft or break-in even with Simplisafe security",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/simplisafe/comments/1kl4bn3/unreliable_and_unsafe_a_total_failure_for_rental/",
+            "platform": "reddit",
+            "title": "Unreliable and Unsafe - A Total Failure for Rental Use",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/Renters/comments/1nn7sde/removing_double_sided_tape_ie_are_we_going_to/",
+            "platform": "reddit",
+            "title": "Removing double sided tape: are we going to lose our security deposit",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "One of the entry sensors fell off (the sticky tape is not very good so go get some better 3M).",
+            "url": "https://www.reddit.com/r/simplisafe/comments/rwccxp/was_there_any_theft_or_breakin_even_with/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "Yes, I took some money off tenant deposit; no way to remove these without damaging the paint.",
+            "url": "https://www.reddit.com/r/Renters/comments/1nn7sde/removing_double_sided_tape_ie_are_we_going_to/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "alarm sensor adhesive fell off",
+          "remove double sided tape deposit"
+        ],
+        "keywords": [
+          "alarm system for apartment renters"
+        ],
+        "mentions": 3,
+        "coveredBy": [],
+        "foundAt": "2026-10-21"
+      },
+      {
+        "id": "security-alarm-contracts-not-for-renters",
+        "pain": "Traditional alarm companies want long contracts or won't lease equipment to renters who may move",
+        "details": "Renters who may move within a year can't commit to multi-year monitoring contracts and often have to buy equipment outright, so they look for portable DIY systems with month-to-month plans.",
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/homesecurity/comments/1v6l2hs/security_system_for_a_renter/",
+            "platform": "reddit",
+            "title": "Security system for a renter?",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/homesecurity/comments/p1ckcd/home_security_for_renters_is_it_really_possible/",
+            "platform": "reddit",
+            "title": "Home security for renters, is it really possible?",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "most security companies don't lease alarm systems to residential renters, so you would likely have to pay the full cost out of pocket.",
+            "url": "https://www.reddit.com/r/homesecurity/comments/1v6l2hs/security_system_for_a_renter/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "Ring, SimpliSafe, and Cove all make renter-friendly models that don't have contracts",
+            "url": "https://www.reddit.com/r/homesecurity/comments/p1ckcd/home_security_for_renters_is_it_really_possible/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "security system for a renter",
+          "home security for renters contract"
+        ],
+        "keywords": [
+          "alarm system for apartment renters"
+        ],
+        "mentions": 2,
+        "coveredBy": [],
+        "foundAt": "2026-10-21"
       }
     ],
     "hubs-voice": [
@@ -2169,6 +2298,183 @@
           "matter vs thread",
           "thread vs matter",
           "matter over thread"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-21"
+      },
+      {
+        "id": "hubs-voice-homebridge-plugins-abandoned-or-break",
+        "pain": "Homebridge plugins stop working after updates or are abandoned by their volunteer maintainers",
+        "details": "Owners report that many plugins did not support Homebridge v2 at launch or are no longer developed, and some call most plugins a waste of time until debugged. Fixes they use: prefer verified, recently updated plugins, back up before updating, and downgrade a plugin that breaks.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/homebridge/comments/1hkzlf0/homebridge_the_future_concerns/",
+            "platform": "reddit",
+            "title": "the future concerns : r/homebridge",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/HomeKit/comments/sotx30/homebridge_99_of_plugins_dont_work_complete_waste/",
+            "platform": "reddit",
+            "title": "Homebridge - 99% of plugins don't work, complete waste of time",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/homebridge/comments/1t3s1og/homebridge_20_is_here_and_it_speaks_matter/",
+            "platform": "reddit",
+            "title": "Homebridge 2.0 is here, and it speaks Matter",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "It appears that most of my plugins are not currently supporting HB v2, or even worse, they are no longer being developed by the maintainer.",
+            "url": "https://www.reddit.com/r/homebridge/comments/1hkzlf0/homebridge_the_future_concerns/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "it takes a lot of debugging to get it initially working",
+            "url": "https://www.reddit.com/r/HomeKit/comments/sotx30/homebridge_99_of_plugins_dont_work_complete_waste/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "homebridge plugin stopped working",
+          "homebridge 2.0 plugins not supported",
+          "is homebridge reliable"
+        ],
+        "keywords": [
+          "what is homebridge"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-21"
+      },
+      {
+        "id": "hubs-voice-homebridge-not-responding-after-outage",
+        "pain": "After a restart or power outage, Homebridge accessories show Not Responding in the Home app, and owners worry the Raspberry Pi SD card gets corrupted",
+        "details": "Raspberry Pi owners running Homebridge from an SD card report devices resetting or showing Not Responding after restarts and outages; some had to reboot the Apple TV home hub. Fixes: wired Ethernet, a small UPS, regular Homebridge backups and a good SD card.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/homebridge/comments/1eplbzv/about_to_give_up_on_homebridge/",
+            "platform": "reddit",
+            "title": "About to give up on HomeBridge",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/homebridge/comments/mnzvm8/restarting_homebridge_resets_devices/",
+            "platform": "reddit",
+            "title": "Restarting Homebridge Resets Devices",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/HOOBS/comments/10wstqk/im_about_to_throw_this_thing_away/",
+            "platform": "reddit",
+            "title": "I'm about to throw this thing away. : r/HOOBS",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "power outage might damage the SD card.",
+            "url": "https://www.reddit.com/r/homebridge/comments/1eplbzv/about_to_give_up_on_homebridge/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "homebridge not responding after power outage",
+          "homebridge sd card corrupted",
+          "homebridge devices not responding"
+        ],
+        "keywords": [
+          "what is homebridge"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-21"
+      },
+      {
+        "id": "hubs-voice-homebridge-home-app-cant-find-bridge",
+        "pain": "The Home app cannot find Homebridge or its accessories go No Response because mDNS discovery is blocked by the network setup",
+        "details": "Owners on VLANs, mesh systems and managed networks report Homebridge not showing up or responding slowly. Fixes: switch the mDNS advertiser (Bonjour HAP, Ciao, Avahi), keep the iPhone, home hub and Homebridge on the same network, enable mDNS/multicast on the router.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/homebridge/comments/p8zmzr/homekit_devices_using_homebridge_get_no_response/",
+            "platform": "reddit",
+            "title": "HomeKit devices using Homebridge get No Response",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/homebridge/comments/pnurhs/vlans_mdns/",
+            "platform": "reddit",
+            "title": "Vlans & mDNS : r/homebridge",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/homebridge/comments/1i0myar/homebridge_wont_add_to_home/",
+            "platform": "reddit",
+            "title": "Homebridge won't add to home",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Switching the HomeBridge settings mDNS to use AVAHI instead of Bonjour seemed to work.",
+            "url": "https://www.reddit.com/r/homebridge/comments/p8zmzr/homekit_devices_using_homebridge_get_no_response/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "homebridge not showing in home app",
+          "homebridge no response",
+          "homebridge mdns vlan"
+        ],
+        "keywords": [
+          "what is homebridge"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-21"
+      },
+      {
+        "id": "hubs-voice-homebridge-worth-the-maintenance",
+        "pain": "People are unsure whether Homebridge is worth the setup and ongoing maintenance compared with buying native HomeKit or Matter devices",
+        "details": "New users ask whether it is worth setting up and maintaining a Homebridge server; replies range from completely worth it (virtual switches, timers, unsupported brands) to frustration with debugging and updates.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/HomeKit/comments/1d37h7m/is_it_worth_it_to_set_up_and_maintain_a/",
+            "platform": "reddit",
+            "title": "Is it worth it to set up (and maintain?) a homebridge?",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/HomeKit/comments/167mmni/homebridge_is_amazing/",
+            "platform": "reddit",
+            "title": "Homebridge is amazing! : r/HomeKit",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/HomeKit/comments/gm86de/homebridge_advice_needed_roll_my_own_or_buy_a/",
+            "platform": "reddit",
+            "title": "homebridge advice needed: roll my own or buy a pre-configged kit?",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Homebridge is completely worth it.",
+            "url": "https://www.reddit.com/r/HomeKit/comments/1d37h7m/is_it_worth_it_to_set_up_and_maintain_a/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "is homebridge worth it",
+          "homebridge vs buying homekit devices",
+          "homebridge maintenance"
+        ],
+        "keywords": [
+          "what is homebridge"
         ],
         "coveredBy": [],
         "foundAt": "2026-10-21"
@@ -2979,6 +3285,200 @@
         ],
         "coveredBy": [],
         "foundAt": "2026-10-20"
+      },
+      {
+        "id": "climate-nest-homekit-matter-drops-offline",
+        "pain": "A Nest thermostat added to Apple Home through Matter stops responding or shows No Response after a while",
+        "details": "Owners of the Nest Thermostat (2020) and Nest Learning Thermostat (4th gen) report that the Matter link to Apple Home works at first, then drops until the thermostat or hub is restarted or the thermostat is re-added.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/HomeKit/comments/1577t23/trying_to_add_nest_thermostat_with_matter_to/",
+            "platform": "reddit",
+            "title": "Trying to add Nest Thermostat with Matter to HomeKit",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/HomeKit/comments/1kdqxwu/issue_with_4th_gen_nest_thermostat_with_matter/",
+            "platform": "reddit",
+            "title": "Issue with 4th Gen Nest Thermostat with Matter and HomeKit",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/HomeKit/comments/18epqd7/nest_matter_functionality_not_working/",
+            "platform": "reddit",
+            "title": "Nest <> Matter Functionality Not Working",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Adding it with matter does not work very well and it will stop responding after a week or so.",
+            "url": "https://www.reddit.com/r/HomeKit/comments/1577t23/trying_to_add_nest_thermostat_with_matter_to/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "I cannot get the Home app on my iPhone to stay connected to the thermostat.",
+            "url": "https://www.reddit.com/r/HomeKit/comments/1kdqxwu/issue_with_4th_gen_nest_thermostat_with_matter/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "nest thermostat homekit no response",
+          "nest thermostat matter stops responding apple home"
+        ],
+        "keywords": [
+          "nest thermostat homekit"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-21"
+      },
+      {
+        "id": "climate-nest-homekit-pairing-fails",
+        "pain": "The Nest Matter code will not pair in the Apple Home app",
+        "details": "Owners hit failed pairing when the phone is on a different Wi-Fi band, when an old Matter link is still listed on the thermostat, or when the pairing code has expired.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/HomeKit/comments/1qx1e0w/nest_thermostat_homekit_issues/",
+            "platform": "reddit",
+            "title": "Nest Thermostat HomeKit Issues",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/Nest/comments/1ey3ug9/gen_4_matterhomekit_integration_not_working/",
+            "platform": "reddit",
+            "title": "Gen 4: Matter/HomeKit Integration Not Working",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/Nest/comments/1qx1dr1/nest_thermostat_homekit_issues/",
+            "platform": "reddit",
+            "title": "Nest Thermostat HomeKit Issues (r/Nest)",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "When you try to connect through the matter code make sure that your iPhone is on a 2.4ghz network.",
+            "url": "https://www.reddit.com/r/HomeKit/comments/1qx1e0w/nest_thermostat_homekit_issues/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "On the Thermostat 4th Gen, go to the Settings Menu -> Matter and ensure it shows 0 Linked Apps.",
+            "url": "https://www.reddit.com/r/Nest/comments/1ey3ug9/gen_4_matterhomekit_integration_not_working/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "nest thermostat matter pairing failed",
+          "cant add nest thermostat to apple home"
+        ],
+        "keywords": [
+          "nest thermostat homekit"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-21"
+      },
+      {
+        "id": "climate-older-nest-no-homekit-support",
+        "pain": "Older Nest thermostats (3rd gen Learning, Thermostat E) get no Matter, so they cannot join Apple Home without a bridge",
+        "details": "Owners of older Nest Learning Thermostats felt left out when Matter came only to the 2020 Nest Thermostat; 1st and 2nd gen Learning models also lost app support on October 25, 2025.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://forums.macrumors.com/threads/nest-thermostat-gaining-apple-homekit-support-starting-today-via-matter.2387119/",
+            "platform": "forum",
+            "title": "Nest Thermostat Gaining Apple HomeKit Support Starting Today via Matter",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://discussions.apple.com/thread/255417120",
+            "platform": "forum",
+            "title": "How to connect-control a Google Nest Thermostat with Apple Home app",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/Nest/comments/1k7qepg/upcoming_end_of_support_for_nest_learning/",
+            "platform": "reddit",
+            "title": "Upcoming end of support for Nest Learning Thermostats (1st and 2nd gen)",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Just the cheap one!! What gives i have all learning thermostats.",
+            "url": "https://forums.macrumors.com/threads/nest-thermostat-gaining-apple-homekit-support-starting-today-via-matter.2387119/"
+          },
+          {
+            "text": "The rest of us are still left out in the cold - the HomeKit cold that is.",
+            "url": "https://discussions.apple.com/thread/255417120",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "nest learning thermostat 3rd gen homekit",
+          "nest thermostat e apple home"
+        ],
+        "keywords": [
+          "nest thermostat homekit"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-21"
+      },
+      {
+        "id": "climate-landlord-nest-locked-to-account",
+        "pain": "The Nest thermostat in a rental is already linked to the landlord or a previous tenant, so the renter cannot add it to their own app",
+        "details": "Renters find the apartment Nest says it is already connected to an account; landlords debate giving tenants access versus a factory reset, and tenants are unsure what they are allowed to change.",
+        "mentions": 4,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/Nest/comments/xwspi6/nest_thermostat_in_an_apartment_says_it_is/",
+            "platform": "reddit",
+            "title": "Nest thermostat in an apartment - says it is already connected to an app?",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/Nest/comments/1adymrq/help_a_renter_out_please/",
+            "platform": "reddit",
+            "title": "Help a renter out please",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/Nest/comments/muctii/nest_thermostat_as_landlord/",
+            "platform": "reddit",
+            "title": "Nest Thermostat as Landlord",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/Nest/comments/dbx8e5/nest_accounts_for_tenants/",
+            "platform": "reddit",
+            "title": "Nest accounts for tenants",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I would like to connect to the Nest thermostat in my apartment",
+            "url": "https://www.reddit.com/r/Nest/comments/xwspi6/nest_thermostat_in_an_apartment_says_it_is/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "You could grant their Nest accounts access to the thermostat.",
+            "url": "https://www.reddit.com/r/Nest/comments/muctii/nest_thermostat_as_landlord/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "apartment nest thermostat connected to another account",
+          "landlord nest thermostat tenant access"
+        ],
+        "keywords": [
+          "nest thermostat homekit",
+          "smart thermostat in apartment"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-21"
       }
     ]
   }

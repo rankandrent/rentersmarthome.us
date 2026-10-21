@@ -1,0 +1,17 @@
+{
+  "slug": "lazy-susan-child-lock",
+  "pass": true,
+  "checkedAt": "2026-10-21T10:04:45.380Z",
+  "errors": [],
+  "warnings": [
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Guide with 0 products (guide-intent SERP; no product met the 2-independent-top-10-page rule). Verified via Firecrawl: The Bump thread quotes verbatim (Cutemin 'nothing worked', melcc2006 'broke last week!', meryltheresa 'lodged him in there', xKimx IKEA door/separate spin); Reddit r/NewParents (offset locks, smashed fingers) and r/NewDads (magnet locks on Lazy Susan door, 3M) quotes match search excerpts at those thread URLs; pie-cut vs kidney door design per captivatingcabinets.com and woodworkerexpress.com; Safety 1st Lazy Susan Cabinet Lock dual-press release and out-of-stock status per Walmart listing 497412371; babyproofme spanning-lock advice; CPSC poison page (67,000 ED-treated injuries under 5 in 2023, nearly seven out of 10 poisonings at home); CPSC recall 12-136 (about 900,000 Push 'N Snap strap locks, 140 children 9 months to 5 years disengaged them); Safety 1st help center (alcohol wipe, 24-hour cure, catch aligned with frame edge, floss removal, 6-24 month age range). Video h7tfOHbBh2E title matches the section. Removed an unsourced bi-fold claim and a stairs/pressure-gate suggestion.",
+    "at": "2026-10-21T10:04:44.804Z",
+    "hash": "b57988a7fa66bb0f"
+  }
+}

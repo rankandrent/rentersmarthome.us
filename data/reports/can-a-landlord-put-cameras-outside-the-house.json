@@ -1,0 +1,414 @@
+{
+  "keyword": "can a landlord put cameras outside the house",
+  "createdAt": "2026-10-21T10:06:54.358Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "landlord security cameras",
+    "entityVariants": [
+      "landlord cameras outside the house",
+      "landlord security cameras on rental property",
+      "exterior cameras on a rental",
+      "landlord surveillance cameras",
+      "can my landlord have cameras outside my house",
+      "landlord Ring camera"
+    ],
+    "entities": [
+      {
+        "name": "landlord",
+        "type": "role",
+        "relation": "property owner who installs and controls the exterior cameras"
+      },
+      {
+        "name": "tenant",
+        "type": "role",
+        "relation": "renter whose privacy rights limit camera placement"
+      },
+      {
+        "name": "reasonable expectation of privacy",
+        "type": "legal concept",
+        "relation": "the test that separates allowed exterior cameras from illegal ones"
+      },
+      {
+        "name": "common areas",
+        "type": "place",
+        "relation": "driveways, entrances, hallways, parking lots where landlord cameras are generally allowed"
+      },
+      {
+        "name": "lease",
+        "type": "document",
+        "relation": "where camera disclosure, tenant camera rules and alteration clauses live"
+      },
+      {
+        "name": "audio recording",
+        "type": "law",
+        "relation": "covered by wiretap laws: federal 18 U.S.C. 2511 one-party consent; some states such as Florida require all parties"
+      },
+      {
+        "name": "wiretap law",
+        "type": "law",
+        "relation": "federal and state laws on intercepting conversations"
+      },
+      {
+        "name": "right of entry",
+        "type": "law",
+        "relation": "state notice rules (e.g. California Civil Code 1954, 24 hours presumed reasonable) limit entering to install anything inside"
+      },
+      {
+        "name": "harassment",
+        "type": "legal concept",
+        "relation": "using cameras or access to track a tenant can be harassment"
+      },
+      {
+        "name": "Ring doorbell",
+        "type": "product type",
+        "relation": "common landlord-owned exterior camera tenants ask about"
+      },
+      {
+        "name": "video doorbell",
+        "type": "product type",
+        "relation": "the tenant's own camera, governed by the lease"
+      },
+      {
+        "name": "attorney general",
+        "type": "authority",
+        "relation": "state AG tenant rights pages are an official place to check state rules"
+      },
+      {
+        "name": "tenant organization",
+        "type": "authority",
+        "relation": "local tenant union or legal aid for advice on a specific case"
+      }
+    ],
+    "attributes": [
+      "camera location (exterior vs interior)",
+      "field of view (windows, fenced yard)",
+      "visible vs hidden",
+      "video only vs audio",
+      "disclosure in lease or signage",
+      "who can view footage",
+      "footage retention",
+      "power and Wi-Fi source",
+      "purpose (security vs monitoring tenant)",
+      "single-family house vs multi-unit building"
+    ],
+    "ngrams": [
+      "landlord put cameras outside",
+      "cameras outside the house",
+      "security cameras on rental property",
+      "reasonable expectation of privacy",
+      "common areas",
+      "audio recording",
+      "one-party consent",
+      "inside the unit",
+      "check your lease",
+      "tenant privacy",
+      "landlord permission",
+      "into your windows"
+    ],
+    "skipgrams": [
+      "landlord…cameras outside",
+      "camera…windows",
+      "audio…consent",
+      "lease…camera",
+      "tenant…privacy",
+      "footage…access"
+    ],
+    "nlpTerms": [
+      "landlord",
+      "tenant",
+      "renter",
+      "lease",
+      "privacy",
+      "surveillance",
+      "security camera",
+      "exterior",
+      "driveway",
+      "front door",
+      "porch",
+      "fenced yard",
+      "window",
+      "hidden camera",
+      "audio",
+      "wiretap",
+      "consent",
+      "disclosure",
+      "signs",
+      "harassment",
+      "notice",
+      "state law",
+      "attorney general",
+      "tenant organization",
+      "attorney",
+      "Ring",
+      "video doorbell",
+      "footage"
+    ],
+    "questions": [
+      "Can a landlord put cameras outside the house?",
+      "Can a landlord put a camera pointing at my front door?",
+      "Does my landlord have to tell me about outdoor cameras?",
+      "Can a landlord's outdoor camera record audio?",
+      "Can a landlord use cameras to watch who visits me?",
+      "Can I cover or unplug my landlord's camera?",
+      "Can I put up my own camera outside a rental house?",
+      "What should I do if I find a camera inside my rental?"
+    ],
+    "contentGaps": [
+      "What a tenant can do step by step (lease, written request, records) instead of landlord-side best practices",
+      "Single-family house with a fenced yard: privacy can extend outdoors (NC REALTORS)",
+      "Landlord camera running on the tenant's Wi-Fi or power",
+      "Why covering or unplugging the landlord's device can backfire",
+      "Ready-to-send written request to reposition a camera or turn off audio",
+      "The renter's own exterior camera: permission, aim away from neighbors, audio off"
+    ],
+    "outline": [
+      {
+        "h2": "Can a landlord put cameras outside the house?",
+        "intent": "direct answer: generally yes for visible exterior/common areas, limits on windows, audio, hidden and interior",
+        "h3": []
+      },
+      {
+        "h2": "Where a landlord's outdoor camera crosses the line",
+        "intent": "the limits: windows, fenced private yard, audio, hidden, harassment, entry to install inside",
+        "h3": [
+          "Aimed into windows or a private fenced yard",
+          "Recording audio",
+          "Tracking you instead of the property"
+        ]
+      },
+      {
+        "h2": "Does your landlord have to tell you about the cameras?",
+        "intent": "disclosure varies by state; lease and signage; what to look for in the lease",
+        "h3": []
+      },
+      {
+        "h2": "What to do if a landlord camera bothers you",
+        "intent": "tenant step-by-step: document, lease, written request, official sources, tenant org/attorney; don't cover or unplug",
+        "h3": [
+          "A written request you can adapt",
+          "Why covering or unplugging it can backfire"
+        ]
+      },
+      {
+        "h2": "Putting up your own camera outside a rental",
+        "intent": "tenant's own camera: permission, no drilling, aim away from neighbors, audio off",
+        "h3": []
+      }
+    ],
+    "targetWords": 1100,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://www.eufy.com/blogs/security-camera/can-a-landlord-have-cameras-outside-the-house",
+        "https://www.sarents.com/news/guide-security-camera-rental-property-laws",
+        "https://www.ncrealtors.org/question/are-surveillance-cameras-allowed-on-the-outside-of-rental-properties/",
+        "https://landlordhotline.net/florida-landlord-security-camera-privacy-laws/",
+        "https://www.legalshield.com/blog/outdoor-home-surveillance-camera-laws"
+      ],
+      "productStyle": "paragraph",
+      "productStyleReason": "The ranking pages are legal explainers written in prose with short allowed/not-allowed lists; none is a product roundup, and the few cameras mentioned (eufy promos, a Texas landlord's list) are aimed at landlords, so this guide has no picks.",
+      "avgWords": 1050,
+      "avgProducts": 1,
+      "commonSections": [
+        "short answer: yes for exterior/common areas",
+        "where cameras are allowed vs not allowed",
+        "audio recording and consent laws",
+        "notice and disclosure",
+        "what to do if you find a camera",
+        "can tenants install their own cameras",
+        "FAQ"
+      ],
+      "usesComparisonTable": false,
+      "usesFaq": true,
+      "usesBuyingGuide": false
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.eufy.com/blogs/security-camera/can-a-landlord-have-cameras-outside-the-house",
+        "title": "Can a Landlord Have Cameras Outside the House? Answers Here"
+      },
+      {
+        "position": 2,
+        "url": "https://www.reddit.com/r/RBI/comments/y42h8k/my_landlord_set_up_security_cameras_at_the_front/",
+        "title": "My landlord set up security cameras at the front and back door of ... - Reddit"
+      },
+      {
+        "position": 3,
+        "url": "https://www.sarents.com/news/guide-security-camera-rental-property-laws",
+        "title": "A Guide to Texas Security Camera Rental Property Laws"
+      },
+      {
+        "position": 4,
+        "url": "https://www.quora.com/In-California-can-a-landlord-place-security-cameras-outside-of-his-her-property-without-informing-his-her-tenants-first",
+        "title": "In California, can a landlord place security cameras outside of his/her ..."
+      },
+      {
+        "position": 5,
+        "url": "https://www.facebook.com/groups/3312293715702027/posts/4342560322675356/",
+        "title": "Can landlord install cameras outside home? - Facebook"
+      },
+      {
+        "position": 6,
+        "url": "https://www.ncrealtors.org/question/are-surveillance-cameras-allowed-on-the-outside-of-rental-properties/",
+        "title": "Are surveillance cameras allowed on the outside of rental properties?"
+      },
+      {
+        "position": 7,
+        "url": "https://landlordhotline.net/florida-landlord-security-camera-privacy-laws/",
+        "title": "Where Can Landlords Put Security Cameras in Florida?"
+      },
+      {
+        "position": 8,
+        "url": "https://www.crossviewpropertymanagement.com/cvpm-blog/florida-rentals-can-i-keep-exterior-cameras-on-my-rental-property",
+        "title": "Florida Rentals: Can I Keep Exterior Cameras on My Rental Property?"
+      },
+      {
+        "position": 9,
+        "url": "https://www.legalshield.com/blog/outdoor-home-surveillance-camera-laws",
+        "title": "Outdoor Home Surveillance Camera Laws - LegalShield"
+      },
+      {
+        "position": 10,
+        "url": "https://lasclev.org/09-08-2021-2/",
+        "title": "from 19 News: Can your landlord legally install cameras where you ..."
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 0,
+      "withYear": 0,
+      "withNumber": 0,
+      "commonModifiers": [
+        "question form",
+        "legal / laws",
+        "state name (Texas, Florida, California)",
+        "rental property",
+        "tenant privacy"
+      ],
+      "gap": "Almost all are written for landlords or are forum threads; none gives the tenant a short list of checks and next steps (lease, written request, official sources)"
+    },
+    "commonPoints": [
+      "Landlords can generally put visible cameras on the exterior and in common areas (driveway, entrances, parking, yard)",
+      "Cameras inside the tenant's unit, bathrooms and bedrooms are off-limits",
+      "Cameras should not point into windows or private spaces",
+      "Audio recording falls under wiretap/consent laws and is riskier than video",
+      "Disclosure in the lease or signage is best practice and sometimes required; rules vary by state"
+    ],
+    "ourGain": [
+      {
+        "point": "Single-family house nuance: in a remote house or a yard behind a privacy fence, tenants may reasonably expect privacy outdoors, and NC REALTORS advises disclosure and tenant consent at lease signing",
+        "source": "https://www.ncrealtors.org/question/are-surveillance-cameras-allowed-on-the-outside-of-rental-properties/"
+      },
+      {
+        "point": "Tenant playbook with a written request and the reason not to cover or unplug the landlord's device (it is the landlord's property)",
+        "source": "https://www.reddit.com/r/Ring/comments/b837km/renting_a_house_with_ring_installed_landlord/ (security-landlord-camera-watching-tenants)"
+      },
+      {
+        "point": "Landlord camera on the tenant's Wi-Fi or power is a fair thing to raise in writing",
+        "source": "https://www.reddit.com/r/Ring/comments/b837km/renting_a_house_with_ring_installed_landlord/"
+      },
+      {
+        "point": "Entry rules: a landlord who wants to install or service a camera inside must follow state entry notice rules (California presumes 24 hours written notice reasonable)",
+        "source": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1954"
+      },
+      {
+        "point": "The flip side: your own outdoor camera needs lease permission and must not aim at neighbors' doors",
+        "source": "data/pain-points.json security-landlord-bans-cameras-doorbells, security-doorbell-records-neighbors"
+      }
+    ],
+    "painPoints": [
+      {
+        "id": "security-landlord-camera-watching-tenants",
+        "pain": "Tenants worry a landlord-owned Ring or camera watches them come and go",
+        "details": "Renters in houses with a landlord-installed camera ask if it is legal and whether to cover it.",
+        "sources": [
+          "https://www.reddit.com/r/Ring/comments/b837km/renting_a_house_with_ring_installed_landlord/",
+          "https://www.reddit.com/r/renting/comments/1mwzjwf/is_it_okaynormal_for_landlord_to_keep_a_ring/"
+        ],
+        "quotes": [
+          {
+            "text": "it is legal, usually it should be disclosed in your lease.",
+            "url": "https://www.reddit.com/r/renting/comments/1mwzjwf/is_it_okaynormal_for_landlord_to_keep_a_ring/"
+          },
+          {
+            "text": "Legally it's not your device. Changing is likely a violation.",
+            "url": "https://www.reddit.com/r/Ring/comments/b837km/renting_a_house_with_ring_installed_landlord/"
+          }
+        ]
+      },
+      {
+        "id": "security-landlord-bans-cameras-doorbells",
+        "pain": "Lease or landlord forbids doorbell cameras or personal cameras and renter fears enforcement",
+        "details": "Renters ask whether a lease clause banning cameras is enforceable and what happens if they install a temporary device anyway.",
+        "sources": [
+          "https://www.reddit.com/r/LandlordLove/comments/1ef2zou/can_landlord_say_we_cant_have_cameras/",
+          "https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/"
+        ],
+        "quotes": [
+          {
+            "text": "If there is any mention of no cameras then your landlord can enforce that however the law allows",
+            "url": "https://www.reddit.com/r/LandlordLove/comments/1ef2zou/can_landlord_say_we_cant_have_cameras/"
+          }
+        ]
+      },
+      {
+        "id": "security-doorbell-records-neighbors",
+        "pain": "Hallway doorbell cameras record neighbors, raising privacy objections",
+        "details": "Management and neighbors object that a door camera in a shared hallway captures other residents' doors.",
+        "sources": [
+          "https://www.reddit.com/r/Apartmentliving/comments/1ebelua/ring_doorbells_not_allowed/"
+        ],
+        "quotes": [
+          {
+            "text": "you're likely to be recording other residents doors",
+            "url": "https://www.reddit.com/r/Apartmentliving/comments/1ebelua/ring_doorbells_not_allowed/"
+          }
+        ]
+      }
+    ],
+    "stats": [
+      {
+        "number": "54 percent",
+        "claim": "Renter security camera adoption rose from 42 percent to 54 percent in a single year",
+        "url": "https://www.safehome.org/resources/home-security-industry-annual/",
+        "quote": "Among renters, security camera adoption jumped 12 percentage points in a single year, from 42 percent to 54 percent."
+      },
+      {
+        "number": "37 percent",
+        "claim": "37 percent of security camera users worry about who might access their footage",
+        "url": "https://www.safehome.org/resources/home-security-industry-annual/",
+        "quote": "But 37 percent of users worry about who might have access to their footage"
+      },
+      {
+        "number": "24 hours",
+        "claim": "California presumes 24 hours' written notice reasonable before a landlord enters",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1954",
+        "quote": "Twenty-four hours shall be presumed to be reasonable notice in absence of evidence to the contrary."
+      }
+    ],
+    "videos": [
+      {
+        "id": "qPNBLUCH96k",
+        "title": "Security Cameras for Landlords: What's Legal and What's Not?",
+        "channel": "TurboTenant",
+        "url": "https://www.youtube.com/watch?v=qPNBLUCH96k",
+        "section": "Where a landlord's outdoor camera crosses the line"
+      }
+    ],
+    "productStyle": "paragraph"
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "smart-home-for-renters",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-wireless-security-cameras-for-apartments",
+      "mode": "related-box"
+    },
+    {
+      "slug": "smart-home-starter-kit",
+      "mode": "related-box"
+    }
+  ]
+}

@@ -220,6 +220,7 @@ faqs:
       off.
 author: editorial-team
 related:
+  - apple-homekit-compatible-devices
   - what-is-homekit
 heroImage: /images/featured/govee-apple-homekit.png
 heroAlt: >-

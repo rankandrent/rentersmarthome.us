@@ -227,7 +227,7 @@
     "priority": 7,
     "rationale": "200/mo, KD 4 (Ahrefs)",
     "slug": "smart-home-starter-kit",
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-13T00:00:00.000Z",
     "ahrefs": {
@@ -238,7 +238,8 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     },
-    "funnel": "bofu"
+    "funnel": "bofu",
+    "publishedAt": "2026-10-21T10:06:55.339Z"
   },
   {
     "keyword": "mini split smart controller",
@@ -1034,7 +1035,7 @@
     ]
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-13T20:18:50.430Z",
     "secondaryKeywords": [
@@ -1066,7 +1067,8 @@
     "painPoints": [
       "security-landlord-bans-cameras-doorbells",
       "security-landlord-camera-watching-tenants"
-    ]
+    ],
+    "publishedAt": "2026-10-21T10:06:54.356Z"
   },
   {
     "status": "published",
@@ -3757,7 +3759,7 @@
     "note": "2026-10-19: top-10 pages recommend product types only, no brand/model on 2+ pages. Retry as a no-product guide or via best outlet covers."
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-19T06:42:45.519Z",
     "secondaryKeywords": [
@@ -3786,7 +3788,8 @@
       "source": "ahrefs site-explorer-organic-keywords us",
       "date": "2026-10-19"
     },
-    "slug": "lazy-susan-child-lock"
+    "slug": "lazy-susan-child-lock",
+    "publishedAt": "2026-10-21T10:06:53.309Z"
   },
   {
     "status": "pending",
@@ -4011,7 +4014,7 @@
     "publishedAt": "2026-10-20T13:05:43.044Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-19T12:59:25.176Z",
     "secondaryKeywords": [
@@ -4045,7 +4048,8 @@
       "hubs-voice-matter-ecosystem-compat-confusion"
     ],
     "slug": "apple-homekit-compatible-devices",
-    "productCount": 4
+    "productCount": 4,
+    "publishedAt": "2026-10-21T10:07:26.508Z"
   },
   {
     "status": "deferred",

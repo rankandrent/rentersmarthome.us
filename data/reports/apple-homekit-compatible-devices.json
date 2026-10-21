@@ -1,0 +1,503 @@
+{
+  "keyword": "apple homekit compatible devices",
+  "createdAt": "2026-10-21T10:07:26.510Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "Apple HomeKit compatible devices",
+    "entityVariants": [
+      "HomeKit compatible devices",
+      "Apple HomeKit devices",
+      "HomeKit devices",
+      "HomeKit accessories",
+      "Apple Home accessories",
+      "best HomeKit devices",
+      "homekit accessories"
+    ],
+    "entities": [
+      {
+        "name": "Apple Home app",
+        "type": "app",
+        "relation": "where every HomeKit or Matter accessory is added and controlled"
+      },
+      {
+        "name": "Works with Apple Home",
+        "type": "label",
+        "relation": "the badge Apple tells shoppers to look for on compatible accessories"
+      },
+      {
+        "name": "Matter",
+        "type": "protocol",
+        "relation": "cross-platform standard that lets one device join Apple Home, Alexa and Google Home"
+      },
+      {
+        "name": "Thread",
+        "type": "protocol",
+        "relation": "low-power mesh network used by Eve and many Matter devices; needs a border router"
+      },
+      {
+        "name": "Thread border router",
+        "type": "hardware role",
+        "relation": "HomePod mini, HomePod (2nd gen) or Apple TV 4K bridging Thread devices to Wi-Fi"
+      },
+      {
+        "name": "home hub",
+        "type": "hardware role",
+        "relation": "always-on HomePod or Apple TV that runs automations and remote access"
+      },
+      {
+        "name": "HomePod mini 2",
+        "type": "product",
+        "relation": "cheapest Apple home hub and Thread border router"
+      },
+      {
+        "name": "Philips Hue Bridge",
+        "type": "hardware",
+        "relation": "connects Hue Zigbee lights to Apple Home over HomeKit or Matter"
+      },
+      {
+        "name": "Eve Energy",
+        "type": "product",
+        "relation": "Matter-over-Thread smart plug that also repeats the Thread network"
+      },
+      {
+        "name": "Eve Motion",
+        "type": "product",
+        "relation": "battery Matter-over-Thread motion and light sensor for automations"
+      },
+      {
+        "name": "Siri",
+        "type": "assistant",
+        "relation": "voice control for HomeKit accessories"
+      },
+      {
+        "name": "HomeKit Secure Video",
+        "type": "feature",
+        "relation": "encrypted camera recording for supported cameras"
+      },
+      {
+        "name": "Apple ID",
+        "type": "account",
+        "relation": "the account that owns the Home and its hub"
+      },
+      {
+        "name": "Apple Home Collection",
+        "type": "program",
+        "relation": "Apple's 2026 line of partner accessories with one-tap setup"
+      }
+    ],
+    "attributes": [
+      "Works with Apple Home label",
+      "Matter logo",
+      "Thread vs Wi-Fi",
+      "needs a home hub",
+      "needs a bridge",
+      "plug-in vs adhesive install",
+      "battery type and life",
+      "features lost over Matter",
+      "remote access",
+      "move-out reset"
+    ],
+    "ngrams": [
+      "homekit compatible devices",
+      "apple home app",
+      "works with apple home",
+      "home hub",
+      "thread border router",
+      "matter over thread",
+      "smart plug",
+      "motion sensor",
+      "hue bridge",
+      "homepod mini",
+      "remote access",
+      "apple homekit"
+    ],
+    "skipgrams": [
+      "matter…apple home",
+      "thread…border router",
+      "home…hub",
+      "works…apple home",
+      "hue…bridge",
+      "motion…sensor",
+      "move…reset"
+    ],
+    "nlpTerms": [
+      "HomeKit",
+      "Matter",
+      "Thread",
+      "Siri",
+      "automation",
+      "scene",
+      "bridge",
+      "hub",
+      "accessory",
+      "Wi-Fi",
+      "battery",
+      "renter",
+      "landlord",
+      "lease",
+      "QR code",
+      "firmware",
+      "Apple ID",
+      "no drilling"
+    ],
+    "questions": [
+      "What devices are compatible with Apple HomeKit?",
+      "Does Matter mean a device works with Apple Home?",
+      "Do I need a hub for HomeKit?",
+      "Can I use HomeKit devices in an apartment?",
+      "Do Philips Hue lights work with HomeKit?",
+      "What happens to HomeKit devices when I move?"
+    ],
+    "contentGaps": [
+      "How to read the box: Works with Apple Home vs Matter logo vs needs a bridge",
+      "iPhone 15 Pro can control Thread accessories without a hub, per Apple, but a hub is still recommended",
+      "Renter install: plug-in and freestanding devices that leave no holes",
+      "Move-out: whose Apple ID owns the Home and how to reset devices",
+      "2026 Hue and Apple Home breakage after iOS 26.3 and the fix"
+    ],
+    "outline": [
+      {
+        "h2": "Apple HomeKit compatible devices – the short answer",
+        "intent": "direct answer and the four picks",
+        "h3": []
+      },
+      {
+        "h2": "Apple HomeKit compatible devices we'd start a rental with",
+        "intent": "product picks",
+        "h3": [
+          "Apple HomePod mini 2: the home hub",
+          "Philips Hue White and Color Ambiance Starter Kit: the lights",
+          "Eve Energy (Matter): the plug",
+          "Eve Motion (Matter): the sensor"
+        ]
+      },
+      {
+        "h2": "How the four compare",
+        "intent": "comparison table",
+        "h3": []
+      },
+      {
+        "h2": "How to tell if a device works with Apple Home",
+        "intent": "label check: Works with Apple Home, Matter, bridges; pain point compat confusion",
+        "h3": []
+      },
+      {
+        "h2": "Problems owners run into, and the fix",
+        "intent": "pain points: offline Thread devices, pairing fails, Hue drops",
+        "h3": []
+      },
+      {
+        "h2": "HomeKit in a rental – hub, Apple ID and move-out",
+        "intent": "renter gap, Apple ID ownership, landlord",
+        "h3": []
+      }
+    ],
+    "targetWords": 1500,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://www.apple.com/home/accessories/",
+        "https://www.macobserver.com/tips/round-ups/homekit-compatible-devices/",
+        "http://www.robbyburns.com/blog/ifx40mut2ptx72lotwo229il9dyz1s",
+        "https://www.cnet.com/home/smart-home/best-apple-homekit-siri-devices/ (search excerpt only; scrape unsupported)",
+        "https://www.nytimes.com/wirecutter/reviews/best-homekit-devices/ (search summary only; scrape unsupported)"
+      ],
+      "productStyle": "paragraph",
+      "productStyleReason": "MacObserver and Robby Burns describe each device in a short paragraph by category, with no pros/cons lists or spec tables; Apple's page is a plain list.",
+      "avgWords": 1500,
+      "avgWordsNote": "Measured: MacObserver about 750 body words, Robby Burns about 1,250; CNET and Wirecutter are longer multi-category guides that could not be scraped, so 1,500 is a conservative middle.",
+      "avgProducts": 12,
+      "commonSections": [
+        "intro on why HomeKit",
+        "hubs and speakers",
+        "lighting",
+        "plugs",
+        "sensors",
+        "locks and thermostats",
+        "cameras with HomeKit Secure Video",
+        "FAQ"
+      ],
+      "usesComparisonTable": false,
+      "usesFaq": true,
+      "usesBuyingGuide": false
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.apple.com/home/accessories/",
+        "title": "Home Accessories - Apple"
+      },
+      {
+        "position": 2,
+        "url": "https://www.cnet.com/home/smart-home/best-apple-homekit-siri-devices/",
+        "title": "Best Apple HomeKit and Siri Devices to Buy in 2026 - CNET"
+      },
+      {
+        "position": 3,
+        "url": "https://www.reddit.com/r/HomeKit/comments/19exij7/what_apple_home_accessories_do_you_have_and_what/",
+        "title": "What Apple Home accessories do you have, and what has been ... - Reddit"
+      },
+      {
+        "position": 4,
+        "url": "https://www.nytimes.com/wirecutter/reviews/best-homekit-devices/",
+        "title": "The Best Smart Home Devices for Apple HomeKit and Siri"
+      },
+      {
+        "position": 5,
+        "url": "https://www.homecontrols.com/collections/apple-homekit-compatible-devices",
+        "title": "Apple Homekit Compatible Devices - Home Controls"
+      },
+      {
+        "position": 6,
+        "url": "https://www.bestbuy.com/site/home-security-safety/apple-homekit/pcmcat1506093839637.c?id=pcmcat1506093839637",
+        "title": "Apple HomeKit: HomeKit Devices and Accessories - Best Buy"
+      },
+      {
+        "position": 7,
+        "url": "http://www.robbyburns.com/blog/ifx40mut2ptx72lotwo229il9dyz1s",
+        "title": "The 7 Best Apple Homekit Devices - Robby Burns"
+      },
+      {
+        "position": 8,
+        "url": "https://www.apple.com/home-app/",
+        "title": "Home app - Apple"
+      },
+      {
+        "position": 9,
+        "url": "https://www.macobserver.com/tips/round-ups/homekit-compatible-devices/",
+        "title": "Full List of HomeKit Compatible Devices for Apple Smart Homes"
+      },
+      {
+        "position": 10,
+        "url": "https://www.amazon.com/HomeKit-Compatible-Devices/s?k=HomeKit+Compatible+Devices",
+        "title": "HomeKit Compatible Devices - Amazon.com"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 1,
+      "withYear": 1,
+      "withNumber": 1,
+      "commonModifiers": [
+        "best",
+        "smart home",
+        "Siri",
+        "devices and accessories",
+        "full list"
+      ],
+      "gap": "None promise a renter angle: devices that need no drilling and a check for what the Matter label really means in Apple Home."
+    },
+    "commonPoints": [
+      "A HomePod or Apple TV acts as the home hub for remote access and automations",
+      "Philips Hue lights work with HomeKit through the Hue Bridge",
+      "Matter broadens compatibility across platforms",
+      "HomeKit Secure Video cameras store encrypted clips",
+      "Categories covered: speakers, lights, plugs, sensors, locks, thermostats, cameras",
+      "Siri controls everything in the Home app"
+    ],
+    "ourGain": [
+      {
+        "point": "Apple says iPhone 15 Pro and later can control Thread accessories without a home hub, but still recommends a hub",
+        "source": "https://support.apple.com/en-us/102135"
+      },
+      {
+        "point": "Label check: Works with Apple Home vs Matter logo vs bridge; Apple Home treats HomeKit and Matter devices the same in automations, but some features (Eve Motion light sensor) misbehaved after a Matter switch",
+        "source": "https://www.evehome.com/en-us/eve-motion ; https://www.reddit.com/r/HomeKit/comments/14opy1p/dont_upgrade_your_eve_motion_to_matter/"
+      },
+      {
+        "point": "The 2026 Hue and Apple Home breakage after iOS 26.3 and Hue's fix: update the Bridge Pro firmware, then remove and re-add the bridge",
+        "source": "https://hueblog.com/2026/02/16/philips-hue-and-apple-home-complaints-are-piling-up/"
+      },
+      {
+        "point": "Plug-in Eve Energy acts as a Thread router node, so placing plugs between rooms strengthens battery sensors in an apartment",
+        "source": "https://www.evehome.com/en-us/eve-energy"
+      },
+      {
+        "point": "Renter install and move-out: all four picks are plug-in or freestanding; Home ownership follows one Apple ID",
+        "source": "data/pain-points.json hubs-voice-homekit-renter-hub-apple-id-moving"
+      }
+    ],
+    "painPoints": [
+      {
+        "id": "hubs-voice-matter-thread-devices-offline",
+        "pain": "Matter over Thread devices randomly go offline and stay offline until the hub or border router is reset",
+        "details": "Owners using Apple, Eero or Home Assistant border routers report whole groups of Thread devices dropping every few days or after a restart. They tried swapping the home hub, turning off Thread on a second router, or fixing router settings.",
+        "sources": [
+          "https://www.reddit.com/r/homeassistant/comments/1u951al/matter_over_thread_is_a_pain_after_ha_restart_all/",
+          "https://www.reddit.com/r/MatterProtocol/comments/1ra5g8h/devices_constantly_offline/",
+          "https://www.reddit.com/r/HomeKit/comments/1j8pf7q/thread_devices_keep_going_out/",
+          "https://www.reddit.com/r/MatterProtocol/comments/1kcxclq/one_month_later_half_of_my_matter_devices_over/",
+          "https://www.reddit.com/r/homeassistant/comments/1r8fslh/an_update_on_im_done_with_matter_over_thread/"
+        ],
+        "quotes": [
+          {
+            "text": "Pretty much randomly every other day or so- all my thread devices just go completely offline.",
+            "url": "https://www.reddit.com/r/HomeKit/comments/1j8pf7q/thread_devices_keep_going_out/"
+          },
+          {
+            "text": "I had the exact same issues with Apple thread border routers (ATVs and HomePods)",
+            "url": "https://www.reddit.com/r/MatterProtocol/comments/1ra5g8h/devices_constantly_offline/"
+          }
+        ]
+      },
+      {
+        "id": "hubs-voice-matter-ecosystem-compat-confusion",
+        "pain": "Buyers cannot tell if a Matter device will work with their Apple, Google or Alexa setup",
+        "details": "Owners ask whether Matter means a device automatically works in Apple Home, whether Echo Matter updates matter for HomeKit users, and why Google Home will not control some Matter plugs. Support varies by device and app version.",
+        "sources": [
+          "https://www.reddit.com/r/HomeKit/comments/1l0soq3/does_matter_automatically_mean_a_device_will_work/",
+          "https://www.reddit.com/r/HomeKit/comments/167zmbx/matter_contradictions/",
+          "https://www.reddit.com/r/googlehome/comments/1lcgf60/matter_devices_and_google_home/",
+          "https://www.reddit.com/r/HomeKit/comments/1hyiyn8/for_those_on_homekit_only_no_alexa_or_google_home/",
+          "https://www.reddit.com/r/HomeKit/comments/136mwtz/all_of_my_amazon_echo_devices_now_have_matter/"
+        ],
+        "quotes": [
+          {
+            "text": "The challenge is that Matter is evolving quickly.",
+            "url": "https://www.reddit.com/r/HomeKit/comments/1l0soq3/does_matter_automatically_mean_a_device_will_work/"
+          },
+          {
+            "text": "you can't control Matter devices from Google Home",
+            "url": "https://www.reddit.com/r/googlehome/comments/1lcgf60/matter_devices_and_google_home/"
+          }
+        ]
+      },
+      {
+        "id": "hubs-voice-matter-pairing-fails",
+        "pain": "Matter devices will not pair or the controller refuses to add them",
+        "details": "Users spend hours or days trying to commission Matter devices into Alexa, Apple Home or Home Assistant and get stuck on border router or network errors.",
+        "sources": [
+          "https://www.reddit.com/r/alexa/comments/1dgisga/cant_add_any_matter_smart_home_products_to_alexa/",
+          "https://www.reddit.com/r/homeassistant/comments/1qzf7q3/matter_over_thread_2_hours_and_still_not_working/",
+          "https://www.reddit.com/r/homeassistant/comments/1rgodgx/ive_been_trying_to_pair_matter_devices_for_3_days/",
+          "https://www.reddit.com/r/homeassistant/comments/1r8fslh/an_update_on_im_done_with_matter_over_thread/"
+        ],
+        "quotes": [
+          {
+            "text": "Alexa suddenly won't add any Matter smart home products to its ecosystem.",
+            "url": "https://www.reddit.com/r/alexa/comments/1dgisga/cant_add_any_matter_smart_home_products_to_alexa/"
+          }
+        ]
+      },
+      {
+        "id": "hubs-voice-homekit-renter-hub-apple-id-moving",
+        "pain": "Renters starting HomeKit worry about whose Apple ID owns the home hub and what happens to the setup when they move or a roommate leaves",
+        "details": "Threads from renters ask how to set up the hub and Apple ID in a rental, what to buy that does not need a unique hub, and whether landlord-owned smart devices can be linked to the tenant's own Siri account. Only search excerpts were readable (Reddit scraping unsupported), so treat as lead-level evidence.",
+        "sources": [
+          "https://www.reddit.com/r/HomeKit/comments/n51voa/homekit_in_a_rental_property/",
+          "https://www.reddit.com/r/HomeKit/comments/1nm350y/homekit_for_rental_property/",
+          "https://www.reddit.com/r/HomeKit/comments/zzyc45/first_apartment_homekit_recommendations/",
+          "https://www.reddit.com/r/HomeKit/comments/wg8f0t/im_moving_into_an_apartment_in_a_few_months_and/"
+        ],
+        "quotes": [
+          {
+            "text": "One of the first decisions is regarding HomeKit hub and the Apple ID.",
+            "url": "https://www.reddit.com/r/HomeKit/comments/n51voa/homekit_in_a_rental_property/"
+          },
+          {
+            "text": "I'd stay away from anything that needs a unique hub and stick with WiFi or Thread devices.",
+            "url": "https://www.reddit.com/r/HomeKit/comments/zzyc45/first_apartment_homekit_recommendations/"
+          },
+          {
+            "text": "Only the wired one works with HomeKit, and you need an additional Arlo hub. Also, you lose a lot of features if you don't pay for the subscription.",
+            "url": "https://www.reddit.com/r/HomeKit/comments/wg8f0t/im_moving_into_an_apartment_in_a_few_months_and/"
+          }
+        ]
+      }
+    ],
+    "stats": [
+      {
+        "number": "120-degree, 9 meters",
+        "claim": "Eve Motion's field of view and range",
+        "url": "https://www.evehome.com/en-us/eve-motion",
+        "quote": "Eve Motion has a 120-degree field of view spanning 9 meters of range, giving you plenty of room to play with."
+      },
+      {
+        "number": "15 A / 1,800 W",
+        "claim": "Eve Energy US maximum load",
+        "url": "https://www.evehome.com/en-us/eve-energy",
+        "quote": "AC 120 V, 60 Hz, max. 15 A / 1,800 W"
+      },
+      {
+        "number": "iPhone 15 Pro",
+        "claim": "iPhone 15 Pro and later control Thread accessories without a home hub",
+        "url": "https://support.apple.com/en-us/102135",
+        "quote": "And with iPhone 15 Pro or iPhone 15 Pro Max and later, you can control thread-based accessories without a home hub."
+      }
+    ],
+    "videos": [
+      {
+        "id": "zUsRhs1y8e8",
+        "title": "I Tested Over 100 Apple Home Accessories. Here's The Best for 2026.",
+        "channel": "Nikias Molina",
+        "url": "https://www.youtube.com/watch?v=zUsRhs1y8e8",
+        "section": "How to tell if a device works with Apple Home"
+      }
+    ],
+    "serpProducts": [
+      {
+        "name": "Apple HomePod mini 2",
+        "pages": [
+          "https://www.cnet.com/home/smart-home/best-apple-homekit-siri-devices/",
+          "https://www.macobserver.com/tips/round-ups/homekit-compatible-devices/",
+          "http://www.robbyburns.com/blog/ifx40mut2ptx72lotwo229il9dyz1s",
+          "https://www.nytimes.com/wirecutter/reviews/best-homekit-devices/"
+        ]
+      },
+      {
+        "name": "Philips Hue White and Color Ambiance Starter Kit (with Hue Bridge)",
+        "pages": [
+          "https://www.cnet.com/home/smart-home/best-apple-homekit-siri-devices/",
+          "https://www.macobserver.com/tips/round-ups/homekit-compatible-devices/",
+          "http://www.robbyburns.com/blog/ifx40mut2ptx72lotwo229il9dyz1s",
+          "https://www.apple.com/home/accessories/"
+        ]
+      },
+      {
+        "name": "Eve Energy (Matter)",
+        "pages": [
+          "https://www.cnet.com/home/smart-home/best-apple-homekit-siri-devices/",
+          "https://www.macobserver.com/tips/round-ups/homekit-compatible-devices/",
+          "https://www.apple.com/home/accessories/"
+        ]
+      },
+      {
+        "name": "Eve Motion (Matter)",
+        "pages": [
+          "https://www.macobserver.com/tips/round-ups/homekit-compatible-devices/",
+          "http://www.robbyburns.com/blog/ifx40mut2ptx72lotwo229il9dyz1s",
+          "https://www.apple.com/home/accessories/"
+        ]
+      },
+      {
+        "name": "ecobee Smart Thermostat Premium (not picked: swaps the landlord's thermostat)",
+        "pages": [
+          "https://www.macobserver.com/tips/round-ups/homekit-compatible-devices/",
+          "http://www.robbyburns.com/blog/ifx40mut2ptx72lotwo229il9dyz1s",
+          "https://www.apple.com/home/accessories/"
+        ]
+      },
+      {
+        "name": "Schlage Encode Plus (not picked: replaces the deadbolt)",
+        "pages": [
+          "https://www.macobserver.com/tips/round-ups/homekit-compatible-devices/",
+          "https://www.nytimes.com/wirecutter/reviews/best-homekit-devices/",
+          "https://www.apple.com/home/accessories/"
+        ]
+      }
+    ]
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "what-is-homekit",
+      "mode": "related-box"
+    },
+    {
+      "slug": "does-ring-work-with-apple-homekit",
+      "mode": "related-box"
+    },
+    {
+      "slug": "govee-apple-homekit",
+      "mode": "related-box"
+    }
+  ]
+}
