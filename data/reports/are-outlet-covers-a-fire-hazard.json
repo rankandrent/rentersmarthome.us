@@ -1,0 +1,396 @@
+{
+  "keyword": "are outlet covers a fire hazard",
+  "createdAt": "2026-10-21T10:13:21.619Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "outlet covers",
+    "entityVariants": [
+      "outlet cover",
+      "outlet caps",
+      "plug-in caps",
+      "plastic caps",
+      "plug covers",
+      "socket covers"
+    ],
+    "entities": [
+      {
+        "name": "plug-in cap",
+        "type": "child-safety device",
+        "relation": "small plastic plug pushed into an unused outlet; not a fire hazard on its own in US outlets, but kids can remove it and it is a choking risk"
+      },
+      {
+        "name": "sliding cover plate",
+        "type": "child-safety device",
+        "relation": "replacement wall plate whose shutters slide closed when a plug is pulled; swaps the existing plate"
+      },
+      {
+        "name": "box cover",
+        "type": "child-safety device",
+        "relation": "box that encloses an outlet in use, with an exit for cords"
+      },
+      {
+        "name": "tamper-resistant receptacle",
+        "type": "electrical device",
+        "relation": "outlet with built-in spring shutters that open only when both plug blades push at once"
+      },
+      {
+        "name": "National Electrical Code",
+        "type": "standard",
+        "relation": "requires tamper-resistant receptacles in new residential construction and for replacements in child-accessible areas"
+      },
+      {
+        "name": "ESFI",
+        "type": "organization",
+        "relation": "Electrical Safety Foundation International; publishes child outlet injury figures and the TRR white paper"
+      },
+      {
+        "name": "CPSC",
+        "type": "organization",
+        "relation": "US Consumer Product Safety Commission; childproofing guide says outlet protectors must not be easy to remove or small enough to choke on"
+      },
+      {
+        "name": "BS 1363",
+        "type": "standard",
+        "relation": "British socket standard with built-in shutters; the source of the 'socket covers are a fire risk' warnings"
+      },
+      {
+        "name": "landlord",
+        "type": "person",
+        "relation": "responsible for wiring in a rental; the person to ask for receptacle swaps"
+      },
+      {
+        "name": "overloaded circuit",
+        "type": "fire cause",
+        "relation": "a real cause of outlet fires, unlike an empty plastic cap"
+      }
+    ],
+    "attributes": [
+      "fire risk",
+      "choking risk",
+      "ease of removal",
+      "works with a plug in use",
+      "renter-friendly (no wiring)",
+      "permanent vs remember-to-reinsert",
+      "fit on recessed or oversized outlets"
+    ],
+    "ngrams": [
+      "outlet covers",
+      "fire hazard",
+      "plastic outlet covers",
+      "tamper resistant",
+      "outlet caps",
+      "sliding cover",
+      "box cover",
+      "plug covers"
+    ],
+    "skipgrams": [
+      "outlet…fire",
+      "covers…hazard",
+      "plug…covers",
+      "tamper…outlets",
+      "outlet…landlord"
+    ],
+    "nlpTerms": [
+      "overheating",
+      "spring shutters",
+      "choking hazard",
+      "receptacle",
+      "wall plate",
+      "scorched",
+      "loose connections",
+      "plug blades",
+      "electrician",
+      "discolored"
+    ],
+    "questions": [
+      "Are outlet covers a fire hazard?",
+      "Can plastic outlet covers catch fire?",
+      "Are plug-in outlet covers safe for babies?",
+      "What is safer than outlet caps?",
+      "Do tamper-resistant outlets make outlet covers unnecessary?",
+      "Can renters replace outlets for baby proofing?",
+      "Why do people say socket covers are dangerous?"
+    ],
+    "contentGaps": [
+      "No top result explains that the fire-risk warnings come from UK BS 1363 sockets and do not describe US outlets",
+      "No top result tells renters what they can do themselves vs what the landlord must do",
+      "No top result gives the removal-study numbers that show the real problem with caps is removal, not fire",
+      "No top result covers outlets in use (box covers) and odd or recessed outlets"
+    ],
+    "outline": [
+      {
+        "h2": "Are outlet covers a fire hazard? The short answer",
+        "intent": "direct answer",
+        "h3": []
+      },
+      {
+        "h2": "Where the fire hazard warning comes from",
+        "intent": "explain UK BS 1363 vs US outlets, real causes of outlet fires",
+        "h3": []
+      },
+      {
+        "h2": "The real risk with plug-in caps",
+        "intent": "removal and choking numbers from ESFI and CPSC",
+        "h3": []
+      },
+      {
+        "h2": "Plug-in caps vs sliding covers vs tamper-resistant outlets",
+        "intent": "comparison table of the options",
+        "h3": []
+      },
+      {
+        "h2": "What renters can do without rewiring",
+        "intent": "TR check, ask the landlord, renter-safe covers, outlets in use",
+        "h3": [
+          "How to tell if your outlets are tamper-resistant",
+          "Asking the landlord",
+          "Outlets with something plugged in"
+        ]
+      },
+      {
+        "h2": "Warning signs that do mean fire risk",
+        "intent": "warm, scorched or loose outlets: stop and report",
+        "h3": []
+      }
+    ],
+    "targetWords": 700,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://arcoelectricidaho.com/can-plastic-outlet-covers-catch-fire/",
+        "https://www.prismspecialties.com/what-would-cause-an-outlet-to-catch-fire/",
+        "https://prescottrealtyandrentals.com/blog/a-quick-guide-to-outlet-safety-covers",
+        "https://mrelectric.com/blog/are-childproof-outlets-just-for-children",
+        "https://www.creativesafetysupply.com/articles/what-causes-outlet-fires/"
+      ],
+      "productStyle": "paragraph",
+      "productStyleReason": "The ranking pages are electrician and safety articles plus forum threads; none features products or models, so this is a guide with no picks.",
+      "avgWords": 700,
+      "avgProducts": 0,
+      "commonSections": [
+        "can plastic covers catch fire",
+        "what really causes outlet fires",
+        "types of outlet covers",
+        "tamper-resistant receptacles as the better option",
+        "when to call an electrician"
+      ],
+      "usesComparisonTable": false,
+      "usesFaq": true,
+      "usesBuyingGuide": false,
+      "note": "avgWords averages Arco Electric (about 700), Prism (about 850), Mr. Electric (about 600), Prescott Realty (about 330) and Creative Safety Supply (about 1,000). Reddit and Facebook results were read via search excerpts only."
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.reddit.com/r/AskElectricians/comments/1j6k6s7/covering_a_normal_everyday_outlet_with_no_plugs/",
+        "title": "Covering a normal, everyday outlet with no plugs with a box ... - Reddit"
+      },
+      {
+        "position": 2,
+        "url": "https://arcoelectricidaho.com/can-plastic-outlet-covers-catch-fire/",
+        "title": "Can Plastic Outlet Covers Catch Fire? | Arco Electric"
+      },
+      {
+        "position": 3,
+        "url": "https://www.facebook.com/groups/homedesign/posts/2024580334931476/",
+        "title": "What is the difference between the two types of outlet covers and can they ..."
+      },
+      {
+        "position": 4,
+        "url": "https://www.prismspecialties.com/what-would-cause-an-outlet-to-catch-fire/",
+        "title": "What Would Cause an Outlet to Catch Fire? | Prism Specialty Restoration"
+      },
+      {
+        "position": 5,
+        "url": "https://prescottrealtyandrentals.com/blog/a-quick-guide-to-outlet-safety-covers",
+        "title": "A quick guide to outlet safety covers - Catherine Triplett"
+      },
+      {
+        "position": 6,
+        "url": "https://mrelectric.com/blog/are-childproof-outlets-just-for-children",
+        "title": "Are Childproof Outlets Just for Children? - Mr. Electric"
+      },
+      {
+        "position": 7,
+        "url": "https://www.paclights.com/explore/led-lighted-outlet-covers-myths-and-facts-for-electrical-engineers/",
+        "title": "Led Lighted Outlet Covers: Myths and Facts for Electrical Engineers"
+      },
+      {
+        "position": 8,
+        "url": "https://www.justanswer.com/electrical/qjmgv-outlet-i-d-cover-unscrewed-plate.html",
+        "title": "Is Covering an Outlet Safe? Expert Q&A on Fire Risks - JustAnswer"
+      },
+      {
+        "position": 9,
+        "url": "https://www.facebook.com/whichuk/videos/you-might-think-kids-plug-protectors-are-an-essential-safety-tool-for-parents-bu/1333821075427868/",
+        "title": "You might think kids' plug protectors are an essential safety tool for parents"
+      },
+      {
+        "position": 10,
+        "url": "https://www.creativesafetysupply.com/articles/what-causes-outlet-fires/",
+        "title": "Causes of Electrical Outlet Fires - Creative Safety Supply"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 0,
+      "withYear": 0,
+      "withNumber": 0,
+      "commonModifiers": [
+        "plastic",
+        "catch fire",
+        "safe",
+        "childproof",
+        "myths and facts"
+      ],
+      "gap": "No title answers the question and names the safer option for renters; none compares caps, sliding covers and tamper-resistant outlets or says what to ask the landlord."
+    },
+    "commonPoints": [
+      "Plastic caps are not a fire source under normal use; real outlet fires come from faulty wiring, overloads and damaged outlets",
+      "Tamper-resistant receptacles with spring shutters are the better long-term option",
+      "There are three cover types: plug-in caps, box covers and sliding covers",
+      "Warm, discolored or buzzing outlets need an electrician"
+    ],
+    "ourGain": [
+      {
+        "point": "The 'fire hazard' warnings come from UK BS 1363 sockets, where oversized dummy plugs can damage contacts and open built-in shutters; US outlets work differently",
+        "source": "https://www.fatallyflawed.org.uk/"
+      },
+      {
+        "point": "The measured problem with caps is removal: in the Temple University study 100 percent of 2- and 4-year-olds removed one brand",
+        "source": "https://www.esfi.org/tamper-resistant-receptacles-trr-white-paper/"
+      },
+      {
+        "point": "Renter path: check for TR, ask the landlord in writing (NEC requires TR on replacement receptacles in child-accessible areas), and use sliding plates or box covers meanwhile",
+        "source": "pain point baby-proofing-renter-cant-swap-outlet-plate"
+      },
+      {
+        "point": "Fixes for outlets in use and for caps a toddler keeps pulling out",
+        "source": "pain points baby-proofing-toddler-pulls-plug-out, baby-proofing-outlet-box-cover-wont-fit"
+      }
+    ],
+    "painPoints": [
+      {
+        "id": "baby-proofing-outlet-plug-covers-safe-confusion",
+        "pain": "Parents are told plug-in dummy outlet covers are a fire or choking risk and do not know what to use instead",
+        "details": "Conflicting advice: some say plug-in caps are dangerous, electricians say they are fine.",
+        "sources": [
+          "https://www.reddit.com/r/AskElectricians/comments/1j6k6s7/covering_a_normal_everyday_outlet_with_no_plugs/",
+          "https://www.reddit.com/r/BeyondTheBumpUK/comments/1odw3v7/plug_socket_covers_to_use_or_not_to_use/"
+        ],
+        "quotes": [
+          {
+            "text": "The little plastic child proof plugs are not a fire hazard.",
+            "url": "https://www.reddit.com/r/AskElectricians/comments/1j6k6s7/covering_a_normal_everyday_outlet_with_no_plugs/"
+          },
+          {
+            "text": "Definitely not the plug in covers, they make the sockets more dangerous.",
+            "url": "https://www.reddit.com/r/BeyondTheBumpUK/comments/1odw3v7/plug_socket_covers_to_use_or_not_to_use/"
+          }
+        ]
+      },
+      {
+        "id": "baby-proofing-tamper-resistant-outlet-swap",
+        "pain": "Parents are unsure whether their outlets are tamper-resistant and whether swapping them is worth it",
+        "details": "Commenters advise checking for TR marking or replacing receptacles instead of buying covers.",
+        "sources": [
+          "https://www.reddit.com/r/daddit/comments/1ep0a4y/my_daughter_3_keeps_pulling_these_plug_caps_out/"
+        ],
+        "quotes": [
+          {
+            "text": "Replace the outlet(s) with tamper resistant ones.",
+            "url": "https://www.reddit.com/r/daddit/comments/1ep0a4y/my_daughter_3_keeps_pulling_these_plug_caps_out/"
+          }
+        ]
+      },
+      {
+        "id": "baby-proofing-renter-cant-swap-outlet-plate",
+        "pain": "Renters are unsure whether they can replace wall plates or outlets for baby proofing without the landlord",
+        "details": "Renters worry about permission and deposits; some are told to hand it to the landlord.",
+        "sources": [
+          "https://www.reddit.com/r/HomeMaintenance/comments/1vja5r5/this_frustrating_outlet_is_in_my_toddlers_closet/"
+        ],
+        "quotes": [
+          {
+            "text": "It definitely needs to be handled by the landlord, but please don't risk your child's safety.",
+            "url": "https://www.reddit.com/r/HomeMaintenance/comments/1vja5r5/this_frustrating_outlet_is_in_my_toddlers_closet/"
+          }
+        ]
+      },
+      {
+        "id": "baby-proofing-toddler-pulls-plug-out",
+        "pain": "Toddler keeps pulling the plug or the safety cap out of an outlet that is in use",
+        "details": "Press-fit caps pop out and kids unplug lamps and chargers.",
+        "sources": [
+          "https://www.reddit.com/r/daddit/comments/1ep0a4y/my_daughter_3_keeps_pulling_these_plug_caps_out/",
+          "https://www.reddit.com/r/howto/comments/1gnb0bq/how_to_baby_proof_this_to_stop_child_from/"
+        ],
+        "quotes": []
+      },
+      {
+        "id": "baby-proofing-outlet-box-cover-wont-fit",
+        "pain": "Outlet box cover or plug cap will not fit because of an odd, recessed or oversized plug or outlet",
+        "details": "Recessed boxes and big transformer plugs stop covers from closing.",
+        "sources": [
+          "https://www.reddit.com/r/toddlers/comments/vocik3/anyone_have_any_recommendations_for_a_larger_than/"
+        ],
+        "quotes": []
+      }
+    ],
+    "stats": [
+      {
+        "number": "2,400",
+        "claim": "children a year suffer severe shock and burns from sticking items into outlet slots",
+        "url": "https://www.esfi.org/childproofing-your-home-tamper-resistant-receptacles/",
+        "quote": "Each year, approximately 2,400 children suffer severe shock and burns when they stick items into the slots of electrical receptacles"
+      },
+      {
+        "number": "100 percent",
+        "claim": "of 2- and 4-year-olds in a Temple University study could remove one brand of outlet cap",
+        "url": "https://www.esfi.org/tamper-resistant-receptacles-trr-white-paper/",
+        "quote": "100 percent of 2- and 4-year-olds could remove a second brand—in many cases within 10 seconds!"
+      },
+      {
+        "number": "47 percent",
+        "claim": "of 4-year-olds removed the other cap brand",
+        "url": "https://www.esfi.org/tamper-resistant-receptacles-trr-white-paper/",
+        "quote": "47 percent of 4-year-olds studied were able to remove one brand of cap"
+      },
+      {
+        "number": "2008",
+        "claim": "year the NEC began requiring tamper-resistant receptacles in residential new construction",
+        "url": "https://www.esfi.org/tamper-resistant-receptacles-trr-white-paper/",
+        "quote": "the National Electrical Code® (NEC) adopted Tamper-Resistant Receptacles (TRR) as a safety requirement in 2008"
+      },
+      {
+        "number": "46 of the 50",
+        "claim": "states requiring TRRs for new construction and replacement receptacles at the time of ESFI's paper",
+        "url": "https://www.esfi.org/tamper-resistant-receptacles-trr-white-paper/",
+        "quote": "46 of the 50 states now require Tamper-Resistant Receptacles for residential new construction and for replacement receptacles"
+      }
+    ],
+    "videos": [
+      {
+        "id": "1_s6hxxWTiE",
+        "title": "Childproofing Your Home: Tamper Resistant Receptacles",
+        "channel": "Electrical Safety Foundation International",
+        "url": "https://www.youtube.com/watch?v=1_s6hxxWTiE",
+        "section": "Plug-in caps vs sliding covers vs tamper-resistant outlets"
+      }
+    ],
+    "serpProducts": []
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-pressure-mounted-baby-gate-for-renters",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-magnetic-cabinet-locks-for-renters",
+      "mode": "related-box"
+    },
+    {
+      "slug": "how-to-baby-proof-a-rental-without-damage",
+      "mode": "related-box"
+    }
+  ]
+}

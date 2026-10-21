@@ -474,6 +474,7 @@ heroAlt: >-
   How to Baby Proof a Rental Without Damage, Room by Room (2026) –
   RenterSmartHome renter guide
 related:
+  - are-outlet-covers-a-fire-hazard
   - lazy-susan-child-lock
 ---
 

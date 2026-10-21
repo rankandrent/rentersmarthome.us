@@ -364,6 +364,8 @@ faqs:
       who were invited lose access once removed.
 author: editorial-team
 related:
+  - what-is-homebridge
+  - nest-thermostat-homekit
   - what-is-homekit
   - zigbee-vs-thread
 heroImage: /images/featured/apple-homekit-compatible-devices.png

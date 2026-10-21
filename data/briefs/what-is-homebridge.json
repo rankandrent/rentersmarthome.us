@@ -1,0 +1,429 @@
+{
+  "centralEntity": "Homebridge",
+  "entityVariants": [
+    "Homebridge server",
+    "Homebridge software",
+    "HomeBridge",
+    "Homebridge bridge"
+  ],
+  "entities": [
+    {
+      "name": "Apple HomeKit",
+      "type": "platform",
+      "relation": "Homebridge emulates the HomeKit Accessory Protocol so non-HomeKit devices appear in it"
+    },
+    {
+      "name": "Home app",
+      "type": "app",
+      "relation": "where Homebridge accessories show up and are controlled"
+    },
+    {
+      "name": "HomeKit Accessory Protocol (HAP)",
+      "type": "protocol",
+      "relation": "what Homebridge emulates"
+    },
+    {
+      "name": "Node.js",
+      "type": "runtime",
+      "relation": "Homebridge is a Node.js server"
+    },
+    {
+      "name": "Homebridge plugins",
+      "type": "software",
+      "relation": "community modules that connect each brand to Homebridge"
+    },
+    {
+      "name": "Verified plugins",
+      "type": "program",
+      "relation": "plugins reviewed by the Homebridge team against requirements"
+    },
+    {
+      "name": "Homebridge UI",
+      "type": "software",
+      "relation": "web interface to install plugins, edit config and back up"
+    },
+    {
+      "name": "Child bridge",
+      "type": "feature",
+      "relation": "runs a plugin as its own bridge, isolates crashes, works around the 150-accessory limit"
+    },
+    {
+      "name": "Raspberry Pi",
+      "type": "hardware",
+      "relation": "most common always-on host; official Homebridge image"
+    },
+    {
+      "name": "NAS / Docker",
+      "type": "hardware",
+      "relation": "alternative always-on host"
+    },
+    {
+      "name": "Home hub (Apple TV, HomePod)",
+      "type": "hardware",
+      "relation": "needed for remote access and automations"
+    },
+    {
+      "name": "Matter",
+      "type": "standard",
+      "relation": "Homebridge v2 can expose plugin accessories over Matter (uncertified)"
+    },
+    {
+      "name": "mDNS / Bonjour",
+      "type": "protocol",
+      "relation": "how the Home app discovers Homebridge on the network"
+    },
+    {
+      "name": "HOOBS",
+      "type": "product",
+      "relation": "packaged Homebridge-based alternative"
+    },
+    {
+      "name": "Home Assistant",
+      "type": "platform",
+      "relation": "alternative hub software with a HomeKit Bridge integration"
+    },
+    {
+      "name": "Ring, Nest, TP-Link Kasa, SwitchBot",
+      "type": "brands",
+      "relation": "popular plugins listed on homebridge.io"
+    }
+  ],
+  "attributes": [
+    "free and open source",
+    "always-on host required",
+    "plugin-based",
+    "local network discovery",
+    "150 accessories per bridge",
+    "verified vs unverified plugins",
+    "Matter support in v2",
+    "backup and restore",
+    "portable when moving"
+  ],
+  "ngrams": [
+    "what is homebridge",
+    "homebridge plugins",
+    "raspberry pi",
+    "non-homekit devices",
+    "apple home app",
+    "home hub",
+    "verified plugins",
+    "child bridge",
+    "homebridge ui",
+    "always on"
+  ],
+  "skipgrams": [
+    "homebridge…plugin",
+    "devices…homekit",
+    "raspberry…image",
+    "verified…plugins",
+    "home…hub",
+    "same…network"
+  ],
+  "nlpTerms": [
+    "open-source",
+    "Node.js",
+    "HomeKit Accessory Protocol",
+    "Siri",
+    "automations",
+    "QR code",
+    "config.json",
+    "SD card",
+    "Docker",
+    "NAS",
+    "mDNS",
+    "Matter",
+    "uncertified",
+    "Not Responding",
+    "backup"
+  ],
+  "questions": [
+    "What is Homebridge?",
+    "What do I need to run Homebridge?",
+    "Is Homebridge free?",
+    "Is Homebridge safe?",
+    "Do I need a Raspberry Pi for Homebridge?",
+    "Will Matter replace Homebridge?",
+    "Is Homebridge worth it?",
+    "Can I use Homebridge in an apartment?"
+  ],
+  "contentGaps": [
+    "apartment or building-managed Wi-Fi blocking discovery",
+    "what verified actually checks",
+    "landlord-owned devices and permission",
+    "moving out with a Homebridge setup",
+    "power outages and SD cards in a rental"
+  ],
+  "commonPoints": [
+    "Homebridge is free, open-source software that adds non-HomeKit devices to Apple Home",
+    "It runs on an always-on computer: Raspberry Pi, Mac, Windows, Linux, Docker or NAS",
+    "Plugins connect each brand; there are over 2,000",
+    "A home hub (Apple TV or HomePod) enables remote access and automations",
+    "The Homebridge UI manages plugins and config in a browser",
+    "Homebridge v2 adds Matter support"
+  ],
+  "ourGain": [
+    {
+      "point": "Renter Wi-Fi check: Homebridge, the iPhone and the home hub must share one network with mDNS working, which building-managed Wi-Fi with client isolation can block; use your own router",
+      "source": "https://developers.homebridge.io/homebridge/"
+    },
+    {
+      "point": "What a verified plugin badge actually checks (no tracking, settings GUI, no system-modifying install scripts, public repo with issues) and what it does not promise",
+      "source": "https://github.com/homebridge/homebridge/wiki/Verified-Plugins"
+    },
+    {
+      "point": "Five renter limits in one list: 150 accessories per bridge, uncertified Matter, cloud plugins can break, always-on host, 32-bit Pi image support ending Spring 2027",
+      "source": "https://github.com/homebridge/homebridge-raspbian-image/wiki/Getting-Started"
+    },
+    {
+      "point": "Moving out and landlord devices: back up in the Homebridge UI, re-check plugins set to fixed IP addresses, leave landlord-owned gear out unless you have written permission",
+      "source": "https://homebridge.io/"
+    },
+    {
+      "point": "Owner problems (abandoned plugins, Not Responding after outages, Home app can't find bridge) with the fix for each",
+      "source": "data/pain-points.json"
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "hubs-voice-homebridge-plugins-abandoned-or-break",
+      "pain": "Homebridge plugins stop working after updates or are abandoned by their volunteer maintainers",
+      "details": "Owners report that many plugins did not support Homebridge v2 at launch or are no longer developed, and some call most plugins a waste of time until debugged. Fixes they use: prefer verified, recently updated plugins, back up before updating, and downgrade a plugin that breaks.",
+      "sources": [
+        "https://www.reddit.com/r/homebridge/comments/1hkzlf0/homebridge_the_future_concerns/",
+        "https://www.reddit.com/r/HomeKit/comments/sotx30/homebridge_99_of_plugins_dont_work_complete_waste/",
+        "https://www.reddit.com/r/homebridge/comments/1t3s1og/homebridge_20_is_here_and_it_speaks_matter/"
+      ],
+      "quotes": [
+        {
+          "text": "It appears that most of my plugins are not currently supporting HB v2, or even worse, they are no longer being developed by the maintainer.",
+          "url": "https://www.reddit.com/r/homebridge/comments/1hkzlf0/homebridge_the_future_concerns/"
+        },
+        {
+          "text": "it takes a lot of debugging to get it initially working",
+          "url": "https://www.reddit.com/r/HomeKit/comments/sotx30/homebridge_99_of_plugins_dont_work_complete_waste/"
+        }
+      ]
+    },
+    {
+      "id": "hubs-voice-homebridge-not-responding-after-outage",
+      "pain": "After a restart or power outage, Homebridge accessories show Not Responding in the Home app, and owners worry the Raspberry Pi SD card gets corrupted",
+      "details": "Raspberry Pi owners running Homebridge from an SD card report devices resetting or showing Not Responding after restarts and outages; some had to reboot the Apple TV home hub. Fixes: wired Ethernet, a small UPS, regular Homebridge backups and a good SD card.",
+      "sources": [
+        "https://www.reddit.com/r/homebridge/comments/1eplbzv/about_to_give_up_on_homebridge/",
+        "https://www.reddit.com/r/homebridge/comments/mnzvm8/restarting_homebridge_resets_devices/",
+        "https://www.reddit.com/r/HOOBS/comments/10wstqk/im_about_to_throw_this_thing_away/"
+      ],
+      "quotes": [
+        {
+          "text": "power outage might damage the SD card.",
+          "url": "https://www.reddit.com/r/homebridge/comments/1eplbzv/about_to_give_up_on_homebridge/"
+        }
+      ]
+    },
+    {
+      "id": "hubs-voice-homebridge-home-app-cant-find-bridge",
+      "pain": "The Home app cannot find Homebridge or its accessories go No Response because mDNS discovery is blocked by the network setup",
+      "details": "Owners on VLANs, mesh systems and managed networks report Homebridge not showing up or responding slowly. Fixes: switch the mDNS advertiser (Bonjour HAP, Ciao, Avahi), keep the iPhone, home hub and Homebridge on the same network, enable mDNS/multicast on the router.",
+      "sources": [
+        "https://www.reddit.com/r/homebridge/comments/p8zmzr/homekit_devices_using_homebridge_get_no_response/",
+        "https://www.reddit.com/r/homebridge/comments/pnurhs/vlans_mdns/",
+        "https://www.reddit.com/r/homebridge/comments/1i0myar/homebridge_wont_add_to_home/"
+      ],
+      "quotes": [
+        {
+          "text": "Switching the HomeBridge settings mDNS to use AVAHI instead of Bonjour seemed to work.",
+          "url": "https://www.reddit.com/r/homebridge/comments/p8zmzr/homekit_devices_using_homebridge_get_no_response/"
+        }
+      ]
+    },
+    {
+      "id": "hubs-voice-homebridge-worth-the-maintenance",
+      "pain": "People are unsure whether Homebridge is worth the setup and ongoing maintenance compared with buying native HomeKit or Matter devices",
+      "details": "New users ask whether it is worth setting up and maintaining a Homebridge server; replies range from completely worth it (virtual switches, timers, unsupported brands) to frustration with debugging and updates.",
+      "sources": [
+        "https://www.reddit.com/r/HomeKit/comments/1d37h7m/is_it_worth_it_to_set_up_and_maintain_a/",
+        "https://www.reddit.com/r/HomeKit/comments/167mmni/homebridge_is_amazing/",
+        "https://www.reddit.com/r/HomeKit/comments/gm86de/homebridge_advice_needed_roll_my_own_or_buy_a/"
+      ],
+      "quotes": [
+        {
+          "text": "Homebridge is completely worth it.",
+          "url": "https://www.reddit.com/r/HomeKit/comments/1d37h7m/is_it_worth_it_to_set_up_and_maintain_a/"
+        }
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "h2": "What is Homebridge, in plain words",
+      "intent": "definition and how it works",
+      "h3": []
+    },
+    {
+      "h2": "What Homebridge needs to run",
+      "intent": "requirements: host, home hub, plugins",
+      "h3": [
+        "The always-on computer",
+        "The home hub",
+        "The plugins"
+      ]
+    },
+    {
+      "h2": "Verified vs unverified Homebridge plugins",
+      "intent": "how to choose plugins safely",
+      "h3": []
+    },
+    {
+      "h2": "Homebridge in a rental",
+      "intent": "renter angle: Wi-Fi, landlord devices, moving",
+      "h3": [
+        "Building Wi-Fi",
+        "Landlord-owned devices",
+        "Moving out"
+      ]
+    },
+    {
+      "h2": "5 limits to know before you start",
+      "intent": "limits",
+      "h3": []
+    },
+    {
+      "h2": "Problems owners run into, and the fix",
+      "intent": "pain points",
+      "h3": []
+    },
+    {
+      "h2": "Is Homebridge worth it for a renter?",
+      "intent": "verdict and alternatives",
+      "h3": []
+    }
+  ],
+  "targetWords": 1350,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://homebridge.io/",
+      "https://github.com/homebridge/homebridge",
+      "https://developers.homebridge.io/homebridge/",
+      "https://www.addtohomekit.com/blog/homebridge/",
+      "https://www.buildasmarthome.org/howto-setup-with-homebridge/",
+      "https://homebridge.io/how-to-install-homebridge"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "Informational SERP: the official site, GitHub, Reddit and explainers define Homebridge and list hosts; no page runs a product roundup, so this is a guide without picks.",
+    "avgWords": 1350,
+    "avgProducts": 0,
+    "commonSections": [
+      "what is Homebridge",
+      "how it works",
+      "hardware / platforms",
+      "plugins",
+      "home hub",
+      "install steps",
+      "limitations",
+      "alternatives (HOOBS, Home Assistant)"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": false
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://homebridge.io/",
+      "title": "Homebridge"
+    },
+    {
+      "position": 2,
+      "url": "https://www.reddit.com/r/HomeKit/comments/ty484x/what_is_homebridge/",
+      "title": "What is homebridge? : r/HomeKit - Reddit"
+    },
+    {
+      "position": 3,
+      "url": "https://github.com/homebridge/homebridge",
+      "title": "Homebridge - HomeKit support for the impatient. - GitHub"
+    },
+    {
+      "position": 4,
+      "url": "https://www.youtube.com/watch?v=1F2kj-hftkI",
+      "title": "What I Use Homebridge For (and Why I Love It) - YouTube"
+    },
+    {
+      "position": 5,
+      "url": "https://www.xda-developers.com/homebridge-replace-home-assistant/",
+      "title": "I tried HomeBridge to replace Home Assistant and here's what I learned"
+    },
+    {
+      "position": 6,
+      "url": "https://www.addtohomekit.com/blog/homebridge/",
+      "title": "What Is HomeBridge? Setup, Plugins and Docker Guide - Add To Homekit"
+    },
+    {
+      "position": 7,
+      "url": "https://homebridge.io/how-to-install-homebridge",
+      "title": "Install Homebridge"
+    },
+    {
+      "position": 8,
+      "url": "https://apps.apple.com/us/app/homebridger/id6757407817",
+      "title": "HomeBridger - App Store - Apple"
+    },
+    {
+      "position": 9,
+      "url": "https://www.youtube.com/watch?v=hfXsLjkDIEI",
+      "title": "3 Reasons to Use HomeBridge with HomeKit + How to setup ... - YouTube"
+    },
+    {
+      "position": 10,
+      "url": "https://www.buildasmarthome.org/howto-setup-with-homebridge/",
+      "title": "Homebridge Explained For You"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 2,
+    "withYear": 0,
+    "withNumber": 1,
+    "commonModifiers": [
+      "setup",
+      "plugins",
+      "explained",
+      "HomeKit"
+    ],
+    "gap": "No title covers what Homebridge needs in a rental or its limits for renters (Wi-Fi, landlord devices, moving out)"
+  },
+  "stats": [
+    {
+      "number": "over 2,000",
+      "claim": "Homebridge plugins",
+      "url": "https://homebridge.io/",
+      "quote": "There are over 2,000 Homebridge plugins supporting thousands of different smart accessories."
+    },
+    {
+      "number": "150",
+      "claim": "accessories per bridge (HomeKit limit)",
+      "url": "https://developers.homebridge.io/homebridge/",
+      "quote": "One bridge can only expose 150 accessories due to a HomeKit limit."
+    },
+    {
+      "number": "4GB",
+      "claim": "minimum SD card for the Homebridge Raspberry Pi image",
+      "url": "https://github.com/homebridge/homebridge-raspbian-image/wiki/Getting-Started",
+      "quote": "A 4GB or larger SD card (Class 10 40Mb/s or faster is recommended)"
+    },
+    {
+      "number": "Spring 2027",
+      "claim": "end of 32-bit Homebridge Raspberry Pi image support",
+      "url": "https://github.com/homebridge/homebridge-raspbian-image/wiki/Getting-Started",
+      "quote": "32bit - For all RPI Models (Not recommended, support will be ending Spring 2027 )"
+    }
+  ],
+  "videos": [
+    {
+      "id": "1F2kj-hftkI",
+      "title": "What I Use Homebridge For (and Why I Love It)",
+      "channel": "Edgar's Home Tech",
+      "url": "https://www.youtube.com/watch?v=1F2kj-hftkI",
+      "section": "What is Homebridge, in plain words"
+    }
+  ],
+  "serpProducts": []
+}

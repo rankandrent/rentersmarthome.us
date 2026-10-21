@@ -999,7 +999,7 @@
     "publishedAt": "2026-10-13T20:25:31.190Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-13T20:18:50.430Z",
     "secondaryKeywords": [
@@ -1032,7 +1032,8 @@
     "slug": "alarm-system-for-apartment-renters",
     "painPoints": [
       "security-cloud-subscription-fees"
-    ]
+    ],
+    "publishedAt": "2026-10-21T10:11:58.355Z"
   },
   {
     "status": "published",
@@ -3942,7 +3943,7 @@
     "note": "2026-10-20: SERP gate failed — top-10 pages recommend only product types (cord covers, shorteners, box outlet covers), no model on 2+ pages. Revisit if the SERP starts naming models, or write as a no-product how-to if the owner allows."
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-19T12:59:01.645Z",
     "secondaryKeywords": [
@@ -3973,7 +3974,8 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-19"
     },
-    "slug": "are-outlet-covers-a-fire-hazard"
+    "slug": "are-outlet-covers-a-fire-hazard",
+    "publishedAt": "2026-10-21T10:13:21.617Z"
   },
   {
     "status": "published",
@@ -4089,7 +4091,7 @@
     "note": "2026-10-20: SERP gate failed — the live top 10 is mostly shop/maker pages; on strict top-10 editorial pages only Schlage Encode Plus is clearly named by 2+ pages (min 3 for a roundup). Product research with wider pages is in data/briefs/homekit-door-lock.products.json; revisit when the SERP has more review articles."
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-19T12:59:25.176Z",
     "secondaryKeywords": [
@@ -4121,7 +4123,8 @@
     "painPoints": [
       "hubs-voice-matter-ecosystem-compat-confusion"
     ],
-    "slug": "what-is-homebridge"
+    "slug": "what-is-homebridge",
+    "publishedAt": "2026-10-21T10:12:00.842Z"
   },
   {
     "status": "published",
@@ -4273,7 +4276,7 @@
     "slug": "does-simplisafe-work-with-apple-home"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-19T12:59:25.176Z",
     "secondaryKeywords": [
@@ -4305,7 +4308,8 @@
     "painPoints": [
       "hubs-voice-matter-ecosystem-compat-confusion"
     ],
-    "slug": "nest-thermostat-homekit"
+    "slug": "nest-thermostat-homekit",
+    "publishedAt": "2026-10-21T10:11:59.506Z"
   },
   {
     "status": "pending",

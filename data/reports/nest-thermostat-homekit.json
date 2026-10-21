@@ -1,0 +1,448 @@
+{
+  "keyword": "nest thermostat homekit",
+  "createdAt": "2026-10-21T10:11:59.507Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "Nest thermostat",
+    "entityVariants": [
+      "Nest thermostat HomeKit",
+      "Nest thermostat Apple Home",
+      "Google Nest thermostat HomeKit",
+      "add Nest thermostat to Apple Home",
+      "Nest Matter HomeKit"
+    ],
+    "entities": [
+      {
+        "name": "Nest Thermostat (2020)",
+        "type": "product",
+        "relation": "gained Matter support in April 2023, so it can join Apple Home"
+      },
+      {
+        "name": "Nest Learning Thermostat (4th gen)",
+        "type": "product",
+        "relation": "2024 model with Matter; pairs from Settings > Matter on the thermostat"
+      },
+      {
+        "name": "Nest Learning Thermostat (3rd gen)",
+        "type": "product",
+        "relation": "no Matter; needs a bridge for HomeKit"
+      },
+      {
+        "name": "Nest Thermostat E",
+        "type": "product",
+        "relation": "no Matter; needs a bridge"
+      },
+      {
+        "name": "Nest Learning Thermostat (1st and 2nd gen)",
+        "type": "product",
+        "relation": "lost app and remote control support on October 25, 2025"
+      },
+      {
+        "name": "Matter",
+        "type": "standard",
+        "relation": "cross-platform standard that lets a Nest thermostat appear in Apple Home"
+      },
+      {
+        "name": "Matter Multi-Admin",
+        "type": "feature",
+        "relation": "lets Google Home and Apple Home control the same thermostat"
+      },
+      {
+        "name": "HomePod",
+        "type": "hardware",
+        "relation": "required to add Matter accessories to the Home app"
+      },
+      {
+        "name": "Google Home app",
+        "type": "software",
+        "relation": "Nest setup, schedules, sensors; generates Matter code for 2020 model"
+      },
+      {
+        "name": "Homebridge",
+        "type": "software",
+        "relation": "open-source bridge; homebridge-google-nest-sdm plugin for older Nest"
+      },
+      {
+        "name": "Device Access",
+        "type": "program",
+        "relation": "one-time 5 USD registration that bridges like Homebridge and Home Assistant need"
+      },
+      {
+        "name": "Nest Temperature Sensor",
+        "type": "product",
+        "relation": "not exposed to Matter or Apple Home"
+      },
+      {
+        "name": "Siri",
+        "type": "assistant",
+        "relation": "voice control once the thermostat is in Apple Home"
+      },
+      {
+        "name": "landlord",
+        "type": "renter context",
+        "relation": "who owns the Nest in a rental"
+      }
+    ],
+    "attributes": [
+      "Matter support",
+      "model generation",
+      "home hub required",
+      "pairing code",
+      "Wi-Fi band",
+      "remote access",
+      "automations",
+      "Siri control",
+      "room sensors",
+      "Eco mode",
+      "account ownership",
+      "move-out"
+    ],
+    "ngrams": [
+      "nest thermostat homekit",
+      "add a nest thermostat to apple home",
+      "nest thermostat matter",
+      "nest learning thermostat 4th gen",
+      "linked matter apps and services",
+      "apple home hub",
+      "nest thermostat no response"
+    ],
+    "skipgrams": [
+      "nest…homekit",
+      "matter…pairing code",
+      "thermostat…apple home",
+      "landlord…nest account"
+    ],
+    "nlpTerms": [
+      "Matter code",
+      "QR code",
+      "Add Accessory",
+      "home hub",
+      "HomePod mini",
+      "Apple TV",
+      "Google Home app",
+      "Siri",
+      "automation",
+      "scene",
+      "Eco mode",
+      "2.4 GHz",
+      "bridge",
+      "Homebridge",
+      "Device Access",
+      "factory reset",
+      "multi-admin"
+    ],
+    "questions": [
+      "Does Nest thermostat work with HomeKit?",
+      "Which Nest thermostats support Matter?",
+      "How do I add my Nest thermostat to Apple Home?",
+      "Do I need a HomePod or Apple TV for a Nest thermostat in HomeKit?",
+      "Why does my Nest thermostat say No Response in Apple Home?",
+      "Can I add my landlord's Nest thermostat to my Apple Home?",
+      "Do Nest temperature sensors show up in Apple Home?"
+    ],
+    "contentGaps": [
+      "Who owns the Nest in a rental (landlord or previous tenant account) and how to get shared access before pairing",
+      "Matter multi-admin keeps the landlord's Google Home link intact, so a renter can add Apple Home without a factory reset",
+      "Move-out checklist: remove the Apple Home link and your Google access",
+      "Nest Temperature Sensor not in Apple Home (AppleInsider)",
+      "1st and 2nd gen Learning thermostats lost app support on October 25, 2025"
+    ],
+    "outline": [
+      {
+        "h2": "Does the Nest thermostat work with HomeKit?",
+        "intent": "direct answer by model",
+        "h3": [
+          "Which Nest thermostats support Matter"
+        ]
+      },
+      {
+        "h2": "Before you pair in a rental, sort out whose Nest it is",
+        "intent": "renter account ownership and permission",
+        "h3": [
+          "If the thermostat is already linked to an account",
+          "What to ask your landlord"
+        ]
+      },
+      {
+        "h2": "How to add a Nest thermostat to Apple Home with Matter",
+        "intent": "step-by-step",
+        "h3": [
+          "Nest Learning Thermostat (4th gen)",
+          "Nest Thermostat (2020)"
+        ]
+      },
+      {
+        "h2": "What works in Apple Home and what stays in Google Home",
+        "intent": "feature split",
+        "h3": []
+      },
+      {
+        "h2": "Older Nest thermostats and the bridge route",
+        "intent": "3rd gen, E, 1st/2nd gen",
+        "h3": []
+      },
+      {
+        "h2": "Problems owners run into, and the fix",
+        "intent": "pain points",
+        "h3": [
+          "Pairing fails",
+          "No Response after a few days",
+          "Two apps, two schedules"
+        ]
+      },
+      {
+        "h2": "Move-out checklist for a Nest in Apple Home",
+        "intent": "renter exit",
+        "h3": []
+      }
+    ],
+    "targetWords": 1900,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://www.addtohomekit.com/blog/nest-homekit/",
+        "https://blog.athbridge.com/nest-thermostat-homekit/",
+        "https://appleinsider.com/articles/24/08/27/nest-learning-thermostat-4th-gen-review-finally-works-for-apple-home-users",
+        "https://forums.macrumors.com/threads/nest-thermostat-gaining-apple-homekit-support-starting-today-via-matter.2387119/"
+      ],
+      "productStyle": "paragraph",
+      "productStyleReason": "The ranking pages are setup guides and one review; none present a product roundup, so this is a how-to with no picks.",
+      "avgWords": 2150,
+      "avgProducts": 0,
+      "commonSections": [
+        "Which Nest models support Matter",
+        "Matter setup steps",
+        "Bridge options (Homebridge, HOOBS, ATH Bridge)",
+        "What you can control in Apple Home",
+        "Troubleshooting",
+        "FAQ"
+      ],
+      "usesComparisonTable": true,
+      "usesFaq": true,
+      "usesBuyingGuide": false
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.reddit.com/r/HomeKit/comments/1btm0rf/nest_thermostat_and_homekit_integration/",
+        "title": "Nest Thermostat and HomeKit integration. - Reddit"
+      },
+      {
+        "position": 2,
+        "url": "https://appleinsider.com/articles/24/08/27/nest-learning-thermostat-4th-gen-review-finally-works-for-apple-home-users",
+        "title": "Nest Learning Thermostat 4 review: Finally works with HomeKit"
+      },
+      {
+        "position": 3,
+        "url": "https://discussions.apple.com/thread/255417120",
+        "title": "How to connect-control a Google Nest Thermostat with Apple Home app or ..."
+      },
+      {
+        "position": 4,
+        "url": "https://www.youtube.com/watch?v=L6Vh3vKbgFU",
+        "title": "How To Connect Nest Thermostat To Apple HomeKit - YouTube"
+      },
+      {
+        "position": 5,
+        "url": "https://forums.macrumors.com/threads/nest-thermostat-gaining-apple-homekit-support-starting-today-via-matter.2387119/",
+        "title": "Nest Thermostat Gaining Apple HomeKit Support Starting Today via ..."
+      },
+      {
+        "position": 6,
+        "url": "https://www.facebook.com/groups/267249817311678/posts/1406770520026263/",
+        "title": "How to add Nest thermostats to Apple Home with the new hub? - Facebook"
+      },
+      {
+        "position": 7,
+        "url": "https://www.addtohomekit.com/blog/nest-homekit/",
+        "title": "How to Add Nest Devices to Apple HomeKit: 6 Methods Compared ..."
+      },
+      {
+        "position": 8,
+        "url": "https://blog.athbridge.com/nest-thermostat-homekit/",
+        "title": "How to Add Nest Thermostat to Apple HomeKit - ATHBridge Blog"
+      },
+      {
+        "position": 9,
+        "url": "https://www.youtube.com/watch?v=6WeQgePjQBo",
+        "title": "Nest Learning Thermostat 4th Gen with Matter in Apple Home - YouTube"
+      },
+      {
+        "position": 10,
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?browsedCategory=pcmcat308100050018",
+        "title": "Apple HomeKit and Nest Smart Thermostats - Best Buy"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 3,
+      "withYear": 1,
+      "withNumber": 1,
+      "commonModifiers": [
+        "how to add",
+        "how to connect",
+        "Apple Home",
+        "Matter",
+        "works with HomeKit"
+      ],
+      "gap": "No top result says which Nest models work and what a renter does when the thermostat belongs to the landlord"
+    },
+    "commonPoints": [
+      "Only the Nest Thermostat (2020) and Nest Learning Thermostat (4th gen) support Matter and can join Apple Home directly",
+      "Older Nest thermostats need a bridge such as Homebridge, HOOBS or ATH Bridge",
+      "You need a HomePod or Apple TV as the Apple home hub",
+      "Matter setup: get a pairing code from the thermostat or Google Home app, scan it with Add Accessory in Apple Home",
+      "Apple Home gets temperature, mode and Siri; schedules and Nest-specific features stay in Google Home"
+    ],
+    "ourGain": [
+      {
+        "point": "Renter account ownership: an apartment Nest is often already linked to the landlord or a previous tenant; Matter multi-admin lets you add Apple Home alongside their Google Home link, so ask for shared access instead of factory resetting",
+        "source": "r/Nest renter threads (xwspi6, muctii) + Google Matter multi-admin help page"
+      },
+      {
+        "point": "Move-out checklist: unlink Apple Home from the thermostat's Matter list and remove your Google access so the next tenant starts clean",
+        "source": "Google Matter help page (remove device / linked Matter apps) + renter pain point"
+      },
+      {
+        "point": "The 4th gen's included Nest Temperature Sensor does not show in Apple Home, so room sensor automations need separate HomeKit sensors",
+        "source": "AppleInsider review"
+      },
+      {
+        "point": "1st and 2nd gen Nest Learning Thermostats, common in older rentals, lost app and remote control support on October 25, 2025, so no bridge can bring them into HomeKit",
+        "source": "Google end-of-support help page and community announcement"
+      },
+      {
+        "point": "Pairing and No Response fixes owners actually report: 2.4 GHz phone network, clearing old linked apps on the thermostat, restarting the hub",
+        "source": "r/HomeKit and r/Nest threads, ATHBridge troubleshooting"
+      }
+    ],
+    "painPoints": [
+      {
+        "id": "climate-landlord-nest-locked-to-account",
+        "pain": "The Nest thermostat in a rental is already linked to the landlord or a previous tenant, so the renter cannot add it to their own app",
+        "details": "Renters find the apartment Nest says it is already connected to an account; landlords debate tenant access versus a factory reset.",
+        "sources": [
+          "https://www.reddit.com/r/Nest/comments/xwspi6/nest_thermostat_in_an_apartment_says_it_is/",
+          "https://www.reddit.com/r/Nest/comments/muctii/nest_thermostat_as_landlord/",
+          "https://www.reddit.com/r/Nest/comments/1adymrq/help_a_renter_out_please/"
+        ],
+        "quotes": [
+          {
+            "text": "I would like to connect to the Nest thermostat in my apartment",
+            "url": "https://www.reddit.com/r/Nest/comments/xwspi6/nest_thermostat_in_an_apartment_says_it_is/"
+          },
+          {
+            "text": "You could grant their Nest accounts access to the thermostat.",
+            "url": "https://www.reddit.com/r/Nest/comments/muctii/nest_thermostat_as_landlord/"
+          }
+        ]
+      },
+      {
+        "id": "climate-older-nest-no-homekit-support",
+        "pain": "Older Nest thermostats get no Matter, so they cannot join Apple Home without a bridge",
+        "details": "Learning 3rd gen and Thermostat E owners need a bridge; 1st and 2nd gen lost app support on October 25, 2025.",
+        "sources": [
+          "https://forums.macrumors.com/threads/nest-thermostat-gaining-apple-homekit-support-starting-today-via-matter.2387119/",
+          "https://discussions.apple.com/thread/255417120"
+        ],
+        "quotes": [
+          {
+            "text": "Just the cheap one!! What gives i have all learning thermostats.",
+            "url": "https://forums.macrumors.com/threads/nest-thermostat-gaining-apple-homekit-support-starting-today-via-matter.2387119/"
+          }
+        ]
+      },
+      {
+        "id": "climate-nest-homekit-pairing-fails",
+        "pain": "The Nest Matter code will not pair in the Apple Home app",
+        "details": "Wrong Wi-Fi band, leftover linked apps, expired codes.",
+        "sources": [
+          "https://www.reddit.com/r/HomeKit/comments/1qx1e0w/nest_thermostat_homekit_issues/",
+          "https://www.reddit.com/r/Nest/comments/1ey3ug9/gen_4_matterhomekit_integration_not_working/"
+        ],
+        "quotes": [
+          {
+            "text": "When you try to connect through the matter code make sure that your iPhone is on a 2.4ghz network.",
+            "url": "https://www.reddit.com/r/HomeKit/comments/1qx1e0w/nest_thermostat_homekit_issues/"
+          },
+          {
+            "text": "On the Thermostat 4th Gen, go to the Settings Menu -> Matter and ensure it shows 0 Linked Apps.",
+            "url": "https://www.reddit.com/r/Nest/comments/1ey3ug9/gen_4_matterhomekit_integration_not_working/"
+          }
+        ]
+      },
+      {
+        "id": "climate-nest-homekit-matter-drops-offline",
+        "pain": "A Nest thermostat added through Matter stops responding in Apple Home",
+        "details": "Works at first, then shows No Response until restarted or re-added.",
+        "sources": [
+          "https://www.reddit.com/r/HomeKit/comments/1577t23/trying_to_add_nest_thermostat_with_matter_to/",
+          "https://www.reddit.com/r/HomeKit/comments/1kdqxwu/issue_with_4th_gen_nest_thermostat_with_matter/"
+        ],
+        "quotes": [
+          {
+            "text": "Adding it with matter does not work very well and it will stop responding after a week or so.",
+            "url": "https://www.reddit.com/r/HomeKit/comments/1577t23/trying_to_add_nest_thermostat_with_matter_to/"
+          }
+        ]
+      },
+      {
+        "id": "hubs-voice-matter-ecosystem-compat-confusion",
+        "pain": "Buyers cannot tell if a Matter device will work with their Apple, Google or Alexa setup",
+        "details": "Owners ask whether Matter means a device automatically works in Apple Home.",
+        "sources": [
+          "https://www.reddit.com/r/HomeKit/comments/1l0soq3/does_matter_automatically_mean_a_device_will_work/"
+        ],
+        "quotes": [
+          {
+            "text": "The challenge is that Matter is evolving quickly.",
+            "url": "https://www.reddit.com/r/HomeKit/comments/1l0soq3/does_matter_automatically_mean_a_device_will_work/"
+          }
+        ]
+      }
+    ],
+    "stats": [
+      {
+        "number": "8%",
+        "claim": "ENERGY STAR smart thermostats save about 8% of heating and cooling bills, or $50 per year, on average",
+        "url": "https://www.energystar.gov/products/heating_cooling/smart_thermostats/smart_thermostat_faq",
+        "quote": "On average, savings are approximately 8% of heating and cooling bills or $50 per year."
+      },
+      {
+        "number": "October 25, 2025",
+        "claim": "1st and 2nd gen Nest Learning Thermostats stopped working in the Nest and Google Home apps",
+        "url": "https://support.google.com/googlehome/answer/16233096?hl=en",
+        "quote": "Your thermostat will no longer connect to or work in the Google Nest app or Google Home app starting on October 25, 2025."
+      },
+      {
+        "number": "65.0 percent",
+        "claim": "US homeownership rate in Q2 2026, so about a third of households rent",
+        "url": "https://www.census.gov/housing/hvs/current/",
+        "quote": "The homeownership rate of 65.0 percent was virtually the same as the rate in the second quarter 2025 (65.0 percent)"
+      }
+    ],
+    "videos": [
+      {
+        "id": "L6Vh3vKbgFU",
+        "title": "How To Connect Nest Thermostat To Apple HomeKit",
+        "channel": "One Hour Smart Home",
+        "url": "https://www.youtube.com/watch?v=L6Vh3vKbgFU",
+        "section": "How to add a Nest thermostat to Apple Home with Matter"
+      }
+    ],
+    "serpProducts": []
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "smart-thermostat-in-apartment",
+      "mode": "related-box"
+    },
+    {
+      "slug": "does-ring-work-with-apple-homekit",
+      "mode": "related-box"
+    },
+    {
+      "slug": "apple-homekit-compatible-devices",
+      "mode": "related-box"
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "centralEntity": "alarm system for apartment renters",
+  "entityVariants": [
+    "apartment alarm system",
+    "renter-friendly security system",
+    "DIY home security system for renters",
+    "wireless alarm system for apartments",
+    "apartment security system"
+  ],
+  "entities": [
+    {
+      "name": "base station",
+      "type": "hardware",
+      "relation": "hub that holds the siren, backup battery and connection to the app or monitoring center"
+    },
+    {
+      "name": "contact sensor",
+      "type": "hardware",
+      "relation": "door/window entry sensor that trips the alarm when a door or window opens"
+    },
+    {
+      "name": "motion sensor",
+      "type": "hardware",
+      "relation": "covers a room or hallway; pet sensitivity matters for false alarms"
+    },
+    {
+      "name": "keypad",
+      "type": "hardware",
+      "relation": "arms and disarms locally without the app"
+    },
+    {
+      "name": "professional monitoring",
+      "type": "service",
+      "relation": "24/7 agents who request dispatch; paid plan"
+    },
+    {
+      "name": "self-monitoring",
+      "type": "service",
+      "relation": "phone alerts you act on yourself; free or cheap tier"
+    },
+    {
+      "name": "cellular backup",
+      "type": "feature",
+      "relation": "keeps the alarm connected when building internet drops; usually tied to a plan"
+    },
+    {
+      "name": "battery backup",
+      "type": "feature",
+      "relation": "keeps the base station running in a power cut"
+    },
+    {
+      "name": "Ring Alarm 8-piece kit (2nd Gen)",
+      "type": "product",
+      "relation": "pick"
+    },
+    {
+      "name": "SimpliSafe 8 Piece Wireless Home Security System",
+      "type": "product",
+      "relation": "pick"
+    },
+    {
+      "name": "Abode Smart Security Kit",
+      "type": "product",
+      "relation": "pick"
+    },
+    {
+      "name": "Apple HomeKit",
+      "type": "platform",
+      "relation": "abode integrates natively"
+    },
+    {
+      "name": "Amazon Alexa",
+      "type": "platform",
+      "relation": "Ring Alarm integrates"
+    },
+    {
+      "name": "lease agreement",
+      "type": "legal",
+      "relation": "may restrict alterations or alarm installs"
+    },
+    {
+      "name": "security deposit",
+      "type": "legal",
+      "relation": "adhesive damage can be deducted"
+    },
+    {
+      "name": "false alarm permit",
+      "type": "legal",
+      "relation": "local fees for permits or false alarms can apply to monitored systems"
+    }
+  ],
+  "attributes": [
+    "no-drill adhesive install",
+    "no long-term contract",
+    "what works without a subscription",
+    "siren loudness",
+    "battery and cellular backup",
+    "pet-friendly motion detection",
+    "portability when moving",
+    "smart home compatibility",
+    "router or Ethernet requirement"
+  ],
+  "ngrams": [
+    "alarm system for apartment renters",
+    "home security system for renters",
+    "no long-term contract",
+    "professional monitoring",
+    "self-monitoring",
+    "peel and stick",
+    "contact sensor",
+    "motion sensor",
+    "base station",
+    "cellular backup",
+    "move-out day"
+  ],
+  "skipgrams": [
+    "sensors…adhesive",
+    "siren…neighbors",
+    "monitoring…contract",
+    "subscription…arm",
+    "landlord…permission",
+    "deposit…paint"
+  ],
+  "nlpTerms": [
+    "renters",
+    "apartment",
+    "landlord",
+    "lease",
+    "wireless",
+    "DIY",
+    "siren",
+    "keypad",
+    "entry sensor",
+    "dispatch",
+    "burglary",
+    "false alarm",
+    "portable",
+    "Wi-Fi",
+    "Ethernet",
+    "HomeKit",
+    "Alexa"
+  ],
+  "questions": [
+    "Can renters install an alarm system in an apartment?",
+    "Do I need my landlord's permission for a security system?",
+    "Which apartment alarm works without a monthly fee?",
+    "Will adhesive sensors damage the walls or paint?",
+    "Is professional monitoring worth it for an apartment?",
+    "Can I take my alarm system with me when I move?",
+    "Will an alarm siren bother my neighbors?"
+  ],
+  "contentGaps": [
+    "Which systems still arm and sound a siren with no subscription (top pages blur this)",
+    "How to remove adhesive sensors on move-out day without pulling paint",
+    "False alarm fees and permits that can apply to monitored systems",
+    "Router/Ethernet placement limits in small apartments (abode Smart Security Kit hub needs Ethernet)",
+    "Rekeying matters: BJS found some burglars used a key, which an alarm on the door still catches"
+  ],
+  "outline": [
+    {
+      "h2": "Our quick answer",
+      "intent": "direct answer and picks",
+      "h3": []
+    },
+    {
+      "h2": "The best alarm systems for apartment renters, reviewed",
+      "intent": "product reviews",
+      "h3": [
+        "Ring Alarm 8-piece kit (2nd Gen)",
+        "SimpliSafe 8 Piece Wireless Home Security System",
+        "Abode Smart Security Kit"
+      ]
+    },
+    {
+      "h2": "Compare them side by side",
+      "intent": "comparison table",
+      "h3": []
+    },
+    {
+      "h2": "What works without a subscription",
+      "intent": "gap: free tier vs paid plan",
+      "h3": []
+    },
+    {
+      "h2": "Problems renters run into, and the fix",
+      "intent": "pain points: siren and neighbors, adhesive falling off or pulling paint, contracts",
+      "h3": [
+        "The siren and your neighbors",
+        "Sensors that fall off or take paint with them",
+        "Contracts and moving"
+      ]
+    },
+    {
+      "h2": "How to install an apartment alarm without drilling",
+      "intent": "setup steps",
+      "h3": []
+    },
+    {
+      "h2": "Landlord, lease and move-out day",
+      "intent": "renter specifics",
+      "h3": []
+    }
+  ],
+  "commonPoints": [
+    "Renters should choose wireless DIY systems with peel-and-stick sensors",
+    "Avoid long-term contracts and moving fees; month-to-month monitoring",
+    "The system should be portable to the next apartment",
+    "Professional monitoring is optional; self-monitoring costs less",
+    "Check the lease and talk to the landlord before installing",
+    "A small apartment needs few sensors: main door, accessible windows, one motion sensor"
+  ],
+  "ourGain": [
+    {
+      "point": "Which of the three kits can still arm and sound a siren without a paid plan, from each maker's own fine print (Ring says app arming needs a subscription; abode offers free self-monitoring; SimpliSafe's free tier is limited)",
+      "source": "https://ring.com/products/alarm-base-station"
+    },
+    {
+      "point": "Owner reports of adhesive sensors falling off and causing false alarms, plus how to remove tape without pulling paint on move-out day",
+      "source": "https://www.reddit.com/r/simplisafe/comments/rwccxp/was_there_any_theft_or_breakin_even_with/"
+    },
+    {
+      "point": "Siren vs neighbors in a shared building and the local permit/false-alarm fees Ring's own footnotes warn about",
+      "source": "https://ring.com/products/alarm-base-station"
+    },
+    {
+      "point": "abode's Smart Security Kit hub needs a wired Ethernet connection to the router, which decides where it can sit in a small apartment",
+      "source": "https://goabode.com/product/smart-security-kit/"
+    },
+    {
+      "point": "BJS data: most burglaries hit empty homes and nearly 4 percent of offenders used a key, so an entry sensor on the door matters even after a lock is rekeyed",
+      "source": "https://bjs.ojp.gov/press-release/victimization-during-household-burglary"
+    }
+  ],
+  "targetWords": 2500,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.safehome.org/security-systems/best/apartments/",
+      "https://www.security.org/home-security-systems/best/apartment/",
+      "https://realestate.usnews.com/home-services/home-security-systems/best-home-security-systems-for-renters",
+      "https://goabode.com/blog/best-home-security-system-for-renters-2026-no-drilling-no-contracts-5-systems-tested-one-costs-0-month/"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "Security.org, U.S. News and SafeHome each show a pros and cons (What we like / What we don't like) list per system.",
+    "avgWords": 3600,
+    "avgProducts": 5,
+    "commonSections": [
+      "top picks summary",
+      "comparison table",
+      "per-system reviews",
+      "what makes a system renter-friendly",
+      "landlord / can tenants install",
+      "FAQ"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.safehome.org/security-systems/best/apartments/",
+      "title": "Best Home Security Systems for Apartments in 2026 - SafeHome.org"
+    },
+    {
+      "position": 2,
+      "url": "https://goabode.com/blog/best-home-security-system-for-renters-2026-no-drilling-no-contracts-5-systems-tested-one-costs-0-month/",
+      "title": "Best Security System for Renters 2026: 5 Systems Tested - Abode"
+    },
+    {
+      "position": 3,
+      "url": "https://www.reddit.com/r/homesecurity/comments/p1ckcd/home_security_for_renters_is_it_really_possible/",
+      "title": "Home security for renters, is it really possible? : r/homesecurity - Reddit"
+    },
+    {
+      "position": 4,
+      "url": "https://ring.com/collections/renter-friendly-security",
+      "title": "Renter Friendly Security – Apartments, Homes, and more | Ring"
+    },
+    {
+      "position": 5,
+      "url": "https://realestate.usnews.com/home-services/home-security-systems/best-home-security-systems-for-renters",
+      "title": "Best Home Security Systems for Renters - U.S. News Real Estate"
+    },
+    {
+      "position": 6,
+      "url": "https://www.vivint.com/resources/article/home-security-systems-for-renters",
+      "title": "The Renter's Guide to Home Security Systems: Affordable & Easy ... - Vivint"
+    },
+    {
+      "position": 7,
+      "url": "https://www.security.org/home-security-systems/best/apartment/",
+      "title": "Best Security Systems for Apartments & Renters in 2026"
+    },
+    {
+      "position": 8,
+      "url": "https://www.adt.com/resources/diy/do-i-need-a-security-system-in-an-apartment",
+      "title": "Security Alarm Systems for Apartment Renters | DIY Resources by ADT"
+    },
+    {
+      "position": 9,
+      "url": "https://www.eufy.com/blogs/security-system/renters-how-to-protect-apartment",
+      "title": "Home Security Systems for Apartments: What Works for Renters"
+    },
+    {
+      "position": 10,
+      "url": "https://goabode.com/blog/apartment-security-system-2/",
+      "title": "Best Apartment Security System 2026: No Drill, No Fees - Abode"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 5,
+    "withNumber": 1,
+    "commonModifiers": [
+      "best",
+      "for renters",
+      "apartments",
+      "2026",
+      "no drilling",
+      "no contracts",
+      "no fees"
+    ],
+    "gap": "None says which systems still arm without a paid plan; we lead with no-drill picks and spell out the subscription fine print."
+  },
+  "serpProducts": [
+    {
+      "name": "SimpliSafe",
+      "pages": [
+        "https://www.safehome.org/security-systems/best/apartments/",
+        "https://www.security.org/home-security-systems/best/apartment/",
+        "https://goabode.com/blog/best-home-security-system-for-renters-2026-no-drilling-no-contracts-5-systems-tested-one-costs-0-month/",
+        "https://www.reddit.com/r/homesecurity/comments/p1ckcd/home_security_for_renters_is_it_really_possible/"
+      ]
+    },
+    {
+      "name": "Ring Alarm",
+      "pages": [
+        "https://realestate.usnews.com/home-services/home-security-systems/best-home-security-systems-for-renters",
+        "https://www.security.org/home-security-systems/best/apartment/",
+        "https://goabode.com/blog/best-home-security-system-for-renters-2026-no-drilling-no-contracts-5-systems-tested-one-costs-0-month/",
+        "https://www.reddit.com/r/homesecurity/comments/p1ckcd/home_security_for_renters_is_it_really_possible/"
+      ]
+    },
+    {
+      "name": "abode",
+      "pages": [
+        "https://realestate.usnews.com/home-services/home-security-systems/best-home-security-systems-for-renters",
+        "https://www.security.org/home-security-systems/best/apartment/",
+        "https://goabode.com/blog/best-home-security-system-for-renters-2026-no-drilling-no-contracts-5-systems-tested-one-costs-0-month/"
+      ]
+    },
+    {
+      "name": "Wyze Home Monitoring (dropped: second page is Abode, a competitor maker)",
+      "pages": [
+        "https://realestate.usnews.com/home-services/home-security-systems/best-home-security-systems-for-renters",
+        "https://goabode.com/blog/best-home-security-system-for-renters-2026-no-drilling-no-contracts-5-systems-tested-one-costs-0-month/"
+      ]
+    },
+    {
+      "name": "Cove (not on Amazon, skipped)",
+      "pages": [
+        "https://www.safehome.org/security-systems/best/apartments/",
+        "https://www.security.org/home-security-systems/best/apartment/",
+        "https://goabode.com/blog/best-home-security-system-for-renters-2026-no-drilling-no-contracts-5-systems-tested-one-costs-0-month/"
+      ]
+    },
+    {
+      "name": "ADT Blu (no clear Amazon listing, skipped)",
+      "pages": [
+        "https://www.safehome.org/security-systems/best/apartments/",
+        "https://www.security.org/home-security-systems/best/apartment/"
+      ]
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "security-alarm-siren-neighbors-false-alarms",
+      "pain": "An apartment alarm siren may disturb neighbors and trigger false alarms, so renters doubt it is worth it",
+      "details": "Apartment dwellers worry a loud siren in a shared building annoys neighbors, that pets or roommates set off false alarms, and that alarms are more deterrent than protection.",
+      "sources": [
+        "https://www.reddit.com/r/Apartmentliving/comments/18b0gtj/is_it_worth_it_to_get_a_security_system/",
+        "https://www.reddit.com/r/AskNYC/comments/1wbpbbe/is_a_home_security_system_worth_it_in_an_apartment/"
+      ],
+      "quotes": [
+        {
+          "text": "You probably wont be able to use the siren because of false alarms and distrubing the neighbors.",
+          "url": "https://www.reddit.com/r/Apartmentliving/comments/18b0gtj/is_it_worth_it_to_get_a_security_system/"
+        }
+      ]
+    },
+    {
+      "id": "security-alarm-adhesive-sensors-fall-off-paint",
+      "pain": "Adhesive alarm sensors fall off (causing false alarms) or pull paint off when removed at move-out",
+      "details": "Owners report peel-and-stick entry sensors and keypads dropping off doors, which can trip false alarms, while renters fear double-sided tape will take paint with it.",
+      "sources": [
+        "https://www.reddit.com/r/simplisafe/comments/rwccxp/was_there_any_theft_or_breakin_even_with/",
+        "https://www.reddit.com/r/simplisafe/comments/1kl4bn3/unreliable_and_unsafe_a_total_failure_for_rental/",
+        "https://www.reddit.com/r/Renters/comments/1nn7sde/removing_double_sided_tape_ie_are_we_going_to/"
+      ],
+      "quotes": [
+        {
+          "text": "One of the entry sensors fell off (the sticky tape is not very good so go get some better 3M).",
+          "url": "https://www.reddit.com/r/simplisafe/comments/rwccxp/was_there_any_theft_or_breakin_even_with/"
+        },
+        {
+          "text": "Yes, I took some money off tenant deposit; no way to remove these without damaging the paint.",
+          "url": "https://www.reddit.com/r/Renters/comments/1nn7sde/removing_double_sided_tape_ie_are_we_going_to/"
+        }
+      ]
+    },
+    {
+      "id": "security-alarm-contracts-not-for-renters",
+      "pain": "Traditional alarm companies want long contracts or won't lease equipment to renters who may move",
+      "details": "Renters who may move within a year can't commit to multi-year monitoring contracts and often pay for equipment outright.",
+      "sources": [
+        "https://www.reddit.com/r/homesecurity/comments/1v6l2hs/security_system_for_a_renter/",
+        "https://www.reddit.com/r/homesecurity/comments/p1ckcd/home_security_for_renters_is_it_really_possible/"
+      ],
+      "quotes": [
+        {
+          "text": "most security companies don't lease alarm systems to residential renters, so you would likely have to pay the full cost out of pocket.",
+          "url": "https://www.reddit.com/r/homesecurity/comments/1v6l2hs/security_system_for_a_renter/"
+        }
+      ]
+    },
+    {
+      "id": "security-cloud-subscription-fees",
+      "pain": "Security devices need a monthly subscription to be useful; renters want no-fee options",
+      "details": "For alarms the catch is arming: some kits need a plan for app arming or for the alarm to work at all.",
+      "sources": [
+        "https://www.reddit.com/r/BuyItForLife/comments/1n94pqy/why_did_we_accept_that_security_cameras_need/",
+        "https://www.reddit.com/r/homeowners/comments/1ot0xm0/home_security_cameras_without_monthly_payment/"
+      ],
+      "quotes": []
+    },
+    {
+      "id": "security-landlord-bans-cameras-doorbells",
+      "pain": "Lease or landlord restricts security devices and renter fears enforcement",
+      "details": "Renters ask whether the lease allows a security device and what happens if they install one anyway.",
+      "sources": [
+        "https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/"
+      ],
+      "quotes": [
+        {
+          "text": "Make sure it's legal and not excluded in your lease.",
+          "url": "https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/"
+        }
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "number": "3.7 million",
+      "claim": "household burglaries occurred each year from 2003 through 2007 (NCVS)",
+      "url": "https://bjs.ojp.gov/press-release/victimization-during-household-burglary",
+      "quote": "An estimated 3.7 million household burglaries occurred each year from 2003 through 2007"
+    },
+    {
+      "number": "21 per 1,000 vs 8 per 1,000",
+      "claim": "burglary rate of unoccupied households vs households with someone home in 2007",
+      "url": "https://bjs.ojp.gov/press-release/victimization-during-household-burglary",
+      "quote": "the rate of burglary of unoccupied households declined from 26 to 21 victimizations per 1,000 households"
+    },
+    {
+      "number": "nearly four percent",
+      "claim": "of residents present in unlawful entry burglaries said the offender had a key",
+      "url": "https://bjs.ojp.gov/press-release/victimization-during-household-burglary",
+      "quote": "Nearly four percent stated that the offender had a key to the residence and used the key to gain access."
+    },
+    {
+      "number": "104 decibels",
+      "claim": "Ring Alarm Base Station (Gen 2) siren, measured at 1 ft",
+      "url": "https://ring.com/products/alarm-base-station",
+      "quote": "104 Decibel Siren measured at 1 ft"
+    }
+  ],
+  "videos": [
+    {
+      "id": "dqBd64oIY5U",
+      "title": "How to Install Your Base Station",
+      "channel": "SimpliSafe",
+      "url": "https://www.youtube.com/watch?v=dqBd64oIY5U",
+      "section": "How to install an apartment alarm without drilling"
+    }
+  ],
+  "secondaryKeywords": [
+    "best alarm system for apartment renters",
+    "apartment alarm system no drilling",
+    "renter friendly alarm system",
+    "home security system for renters",
+    "wireless alarm system for apartment",
+    "apartment security system no contract"
+  ],
+  "internalLinks": [
+    "best-wireless-security-cameras-for-apartments",
+    "how-to-secure-sliding-glass-door-in-rental",
+    "best-video-doorbell-without-subscription-for-renters",
+    "best-smart-lock-for-renters",
+    "best-water-leak-sensor-for-renters"
+  ],
+  "cannibalNote": "routine.mjs cannibal: no existing post targets this keyword. Related posts cover cameras, doorbells and sliding doors; this post covers alarm kits (base station + sensors) only."
+}

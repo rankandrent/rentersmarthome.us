@@ -267,6 +267,7 @@ heroAlt: >-
   What Is HomeKit? Apple Home Explained for Renters and Roommates –
   RenterSmartHome renter guide
 related:
+  - what-is-homebridge
   - apple-homekit-compatible-devices
   - matter-vs-thread
   - govee-apple-homekit

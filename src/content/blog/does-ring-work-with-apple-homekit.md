@@ -137,6 +137,7 @@ heroAlt: >-
   Does Ring Work With Apple HomeKit? 3 Bridges and a Renter Check (2026) –
   RenterSmartHome how-to
 related:
+  - nest-thermostat-homekit
   - apple-homekit-compatible-devices
   - govee-apple-homekit
   - what-is-homekit

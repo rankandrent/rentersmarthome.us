@@ -353,10 +353,10 @@ heroAlt: >-
   Best Voice Assistant Speaker for Small Apartments (2026) – 4 Picks –
   RenterSmartHome buying guide
 related:
+  - what-is-homebridge
   - zigbee-vs-thread
   - best-cat-tree-for-small-apartment
   - best-litter-box-for-small-apartment
-  - best-dehumidifier-for-small-apartment
 ---
 
 The best voice assistant speaker for small apartments has to do three things: fit on a narrow shelf, run your smart home, and keep the peace with the neighbors. **For most renters the Amazon Echo Dot (5th Gen) is the best pick; choose the Google Nest Mini for a Google household, the Apple HomePod mini for an iPhone household and the Amazon Echo Spot (newest model) if you want an Alexa alarm clock by the bed.** All four speakers in this guide plug into an outlet and need no mounting.

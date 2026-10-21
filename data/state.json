@@ -308,6 +308,34 @@
       "keyword": "apple homekit compatible devices",
       "category": "hubs-voice",
       "funnel": "mofu"
+    },
+    {
+      "date": "2026-10-21",
+      "slug": "alarm-system-for-apartment-renters",
+      "keyword": "alarm system for apartment renters",
+      "category": "security",
+      "funnel": "bofu"
+    },
+    {
+      "date": "2026-10-21",
+      "slug": "nest-thermostat-homekit",
+      "keyword": "nest thermostat homekit",
+      "category": "climate",
+      "funnel": "mofu"
+    },
+    {
+      "date": "2026-10-21",
+      "slug": "what-is-homebridge",
+      "keyword": "what is homebridge",
+      "category": "hubs-voice",
+      "funnel": "tofu"
+    },
+    {
+      "date": "2026-10-21",
+      "slug": "are-outlet-covers-a-fire-hazard",
+      "keyword": "are outlet covers a fire hazard",
+      "category": "baby-proofing",
+      "funnel": "tofu"
     }
   ],
   "translated": [

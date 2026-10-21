@@ -483,6 +483,7 @@ heroAlt: >-
   Best Magnetic Cabinet Locks for Renters (2026) – 6 No-Drill Picks –
   RenterSmartHome buying guide
 related:
+  - are-outlet-covers-a-fire-hazard
   - lazy-susan-child-lock
   - how-to-baby-proof-a-rental-without-damage
 ---

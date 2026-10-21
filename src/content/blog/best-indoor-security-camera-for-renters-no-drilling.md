@@ -339,8 +339,10 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-indoor-security-camera-for-renters-no-drilling.png
 heroAlt: >-
-  Best Indoor Security Camera for Renters No Drilling (2026) –
-  RenterSmartHome buying guide
+  Best Indoor Security Camera for Renters No Drilling (2026) – RenterSmartHome
+  buying guide
+related:
+  - alarm-system-for-apartment-renters
 ---
 
 Your lease says no holes in the walls, you want to see what the dog does all day, and you'd rather not have a camera listening while you're home. **The best indoor security camera for renters with no drilling is the [Ring Indoor Cam (2nd Gen)](amzn:Ring+Indoor+Cam+2nd+Gen+privacy+cover): it stands on a shelf, plugs into an outlet, and its manual privacy cover turns off both the lens and the microphone.** For the sharpest picture, pick the Google Nest Cam Indoor (Wired, 3rd Gen). If you need it higher up, use the adhesive or tabletop mount from the camera's own box. And for a spot with no outlet, the SimpliSafe battery camera works if you already have a SimpliSafe alarm.

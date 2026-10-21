@@ -1,0 +1,17 @@
+{
+  "slug": "what-is-homebridge",
+  "pass": true,
+  "checkedAt": "2026-10-21T10:11:33.250Z",
+  "errors": [],
+  "warnings": [
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Guide, 0 products. Verified against sources opened 2026-10-21 via Firecrawl: homebridge.io (over 2,000 plugins quote verbatim, popular plugin list incl. Ring/Nest/Kasa/Hue/Wemo/SwitchBot, home hub enables remote access and automations, UI backup/restore and child bridges); developers.homebridge.io/homebridge (Node.js server emulating HAP, non-commercial volunteer project, 'If a plugin or page asks you to pay', v2 Matter to Google/Alexa/SmartThings, uncertified by CSA, same-subnet mDNS quote 'the same network constraints as HomeKit', Bonjour HAP/Ciao swap and airplane mode tip, 150 accessories per bridge quote verbatim, cameras/TVs pair separately); homebridge.io/how-to-install-homebridge (Pi, Linux, macOS, Windows, Docker, Synology/Unraid/QNAP); Homebridge Raspberry Pi image Getting Started wiki (4GB or larger SD card, Raspberry Pi Imager, 32-bit not recommended with support ending Spring 2027, 64-bit for 3B and newer, Ethernet/WiFi first boot); GitHub Verified-Plugins wiki (npm + GitHub with issues, settings GUI, no analytics/tracking, no system-modifying post-install scripts, supported Node LTS; 433 rows counted in the verified table incl. Ring, Kasa, SwitchBot, Govee, Meross, Tuya); addtohomekit.com (child bridges isolate crashes, change default admin password, unresponsive when host loses power, cloud plugins can break). Reddit quotes checked verbatim in Firecrawl search excerpts at the same thread URLs (1hkzlf0 HB v2 plugins quote; 1d37h7m 'Homebridge is completely worth it.'; 1eplbzv power outage/SD card and Apple TV reboot; p8zmzr Avahi mDNS fix; sotx30 'a lot of debugging'). Video 1F2kj-hftkI (Edgar's Home Tech, 2025-06-07, what owner uses Homebridge for) checked. No prices, ratings or testing claims.",
+    "at": "2026-10-21T10:11:32.805Z",
+    "hash": "157b72b7f1c28e61"
+  }
+}

@@ -313,10 +313,10 @@ faqs:
       heaters that are rated for them.
 author: editorial-team
 related:
+  - nest-thermostat-homekit
   - best-air-purifier-for-apartment-renters
   - best-dehumidifier-for-small-apartment
   - how-to-cool-apartment-without-ac
-  - ring-doorbell-in-apartment
 heroImage: /images/featured/smart-thermostat-in-apartment.png
 heroAlt: >-
   Can I Install a Smart Thermostat in My Apartment? The C-Wire Check –

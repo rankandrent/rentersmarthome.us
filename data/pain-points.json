@@ -1099,11 +1099,14 @@
           "anti theft doorbell mount",
           "ring doorbell without drilling"
         ],
-        "keywords": [],
+        "keywords": [
+          "anti theft doorbell mount"
+        ],
         "mentions": 3,
         "coveredBy": [
           "ring-doorbell-in-apartment",
-          "best-video-doorbell-without-subscription-for-renters"
+          "best-video-doorbell-without-subscription-for-renters",
+          "anti-theft-doorbell-mount"
         ],
         "foundAt": "2026-10-19"
       },
@@ -1141,10 +1144,13 @@
           "how to stop ring doorbell being stolen apartment",
           "anti theft doorbell mount"
         ],
-        "keywords": [],
+        "keywords": [
+          "anti theft doorbell mount"
+        ],
         "mentions": 3,
         "coveredBy": [
-          "best-video-doorbell-without-subscription-for-renters"
+          "best-video-doorbell-without-subscription-for-renters",
+          "anti-theft-doorbell-mount"
         ],
         "foundAt": "2026-10-19"
       },
@@ -1696,6 +1702,80 @@
         ],
         "mentions": 2,
         "coveredBy": [],
+        "foundAt": "2026-10-21"
+      },
+      {
+        "id": "security-doorbell-mount-door-wont-close",
+        "pain": "A clamp-style doorbell mount stops the apartment door from closing or does not fit the doorbell",
+        "details": "Over-the-door mounts need an inward-swinging door, a thin enough door and room between door and frame; owners report doors that would not shut and doorbells that did not fit the case.",
+        "sources": [
+          {
+            "url": "https://business.walmart.com/reviews/product/574699575",
+            "platform": "review",
+            "title": "DoorbellBoa customer reviews (Walmart Business)",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/Ring/comments/13zeusk/no_drill_mount_a_massive_fail_other_suggestions/",
+            "platform": "reddit",
+            "title": "No Drill Mount A Massive Fail - Other Suggestions?",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Sadly, I could not shut my door with the Boa.",
+            "url": "https://business.walmart.com/reviews/product/574699575"
+          }
+        ],
+        "searches": [
+          "doorbell mount door won't close",
+          "anti theft doorbell mount"
+        ],
+        "keywords": [
+          "anti theft doorbell mount"
+        ],
+        "mentions": 3,
+        "coveredBy": [
+          "anti-theft-doorbell-mount"
+        ],
+        "foundAt": "2026-10-21"
+      },
+      {
+        "id": "security-ring-theft-replacement-limits",
+        "pain": "Renters count on Ring replacing a stolen doorbell but the policy has conditions",
+        "details": "Ring's courtesy replacement needs a police report, the receipt and a claim within 15 days, and only covers devices bought on ring.com.",
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/Ring/comments/1jv9cw3/rings_device_theft_protection_policy_not_being/",
+            "platform": "reddit",
+            "title": "Ring's Device Theft Protection Policy not being honored?",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/Ring/comments/v3ncke/welp_til_that_ring_replaces_stolen_items_for_free/",
+            "platform": "reddit",
+            "title": "TIL that Ring replaces stolen items for free as long as you file a police report",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Ring covered all of the replacements as long as I got a police report.",
+            "url": "https://www.reddit.com/r/Ring/comments/1jv9cw3/rings_device_theft_protection_policy_not_being/"
+          }
+        ],
+        "searches": [
+          "ring stolen doorbell replacement",
+          "does ring replace stolen doorbell"
+        ],
+        "keywords": [
+          "anti theft doorbell mount"
+        ],
+        "mentions": 2,
+        "coveredBy": [
+          "anti-theft-doorbell-mount"
+        ],
         "foundAt": "2026-10-21"
       }
     ],
@@ -2544,7 +2624,9 @@
           "how to baby proof outlets in use"
         ],
         "foundAt": "2026-10-19",
-        "coveredBy": []
+        "coveredBy": [
+          "are-outlet-covers-a-fire-hazard"
+        ]
       },
       {
         "id": "baby-proofing-outlet-plug-covers-safe-confusion",
@@ -2608,7 +2690,9 @@
           "how to baby proof outlets in use"
         ],
         "foundAt": "2026-10-19",
-        "coveredBy": []
+        "coveredBy": [
+          "are-outlet-covers-a-fire-hazard"
+        ]
       },
       {
         "id": "baby-proofing-outlet-box-cover-wont-fit",
@@ -2661,7 +2745,9 @@
           "how to baby proof outlets in use"
         ],
         "foundAt": "2026-10-19",
-        "coveredBy": []
+        "coveredBy": [
+          "are-outlet-covers-a-fire-hazard"
+        ]
       },
       {
         "id": "baby-proofing-renter-cant-swap-outlet-plate",
@@ -2727,7 +2813,8 @@
         ],
         "foundAt": "2026-10-19",
         "coveredBy": [
-          "how-to-baby-proof-a-rental-without-damage"
+          "how-to-baby-proof-a-rental-without-damage",
+          "are-outlet-covers-a-fire-hazard"
         ]
       },
       {
@@ -2786,7 +2873,9 @@
           "how to baby proof outlets in use"
         ],
         "foundAt": "2026-10-19",
-        "coveredBy": []
+        "coveredBy": [
+          "are-outlet-covers-a-fire-hazard"
+        ]
       },
       {
         "id": "baby-proofing-cord-clutter-behind-furniture",

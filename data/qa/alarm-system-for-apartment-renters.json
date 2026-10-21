@@ -1,0 +1,17 @@
+{
+  "slug": "alarm-system-for-apartment-renters",
+  "pass": true,
+  "checkedAt": "2026-10-21T10:10:37.001Z",
+  "errors": [],
+  "warnings": [
+    "product \"Ring Alarm 8-piece kit (2nd Gen)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"SimpliSafe 8 Piece Wireless Home Security System\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Abode Smart Security Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Wyze Home Security Core Kit removed (its second recommendation was Abode's own blog, not independent); productCount 3. Remaining facts re-checked against maker pages: Ring 8-piece kit contents and subscription note (ring.com/products/security-system-alarm-8), Ring base station Gen 2 specs (104 dB at 1 ft, 24h battery, Ethernet/Wi-Fi/Z-Wave/Zigbee, cellular backup with plan, permit/false-alarm fee footnote; ring.com/products/alarm-base-station); SimpliSafe Gen 3 Base Station guide (100 dB, 24h battery, network backup with monitoring, placement); Abode Smart Security Kit page (93 dB hub, battery + 4G cellular with subscription, Ethernet required, kit contents, HomeKit/Alexa/Google/Z-Wave/Zigbee, free self-monitoring). Review claims checked in U.S. News, Security.org, SafeHome.org and the Abode blog (SimpliSafe free tier only). BJS numbers (21 vs 8 per 1,000; nearly four percent had a key) verbatim. Reddit quotes matched to search excerpts at their thread URLs. Amazon listings: Ring B07ZPMCW64, SimpliSafe B07C38HT49, Abode B0793N1V54.",
+    "at": "2026-10-21T10:10:36.455Z",
+    "hash": "6d85d53fee8db13b"
+  }
+}
