@@ -1,16 +1,17 @@
 {
   "slug": "does-ring-work-with-apple-homekit",
   "pass": true,
-  "checkedAt": "2026-10-20T17:19:10.072Z",
+  "checkedAt": "2026-10-21T06:54:27.311Z",
   "errors": [],
   "warnings": [
-    "source didn't respond normally (403): https://hoobs.com/ring/",
-    "source didn't respond normally (403): https://hoobs.com/box/"
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Converted to zero-product guide (removed products block, productCount 0, no amzn links). Re-compared changed HOOBS section against hoobs.com/ring (4 tested Ring accessories) and hoobs.com/box (preloaded HOOBS software, Homebridge-based) and addtohomekit ring-homekit (doorbell press scenes/HomePod chime, no HKSV on standard plugin). Removed owner-review claims (r/HOOBS, 40 devices, crashes, eight posts) that depended on the product block. Other text unchanged and previously verified; no prices added.",
-    "at": "2026-10-20T17:16:07.097Z",
-    "hash": "50aaf04a21a12370"
+    "notes": "Media backfill, verified via Firecrawl: Ring plans page (https://ring.com/plans) says motion event videos are stored in the cloud for up to 180 days and a free 30-day trial of Ring Protect starts when you first set up the device; no prices stated in text. Apple Support Set up security cameras in Home on iPhone (https://support.apple.com/guide/iphone/set-up-security-cameras-iph7bc5df9d9/ios): with iCloud+ view the last 10 days of activity; the 200 GB iCloud+ plan supports up to five cameras. Video mK8Wvv9aALs (Adam's Tech Life, Ring to Apple Home with Homebridge). 3 illustrations after H2 2,3,5. Replaced SafeHome.org monthly-fee mention with Ring's own page; other claims unchanged.",
+    "at": "2026-10-21T06:54:25.524Z",
+    "hash": "19f3cd1b989a4c56"
   }
 }

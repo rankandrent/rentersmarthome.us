@@ -2,6 +2,7 @@
   "_note": "Every blog URL that has gone live. scripts/redirects.mjs adds new ones on each build; a URL whose post is gone needs a redirect in data/redirects.json.",
   "urls": [
     "/blog/alexa-vs-google-home/",
+    "/blog/best-air-purifier-for-apartment-renters/",
     "/blog/best-apartment-intercom-buzzer-alternative/",
     "/blog/best-cat-tree-for-small-apartment/",
     "/blog/best-dehumidifier-for-small-apartment/",

@@ -78,6 +78,10 @@ sources:
   - title: Camera in gemeenschappelijke ruimte door huurder (r/thenetherlands)
     url: >-
       https://www.reddit.com/r/thenetherlands/comments/ooymt5/camera_in_gemeenschappelijke_ruimte_door_huurder/
+  - title: Ring Protect plans (Ring)
+    url: 'https://ring.com/plans'
+  - title: Set up security cameras in Home on iPhone (Apple Support)
+    url: 'https://support.apple.com/guide/iphone/set-up-security-cameras-iph7bc5df9d9/ios'
 reviewedDate: '2026-10-20'
 faqs:
   - q: Werkt Ring met Apple HomeKit?
@@ -119,6 +123,35 @@ faqs:
       huurcontract en vraag je verhuurder schriftelijk om toestemming voordat je
       een deurbelcamera ophangt.
 author: editorial-team
+illustrations:
+  - prompt: >-
+      A small single-board computer in a clear case and a compact white network
+      box sitting on a bookshelf next to a home router in a rental apartment,
+      tidy cables, a potted plant and paperback books nearby, soft afternoon
+      daylight, realistic photo
+    alt: >-
+      Kleine computer die altijd aan staat als bridge naast de router op een boekenplank
+    afterHeading: 2
+  - prompt: >-
+      A person holding a smartphone in a bright apartment kitchen, the screen
+      showing a blurred live video feed of a front door hallway, a small round
+      smart speaker on the counter beside a coffee mug, morning light through
+      the window, realistic photo, face not visible
+    alt: >-
+      Huurder bekijkt het live beeld van de deurbelcamera op de telefoon in de keuken
+    afterHeading: 3
+  - prompt: >-
+      A renter reading a printed lease agreement at a dining table, a
+      battery-powered video doorbell and an adhesive mounting plate lying
+      unopened beside the papers, an apartment front door with a peephole
+      visible in the background, natural daylight, realistic photo, face not
+      visible
+    alt: >-
+      Huurder leest het huurcontract voordat hij een videodeurbel ophangt
+    afterHeading: 5
+videos:
+  - id: mK8Wvv9aALs
+    afterHeading: 4
 heroImage: /images/featured/does-ring-work-with-apple-homekit.png
 heroAlt: >-
   Werkt Ring met Apple HomeKit? 3 bridges en een huurderscheck (2026) –
@@ -173,7 +206,7 @@ De bronnen beschrijven live beeld en momentopnamen in de Woning-app, meldingen b
 
 ### Wat in de Ring-app blijft (opnamen, instellingen, Ring Protect)
 
-Een bridge zet de opnamen van Ring Protect niet over naar Apple Woning, volgens [AddToHomeKit](https://www.addtohomekit.com/blog/ring-homekit/). Ring Protect is het betaalde cloudabonnement van Ring, en SafeHome.org noemt het een maandelijks bedrag. Wil je daarnaast HomeKit Secure Video via Scrypted, dan heb je een iCloud+-abonnement nodig, en betaal je dus voor twee clouds om opnamen in beide apps te hebben. Wij denken dat de meeste huurders beter één kant kiezen: Ring Protect houden en Apple Woning alleen gebruiken voor meldingen en Siri, of helemaal voor HKSV gaan.
+Een bridge zet de opnamen van Ring Protect niet over naar Apple Woning, volgens [AddToHomeKit](https://www.addtohomekit.com/blog/ring-homekit/). Ring Protect is het betaalde cloudabonnement van Ring; volgens de Amerikaanse abonnementspagina van Ring worden bewegingsvideo's [tot 180 dagen](https://ring.com/plans) in de cloud bewaard (functies kunnen per land verschillen). Wil je daarnaast HomeKit Secure Video via Scrypted, dan heb je een iCloud+-abonnement nodig: volgens Apple zie je daarmee [de activiteit van de laatste 10 dagen, en ondersteunt het 200-GB-abonnement tot vijf camera's](https://support.apple.com/guide/iphone/set-up-security-cameras-iph7bc5df9d9/ios). Je betaalt dus voor twee clouds om opnamen in beide apps te hebben. Wij denken dat de meeste huurders beter één kant kiezen: Ring Protect houden en Apple Woning alleen gebruiken voor meldingen en Siri, of helemaal voor HKSV gaan.
 
 ### HomePod of Apple TV als woninghub
 
@@ -189,6 +222,8 @@ Een HomePod of Apple TV is de woninghub van Apple Woning, en die heb je nodig vo
 4. Herstart Homebridge zodat de Ring-apparaten laden.
 5. Tik in de Woning-app op Voeg accessoire toe en scan de QR-code die Homebridge toont.
 6. Wijs ruimtes toe, zet deurbelmeldingen aan en bouw automatiseringen op je HomePod of Apple TV als woninghub.
+
+Wil je de installatie eerst zien, dan loopt de video hieronder de Homebridge-route door, van de Ring-app tot Apple Woning.
 
 Wij behandelen die refresh token als een wachtwoord. Wie bij je bridge kan, heeft toegang tot je Ring, en dat telt in een gedeelde woning.
 
@@ -234,7 +269,7 @@ Herstart in deze volgorde: de woninghub van Apple (HomePod of Apple TV), daarna 
 
 ### Abonnement en privacy tegen elkaar afwegen
 
-Maandelijkse camerakosten zijn een terugkerende ergernis in draadjes op r/homeowners en r/homeautomation, en één eigenaar merkt op dat je bij sommige camera's geen abonnement nodig hebt: ["Subscription not required to record to SD card and view via your cell phone."](https://www.reddit.com/r/homeowners/comments/1ot0xm0/home_security_cameras_without_monthly_payment/) Een Ring via een bridge blijft afhankelijk van de cloud van Ring. Vind je lokale opslag belangrijker dan HomeKit, kijk dan naar onze [videodeurbellen zonder abonnement voor huurders](/nl/blog/videodeurbel-zonder-abonnement-voor-huurders/).
+Maandelijkse camerakosten zijn een terugkerende ergernis in draadjes op r/homeowners en r/homeautomation, en één eigenaar merkt op dat je bij sommige camera's geen abonnement nodig hebt: ["Subscription not required to record to SD card and view via your cell phone."](https://www.reddit.com/r/homeowners/comments/1ot0xm0/home_security_cameras_without_monthly_payment/) Een Ring via een bridge blijft afhankelijk van de cloud van Ring, en volgens Ring start de [gratis proefperiode van 30 dagen voor Ring Protect](https://ring.com/plans) bij het instellen van het apparaat; daarna betaal je voor video-opnamen. Vind je lokale opslag belangrijker dan HomeKit, kijk dan naar onze [videodeurbellen zonder abonnement voor huurders](/nl/blog/videodeurbel-zonder-abonnement-voor-huurders/).
 
 ### Welke Apple- of Matter-claims je kunt negeren
 

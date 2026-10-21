@@ -59,6 +59,10 @@ sources:
   - title: Does Ring work with Apple HomeKit? Top 3 methods (Wasserstein Home)
     url: >-
       https://wasserstein-home.com/blogs/smart-home/does-ring-work-with-apple-homekit-top-3-methods
+  - title: Ring Protect plans (Ring)
+    url: 'https://ring.com/plans'
+  - title: Set up security cameras in Home on iPhone (Apple Support)
+    url: 'https://support.apple.com/guide/iphone/set-up-security-cameras-iph7bc5df9d9/ios'
 reviewedDate: '2026-10-20'
 faqs:
   - q: Does Ring work with Apple HomeKit?
@@ -98,6 +102,35 @@ faqs:
       Aqara G4 in a rental. Check your lease and ask your landlord in writing
       before mounting any doorbell camera.
 author: editorial-team
+illustrations:
+  - prompt: >-
+      A small single-board computer in a clear case and a compact white network
+      box sitting on a bookshelf next to a home router in a rental apartment,
+      tidy cables, a potted plant and paperback books nearby, soft afternoon
+      daylight, realistic photo
+    alt: >-
+      Small always-on bridge computer next to a router on an apartment shelf
+    afterHeading: 2
+  - prompt: >-
+      A person holding a smartphone in a bright apartment kitchen, the screen
+      showing a blurred live video feed of a front door hallway, a small round
+      smart speaker on the counter beside a coffee mug, morning light through
+      the window, realistic photo, face not visible
+    alt: >-
+      Renter checking a doorbell camera live view on a phone in the kitchen
+    afterHeading: 3
+  - prompt: >-
+      A renter reading a printed lease agreement at a dining table, a
+      battery-powered video doorbell and an adhesive mounting plate lying
+      unopened beside the papers, an apartment front door with a peephole
+      visible in the background, natural daylight, realistic photo, face not
+      visible
+    alt: >-
+      Renter reviewing a lease before mounting a video doorbell on the door
+    afterHeading: 5
+videos:
+  - id: mK8Wvv9aALs
+    afterHeading: 4
 heroImage: /images/featured/does-ring-work-with-apple-homekit.png
 heroAlt: >-
   Does Ring Work With Apple HomeKit? 3 Bridges and a Renter Check (2026) –
@@ -153,7 +186,7 @@ The sources describe live view and snapshots in the Home app, motion and doorbel
 
 ### What stays in the Ring app (recordings, settings, Ring Protect)
 
-A bridge does not move Ring Protect recordings into Apple Home, per [AddToHomeKit](https://www.addtohomekit.com/blog/ring-homekit/). Ring Protect is Ring's paid cloud plan, and SafeHome.org lists it as a monthly fee. If you also want HomeKit Secure Video through Scrypted, that needs an iCloud+ plan, so you pay for two clouds to have recordings in both apps. We think most renters should pick one: keep Ring Protect and use Apple Home only for alerts and Siri, or go all-in on HKSV.
+A bridge does not move Ring Protect recordings into Apple Home, per [AddToHomeKit](https://www.addtohomekit.com/blog/ring-homekit/). Ring Protect is Ring's paid cloud plan; Ring's plans page says it stores motion event videos in the cloud for [up to 180 days](https://ring.com/plans). If you also want HomeKit Secure Video through Scrypted, that needs an iCloud+ plan: Apple says iCloud+ lets you [view the last 10 days of activity, and the 200 GB plan supports up to five cameras](https://support.apple.com/guide/iphone/set-up-security-cameras-iph7bc5df9d9/ios). So you pay for two clouds to have recordings in both apps. We think most renters should pick one: keep Ring Protect and use Apple Home only for alerts and Siri, or go all-in on HKSV.
 
 ### HomePod or Apple TV as the hub
 
@@ -169,6 +202,8 @@ A HomePod or Apple TV acts as the Apple Home hub, and you need one for remote ac
 4. Restart Homebridge so Ring devices load.
 5. In the Apple Home app, tap Add Accessory and scan the QR code that Homebridge shows.
 6. Assign rooms, turn on doorbell notifications, and build automations on your HomePod or Apple TV hub.
+
+If you'd rather watch the setup first, the video below walks through the Homebridge route from the Ring app to Apple Home.
 
 We treat the refresh token like a password. Anyone with your bridge has your Ring access, which matters in a shared apartment.
 
@@ -214,7 +249,7 @@ Restart in order: the Apple home hub (HomePod or Apple TV), then the bridge, the
 
 ### Subscription and privacy trade-offs
 
-Monthly camera fees are a recurring gripe in r/homeowners and r/homeautomation threads, and one owner notes that with some cameras a ["Subscription not required to record to SD card and view via your cell phone."](https://www.reddit.com/r/homeowners/comments/1ot0xm0/home_security_cameras_without_monthly_payment/) Bridged Ring still depends on Ring's cloud. If local storage matters more than HomeKit, see our [video doorbells without a subscription for renters](/blog/best-video-doorbell-without-subscription-for-renters/).
+Monthly camera fees are a recurring gripe in r/homeowners and r/homeautomation threads, and one owner notes that with some cameras a ["Subscription not required to record to SD card and view via your cell phone."](https://www.reddit.com/r/homeowners/comments/1ot0xm0/home_security_cameras_without_monthly_payment/) Bridged Ring still depends on Ring's cloud, and Ring says its [free 30-day trial of Ring Protect](https://ring.com/plans) starts when you set up the device, so plan to pay for video recording after that. If local storage matters more than HomeKit, see our [video doorbells without a subscription for renters](/blog/best-video-doorbell-without-subscription-for-renters/).
 
 ### Which Apple or Matter claims to ignore
 

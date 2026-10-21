@@ -77,6 +77,10 @@ sources:
   - title: Nachbar hat Kamera im Hausflur installiert (r/LegaladviceGerman)
     url: >-
       https://www.reddit.com/r/LegaladviceGerman/comments/1f7bsw4/nachbar_ist_laut_und_hat_kamera_im_hausflur/
+  - title: Ring Protect plans (Ring)
+    url: 'https://ring.com/plans'
+  - title: Set up security cameras in Home on iPhone (Apple Support)
+    url: 'https://support.apple.com/guide/iphone/set-up-security-cameras-iph7bc5df9d9/ios'
 reviewedDate: '2026-10-20'
 faqs:
   - q: Funktioniert Ring mit Apple HomeKit?
@@ -118,6 +122,35 @@ faqs:
       Vermieter vorher schriftlich und richte die Kamera so aus, dass sie nicht
       den Hausflur oder die Türen der Nachbarn erfasst.
 author: editorial-team
+illustrations:
+  - prompt: >-
+      A small single-board computer in a clear case and a compact white network
+      box sitting on a bookshelf next to a home router in a rental apartment,
+      tidy cables, a potted plant and paperback books nearby, soft afternoon
+      daylight, realistic photo
+    alt: >-
+      Kleiner Dauerläufer-Computer als Bridge neben dem Router im Wohnungsregal
+    afterHeading: 2
+  - prompt: >-
+      A person holding a smartphone in a bright apartment kitchen, the screen
+      showing a blurred live video feed of a front door hallway, a small round
+      smart speaker on the counter beside a coffee mug, morning light through
+      the window, realistic photo, face not visible
+    alt: >-
+      Mieterin prüft das Live-Bild der Türklingelkamera auf dem Handy in der Küche
+    afterHeading: 3
+  - prompt: >-
+      A renter reading a printed lease agreement at a dining table, a
+      battery-powered video doorbell and an adhesive mounting plate lying
+      unopened beside the papers, an apartment front door with a peephole
+      visible in the background, natural daylight, realistic photo, face not
+      visible
+    alt: >-
+      Mieter liest den Mietvertrag, bevor er eine Video-Türklingel montiert
+    afterHeading: 5
+videos:
+  - id: mK8Wvv9aALs
+    afterHeading: 4
 heroImage: /images/featured/does-ring-work-with-apple-homekit.png
 heroAlt: >-
   Ring HomeKit – geht das? 3 Bridges und ein Mieter-Check (2026) –
@@ -172,7 +205,7 @@ Die Quellen beschreiben Live-Bild und Schnappschüsse in der Home-App, Mitteilun
 
 ### Was in der Ring-App bleibt (Aufnahmen, Einstellungen, Ring Protect)
 
-Eine Bridge holt Ring Protect-Aufnahmen nicht in Apple Home, so [AddToHomeKit](https://www.addtohomekit.com/blog/ring-homekit/). Ring Protect ist das kostenpflichtige Cloud-Abo von Ring, und SafeHome.org führt dafür eine monatliche Gebühr auf. Willst du zusätzlich HomeKit Secure Video über Scrypted, brauchst du ein iCloud+-Abo, zahlst also für zwei Clouds, um Aufnahmen in beiden Apps zu haben. Wir meinen, die meisten Mieter sollten sich für eine entscheiden: Ring Protect behalten und Apple Home nur für Mitteilungen und Siri nutzen, oder ganz auf HKSV setzen.
+Eine Bridge holt Ring Protect-Aufnahmen nicht in Apple Home, so [AddToHomeKit](https://www.addtohomekit.com/blog/ring-homekit/). Ring Protect ist das kostenpflichtige Cloud-Abo von Ring; laut Rings US-Abo-Seite werden Bewegungsvideos [bis zu 180 Tage](https://ring.com/plans) in der Cloud gespeichert (die Funktionen können je nach Land abweichen). Willst du zusätzlich HomeKit Secure Video über Scrypted, brauchst du ein iCloud+-Abo: Laut Apple siehst du damit [die Aktivität der letzten 10 Tage, und das 200-GB-Abo unterstützt bis zu fünf Kameras](https://support.apple.com/guide/iphone/set-up-security-cameras-iph7bc5df9d9/ios). Du zahlst also für zwei Clouds, um Aufnahmen in beiden Apps zu haben. Wir meinen, die meisten Mieter sollten sich für eine entscheiden: Ring Protect behalten und Apple Home nur für Mitteilungen und Siri nutzen, oder ganz auf HKSV setzen.
 
 ### HomePod oder Apple TV als Steuerzentrale
 
@@ -188,6 +221,8 @@ Ein HomePod oder ein Apple TV dient als Steuerzentrale von Apple Home, und eine 
 4. Starte Homebridge neu, damit die Ring-Geräte geladen werden.
 5. Tippe in der Apple-Home-App auf "Gerät hinzufügen" und scanne den QR-Code, den Homebridge anzeigt.
 6. Weise Räume zu, schalte die Klingel-Mitteilungen ein und lege Automationen über deinen HomePod oder dein Apple TV an.
+
+Wenn du die Einrichtung lieber erst ansehen willst, zeigt das Video unten den Homebridge-Weg von der Ring-App bis in Apple Home.
 
 Wir behandeln das Refresh-Token wie ein Passwort. Wer Zugriff auf deine Bridge hat, hat auch Zugriff auf dein Ring-Konto, und das zählt in einer WG.
 
@@ -237,7 +272,7 @@ Starte in dieser Reihenfolge neu: zuerst die Apple-Steuerzentrale (HomePod oder 
 
 ### Abo und Privatsphäre gegeneinander abwägen
 
-Monatliche Kameragebühren sind ein Dauerthema in Threads auf r/homeowners und r/homeautomation, und ein Besitzer merkt an, dass bei manchen Kameras gilt: ["Subscription not required to record to SD card and view via your cell phone."](https://www.reddit.com/r/homeowners/comments/1ot0xm0/home_security_cameras_without_monthly_payment/) Ring bleibt auch mit Bridge von der Ring-Cloud abhängig. Wenn dir lokale Speicherung wichtiger ist als HomeKit, schau in unseren Ratgeber zur [Video-Türklingel ohne Abo für Mieter](/de/blog/video-tuerklingel-ohne-abo-fuer-mieter/).
+Monatliche Kameragebühren sind ein Dauerthema in Threads auf r/homeowners und r/homeautomation, und ein Besitzer merkt an, dass bei manchen Kameras gilt: ["Subscription not required to record to SD card and view via your cell phone."](https://www.reddit.com/r/homeowners/comments/1ot0xm0/home_security_cameras_without_monthly_payment/) Ring bleibt auch mit Bridge von der Ring-Cloud abhängig, und laut Ring startet die [kostenlose 30-Tage-Testphase von Ring Protect](https://ring.com/plans) bei der Einrichtung des Geräts; danach zahlst du für Videoaufnahmen. Wenn dir lokale Speicherung wichtiger ist als HomeKit, schau in unseren Ratgeber zur [Video-Türklingel ohne Abo für Mieter](/de/blog/video-tuerklingel-ohne-abo-fuer-mieter/).
 
 ### Welche Apple- oder Matter-Versprechen du ignorieren kannst
 

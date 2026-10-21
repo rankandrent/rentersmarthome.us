@@ -1,18 +1,17 @@
 {
   "slug": "zigbee-vs-thread",
   "pass": true,
-  "checkedAt": "2026-10-20T13:30:06.206Z",
+  "checkedAt": "2026-10-21T06:54:26.098Z",
   "errors": [],
   "warnings": [
-    "source didn't respond normally (403): https://www.the-ambient.com/reviews/amazon-echo-hub-review/",
-    "source didn't respond normally (403): https://www.reddit.com/r/homeassistant/comments/1lx5r87/zigbee_vs_thread_matter_for_new_house/",
-    "source didn't respond normally (403): https://www.reddit.com/r/homeassistant/comments/ubm53z/move_from_one_zigbee_coordinator_to_another/",
-    "source didn't respond normally (403): https://www.reddit.com/r/HomeKit/comments/1j8pf7q/thread_devices_keep_going_out/"
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Opened Matter Alpha border-router list (HomePod mini, Echo Hub, Aqara Hub M3 listed), Aqara M3 spec (Zigbee/Thread IEEE 802.15.4), Matter Alpha M3 review (bridges Aqara Zigbee plus limited other brands), The Ambient Echo Hub review (Zigbee + Thread border router), HA forum and Aqara forum threads (softened to what posters say). Reddit quotes checked via exact-phrase firecrawl_search site:reddit.com: ubm53z, 16iz7r7, vz6da4, 1j8pf7q, 1ra5g8h, 1dgisga, 1lx5r87 (coordinators flashed to zigbee or thread), 1k5u0k6, 1phih9d, 1l8ukfl; two unverifiable quotes removed. Softened 'Thread often needs no new hub'; articleType how-to; trimmed for length.",
-    "at": "2026-10-20T13:19:16.620Z",
-    "hash": "df73f6ef339a2e50"
+    "notes": "Media backfill, verified via Firecrawl: Silicon Labs Zigbee Fundamentals overview says the 2.4 GHz band supports a radio data rate of 250 kbps (https://docs.silabs.com/zigbee/8.2.3/zigbee-fundamentals/01-overview). Thread Group smart home page: connect more than 250 devices into a low-power wireless mesh network (https://threadgroup.org/BUILT-FOR-IOT/Smart-Home). Video 3h-uVVwXYcY (myHomeKithome, Zigbee vs. Thread). 3 illustrations after H2 2,3,4. Trimmed three filler phrases; other claims unchanged from previous fact check.",
+    "at": "2026-10-21T06:54:25.046Z",
+    "hash": "ba53e8c0c6f63575"
   }
 }

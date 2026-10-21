@@ -79,6 +79,10 @@ sources:
       https://ciudadycomunidad.cafmadrid.es/el-supremo-confirma-que-una-mirilla-electronica-vulnera-la-intimidad-de-los-vecinos/
   - title: Mirilla con cámara digital y protección de datos (Ayuda Ley Protección Datos)
     url: 'https://ayudaleyprotecciondatos.es/2019/03/04/mirilla-camara-digital/'
+  - title: Ring Protect plans (Ring)
+    url: 'https://ring.com/plans'
+  - title: Set up security cameras in Home on iPhone (Apple Support)
+    url: 'https://support.apple.com/guide/iphone/set-up-security-cameras-iph7bc5df9d9/ios'
 reviewedDate: '2026-10-20'
 faqs:
   - q: ¿Ring es compatible con HomeKit de Apple?
@@ -121,6 +125,35 @@ faqs:
       permiso a tu casero por escrito antes de instalar cualquier timbre con
       cámara.
 author: editorial-team
+illustrations:
+  - prompt: >-
+      A small single-board computer in a clear case and a compact white network
+      box sitting on a bookshelf next to a home router in a rental apartment,
+      tidy cables, a potted plant and paperback books nearby, soft afternoon
+      daylight, realistic photo
+    alt: >-
+      Pequeño ordenador siempre encendido que hace de puente junto al router en una estantería
+    afterHeading: 2
+  - prompt: >-
+      A person holding a smartphone in a bright apartment kitchen, the screen
+      showing a blurred live video feed of a front door hallway, a small round
+      smart speaker on the counter beside a coffee mug, morning light through
+      the window, realistic photo, face not visible
+    alt: >-
+      Inquilina mira el vídeo en directo del timbre con cámara en el móvil en la cocina
+    afterHeading: 3
+  - prompt: >-
+      A renter reading a printed lease agreement at a dining table, a
+      battery-powered video doorbell and an adhesive mounting plate lying
+      unopened beside the papers, an apartment front door with a peephole
+      visible in the background, natural daylight, realistic photo, face not
+      visible
+    alt: >-
+      Inquilino lee el contrato de alquiler antes de montar un timbre con cámara
+    afterHeading: 5
+videos:
+  - id: mK8Wvv9aALs
+    afterHeading: 4
 heroImage: /images/featured/does-ring-work-with-apple-homekit.png
 heroAlt: >-
   ¿Es Ring compatible con HomeKit? 3 puentes y qué revisar si alquilas –
@@ -175,7 +208,7 @@ Las fuentes describen vídeo en directo e instantáneas en la app Casa, notifica
 
 ### Lo que se queda en la app de Ring (grabaciones, ajustes, Ring Protect)
 
-Un puente no lleva las grabaciones de Ring Protect a la app Casa, según [AddToHomeKit](https://www.addtohomekit.com/blog/ring-homekit/). Ring Protect es el plan de nube de pago de Ring, y SafeHome.org lo describe como una cuota mensual. Si además quieres HomeKit Secure Video con Scrypted, necesitas un plan de iCloud+, así que pagarías dos nubes para tener grabaciones en las dos apps. Creemos que la mayoría de inquilinos debería elegir una: quedarse con Ring Protect y usar la app Casa solo para avisos y Siri, o apostar del todo por HKSV.
+Un puente no lleva las grabaciones de Ring Protect a la app Casa, según [AddToHomeKit](https://www.addtohomekit.com/blog/ring-homekit/). Ring Protect es el plan de nube de pago de Ring; según su página de planes de EE. UU., los vídeos de movimiento se guardan en la nube [hasta 180 días](https://ring.com/plans) (las funciones pueden variar según el país). Si además quieres HomeKit Secure Video con Scrypted, necesitas un plan de iCloud+: según Apple, con él ves [la actividad de los últimos 10 días, y el plan de 200 GB admite hasta cinco cámaras](https://support.apple.com/guide/iphone/set-up-security-cameras-iph7bc5df9d9/ios). Así que pagarías dos nubes para tener grabaciones en las dos apps. Creemos que la mayoría de inquilinos debería elegir una: quedarse con Ring Protect y usar la app Casa solo para avisos y Siri, o apostar del todo por HKSV.
 
 ### HomePod o Apple TV como concentrador
 
@@ -191,6 +224,8 @@ Un HomePod o un Apple TV hace de concentrador de la app Casa, y lo necesitas par
 4. Reinicia Homebridge para que se carguen los dispositivos Ring.
 5. En la app Casa de Apple, toca Añadir accesorio y escanea el código QR que muestra Homebridge.
 6. Asigna las habitaciones, activa las notificaciones del timbre y crea automatizaciones en tu HomePod o Apple TV.
+
+Si prefieres ver la configuración antes, el vídeo de abajo recorre la vía de Homebridge desde la app de Ring hasta la app Casa.
 
 Nosotros tratamos el token de actualización como una contraseña. Quien tenga acceso a tu puente tiene acceso a tu Ring, y eso importa en un piso compartido.
 
@@ -245,7 +280,7 @@ Reinicia por este orden: el concentrador de Apple (HomePod o Apple TV), después
 
 ### Cuotas y privacidad
 
-Las cuotas mensuales de las cámaras son una queja habitual en hilos de r/homeowners y r/homeautomation, y un usuario señala que con algunas cámaras no hace falta suscripción para grabar en tarjeta SD y verlas desde el móvil (["Subscription not required to record to SD card and view via your cell phone."](https://www.reddit.com/r/homeowners/comments/1ot0xm0/home_security_cameras_without_monthly_payment/)). Ring con puente sigue dependiendo de la nube de Ring. Si te importa más el almacenamiento local que HomeKit, mira nuestra selección de [timbres con cámara sin suscripción para inquilinos](/es/blog/timbre-con-camara-sin-suscripcion-para-inquilinos/).
+Las cuotas mensuales de las cámaras son una queja habitual en hilos de r/homeowners y r/homeautomation, y un usuario señala que con algunas cámaras no hace falta suscripción para grabar en tarjeta SD y verlas desde el móvil (["Subscription not required to record to SD card and view via your cell phone."](https://www.reddit.com/r/homeowners/comments/1ot0xm0/home_security_cameras_without_monthly_payment/)). Ring con puente sigue dependiendo de la nube de Ring, y según Ring la [prueba gratuita de 30 días de Ring Protect](https://ring.com/plans) empieza al configurar el dispositivo; después, grabar vídeo es de pago. Si te importa más el almacenamiento local que HomeKit, mira nuestra selección de [timbres con cámara sin suscripción para inquilinos](/es/blog/timbre-con-camara-sin-suscripcion-para-inquilinos/).
 
 ### Qué afirmaciones sobre Apple o Matter ignorar
 
