@@ -148,8 +148,16 @@ illustrations:
 videos:
   - id: hqDkuOZGSdI
     afterHeading: 1
+    title: >-
+      Thread vs Matter Explained: The Future of Smart Homes (Finally Made
+      Simple!)
+    channel: Speak to the Geek
+    checked: '2026-10-21'
   - id: ltf25fzyS0o
     afterHeading: 2
+    title: Choose wisely! Matter over Thread vs Wi-Fi
+    channel: Eric Welander
+    checked: '2026-10-21'
 heroImage: /images/featured/matter-vs-thread.png
 heroAlt: >-
   Matter vs Thread for Renters – What Each Does and What to Buy First –
