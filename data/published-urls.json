@@ -2,6 +2,7 @@
   "_note": "Every blog URL that has gone live. scripts/redirects.mjs adds new ones on each build; a URL whose post is gone needs a redirect in data/redirects.json.",
   "urls": [
     "/blog/alexa-vs-google-home/",
+    "/blog/apple-homekit-compatible-devices/",
     "/blog/best-air-purifier-for-apartment-renters/",
     "/blog/best-apartment-intercom-buzzer-alternative/",
     "/blog/best-cat-tree-for-small-apartment/",
@@ -24,6 +25,7 @@
     "/blog/best-water-leak-sensor-for-renters/",
     "/blog/best-wireless-security-cameras-for-apartments/",
     "/blog/blink-vs-ring-subscription/",
+    "/blog/can-a-landlord-put-cameras-outside-the-house/",
     "/blog/does-ring-work-with-apple-homekit/",
     "/blog/door-camera-for-apartment/",
     "/blog/eufy-vs-wyze-video-doorbell-for-renters/",
@@ -31,6 +33,7 @@
     "/blog/how-to-baby-proof-a-rental-without-damage/",
     "/blog/how-to-cool-apartment-without-ac/",
     "/blog/how-to-secure-sliding-glass-door-in-rental/",
+    "/blog/lazy-susan-child-lock/",
     "/blog/locked-out-of-apartment/",
     "/blog/no-drill-motorized-blinds/",
     "/blog/philips-hue-vs-wiz/",
