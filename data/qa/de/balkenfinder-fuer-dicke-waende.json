@@ -3,9 +3,10 @@
   "lang": "de",
   "translationOf": "best-stud-finder-for-thick-walls",
   "pass": true,
-  "checkedAt": "2026-10-19T13:43:38.124Z",
+  "checkedAt": "2026-10-21T10:19:54.239Z",
   "errors": [],
   "warnings": [
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
     "source didn't respond normally (403): https://www.supplyhouse.com/Zircon-74239-StudSensor-Pro55-Stud-Finder",
     "source didn't respond normally (403): https://rona.ca/en/product/zircon-metalliscanner-m40-scan-depth-object-detection-finder-zir62518-331005146"
   ],

@@ -1,12 +1,10 @@
 {
   "slug": "alarm-system-for-apartment-renters",
   "pass": true,
-  "checkedAt": "2026-10-21T10:10:37.001Z",
+  "checkedAt": "2026-10-21T10:15:33.793Z",
   "errors": [],
   "warnings": [
-    "product \"Ring Alarm 8-piece kit (2nd Gen)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"SimpliSafe 8 Piece Wireless Home Security System\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Abode Smart Security Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "source didn't respond normally (no response): https://realestate.usnews.com/home-services/home-security-systems/best-home-security-systems-for-renters"
   ],
   "factCheck": {
     "verified": true,

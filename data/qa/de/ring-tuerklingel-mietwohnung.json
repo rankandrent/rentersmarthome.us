@@ -3,10 +3,11 @@
   "lang": "de",
   "translationOf": "ring-doorbell-in-apartment",
   "pass": true,
-  "checkedAt": "2026-10-20T13:31:42.897Z",
+  "checkedAt": "2026-10-21T10:21:27.949Z",
   "errors": [],
   "warnings": [
-    "not localized yet: run localizer-agent for ring-doorbell-in-apartment (data/briefs/de/ring-doorbell-in-apartment.local.json), then rewrite with translator-agent"
+    "not localized yet: run localizer-agent for ring-doorbell-in-apartment (data/briefs/de/ring-doorbell-in-apartment.local.json), then rewrite with translator-agent",
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,

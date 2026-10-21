@@ -1,9 +1,11 @@
 {
   "slug": "ring-doorbell-in-apartment",
   "pass": true,
-  "checkedAt": "2026-10-14T13:15:33.711Z",
+  "checkedAt": "2026-10-21T10:18:46.574Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "2026-10-14: Ring Peephole Cam replaces peephole, door thickness/peephole size limits, knock detection (Ring); Ring No-Drill Mount compatible with Battery Doorbell/Plus/Pro, smooth surfaces, avoid brick/shingles/stucco (ring.com regional pages); recordings need Ring Home. Dead TechHive source (410) removed.",

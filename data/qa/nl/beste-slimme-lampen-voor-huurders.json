@@ -3,10 +3,11 @@
   "lang": "nl",
   "translationOf": "best-smart-light-bulbs-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-20T13:36:07.312Z",
+  "checkedAt": "2026-10-21T10:25:23.125Z",
   "errors": [],
   "warnings": [
-    "not localized yet: run localizer-agent for best-smart-light-bulbs-for-renters (data/briefs/nl/best-smart-light-bulbs-for-renters.local.json), then rewrite with translator-agent"
+    "not localized yet: run localizer-agent for best-smart-light-bulbs-for-renters (data/briefs/nl/best-smart-light-bulbs-for-renters.local.json), then rewrite with translator-agent",
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,

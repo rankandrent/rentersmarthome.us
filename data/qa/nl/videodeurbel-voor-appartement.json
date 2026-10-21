@@ -3,10 +3,11 @@
   "lang": "nl",
   "translationOf": "door-camera-for-apartment",
   "pass": true,
-  "checkedAt": "2026-10-20T13:37:22.065Z",
+  "checkedAt": "2026-10-21T10:26:33.617Z",
   "errors": [],
   "warnings": [
     "not localized yet: run localizer-agent for door-camera-for-apartment (data/briefs/nl/door-camera-for-apartment.local.json), then rewrite with translator-agent",
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
     "LIVE POST, FIX: source returns 404: https://support.google.com/googlehome/answer/9259110?hl=en",
     "LIVE POST, FIX: source returns 404: https://support.google.com/googlehome/answer/11830989?hl=en"
   ],

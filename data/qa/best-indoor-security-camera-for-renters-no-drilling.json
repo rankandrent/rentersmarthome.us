@@ -1,10 +1,11 @@
 {
   "slug": "best-indoor-security-camera-for-renters-no-drilling",
   "pass": true,
-  "checkedAt": "2026-10-21T10:04:28.604Z",
+  "checkedAt": "2026-10-21T10:16:30.755Z",
   "errors": [],
   "warnings": [
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
+    "source didn't respond normally (no response): https://realestate.usnews.com/home-services/home-security-systems/best-home-security-systems-for-renters"
   ],
   "factCheck": {
     "verified": true,

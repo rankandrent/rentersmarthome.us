@@ -3,10 +3,11 @@
   "lang": "nl",
   "translationOf": "how-to-cool-apartment-without-ac",
   "pass": true,
-  "checkedAt": "2026-10-20T13:36:30.378Z",
+  "checkedAt": "2026-10-21T10:25:41.891Z",
   "errors": [],
   "warnings": [
-    "not localized yet: run localizer-agent for how-to-cool-apartment-without-ac (data/briefs/nl/how-to-cool-apartment-without-ac.local.json), then rewrite with translator-agent"
+    "not localized yet: run localizer-agent for how-to-cool-apartment-without-ac (data/briefs/nl/how-to-cool-apartment-without-ac.local.json), then rewrite with translator-agent",
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,

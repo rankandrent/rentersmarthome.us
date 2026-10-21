@@ -1,9 +1,10 @@
 {
   "slug": "best-voice-assistant-speaker-for-small-apartments",
   "pass": true,
-  "checkedAt": "2026-10-20T13:28:48.365Z",
+  "checkedAt": "2026-10-21T10:17:45.278Z",
   "errors": [],
   "warnings": [
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
     "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1847671-REG/amazon_b0bfc7wq6r_echo_spot_2024.html"
   ],
   "factCheck": {

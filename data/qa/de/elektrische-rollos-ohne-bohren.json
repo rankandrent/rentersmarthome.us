@@ -3,10 +3,11 @@
   "lang": "de",
   "translationOf": "no-drill-motorized-blinds",
   "pass": true,
-  "checkedAt": "2026-10-20T13:30:42.537Z",
+  "checkedAt": "2026-10-21T10:20:27.793Z",
   "errors": [],
   "warnings": [
-    "not localized yet: run localizer-agent for no-drill-motorized-blinds (data/briefs/de/no-drill-motorized-blinds.local.json), then rewrite with translator-agent"
+    "not localized yet: run localizer-agent for no-drill-motorized-blinds (data/briefs/de/no-drill-motorized-blinds.local.json), then rewrite with translator-agent",
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,

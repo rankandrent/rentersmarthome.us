@@ -1,12 +1,18 @@
 {
   "slug": "nest-thermostat-homekit",
-  "pass": true,
-  "checkedAt": "2026-10-21T10:10:43.384Z",
-  "errors": [],
+  "pass": false,
+  "checkedAt": "2026-10-21T10:18:30.024Z",
+  "errors": [
+    "source returns 404: https://support.google.com/googlehome/answer/13127223?hl=en",
+    "source returns 404: https://support.google.com/googlehome/answer/16233096?hl=en",
+    "source returns 404: https://support.google.com/googlehome/thread/429613486/support-changes-to-our-earliest-generation-nest-learning-thermostats?hl=en"
+  ],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://appleinsider.com/articles/24/08/27/nest-learning-thermostat-4th-gen-review-finally-works-for-apple-home-users",
+    "source didn't respond normally (403): https://forums.macrumors.com/threads/nest-thermostat-gaining-apple-homekit-support-starting-today-via-matter.2387119/"
   ],
   "factCheck": {
     "verified": true,

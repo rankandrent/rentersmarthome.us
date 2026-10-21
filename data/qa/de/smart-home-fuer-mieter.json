@@ -3,10 +3,11 @@
   "lang": "de",
   "translationOf": "smart-home-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-20T13:31:44.409Z",
+  "checkedAt": "2026-10-21T10:21:30.054Z",
   "errors": [],
   "warnings": [
-    "not localized yet: run localizer-agent for smart-home-for-renters (data/briefs/de/smart-home-for-renters.local.json), then rewrite with translator-agent"
+    "not localized yet: run localizer-agent for smart-home-for-renters (data/briefs/de/smart-home-for-renters.local.json), then rewrite with translator-agent",
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,

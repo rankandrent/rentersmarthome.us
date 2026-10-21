@@ -1,13 +1,10 @@
 {
   "slug": "apple-homekit-compatible-devices",
   "pass": true,
-  "checkedAt": "2026-10-21T10:07:06.030Z",
+  "checkedAt": "2026-10-21T10:15:38.313Z",
   "errors": [],
   "warnings": [
-    "product \"Apple HomePod mini 2\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Philips Hue White and Color Ambiance Starter Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Eve Energy (Matter)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Eve Motion (Matter)\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "source didn't respond normally (403): https://www.macobserver.com/tips/round-ups/homekit-compatible-devices/"
   ],
   "factCheck": {
     "verified": true,

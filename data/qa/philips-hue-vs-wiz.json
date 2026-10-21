@@ -1,9 +1,11 @@
 {
   "slug": "philips-hue-vs-wiz",
   "pass": true,
-  "checkedAt": "2026-10-19T19:22:24.885Z",
+  "checkedAt": "2026-10-21T10:18:40.835Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "2026-10-14: Signify owns Philips Hue and WiZ (acquired 2019); WiZ connects via Wi-Fi with no hub; Hue uses Zigbee via Hue Bridge or Bluetooth; Hue Bridge supports Matter via update, many WiZ products Matter-capable (TechRadar, Hueblog, matter-smarthome.de, HomeKit News).",

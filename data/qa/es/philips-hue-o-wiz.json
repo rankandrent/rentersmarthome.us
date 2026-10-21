@@ -3,10 +3,11 @@
   "lang": "es",
   "translationOf": "philips-hue-vs-wiz",
   "pass": true,
-  "checkedAt": "2026-10-20T13:34:21.457Z",
+  "checkedAt": "2026-10-21T10:23:53.644Z",
   "errors": [],
   "warnings": [
-    "not localized yet: run localizer-agent for philips-hue-vs-wiz (data/briefs/es/philips-hue-vs-wiz.local.json), then rewrite with translator-agent"
+    "not localized yet: run localizer-agent for philips-hue-vs-wiz (data/briefs/es/philips-hue-vs-wiz.local.json), then rewrite with translator-agent",
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,

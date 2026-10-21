@@ -1,12 +1,15 @@
 {
   "slug": "matter-vs-thread",
   "pass": true,
-  "checkedAt": "2026-10-21T10:03:44.561Z",
+  "checkedAt": "2026-10-21T10:18:27.739Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.reddit.com/r/HomeKit/comments/10sott0/please_explain_like_i_am_five_the_difference/",
+    "source didn't respond normally (403): https://www.reddit.com/r/HomeKit/comments/1j8pf7q/thread_devices_keep_going_out/",
+    "source didn't respond normally (403): https://www.reddit.com/r/alexa/comments/1dgisga/cant_add_any_matter_smart_home_products_to_alexa/"
   ],
   "factCheck": {
     "verified": true,

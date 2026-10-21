@@ -1,9 +1,10 @@
 {
   "slug": "how-to-secure-sliding-glass-door-in-rental",
   "pass": true,
-  "checkedAt": "2026-10-20T23:23:06.988Z",
+  "checkedAt": "2026-10-21T10:18:18.210Z",
   "errors": [],
   "warnings": [
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
     "source didn't respond normally (403): https://www.idealinc.com/en/patio-door-security-bar-with-anti-lift-lock",
     "source didn't respond normally (403): https://www.vivint.com/resources/article/how-to-secure-a-sliding-glass-door"
   ],

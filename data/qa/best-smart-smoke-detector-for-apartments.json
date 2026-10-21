@@ -1,10 +1,11 @@
 {
   "slug": "best-smart-smoke-detector-for-apartments",
   "pass": true,
-  "checkedAt": "2026-10-20T13:28:37.510Z",
+  "checkedAt": "2026-10-21T10:17:33.293Z",
   "errors": [],
   "warnings": [
-    "body has 1852 words, over the 1840 limit (top results average 1600): cut repetition and filler"
+    "body has 1852 words, over the 1840 limit (top results average 1600): cut repetition and filler",
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,

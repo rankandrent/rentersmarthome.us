@@ -1,13 +1,12 @@
 {
   "slug": "smart-home-starter-kit",
-  "pass": true,
-  "checkedAt": "2026-10-21T10:06:00.392Z",
-  "errors": [],
+  "pass": false,
+  "checkedAt": "2026-10-21T10:18:54.132Z",
+  "errors": [
+    "source returns 404: https://support.google.com/googlehome/answer/12391458?hl=en"
+  ],
   "warnings": [
-    "product \"Amazon Echo Dot (5th Gen)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Google Nest Hub (2nd Gen)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Philips Hue White and Color Ambiance Starter Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Lutron Caseta Smart Lamp Dimmer Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "source didn't respond normally (403): https://www.nytimes.com/wirecutter/blog/smart-home-starter-kit/"
   ],
   "factCheck": {
     "verified": true,

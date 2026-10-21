@@ -1,13 +1,14 @@
 {
   "slug": "smart-home-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-14T13:15:33.725Z",
+  "checkedAt": "2026-10-21T10:18:51.133Z",
   "errors": [],
   "warnings": [
     "product \"Kasa Smart Plug Mini with Matter (KP125M)\" has no \"### Kasa Smart Plug Mini with Matter (KP125M): ...\" section, so it gets a card instead",
     "product \"Philips Hue White and Color Ambiance Starter Kit\" has no \"### Philips Hue White and Color Ambiance Starter Kit: ...\" section, so it gets a card instead",
     "product \"SwitchBot Bot Smart Switch Button Pusher\" has no \"### SwitchBot Bot Smart Switch Button Pusher: ...\" section, so it gets a card instead",
     "product \"Sensibo Air\" has no \"### Sensibo Air: ...\" section, so it gets a card instead",
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
     "no semantic brief (data/briefs), SEO audit skipped"
   ],
   "factCheck": {

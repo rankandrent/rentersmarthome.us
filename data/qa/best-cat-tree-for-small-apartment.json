@@ -1,9 +1,10 @@
 {
   "slug": "best-cat-tree-for-small-apartment",
   "pass": true,
-  "checkedAt": "2026-10-19T13:40:48.091Z",
+  "checkedAt": "2026-10-21T10:15:54.472Z",
   "errors": [],
   "warnings": [
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
     "source didn't respond normally (403): https://www.nytimes.com/wirecutter/reviews/best-cat-trees/"
   ],
   "factCheck": {

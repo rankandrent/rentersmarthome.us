@@ -3,9 +3,10 @@
   "lang": "es",
   "translationOf": "best-magnetic-stud-finder",
   "pass": true,
-  "checkedAt": "2026-10-19T13:46:30.255Z",
+  "checkedAt": "2026-10-21T10:22:54.147Z",
   "errors": [],
   "warnings": [
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
     "source didn't respond normally (no response): https://www.tractorsupply.com/tsc/product/the-studbuddy-plus-magnetic-stud-finder-level-and-ruler-2408462"
   ],
   "factCheck": {

@@ -3,10 +3,11 @@
   "lang": "nl",
   "translationOf": "best-pressure-mounted-baby-gate-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-20T13:37:18.159Z",
+  "checkedAt": "2026-10-21T10:26:30.482Z",
   "errors": [],
   "warnings": [
-    "not localized yet: run localizer-agent for best-pressure-mounted-baby-gate-for-renters (data/briefs/nl/best-pressure-mounted-baby-gate-for-renters.local.json), then rewrite with translator-agent"
+    "not localized yet: run localizer-agent for best-pressure-mounted-baby-gate-for-renters (data/briefs/nl/best-pressure-mounted-baby-gate-for-renters.local.json), then rewrite with translator-agent",
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,

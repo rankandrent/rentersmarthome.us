@@ -3,10 +3,11 @@
   "lang": "de",
   "translationOf": "best-water-leak-sensor-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-20T13:30:40.280Z",
+  "checkedAt": "2026-10-21T10:20:25.518Z",
   "errors": [],
   "warnings": [
-    "not localized yet: run localizer-agent for best-water-leak-sensor-for-renters (data/briefs/de/best-water-leak-sensor-for-renters.local.json), then rewrite with translator-agent"
+    "not localized yet: run localizer-agent for best-water-leak-sensor-for-renters (data/briefs/de/best-water-leak-sensor-for-renters.local.json), then rewrite with translator-agent",
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,

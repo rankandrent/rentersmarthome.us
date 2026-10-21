@@ -115,6 +115,27 @@ products:
         - title: 'r/homeowners: Considering getting a Ring Alarm System'
           url: >-
             https://www.reddit.com/r/homeowners/comments/1fnlgzt/considering_getting_a_ring_alarm_system_would/
+    asin: B07ZPMCW64
+    image:
+      url: 'https://m.media-amazon.com/images/I/114OfUErNaL._SL500_.jpg'
+      width: 313
+      height: 500
+    amazonTitle: >-
+      Ring Alarm 8-piece kit (2nd Gen) - home security system with optional 24/7
+      professional monitoring
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41YM228wpoL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/31Kx7uQI0QL._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/31ZkJl6e96L._SL500_.jpg'
+        width: 313
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41SFN1Da8vL._SL500_.jpg'
+        width: 313
+        height: 500
   - name: SimpliSafe 8 Piece Wireless Home Security System
     brand: SimpliSafe
     query: SimpliSafe 8 Piece Wireless Home Security System
@@ -173,6 +194,28 @@ products:
         - title: 'r/homesecurity: Is SimpliSafe a con?'
           url: >-
             https://www.reddit.com/r/homesecurity/comments/qa6mz5/is_simplisafe_a_con/
+    asin: B07C38HT49
+    image:
+      url: 'https://m.media-amazon.com/images/I/315wDX96ibL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      SimpliSafe 8 Piece Wireless Home Security System - Optional 24/7
+      Professional Monitoring - No Contract - Compatible with Alexa and Google
+      Assistant , White
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/31uYDAYjyuL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51bNLmBHvjL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41g52TNCKVL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51y8ANyBoQL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Abode Smart Security Kit
     brand: Abode
     query: Abode Smart Security Kit 4 Piece Wireless Smart Security System
@@ -237,6 +280,28 @@ products:
         - title: 'r/Abode: For anyone considering Abode'
           url: >-
             https://www.reddit.com/r/Abode/comments/1gi2g47/for_anyone_considering_abode/
+    asin: B0793N1V54
+    image:
+      url: 'https://m.media-amazon.com/images/I/31OjGSvSG4L._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      Abode 4 Piece Wireless Smart Security System - Works with Apple HomeKit,
+      Z-Wave and Zigbee Devices - Expandable to Protect Your Whole Home - Easy
+      DIY Installation - Optional Professional Monitoring
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41tLH5CGuEL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51HhUFCOZgL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/517mdLYq-1L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/5110XhAV6rL._SL500_.jpg'
+        width: 500
+        height: 500
 videos:
   - id: dqBd64oIY5U
     afterHeading: 6
