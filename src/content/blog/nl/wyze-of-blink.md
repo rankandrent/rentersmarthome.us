@@ -508,7 +508,7 @@ Beide merken verkopen meer dan deze drie. Wyze maakt de Wyze Cam Floodlight v2 e
 
 **Bij Wyze of Blink lopen de kosten na de proefperiode uiteen: Wyze neemt gratis op naar een microSD-kaart, terwijl Blink een betaald abonnement of een Sync Module plus opslagmedium nodig heeft om iets te bewaren.** We noemen geen prijzen omdat abonnementen veranderen, dus open de abonnementspagina van elk merk voordat je koopt.
 
-Elke maand betalen alleen om je eigen beelden te zien, is een terugkerende klacht in draadjes op r/BuyItForLife en r/homeowners ([een voorbeeld, in het Engels](https://www.reddit.com/r/homeowners/comments/1ot0xm0/home_security_cameras_without_monthly_payment/)). Eén reactie daar vat de oplossing samen: "Geen abonnement nodig om op een SD-kaart op te nemen en via je telefoon te bekijken." Dat beschrijft precies de route van Wyze.
+Elke maand betalen alleen om je eigen beelden te zien, is een terugkerende klacht in draadjes op r/BuyItForLife en r/homeowners (een voorbeeld, in het Engels). Eén reactie daar vat de oplossing samen: "Geen abonnement nodig om op een SD-kaart op te nemen en via je telefoon te bekijken." Dat beschrijft precies de route van Wyze.
 
 ### Lokale opslag – microSD of Sync Module 2
 
@@ -561,7 +561,7 @@ De deurbel van Blink gebruikt drie niet-oplaadbare AA lithiumcellen en noemt tot
 
 ### Batterijverbruik bij kou
 
-Snel leeglopen en uitvallen bij kou is een terugkerende klacht over deurbellen op batterijen van elk merk, niet alleen van deze twee. Een eigenaar van Arlo schreef: "De eerste 24 uur na installatie liep de batterij terug van 99% naar 77%." ([Arlo-community, in het Engels](https://community.arlo.com/t5/Arlo-Video-Doorbell-Wire-Free/Poor-Battery-Life-new-Wire-Free-Doorbell/td-p/1804027)). Een beveiligingsbedrijf voegt toe: "Koud weer kan batterijen leegtrekken, lenzen laten beslaan en valse alarmen veroorzaken." ([CPI Security, in het Engels](https://cpisecurity.com/blog/how-cold-weather-affects-your-cpi-security-devices/)).
+Snel leeglopen en uitvallen bij kou is een terugkerende klacht over deurbellen op batterijen van elk merk, niet alleen van deze twee. Een eigenaar van Arlo schreef: "De eerste 24 uur na installatie liep de batterij terug van 99% naar 77%." (Arlo-community, in het Engels). Een beveiligingsbedrijf voegt toe: "Koud weer kan batterijen leegtrekken, lenzen laten beslaan en valse alarmen veroorzaken." (CPI Security, in het Engels).
 
 Onze oplossingen, op volgorde:
 
@@ -576,7 +576,7 @@ Onze oplossingen, op volgorde:
 
 ### Controleer je huurcontract voordat je een camera ophangt
 
-Of een verhuurder camera's of deurbellen kan verbieden, is een veelgestelde vraag in draadjes op r/Apartmentliving en r/LandlordLove. Eén reactie zegt het zonder omwegen: "Als er ergens staat dat camera's niet mogen, kan je verhuurder dat afdwingen voor zover de wet dat toestaat" ([r/LandlordLove, in het Engels](https://www.reddit.com/r/LandlordLove/comments/1ef2zou/can_landlord_say_we_cant_have_cameras/)). Het advies van een andere huurder: "Zorg dat het legaal is en niet is uitgesloten in je huurcontract." ([r/Apartmentliving, in het Engels](https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/)).
+Of een verhuurder camera's of deurbellen kan verbieden, is een veelgestelde vraag in draadjes op r/Apartmentliving en r/LandlordLove. Eén reactie zegt het zonder omwegen: "Als er ergens staat dat camera's niet mogen, kan je verhuurder dat afdwingen voor zover de wet dat toestaat" (r/LandlordLove, in het Engels). Het advies van een andere huurder: "Zorg dat het legaal is en niet is uitgesloten in je huurcontract." (r/Apartmentliving, in het Engels).
 
 We kunnen geen juridisch advies geven, en de regels voor camera's en geluidsopnames verschillen per plaats. Zoek in je huurcontract naar woorden als "camera", "opname", "veranderingen" en "buitenkant", en controleer daarna welke regels gelden waar je woont. Vraag voor alles aan de deur of in de gang schriftelijk om toestemming. Een korte e-mail is genoeg:
 
@@ -584,7 +584,7 @@ We kunnen geen juridisch advies geven, en de regels voor camera's en geluidsopna
 
 ### Montage zonder boren voor deuren en planken
 
-Dat je niet in de deur of de buitenmuur mag boren, is in draadjes van huurders het meest voorkomende obstakel voor een deurbel. Een eigenaar van Ring vertelde dat hij een beugel koos met "geen boren nodig, en dat moet bij mijn appartement omdat ze niet toestaan dat je naar buiten boort" ([r/Ring, in het Engels](https://www.reddit.com/r/Ring/comments/184g6hd/what_are_your_thoughts_on_putting_up_a_ring/)). De deurbel van Blink wordt geleverd met schroeven, ringen en beugels en zonder plakbevestiging, dus de nette oplossing is schriftelijke toestemming of de deurbel overslaan. Onze gids over een [Ring-deurbel in een appartement zonder boren](/nl/blog/ring-deurbel-appartement/) geeft ideeën voor montage zonder boren, en wil je een camera aan de deur zonder schroeven, dan is een ander producttype, de deurspioncamera, nog een route (geen van de drie producten hier is er een); zie onze [gids voor deurspioncamera's zonder boren](/nl/blog/beste-deurspion-camera-voor-appartementen/). Het simpelste antwoord: een Cam v4 of Mini 2K+ op een plank, gericht op de binnenkant van je deur, waarvoor je geen toestemming voor gaten nodig hebt.
+Dat je niet in de deur of de buitenmuur mag boren, is in draadjes van huurders het meest voorkomende obstakel voor een deurbel. Een eigenaar van Ring vertelde dat hij een beugel koos met "geen boren nodig, en dat moet bij mijn appartement omdat ze niet toestaan dat je naar buiten boort" (r/Ring, in het Engels). De deurbel van Blink wordt geleverd met schroeven, ringen en beugels en zonder plakbevestiging, dus de nette oplossing is schriftelijke toestemming of de deurbel overslaan. Onze gids over een [Ring-deurbel in een appartement zonder boren](/nl/blog/ring-deurbel-appartement/) geeft ideeën voor montage zonder boren, en wil je een camera aan de deur zonder schroeven, dan is een ander producttype, de deurspioncamera, nog een route (geen van de drie producten hier is er een); zie onze [gids voor deurspioncamera's zonder boren](/nl/blog/beste-deurspion-camera-voor-appartementen/). Het simpelste antwoord: een Cam v4 of Mini 2K+ op een plank, gericht op de binnenkant van je deur, waarvoor je geen toestemming voor gaten nodig hebt.
 
 ### Wifi in appartementencomplexen
 
@@ -600,7 +600,7 @@ Haal de camera uit het stopcontact, neem de microSD-kaart of USB-stick mee als j
 
 ### Valse bewegingsmeldingen
 
-Constante meldingen door verkeer in de gang of schaduwen zijn een terugkerende klacht in camera- en deurbelgroepen. Een deurbeleigenaar schreef: "De afgelopen twee weken krijg ik valse alarmen van de bewegingssensor." ([Facebookgroep, in het Engels](https://www.facebook.com/groups/ringdoorbellusersgroup/posts/1090145698003833/)). De oplossingen:
+Constante meldingen door verkeer in de gang of schaduwen zijn een terugkerende klacht in camera- en deurbelgroepen. Een deurbeleigenaar schreef: "De afgelopen twee weken krijg ik valse alarmen van de bewegingssensor." (Facebookgroep, in het Engels). De oplossingen:
 
 - Richt de lens op je deur of kamer, niet op de gedeelde gang of een raam aan de straatkant.
 - Verlaag de bewegingsgevoeligheid in de app tot buren die langslopen hem niet meer activeren.
@@ -608,7 +608,7 @@ Constante meldingen door verkeer in de gang of schaduwen zijn een terugkerende k
 
 ### Zorgen over privacy in de cloud
 
-Wantrouwen tegenover cameraclouds na berichten over gelekte beelden is een terugkerend thema in draadjes op r/privacytoolsIO en r/BuyItForLife ([een voorbeeld, in het Engels](https://www.reddit.com/r/privacytoolsIO/comments/p4wfh0/privacy_friendly_security_cameras/)). Een gebruiker daar merkt op: "Eufy-camera's (Anker) slaan lokaal op, maar gebruiken nog steeds de cloud om in te loggen." Hier geldt hetzelfde: lokale opslag houdt clips uit de cloud, maar je logt nog steeds in via de app van het merk. Onze aanpak: opnemen naar de microSD-kaart van de Wyze-camera of de stick van de Blink Sync Module, tweestapsverificatie aanzetten als de app die biedt, een uniek wachtwoord gebruiken en binnencamera's uit slaapkamers houden en uit het stopcontact halen als je thuis bent.
+Wantrouwen tegenover cameraclouds na berichten over gelekte beelden is een terugkerend thema in draadjes op r/privacytoolsIO en r/BuyItForLife (een voorbeeld, in het Engels). Een gebruiker daar merkt op: "Eufy-camera's (Anker) slaan lokaal op, maar gebruiken nog steeds de cloud om in te loggen." Hier geldt hetzelfde: lokale opslag houdt clips uit de cloud, maar je logt nog steeds in via de app van het merk. Onze aanpak: opnemen naar de microSD-kaart van de Wyze-camera of de stick van de Blink Sync Module, tweestapsverificatie aanzetten als de app die biedt, een uniek wachtwoord gebruiken en binnencamera's uit slaapkamers houden en uit het stopcontact halen als je thuis bent.
 
 ## Wat moet je kopen – Wyze of Blink?
 

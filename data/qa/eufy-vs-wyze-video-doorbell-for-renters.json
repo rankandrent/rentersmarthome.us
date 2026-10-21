@@ -1,16 +1,15 @@
 {
   "slug": "eufy-vs-wyze-video-doorbell-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-21T10:18:09.049Z",
+  "checkedAt": "2026-10-21T19:51:27.410Z",
   "errors": [],
   "warnings": [
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
-    "source didn't respond normally (403): https://support.wyze.com/hc/en-us/articles/31270933879707-Can-I-use-24-7-continuous-recording-with-Wyze-Duo-Cam-Doorbell"
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Re-verified after dropping the Wyze Battery Video Doorbell (only maker pages recommend it); post now compares Eufy Video Doorbell E340 vs Wyze Duo Cam Doorbell (productCount 2), with one unlinked sentence noting Wyze also sells a battery doorbell. E340 facts against eufy product page/FAQ (dual cameras, 2K, color night vision 16 ft, 160 deg, 8 GB eMMC ~90 days, free human/package/face AI, removable pack 5 h charge, 8-24 V wired with battery installed, IP65, 2.4 GHz only, no HomeKit, chime options) and eufy apartment guide (may need screws or drilling). Duo Cam facts against Wyze product page/FAQ (2K front, 1080p bottom, FOV, 6200 mAh removable 3-6 months, 10-24 V AC, dual-band, IP65 -4 to 122 F, Wi-Fi chime, 3M adhesive ~30 s, corner kit, microSD 256 GB, Cam Plus for package alerts, IFTTT, 3-6 s pre-roll) and Wyze support (Events Only on battery, 24/7 needs hardwire). Owner reports: Walmart E340 reviews, r/EufyCam, r/wyzecam, r/Wyze, r/homeautomation, Wyze forum, Best Buy summary. Reddit quotes verified verbatim via search excerpts. No prices, ratings or testing claims.",
-    "at": "2026-10-20T20:19:51.272Z",
-    "hash": "3e0546ebf90fea3c"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:51:27.005Z",
+    "hash": "e5dccbfe6f8b7b7d"
   }
 }

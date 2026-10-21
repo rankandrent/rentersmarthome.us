@@ -146,15 +146,15 @@ A friend says your baby's outlet caps could start a fire; a parenting group says
 
 ## Why people say outlet covers are a fire hazard
 
-**In our reading, the scare traces back to British BS 1363 sockets, which have shutters built in.** The UK campaign FatallyFlawed, whose warning [applies to BS 1363 sockets only](https://www.fatallyflawed.org.uk/), shows wrong-size dummy plugs causing "Socket contact damage" that "results in overheating and possible fire", and opening the shutters when pushed in upside down. One UK parent: ["Definitely not the plug in covers, they make the sockets more dangerous."](https://www.reddit.com/r/BeyondTheBumpUK/comments/1odw3v7/plug_socket_covers_to_use_or_not_to_use/)
+**In our reading, the scare traces back to British BS 1363 sockets, which have shutters built in.** The UK campaign FatallyFlawed, whose warning [applies to BS 1363 sockets only](https://www.fatallyflawed.org.uk/), shows wrong-size dummy plugs causing "Socket contact damage" that "results in overheating and possible fire", and opening the shutters when pushed in upside down. One UK parent: "Definitely not the plug in covers, they make the sockets more dangerous."
 
-US outlets are a different design. On r/AskElectricians: ["The little plastic child proof plugs are not a fire hazard."](https://www.reddit.com/r/AskElectricians/comments/1j6k6s7/covering_a_normal_everyday_outlet_with_no_plugs/) [Arco Electric](https://arcoelectricidaho.com/can-plastic-outlet-covers-catch-fire/) agrees that under normal use outlet covers carry no fire risk; outlet fires start with faulty wiring, an overloaded circuit or a damaged outlet.
+US outlets are a different design. On r/AskElectricians: "The little plastic child proof plugs are not a fire hazard." Arco Electric agrees that under normal use outlet covers carry no fire risk; outlet fires start with faulty wiring, an overloaded circuit or a damaged outlet.
 
 ## The real risk with plug-in outlet caps
 
 **Outlet caps fail because children remove them, not because they burn.** In a Temple University study cited by ESFI, [47 percent of 4-year-olds](https://www.esfi.org/tamper-resistant-receptacles-trr-white-paper/) removed one brand of cap and [100 percent of 2- and 4-year-olds](https://www.esfi.org/tamper-resistant-receptacles-trr-white-paper/) removed another, often within 10 seconds. Adults also forget to put them back.
 
-That matters because [approximately 2,400 children](https://www.esfi.org/childproofing-your-home-tamper-resistant-receptacles/) a year suffer severe shock and burns from pushing items into outlet slots. CPSC adds that outlet protectors must [not be easily removed and must be too large to choke on](https://www.cpsc.gov/safety-education/safety-guides/kids-and-babies/Childproofing-Your-Home). Toddler popping caps out, as in [this r/daddit thread](https://www.reddit.com/r/daddit/comments/1ep0a4y/my_daughter_3_keeps_pulling_these_plug_caps_out/)? Change the type, not the cap.
+That matters because [approximately 2,400 children](https://www.esfi.org/childproofing-your-home-tamper-resistant-receptacles/) a year suffer severe shock and burns from pushing items into outlet slots. CPSC adds that outlet protectors must not be easily removed and must be too large to choke on. Toddler popping caps out, as in this r/daddit thread? Change the type, not the cap.
 
 ## Outlet covers vs sliding plates vs tamper-resistant outlets
 
@@ -172,10 +172,10 @@ A sliding plate replaces the wall plate, and HHS child care guidance (CFOC 5.2.4
 
 **Check what you have, ask the landlord in writing, and fill gaps with renter-safe covers.**
 
-1. **Look for "TR".** Tamper-resistant outlets show ["TR" or the words "tamper-resistant"](https://www.nachi.org/tamper-resistant-receptacles.htm) on the face. The National Electrical Code has required them in new homes [since 2008](https://www.esfi.org/tamper-resistant-receptacles-trr-white-paper/); newer buildings may have them already.
-2. **Email the landlord.** Swapping a receptacle is wiring, so it's the landlord's job. ESFI counted [46 of the 50 states](https://www.esfi.org/tamper-resistant-receptacles-trr-white-paper/) requiring tamper-resistant types for replacements in areas small children reach. List the outlets without TR. As one commenter told a renter, ["It definitely needs to be handled by the landlord, but please don't risk your child's safety."](https://www.reddit.com/r/HomeMaintenance/comments/1vja5r5/this_frustrating_outlet_is_in_my_toddlers_closet/)
+1. **Look for "TR".** Tamper-resistant outlets show "TR" or the words "tamper-resistant" on the face. The National Electrical Code has required them in new homes [since 2008](https://www.esfi.org/tamper-resistant-receptacles-trr-white-paper/); newer buildings may have them already.
+2. **Email the landlord.** Swapping a receptacle is wiring, so it's the landlord's job. ESFI counted [46 of the 50 states](https://www.esfi.org/tamper-resistant-receptacles-trr-white-paper/) requiring tamper-resistant types for replacements in areas small children reach. List the outlets without TR. As one commenter told a renter, "It definitely needs to be handled by the landlord, but please don't risk your child's safety."
 3. **Use sliding plates meanwhile.** Keep the original wall plate and screws for move-out.
-4. **Box in outlets in use.** A box cover over the plug stops a toddler unplugging the lamp. Measure plug depth first; [parents report covers that won't close](https://www.reddit.com/r/toddlers/comments/vocik3/anyone_have_any_recommendations_for_a_larger_than/) over big adapters or recessed boxes.
+4. **Box in outlets in use.** A box cover over the plug stops a toddler unplugging the lamp. Measure plug depth first; parents report covers that won't close over big adapters or recessed boxes.
 
 See our [guide to baby proofing a rental without damage](/blog/how-to-baby-proof-a-rental-without-damage/) covers the rest.
 
@@ -183,6 +183,6 @@ See our [guide to baby proofing a rental without damage](/blog/how-to-baby-proof
 
 ## When an outlet is a fire hazard, cover or not
 
-**Heat, smell or discoloration means a real fire risk, whatever is plugged in.** Arco lists [burning smells, unusual heat or discolored plastic](https://arcoelectricidaho.com/can-plastic-outlet-covers-catch-fire/); Prism adds that a buzzing outlet points to loose connections. Stop using it and tell your landlord the same day.
+**Heat, smell or discoloration means a real fire risk, whatever is plugged in.** Arco lists burning smells, unusual heat or discolored plastic; Prism adds that a buzzing outlet points to loose connections. Stop using it and tell your landlord the same day.
 
 So, to the parent who heard caps start fires: they don't, but they don't stay put. Ask for TR outlets. Next, our [lazy susan child lock guide](/blog/lazy-susan-child-lock/) handles the corner cabinet.

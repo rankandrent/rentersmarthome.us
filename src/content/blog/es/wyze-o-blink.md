@@ -507,7 +507,7 @@ Las dos marcas venden más que estos tres productos. Wyze fabrica la Wyze Cam Fl
 
 **Con Wyze o Blink el gasto se separa al acabar la prueba: Wyze graba gratis en una tarjeta microSD, mientras que Blink necesita un plan de pago o un Sync Module más una unidad para guardar algo.** No damos precios porque los planes cambian, así que abre la página de planes de cada marca antes de comprar.
 
-Pagar cada mes solo para ver tus propias grabaciones es una queja recurrente en los hilos de r/BuyItForLife y r/homeowners ([un ejemplo, en inglés](https://www.reddit.com/r/homeowners/comments/1ot0xm0/home_security_cameras_without_monthly_payment/)). Una respuesta allí resume la solución: «No hace falta suscripción para grabar en la tarjeta SD y verlo desde el móvil». Eso describe exactamente el camino de Wyze.
+Pagar cada mes solo para ver tus propias grabaciones es una queja recurrente en los hilos de r/BuyItForLife y r/homeowners (un ejemplo, en inglés). Una respuesta allí resume la solución: «No hace falta suscripción para grabar en la tarjeta SD y verlo desde el móvil». Eso describe exactamente el camino de Wyze.
 
 ### Almacenamiento local – microSD o Sync Module 2
 
@@ -560,7 +560,7 @@ El timbre de Blink usa tres pilas AA de litio no recargables y anuncia hasta dos
 
 ### Consumo de pilas con frío
 
-El consumo rápido y los apagones con frío son una queja recurrente sobre los timbres a batería de todas las marcas, no solo de estas dos. Un propietario de Arlo escribió: «Las primeras 24 horas tras instalarlo, la batería bajó del 99 % al 77 %». ([comunidad de Arlo, en inglés](https://community.arlo.com/t5/Arlo-Video-Doorbell-Wire-Free/Poor-Battery-Life-new-Wire-Free-Doorbell/td-p/1804027)). Una empresa de seguridad añade que «el frío puede agotar las baterías, empañar las lentes y provocar falsas alarmas». ([CPI Security, en inglés](https://cpisecurity.com/blog/how-cold-weather-affects-your-cpi-security-devices/)).
+El consumo rápido y los apagones con frío son una queja recurrente sobre los timbres a batería de todas las marcas, no solo de estas dos. Un propietario de Arlo escribió: «Las primeras 24 horas tras instalarlo, la batería bajó del 99 % al 77 %». (comunidad de Arlo, en inglés). Una empresa de seguridad añade que «el frío puede agotar las baterías, empañar las lentes y provocar falsas alarmas». (CPI Security, en inglés).
 
 Nuestras soluciones, por orden:
 
@@ -575,7 +575,7 @@ Nuestras soluciones, por orden:
 
 ### Revisa tu contrato antes de montar una cámara
 
-Si un casero puede prohibir cámaras o timbres es una pregunta habitual en los hilos de r/Apartmentliving y r/LandlordLove. Una respuesta lo dice sin rodeos: «Si se menciona en algún sitio que no se permiten cámaras, tu casero puede hacerlo cumplir en la medida en que la ley lo permita» ([r/LandlordLove, en inglés](https://www.reddit.com/r/LandlordLove/comments/1ef2zou/can_landlord_say_we_cant_have_cameras/)). El consejo de otro inquilino: «Asegúrate de que es legal y de que no está excluido en tu contrato». ([r/Apartmentliving, en inglés](https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/)).
+Si un casero puede prohibir cámaras o timbres es una pregunta habitual en los hilos de r/Apartmentliving y r/LandlordLove. Una respuesta lo dice sin rodeos: «Si se menciona en algún sitio que no se permiten cámaras, tu casero puede hacerlo cumplir en la medida en que la ley lo permita» (r/LandlordLove, en inglés). El consejo de otro inquilino: «Asegúrate de que es legal y de que no está excluido en tu contrato». (r/Apartmentliving, en inglés).
 
 No podemos dar asesoramiento legal, y las normas sobre cámaras y grabación de audio cambian según el lugar. Busca en tu contrato palabras como «cámara», «grabación», «obras» o «modificaciones» y «exterior», y después revisa las normas que se aplican donde vives. Para cualquier cosa en la puerta o en el rellano, pide permiso por escrito. Basta con un correo corto:
 
@@ -583,7 +583,7 @@ No podemos dar asesoramiento legal, y las normas sobre cámaras y grabación de 
 
 ### Montaje sin taladrar en puertas y estanterías
 
-No poder taladrar la puerta o la pared exterior es el obstáculo más común para poner un timbre en los hilos de inquilinos. Un propietario de Ring contó que eligió un soporte con «sin necesidad de taladrar, que es lo que necesito en mi piso porque no permiten taladrar hacia el exterior» ([r/Ring, en inglés](https://www.reddit.com/r/Ring/comments/184g6hd/what_are_your_thoughts_on_putting_up_a_ring/)). El timbre de Blink viene con tornillos, arandelas y soportes y sin soporte adhesivo, así que la solución limpia es conseguir permiso por escrito o prescindir del timbre. Nuestra guía para [poner un timbre Ring en un piso de alquiler sin taladrar](/es/blog/timbre-ring-piso-alquiler/) recoge ideas de montaje sin taladro, y si quieres una cámara en la puerta sin tornillos, otro tipo de producto, la mirilla digital, es otra vía (ninguno de los tres productos de aquí lo es); consulta nuestra [guía de mirillas digitales sin taladrar](/es/blog/mejor-mirilla-digital-para-pisos/). La respuesta más sencilla: una Cam v4 o una Mini 2K+ en una estantería mirando al interior de tu puerta, sin necesidad de permiso para hacer agujeros.
+No poder taladrar la puerta o la pared exterior es el obstáculo más común para poner un timbre en los hilos de inquilinos. Un propietario de Ring contó que eligió un soporte con «sin necesidad de taladrar, que es lo que necesito en mi piso porque no permiten taladrar hacia el exterior» (r/Ring, en inglés). El timbre de Blink viene con tornillos, arandelas y soportes y sin soporte adhesivo, así que la solución limpia es conseguir permiso por escrito o prescindir del timbre. Nuestra guía para [poner un timbre Ring en un piso de alquiler sin taladrar](/es/blog/timbre-ring-piso-alquiler/) recoge ideas de montaje sin taladro, y si quieres una cámara en la puerta sin tornillos, otro tipo de producto, la mirilla digital, es otra vía (ninguno de los tres productos de aquí lo es); consulta nuestra [guía de mirillas digitales sin taladrar](/es/blog/mejor-mirilla-digital-para-pisos/). La respuesta más sencilla: una Cam v4 o una Mini 2K+ en una estantería mirando al interior de tu puerta, sin necesidad de permiso para hacer agujeros.
 
 ### Wifi en bloques de pisos
 
@@ -599,7 +599,7 @@ Desenchufa la cámara, saca la tarjeta microSD o el pendrive USB si quieres cons
 
 ### Falsas alertas de movimiento
 
-Los avisos constantes por el tránsito del rellano o por sombras son una queja recurrente en los grupos de cámaras y timbres. Un propietario de un timbre escribió: «Las últimas dos semanas me están llegando falsas alarmas del sensor de movimiento». ([grupo de Facebook, en inglés](https://www.facebook.com/groups/ringdoorbellusersgroup/posts/1090145698003833/)). Las soluciones:
+Los avisos constantes por el tránsito del rellano o por sombras son una queja recurrente en los grupos de cámaras y timbres. Un propietario de un timbre escribió: «Las últimas dos semanas me están llegando falsas alarmas del sensor de movimiento». (grupo de Facebook, en inglés). Las soluciones:
 
 - Apunta la lente a tu puerta o a tu habitación, no al pasillo común ni a una ventana a la calle.
 - Baja la sensibilidad al movimiento en la app hasta que los vecinos que pasan dejen de activarla.
@@ -607,7 +607,7 @@ Los avisos constantes por el tránsito del rellano o por sombras son una queja r
 
 ### Preocupaciones por la privacidad en la nube
 
-La desconfianza hacia las nubes de las cámaras tras las noticias de grabaciones expuestas es un tema recurrente en los hilos de r/privacytoolsIO y r/BuyItForLife ([un ejemplo, en inglés](https://www.reddit.com/r/privacytoolsIO/comments/p4wfh0/privacy_friendly_security_cameras/)). Un usuario allí señala que «las cámaras Eufy (Anker) guardan en local, pero siguen usando la nube para iniciar sesión». Aquí pasa lo mismo: el almacenamiento local mantiene los clips fuera de la nube, pero sigues iniciando sesión a través de la app de la marca. Nuestro enfoque: grabar en la tarjeta microSD de la cámara Wyze o en la unidad del Sync Module de Blink, activar la verificación en dos pasos si la app la ofrece, usar una contraseña única y mantener las cámaras de interior fuera de los dormitorios y desenchufadas cuando estés en casa.
+La desconfianza hacia las nubes de las cámaras tras las noticias de grabaciones expuestas es un tema recurrente en los hilos de r/privacytoolsIO y r/BuyItForLife (un ejemplo, en inglés). Un usuario allí señala que «las cámaras Eufy (Anker) guardan en local, pero siguen usando la nube para iniciar sesión». Aquí pasa lo mismo: el almacenamiento local mantiene los clips fuera de la nube, pero sigues iniciando sesión a través de la app de la marca. Nuestro enfoque: grabar en la tarjeta microSD de la cámara Wyze o en la unidad del Sync Module de Blink, activar la verificación en dos pasos si la app la ofrece, usar una contraseña única y mantener las cámaras de interior fuera de los dormitorios y desenchufadas cuando estés en casa.
 
 ## ¿Cuál comprar, Wyze o Blink?
 

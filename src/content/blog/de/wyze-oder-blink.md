@@ -512,7 +512,7 @@ Beide Marken verkaufen mehr als diese drei Geräte. Wyze baut die Wyze Cam Flood
 
 **Bei Wyze oder Blink trennen sich die Kosten nach der Probephase: Wyze nimmt kostenlos auf eine microSD-Karte auf, Blink braucht ein kostenpflichtiges Abo oder ein Sync Module plus Speichermedium, um überhaupt etwas zu speichern.** Wir nennen keine Preise, weil sich Abos ändern; öffne vor dem Kauf die Abo-Seite der jeweiligen Marke.
 
-Monatlich zu zahlen, nur um die eigenen Aufnahmen zu sehen, ist eine wiederkehrende Klage in Threads auf r/BuyItForLife und r/homeowners ([ein Beispiel, auf Englisch](https://www.reddit.com/r/homeowners/comments/1ot0xm0/home_security_cameras_without_monthly_payment/)). Eine Antwort dort fasst die Lösung zusammen: „Kein Abo nötig, um auf SD-Karte aufzunehmen und auf dem Handy anzusehen.“ Genau das beschreibt den Weg mit Wyze.
+Monatlich zu zahlen, nur um die eigenen Aufnahmen zu sehen, ist eine wiederkehrende Klage in Threads auf r/BuyItForLife und r/homeowners (ein Beispiel, auf Englisch). Eine Antwort dort fasst die Lösung zusammen: „Kein Abo nötig, um auf SD-Karte aufzunehmen und auf dem Handy anzusehen.“ Genau das beschreibt den Weg mit Wyze.
 
 ### Lokaler Speicher – microSD oder Sync Module 2
 
@@ -565,7 +565,7 @@ Blinks Türklingel nimmt drei nicht wiederaufladbare AA-Lithiumzellen und nennt 
 
 ### Batterieverbrauch bei Kälte
 
-Schneller Verbrauch und Abschaltungen bei Kälte sind eine wiederkehrende Klage über Batterie-Türklingeln aller Marken, nicht nur dieser beiden. Ein Arlo-Besitzer schrieb: „In den ersten 24 Stunden nach der Montage ist der Akku von 99 % auf 77 % gefallen.“ ([Arlo-Community, auf Englisch](https://community.arlo.com/t5/Arlo-Video-Doorbell-Wire-Free/Poor-Battery-Life-new-Wire-Free-Doorbell/td-p/1804027)). Ein Sicherheitsunternehmen ergänzt: „Kaltes Wetter kann Batterien leeren, Linsen beschlagen lassen und Fehlalarme auslösen.“ ([CPI Security, auf Englisch](https://cpisecurity.com/blog/how-cold-weather-affects-your-cpi-security-devices/)).
+Schneller Verbrauch und Abschaltungen bei Kälte sind eine wiederkehrende Klage über Batterie-Türklingeln aller Marken, nicht nur dieser beiden. Ein Arlo-Besitzer schrieb: „In den ersten 24 Stunden nach der Montage ist der Akku von 99 % auf 77 % gefallen.“ (Arlo-Community, auf Englisch). Ein Sicherheitsunternehmen ergänzt: „Kaltes Wetter kann Batterien leeren, Linsen beschlagen lassen und Fehlalarme auslösen.“ (CPI Security, auf Englisch).
 
 Unsere Lösungen, der Reihe nach:
 
@@ -580,7 +580,7 @@ Unsere Lösungen, der Reihe nach:
 
 ### Vor der Montage den Mietvertrag prüfen
 
-Ob ein Vermieter Kameras oder Türklingeln verbieten kann, ist eine häufige Frage in Threads auf r/Apartmentliving und r/LandlordLove. Eine Antwort bringt es auf den Punkt: „Wenn dort irgendetwas von ‚keine Kameras‘ steht, kann dein Vermieter das durchsetzen, soweit das Gesetz es erlaubt“ ([r/LandlordLove, auf Englisch](https://www.reddit.com/r/LandlordLove/comments/1ef2zou/can_landlord_say_we_cant_have_cameras/)). Der Rat eines anderen Mieters: „Stell sicher, dass es legal ist und nicht in deinem Mietvertrag ausgeschlossen.“ ([r/Apartmentliving, auf Englisch](https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/)).
+Ob ein Vermieter Kameras oder Türklingeln verbieten kann, ist eine häufige Frage in Threads auf r/Apartmentliving und r/LandlordLove. Eine Antwort bringt es auf den Punkt: „Wenn dort irgendetwas von ‚keine Kameras‘ steht, kann dein Vermieter das durchsetzen, soweit das Gesetz es erlaubt“ (r/LandlordLove, auf Englisch). Der Rat eines anderen Mieters: „Stell sicher, dass es legal ist und nicht in deinem Mietvertrag ausgeschlossen.“ (r/Apartmentliving, auf Englisch).
 
 Wir können keine Rechtsberatung geben, und die Regeln zu Kameras und Tonaufnahmen unterscheiden sich je nach Ort. Durchsuch deinen Mietvertrag nach Wörtern wie „Kamera“, „Aufnahme“, „bauliche Veränderungen“ und „Außenbereich“ und prüf dann die Regeln, die an deinem Wohnort gelten. Für alles an der Wohnungstür oder im Hausflur frag schriftlich nach. Eine kurze E-Mail reicht:
 
@@ -588,7 +588,7 @@ Wir können keine Rechtsberatung geben, und die Regeln zu Kameras und Tonaufnahm
 
 ### Montage ohne Bohren an Tür und Regal
 
-Dass man an der Tür oder der Außenwand nicht bohren darf, ist in Mieter-Threads das häufigste Hindernis für eine Türklingel. Ein Ring-Besitzer schrieb, er habe eine Halterung gewählt mit „kein Bohren nötig, was in meiner Wohnung wichtig ist, weil dort nicht nach außen gebohrt werden darf“ ([r/Ring, auf Englisch](https://www.reddit.com/r/Ring/comments/184g6hd/what_are_your_thoughts_on_putting_up_a_ring/)). Blinks Türklingel kommt mit Schrauben, Unterlegscheiben und Halterungen, aber ohne Klebehalterung; die saubere Lösung ist also eine schriftliche Erlaubnis oder der Verzicht auf die Klingel. Unser Ratgeber zur [Ring-Türklingel in der Mietwohnung ohne Bohren](/de/blog/ring-tuerklingel-mietwohnung/) zeigt Ideen für die Montage ohne Bohren, und wenn du eine Kamera an der Tür ohne Schrauben willst, ist eine andere Produktart, die Türspion-Kamera, ein weiterer Weg (keines der drei Produkte hier ist eine); siehe unseren [Ratgeber zur Türspion-Kamera ohne Bohren](/de/blog/beste-tuerspion-kamera-fuer-wohnungen/). Die einfachste Antwort: eine Cam v4 oder Mini 2K+ im Regal mit Blick auf die Innenseite deiner Tür, ganz ohne Erlaubnis für Löcher.
+Dass man an der Tür oder der Außenwand nicht bohren darf, ist in Mieter-Threads das häufigste Hindernis für eine Türklingel. Ein Ring-Besitzer schrieb, er habe eine Halterung gewählt mit „kein Bohren nötig, was in meiner Wohnung wichtig ist, weil dort nicht nach außen gebohrt werden darf“ (r/Ring, auf Englisch). Blinks Türklingel kommt mit Schrauben, Unterlegscheiben und Halterungen, aber ohne Klebehalterung; die saubere Lösung ist also eine schriftliche Erlaubnis oder der Verzicht auf die Klingel. Unser Ratgeber zur [Ring-Türklingel in der Mietwohnung ohne Bohren](/de/blog/ring-tuerklingel-mietwohnung/) zeigt Ideen für die Montage ohne Bohren, und wenn du eine Kamera an der Tür ohne Schrauben willst, ist eine andere Produktart, die Türspion-Kamera, ein weiterer Weg (keines der drei Produkte hier ist eine); siehe unseren [Ratgeber zur Türspion-Kamera ohne Bohren](/de/blog/beste-tuerspion-kamera-fuer-wohnungen/). Die einfachste Antwort: eine Cam v4 oder Mini 2K+ im Regal mit Blick auf die Innenseite deiner Tür, ganz ohne Erlaubnis für Löcher.
 
 ### WLAN im Mehrfamilienhaus
 
@@ -604,7 +604,7 @@ Steck die Kamera aus, nimm die microSD-Karte oder den USB-Stick heraus, wenn du 
 
 ### Fehlalarme durch Bewegung
 
-Ständige Benachrichtigungen durch Verkehr im Hausflur oder Schatten sind eine wiederkehrende Klage in Kamera- und Türklingel-Gruppen. Ein Klingel-Besitzer schrieb: „In den letzten zwei Wochen bekomme ich falsche Bewegungsalarme.“ ([Facebook-Gruppe, auf Englisch](https://www.facebook.com/groups/ringdoorbellusersgroup/posts/1090145698003833/)). Die Lösungen:
+Ständige Benachrichtigungen durch Verkehr im Hausflur oder Schatten sind eine wiederkehrende Klage in Kamera- und Türklingel-Gruppen. Ein Klingel-Besitzer schrieb: „In den letzten zwei Wochen bekomme ich falsche Bewegungsalarme.“ (Facebook-Gruppe, auf Englisch). Die Lösungen:
 
 - Richte die Linse auf deine Tür oder deinen Raum, nicht auf den gemeinsamen Flur oder ein Fenster zur Straße.
 - Senk die Bewegungsempfindlichkeit in der App, bis vorbeigehende Nachbarn keinen Alarm mehr auslösen.
@@ -612,7 +612,7 @@ Ständige Benachrichtigungen durch Verkehr im Hausflur oder Schatten sind eine w
 
 ### Bedenken beim Cloud-Datenschutz
 
-Misstrauen gegenüber Kamera-Clouds nach Berichten über offengelegte Aufnahmen ist ein wiederkehrendes Thema in Threads auf r/privacytoolsIO und r/BuyItForLife ([ein Beispiel, auf Englisch](https://www.reddit.com/r/privacytoolsIO/comments/p4wfh0/privacy_friendly_security_cameras/)). Ein Nutzer dort merkt an: „Eufy-Kameras (Anker) speichern lokal, nutzen für die Anmeldung aber trotzdem die Cloud.“ Das gilt auch hier: Lokaler Speicher hält Clips aus der Cloud heraus, aber du meldest dich weiterhin über die App der Marke an. Unser Vorgehen: Auf die microSD-Karte der Wyze-Kamera oder den Stick am Blink Sync Module aufnehmen, die Zwei-Schritt-Anmeldung einschalten, wenn die App sie anbietet, ein eigenes Passwort verwenden und Innenkameras aus Schlafzimmern heraushalten und ausstecken, wenn du zu Hause bist.
+Misstrauen gegenüber Kamera-Clouds nach Berichten über offengelegte Aufnahmen ist ein wiederkehrendes Thema in Threads auf r/privacytoolsIO und r/BuyItForLife (ein Beispiel, auf Englisch). Ein Nutzer dort merkt an: „Eufy-Kameras (Anker) speichern lokal, nutzen für die Anmeldung aber trotzdem die Cloud.“ Das gilt auch hier: Lokaler Speicher hält Clips aus der Cloud heraus, aber du meldest dich weiterhin über die App der Marke an. Unser Vorgehen: Auf die microSD-Karte der Wyze-Kamera oder den Stick am Blink Sync Module aufnehmen, die Zwei-Schritt-Anmeldung einschalten, wenn die App sie anbietet, ein eigenes Passwort verwenden und Innenkameras aus Schlafzimmern heraushalten und ausstecken, wenn du zu Hause bist.
 
 ## Was solltest du kaufen – Wyze oder Blink?
 

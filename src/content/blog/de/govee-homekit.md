@@ -144,9 +144,9 @@ Govees [Matter-FAQ](https://us.govee.com/pages/matter-faq) nennt den LED Strip L
 
 ### Govee-HomeKit-Check: Was hast du zu Hause?
 
-Achte vor dem Kauf auf das Matter-Logo auf der Verpackung und auf die M1-Modellnummer (H61E0 oder H61E1). Das ist wichtig, weil genau hier immer wieder Verwirrung herrscht: In r/HomeKit fragen Besitzer regelmäßig, ob „Matter“ auf der Packung automatisch Apple-Home-Unterstützung bedeutet. Eine Antwort bringt es auf den Punkt: Matter entwickle sich schnell weiter, und genau das sei das Problem ([Thread auf r/HomeKit](https://www.reddit.com/r/HomeKit/comments/1l0soq3/does_matter_automatically_mean_a_device_will_work/)). Unsere Faustregel: Vertrau dem Logo auf dem konkreten Modell, nicht der Marke.
+Achte vor dem Kauf auf das Matter-Logo auf der Verpackung und auf die M1-Modellnummer (H61E0 oder H61E1). Das ist wichtig, weil genau hier immer wieder Verwirrung herrscht: In r/HomeKit fragen Besitzer regelmäßig, ob „Matter“ auf der Packung automatisch Apple-Home-Unterstützung bedeutet. Eine Antwort bringt es auf den Punkt: Matter entwickle sich schnell weiter, und genau das sei das Problem (Thread auf r/HomeKit). Unsere Faustregel: Vertrau dem Logo auf dem konkreten Modell, nicht der Marke.
 
-Für Deutschland kommt ein zweiter Check dazu: Govee führt den M1 im [EU-Shop](https://eu.govee.com/products/refurbished-govee-led-strip-light-m1-matter-compatible-2m) als H61E0 (2 m) mit EU-2-Pin-Netzteil und Matter-Kompatibilität (HomeKit, Alexa, Google); das dort gelistete Exemplar ist generalüberholt. Such also nach dieser EU-Version, nicht nach dem US-Modell mit US-Stecker. Ob es die 5-m-Variante H61E1 auch mit EU-Stecker gibt, konnten wir nicht bestätigen.
+Für Deutschland kommt ein zweiter Check dazu: Govee führt den M1 im EU-Shop als H61E0 (2 m) mit EU-2-Pin-Netzteil und Matter-Kompatibilität (HomeKit, Alexa, Google); das dort gelistete Exemplar ist generalüberholt. Such also nach dieser EU-Version, nicht nach dem US-Modell mit US-Stecker. Ob es die 5-m-Variante H61E1 auch mit EU-Stecker gibt, konnten wir nicht bestätigen.
 
 ### Beispiel für einen Matter-Strip: der Govee LED Strip Light M1
 
@@ -163,7 +163,7 @@ Bevor du loslegst, geh diese Liste durch:
 - Du hast ab dem Einstecken 15 Minuten Zeit; danach schließt sich das Kopplungsfenster.
 - Für Fernzugriff und Automationen eine Apple-Steuerzentrale (HomePod mini/Apple TV 4K oder ein anderer HomePod bzw. ein anderes Apple TV).
 
-Wer eine FRITZ!Box hat, findet IPv6 laut [AVM-Wissensdatenbank](https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-7582-int/573_IPv6-in-FRITZ-Box-einrichten/) unter Heimnetz > Netzwerk > Netzwerkeinstellungen. Ist der Router vom Anbieter gestellt oder hängst du im Hausnetz des Vermieters, brauchst du dafür unter Umständen dessen Zustimmung.
+Wer eine FRITZ!Box hat, findet IPv6 laut AVM-Wissensdatenbank unter Heimnetz > Netzwerk > Netzwerkeinstellungen. Ist der Router vom Anbieter gestellt oder hängst du im Hausnetz des Vermieters, brauchst du dafür unter Umständen dessen Zustimmung.
 
 Dann:
 
@@ -207,21 +207,21 @@ AddToHomeKit nennt außerdem Siri-Kurzbefehle über Govees Tap-to-Run als Notlö
 
 ### Lieber einstecken als kleben
 
-Dass der Kleber von LED-Strips beim Abziehen Farbe oder Tapete mitnimmt, ist eine typische Sorge. Wie schnell daraus Streit wird, zeigt ein Beitrag auf r/wohnen: [„Dafür will mein Vermieter jetzt einen Fachbetrieb ranholen, um neue Tapeten anbringen zu lassen … und komplett von meiner Kaution abziehen.“](https://www.reddit.com/r/wohnen/comments/1shqgox/vermieter_will_800_schadensersatz_f%C3%BCr_nicht/) Eine Floor Lamp 3 oder eine Lampe an einem Smart Plug Pro (beide laut AddToHomeKit Matter-fähig) umgeht das Problem. Unser Ratgeber zu [Matter-Steckdosen für die Wohnung](/de/blog/beste-matter-steckdosen/) erklärt, wie eine Steckdose jede Lampe fit für Apple Home macht.
+Dass der Kleber von LED-Strips beim Abziehen Farbe oder Tapete mitnimmt, ist eine typische Sorge. Wie schnell daraus Streit wird, zeigt ein Beitrag auf r/wohnen: „Dafür will mein Vermieter jetzt einen Fachbetrieb ranholen, um neue Tapeten anbringen zu lassen … und komplett von meiner Kaution abziehen.“ Eine Floor Lamp 3 oder eine Lampe an einem Smart Plug Pro (beide laut AddToHomeKit Matter-fähig) umgeht das Problem. Unser Ratgeber zu [Matter-Steckdosen für die Wohnung](/de/blog/beste-matter-steckdosen/) erklärt, wie eine Steckdose jede Lampe fit für Apple Home macht.
 
 ### Wenn du doch einen Strip nimmst
 
-Für den Auszug rät ein Besitzer auf [r/HomeMaintenance](https://www.reddit.com/r/HomeMaintenance/comments/13sj00r/my_led_lights_ripped_off_the_paint_around_the/), das Klebeband vor dem Abziehen mit einem Kleberentferner oder Isopropanol (Reinigungsalkohol) zu behandeln. Fotografier außerdem die Wand vor dem Ankleben und vor dem Abnehmen, damit du den Zustand belegen kannst. Das umgekehrte Problem, Strips, die nach ein paar Tagen herunterfallen, taucht in Mieter- und Elterngruppen auf; eine Antwort warnt dort, dass der Klebestreifen auf der Rückseite womöglich [nicht ausreicht](https://www.facebook.com/groups/1841247825900748/posts/28748695164729316/). Abhilfe schaffen Clips, Profile oder stärker haftendes, wieder ablösbares Klebeband. Unser Ratgeber zu [LED Strips für die Mietwohnung](/de/blog/led-strip-mietwohnung/) vergleicht die Befestigungsmöglichkeiten.
+Für den Auszug rät ein Besitzer auf r/HomeMaintenance, das Klebeband vor dem Abziehen mit einem Kleberentferner oder Isopropanol (Reinigungsalkohol) zu behandeln. Fotografier außerdem die Wand vor dem Ankleben und vor dem Abnehmen, damit du den Zustand belegen kannst. Das umgekehrte Problem, Strips, die nach ein paar Tagen herunterfallen, taucht in Mieter- und Elterngruppen auf; eine Antwort warnt dort, dass der Klebestreifen auf der Rückseite womöglich nicht ausreicht. Abhilfe schaffen Clips, Profile oder stärker haftendes, wieder ablösbares Klebeband. Unser Ratgeber zu [LED Strips für die Mietwohnung](/de/blog/led-strip-mietwohnung/) vergleicht die Befestigungsmöglichkeiten.
 
 ### Was zur Kaution allgemein gilt
 
-Wir sind keine Juristen, das hier ist allgemeine Information und keine Rechtsberatung. Die [R+V Versicherung](https://www.ruv.de/mietkaution/mietkaution-rueckzahlung) beschreibt als gängige Praxis, dass Vermieter in der Regel 3 bis 6 Monate nach dem Auszug Zeit haben, die Kaution abzurechnen; einbehalten dürfen sie nur berechtigte Forderungen, etwa für Schäden über die normale Abnutzung hinaus, und die Beweislast liege beim Vermieter. Der [Mieterverein Hamburg](https://www.mieterverein-hamburg.de/ratgeber/vertraege-verpflichtungen/kaution/) widerspricht der pauschalen 3-bis-6-Monats-Frist: Nach Mietende müsse die Kaution „alsbald“ zurückgezahlt werden, und einbehalten werden dürfe nur in Höhe tatsächlicher Forderungen. Wenn es konkret Streit gibt, frag beim örtlichen Mieterverein nach.
+Wir sind keine Juristen, das hier ist allgemeine Information und keine Rechtsberatung. Die R+V Versicherung beschreibt als gängige Praxis, dass Vermieter in der Regel 3 bis 6 Monate nach dem Auszug Zeit haben, die Kaution abzurechnen; einbehalten dürfen sie nur berechtigte Forderungen, etwa für Schäden über die normale Abnutzung hinaus, und die Beweislast liege beim Vermieter. Der Mieterverein Hamburg widerspricht der pauschalen 3-bis-6-Monats-Frist: Nach Mietende müsse die Kaution „alsbald“ zurückgezahlt werden, und einbehalten werden dürfe nur in Höhe tatsächlicher Forderungen. Wenn es konkret Streit gibt, frag beim örtlichen Mieterverein nach.
 
 > **Aus unseren Notizen:** Als wir Govees Matter-FAQ neben die Einsteiger-Anleitung aus der Community gelegt haben, hat uns nicht die Kopplung stutzig gemacht. Es war die Warnung, dass ein WLAN-Wechsel in der Govee-App Matter abschaltet. Stell dir vor, du ziehst um, meldest den Strip in der Govee-App am neuen Router an und siehst zu, wie er aus Apple Home verschwindet. Keine der großen Anleitungen, die wir verglichen haben, bringt das mit dem Umzugstag in Verbindung, und genau deshalb steht in unserem Ratgeber die Reihenfolge „erst zurücksetzen“.
 
 ### Wem gehört die Steuerzentrale, und was passiert beim Auszug?
 
-Mieter fragen das oft in r/HomeKit; ein Thread zur Mietwohnung beginnt sinngemäß damit, dass eine der ersten Entscheidungen die [Steuerzentrale und die Apple-ID](https://www.reddit.com/r/HomeKit/comments/n51voa/homekit_in_a_rental_property/) betrifft. Die Steuerzentrale hängt an einer Apple-ID. In einer WG würden wir sie deshalb auf die Person laufen lassen, die am längsten bleibt. Matter-Leuchten brauchen keinen zusätzlichen Hub, und das passt zum Rat aus einem [Thread zur ersten eigenen Wohnung](https://www.reddit.com/r/HomeKit/comments/zzyc45/first_apartment_homekit_recommendations/), lieber die Finger von allem zu lassen, was einen eigenen Hub braucht. Beim Auszug entfernst du jede Leuchte aus Apple Home, setzt sie zurück und fügst sie in der neuen Wohnung wieder hinzu.
+Mieter fragen das oft in r/HomeKit; ein Thread zur Mietwohnung beginnt sinngemäß damit, dass eine der ersten Entscheidungen die Steuerzentrale und die Apple-ID betrifft. Die Steuerzentrale hängt an einer Apple-ID. In einer WG würden wir sie deshalb auf die Person laufen lassen, die am längsten bleibt. Matter-Leuchten brauchen keinen zusätzlichen Hub, und das passt zum Rat aus einem Thread zur ersten eigenen Wohnung, lieber die Finger von allem zu lassen, was einen eigenen Hub braucht. Beim Auszug entfernst du jede Leuchte aus Apple Home, setzt sie zurück und fügst sie in der neuen Wohnung wieder hinzu.
 
 ### Router und IPv6, wenn der Vermieter das Netz verwaltet
 
@@ -233,7 +233,7 @@ Wird das WLAN im Haus vom Vermieter verwaltet, kannst du IPv6 womöglich nicht s
 
 ### Kopplung klappt nicht
 
-Matter-Kopplungen, die stundenlang scheitern, sind eine wiederkehrende Klage in Threads auf r/homeassistant und r/alexa, etwa [dieser Versuch über drei Tage](https://www.reddit.com/r/homeassistant/comments/1rgodgx/ive_been_trying_to_pair_matter_devices_for_3_days/). Viele davon drehen sich um Thread-Border-Router, die bei Govee keine Rolle spielen. Prüf IPv6, 2,4 GHz und das 15-Minuten-Fenster, starte dann zuerst den Router und danach die Leuchte neu und kopple noch einmal.
+Matter-Kopplungen, die stundenlang scheitern, sind eine wiederkehrende Klage in Threads auf r/homeassistant und r/alexa, etwa dieser Versuch über drei Tage. Viele davon drehen sich um Thread-Border-Router, die bei Govee keine Rolle spielen. Prüf IPv6, 2,4 GHz und das 15-Minuten-Fenster, starte dann zuerst den Router und danach die Leuchte neu und kopple noch einmal.
 
 ### Schon woanders gekoppelt
 
@@ -245,4 +245,4 @@ Halte dich an die Reihenfolge von oben: entfernen, zurücksetzen, neu hinzufüge
 
 ### Lichtschalter aus, Steuerung weg
 
-Mitbewohner, die den Schalter umlegen, sind der Klassiker in der WG: Wer den Wandschalter ausschaltet, nimmt der smarten Leuchte den Strom komplett, und sie ist [tot für die App](https://doitforme.solutions/blog/are-your-smart-bulbs-making-your-smart-home-dumb/). Lass den Schalter an und klebe eine Abdeckung darüber. Unser Ratgeber zu [smarten Glühbirnen für Mieter](/de/blog/smarte-gluehbirnen-fuer-mieter/) zeigt weitere Lösungen für den Lichtschalter, und unser [Smart Home für Mieter ohne Bohren](/de/blog/smart-home-fuer-mieter/) zeigt, was du als Nächstes ergänzen kannst.
+Mitbewohner, die den Schalter umlegen, sind der Klassiker in der WG: Wer den Wandschalter ausschaltet, nimmt der smarten Leuchte den Strom komplett, und sie ist tot für die App. Lass den Schalter an und klebe eine Abdeckung darüber. Unser Ratgeber zu [smarten Glühbirnen für Mieter](/de/blog/smarte-gluehbirnen-fuer-mieter/) zeigt weitere Lösungen für den Lichtschalter, und unser [Smart Home für Mieter ohne Bohren](/de/blog/smart-home-fuer-mieter/) zeigt, was du als Nächstes ergänzen kannst.

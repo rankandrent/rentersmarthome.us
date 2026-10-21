@@ -420,7 +420,7 @@ Ring's accumodel uit het middensegment neemt Retinal 2K-video op in een vierkant
 
 Het addertje zit in de gratis functies. Zonder Ring Protect heb je live beeld, meldingen en kun je de deur beantwoorden, maar worden er geen video's of foto's opgeslagen. Een eigenaar op r/smarthome zei het zonder omwegen: "het abonnement om video's op te nemen is best irritant als je maar één camera hebt; je kunt de deurbel zonder abonnement gebruiken, maar dan krijg je alleen live beeld." ([RedditRecs-samenvatting van de r/smarthome-thread, in het Engels](https://redditrecs.com/smart-doorbell/model/ring-battery-video-doorbell-plus/))
 
-Eigenaren op Reddit prijzen vooral de eenvoudige installatie en lange laadbeurten. Dezelfde reageerder gebruikt er twee op accu met een binnengong en meldt 2-3 maanden per lading, wat in een winter in Minnesota zakt naar 3-4 weken. Accuverbruik is wel de grootste klacht. Een gebruiker op r/Ring schreef in een thread over de Ring Plus: "Mijn accu houdt het nooit langer dan tien dagen vol" ([thread, in het Engels](https://www.reddit.com/r/Ring/comments/1s8y1ee/anyone_else_experiencing_terrible_battery_life/)); uit het fragment blijkt niet om welke generatie het gaat, dus wij zien het als één melding.
+Eigenaren op Reddit prijzen vooral de eenvoudige installatie en lange laadbeurten. Dezelfde reageerder gebruikt er twee op accu met een binnengong en meldt 2-3 maanden per lading, wat in een winter in Minnesota zakt naar 3-4 weken. Accuverbruik is wel de grootste klacht. Een gebruiker op r/Ring schreef in een thread over de Ring Plus: "Mijn accu houdt het nooit langer dan tien dagen vol" (thread, in het Engels); uit het fragment blijkt niet om welke generatie het gaat, dus wij zien het als één melding.
 
 ### Google Nest Doorbell (Battery): beste gratis slimme meldingen
 
@@ -428,7 +428,7 @@ Google's accumodel pakt de voordeur anders aan. De HD-sensor van 960 x 1280 film
 
 De gratis functies zijn de reden om hem te kiezen. Meldingen voor personen, pakketten, dieren en voertuigen krijg je zonder abonnement, volgens Security.org en SafeHome, en je krijgt 3 uur gebeurtenissengeschiedenis. Hij heeft de Google Home app en een Google-account nodig en kan met geen enkel abonnement 24/7 opnemen.
 
-Eigenaren zijn sterk verdeeld over de accu. Een reageerder op r/Nest zegt: "De accu houdt het lang vol en hij werkt gewoon" ([thread, in het Engels](https://www.reddit.com/r/Nest/comments/wl9myj/why_is_google_nest_doorbell_battery_such_a_bad/)), terwijl een ander meldt: "De accu was na 6 dagen leeg." ([thread, in het Engels](https://www.reddit.com/r/Nest/comments/r8aw1t/my_nest_doorbell_battery_is_a_piece_of_crap/)). Andere eigenaren op r/Nest melden vertraging in live beeld, zwarte clips en wegvallend signaal, en één zegt dat de zijne maar 2-3 jaar meeging.
+Eigenaren zijn sterk verdeeld over de accu. Een reageerder op r/Nest zegt: "De accu houdt het lang vol en hij werkt gewoon" (thread, in het Engels), terwijl een ander meldt: "De accu was na 6 dagen leeg." (thread, in het Engels). Andere eigenaren op r/Nest melden vertraging in live beeld, zwarte clips en wegvallend signaal, en één zegt dat de zijne maar 2-3 jaar meeging.
 
 ### Video, beeldveld en nachtzicht
 
@@ -490,7 +490,7 @@ Heb je toch schroeven gebruikt, plan dan je vertrek al vóór de montage, zodat 
 
 ### Als je verhuurder videodeurbellen verbiedt
 
-Een camerabepaling in het huurcontract is een terugkerende klacht in threads op r/Apartmentliving en r/LandlordLove. Een reactie in [een thread over verhuurders en camera's (in het Engels)](https://www.reddit.com/r/LandlordLove/comments/1ef2zou/can_landlord_say_we_cant_have_cameras/) waarschuwt: "Als er iets staat over geen camera's, kan je verhuurder dat afdwingen voor zover de wet het toestaat". Een andere, in [een thread over een videodeurbel in een appartement (in het Engels)](https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/), zegt: "Zorg dat het legaal is en niet is uitgesloten in je huurcontract."
+Een camerabepaling in het huurcontract is een terugkerende klacht in threads op r/Apartmentliving en r/LandlordLove. Een reactie in een thread over verhuurders en camera's (in het Engels) waarschuwt: "Als er iets staat over geen camera's, kan je verhuurder dat afdwingen voor zover de wet het toestaat". Een andere, in een thread over een videodeurbel in een appartement (in het Engels), zegt: "Zorg dat het legaal is en niet is uitgesloten in je huurcontract."
 
 Wij kunnen je niet vertellen of een bepaling afdwingbaar is. Lees het huurcontract, check de regels die bij jou ter plaatse gelden en vraag het schriftelijk. Hier is een kort bericht dat je met je eigen gegevens kunt aanpassen:
 
@@ -500,13 +500,13 @@ Is het antwoord nee, dan doet een binnencamera die op de binnenkant van je deur 
 
 ### Als de deurbel je buren filmt
 
-In een gedeelde gang kan een deurbel de deur aan de overkant in beeld krijgen. Een gebruiker in [een thread over verboden Ring-deurbellen (in het Engels)](https://www.reddit.com/r/Apartmentliving/comments/1ebelua/ring_doorbells_not_allowed/) verwoordde het bezwaar eenvoudig: "je filmt waarschijnlijk de deuren van andere bewoners". Dat komt op r/Apartmentliving en r/Ring keer op keer terug.
+In een gedeelde gang kan een deurbel de deur aan de overkant in beeld krijgen. Een gebruiker in een thread over verboden Ring-deurbellen (in het Engels) verwoordde het bezwaar eenvoudig: "je filmt waarschijnlijk de deuren van andere bewoners". Dat komt op r/Apartmentliving en r/Ring keer op keer terug.
 
 De oplossing begint bij de hoek. Gebruik de wig uit de doos van Nest om het beeld naar je eigen deurmat te draaien, en teken bewegingszones op Ring of activiteitszones op Nest alleen rond je eigen deur. Laat het je buren weten voordat je hem monteert. Maakt de indeling van de gemeenschappelijke ruimte dat onmogelijk, zie dan af van de deurbel.
 
 ### Valse bewegingsmeldingen beperken
 
-Constante meldingen door voorbijgangers zijn een veelgehoorde klacht in Ring-gebruikersgroepen. Een lid van [een Ring-gebruikersgroep (in het Engels)](https://www.facebook.com/groups/ringdoorbellusersgroup/posts/1090145698003833/) schreef: "De afgelopen twee weken krijg ik valse bewegingsalarmen."
+Constante meldingen door voorbijgangers zijn een veelgehoorde klacht in Ring-gebruikersgroepen. Een lid van een Ring-gebruikersgroep (in het Engels) schreef: "De afgelopen twee weken krijg ik valse bewegingsalarmen."
 
 1. Maak de activiteitszones of bewegingszones krap rond je deur, niet rond de gang.
 2. Verlaag de bewegingsgevoeligheid en de bewegingsfrequentie in de app.
@@ -515,13 +515,13 @@ Constante meldingen door voorbijgangers zijn een veelgehoorde klacht in Ring-geb
 
 ### Accuverbruik bij kou
 
-De accu's van Ring en Nest gedragen zich anders in de kou, al trekt kou elke accudeurbel leeg, waar beveiligingsinstallateur CPI voor waarschuwt in [zijn wintergids (in het Engels)](https://cpisecurity.com/blog/how-cold-weather-affects-your-cpi-security-devices/): "Koud weer kan accu's leegtrekken, lenzen laten beslaan en valse alarmen veroorzaken." Ring geeft zijn deurbel op tot -20 °C (-4 °F), en het snel uitneembare accupack laad je binnen op. Google geeft de Nest op tot -20 °C, maar zegt dat hij alleen boven 0 °C (32 °F) laadt, dus in een vriezende entree kan hij niet bijladen.
+De accu's van Ring en Nest gedragen zich anders in de kou, al trekt kou elke accudeurbel leeg, waar beveiligingsinstallateur CPI voor waarschuwt in zijn wintergids (in het Engels): "Koud weer kan accu's leegtrekken, lenzen laten beslaan en valse alarmen veroorzaken." Ring geeft zijn deurbel op tot -20 °C (-4 °F), en het snel uitneembare accupack laad je binnen op. Google geeft de Nest op tot -20 °C, maar zegt dat hij alleen boven 0 °C (32 °F) laadt, dus in een vriezende entree kan hij niet bijladen.
 
 [Google's uitleg over de accu (in het Engels)](https://support.google.com/googlehome/answer/10901611?hl=en) noemt een gebruikelijke accuduur van ongeveer 2,5 maanden bij 13-16 gebeurtenissen per dag en ongeveer 6 maanden bij 2-5 gebeurtenissen per dag. Drukke gangen betekenen meer gebeurtenissen. Houd het accupercentage in de app in de gaten, reageer op de waarschuwing voor een bijna lege accu vóór een koudegolf, en bedraad een van beide modellen als het gebouw al deurbeldraden heeft en daar toestemming voor geeft.
 
 ### Diefstalbeveiliging en montage zonder boren
 
-Niet boren is in veel gebouwen een harde regel. Een gebruiker op [r/Ring (in het Engels)](https://www.reddit.com/r/Ring/comments/184g6hd/what_are_your_thoughts_on_putting_up_a_ring/) merkte op: "Geen boren nodig, en dat moet bij mijn appartement, want daar mag je niet in de buitenkant boren." Ring's No-Drill Mount is hier het nettere antwoord. Geen van de fabriekspagina's die wij lazen noemt een sabotage- of diefstalbestendige houder, dus in een drukke hal zouden wij hem in een afgesloten portaal monteren als het gebouw dat toestaat.
+Niet boren is in veel gebouwen een harde regel. Een gebruiker op r/Ring (in het Engels) merkte op: "Geen boren nodig, en dat moet bij mijn appartement, want daar mag je niet in de buitenkant boren." Ring's No-Drill Mount is hier het nettere antwoord. Geen van de fabriekspagina's die wij lazen noemt een sabotage- of diefstalbestendige houder, dus in een drukke hal zouden wij hem in een afgesloten portaal monteren als het gebouw dat toestaat.
 
 > **Uit onze notities:** Toen we de specificaties van Ring en Google voor deze vergelijking naast elkaar legden, verwachtten we dat de videocijfers de doorslag zouden geven. Dat deden ze niet. De regel die ons anders deed denken, stond in Google's specificaties: de accu van de Nest laadt alleen boven 0 °C. Ring noemt gebruik tot -20 °C (-4 °F), en het accupack gaat eruit om binnen op te laden. Daarna lazen we de threads van eigenaren. Een Ring-eigenaar in Minnesota meldde 3-4 weken per lading in de winter, terwijl berichten op r/Nest uiteenliepen van langdurige accu's tot zes dagen. Voor een koude entree van een gebouw trok dat ons richting Ring. In een mild klimaat wonnen de gratis meldingen van Nest.
 

@@ -403,7 +403,7 @@ Ring's mid-range battery model records Retinal 2K video in a square 140 by 140 d
 
 The catch is the free tier. Without Ring Protect you get live view, notifications and answering the door, but no saved video or photos. One r/smarthome owner put it plainly: "the subscription for recording videos is kind of annoying when you only have one camera, you can still use the doorbell without the subscription but you only get live view." ([RedditRecs summary of the r/smarthome thread](https://redditrecs.com/smart-doorbell/model/ring-battery-video-doorbell-plus/))
 
-Owners on Reddit mostly praise easy setup and long charges. The same commenter runs two on battery with an indoor chime and reports 2-3 months per charge, dropping to 3-4 weeks in a Minnesota winter. Battery drain is the main complaint, though. One r/Ring poster in a Ring Plus thread wrote "My battery is never lasting more than ten days" ([thread](https://www.reddit.com/r/Ring/comments/1s8y1ee/anyone_else_experiencing_terrible_battery_life/)); the excerpt doesn't say which generation, so we treat it as one report.
+Owners on Reddit mostly praise easy setup and long charges. The same commenter runs two on battery with an indoor chime and reports 2-3 months per charge, dropping to 3-4 weeks in a Minnesota winter. Battery drain is the main complaint, though. One r/Ring poster in a Ring Plus thread wrote "My battery is never lasting more than ten days" (thread); the excerpt doesn't say which generation, so we treat it as one report.
 
 ### Google Nest Doorbell (Battery): best free smart alerts
 
@@ -411,7 +411,7 @@ Google's battery model takes a different approach to the porch. Its 960 x 1280 H
 
 The free tier is the reason to buy it. Person, package, animal and vehicle alerts come without a subscription, per Security.org and SafeHome, and you get 3 hours of event history. It needs the Google Home app and a Google Account, and it can't record 24/7 on any plan.
 
-Owners split hard on the battery. One r/Nest commenter says "Battery holds charge for a long time and it just works" ([thread](https://www.reddit.com/r/Nest/comments/wl9myj/why_is_google_nest_doorbell_battery_such_a_bad/)), while another poster reports "The battery died in 6 days." ([thread](https://www.reddit.com/r/Nest/comments/r8aw1t/my_nest_doorbell_battery_is_a_piece_of_crap/)). Other r/Nest owners report live-view latency, black clips and dropped signal, and one says theirs only lasted 2-3 years.
+Owners split hard on the battery. One r/Nest commenter says "Battery holds charge for a long time and it just works" (thread), while another poster reports "The battery died in 6 days." (thread). Other r/Nest owners report live-view latency, black clips and dropped signal, and one says theirs only lasted 2-3 years.
 
 ### Video, field of view and night vision
 
@@ -473,7 +473,7 @@ If you did use screws, plan the exit before the install so your security deposit
 
 ### If your landlord bans doorbell cameras
 
-A lease camera clause is a recurring complaint in r/Apartmentliving and r/LandlordLove threads. One reply in [a landlord camera thread](https://www.reddit.com/r/LandlordLove/comments/1ef2zou/can_landlord_say_we_cant_have_cameras/) warns: "If there is any mention of no cameras then your landlord can enforce that however the law allows". Another, in [an apartment doorbell thread](https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/), says "Make sure it's legal and not excluded in your lease."
+A lease camera clause is a recurring complaint in r/Apartmentliving and r/LandlordLove threads. One reply in a landlord camera thread warns: "If there is any mention of no cameras then your landlord can enforce that however the law allows". Another, in an apartment doorbell thread, says "Make sure it's legal and not excluded in your lease."
 
 We can't tell you whether a clause is enforceable. Read the lease, check your state and local rules, and ask in writing. Here's a short message to adapt with your own details:
 
@@ -483,13 +483,13 @@ If the answer is no, an indoor camera aimed at the inside of your door does a si
 
 ### If the doorbell records your neighbors
 
-In a shared hallway, a doorbell can catch the door opposite. A poster in [a thread on Ring doorbells being banned](https://www.reddit.com/r/Apartmentliving/comments/1ebelua/ring_doorbells_not_allowed/) put the objection simply: "you're likely to be recording other residents doors". This comes up again and again in r/Apartmentliving and r/Ring.
+In a shared hallway, a doorbell can catch the door opposite. A poster in a thread on Ring doorbells being banned put the objection simply: "you're likely to be recording other residents doors". This comes up again and again in r/Apartmentliving and r/Ring.
 
 The fix is angle first. Use the wedge in the Nest box to turn the view toward your own mat, and draw motion zones on Ring or activity zones on Nest around your doorway only. Tell the neighbor before you mount it. If the common area layout makes it impossible, skip the doorbell.
 
 ### Cutting false motion alerts
 
-Constant alerts from passersby are a common complaint in Ring user groups. One member in [a Ring users group](https://www.facebook.com/groups/ringdoorbellusersgroup/posts/1090145698003833/) wrote "The last two weeks I've been getting false motion sensor alarms."
+Constant alerts from passersby are a common complaint in Ring user groups. One member in a Ring users group wrote "The last two weeks I've been getting false motion sensor alarms."
 
 1. Tighten activity zones / motion zones to your doorway, not the corridor.
 2. Lower motion sensitivity and motion frequency in the app.
@@ -498,13 +498,13 @@ Constant alerts from passersby are a common complaint in Ring user groups. One m
 
 ### Battery drain in cold weather
 
-Ring vs Nest batteries behave differently in the cold, though cold drains every battery doorbell, which security installer CPI warns about in [its winter guide](https://cpisecurity.com/blog/how-cold-weather-affects-your-cpi-security-devices/): "Cold weather can drain batteries, fog up lenses, and trigger false alarms." Ring rates its doorbell down to -4 F, and the quick-release pack charges indoors. Google rates the Nest to -20 C but says it charges only above 0 C, so it can't recharge in a freezing entrance.
+Ring vs Nest batteries behave differently in the cold, though cold drains every battery doorbell, which security installer CPI warns about in its winter guide: "Cold weather can drain batteries, fog up lenses, and trigger false alarms." Ring rates its doorbell down to -4 F, and the quick-release pack charges indoors. Google rates the Nest to -20 C but says it charges only above 0 C, so it can't recharge in a freezing entrance.
 
 [Google's battery guidance](https://support.google.com/googlehome/answer/10901611?hl=en) puts typical life at about 2.5 months at 13-16 events a day and about 6 months at 2-5 events a day. Busy hallways mean more events. Watch the battery percentage in the app, act on the low battery warning before a cold snap, and wire either model if the building already has doorbell wires and approves it.
 
 ### Anti-theft and no-drill mounting
 
-Not drilling is a hard rule in many buildings. A poster in [r/Ring](https://www.reddit.com/r/Ring/comments/184g6hd/what_are_your_thoughts_on_putting_up_a_ring/) noted: "No drilling required which is needed at my apartment because they don't allow drilling to the exterior." Ring's No-Drill Mount is the cleaner answer here. Neither maker's page we read lists a tamper or anti-theft mount, so in a busy lobby we'd mount inside a locked vestibule if the building allows it.
+Not drilling is a hard rule in many buildings. A poster in r/Ring noted: "No drilling required which is needed at my apartment because they don't allow drilling to the exterior." Ring's No-Drill Mount is the cleaner answer here. Neither maker's page we read lists a tamper or anti-theft mount, so in a busy lobby we'd mount inside a locked vestibule if the building allows it.
 
 > **From our notes:** When we put Ring's and Google's spec pages side by side for this comparison, we expected the video numbers to decide it. They didn't. The line that changed our thinking was in Google's specs: the Nest battery charges only above 0 C. Ring lists operation down to -4 F, and its pack comes out to charge indoors. Then we read the owner threads. A Minnesota Ring owner reported 3-4 weeks per charge in winter, while r/Nest posts ranged from long-lasting batteries to six days. For a cold building entrance, that pushed us toward Ring. For a mild climate, Nest's free alerts won.
 

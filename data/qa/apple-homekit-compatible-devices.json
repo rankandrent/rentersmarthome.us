@@ -1,15 +1,13 @@
 {
   "slug": "apple-homekit-compatible-devices",
   "pass": true,
-  "checkedAt": "2026-10-21T10:15:38.313Z",
+  "checkedAt": "2026-10-21T19:51:23.088Z",
   "errors": [],
-  "warnings": [
-    "source didn't respond normally (403): https://www.macobserver.com/tips/round-ups/homekit-compatible-devices/"
-  ],
+  "warnings": [],
   "factCheck": {
     "verified": true,
-    "notes": "Verified against maker and Apple pages: HomePod mini 2 specs (Wi-Fi 6E, Bluetooth 6, Thread, temp/humidity sensor, 20W adapter, iPhone/iPad requirement) on apple.com/homepod-mini/specs; Apple Support 102135 (iPhone 15 Pro and later control Thread accessories without a hub, hub recommended); apple.com/home/accessories (Works with Apple Home badge, Eve Energy, Eve Motion, Hue Bridge, HomeKit Secure Video, Apple Home Collection); Philips Hue Apple Home setup page (Hue Bridge lets HomeKit talk to lights, Matter option); Eve Energy page (Matter over Thread, US max 15 A / 1,800 W, on-board button, child lock and LED via Eve app, energy monitoring, no subscription/no registration, Thread router node, hub required); Eve Motion page (120-degree field of view, 9 m at 2 m height, IPX3, 2x AAA, freestanding or wall, light sensor, hub required); Eve FAQ on HomeKit and Matter devices in the same automation. Hue 2026 Apple Home breakage, Hue support remove/re-add advice and Bridge Pro firmware from the hueblog.com article and comments. Eve support reset/re-add and restart-all-hubs owner reports from r/HomeKit and r/EveHome search excerpts. Reddit quotes checked verbatim via search excerpts at their thread URLs and data/pain-points.json. SERP product evidence: CNET excerpt, MacObserver, Robby Burns, Apple accessories list. Removed unverified router-port and price-comparison claims.",
-    "at": "2026-10-21T10:07:05.551Z",
-    "hash": "fddd348036783a9b"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:51:22.763Z",
+    "hash": "233ed9922a37239a"
   }
 }

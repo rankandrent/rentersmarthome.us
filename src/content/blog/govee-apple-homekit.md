@@ -246,7 +246,7 @@ Older Govee models can't get Matter through a firmware update because of hardwar
 
 ### Govee HomeKit check: which do you own?
 
-Look for the Matter logo on the box and the M1 model number (H61E0 or H61E1) before you buy. That matters because confusion here is a recurring question in r/HomeKit threads, where owners ask whether "Matter" on a box guarantees Apple Home support. One reply puts it plainly: ["The challenge is that Matter is evolving quickly."](https://www.reddit.com/r/HomeKit/comments/1l0soq3/does_matter_automatically_mean_a_device_will_work/) Our rule: trust the logo on the specific model, not the brand.
+Look for the Matter logo on the box and the M1 model number (H61E0 or H61E1) before you buy. That matters because confusion here is a recurring question in r/HomeKit threads, where owners ask whether "Matter" on a box guarantees Apple Home support. One reply puts it plainly: "The challenge is that Matter is evolving quickly." Our rule: trust the logo on the specific model, not the brand.
 
 ### Govee LED Strip Light M1: the Matter strip both top sources name
 
@@ -305,17 +305,17 @@ AddToHomeKit also mentions Siri Shortcuts via Govee's Tap-to-Run as a no-bridge 
 
 ### Pick plug-in over adhesive where you can
 
-LED strip adhesive pulling paint is a recurring complaint in r/HomeMaintenance and dorm threads; one student summary reads ["You can put up LED light strips but they might take the paint off."](https://www.reddit.com/r/williamandmary/comments/xbukcf/are_led_light_strips_prohibited_in_dorm_rooms/) A Floor Lamp 3 or a lamp on a Smart Plug Pro (both listed as Matter by AddToHomeKit) avoids it. Our [Matter smart plugs for apartments](/blog/best-matter-smart-plugs/) explains how a plug makes any lamp Apple Home-ready.
+LED strip adhesive pulling paint is a recurring complaint in r/HomeMaintenance and dorm threads; one student summary reads "You can put up LED light strips but they might take the paint off." A Floor Lamp 3 or a lamp on a Smart Plug Pro (both listed as Matter by AddToHomeKit) avoids it. Our [Matter smart plugs for apartments](/blog/best-matter-smart-plugs/) explains how a plug makes any lamp Apple Home-ready.
 
 ### If you use a strip
 
-At move-out, an owner in r/HomeMaintenance advises ["hitting the tape with goo gone or rubbing alcohol before pulling it."](https://www.reddit.com/r/HomeMaintenance/comments/13sj00r/my_led_lights_ripped_off_the_paint_around_the/) The opposite problem, strips falling off within days, comes up in renter and parent groups, where one answer warns ["the adhesive backing may not be sufficient."](https://www.facebook.com/groups/1841247825900748/posts/28748695164729316/) The fix is clips, channels or higher-tack removable tape. Our [peel-safe LED strip lights for renters](/blog/best-led-strip-lights-for-renters/) compare mounting options.
+At move-out, an owner in r/HomeMaintenance advises "hitting the tape with goo gone or rubbing alcohol before pulling it." The opposite problem, strips falling off within days, comes up in renter and parent groups, where one answer warns "the adhesive backing may not be sufficient." The fix is clips, channels or higher-tack removable tape. Our [peel-safe LED strip lights for renters](/blog/best-led-strip-lights-for-renters/) compare mounting options.
 
 > **From our notes:** When we read Govee's Matter FAQ next to its community beginner guide, the line that stopped us was not about pairing. It was the warning that changing Wi-Fi in the Govee app turns Matter off. Picture a renter who moves, logs the strip onto the new router from the Govee app, and watches it vanish from Apple Home. None of the top guides we compared ties that to moving day, and that's why we put the reset-first order in this post.
 
 ### Whose Apple ID owns the hub, and moving out
 
-Renters ask about this often in r/HomeKit; one rental thread opens with ["One of the first decisions is regarding HomeKit hub and the Apple ID."](https://www.reddit.com/r/HomeKit/comments/n51voa/homekit_in_a_rental_property/) The hub is tied to one Apple ID, so with roommates we'd put it on the person staying longest. Matter lights need no extra hub, which fits the advice in [a first-apartment thread](https://www.reddit.com/r/HomeKit/comments/zzyc45/first_apartment_homekit_recommendations/): ["I'd stay away from anything that needs a unique hub"](https://www.reddit.com/r/HomeKit/comments/zzyc45/first_apartment_homekit_recommendations/). On move-out, remove each light from Apple Home, reset it, and re-add it at the new place.
+Renters ask about this often in r/HomeKit; one rental thread opens with "One of the first decisions is regarding HomeKit hub and the Apple ID." The hub is tied to one Apple ID, so with roommates we'd put it on the person staying longest. Matter lights need no extra hub, which fits the advice in a first-apartment thread: "I'd stay away from anything that needs a unique hub". On move-out, remove each light from Apple Home, reset it, and re-add it at the new place.
 
 ### Router and IPv6 when the landlord controls the network
 
@@ -327,7 +327,7 @@ If building Wi-Fi is landlord-managed, you may not be able to turn on IPv6. Ask 
 
 ### Won't pair
 
-Matter pairing that fails for hours is a recurring complaint in r/homeassistant and r/alexa threads, like [this three-day attempt](https://www.reddit.com/r/homeassistant/comments/1rgodgx/ive_been_trying_to_pair_matter_devices_for_3_days/). Many of those involve Thread border routers, which don't apply to Govee. Check IPv6, 2.4 GHz and the 15-minute window, then reboot the router first and the light second, and pair again.
+Matter pairing that fails for hours is a recurring complaint in r/homeassistant and r/alexa threads, like this three-day attempt. Many of those involve Thread border routers, which don't apply to Govee. Check IPv6, 2.4 GHz and the 15-minute window, then reboot the router first and the light second, and pair again.
 
 ### Already paired elsewhere
 
@@ -339,4 +339,4 @@ Follow the remove, reset, re-add order above.
 
 ### Wall switch off kills control
 
-Roommates flipping the switch is the classic shared-rental failure: ["when you flip the wall switch, all power is stopped so the smart bulb becomes totally dead."](https://doitforme.solutions/blog/are-your-smart-bulbs-making-your-smart-home-dumb/) Keep that switch on and tape a cover over it. Our [smart bulbs for renters with wall switch fixes](/blog/best-smart-light-bulbs-for-renters/) covers other workarounds, and our [no-drill smart home for renters](/blog/smart-home-for-renters/) shows what to add next.
+Roommates flipping the switch is the classic shared-rental failure: "when you flip the wall switch, all power is stopped so the smart bulb becomes totally dead." Keep that switch on and tape a cover over it. Our [smart bulbs for renters with wall switch fixes](/blog/best-smart-light-bulbs-for-renters/) covers other workarounds, and our [no-drill smart home for renters](/blog/smart-home-for-renters/) shows what to add next.

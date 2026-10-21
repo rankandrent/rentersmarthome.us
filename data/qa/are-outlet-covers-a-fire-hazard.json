@@ -1,23 +1,17 @@
 {
   "slug": "are-outlet-covers-a-fire-hazard",
   "pass": true,
-  "checkedAt": "2026-10-21T10:15:40.888Z",
+  "checkedAt": "2026-10-21T19:51:23.732Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.esfi.org/childproofing-your-home-tamper-resistant-receptacles/",
-    "source didn't respond normally (403): https://www.esfi.org/tamper-resistant-receptacles-trr-white-paper/",
-    "source didn't respond normally (403): https://www.cpsc.gov/safety-education/safety-guides/kids-and-babies/Childproofing-Your-Home",
-    "source didn't respond normally (403): https://childcareta.acf.hhs.gov/cfoc/basic/chapter/5/5.2.4.2",
-    "source didn't respond normally (403): https://www.reddit.com/r/AskElectricians/comments/1j6k6s7/covering_a_normal_everyday_outlet_with_no_plugs/",
-    "source didn't respond normally (403): https://www.reddit.com/r/BeyondTheBumpUK/comments/1odw3v7/plug_socket_covers_to_use_or_not_to_use/"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "No products (guide). Verified every number and claim against the opened pages: ESFI TRR white paper (Temple University study 47% of 4-year-olds / 100% of 2- and 4-year-olds removed caps, often within 10 seconds; NEC TRR requirement 2008; 46 of 50 states for new construction and replacement receptacles; shutters open only with both blades), ESFI childproofing page (approx. 2,400 children/year severe shock and burns; video 1_s6hxxWTiE is ESFI's own), CPSC Childproofing Your Home (protectors not easily removed, too large to choke on, use TR when replacing), HHS CFOC 5.2.4.2 (sliding covers close automatically), InterNACHI (TR or tamper-resistant imprinted on face), FatallyFlawed (applies to BS 1363 only; socket contact damage results in overheating and possible fire; upside-down covers open shutters), Arco Electric (no fire risk under normal use; not fireproof; burning smell/heat/discoloration warning signs), Prism (buzzing = loose connections; claims covers raise overheating risk), Mr. Electric (same claim). Reddit quotes verified verbatim via search excerpts at the same thread URLs (AskElectricians, BeyondTheBumpUK, HomeMaintenance). Internal links how-to-baby-proof-a-rental-without-damage and lazy-susan-child-lock pass QA and go live before this pubDate. Re-checked after edits: CFOC 5.2.4.2 now cited in text (link kept in sources), first-person edits only.",
-    "at": "2026-10-21T10:12:53.528Z",
-    "hash": "b7adda60a30290a5"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:51:23.379Z",
+    "hash": "d4d9e9aa96d67c26"
   }
 }

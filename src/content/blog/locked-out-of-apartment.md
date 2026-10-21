@@ -580,7 +580,7 @@ If the locksmith has to drill, the landlord's cylinder is gone and your landlord
 
 ### Dead batteries and the 9V emergency terminals
 
-Dead batteries are a recurring complaint in r/ApartmentMaintenance, r/legaladvice and r/Locksmith threads. One maintenance worker on r/ApartmentMaintenance put it bluntly: ["When the batteries die, the occupant is locked out until a maintenance technician comes."](https://www.reddit.com/r/ApartmentMaintenance/comments/1p38soy/these_door_locks_requires_batteries_when_the/) The fix is simple but needs a habit. Change batteries at the first low-battery alert, not the last. Many keypad deadbolts also have two 9V battery terminals under the keypad that power it from outside long enough to enter a code; check your lock's manual to see if yours does. Retrofit locks avoid the problem in a different way: the physical key override still works.
+Dead batteries are a recurring complaint in r/ApartmentMaintenance, r/legaladvice and r/Locksmith threads. One maintenance worker on r/ApartmentMaintenance put it bluntly: "When the batteries die, the occupant is locked out until a maintenance technician comes." The fix is simple but needs a habit. Change batteries at the first low-battery alert, not the last. Many keypad deadbolts also have two 9V battery terminals under the keypad that power it from outside long enough to enter a code; check your lock's manual to see if yours does. Retrofit locks avoid the problem in a different way: the physical key override still works.
 
 ### App, Bluetooth or Wi-Fi not responding
 
@@ -588,7 +588,7 @@ App and Wi-Fi drops are a common topic in smart-lock help guides. Remote unlock 
 
 ### Who pays for the locksmith? Check your lease and ask your landlord in writing
 
-Bills after a failed smart lock are a recurring fight in r/chicago, r/legaladvice and r/Locksmith threads. The r/legaladvice renter who got locked out at 2 a.m. was ["now charged for locksmith + drilled lock."](https://www.reddit.com/r/legaladvice/comments/1pa2zkl/locked_out_at_2_am_due_to_failed_smart_lock/) We can't tell you who is liable, because that turns on your lease and local rules. What helps either way: call the landlord's emergency line before the locksmith, keep the call log and receipt, and ask in writing how the lock failure will be handled. A local tenant union or legal aid office can tell you where you stand.
+Bills after a failed smart lock are a recurring fight in r/chicago, r/legaladvice and r/Locksmith threads. The r/legaladvice renter who got locked out at 2 a.m. was "now charged for locksmith + drilled lock." We can't tell you who is liable, because that turns on your lease and local rules. What helps either way: call the landlord's emergency line before the locksmith, keep the call log and receipt, and ask in writing how the lock failure will be handled. A local tenant union or legal aid office can tell you where you stand.
 
 ### Landlord installed a smart lock with no physical key
 
@@ -638,7 +638,7 @@ The [SwitchBot Lock Pro](amzn:SwitchBot+Lock+Pro) takes a gentler route: a batte
 
 ### Yale Approach Lock with Wi-Fi and Keypad Touch: keypad kit in one box
 
-If you want everything in one box, the [Yale Approach Lock with Wi-Fi and Keypad Touch](amzn:Yale+Approach+Lock+Deadbolt+Wi-Fi+Keypad+B-YRR110-F-WF1-N-BSP) ships with the lock, a fingerprint keypad and a Wi-Fi bridge. The lock goes on the inside of your existing deadbolt, and the key still works. The IPX5 keypad sticks on with an adhesive pad or screws, so it can stay drill-free. One Slickdeals owner of about a year calls it pretty solid and more reliable than expected, with four AA batteries lasting 4 to 5 months. The same owner power-cycles the bridge every six months or so and notes a 3 to 5 second fingerprint lag. In its [Yale Approach review](https://www.pcworld.com/article/2331746/yale-approach-lock-with-wi-fi-keypad-review-this-is-easier.html), PCWorld found the install took more steps than a full-replacement deadbolt. It also hit calibration and firmware glitches. The bridge needs an outlet within about 30 feet of the door.
+If you want everything in one box, the [Yale Approach Lock with Wi-Fi and Keypad Touch](amzn:Yale+Approach+Lock+Deadbolt+Wi-Fi+Keypad+B-YRR110-F-WF1-N-BSP) ships with the lock, a fingerprint keypad and a Wi-Fi bridge. The lock goes on the inside of your existing deadbolt, and the key still works. The IPX5 keypad sticks on with an adhesive pad or screws, so it can stay drill-free. One Slickdeals owner of about a year calls it pretty solid and more reliable than expected, with four AA batteries lasting 4 to 5 months. The same owner power-cycles the bridge every six months or so and notes a 3 to 5 second fingerprint lag. In its Yale Approach review, PCWorld found the install took more steps than a full-replacement deadbolt. It also hit calibration and firmware glitches. The bridge needs an outlet within about 30 feet of the door.
 
 ### Master Lock Portable Key Lock Box 5400EC: spare key on a knob
 
@@ -658,7 +658,7 @@ This table compares the three ways renters prevent lockouts on the points landlo
 | Keypad deadbolt | Yes, full swap | Yes, batteries | Key or 9V terminals | Required |
 | Lockbox (key safe) | No | No | Spare key inside | Check building rules |
 
-Renters worry most about the lease. One r/jerseycity commenter warned: ["If the landlord found out and considered this an alteration of the lock, you could face eviction."](https://www.reddit.com/r/jerseycity/comments/1ncrxoj/landlord_wont_provide_physical_keys_for_smart/) That fear is a recurring theme in r/jerseycity and r/homeautomation threads. A retrofit avoids it, as one r/homeautomation reply explains: ["You leave the outside of the deadbolt the same. This allows the landlord to keep using their same key."](https://www.reddit.com/r/homeautomation/comments/1rm2gag/best_renter_friendly_smart_lock/)
+Renters worry most about the lease. One r/jerseycity commenter warned: "If the landlord found out and considered this an alteration of the lock, you could face eviction." That fear is a recurring theme in r/jerseycity and r/homeautomation threads. A retrofit avoids it, as one r/homeautomation reply explains: "You leave the outside of the deadbolt the same. This allows the landlord to keep using their same key."
 
 ### How to ask your landlord for permission (sample email)
 

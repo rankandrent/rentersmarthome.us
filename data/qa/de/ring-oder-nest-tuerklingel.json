@@ -3,16 +3,16 @@
   "lang": "de",
   "translationOf": "ring-vs-nest-doorbell",
   "pass": true,
-  "checkedAt": "2026-10-21T10:21:27.538Z",
+  "checkedAt": "2026-10-21T19:51:41.118Z",
   "errors": [],
   "warnings": [
     "not localized yet: run localizer-agent for ring-vs-nest-doorbell (data/briefs/de/ring-vs-nest-doorbell.local.json), then rewrite with translator-agent",
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
-    "LIVE POST, FIX: source returns 404: https://support.google.com/googlehome/answer/10901611?hl=en"
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Compared section by section against QA-passed English post ring-vs-nest-doorbell: specs, scores, FAQ answers, tldr, quotes with attribution and 'in English' link labels, cold ratings. Unit conversions checked: -4 F = -20 C, 122 F = 50 C, 40 C = 104 F, 0 C = 32 F, 10 ft = 3 m, 5.8x2.11x1.34 in = 14.7x5.4x3.4 cm; Ring -20 C and Nest -20 C operating limits match English (-4 F / -20 C), Nest charging-only-above-0 C preserved. No prices, plan prices, local law, local Amazon availability or testing claims; research-not-testing wording follows English; ASINs left asinVerified false and not claimed checked. Did not re-open external source pages; relied on the English post's factcheck of Ring, Google, SafeHome, Security.org and Reddit sources.",
-    "at": "2026-10-19T14:28:54.884Z"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:51:40.674Z",
+    "hash": "2250e480a858a178"
   }
 }

@@ -166,7 +166,7 @@ With the US homeownership rate at [65.0 percent](https://www.census.gov/housing/
 
 **Yes for the Nest Thermostat (2020) and Nest Learning Thermostat (4th gen), through Matter; no for every older model unless you add a bridge.** No Nest thermostat has native HomeKit support. Matter is the cross-brand standard that lets a Google-made thermostat show up in the Apple Home app.
 
-Google began rolling out Matter to the 2020 Nest Thermostat in April 2023, per [MacRumors](https://forums.macrumors.com/threads/nest-thermostat-gaining-apple-homekit-support-starting-today-via-matter.2387119/), and the 2024 Learning Thermostat shipped with it. Owners of older Learning models were not pleased; one MacRumors commenter wrote, "Just the cheap one!! What gives i have all learning thermostats."
+Google began rolling out Matter to the 2020 Nest Thermostat in April 2023, per MacRumors, and the 2024 Learning Thermostat shipped with it. Owners of older Learning models were not pleased; one MacRumors commenter wrote, "Just the cheap one!! What gives i have all learning thermostats."
 
 ### Which Nest thermostats support Matter
 
@@ -188,9 +188,9 @@ Not sure which one is on your wall? Google says you can check the display, the b
 
 ### If the thermostat is already linked to an account
 
-A recurring post in r/Nest is a renter who writes, ["I would like to connect to the Nest thermostat in my apartment"](https://www.reddit.com/r/Nest/comments/xwspi6/nest_thermostat_in_an_apartment_says_it_is/), only to find it is tied to another app. Landlords in the same subreddit suggest the fix: ["You could grant their Nest accounts access to the thermostat."](https://www.reddit.com/r/Nest/comments/muctii/nest_thermostat_as_landlord/)
+A recurring post in r/Nest is a renter who writes, "I would like to connect to the Nest thermostat in my apartment", only to find it is tied to another app. Landlords in the same subreddit suggest the fix: "You could grant their Nest accounts access to the thermostat."
 
-That access matters because of Matter multi-admin. Google's help page says the feature lets you [use Matter-enabled devices simultaneously in different Matter-certified apps](https://support.google.com/googlehome/answer/13127223?hl=en) like Google Home and Apple HomeKit. So the landlord keeps their Google Home link, and you add Apple Home next to it. We would not factory reset a landlord's thermostat to get around this: a reset wipes their schedules and settings, and it is their equipment.
+That access matters because of Matter multi-admin. Google's help page says the feature lets you use Matter-enabled devices simultaneously in different Matter-certified apps like Google Home and Apple HomeKit. So the landlord keeps their Google Home link, and you add Apple Home next to it. We would not factory reset a landlord's thermostat to get around this: a reset wipes their schedules and settings, and it is their equipment.
 
 ### What to ask your landlord
 
@@ -206,7 +206,7 @@ If they say no, the thermostat still works by hand. Our [guide to whether you ca
 
 ## How to add a Nest thermostat to Apple Home with Matter
 
-**To add a Nest thermostat to Apple Home, generate a Nest thermostat Matter pairing code, then scan it in the Apple Home app with Add Accessory; it takes a few minutes once you have a home hub.** Apple is clear on the hub: [You must set up a home hub to add Matter accessories to the Home app](https://support.apple.com/en-us/102557), meaning a HomePod, HomePod mini or Apple TV.
+**To add a Nest thermostat to Apple Home, generate a Nest thermostat Matter pairing code, then scan it in the Apple Home app with Add Accessory; it takes a few minutes once you have a home hub.** Apple is clear on the hub: You must set up a home hub to add Matter accessories to the Home app, meaning a HomePod, HomePod mini or Apple TV.
 
 ### Nest Learning Thermostat (4th gen)
 
@@ -257,15 +257,15 @@ In a rental we'd only bridge if you control the Google account. Bridges sign in 
 
 ### Pairing fails
 
-Network bands are the first suspect. One r/HomeKit reply says, ["When you try to connect through the matter code make sure that your iPhone is on a 2.4ghz network."](https://www.reddit.com/r/HomeKit/comments/1qx1e0w/nest_thermostat_homekit_issues/) A leftover link is the second: for the 4th gen, an r/Nest fix is to ["go to the Settings Menu -> Matter and ensure it shows 0 Linked Apps."](https://www.reddit.com/r/Nest/comments/1ey3ug9/gen_4_matterhomekit_integration_not_working/) ATHBridge adds that Matter codes expire after a few minutes, so generate a fresh one and scan it right away.
+Network bands are the first suspect. One r/HomeKit reply says, "When you try to connect through the matter code make sure that your iPhone is on a 2.4ghz network." A leftover link is the second: for the 4th gen, an r/Nest fix is to "go to the Settings Menu -> Matter and ensure it shows 0 Linked Apps." ATHBridge adds that Matter codes expire after a few minutes, so generate a fresh one and scan it right away.
 
 ### Nest thermostat No Response after a few days
 
-This is the most worrying report, and it comes up in several r/HomeKit threads. One owner wrote, ["Adding it with matter does not work very well and it will stop responding after a week or so."](https://www.reddit.com/r/HomeKit/comments/1577t23/trying_to_add_nest_thermostat_with_matter_to/) Restart in this order: the HomePod or Apple TV, then the thermostat. If it returns, remove the thermostat from Apple Home, clear its linked apps, and pair again. Apple's hub page also asks you to keep the hub updated and on your home Wi-Fi, which matters on shared apartment networks.
+This is the most worrying report, and it comes up in several r/HomeKit threads. One owner wrote, "Adding it with matter does not work very well and it will stop responding after a week or so." Restart in this order: the HomePod or Apple TV, then the thermostat. If it returns, remove the thermostat from Apple Home, clear its linked apps, and pair again. Apple's hub page also asks you to keep the hub updated and on your home Wi-Fi, which matters on shared apartment networks.
 
 ### "Matter" on the box but not sure it fits Apple
 
-Matter confusion runs through r/HomeKit; as one reply puts it, ["The challenge is that Matter is evolving quickly."](https://www.reddit.com/r/HomeKit/comments/1l0soq3/does_matter_automatically_mean_a_device_will_work/) For Nest thermostats the rule is simple: only the two models in the table above. If you're shopping for gear that pairs without a fuss, our list of [Apple HomeKit compatible devices for renters](/blog/apple-homekit-compatible-devices/) shows the Matter check we use.
+Matter confusion runs through r/HomeKit; as one reply puts it, "The challenge is that Matter is evolving quickly." For Nest thermostats the rule is simple: only the two models in the table above. If you're shopping for gear that pairs without a fuss, our list of [Apple HomeKit compatible devices for renters](/blog/apple-homekit-compatible-devices/) shows the Matter check we use.
 
 ## Move-out checklist for a Nest in Apple Home
 

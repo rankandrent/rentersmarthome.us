@@ -309,11 +309,11 @@ If a streaming box is already on your list, the [Apple TV 4K (4th generation)](a
 
 **Matter is the cross-brand standard Apple Home supports; Thread is the low-power mesh network many Matter devices use, and it needs a Thread border router**, which both hubs above provide. Zigbee devices are different: they need the maker's own bridge, such as the Philips Hue Bridge, to join HomeKit.
 
-Which protocol to start with confuses new buyers, a recurring theme in [r/homeautomation threads](https://www.reddit.com/r/homeautomation/comments/1eamwov/new_smart_home_what_protocol_should_i_use_zigbee/). One reply in r/homeassistant puts it well: "[Zigbee and Matter are not self exclusive and shouldn't be compared.](https://www.reddit.com/r/homeassistant/comments/14uh5w7/zigbee_or_matter_for_new_installation/)" For an apartment, our answer is simpler: pick Wi-Fi or Thread devices and skip anything that needs its own bridge.
+Which protocol to start with confuses new buyers, a recurring theme in r/homeautomation threads. One reply in r/homeassistant puts it well: "Zigbee and Matter are not self exclusive and shouldn't be compared." For an apartment, our answer is simpler: pick Wi-Fi or Thread devices and skip anything that needs its own bridge.
 
 ## Who owns the Home when you rent
 
-**Set the Home and the hub up under your own Apple ID, invite everyone else, and never add the building's devices without written permission.** The original poster in one [r/HomeKit rental thread](https://www.reddit.com/r/HomeKit/comments/n51voa/homekit_in_a_rental_property/) starts exactly here: "One of the first decisions is regarding HomeKit hub and the Apple ID." None of the top search results for this topic covers it.
+**Set the Home and the hub up under your own Apple ID, invite everyone else, and never add the building's devices without written permission.** The original poster in one r/HomeKit rental thread starts exactly here: "One of the first decisions is regarding HomeKit hub and the Apple ID." None of the top search results for this topic covers it.
 
 > **From our notes:** When we read the r/HomeKit rental threads for this guide, the posts we could see (search excerpts only, since the full threads weren't readable) skipped gadgets entirely. The first decision one poster raised was the hub and the Apple ID, and a first-apartment reply steered away from anything needing a unique hub. That changed our outline. We had planned a gear list up front; instead we moved ownership, roommates and move-out ahead of shopping, because a renter who gets the account right can swap every accessory later, and one who gets it wrong rebuilds from scratch.
 
@@ -323,7 +323,7 @@ The person who creates the Home controls it. Invite roommates from the Home app 
 
 ### Landlord-owned locks and thermostats
 
-Some buildings install smart locks, thermostats or hubs. Tenants in one [r/HomeKit thread](https://www.reddit.com/r/HomeKit/comments/1nm350y/homekit_for_rental_property/) ask about linking property devices to their own accounts. Our advice: check your lease, and ask the landlord in writing for the pairing code before adding anything that belongs to the building. Without a yes, leave it out of your Home. This isn't legal advice; your lease and local rules decide.
+Some buildings install smart locks, thermostats or hubs. Tenants in one r/HomeKit thread ask about linking property devices to their own accounts. Our advice: check your lease, and ask the landlord in writing for the pairing code before adding anything that belongs to the building. Without a yes, leave it out of your Home. This isn't legal advice; your lease and local rules decide.
 
 ### Move-out checklist
 
@@ -338,7 +338,7 @@ Our [smart home for renters checklist](/blog/smart-home-for-renters/) covers the
 
 ## A no-drill, no-bridge starter kit
 
-**Start with Wi-Fi or Thread plugs and bulbs, and add a hub only when you want automations or away-from-home control.** That mirrors the advice in an [r/HomeKit first-apartment thread](https://www.reddit.com/r/HomeKit/comments/zzyc45/first_apartment_homekit_recommendations/): "I'd stay away from anything that needs a unique hub and stick with WiFi or Thread devices."
+**Start with Wi-Fi or Thread plugs and bulbs, and add a hub only when you want automations or away-from-home control.** That mirrors the advice in an r/HomeKit first-apartment thread: "I'd stay away from anything that needs a unique hub and stick with WiFi or Thread devices."
 
 What to buy first:
 
@@ -346,7 +346,7 @@ What to buy first:
 - Smart bulbs for existing fixtures (keep the old bulbs for move-out).
 - Battery sensors on Thread once you own a hub.
 
-What to skip: bridge-dependent systems and camera add-ons that lock features behind another subscription. One reply in an [r/HomeKit moving thread](https://www.reddit.com/r/HomeKit/comments/wg8f0t/im_moving_into_an_apartment_in_a_few_months_and/) about a camera line notes: "Only the wired one works with HomeKit, and you need an additional Arlo hub." Also budget for an iCloud+ plan if you want HomeKit Secure Video, the end-to-end encrypted camera recording, which also needs a hub.
+What to skip: bridge-dependent systems and camera add-ons that lock features behind another subscription. One reply in an r/HomeKit moving thread about a camera line notes: "Only the wired one works with HomeKit, and you need an additional Arlo hub." Also budget for an iCloud+ plan if you want HomeKit Secure Video, the end-to-end encrypted camera recording, which also needs a hub.
 
 ## Problems owners run into, and the fix
 
@@ -354,11 +354,11 @@ What to skip: bridge-dependent systems and camera add-ons that lock features beh
 
 ### Matter on the box does not guarantee full Apple Home support
 
-Whether Matter automatically means "works with HomeKit" is a recurring question, as in this [r/HomeKit thread](https://www.reddit.com/r/HomeKit/comments/1l0soq3/does_matter_automatically_mean_a_device_will_work/). Support varies by device and app version. The fix: look for the Works with Apple Home label and read the maker's Apple Home support page before buying. Our [Matter smart plug picks](/blog/best-matter-smart-plugs/) note which ones work with Apple Home.
+Whether Matter automatically means "works with HomeKit" is a recurring question, as in this r/HomeKit thread. Support varies by device and app version. The fix: look for the Works with Apple Home label and read the maker's Apple Home support page before buying. Our [Matter smart plug picks](/blog/best-matter-smart-plugs/) note which ones work with Apple Home.
 
 ### Thread devices going offline
 
-Groups of Thread devices dropping until the border router restarts is a recurring report across [r/HomeKit](https://www.reddit.com/r/HomeKit/comments/1j8pf7q/thread_devices_keep_going_out/) and r/MatterProtocol: "Pretty much randomly every other day or so- all my thread devices just go completely offline." In a dense building, we'd reduce the risk this way:
+Groups of Thread devices dropping until the border router restarts is a recurring report across r/HomeKit and r/MatterProtocol: "Pretty much randomly every other day or so- all my thread devices just go completely offline." In a dense building, we'd reduce the risk this way:
 
 1. Keep one set of border routers; owners in these threads tried turning off Thread on a second-brand router.
 2. Place the hub centrally, not in a cabinet or behind the TV.

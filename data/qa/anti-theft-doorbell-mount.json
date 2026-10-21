@@ -9,8 +9,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified via Firecrawl: DoorbellBoa fit limits (inward-swinging door, max 2 in thick, foam inserts, Ring/Arlo/Blink/eufy compatible) against In The Know/Yahoo article and Amazon listing snippet B08GG9NVSM; door-would-not-close and too-long complaints and 38-review count against Walmart Business review page; University Edge recommendation against its page; r/Ring owner recs (1mzh1cs, 13zeusk) and quotes (1j3e648, 1jv9cw3) via search excerpts; Ring theft policy (ring.com purchases only, police report + receipt, 15 days) against ring.com/pages/device-stolen and support article 90nj3; Tamper Proof Cover not compatible with no-drill mount against Ring support w3k6t; security-screw advice against Reolink blog; 55% renters insurance against NAA page; 38 percent package theft against security.org/doorbell-camera; video nkPruKEFcT4 (EvenTechCorp, 2023) shows DoorbellBoa install. Removed unverified 'metal' claim.",
-    "at": "2026-10-21T10:15:35.672Z",
-    "hash": "b283f50f82df798d"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:51:22.108Z",
+    "hash": "1e48a8c5f97c84e8"
   }
 }

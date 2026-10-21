@@ -208,7 +208,7 @@ Most top results for this search are written for building owners shopping for a 
 
 ### Phone-based (dial-out) buzzers
 
-A dial-out panel calls your phone number; you answer, talk, and press a key (often 9) to unlock the door, as [Knockli's explainer on apartment buzzers](https://knockli.com/blog/apartment-buzzers-how-they-work-smart-alternatives) describes. You need no hardware:
+A dial-out panel calls your phone number; you answer, talk, and press a key (often 9) to unlock the door, as Knockli's explainer on apartment buzzers describes. You need no hardware:
 
 - Ask the property manager to list your cell number, or forward the landline the panel calls.
 - Save the buzzer's number as a contact so you don't ignore it as spam.
@@ -250,19 +250,19 @@ Wired retrofits look like the obvious smart apartment buzzer, but in our Amazon 
 
 ### The door only opens during a call
 
-On some systems the release key does nothing unless a visitor is buzzing. One r/homeautomation reply on [whether SwitchBot is the only option for an old intercom](https://www.reddit.com/r/homeautomation/comments/ybm7hq/is_switchbot_my_only_chance_to_make_this_old/) put it plainly: "Check if the key button works even without a “call in progress”". The fix: press the Door button with nobody downstairs before you buy anything. If the lobby door clicks, a button pusher can let you in on your own schedule; if it only works mid-call, have guests buzz first, then press from the app.
+On some systems the release key does nothing unless a visitor is buzzing. One r/homeautomation reply on whether SwitchBot is the only option for an old intercom put it plainly: "Check if the key button works even without a “call in progress”". The fix: press the Door button with nobody downstairs before you buy anything. If the lobby door clicks, a button pusher can let you in on your own schedule; if it only works mid-call, have guests buzz first, then press from the app.
 
 ### No alert on your phone
 
-A renter in r/astoria asked to [make an apartment buzzer smart](https://www.reddit.com/r/astoria/comments/1gzqegq/make_apartment_buzzer_smart/) and wrote: "My last resort solution is a switchbot but I'd love to get notifications on my phone when someone buzzes if that's possible." A button pusher presses; it doesn't listen, so there is no visitor notification. On a wired handset, ask couriers and guests to text you on arrival, and you open the door from the app. On a dial-out panel, the call itself is the notification.
+A renter in r/astoria asked to make an apartment buzzer smart and wrote: "My last resort solution is a switchbot but I'd love to get notifications on my phone when someone buzzes if that's possible." A button pusher presses; it doesn't listen, so there is no visitor notification. On a wired handset, ask couriers and guests to text you on arrival, and you open the door from the app. On a dial-out panel, the call itself is the notification.
 
 ### Retrofit boxes need wiring
 
-Aaron Yeager, writing about [making his intercom smart](https://aaronyeager.com/blog/a-clever-workaround-for-making-your-intercom-smart), warned that the now-discontinued nello "requires rewiring your intercom yourself, which can be hard, and dangerous." SwitchBot's guide calls the Nuki and Ring openers troublesome to install yourself and says you might not get your landlord's permission, and Knockli notes Ring Intercom installs on the intercom panel. The fix is the adhesive route, or a written request to management for the wired one.
+Aaron Yeager, writing about making his intercom smart, warned that the now-discontinued nello "requires rewiring your intercom yourself, which can be hard, and dangerous." SwitchBot's guide calls the Nuki and Ring openers troublesome to install yourself and says you might not get your landlord's permission, and Knockli notes Ring Intercom installs on the intercom panel. The fix is the adhesive route, or a written request to management for the wired one.
 
 ### The buzzer is broken
 
-Knockli lists crackling audio, silence, or an unlock tone that doesn't register as common faults in aging systems, and a renter on r/sanfrancisco asked how to [replace a broken apartment buzzer](https://www.reddit.com/r/sanfrancisco/comments/sfmbng/need_help_replacing_broken_apartment_buzzer/). The intercom is building equipment, so report the fault to your property manager in writing and let them arrange the repair. Meanwhile, a dial-out number or the delivery apps' notes field keeps delivery access working.
+Knockli lists crackling audio, silence, or an unlock tone that doesn't register as common faults in aging systems, and a renter on r/sanfrancisco asked how to replace a broken apartment buzzer. The intercom is building equipment, so report the fault to your property manager in writing and let them arrange the repair. Meanwhile, a dial-out number or the delivery apps' notes field keeps delivery access working.
 
 > **From our notes:** When we lined up the top results for this search, almost all of them were selling a new entry system to the building's owner. The renter's version of the problem showed up only on page-one Reddit threads and personal blogs, where the advice was to stick a button pusher next to the handset. What stood out in SwitchBot's own intercom guide was the condition attached to it, that the door must unlock with a push button. That one line, plus a Reddit reply about calls in progress, is why we put the test-it-first step ahead of any product.
 

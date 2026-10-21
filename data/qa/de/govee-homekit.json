@@ -3,16 +3,15 @@
   "lang": "de",
   "translationOf": "govee-apple-homekit",
   "pass": true,
-  "checkedAt": "2026-10-21T10:20:35.845Z",
+  "checkedAt": "2026-10-21T19:51:38.991Z",
   "errors": [],
   "warnings": [
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
-    "source didn't respond normally (403): https://www.reddit.com/r/wohnen/comments/1shqgox/vermieter_will_800_schadensersatz_f%C3%BCr_nicht/"
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Guide-only rewrite (no product, no Amazon link). Compared remaining body, tldr and FAQs section by section with the English post and re-checked against its sources (Govee Matter FAQ, Govee Community pairing guide, AddToHomeKit; HOOBS Ring page, AddToHomeKit/SafeHome Ring guides) and the local brief (guideOnly true; EU H61E0 variant, Rijksoverheid/AP/IPv6 local facts and quotes). Removed product-only content (listing, owner posts, shop/shipping); nothing new added; no prices, no testing claims.",
-    "at": "2026-10-20T13:44:06.001Z",
-    "hash": "88d3722287c2bd65"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:51:38.583Z",
+    "hash": "b421d4036257fc50"
   }
 }

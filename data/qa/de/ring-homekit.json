@@ -3,23 +3,17 @@
   "lang": "de",
   "translationOf": "does-ring-work-with-apple-homekit",
   "pass": true,
-  "checkedAt": "2026-10-21T14:44:23.879Z",
+  "checkedAt": "2026-10-21T19:51:40.428Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://hoobs.com/ring/",
-    "source didn't respond normally (403): https://hoobs.com/box/",
-    "source didn't respond normally (no response): https://www.datenschutz-berlin.de/themen/wohnen/videoueberwachung-in-mietshaeusern/",
-    "source didn't respond normally (no response): https://www.datenschutz-berlin.de/fileadmin/user_upload/pdf/publikationen/DSK/kurzpapiere/DSK_KPNr_15_Videoueberwachung.pdf",
-    "source didn't respond normally (403): https://www.reddit.com/r/LegaladviceGerman/comments/uya0k3/ist_sicherheitskamera_als_mieter_um_zu_sehen_wer/",
-    "source didn't respond normally (403): https://www.reddit.com/r/LegaladviceGerman/comments/1f7bsw4/nachbar_ist_laut_und_hat_kamera_im_hausflur/"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Media backfill mirrored from English does-ring-work-with-apple-homekit, verified via Firecrawl: Ring plans page (https://ring.com/plans, US page, features may vary by country, stated in text) - motion event videos stored up to 180 days; free 30-day Ring Protect trial starts at device setup; no prices in text. Apple Support (https://support.apple.com/guide/iphone/set-up-security-cameras-iph7bc5df9d9/ios): iCloud+ shows last 10 days of activity; 200 GB plan supports up to five cameras. Same 3 illustrations (alt translated), same video mK8Wvv9aALs. Replaced SafeHome.org monthly-fee mention with Ring's own page.",
-    "at": "2026-10-21T06:55:07.599Z",
-    "hash": "15883f4e75180d09"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:51:40.028Z",
+    "hash": "3df006477f7bac43"
   }
 }

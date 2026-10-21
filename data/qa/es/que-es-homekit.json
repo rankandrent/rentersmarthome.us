@@ -3,13 +3,15 @@
   "lang": "es",
   "translationOf": "what-is-homekit",
   "pass": true,
-  "checkedAt": "2026-10-20T13:45:43.491Z",
+  "checkedAt": "2026-10-21T19:51:45.377Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
+  ],
   "factCheck": {
     "verified": true,
-    "notes": "Compared section by section with English what-is-homekit and local brief es. Products: only HomePod mini 2 and Apple TV 4K (fits). Specs metric-first match Apple ES brief/NL-confirmed hardware. Verified Forocoches quotes (3, on page p=465446225 posts 50/52/54), Apple Comunidad quotes (253741513, 256192244) via search excerpts. Fixed: Apple Comunidad user already owns Apple TV + HomePod mini, reworded the answer accordingly. LAU art. 23 and OCU given as general info with disclaimer, no legal advice. No prices, testing claims or local Amazon claims.",
-    "at": "2026-10-20T13:45:41.642Z",
-    "hash": "a94a0611b2252cfb"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:51:44.925Z",
+    "hash": "0fbe434a96fd23cf"
   }
 }

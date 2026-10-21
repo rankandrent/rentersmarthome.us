@@ -168,7 +168,7 @@ You are holding a door sensor box with a big Matter logo on the front and, in sm
 
 ## Matter vs Thread – the language and the road
 
-**Matter defines what devices say; Thread is the road the message travels on.** Per the Thread Group, Matter supports [three underlying network protocols](https://threadgroup.org/newsroom/blog/thread-with-matter-better-connections-smarter-homes): Thread, Wi-Fi or Ethernet, and the Connectivity Standards Alliance adds that Bluetooth Low Energy handles setup. One r/HomeKit answer puts it plainly: "Matter is an application protocol (matter packets), Thread is a network (like wifi)." ([source](https://www.reddit.com/r/HomeKit/comments/10sott0/please_explain_like_i_am_five_the_difference/))
+**Matter defines what devices say; Thread is the road the message travels on.** Per the Thread Group, Matter supports three underlying network protocols: Thread, Wi-Fi or Ethernet, and the Connectivity Standards Alliance adds that Bluetooth Low Energy handles setup. One r/HomeKit answer puts it plainly: "Matter is an application protocol (matter packets), Thread is a network (like wifi)." (source)
 
 We lay out the two layers side by side in this table.
 
@@ -186,7 +186,7 @@ Zigbee and Z-Wave devices reach Matter only through a bridge, per the CSA. Threa
 
 **Pick Matter over Thread for anything on batteries and Matter over Wi-Fi for anything plugged in.** The Thread Group says one mesh can link [more than 250 devices](https://threadgroup.org/BUILT-FOR-IOT/Smart-Home); always-powered devices such as lights and plugs act as routers that extend coverage, while battery sensors and locks talk through a parent device and can run for years.
 
-Matter over Wi-Fi skips the border router and joins your router directly, which suits plugs, appliances and displays. The trade-off is power: the Thread Group says Thread's low-power design gives Matter devices far better battery life than their Wi-Fi counterparts, which is why locks and sensors lean on Thread. Our [Matter smart plug guide](/blog/best-matter-smart-plugs/) covers the Wi-Fi side. The video below compares the two transports.
+Matter over Wi-Fi skips the border router and joins your router directly, which suits plugs, appliances and displays. The trade-off is power: the Thread Group says Thread's low-power design gives Matter devices far better battery life than their Wi-Fi counterparts, which is why we recommend Thread for locks and sensors. Our [Matter smart plug guide](/blog/best-matter-smart-plugs/) covers the Wi-Fi side. The video below compares the two transports.
 
 ## Reading the box – which logo tells you what
 
@@ -197,13 +197,13 @@ Before you buy, check the box for these marks:
 - **Matter logo:** works with any Matter controller; the network is printed elsewhere (Wi-Fi or Thread).
 - **"Built on Thread" with "Requires Border Router":** you need a Thread border router at home. The Thread Group FAQ names these exact badges.
 - **"Built on Thread" with "Border Router":** the product is one, so it can be your first.
-- **Thread without Matter:** possible. [Homey's FAQ](https://homey.app/en-us/wiki/matter-vs-thread-understanding-the-difference/) notes a Thread device needs Matter certification to support the standard, so look for both marks. Apple households can see how home hubs fit in our [HomeKit explainer for renters](/blog/what-is-homekit/).
+- **Thread without Matter:** possible. Homey's FAQ notes a Thread device needs Matter certification to support the standard, so look for both marks. Apple households can see how home hubs fit in our [HomeKit explainer for renters](/blog/what-is-homekit/).
 
 ### Do you need a Thread border router?
 
 **Only for Thread devices, and you may already own one.** Google's store page lists border routers in the Nest Wifi Pro, second-gen Nest Hub, Nest Hub Max and Google TV Streamer (4K). Data Wire Solutions lists the HomePod mini, HomePod (2nd gen), Thread-capable Apple TV 4K models, Echo Hub and Echo (4th gen). Without one, the guide warns, Thread devices will not commission.
 
-> **From our notes:** Reading the top results and owner threads for this guide, we kept seeing the same misunderstanding: people asking which of the two to "go with", as if Matter and Thread were rivals like Zigbee and Z-Wave. "Thread is not a subset of Matter. They're two different things," one r/HomeKit reply reads ([source](https://www.reddit.com/r/HomeKit/comments/xkvw7b/backwards_compatibility_matter_to_thread/)). Once we framed it as language and road, the box labels made sense.
+> **From our notes:** Reading the top results and owner threads for this guide, we kept seeing the same misunderstanding: people asking which of the two to "go with", as if Matter and Thread were rivals like Zigbee and Z-Wave. "Thread is not a subset of Matter. They're two different things," one r/HomeKit reply reads (source). Once we framed it as language and road, the box labels made sense.
 
 ## Matter or Thread problem? How to tell, and the fix
 
@@ -211,7 +211,7 @@ Before you buy, check the box for these marks:
 
 ### Devices go offline together
 
-Group dropouts are a recurring complaint in r/HomeKit. "Pretty much randomly every other day or so- all my thread devices just go completely offline," one [r/HomeKit owner](https://www.reddit.com/r/HomeKit/comments/1j8pf7q/thread_devices_keep_going_out/) writes; the same post says changing the home hub sometimes fixes it. That pattern points at the border router, not at Matter.
+Group dropouts are a recurring complaint in r/HomeKit. "Pretty much randomly every other day or so- all my thread devices just go completely offline," one r/HomeKit owner writes; the same post says changing the home hub sometimes fixes it. That pattern points at the border router, not at Matter.
 
 Our fix list:
 1. Restart the border router (speaker, display or streamer) and wait for devices to return.
@@ -221,7 +221,7 @@ Our fix list:
 
 ### A new device will not pair
 
-"Alexa suddenly won't add any Matter smart home products to its ecosystem," an [r/alexa owner](https://www.reddit.com/r/alexa/comments/1dgisga/cant_add_any_matter_smart_home_products_to_alexa/) writes. Pairing (commissioning) is the Matter layer: you scan the QR code and the controller hands the device its credentials. Google's setup notes list what it needs: a Matter-enabled hub, working Wi-Fi and Bluetooth Low Energy 4.2 or higher. So keep Bluetooth on, stay on the home Wi-Fi during setup, and confirm a border router is online before adding a Thread device. For deeper mesh fixes, our [Zigbee vs Thread guide](/blog/zigbee-vs-thread/) covers repeaters and dense-building interference.
+"Alexa suddenly won't add any Matter smart home products to its ecosystem," an r/alexa owner writes. Pairing (commissioning) is the Matter layer: you scan the QR code and the controller hands the device its credentials. Google's setup notes list what it needs: a Matter-enabled hub, working Wi-Fi and Bluetooth Low Energy 4.2 or higher. So keep Bluetooth on, stay on the home Wi-Fi during setup, and confirm a border router is online before adding a Thread device. For deeper mesh fixes, our [Zigbee vs Thread guide](/blog/zigbee-vs-thread/) covers repeaters and dense-building interference.
 
 ## Matter and Thread when you move out or share with roommates
 
@@ -235,7 +235,7 @@ For a renter, that means:
 - **Matter over Wi-Fi devices** may need setting up again on the new network.
 - **Landlord or ISP routers with Thread** can start a second network. [Thread 1.4](https://threadgroup.org/newsroom/blog/thread-14-paves-the-path-for-smart-devices-to-work-together-regardless-of-their-ecosystem-or-manufacturer), released in September 2024, makes an added border router join the existing network instead of creating a new one, so the fix depends on your border routers running 1.4.
 
-Roommates gain the most. Matter's multi-admin lets one lock or bulb sit in several platforms at once, so an iPhone roommate uses Apple Home while an Android roommate uses Google Home. The [CSA Matter FAQ](https://csa-iot.org/all-solutions/matter/matter-faq/) calls multi-admin a core feature. If you leave a device behind for the landlord, remove it from each app first.
+Roommates gain the most. Matter's multi-admin lets one lock or bulb sit in several platforms at once, so an iPhone roommate uses Apple Home while an Android roommate uses Google Home. The CSA Matter FAQ calls multi-admin a core feature. If you leave a device behind for the landlord, remove it from each app first.
 
 ## What renters should buy first
 

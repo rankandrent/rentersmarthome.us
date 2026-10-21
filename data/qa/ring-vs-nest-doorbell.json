@@ -1,15 +1,15 @@
 {
   "slug": "ring-vs-nest-doorbell",
   "pass": true,
-  "checkedAt": "2026-10-21T10:18:49.595Z",
+  "checkedAt": "2026-10-21T19:51:33.375Z",
   "errors": [],
   "warnings": [
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
-    "LIVE POST, FIX: source returns 404: https://support.google.com/googlehome/answer/10901611?hl=en"
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Re-opened 2026-10-19: ring.com/products/battery-doorbell-plus-2nd-gen (Retinal 2K, 140x140, IP55, -4 to 122 F, Micro-USB quick-release pack, 8-24 VAC, 10 min install, 5.8x2.11x1.34 in, dual-band Wi-Fi 6, No-Drill Mount listed as accessory for 'compatible doorbell', night vision, 30-day Ring Protect trial; page now names it Battery Doorbell 2K Plus); ring.com/plans (Ring Protect naming, Solo covers one device, 30-day trial, video history + person/package/vehicle alerts on plan; page still links 'Ring Home' so removed the 'renamed in 2026' date claim); store.google.com Nest Doorbell specs (960x1280, 145 diag, 3:4, HDR, night vision 10 ft, 3 h history, 30/60 days with Home Premium, no 24/7, 6 Ah, 8-24 VAC 10 VA, IP54, -20 to 40 C, charging above 0 C, 2 screws + 20 deg wedge + spacers, chime will not ring unless wired, voice control with Alexa or Gemini for Home, Google Home app + Google Account) and store.google.com/product/nest_doorbell (3 h history; records one hour if Wi-Fi is down); support.google.com/googlehome/answer/10901611 (2.5 months at 13-16 events/day, 6 months at 2-5, no charge below 0 C). Quotes verified: LandlordLove, Apartmentliving x1 (should_i_get), Apartmentliving ring_doorbells_not_allowed, r/Ring 1s8y1ee, r/Ring 184g6hd, r/Nest wl9myj, r/Nest r8aw1t via exact-phrase site:reddit.com search excerpts; Facebook Ring users group via search excerpt; CPI via scrape. r/smarthome 'subscription for recording videos' quote and MN winter text found verbatim on the RedditRecs page (not via a reddit.com excerpt), so the link now points to RedditRecs. Fixes: removed unsupported 'default settings' and 'covered porch' details, corrected night-vision and Alexa voice statements, softened No-Drill Mount to compatible doorbells, rewrote landlord message without first person. NOT re-opened: Security.org / SafeHome / Doorbell Mount articles, Best Buy pages, other Reddit threads in owner sources, Amazon ASINs (asinVerified stays false).",
-    "at": "2026-10-19T13:24:10.567Z"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:51:32.944Z",
+    "hash": "8e3faed045478d6e"
   }
 }

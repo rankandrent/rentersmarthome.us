@@ -172,7 +172,7 @@ The project is non-commercial and volunteer-run, with [over 2,000 Homebridge plu
 
 ### The always-on computer
 
-Homebridge installs on a [Raspberry Pi, Linux, macOS, Windows or Docker](https://homebridge.io/how-to-install-homebridge), and the install page links guides for Synology, Unraid and QNAP NAS boxes. A Raspberry Pi is the usual pick because it is small and uses little power. The official image needs a supported Pi model and [a 4GB or larger SD card](https://github.com/homebridge/homebridge-raspbian-image/wiki/Getting-Started), and it is flashed with Raspberry Pi Imager. If the host sleeps or loses power, every Homebridge accessory shows as unresponsive until it's back.
+Homebridge installs on a Raspberry Pi, Linux, macOS, Windows or Docker, and the install page links guides for Synology, Unraid and QNAP NAS boxes. A Raspberry Pi is the usual pick because it is small and uses little power. The official image needs a supported Pi model and [a 4GB or larger SD card](https://github.com/homebridge/homebridge-raspbian-image/wiki/Getting-Started), and it is flashed with Raspberry Pi Imager. If the host sleeps or loses power, every Homebridge accessory shows as unresponsive until it's back.
 
 ### The home hub
 
@@ -184,7 +184,7 @@ You install plugins from the Homebridge UI, a browser dashboard that also edits 
 
 ## Verified vs unverified Homebridge plugins
 
-**A verified badge means the Homebridge team reviewed the plugin against a list of requirements; it doesn't mean the device maker supports it.** The [Verified Plugins wiki page](https://github.com/homebridge/homebridge/wiki/Verified-Plugins) lists what reviewers check:
+**A verified badge means the Homebridge team reviewed the plugin against a list of requirements; it doesn't mean the device maker supports it.** The Verified Plugins wiki page lists what reviewers check:
 
 - Published on npm with public source on GitHub and issues enabled
 - Configurable through the Homebridge UI settings screen
@@ -224,17 +224,17 @@ Before you pack, our advice is to download a backup from the Homebridge UI. At t
 
 **Most Homebridge complaints come down to three things: plugins, power and discovery.**
 
-**Plugins that stop working.** After Homebridge 2.0, one r/homebridge user wrote, "[It appears that most of my plugins are not currently supporting HB v2, or even worse, they are no longer being developed by the maintainer.](https://www.reddit.com/r/homebridge/comments/1hkzlf0/homebridge_the_future_concerns/)" Fix: favor verified, recently updated plugins, back up before every update and roll back a plugin that breaks. Run each important plugin as a child bridge so one crash doesn't take down the rest.
+**Plugins that stop working.** After Homebridge 2.0, one r/homebridge user wrote, "It appears that most of my plugins are not currently supporting HB v2, or even worse, they are no longer being developed by the maintainer." Fix: favor verified, recently updated plugins, back up before every update and roll back a plugin that breaks. Run each important plugin as a child bridge so one crash doesn't take down the rest.
 
-**"Not Responding" after an outage.** Raspberry Pi owners in an [r/homebridge thread](https://www.reddit.com/r/homebridge/comments/1eplbzv/about_to_give_up_on_homebridge/) worry a power outage might damage the SD card, and one had to reboot the Apple TV to clear the errors. Fix: use a decent SD card, keep a current backup, connect the host by Ethernet, and add a small UPS if your building loses power often.
+**"Not Responding" after an outage.** Raspberry Pi owners in an r/homebridge thread worry a power outage might damage the SD card, and one had to reboot the Apple TV to clear the errors. Fix: use a decent SD card, keep a current backup, connect the host by Ethernet, and add a small UPS if your building loses power often.
 
-**The Home app can't find Homebridge.** The developer docs suggest swapping between the Bonjour HAP and Ciao mDNS advertisers and toggling airplane mode to flush the iPhone's DNS cache. One owner fixed a No Response bridge by [switching mDNS to Avahi](https://www.reddit.com/r/homebridge/comments/p8zmzr/homekit_devices_using_homebridge_get_no_response/).
+**The Home app can't find Homebridge.** The developer docs suggest swapping between the Bonjour HAP and Ciao mDNS advertisers and toggling airplane mode to flush the iPhone's DNS cache. One owner fixed a No Response bridge by switching mDNS to Avahi.
 
 > **From our notes:** When we worked through the Homebridge docs for this guide, the part that surprised us was how specific the verified list is. We counted 433 plugins in the wiki's verified table, including Ring, TP-Link Kasa, SwitchBot, Govee, Meross and Tuya, and each of them had to pass rules like no user tracking and a settings screen in the UI. The official Raspberry Pi guide was the other eye-opener: it warns that 32-bit images are losing support in Spring 2027, a detail none of the explainers we read mentioned. Picture a renter flashing an old card from a drawer; that's the first thing we'd check.
 
 ## Is Homebridge worth it for a renter?
 
-**Homebridge is worth it if you already own devices without HomeKit or Matter support and are fine maintaining a small computer; if you're buying new, buy native.** Owners are split: one r/HomeKit reply says "[Homebridge is completely worth it.](https://www.reddit.com/r/HomeKit/comments/1d37h7m/is_it_worth_it_to_set_up_and_maintain_a/)" for things like virtual timers, while another, a software engineer, says it takes a lot of debugging to get working.
+**Homebridge is worth it if you already own devices without HomeKit or Matter support and are fine maintaining a small computer; if you're buying new, buy native.** Owners are split: one r/HomeKit reply says "Homebridge is completely worth it." for things like virtual timers, while another, a software engineer, says it takes a lot of debugging to get working.
 
 We compare the three common routes in this table.
 

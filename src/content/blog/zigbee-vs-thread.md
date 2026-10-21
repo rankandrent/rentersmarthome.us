@@ -161,7 +161,7 @@ Your lease runs 12 months, the Aqara door sensor keeps dropping out of the app, 
 
 **Zigbee and Thread are both low-power mesh networks, self-healing and local, on the same IEEE 802.15.4 radio at 2.4 GHz with low latency.** Thread is an IPv6 network (6LoWPAN) under Matter, the interoperability standard that also runs over Wi-Fi; Zigbee needs a bridge to reach Matter. In both, mains-powered routers relay traffic and battery sensors are end devices. Per Silicon Labs, the [2.4 GHz radio runs at 250 kbps](https://docs.silabs.com/zigbee/8.2.3/zigbee-fundamentals/01-overview), fine for sensors, not video; the Thread Group says one Thread mesh can link [more than 250 devices](https://threadgroup.org/BUILT-FOR-IOT/Smart-Home).
 
-Commenters in an [r/homeassistant thread](https://www.reddit.com/r/homeassistant/comments/1lx5r87/zigbee_vs_thread_matter_for_new_house/) note that some coordinators can be flashed with firmware for either protocol, and [Aqara's Hub M3 spec sheet](https://www.aqara.com/us/product/hub-m3-specs/) lists both radios in one box. So the lock-in is the ecosystem you commission devices into, not the hardware. The video below compares both.
+Commenters in an r/homeassistant thread note that some coordinators can be flashed with firmware for either protocol, and [Aqara's Hub M3 spec sheet](https://www.aqara.com/us/product/hub-m3-specs/) lists both radios in one box. So the lock-in is the ecosystem you commission devices into, not the hardware. The video below compares both.
 
 We compare the two for an apartment in this table.
 
@@ -177,24 +177,24 @@ We compare the two for an apartment in this table.
 
 ### Zigbee re-pairing after a coordinator change
 
-Swapping hubs can mean re-pairing. "AFAIK, you will have to reset each device and connect it to the new coordinator," one [reply on moving between coordinators](https://www.reddit.com/r/homeassistant/comments/ubm53z/move_from_one_zigbee_coordinator_to_another/) says, although a [migration guide](https://www.reddit.com/r/homeassistant/comments/1phih9d/guide_for_migrating_your_zigbee_network_to_a_new/) claims ZHA or Zigbee2MQTT networks can move without re-pairing. A [Home Assistant forum poster](https://community.home-assistant.io/t/has-zigbee-devices-into-alexa/846207) also says Zigbee devices can only be paired to one hub.
+Swapping hubs can mean re-pairing. "AFAIK, you will have to reset each device and connect it to the new coordinator," one reply on moving between coordinators says, although a migration guide claims ZHA or Zigbee2MQTT networks can move without re-pairing. A Home Assistant forum poster also says Zigbee devices can only be paired to one hub.
 
 Our renter fix:
 1. Keep one portable coordinator (USB dongle or plug-in hub) as yours, not the apartment's.
 2. Label each sensor with its room before you pack.
-3. Move the coordinator with the devices; one owner in a [moving Zigbee devices thread](https://www.reddit.com/r/homeassistant/comments/1k5u0k6/moving_zigbee_devices/) says they moved everything, then turned the coordinator on, with no re-adopting.
+3. Move the coordinator with the devices; one owner in a moving Zigbee devices thread says they moved everything, then turned the coordinator on, with no re-adopting.
 
 ### Thread border routers you already own
 
-**Thread may need no new hub if you own a border router.** [Matter Alpha's list of Thread border routers](https://www.matteralpha.com/frequently-asked-questions/complete-list-thread-border-routers) includes the HomePod mini, the Amazon Echo Hub and the Aqara Hub M3. Own one and it is your Thread hub; our [HomeKit explainer for renters](/blog/what-is-homekit/) covers Apple home hubs.
+**Thread may need no new hub if you own a border router.** Matter Alpha's list of Thread border routers includes the HomePod mini, the Amazon Echo Hub and the Aqara Hub M3. Own one and it is your Thread hub; our [HomeKit explainer for renters](/blog/what-is-homekit/) covers Apple home hubs.
 
 > **From our notes:** Reading the owner threads, we noticed a split. The Zigbee complaints were about range and re-pairing, problems you can plan around before you sign a lease. The Thread complaints were about whole groups vanishing after a hub restart, a problem that arrives with the "free" border router. Know the restart fix before move-in.
 
 ## Zigbee vs Thread range in an apartment building
 
-**Low-power signal can struggle through brick or concrete walls and between floors, for either protocol,** as owners asking in a [brick-wall thread](https://www.reddit.com/r/smarthome/comments/1eduww7/zigbee_signal_cant_go_through_brick_wall/) found.
+**Low-power signal can struggle through brick or concrete walls and between floors, for either protocol,** as owners asking in a brick-wall thread found.
 
-We'd fix it with plug-in Zigbee repeaters between hub and sensor; each mains-powered plug can act as a Zigbee router (repeater). "The Ikea outlet plugs work really well as Zigbee repeaters," one owner writes ([source](https://www.reddit.com/r/homeassistant/comments/1l8ukfl/multiple_floors_zigbee_connections/)). On Thread, Matter plugs do the same; our [guide to Matter smart plugs](/blog/best-matter-smart-plugs/) notes which ones repeat the mesh.
+We'd fix it with plug-in Zigbee repeaters between hub and sensor; each mains-powered plug can act as a Zigbee router (repeater). "The Ikea outlet plugs work really well as Zigbee repeaters," one owner writes (source). On Thread, Matter plugs do the same; our [guide to Matter smart plugs](/blog/best-matter-smart-plugs/) notes which ones repeat the mesh.
 
 Neighbors' 2.4 GHz Wi-Fi adds interference; owners report fewer drops after moving the Zigbee channel away from busy Wi-Fi.
 
@@ -204,15 +204,15 @@ Neighbors' 2.4 GHz Wi-Fi adds interference; owners report fewer drops after movi
 
 ### Zigbee sensors dropping off
 
-Dropouts are a recurring complaint in r/homeassistant threads. "I had Aqara devices dropping left and right off the network," one owner [writes](https://www.reddit.com/r/homeassistant/comments/16iz7r7/i_am_tired_of_zigbee_disconnections_how_do_i/). The repeated advice: "you need to add a few zigbee router type devices to make the network stronger" ([source](https://www.reddit.com/r/homeassistant/comments/vz6da4/question_are_zigbee_disconnects_and_crappy/)), then change the channel and remove flaky devices.
+Dropouts are a recurring complaint in r/homeassistant threads. "I had Aqara devices dropping left and right off the network," one owner writes. The repeated advice: "you need to add a few zigbee router type devices to make the network stronger" (source), then change the channel and remove flaky devices.
 
 ### Thread devices offline after a restart
 
-Whole-group dropouts recur in r/HomeKit and r/MatterProtocol threads. "Pretty much randomly every other day or so- all my thread devices just go completely offline," an [r/HomeKit owner](https://www.reddit.com/r/HomeKit/comments/1j8pf7q/thread_devices_keep_going_out/) reports; an [r/MatterProtocol owner](https://www.reddit.com/r/MatterProtocol/comments/1ra5g8h/devices_constantly_offline/) "had the exact same issues with Apple thread border routers (ATVs and HomePods)." Owners tried another home hub, a hub reset, turning off Thread on a second router (check whether a landlord or ISP router runs Thread) and fixing router settings.
+Whole-group dropouts recur in r/HomeKit and r/MatterProtocol threads. "Pretty much randomly every other day or so- all my thread devices just go completely offline," an r/HomeKit owner reports; an r/MatterProtocol owner "had the exact same issues with Apple thread border routers (ATVs and HomePods)." Owners tried another home hub, a hub reset, turning off Thread on a second router (check whether a landlord or ISP router runs Thread) and fixing router settings.
 
 ### Matter over Thread won't pair
 
-"Alexa suddenly won't add any Matter smart home products to its ecosystem," one [r/alexa owner](https://www.reddit.com/r/alexa/comments/1dgisga/cant_add_any_matter_smart_home_products_to_alexa/) writes. In an [Aqara forum thread](https://forum.aqara.com/t/is-my-aqara-hub-m3-just-broken-matter-absolutely-refuses-to-work-unifi-setup/170399) on a Hub M3 that would not commission Matter devices, replies advised turning on IPv6, factory resetting and creating a fresh Thread network, so check your router's IPv6 setting first.
+"Alexa suddenly won't add any Matter smart home products to its ecosystem," one r/alexa owner writes. In an Aqara forum thread on a Hub M3 that would not commission Matter devices, replies advised turning on IPv6, factory resetting and creating a fresh Thread network, so check your router's IPv6 setting first.
 
 ## Zigbee or Thread? A verdict for a 1-3 year lease
 

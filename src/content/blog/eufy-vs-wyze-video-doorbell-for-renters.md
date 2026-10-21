@@ -376,7 +376,7 @@ Our [no-drill doorbell mounting guide for apartments](/blog/ring-doorbell-in-apa
 
 **Eufy vs Wyze on battery: both save event clips locally, but only the Eufy also tells you who is at the door without a plan.** Wyze support says the Duo Cam records Events Only to a microSD card on battery, while 24/7 microSD recording needs the doorbell hardwired ([Duo Cam](https://support.wyze.com/hc/en-us/articles/31270933879707-Can-I-use-24-7-continuous-recording-with-Wyze-Duo-Cam-Doorbell)); wiring also adds 3-6 seconds of pre-roll. Without Cam Plus you get motion alerts, live view and two-way audio; person, package and vehicle detection and full-length cloud video need the plan. The E340 saves to its built-in storage and flags people, packages and familiar faces for free.
 
-Subscription fatigue is a common thread on r/homeowners, where one reply notes "Subscription not required to record to SD card and view via your cell phone." ([thread](https://www.reddit.com/r/homeowners/comments/1ot0xm0/home_security_cameras_without_monthly_payment/)). Our [video doorbells without a subscription for renters](/blog/best-video-doorbell-without-subscription-for-renters/) roundup compares more options.
+Subscription fatigue is a common thread on r/homeowners, where one reply notes "Subscription not required to record to SD card and view via your cell phone." (thread). Our [video doorbells without a subscription for renters](/blog/best-video-doorbell-without-subscription-for-renters/) roundup compares more options.
 
 ## Eufy vs Wyze Wi-Fi band and chime
 
@@ -390,11 +390,11 @@ For the chime, the Duo Cam includes one. The E340 can ring an existing chime, an
 
 ### If your lease has a camera clause
 
-A camera clause is a recurring worry on r/Apartmentliving, where one reply advises "Make sure it's legal and not excluded in your lease." ([thread](https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/)). We can't give legal advice, so read the lease and ask in writing: say it's battery powered, faces only your door and comes off at move-out. If the answer is no, our [door camera options for apartment renters](/blog/door-camera-for-apartment/) include indoor and peephole picks.
+A camera clause is a recurring worry on r/Apartmentliving, where one reply advises "Make sure it's legal and not excluded in your lease." (thread). We can't give legal advice, so read the lease and ask in writing: say it's battery powered, faces only your door and comes off at move-out. If the answer is no, our [door camera options for apartment renters](/blog/door-camera-for-apartment/) include indoor and peephole picks.
 
 ### If the doorbell sees your neighbors' doors
 
-In a shared hallway, one r/Apartmentliving reply sums up the objection: "you're likely to be recording other residents doors" ([thread](https://www.reddit.com/r/Apartmentliving/comments/1ebelua/ring_doorbells_not_allowed/)). Use the corner kit to aim at your own mat, draw motion zones around your doorway only, and tell the neighbor before mounting.
+In a shared hallway, one r/Apartmentliving reply sums up the objection: "you're likely to be recording other residents doors" (thread). Use the corner kit to aim at your own mat, draw motion zones around your doorway only, and tell the neighbor before mounting.
 
 ### If you worry it will be stolen
 

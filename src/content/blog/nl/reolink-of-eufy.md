@@ -551,7 +551,7 @@ De S330 sorteert het meest zelf: zijn BionicMind-AI op de hub herkent gezichten 
 
 **Geen van beide merken dwingt je bij deze vier camera's tot een abonnement: ze nemen allemaal lokaal op zonder maandelijkse kosten, en cloudopslag is een optionele extra.** Daarmee is de meest gestelde vraag beantwoord waarmee huurders aan deze vergelijking beginnen.
 
-De vraag waarom camera's eigenlijk maandelijkse kosten hebben is een terugkerende klacht in [draadjes op r/BuyItForLife over camera-abonnementen](https://www.reddit.com/r/BuyItForLife/comments/1n94pqy/why_did_we_accept_that_security_cameras_need/) (in het Engels), en de antwoorden wijzen steeds weer naar lokale opslag. Een reageerder op r/homeowners vatte het zo samen: voor opnemen op een SD-kaart en kijken op je telefoon is geen abonnement nodig ([bron, in het Engels](https://www.reddit.com/r/homeowners/comments/1ot0xm0/home_security_cameras_without_monthly_payment/)). Reolink wordt zelfs bij naam genoemd: Reolink is een goede keuze als je geen abonnement wilt ([r/homeautomation, in het Engels](https://www.reddit.com/r/homeautomation/comments/1nrmayb/what_are_my_options_for_a_good_security_camera/)). De oplossing is gewoon een camera kiezen die clips lokaal opslaat, en dat doen ze hier alle vier.
+De vraag waarom camera's eigenlijk maandelijkse kosten hebben is een terugkerende klacht in draadjes op r/BuyItForLife over camera-abonnementen (in het Engels), en de antwoorden wijzen steeds weer naar lokale opslag. Een reageerder op r/homeowners vatte het zo samen: voor opnemen op een SD-kaart en kijken op je telefoon is geen abonnement nodig (bron, in het Engels). Reolink wordt zelfs bij naam genoemd: Reolink is een goede keuze als je geen abonnement wilt (r/homeautomation, in het Engels). De oplossing is gewoon een camera kiezen die clips lokaal opslaat, en dat doen ze hier alle vier.
 
 ### Lokale opslag – hub, microSD of NVR
 
@@ -576,7 +576,7 @@ Een ingebouwd paneel (S330, S220) of een los paneel (het Argus-duo) helpt alleen
 
 ### Leeglopende accu bij kou
 
-Een accucamera die in de kou snel leegloopt of uitvalt is een veelgehoorde zorg, en eufy's eigen [supportpagina over de accudeurbel bij koud weer](https://service.eufy.com/article-description/Does-cold-weather-impact-eufy-Battery-Powered-Video-Doorbell) (in het Engels) bevestigt dat lage temperaturen de prestaties van de accu beïnvloeden. CPI Security vat het bredere probleem samen: kou kan accu's leegtrekken, lenzen laten beslaan en valse alarmen veroorzaken ([CPI Security, in het Engels](https://cpisecurity.com/blog/how-cold-weather-affects-your-cpi-security-devices/)). De S220 noemt een ondergrens voor gebruik van -20 °C (-4 °F).
+Een accucamera die in de kou snel leegloopt of uitvalt is een veelgehoorde zorg, en eufy's eigen supportpagina over de accudeurbel bij koud weer (in het Engels) bevestigt dat lage temperaturen de prestaties van de accu beïnvloeden. CPI Security vat het bredere probleem samen: kou kan accu's leegtrekken, lenzen laten beslaan en valse alarmen veroorzaken (CPI Security, in het Engels). De S220 noemt een ondergrens voor gebruik van -20 °C (-4 °F).
 
 Met deze stappen beperk je het leeglopen van de accu in de kou, op volgorde van moeite:
 
@@ -597,7 +597,7 @@ Draait je woning op Alexa, Google Home of HomeKit, controleer dan de ondersteuni
 
 ### Cloudprivacy en de eufy-ophef over miniaturen in 2022
 
-Wantrouwen tegenover cameraclouds is een terugkerend thema in [draadjes op r/privacytoolsIO over privacyvriendelijke camera's](https://www.reddit.com/r/privacytoolsIO/comments/p4wfh0/privacy_friendly_security_cameras/) (in het Engels), waar een reageerder opmerkte dat eufy-camera's (Anker) lokaal opslaan maar voor het inloggen toch de cloud gebruiken. De eufy-ophef uit 2022 over miniaturen in de cloud is de reden dat dit ertoe doet. In november 2022 [meldde Ars Technica](https://arstechnica.com/gadgets/2022/11/eufys-no-clouds-cameras-upload-facial-thumbnails-to-aws/) (in het Engels) dat beveiligingsonderzoeker Paul Moore had laten zien dat eufy-camera's miniaturen naar cloudservers uploadden om meldingen naar de telefoon te sturen. Eufy vertelde Ars dat de miniaturen kort en veilig op een server op basis van AWS werden opgeslagen en dat het eigenaren die meldingen met miniatuur kozen niet duidelijk had gemaakt dat die voorbeelden in de cloud zouden staan. In januari 2023 [meldde The Verge](https://www.theverge.com/23573362/anker-eufy-security-camera-answers-encryption) (in het Engels) dat Anker toegaf dat zijn camera's niet standaard end-to-end versleuteld waren en onversleutelde videostreams hadden aangemaakt voor het webportaal van eufy. Anker zei dat dit grotendeels was opgelost en beloofde het beter te doen. In de productinformatie van eufy voor de S330 en S220 staat nog steeds dat cloudfuncties zoals meldingen met miniatuur gegevens naar de cloud sturen.
+Wantrouwen tegenover cameraclouds is een terugkerend thema in draadjes op r/privacytoolsIO over privacyvriendelijke camera's (in het Engels), waar een reageerder opmerkte dat eufy-camera's (Anker) lokaal opslaan maar voor het inloggen toch de cloud gebruiken. De eufy-ophef uit 2022 over miniaturen in de cloud is de reden dat dit ertoe doet. In november 2022 meldde Ars Technica (in het Engels) dat beveiligingsonderzoeker Paul Moore had laten zien dat eufy-camera's miniaturen naar cloudservers uploadden om meldingen naar de telefoon te sturen. Eufy vertelde Ars dat de miniaturen kort en veilig op een server op basis van AWS werden opgeslagen en dat het eigenaren die meldingen met miniatuur kozen niet duidelijk had gemaakt dat die voorbeelden in de cloud zouden staan. In januari 2023 meldde The Verge (in het Engels) dat Anker toegaf dat zijn camera's niet standaard end-to-end versleuteld waren en onversleutelde videostreams hadden aangemaakt voor het webportaal van eufy. Anker zei dat dit grotendeels was opgelost en beloofde het beter te doen. In de productinformatie van eufy voor de S330 en S220 staat nog steeds dat cloudfuncties zoals meldingen met miniatuur gegevens naar de cloud sturen.
 
 Dit zouden wij bij beide merken doen om de cloudprivacy aan te scherpen:
 
@@ -612,7 +612,7 @@ Dit zouden wij bij beide merken doen om de cloudprivacy aan te scherpen:
 
 ### Regels van de verhuurder voor camera's
 
-Dat het huurcontract camera's verbiedt is een terugkerende zorg in draadjes op r/Apartmentliving en r/LandlordLove. Eén reactie op r/LandlordLove is duidelijk: als er ergens staat dat camera's niet mogen, kan de verhuurder dat handhaven voor zover de wet dat toestaat ([bron, in het Engels](https://www.reddit.com/r/LandlordLove/comments/1ef2zou/can_landlord_say_we_cant_have_cameras/)). Een reageerder op r/Apartmentliving voegt toe dat je moet zorgen dat het legaal is en niet in je huurcontract wordt uitgesloten ([bron, in het Engels](https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/)).
+Dat het huurcontract camera's verbiedt is een terugkerende zorg in draadjes op r/Apartmentliving en r/LandlordLove. Eén reactie op r/LandlordLove is duidelijk: als er ergens staat dat camera's niet mogen, kan de verhuurder dat handhaven voor zover de wet dat toestaat (bron, in het Engels). Een reageerder op r/Apartmentliving voegt toe dat je moet zorgen dat het legaal is en niet in je huurcontract wordt uitgesloten (bron, in het Engels).
 
 We raden onze lezers altijd aan eerst de cameraclausule in het huurcontract te lezen. In de VS is de volgende stap de officiële huurdersgids van de staat (vaak uitgegeven door de procureur-generaal of de huisvestingsinstantie) en de regels van de stad, want regels voor beeld- en geluidsopnamen verschillen per plaats. Dit is geen juridisch advies. Vraag het daarna schriftelijk, bijvoorbeeld zo:
 
@@ -620,7 +620,7 @@ We raden onze lezers altijd aan eerst de cameraclausule in het huurcontract te l
 
 ### Ophangen zonder boren
 
-Een boorverbod in de buitenmuur is een veelgehoorde klacht in cameradraadjes; een huurder schreef op r/Ring dat niet hoeven boren nodig was voor zijn appartement, omdat daar niet in de buitenmuur geboord mag worden ([bron, in het Engels](https://www.reddit.com/r/Ring/comments/184g6hd/what_are_your_thoughts_on_putting_up_a_ring/)). Deze camera's worden met beugels geleverd, dus de oplossing zit in de plaatsing.
+Een boorverbod in de buitenmuur is een veelgehoorde klacht in cameradraadjes; een huurder schreef op r/Ring dat niet hoeven boren nodig was voor zijn appartement, omdat daar niet in de buitenmuur geboord mag worden (bron, in het Engels). Deze camera's worden met beugels geleverd, dus de oplossing zit in de plaatsing.
 
 De opties zonder schroeven, van eenvoudig naar meer werk:
 

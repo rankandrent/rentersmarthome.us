@@ -326,7 +326,7 @@ A latch that won't catch, or a door off its rollers, is usually not yours to fix
 
 ## Step 2: stop the sliding door from being lifted
 
-**A latched sliding door can often be lifted straight off its track, and a bar in the bottom track does nothing about it.** One renter in the top r/Apartmentliving thread put it bluntly: "[You literally grab it with two hands apply pressure upwards.](https://www.reddit.com/r/Apartmentliving/comments/1u82pd5/how_do_you_secure_sliding_glass_doors_as_a_renter/)"
+**A latched sliding door can often be lifted straight off its track, and a bar in the bottom track does nothing about it.** One renter in the top r/Apartmentliving thread put it bluntly: "You literally grab it with two hands apply pressure upwards."
 
 The standard fix is anti-lift screws driven partway into the upper track. Those are holes in the landlord's frame, so we'd ask first. The no-drill version SecurityMan suggests is a cut-to-fit dowel or PVC piece wedged between the top of the sliding panel and the upper track, snug enough that the panel can't rise.
 
@@ -360,7 +360,7 @@ For a door that makes noise as well as holds, the [SECURITYMAN 2-in-1 Door Secur
 
 **A door sensor covers the moments a bar can't, and closed curtains stop anyone checking whether you're home.** Most top results add an adhesive door sensor, a glass-break sensor and blinds closed after dark.
 
-For renters, an r/homedefense answer sums it up: "[Get an alarm system that can be installed nondestructively, like Simpli Safe.](https://www.reddit.com/r/homedefense/comments/f47yjo/any_way_to_actually_secure_an_apartment_sliding/)" Adhesive sensors peel off at move-out, and our guide to [no-drill security cameras for apartments](/blog/best-wireless-security-cameras-for-apartments/) covers a patio camera that spares the walls. Security film holds broken glass together but bonds to the landlord's glass.
+For renters, an r/homedefense answer sums it up: "Get an alarm system that can be installed nondestructively, like Simpli Safe." Adhesive sensors peel off at move-out, and our guide to [no-drill security cameras for apartments](/blog/best-wireless-security-cameras-for-apartments/) covers a patio camera that spares the walls. Security film holds broken glass together but bonds to the landlord's glass.
 
 ## What needs landlord permission
 
@@ -387,7 +387,7 @@ This isn't legal advice; check your lease's alterations clause and local law. Ou
 
 ## When the slider is your main door
 
-**A security bar only works from inside, so if the sliding door is how you come and go, it protects you at night but not while you're out.** See this [r/AskSF thread about a sliding glass door as the main entry](https://www.reddit.com/r/AskSF/comments/k1y4b8/looking_at_an_apartment_with_a_sliding_glass_door/).
+**A security bar only works from inside, so if the sliding door is how you come and go, it protects you at night but not while you're out.** See this r/AskSF thread about a sliding glass door as the main entry.
 
 Lean on steps 2 and 4: a filler strip stays in place when you leave, and a sensor tells you if the door opens while you're away. Ask the landlord whether the door can take a keyed lock, and never block the landlord's lawful access or an emergency exit.
 

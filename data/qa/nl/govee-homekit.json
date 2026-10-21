@@ -3,15 +3,15 @@
   "lang": "nl",
   "translationOf": "govee-apple-homekit",
   "pass": true,
-  "checkedAt": "2026-10-20T17:25:22.992Z",
+  "checkedAt": "2026-10-21T19:51:50.251Z",
   "errors": [],
   "warnings": [
-    "source didn't respond normally (403): https://gathering.tweakers.net/forum/list_messages/1308304/127"
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Guide-only rewrite (no product, no Amazon link). Compared remaining body, tldr and FAQs section by section with the English post and re-checked against its sources (Govee Matter FAQ, Govee Community pairing guide, AddToHomeKit; HOOBS Ring page, AddToHomeKit/SafeHome Ring guides) and the local brief (guideOnly true; EU H61E0 variant, Rijksoverheid/AP/IPv6 local facts and quotes). Removed product-only content (listing, owner posts, shop/shipping); nothing new added; no prices, no testing claims.",
-    "at": "2026-10-20T13:44:03.621Z",
-    "hash": "19d0b54ecd4f62de"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:51:49.839Z",
+    "hash": "0a7cae779a403254"
   }
 }

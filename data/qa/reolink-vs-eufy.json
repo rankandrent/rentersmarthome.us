@@ -1,19 +1,16 @@
 {
   "slug": "reolink-vs-eufy",
   "pass": true,
-  "checkedAt": "2026-10-21T14:42:16.962Z",
+  "checkedAt": "2026-10-21T19:51:32.652Z",
   "errors": [],
   "warnings": [
     "body has 3535 words, over the 2300 limit (top results average 2000): cut repetition and filler",
-    "product \"Reolink Argus 4 Pro\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "LIVE POST, FIX: source returns 404: https://reolink.com/product/argus-4-pro/",
-    "source didn't respond normally (503): https://arstechnica.com/gadgets/2022/11/eufys-no-clouds-cameras-upload-facial-thumbnails-to-aws/",
-    "source didn't respond normally (403): https://cpisecurity.com/blog/how-cold-weather-affects-your-cpi-security-devices/",
-    "product \"Reolink Argus 4 Pro\" (B0F189FV7K) is no longer returned by Amazon"
+    "product \"Reolink Argus 4 Pro\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Re-opened: Ars Technica 2022-11-30 thumbnail article and The Verge 2023-01-31 Anker answers article (both scraped; wording of the incident section and FAQ now limited to what they say; the Verge 2022-11-30 piece is paywalled so only its headline/lede seen). Argus 4 Pro praise replaced: no owner praise could be confirmed via exact search, so the praise item now cites SafeWise's review (search excerpt of safewise.com/au page: 'stunned by ... sweeping 180-degree viewing range'), clearly labelled as a reviewer not an owner; complaint moved only to complaints. PT Ultra owner 'My only con is the timer' confirmed via site:reddit.com search excerpt at the same thread URL. Spec values, brief quotes and Reddit quotes were NOT re-verified in this pass beyond that; ASINs remain asinVerified false and the post makes no claim they were checked. Added internal link to /blog/wyze-vs-blink/.",
-    "at": "2026-10-19T13:18:31.685Z"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:51:32.206Z",
+    "hash": "84696c2bc64249d9"
   }
 }

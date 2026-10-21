@@ -1,19 +1,17 @@
 {
   "slug": "can-a-landlord-put-cameras-outside-the-house",
   "pass": true,
-  "checkedAt": "2026-10-21T10:17:59.993Z",
+  "checkedAt": "2026-10-21T19:51:25.894Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.ncrealtors.org/question/are-surveillance-cameras-allowed-on-the-outside-of-rental-properties/",
-    "source didn't respond normally (403): https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1954"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Guide, 0 products. Re-read via Firecrawl: eufy guide (allowed exterior/common areas incl. hallways/laundry, masking views into windows, harassment for tracking), NC REALTORS Q&A (remote/fenced house privacy, disclose + tenant consent at lease signing), Landlord Hotline FL (surveillance policy in lease, all-party audio), sarents TX (Texas doesn't require signs), LegalShield. Statutes: 18 U.S.C. 2511 one-party consent (Cornell LII); FL Stat 934.03(2)(d) all parties consent; CA Civ Code 1954(d)(1) 24 hours presumed reasonable notice and (c) no harassment via access. Stats: SafeHome.org 2026 survey renters 42%->54% and 37% worry about footage access (verbatim on page). Reddit quotes (r/renting, r/Ring, r/LandlordLove, r/Apartmentliving) confirmed verbatim via firecrawl_search excerpts at the same thread URLs. Video qPNBLUCH96k = TurboTenant 'Security Cameras for Landlords: What's Legal and What's Not?' (2025-02-11), fits section 2. HUD state pages link checked. General information only; no legal advice.",
-    "at": "2026-10-21T10:05:37.561Z",
-    "hash": "2497e19b1e580f2b"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:51:25.525Z",
+    "hash": "cb20d03affbd54dc"
   }
 }

@@ -8,7 +8,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Re-opened August, SwitchBot, Yale (shopyalehome), Master Lock 5400D/5420D maker pages, Techlicious and iveise pages; confirmed batteries, Wi-Fi bands, keypad separate, shackle range, IPX5, 4-digit combos. Verified 6 Reddit quotes via exact-phrase site:reddit.com search (ApartmentMaintenance, legaladvice x2, jerseycity, homeautomation) plus iveise quote. Removed unsupported Yale 'no HomeKit' (Yale page lists Apple HomeKit), fixed iveise quote framing, removed bypass-trick mention and unsupported 'fewest complaints' claim. All 5 brief pain points answered with lease/landlord-in-writing framing; no legal advice.",
-    "at": "2026-10-19T13:13:58.664Z"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:51:29.870Z",
+    "hash": "3dc7e02d0f3e67d2"
   }
 }

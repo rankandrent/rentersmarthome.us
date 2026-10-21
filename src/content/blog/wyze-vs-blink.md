@@ -492,7 +492,7 @@ Both brands sell more than these three. Wyze makes the Wyze Cam Floodlight v2 an
 
 **Wyze vs Blink costs split after the free trial: Wyze records free to a microSD card, while Blink needs a paid subscription plan or a Sync Module plus a drive to save anything.** We are not quoting prices because plans change, so open each brand's plan page before you buy.
 
-Paying monthly just to see your own footage is a recurring complaint in r/BuyItForLife and r/homeowners threads ([one example](https://www.reddit.com/r/homeowners/comments/1ot0xm0/home_security_cameras_without_monthly_payment/)). One reply there sums up the fix: "Subscription not required to record to SD card and view via your cell phone." That describes the Wyze route exactly.
+Paying monthly just to see your own footage is a recurring complaint in r/BuyItForLife and r/homeowners threads (one example). One reply there sums up the fix: "Subscription not required to record to SD card and view via your cell phone." That describes the Wyze route exactly.
 
 ### Local storage: microSD vs Sync Module 2
 
@@ -545,7 +545,7 @@ Blink's doorbell takes three non-rechargeable AA lithium cells and quotes up to 
 
 ### Battery drain in cold weather
 
-Fast drain and cold-weather shutdowns are a recurring complaint about battery doorbells from every brand, not just these two. One Arlo owner wrote: "First 24 hours installed battery discharged from 99% to 77%." ([Arlo community](https://community.arlo.com/t5/Arlo-Video-Doorbell-Wire-Free/Poor-Battery-Life-new-Wire-Free-Doorbell/td-p/1804027)). A security company adds that "Cold weather can drain batteries, fog up lenses, and trigger false alarms." ([CPI Security](https://cpisecurity.com/blog/how-cold-weather-affects-your-cpi-security-devices/)).
+Fast drain and cold-weather shutdowns are a recurring complaint about battery doorbells from every brand, not just these two. One Arlo owner wrote: "First 24 hours installed battery discharged from 99% to 77%." (Arlo community). A security company adds that "Cold weather can drain batteries, fog up lenses, and trigger false alarms." (CPI Security).
 
 Our fixes, in order:
 
@@ -560,7 +560,7 @@ Our fixes, in order:
 
 ### Check your lease before mounting a camera
 
-Whether a landlord can ban cameras or doorbells is a common question in r/Apartmentliving and r/LandlordLove threads. One reply puts it bluntly: "If there is any mention of no cameras then your landlord can enforce that however the law allows" ([r/LandlordLove](https://www.reddit.com/r/LandlordLove/comments/1ef2zou/can_landlord_say_we_cant_have_cameras/)). Another renter's advice: "Make sure it's legal and not excluded in your lease." ([r/Apartmentliving](https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/)).
+Whether a landlord can ban cameras or doorbells is a common question in r/Apartmentliving and r/LandlordLove threads. One reply puts it bluntly: "If there is any mention of no cameras then your landlord can enforce that however the law allows" (r/LandlordLove). Another renter's advice: "Make sure it's legal and not excluded in your lease." (r/Apartmentliving).
 
 We can't give legal advice, and rules on cameras and audio recording differ by state and city. Search your lease for words like "camera," "recording," "alterations" and "exterior," then check your state's tenant handbook and local ordinances. For anything on the door or the hallway, ask in writing. A short email works:
 
@@ -568,7 +568,7 @@ We can't give legal advice, and rules on cameras and audio recording differ by s
 
 ### No-drill mounting for doors and shelves
 
-Not being allowed to drill the door or exterior wall is the most common doorbell blocker in renter threads. One Ring owner said they chose a mount with "No drilling required which is needed at my apartment because they don't allow drilling to the exterior." ([r/Ring](https://www.reddit.com/r/Ring/comments/184g6hd/what_are_your_thoughts_on_putting_up_a_ring/)). Blink's doorbell ships with screws, washers and brackets and no adhesive mount, so the clean fix is to get written permission or skip the doorbell. Our guide to [putting a Ring doorbell on an apartment door without drilling](/blog/ring-doorbell-in-apartment/) covers no-drill mounting ideas, and if you want a camera at the door with no screws, a different product type, a peephole camera, is another route (none of the three products here is one); see our [no-drill peephole camera guide](/blog/best-peephole-camera-for-apartments/). The simplest answer: a Cam v4 or Mini 2K+ on a shelf facing the inside of your door, which needs no permission for holes at all.
+Not being allowed to drill the door or exterior wall is the most common doorbell blocker in renter threads. One Ring owner said they chose a mount with "No drilling required which is needed at my apartment because they don't allow drilling to the exterior." (r/Ring). Blink's doorbell ships with screws, washers and brackets and no adhesive mount, so the clean fix is to get written permission or skip the doorbell. Our guide to [putting a Ring doorbell on an apartment door without drilling](/blog/ring-doorbell-in-apartment/) covers no-drill mounting ideas, and if you want a camera at the door with no screws, a different product type, a peephole camera, is another route (none of the three products here is one); see our [no-drill peephole camera guide](/blog/best-peephole-camera-for-apartments/). The simplest answer: a Cam v4 or Mini 2K+ on a shelf facing the inside of your door, which needs no permission for holes at all.
 
 ### Wi-Fi in apartment buildings
 
@@ -584,7 +584,7 @@ Unplug the camera, pull the microSD card or USB drive if you want the footage, a
 
 ### False motion alerts
 
-Constant alerts from hallway traffic or shadows are a recurring complaint across camera and doorbell groups. One doorbell owner wrote: "The last two weeks I've been getting false motion sensor alarms." ([Facebook group](https://www.facebook.com/groups/ringdoorbellusersgroup/posts/1090145698003833/)). The fixes:
+Constant alerts from hallway traffic or shadows are a recurring complaint across camera and doorbell groups. One doorbell owner wrote: "The last two weeks I've been getting false motion sensor alarms." (Facebook group). The fixes:
 
 - Aim the lens at your door or room, not at the shared corridor or a window onto the street.
 - Lower motion sensitivity in the app until passing neighbors stop triggering it.
@@ -592,7 +592,7 @@ Constant alerts from hallway traffic or shadows are a recurring complaint across
 
 ### Cloud privacy worries
 
-Distrust of camera clouds after reports of exposed footage is a recurring theme in r/privacytoolsIO and r/BuyItForLife threads ([one example](https://www.reddit.com/r/privacytoolsIO/comments/p4wfh0/privacy_friendly_security_cameras/)). One poster there notes "Eufy (anker) cameras store locally but still use cloud for login." The same holds here: local storage keeps clips off the cloud, but you still sign in through the brand's app. Our approach: record to the Wyze camera's microSD card or Blink's Sync Module drive, turn on two-step sign-in if the app offers it, use a unique password, and keep indoor cameras out of bedrooms and unplugged when you're home.
+Distrust of camera clouds after reports of exposed footage is a recurring theme in r/privacytoolsIO and r/BuyItForLife threads (one example). One poster there notes "Eufy (anker) cameras store locally but still use cloud for login." The same holds here: local storage keeps clips off the cloud, but you still sign in through the brand's app. Our approach: record to the Wyze camera's microSD card or Blink's Sync Module drive, turn on two-step sign-in if the app offers it, use a unique password, and keep indoor cameras out of bedrooms and unplugged when you're home.
 
 ## Which should you buy: Wyze or Blink?
 

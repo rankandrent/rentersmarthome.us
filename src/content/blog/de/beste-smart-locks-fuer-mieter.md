@@ -133,12 +133,12 @@ Für deutsche und österreichische Türen gibt es dabei einen Haken, den die mei
 
 ## Welches Smart Lock passt auf eine deutsche Wohnungstür?
 
-**Deutsche und die meisten kontinentaleuropäischen Wohnungstüren haben einen Euro-Profilzylinder, kein amerikanisches Riegelschloss. Ein US-Smart-Lock passt deshalb nicht; du brauchst ein Modell, das der Hersteller für Profilzylinder verkauft.** Wie getrennt die Märkte sind, zeigt die Übersicht von [Matter-smarthome.de](https://matter-smarthome.de/en/practice/these-smart-locks-support-the-matter-standard/): Smart Locks für europäische Türen und Modelle für US- und UK-Schlösser stehen dort in getrennten Listen.
+**Deutsche und die meisten kontinentaleuropäischen Wohnungstüren haben einen Euro-Profilzylinder, kein amerikanisches Riegelschloss. Ein US-Smart-Lock passt deshalb nicht; du brauchst ein Modell, das der Hersteller für Profilzylinder verkauft.** Wie getrennt die Märkte sind, zeigt die Übersicht von Matter-smarthome.de: Smart Locks für europäische Türen und Modelle für US- und UK-Schlösser stehen dort in getrennten Listen.
 
 Zwei Beispiele für EU-Versionen:
 
-- **SwitchBot Lock Pro (EU-Version):** Laut [SwitchBot-EU-Shop](https://eu.switch-bot.com/products/switchbot-lock-pro) ist es „ideal für europäische Häuser“ und lässt dein vorhandenes Schloss erhalten. Zum Lieferumfang gehören Montageteile mit Zylinderadaptern. Es sitzt auf einer Halterung an der Innenseite und dreht den Zylinder mechanisch. Auf der Produktseite gibt es Installationsvideos für Euro-Zylinder, jeweils für die Variante mit Knauf und mit Schlüssel. Achte auf die EU-Version, nicht auf das US-Angebot; der Hub 2 wird dort auch mit EU-Stecker angeboten.
-- **Yale Linus Smart Lock L2:** Das ist Yales Gegenstück für Europa; das Yale Approach aus englischen Ratgebern ist ein [US-Modell](https://shopyalehome.com/products/yale-approach-lock-with-wi-fi) für amerikanische Schlösser. Laut [Yale](https://www.yalehome.com/it/en/products/smart-security-ecosystem/smart-locks/linus-smart-lock-l2) passt das Linus L2 auf Euro-Profilzylinder, die mindestens 3 mm (0,12 in) überstehen, und auf runde Zylinder mit 22 mm (0,87 in). Passt dein Zylinder nicht, brauchst du einen Linus Adjustable Cylinder, musst also den Originalzylinder ausbauen und aufbewahren.
+- **SwitchBot Lock Pro (EU-Version):** Laut SwitchBot-EU-Shop ist es „ideal für europäische Häuser“ und lässt dein vorhandenes Schloss erhalten. Zum Lieferumfang gehören Montageteile mit Zylinderadaptern. Es sitzt auf einer Halterung an der Innenseite und dreht den Zylinder mechanisch. Auf der Produktseite gibt es Installationsvideos für Euro-Zylinder, jeweils für die Variante mit Knauf und mit Schlüssel. Achte auf die EU-Version, nicht auf das US-Angebot; der Hub 2 wird dort auch mit EU-Stecker angeboten.
+- **Yale Linus Smart Lock L2:** Das ist Yales Gegenstück für Europa; das Yale Approach aus englischen Ratgebern ist ein US-Modell für amerikanische Schlösser. Laut Yale passt das Linus L2 auf Euro-Profilzylinder, die mindestens 3 mm (0,12 in) überstehen, und auf runde Zylinder mit 22 mm (0,87 in). Passt dein Zylinder nicht, brauchst du einen Linus Adjustable Cylinder, musst also den Originalzylinder ausbauen und aufbewahren.
 
 Das sind Beispiele aus unserer Recherche, keine Kaufempfehlung. Ob ein Modell passt, entscheidet allein deine Tür.
 
@@ -161,9 +161,9 @@ Das sind Beispiele aus unserer Recherche, keine Kaufempfehlung. Ob ein Modell pa
 
 **Ein Smart Lock, das ohne Bohren auf den vorhandenen Zylinder kommt, gilt in Foren meist als unproblematisch. Beim Tausch des Zylinders gehen die Antworten auseinander.** Was folgt, gibt Quellen wieder, ist allgemeine Information und keine Rechtsberatung, und bezieht sich auf Deutschland.
 
-Im Forum [r/wohnen](https://www.reddit.com/r/wohnen/comments/11m0yzw/darf_ich_das_t%C3%BCrschloss_gegen_ein_smartes/) heißt es: „Ja, darfst du, wenn du das Smart Lock ohne Beschädigung an der Türe einbauen kannst (Bohrlöcher o.Ä.).“ Auf [gutefrage.net](https://www.gutefrage.net/frage/tuerschloss-in-der-mietwohnung-tauschen) liest man beides: „Ja, darfst du. Bewahre das jetzige Schloss auf, denn wenn du mal ausziehst, musst du es wieder einbauen.“ Und gleich darunter: „Nein. Ohne einen konkreten Anlass ist das nicht erlaubt, und zwar aus dem einfachen Grund, weil sich im Gesetz keine Rechtsgrundlage finden lässt“.
+Im Forum r/wohnen heißt es: „Ja, darfst du, wenn du das Smart Lock ohne Beschädigung an der Türe einbauen kannst (Bohrlöcher o.Ä.).“ Auf gutefrage.net liest man beides: „Ja, darfst du. Bewahre das jetzige Schloss auf, denn wenn du mal ausziehst, musst du es wieder einbauen.“ Und gleich darunter: „Nein. Ohne einen konkreten Anlass ist das nicht erlaubt, und zwar aus dem einfachen Grund, weil sich im Gesetz keine Rechtsgrundlage finden lässt“.
 
-Das Rechtsportal [mietrecht.de](https://www.mietrecht.de/blog/schloss-austauschen-mietwohnung/) (kein Mieterverein) vertritt als allgemeine Information, Mieter dürften das Schloss ihrer Wohnung grundsätzlich austauschen, eine Mietvertragsklausel, die das verbietet, sei „in der Regel“ unzulässig, und alte Schlösser sollten aufbewahrt werden, falls der Vermieter beim Auszug den Wiedereinbau verlangt. Das ist eine Einschätzung der Quelle und umstritten, wie die gegenteilige Antwort oben zeigt; wir können nicht beurteilen, wie sie bei deinem Mietvertrag ausfällt. Weil die Meinungen auseinandergehen, ist eine kurze schriftliche Nachricht an den Vermieter oder ein Anruf beim örtlichen Mieterverein der vorsichtige Weg. So eine Nachricht kann so aussehen:
+Das Rechtsportal mietrecht.de (kein Mieterverein) vertritt als allgemeine Information, Mieter dürften das Schloss ihrer Wohnung grundsätzlich austauschen, eine Mietvertragsklausel, die das verbietet, sei „in der Regel“ unzulässig, und alte Schlösser sollten aufbewahrt werden, falls der Vermieter beim Auszug den Wiedereinbau verlangt. Das ist eine Einschätzung der Quelle und umstritten, wie die gegenteilige Antwort oben zeigt; wir können nicht beurteilen, wie sie bei deinem Mietvertrag ausfällt. Weil die Meinungen auseinandergehen, ist eine kurze schriftliche Nachricht an den Vermieter oder ein Anruf beim örtlichen Mieterverein der vorsichtige Weg. So eine Nachricht kann so aussehen:
 
 > „Ich möchte an der Innenseite meiner Wohnungstür ein Smart Lock anbringen. Es sitzt auf dem vorhandenen Zylinder, wird nicht gebohrt, und Ihr Schlüssel funktioniert weiterhin. Beim Auszug nehme ich es wieder ab.“
 
@@ -175,7 +175,7 @@ Leg die Antwort zu deinen Mietunterlagen. Weitere mieterfreundliche Sicherheitsi
 
 ## Ausgesperrt? So schützt du dich vor teuren Schlüsseldiensten
 
-**Die beste Absicherung ist ein Smart Lock, bei dem der mechanische Schlüssel weiter funktioniert. Wenn du trotzdem einen Schlüsseldienst brauchst, hilft die Checkliste der Verbraucherzentrale.** Die [Verbraucherzentrale](https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/abzocke/schluesseldienste-so-schuetzen-sie-sich-vor-ueberzogen-hohen-rechnungen-6687) rät:
+**Die beste Absicherung ist ein Smart Lock, bei dem der mechanische Schlüssel weiter funktioniert. Wenn du trotzdem einen Schlüsseldienst brauchst, hilft die Checkliste der Verbraucherzentrale.** Die Verbraucherzentrale rät:
 
 - Frag, woher der Techniker kommt, und achte auf eine Adresse vor Ort.
 - Vergleiche Angebote.
@@ -187,12 +187,12 @@ Sie verweist außerdem auf ein BGH-Urteil von 2020, das ausbeuterische Schlüsse
 
 Ein Nachrüst-Lock montierst du mit einem Schraubendreher:
 
-1. Setz die Halterung mit dem passenden Adapter nach der Herstelleranleitung für deine Variante (Knauf oder Schlüssel) innen auf den Zylinder. Laut [Techlicious](https://techlicious.com/review/switchbot-lock-pro-review) braucht das SwitchBot Lock Pro keine dauerhafte Veränderung; [NotEnoughTech](https://notenoughtech.com/home-automation/switchbot-lock-pro/) beschreibt Madenschrauben, die am Zylinder klemmen.
+1. Setz die Halterung mit dem passenden Adapter nach der Herstelleranleitung für deine Variante (Knauf oder Schlüssel) innen auf den Zylinder. Laut Techlicious braucht das SwitchBot Lock Pro keine dauerhafte Veränderung; NotEnoughTech beschreibt Madenschrauben, die am Zylinder klemmen.
 2. **Teile beschriften.** Löst du dabei vorhandene Schrauben, steck sie in einen beschrifteten Beutel.
 3. Setz das Gehäuse auf, leg die Batterien ein und kalibriere das Schloss in der App.
 4. Prüfe alles bei offener Tür, dann bei geschlossener Tür und schließlich mit deinem normalen Schlüssel von außen.
 
-Für [Matter](https://csa-iot.org/all-solutions/matter/) braucht das SwitchBot Lock Pro laut SwitchBot den Hub 2 oder den Hub Mini Matter Enabled; plane ihn ein, wenn du die Tür über Apple Home oder Google Home steuern willst. Der Ausbau läuft umgekehrt: abnehmen, Zylinder mit dem Schlüssel des Vermieters prüfen, Tür für die Unterlagen zur Wohnungsübergabe fotografieren. Wenn du danach den Rest deiner Wohnung automatisieren willst, führt dich unser [Smart-Home-Ratgeber für Mieter](/de/blog/smart-home-fuer-mieter/) durch jeden Raum.
+Für Matter braucht das SwitchBot Lock Pro laut SwitchBot den Hub 2 oder den Hub Mini Matter Enabled; plane ihn ein, wenn du die Tür über Apple Home oder Google Home steuern willst. Der Ausbau läuft umgekehrt: abnehmen, Zylinder mit dem Schlüssel des Vermieters prüfen, Tür für die Unterlagen zur Wohnungsübergabe fotografieren. Wenn du danach den Rest deiner Wohnung automatisieren willst, führt dich unser [Smart-Home-Ratgeber für Mieter](/de/blog/smart-home-fuer-mieter/) durch jeden Raum.
 
 ## Tipps zu Sicherheit und Datenschutz
 

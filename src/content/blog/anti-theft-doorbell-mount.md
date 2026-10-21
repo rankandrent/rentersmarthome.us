@@ -216,13 +216,13 @@ heroAlt: >-
   RenterSmartHome renter guide
 ---
 
-Picture a bare patch on the apartment door where your doorbell used to be. One renter in a Ring Facebook group wrote: ["Want to get one for my apartment but afraid it will be stolen."](https://www.facebook.com/groups/ringdoorbellusersgroup/posts/1159754994376236/) The anti theft doorbell mount that solves this for renters is a clamp that hooks over the door edge: with the door shut, nobody in the hallway can lift it off, and you never drill, screw or tape anything.
+Picture a bare patch on the apartment door where your doorbell used to be. One renter in a Ring Facebook group wrote: "Want to get one for my apartment but afraid it will be stolen." The anti theft doorbell mount that solves this for renters is a clamp that hooks over the door edge: with the door shut, nobody in the hallway can lift it off, and you never drill, screw or tape anything.
 
 We read the owner reviews behind the top results; here is our pick, a fit check and the lease question.
 
 ## Which anti theft doorbell mount works on an apartment door?
 
-**For renters, a clamp (over-the-door) mount is the only type that is both theft-resistant and drill-free.** Homeowner advice, like [Reolink's theft tips](https://reolink.com/blog/doorbell-camera-against-theft/), says to use security screws, the bind renters describe on r/Ring: ["I don't want to screw into the house or the doors, but need anti theft.. seems like I can't find anything!"](https://www.reddit.com/r/Ring/comments/1j3e648/anyone_know_of_a_different_renter_friendly/)
+**For renters, a clamp (over-the-door) mount is the only type that is both theft-resistant and drill-free.** Homeowner advice, like Reolink's theft tips, says to use security screws, the bind renters describe on r/Ring: "I don't want to screw into the house or the doors, but need anti theft.. seems like I can't find anything!"
 
 The three mount types compared:
 
@@ -232,7 +232,7 @@ The three mount types compared:
 | Screw-on anti-theft cover or bracket | High | Into the door frame | Needs landlord approval |
 | Adhesive no-drill plate | Low, pries off | None | Residue |
 
-One catch: the [Ring Tamper Proof Cover](https://ring.com/support/articles/w3k6t/Learn-About-the-Tamper-Proof-Cover-for-Ring-Video-Doorbell) is not compatible with the Ring no-drill mount, so you can't stack them. For the adhesive route, see [a Ring doorbell on an apartment door](/blog/ring-doorbell-in-apartment/).
+One catch: the Ring Tamper Proof Cover is not compatible with the Ring no-drill mount, so you can't stack them. For the adhesive route, see [a Ring doorbell on an apartment door](/blog/ring-doorbell-in-apartment/).
 
 ## Our pick for renters
 
@@ -240,7 +240,7 @@ One catch: the [Ring Tamper Proof Cover](https://ring.com/support/articles/w3k6t
 
 ### DoorbellBoa Anti-Theft Video Doorbell Door Mount: Best no-drill pick
 
-This case holds a battery video doorbell outside and hooks over the door, so closing the door locks it in. [In The Know's write-up](https://www.yahoo.com/lifestyle/no-drill-video-doorbell-mount-201745114.html) lists the limits: an inward-swinging door no more than two inches thick, with foam inserts to center Ring, Arlo, Blink or eufy doorbells. An r/Ring owner likes that it goes on and off in seconds, and the apartment community [University Edge](https://universityedge.net/how-to-use-a-security-doorbell-for-your-apartment/) suggests it to residents. Complaints are about fit; a Walmart reviewer wrote, ["Sadly, I could not shut my door with the Boa."](https://business.walmart.com/reviews/product/574699575) Others had a doorbell too long for the case. The video below shows the install. [See the DoorbellBoa on Amazon](amzn:DoorbellBoa+Anti-Theft+Video+Doorbell+Door+Mount).
+This case holds a battery video doorbell outside and hooks over the door, so closing the door locks it in. In The Know's write-up lists the limits: an inward-swinging door no more than two inches thick, with foam inserts to center Ring, Arlo, Blink or eufy doorbells. An r/Ring owner likes that it goes on and off in seconds, and the apartment community University Edge suggests it to residents. Complaints are about fit; a Walmart reviewer wrote, "Sadly, I could not shut my door with the Boa." Others had a doorbell too long for the case. The video below shows the install. [See the DoorbellBoa on Amazon](amzn:DoorbellBoa+Anti-Theft+Video+Doorbell+Door+Mount).
 
 ## Measure before you buy
 
@@ -255,7 +255,7 @@ Then check the live view: foam must not cover the lens, motion sensor or two-way
 
 ## What your lease allows, and how to ask
 
-**A clamp mount attaches nothing, but a lease that bans cameras still applies, so get landlord approval in writing.** One r/Apartmentliving reply: ["Make sure it's legal and not excluded in your lease."](https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/) A hallway camera may also be [recording other residents doors](https://www.reddit.com/r/Apartmentliving/comments/1ebelua/ring_doorbells_not_allowed/). We'd send:
+**A clamp mount attaches nothing, but a lease that bans cameras still applies, so get landlord approval in writing.** One r/Apartmentliving reply: "Make sure it's legal and not excluded in your lease." A hallway camera may also be recording other residents doors. We'd send:
 
 > "May I use a battery doorbell held by a clamp over the door edge? Nothing is drilled or glued, and I'll set privacy zones away from neighbors' doors."
 
@@ -263,7 +263,7 @@ Then check the live view: foam must not cover the lens, motion sensor or two-way
 
 ## If your doorbell is stolen anyway
 
-**Ring's theft protection replaces stolen doorbells free, but only on its terms.** It covers devices bought on ring.com, needs a police report and receipt, and the claim must arrive [within 15 days of the theft](https://ring.com/pages/device-stolen). One r/Ring owner wrote: ["Ring covered all of the replacements as long as I got a police report."](https://www.reddit.com/r/Ring/comments/1jv9cw3/rings_device_theft_protection_policy_not_being/) Bought yours elsewhere? Renters insurance is the backup, minus the deductible, yet only [55% of residents have renters insurance](https://naahq.org/news/renters-insurance-premiums-constant). With [38 percent of respondents in a Security.org survey](https://www.security.org/doorbell-camera/) reporting package theft, we'd keep clips backed up too.
+**Ring's theft protection replaces stolen doorbells free, but only on its terms.** It covers devices bought on ring.com, needs a police report and receipt, and the claim must arrive [within 15 days of the theft](https://ring.com/pages/device-stolen). One r/Ring owner wrote: "Ring covered all of the replacements as long as I got a police report." Bought yours elsewhere? Renters insurance is the backup, minus the deductible, yet only [55% of residents have renters insurance](https://naahq.org/news/renters-insurance-premiums-constant). With [38 percent of respondents in a Security.org survey](https://www.security.org/doorbell-camera/) reporting package theft, we'd keep clips backed up too.
 
 ## Our verdict
 

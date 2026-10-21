@@ -446,15 +446,15 @@ One renter-specific fee to know about: Ring's footnotes warn that additional fee
 
 ### The siren and your neighbors
 
-A recurring doubt in r/Apartmentliving threads is that a siren is more trouble than it's worth in a building. One reply put it as ["You probably wont be able to use the siren because of false alarms and distrubing the neighbors."](https://www.reddit.com/r/Apartmentliving/comments/18b0gtj/is_it_worth_it_to_get_a_security_system/) The fix is in the settings, not the hardware. Arm the full system only when you're away, use a home mode that watches the door but not the motion sensor at night, give yourself an entry delay to disarm, and lower motion sensitivity if you have pets. Ring lets you adjust motion detection for exactly that reason.
+A recurring doubt in r/Apartmentliving threads is that a siren is more trouble than it's worth in a building. One reply put it as "You probably wont be able to use the siren because of false alarms and distrubing the neighbors." The fix is in the settings, not the hardware. Arm the full system only when you're away, use a home mode that watches the door but not the motion sensor at night, give yourself an entry delay to disarm, and lower motion sensitivity if you have pets. Ring lets you adjust motion detection for exactly that reason.
 
 ### Sensors that fall off or take paint with them
 
-Peel-and-stick is the whole point for renters, but it fails both ways: sensors drop off a door and trip a false alarm, or the tape pulls paint on move-out day. A landlord in r/Renters wrote, ["Yes, I took some money off tenant deposit; no way to remove these without damaging the paint."](https://www.reddit.com/r/Renters/comments/1nn7sde/removing_double_sided_tape_ie_are_we_going_to/) Wipe the spot with rubbing alcohol and let it dry before you stick a sensor on, and press it for 30 seconds. On a door that gets hot in summer, mount on the frame side away from direct sun. When you remove a sensor, warm the tape with a hair dryer and work dental floss behind it instead of prying.
+Peel-and-stick is the whole point for renters, but it fails both ways: sensors drop off a door and trip a false alarm, or the tape pulls paint on move-out day. A landlord in r/Renters wrote, "Yes, I took some money off tenant deposit; no way to remove these without damaging the paint." Wipe the spot with rubbing alcohol and let it dry before you stick a sensor on, and press it for 30 seconds. On a door that gets hot in summer, mount on the frame side away from direct sun. When you remove a sensor, warm the tape with a hair dryer and work dental floss behind it instead of prying.
 
 ### Contracts and moving
 
-Traditional alarm companies don't fit a one-year lease. A reply in r/homesecurity noted that ["most security companies don't lease alarm systems to residential renters, so you would likely have to pay the full cost out of pocket."](https://www.reddit.com/r/homesecurity/comments/1v6l2hs/security_system_for_a_renter/) That's why every pick here is a kit you own outright. None of the three requires a long-term contract, so when the lease ends you cancel or pause monitoring and take the kit with you.
+Traditional alarm companies don't fit a one-year lease. A reply in r/homesecurity noted that "most security companies don't lease alarm systems to residential renters, so you would likely have to pay the full cost out of pocket." That's why every pick here is a kit you own outright. None of the three requires a long-term contract, so when the lease ends you cancel or pause monitoring and take the kit with you.
 
 ## How to install an apartment alarm without drilling
 
@@ -472,7 +472,7 @@ A sliding door needs more than a sensor; our guide on [how to secure a sliding g
 
 ## Landlord, lease and move-out day
 
-**Read your lease for an alterations or security-device clause, ask your landlord for permission in writing, and take everything down cleanly before the walkthrough.** A peel-and-stick kit usually isn't an alteration, but a line in your file avoids surprises when a maintenance worker trips the alarm. As one renter put it, ["Make sure it's legal and not excluded in your lease."](https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/)
+**Read your lease for an alterations or security-device clause, ask your landlord for permission in writing, and take everything down cleanly before the walkthrough.** A peel-and-stick kit usually isn't an alteration, but a line in your file avoids surprises when a maintenance worker trips the alarm. As one renter put it, "Make sure it's legal and not excluded in your lease."
 
 A short email we'd send:
 

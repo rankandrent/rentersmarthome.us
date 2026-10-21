@@ -422,7 +422,7 @@ El modelo de batería de gama media de Ring graba vídeo Retinal 2K en un encuad
 
 La pega está en lo gratuito. Sin Ring Protect tienes vista en directo, notificaciones y puedes responder a la puerta, pero no se guardan vídeos ni fotos. Un propietario en r/smarthome lo dijo sin rodeos: «la suscripción para grabar vídeos es un poco molesta cuando solo tienes una cámara; puedes usar el timbre sin suscripción, pero solo tienes vista en directo». ([resumen de RedditRecs del hilo de r/smarthome, en inglés](https://redditrecs.com/smart-doorbell/model/ring-battery-video-doorbell-plus/))
 
-Los propietarios en Reddit elogian sobre todo lo fácil que es configurarlo y lo que duran las cargas. El mismo usuario tiene dos funcionando con batería y un timbre interior, y cuenta que cada carga le dura 2-3 meses, que bajan a 3-4 semanas en un invierno de Minnesota. Aun así, el consumo de batería es la queja principal. Un usuario de r/Ring escribió en un hilo sobre el Ring Plus: «Mi batería nunca dura más de diez días» ([hilo, en inglés](https://www.reddit.com/r/Ring/comments/1s8y1ee/anyone_else_experiencing_terrible_battery_life/)); el fragmento no dice de qué generación se trata, así que lo tomamos como un solo testimonio.
+Los propietarios en Reddit elogian sobre todo lo fácil que es configurarlo y lo que duran las cargas. El mismo usuario tiene dos funcionando con batería y un timbre interior, y cuenta que cada carga le dura 2-3 meses, que bajan a 3-4 semanas en un invierno de Minnesota. Aun así, el consumo de batería es la queja principal. Un usuario de r/Ring escribió en un hilo sobre el Ring Plus: «Mi batería nunca dura más de diez días» (hilo, en inglés); el fragmento no dice de qué generación se trata, así que lo tomamos como un solo testimonio.
 
 ### Google Nest Doorbell (Battery): las mejores alertas inteligentes gratis
 
@@ -430,7 +430,7 @@ El modelo de batería de Google enfoca la entrada de otra manera. Su sensor HD d
 
 Lo gratuito es la razón para elegirlo. Las alertas de personas, paquetes, animales y vehículos llegan sin suscripción, según Security.org y SafeHome, y tienes 3 horas de historial de eventos. Necesita la app Google Home y una cuenta de Google, y no puede grabar 24/7 con ningún plan.
 
-Los propietarios están muy divididos con la batería. Un usuario de r/Nest dice que «la batería aguanta mucho tiempo y simplemente funciona» ([hilo, en inglés](https://www.reddit.com/r/Nest/comments/wl9myj/why_is_google_nest_doorbell_battery_such_a_bad/)), mientras que otro cuenta que «la batería se agotó en 6 días» ([hilo, en inglés](https://www.reddit.com/r/Nest/comments/r8aw1t/my_nest_doorbell_battery_is_a_piece_of_crap/)). Otros propietarios de r/Nest hablan de retraso en la vista en directo, clips en negro y cortes de señal, y uno dice que el suyo solo duró 2-3 años.
+Los propietarios están muy divididos con la batería. Un usuario de r/Nest dice que «la batería aguanta mucho tiempo y simplemente funciona» (hilo, en inglés), mientras que otro cuenta que «la batería se agotó en 6 días» (hilo, en inglés). Otros propietarios de r/Nest hablan de retraso en la vista en directo, clips en negro y cortes de señal, y uno dice que el suyo solo duró 2-3 años.
 
 ### Vídeo, campo de visión y visión nocturna
 
@@ -492,7 +492,7 @@ Si al final usaste tornillos, planifica la salida antes de instalar para no perd
 
 ### Si tu casero prohíbe los timbres con cámara
 
-La cláusula de cámaras en el contrato es una queja recurrente en hilos de r/Apartmentliving y r/LandlordLove. Una respuesta en [un hilo sobre caseros y cámaras (en inglés)](https://www.reddit.com/r/LandlordLove/comments/1ef2zou/can_landlord_say_we_cant_have_cameras/) advierte: «Si se menciona cualquier prohibición de cámaras, tu casero puede hacerla cumplir en la medida en que la ley lo permita». Otra, en [un hilo sobre timbres en pisos (en inglés)](https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/), dice: «Asegúrate de que es legal y de que no está excluido en tu contrato».
+La cláusula de cámaras en el contrato es una queja recurrente en hilos de r/Apartmentliving y r/LandlordLove. Una respuesta en un hilo sobre caseros y cámaras (en inglés) advierte: «Si se menciona cualquier prohibición de cámaras, tu casero puede hacerla cumplir en la medida en que la ley lo permita». Otra, en un hilo sobre timbres en pisos (en inglés), dice: «Asegúrate de que es legal y de que no está excluido en tu contrato».
 
 No podemos decirte si una cláusula es válida. Lee el contrato, revisa las normas que se aplican donde vives y pregunta por escrito. Aquí tienes un mensaje corto para adaptar con tus datos:
 
@@ -502,13 +502,13 @@ Si la respuesta es no, una cámara interior apuntando al interior de tu puerta h
 
 ### Si el timbre graba a tus vecinos
 
-En un rellano compartido, un timbre puede captar la puerta de enfrente. Un usuario en [un hilo sobre la prohibición de timbres Ring (en inglés)](https://www.reddit.com/r/Apartmentliving/comments/1ebelua/ring_doorbells_not_allowed/) resumió la objeción así: «probablemente estés grabando las puertas de otros vecinos». Es algo que sale una y otra vez en r/Apartmentliving y r/Ring.
+En un rellano compartido, un timbre puede captar la puerta de enfrente. Un usuario en un hilo sobre la prohibición de timbres Ring (en inglés) resumió la objeción así: «probablemente estés grabando las puertas de otros vecinos». Es algo que sale una y otra vez en r/Apartmentliving y r/Ring.
 
 La solución empieza por el ángulo. Usa la cuña de la caja de Nest para girar la vista hacia tu propio felpudo, y dibuja zonas de movimiento en Ring o zonas de actividad en Nest solo alrededor de tu puerta. Avisa al vecino antes de montarlo. Si la distribución de las zonas comunes lo hace imposible, renuncia al timbre.
 
 ### Reducir las falsas alertas de movimiento
 
-Las alertas constantes por la gente que pasa son una queja habitual en los grupos de usuarios de Ring. Un miembro de [un grupo de usuarios de Ring (en inglés)](https://www.facebook.com/groups/ringdoorbellusersgroup/posts/1090145698003833/) escribió: «Las dos últimas semanas me están llegando falsas alarmas del sensor de movimiento».
+Las alertas constantes por la gente que pasa son una queja habitual en los grupos de usuarios de Ring. Un miembro de un grupo de usuarios de Ring (en inglés) escribió: «Las dos últimas semanas me están llegando falsas alarmas del sensor de movimiento».
 
 1. Ajusta las zonas de actividad o de movimiento a tu puerta, no al pasillo.
 2. Baja la sensibilidad y la frecuencia de movimiento en la app.
@@ -517,13 +517,13 @@ Las alertas constantes por la gente que pasa son una queja habitual en los grupo
 
 ### Consumo de batería con frío
 
-Las baterías de Ring y Nest se comportan de forma distinta con frío, aunque el frío vacía cualquier timbre de batería, algo sobre lo que avisa la empresa de instalaciones de seguridad CPI en [su guía de invierno (en inglés)](https://cpisecurity.com/blog/how-cold-weather-affects-your-cpi-security-devices/): «El frío puede agotar las baterías, empañar las lentes y provocar falsas alarmas». Ring indica que su timbre funciona hasta -20 °C (-4 °F), y la batería extraíble se carga dentro de casa. Google indica que el Nest funciona hasta -20 °C, pero que solo carga por encima de 0 °C (32 °F), así que en una entrada helada no puede recargarse.
+Las baterías de Ring y Nest se comportan de forma distinta con frío, aunque el frío vacía cualquier timbre de batería, algo sobre lo que avisa la empresa de instalaciones de seguridad CPI en su guía de invierno (en inglés): «El frío puede agotar las baterías, empañar las lentes y provocar falsas alarmas». Ring indica que su timbre funciona hasta -20 °C (-4 °F), y la batería extraíble se carga dentro de casa. Google indica que el Nest funciona hasta -20 °C, pero que solo carga por encima de 0 °C (32 °F), así que en una entrada helada no puede recargarse.
 
 [Las indicaciones de Google sobre la batería (en inglés)](https://support.google.com/googlehome/answer/10901611?hl=en) sitúan la duración típica en unos 2,5 meses con 13-16 eventos al día y unos 6 meses con 2-5 eventos al día. Un rellano con mucho paso significa más eventos. Vigila el porcentaje de batería en la app, haz caso al aviso de batería baja antes de una ola de frío y cablea cualquiera de los dos modelos si el edificio ya tiene cables de timbre y lo aprueba.
 
 ### Antirrobo y montaje sin taladrar
 
-No taladrar es una norma estricta en muchos edificios. Un usuario de [r/Ring (en inglés)](https://www.reddit.com/r/Ring/comments/184g6hd/what_are_your_thoughts_on_putting_up_a_ring/) comentó: «No hace falta taladrar, que es justo lo que necesito en mi piso porque no dejan taladrar el exterior». El No-Drill Mount de Ring es aquí la respuesta más limpia. Ninguna de las páginas de los fabricantes que hemos leído menciona un soporte antimanipulación o antirrobo, así que en un portal con mucho movimiento nosotros lo montaríamos dentro de un vestíbulo cerrado con llave si el edificio lo permite.
+No taladrar es una norma estricta en muchos edificios. Un usuario de r/Ring (en inglés) comentó: «No hace falta taladrar, que es justo lo que necesito en mi piso porque no dejan taladrar el exterior». El No-Drill Mount de Ring es aquí la respuesta más limpia. Ninguna de las páginas de los fabricantes que hemos leído menciona un soporte antimanipulación o antirrobo, así que en un portal con mucho movimiento nosotros lo montaríamos dentro de un vestíbulo cerrado con llave si el edificio lo permite.
 
 > **De nuestras notas:** Cuando pusimos lado a lado las fichas técnicas de Ring y de Google para esta comparativa, esperábamos que las cifras de vídeo decidieran. No fue así. La línea que nos hizo cambiar de idea estaba en la ficha de Google: la batería del Nest solo carga por encima de 0 °C. Ring indica que funciona hasta -20 °C (-4 °F) y su batería se saca para cargarla dentro. Luego leímos los hilos de propietarios. Un propietario de Ring en Minnesota contaba 3-4 semanas por carga en invierno, mientras que los mensajes de r/Nest iban desde baterías muy duraderas hasta seis días. Para la entrada fría de un edificio, eso nos inclinó hacia Ring. Para un clima suave, ganaron las alertas gratis de Nest.
 

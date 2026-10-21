@@ -437,7 +437,7 @@ This table compares our four picks on the points renters ask about.
 
 The Echo Dot is the low-cost way into an Alexa home, and Wirecutter names it as the model to start with. Amazon's developer docs list every Echo Dot from the 2nd Gen on as Matter-enabled, so it can add Matter plugs and bulbs straight into the Alexa app. What surprised us: the same page's list of Thread border routers includes the Echo (4th Gen), Echo Hub and Echo Dot Max, but not the Echo Dot. If you plan to buy Thread sensors later, this speaker won't be their hub.
 
-A built-in temperature sensor can trigger routines, though one r/amazonecho owner found it reads off near forced-air vents. On an eero network it can also act as an [eero Built-in extender](https://eero.com/eero-built-in). Owner threads are mixed: people like it for timers and reminders, while others in r/amazonecho report random glitches and say they stopped using theirs after a few months.
+A built-in temperature sensor can trigger routines, though one r/amazonecho owner found it reads off near forced-air vents. On an eero network it can also act as an eero Built-in extender. Owner threads are mixed: people like it for timers and reminders, while others in r/amazonecho report random glitches and say they stopped using theirs after a few months.
 
 ### Google Nest Hub (2nd Gen): Best Thread-ready hub
 
@@ -459,14 +459,14 @@ Lutron says the hub uses its Clear Connect RF, not Wi-Fi, and works with Alexa, 
 
 ## Do you need a smart home hub to start a smart home starter kit
 
-**A smart home starter kit needs a Matter controller, which a recent Echo or Nest smart speaker already is, plus a Thread border router only if you buy Thread devices.** That answers the most common beginner worry. "I want to make my home smart, but I ran into difficulty understanding the differences between Zigbee, Zwave and Matter," one [r/homeautomation poster](https://www.reddit.com/r/homeautomation/comments/1eamwov/new_smart_home_what_protocol_should_i_use_zigbee/) wrote.
+**A smart home starter kit needs a Matter controller, which a recent Echo or Nest smart speaker already is, plus a Thread border router only if you buy Thread devices.** That answers the most common beginner worry. "I want to make my home smart, but I ran into difficulty understanding the differences between Zigbee, Zwave and Matter," one r/homeautomation poster wrote.
 
 Here is the short version:
 - **Matter** is the shared language: one device can work in Alexa, Google Home and Apple Home at once.
 - **Thread** is a low-power mesh that carries some Matter devices; it needs a border router such as the Nest Hub (2nd Gen).
 - **Zigbee** (Hue) and **Clear Connect** (Caseta) are brand radios that talk through their own bridge or hub.
 
-Support still varies by app version ("The challenge is that Matter is evolving quickly," as an [r/HomeKit reply](https://www.reddit.com/r/HomeKit/comments/1l0soq3/does_matter_automatically_mean_a_device_will_work/) puts it), so check that the box says Matter certified and shows your assistant's logo. Our [Zigbee vs Thread explainer](/blog/zigbee-vs-thread/) goes deeper. The video below walks through how a smart home fits together.
+Support still varies by app version ("The challenge is that Matter is evolving quickly," as an r/HomeKit reply puts it), so check that the box says Matter certified and shows your assistant's logo. Our [Zigbee vs Thread explainer](/blog/zigbee-vs-thread/) goes deeper. The video below walks through how a smart home fits together.
 
 ## Problems owners run into, and the fix
 
@@ -474,11 +474,11 @@ Support still varies by app version ("The challenge is that Matter is evolving q
 
 ### Bulbs die at the wall switch
 
-Smart bulbs need constant power; as one [smart home blog](https://doitforme.solutions/blog/are-your-smart-bulbs-making-your-smart-home-dumb/) puts it, "when you flip the wall switch, all power is stopped so the smart bulb becomes totally dead." The renter fix is to stop using that switch as the control: put the Pico remote by the door, or plug the lamp into the Caseta dimmer and leave the switch and bulb alone. A strip of painter's tape over the switch helps roommates remember.
+Smart bulbs need constant power; as one smart home blog puts it, "when you flip the wall switch, all power is stopped so the smart bulb becomes totally dead." The renter fix is to stop using that switch as the control: put the Pico remote by the door, or plug the lamp into the Caseta dimmer and leave the switch and bulb alone. A strip of painter's tape over the switch helps roommates remember.
 
 ### Matter devices won't pair
 
-"Alexa suddenly won't add any Matter smart home products to its ecosystem," one [r/alexa owner](https://www.reddit.com/r/alexa/comments/1dgisga/cant_add_any_matter_smart_home_products_to_alexa/) wrote. Google's help page says Matter needs IPv6 on your home network, and that setup can look like it worked and then fail without it. On a landlord or ISP router, ask for IPv6 to be turned on, and check that a Thread device has a border router nearby.
+"Alexa suddenly won't add any Matter smart home products to its ecosystem," one r/alexa owner wrote. Google's help page says Matter needs IPv6 on your home network, and that setup can look like it worked and then fail without it. On a landlord or ISP router, ask for IPv6 to be turned on, and check that a Thread device has a border router nearby.
 
 ### No router port in your building
 
@@ -495,7 +495,7 @@ Some buildings provide Wi-Fi with no router in your unit. Both the Hue Bridge an
 3. Link Hue or Caseta to Alexa or Google Home so voice control works.
 4. Name devices by room and build one routine, such as lights on at sunset.
 
-Account ownership matters when roommates split up. One [r/HomeKit reply](https://www.reddit.com/r/HomeKit/comments/zzyc45/first_apartment_homekit_recommendations/) advises: "I'd stay away from anything that needs a unique hub and stick with WiFi or Thread devices." We'd say keep any hub in the name of whoever keeps it. On move-out day, unplug everything, factory reset anything you're selling or leaving, and screw the original bulbs back in. No landlord email is needed for plug-in gear. The video below shows the Caseta plug-in kit setup.
+Account ownership matters when roommates split up. One r/HomeKit reply advises: "I'd stay away from anything that needs a unique hub and stick with WiFi or Thread devices." We'd say keep any hub in the name of whoever keeps it. On move-out day, unplug everything, factory reset anything you're selling or leaving, and screw the original bulbs back in. No landlord email is needed for plug-in gear. The video below shows the Caseta plug-in kit setup.
 
 ## Our verdict
 

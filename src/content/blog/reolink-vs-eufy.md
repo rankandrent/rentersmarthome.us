@@ -535,7 +535,7 @@ The S330 does the most on-device sorting: its hub-based BionicMind AI recognizes
 
 **Neither brand forces a subscription on these four cameras: all of them record locally with no monthly fee, and cloud storage is an optional extra.** That answers the most common question renters bring to this comparison.
 
-"Why do cameras need a monthly fee at all?" is a recurring complaint in [r/BuyItForLife threads about camera subscriptions](https://www.reddit.com/r/BuyItForLife/comments/1n94pqy/why_did_we_accept_that_security_cameras_need/), and the answers keep pointing at local storage. As one r/homeowners commenter put it, "Subscription not required to record to SD card and view via your cell phone." ([source](https://www.reddit.com/r/homeowners/comments/1ot0xm0/home_security_cameras_without_monthly_payment/)). Reolink comes up by name: "Reolink is a good call for no subscription." ([r/homeautomation](https://www.reddit.com/r/homeautomation/comments/1nrmayb/what_are_my_options_for_a_good_security_camera/)). The fix is simply choosing a camera that saves clips locally, and all four here do.
+"Why do cameras need a monthly fee at all?" is a recurring complaint in r/BuyItForLife threads about camera subscriptions, and the answers keep pointing at local storage. As one r/homeowners commenter put it, "Subscription not required to record to SD card and view via your cell phone." (source). Reolink comes up by name: "Reolink is a good call for no subscription." (r/homeautomation). The fix is simply choosing a camera that saves clips locally, and all four here do.
 
 ### Local storage: hub vs microSD vs NVR
 
@@ -560,7 +560,7 @@ A built-in panel (S330, S220) or an add-on panel (the Argus pair) only helps if 
 
 ### Cold-weather battery drain
 
-A battery camera that drains fast or shuts off in the cold is a common worry, and eufy's own [support page on its battery doorbell in cold weather](https://service.eufy.com/article-description/Does-cold-weather-impact-eufy-Battery-Powered-Video-Doorbell) confirms that low temperatures affect battery performance. CPI Security sums up the broader problem: "Cold weather can drain batteries, fog up lenses, and trigger false alarms." ([CPI Security](https://cpisecurity.com/blog/how-cold-weather-affects-your-cpi-security-devices/)). The S220 lists a lower operating limit of -4°F.
+A battery camera that drains fast or shuts off in the cold is a common worry, and eufy's own support page on its battery doorbell in cold weather confirms that low temperatures affect battery performance. CPI Security sums up the broader problem: "Cold weather can drain batteries, fog up lenses, and trigger false alarms." (CPI Security). The S220 lists a lower operating limit of -4°F.
 
 These steps cut battery drain in the cold, in order of effort:
 
@@ -581,7 +581,7 @@ If your apartment runs on Alexa / Google Home / HomeKit, confirm support for the
 
 ### Cloud privacy and the eufy 2022 thumbnail controversy
 
-Distrust of camera clouds is a recurring theme in [r/privacytoolsIO threads on privacy-friendly cameras](https://www.reddit.com/r/privacytoolsIO/comments/p4wfh0/privacy_friendly_security_cameras/), where one commenter noted, "Eufy (anker) cameras store locally but still use cloud for login." The eufy 2022 cloud thumbnail controversy is why this matters. In November 2022, [Ars Technica reported](https://arstechnica.com/gadgets/2022/11/eufys-no-clouds-cameras-upload-facial-thumbnails-to-aws/) that security researcher Paul Moore had shown eufy cameras uploading thumbnail images to cloud servers to send phone alerts. Eufy told Ars the thumbnails were briefly and securely stored on an AWS-based server and that it had not made clear to owners choosing thumbnail notifications that previews would be hosted in the cloud. In January 2023, [The Verge reported](https://www.theverge.com/23573362/anker-eufy-security-camera-answers-encryption) that Anker admitted its cameras were not natively end-to-end encrypted and had produced unencrypted video streams for eufy's web portal. Anker said that was largely fixed and promised to do better. eufy's own product notes for the S330 and S220 still say cloud features such as thumbnail notifications send data to its cloud.
+Distrust of camera clouds is a recurring theme in r/privacytoolsIO threads on privacy-friendly cameras, where one commenter noted, "Eufy (anker) cameras store locally but still use cloud for login." The eufy 2022 cloud thumbnail controversy is why this matters. In November 2022, Ars Technica reported that security researcher Paul Moore had shown eufy cameras uploading thumbnail images to cloud servers to send phone alerts. Eufy told Ars the thumbnails were briefly and securely stored on an AWS-based server and that it had not made clear to owners choosing thumbnail notifications that previews would be hosted in the cloud. In January 2023, The Verge reported that Anker admitted its cameras were not natively end-to-end encrypted and had produced unencrypted video streams for eufy's web portal. Anker said that was largely fixed and promised to do better. eufy's own product notes for the S330 and S220 still say cloud features such as thumbnail notifications send data to its cloud.
 
 Here is what we'd do on either brand to tighten cloud privacy:
 
@@ -596,7 +596,7 @@ Here is what we'd do on either brand to tighten cloud privacy:
 
 ### Landlord rules on cameras
 
-"My lease says no cameras" is a recurring worry in r/Apartmentliving and r/LandlordLove threads. One r/LandlordLove reply is blunt: "If there is any mention of no cameras then your landlord can enforce that however the law allows" ([source](https://www.reddit.com/r/LandlordLove/comments/1ef2zou/can_landlord_say_we_cant_have_cameras/)). An r/Apartmentliving commenter adds, "Make sure it's legal and not excluded in your lease." ([source](https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/)).
+"My lease says no cameras" is a recurring worry in r/Apartmentliving and r/LandlordLove threads. One r/LandlordLove reply is blunt: "If there is any mention of no cameras then your landlord can enforce that however the law allows" (source). An r/Apartmentliving commenter adds, "Make sure it's legal and not excluded in your lease." (source).
 
 We always tell readers to read the lease camera clause first, then check your state's official tenant guide (often published by the attorney general or housing agency) and your city's rules, because recording and audio rules vary by place. This isn't legal advice. Then ask in writing, with something like this:
 
@@ -604,7 +604,7 @@ We always tell readers to read the lease camera clause first, then check your st
 
 ### Mounting without drilling
 
-Exterior drilling bans are a frequent complaint in camera threads, with one r/Ring renter writing, "No drilling required which is needed at my apartment because they don't allow drilling to the exterior." ([source](https://www.reddit.com/r/Ring/comments/184g6hd/what_are_your_thoughts_on_putting_up_a_ring/)). These cameras ship for brackets, so the fix is placement.
+Exterior drilling bans are a frequent complaint in camera threads, with one r/Ring renter writing, "No drilling required which is needed at my apartment because they don't allow drilling to the exterior." (source). These cameras ship for brackets, so the fix is placement.
 
 The no-screw options, from simplest to most involved:
 

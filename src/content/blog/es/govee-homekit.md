@@ -145,11 +145,11 @@ Según Govee y AddToHomeKit, los modelos Govee antiguos no pueden recibir Matter
 
 ### Comprobación Govee HomeKit: ¿cuál tienes?
 
-Antes de comprar, busca el logo Matter en la caja y el número de modelo de la M1 (H61E0 o H61E1). Importa porque es una duda recurrente en los hilos de r/HomeKit, donde los usuarios preguntan si "Matter" en la caja garantiza que funcione con Apple Home. Una respuesta lo resume sin rodeos: ["The challenge is that Matter is evolving quickly."](https://www.reddit.com/r/HomeKit/comments/1l0soq3/does_matter_automatically_mean_a_device_will_work/) (el problema es que Matter evoluciona muy deprisa). Nuestra regla: fíate del logo del modelo concreto, no de la marca.
+Antes de comprar, busca el logo Matter en la caja y el número de modelo de la M1 (H61E0 o H61E1). Importa porque es una duda recurrente en los hilos de r/HomeKit, donde los usuarios preguntan si "Matter" en la caja garantiza que funcione con Apple Home. Una respuesta lo resume sin rodeos: "The challenge is that Matter is evolving quickly." (el problema es que Matter evoluciona muy deprisa). Nuestra regla: fíate del logo del modelo concreto, no de la marca.
 
 ### Ejemplo de tira Matter: la Govee LED Strip Light M1
 
-La Govee LED Strip Light M1 encaja con el inquilino que quiere que Siri y la app Casa manejen una tira en el dormitorio o detrás de la tele sin puente ni cableado. Se enchufa a la corriente y se pega con adhesivo, y la misma tira se puede compartir también con Alexa o Google Home. Para España, busca la versión europea: la [tienda europea de Govee](https://eu.govee.com/products/refurbished-govee-led-strip-light-m1-matter-compatible-2m) muestra la M1 H61E0 de 2 m (6.56 ft) con cargador de enchufe EU de 2 patillas y compatibilidad Matter (HomeKit, Alexa y Google). La versión europea de la H61E1 (5 m, 16.4 ft) no la hemos podido confirmar, así que no des por hecho que exista con enchufe europeo.
+La Govee LED Strip Light M1 encaja con el inquilino que quiere que Siri y la app Casa manejen una tira en el dormitorio o detrás de la tele sin puente ni cableado. Se enchufa a la corriente y se pega con adhesivo, y la misma tira se puede compartir también con Alexa o Google Home. Para España, busca la versión europea: la tienda europea de Govee muestra la M1 H61E0 de 2 m (6.56 ft) con cargador de enchufe EU de 2 patillas y compatibilidad Matter (HomeKit, Alexa y Google). La versión europea de la H61E1 (5 m, 16.4 ft) no la hemos podido confirmar, así que no des por hecho que exista con enchufe europeo.
 
 En Apple Home solo tendrás lo básico, y ten en cuenta que Govee dice que la tira no se puede cortar por debajo de 3 metros, así que piensa dónde vas a enrollar el sobrante. Las opiniones de los propietarios son mixtas: un miembro del grupo de Facebook de Govee quedó "muy impresionado" tras cambiar una tira genérica de los muebles por la M1, mientras que a un usuario de r/HomeKit la tira le aparecía como compatible pero nunca terminaba de conectarse. Una respuesta en r/Govee cuenta que el código QR del cable resolvió un problema de emparejamiento parecido.
 
@@ -160,7 +160,7 @@ En Apple Home solo tendrás lo básico, y ten en cuenta que Govee dice que la ti
 Antes de empezar, repasa esta lista:
 
 - Tu móvil está en la banda Wi-Fi de 2,4 GHz y con el Bluetooth activado.
-- IPv6 está activado en el router (la guía de la comunidad dice que el emparejamiento Matter de Govee lo necesita). En muchos routers está en Avanzado > IPv6, como explica [TP-Link](https://www.tp-link.com/uy/support/faq/1525/).
+- IPv6 está activado en el router (la guía de la comunidad dice que el emparejamiento Matter de Govee lo necesita). En muchos routers está en Avanzado > IPv6, como explica TP-Link.
 - Tienes 15 minutos desde que enchufas la luz; después se cierra la ventana de emparejamiento.
 - Para el acceso remoto y las automatizaciones, un hub de casa de Apple (HomePod mini/Apple TV 4K u otro HomePod o Apple TV).
 
@@ -206,19 +206,19 @@ AddToHomeKit también menciona los Atajos de Siri mediante Tap-to-Run de Govee c
 
 ### Mejor enchufable que adhesivo cuando puedas
 
-Que el casero se quede parte de la fianza por la pintura es una queja que se repite en r/ESLegal. Un inquilino que dejó su piso tras cinco años cuenta que ["el casero se niega a devolverme la fianza"](https://www.reddit.com/r/ESLegal/comments/1sfnmv7/casero_no_me_devuelve_fianza_por_tener_que_pintar/) por tener que pintar, y en otro hilo una respuesta recuerda que ["Son desperfectos derivados del uso normal del piso y los asume el propietario."](https://www.reddit.com/r/ESLegal/comments/1nhisum/cobro_de_900_euros_en_pintura_tras_terminar/) Una Floor Lamp 3 o una lámpara en un Smart Plug Pro (ambos con Matter según AddToHomeKit) evitan el problema. Nuestra guía de [enchufes inteligentes Matter](/es/blog/mejores-enchufes-inteligentes-matter/) explica cómo un enchufe hace que cualquier lámpara funcione con Apple Home.
+Que el casero se quede parte de la fianza por la pintura es una queja que se repite en r/ESLegal. Un inquilino que dejó su piso tras cinco años cuenta que "el casero se niega a devolverme la fianza" por tener que pintar, y en otro hilo una respuesta recuerda que "Son desperfectos derivados del uso normal del piso y los asume el propietario." Una Floor Lamp 3 o una lámpara en un Smart Plug Pro (ambos con Matter según AddToHomeKit) evitan el problema. Nuestra guía de [enchufes inteligentes Matter](/es/blog/mejores-enchufes-inteligentes-matter/) explica cómo un enchufe hace que cualquier lámpara funcione con Apple Home.
 
-Como información general, no como asesoramiento legal: el [artículo 36 de la Ley de Arrendamientos Urbanos](https://www.boe.es/buscar/act.php?id=BOE-A-1994-26003) establece que el saldo de la fianza en metálico devenga el interés legal si no se ha devuelto pasado un mes desde la entrega de las llaves.
+Como información general, no como asesoramiento legal: el artículo 36 de la Ley de Arrendamientos Urbanos establece que el saldo de la fianza en metálico devenga el interés legal si no se ha devuelto pasado un mes desde la entrega de las llaves.
 
 ### Si usas una tira
 
-Al irte del piso, calienta el adhesivo o humedécelo con alcohol isopropílico antes de despegarlo, y haz fotos del estado de las paredes antes de entregar las llaves. El problema contrario, tiras que se caen a los pocos días, también sale en grupos de inquilinos y de padres, donde una respuesta advierte de que ["the adhesive backing may not be sufficient"](https://www.facebook.com/groups/1841247825900748/posts/28748695164729316/) (el adhesivo de serie puede no bastar). La solución son clips, canales o cinta extraíble de más agarre. En nuestra guía de [tiras LED para piso de alquiler](/es/blog/tiras-led-para-piso-de-alquiler/) comparamos las opciones de montaje.
+Al irte del piso, calienta el adhesivo o humedécelo con alcohol isopropílico antes de despegarlo, y haz fotos del estado de las paredes antes de entregar las llaves. El problema contrario, tiras que se caen a los pocos días, también sale en grupos de inquilinos y de padres, donde una respuesta advierte de que "the adhesive backing may not be sufficient" (el adhesivo de serie puede no bastar). La solución son clips, canales o cinta extraíble de más agarre. En nuestra guía de [tiras LED para piso de alquiler](/es/blog/tiras-led-para-piso-de-alquiler/) comparamos las opciones de montaje.
 
 > **De nuestras notas:** Cuando leímos la FAQ de Matter de Govee junto a la guía para principiantes de su comunidad, la frase que nos hizo parar no hablaba del emparejamiento. Era el aviso de que cambiar el Wi-Fi en la app de Govee desactiva Matter. Imagina a un inquilino que se muda, conecta la tira al nuevo router desde la app de Govee y ve cómo desaparece de Apple Home. Ninguna de las guías principales que comparamos lo relaciona con el día de la mudanza, y por eso hemos puesto en este artículo el orden de restablecer primero.
 
 ### De quién es el ID de Apple del hub, y qué hacer al mudarte
 
-Los inquilinos lo preguntan a menudo en r/HomeKit; un hilo sobre pisos de alquiler empieza así: ["One of the first decisions is regarding HomeKit hub and the Apple ID."](https://www.reddit.com/r/HomeKit/comments/n51voa/homekit_in_a_rental_property/) (una de las primeras decisiones es el hub de HomeKit y el ID de Apple). El hub va ligado a un solo ID de Apple, así que si compartes piso nosotros lo pondríamos a nombre de quien se vaya a quedar más tiempo. Las luces Matter no necesitan un hub adicional, lo que encaja con el consejo de [un hilo sobre el primer piso](https://www.reddit.com/r/HomeKit/comments/zzyc45/first_apartment_homekit_recommendations/): ["I'd stay away from anything that needs a unique hub"](https://www.reddit.com/r/HomeKit/comments/zzyc45/first_apartment_homekit_recommendations/) (yo evitaría todo lo que necesite su propio hub). Al mudarte, elimina cada luz de Apple Home, restablécela y vuelve a añadirla en la nueva casa.
+Los inquilinos lo preguntan a menudo en r/HomeKit; un hilo sobre pisos de alquiler empieza así: "One of the first decisions is regarding HomeKit hub and the Apple ID." (una de las primeras decisiones es el hub de HomeKit y el ID de Apple). El hub va ligado a un solo ID de Apple, así que si compartes piso nosotros lo pondríamos a nombre de quien se vaya a quedar más tiempo. Las luces Matter no necesitan un hub adicional, lo que encaja con el consejo de un hilo sobre el primer piso: "I'd stay away from anything that needs a unique hub" (yo evitaría todo lo que necesite su propio hub). Al mudarte, elimina cada luz de Apple Home, restablécela y vuelve a añadirla en la nueva casa.
 
 ### Router e IPv6 cuando la red la controla el casero
 
@@ -230,7 +230,7 @@ Si el Wi-Fi lo gestiona el casero, o usas el router del operador o una red comun
 
 ### No se empareja
 
-Que el emparejamiento Matter falle durante horas es una queja recurrente en hilos de r/homeassistant y r/alexa, como [este intento de tres días](https://www.reddit.com/r/homeassistant/comments/1rgodgx/ive_been_trying_to_pair_matter_devices_for_3_days/). Muchos de esos casos tienen que ver con routers de borde Thread, que no afectan a Govee. Comprueba IPv6, los 2,4 GHz y la ventana de 15 minutos; después reinicia primero el router y luego la luz, y vuelve a emparejar.
+Que el emparejamiento Matter falle durante horas es una queja recurrente en hilos de r/homeassistant y r/alexa, como este intento de tres días. Muchos de esos casos tienen que ver con routers de borde Thread, que no afectan a Govee. Comprueba IPv6, los 2,4 GHz y la ventana de 15 minutos; después reinicia primero el router y luego la luz, y vuelve a emparejar.
 
 ### Ya está emparejada en otra app
 
@@ -242,4 +242,4 @@ Sigue el orden de eliminar, restablecer y volver a añadir que explicamos arriba
 
 ### El interruptor de la pared la deja sin control
 
-Que un compañero de piso apague el interruptor es el fallo clásico en un piso compartido: ["when you flip the wall switch, all power is stopped so the smart bulb becomes totally dead."](https://doitforme.solutions/blog/are-your-smart-bulbs-making-your-smart-home-dumb/) (al apagar el interruptor se corta toda la corriente y la bombilla inteligente se queda completamente muerta). Deja ese interruptor encendido y tápalo con un protector. Nuestra guía de [bombillas inteligentes para inquilinos](/es/blog/mejores-bombillas-inteligentes-para-inquilinos/) recoge otras soluciones, y la de [domótica para pisos de alquiler](/es/blog/domotica-para-pisos-de-alquiler/) muestra qué añadir después.
+Que un compañero de piso apague el interruptor es el fallo clásico en un piso compartido: "when you flip the wall switch, all power is stopped so the smart bulb becomes totally dead." (al apagar el interruptor se corta toda la corriente y la bombilla inteligente se queda completamente muerta). Deja ese interruptor encendido y tápalo con un protector. Nuestra guía de [bombillas inteligentes para inquilinos](/es/blog/mejores-bombillas-inteligentes-para-inquilinos/) recoge otras soluciones, y la de [domótica para pisos de alquiler](/es/blog/domotica-para-pisos-de-alquiler/) muestra qué añadir después.

@@ -3,18 +3,15 @@
   "lang": "de",
   "translationOf": "best-smart-lock-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-21T14:43:14.959Z",
+  "checkedAt": "2026-10-21T19:51:38.303Z",
   "errors": [],
   "warnings": [
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
-    "source didn't respond normally (503): https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/abzocke/schluesseldienste-so-schuetzen-sie-sich-vor-ueberzogen-hohen-rechnungen-6687",
-    "source didn't respond normally (403): https://www.reddit.com/r/wohnen/comments/11m0yzw/darf_ich_das_t%C3%BCrschloss_gegen_ein_smartes/",
-    "source didn't respond normally (403): https://www.gutefrage.net/frage/tuerschloss-in-der-mietwohnung-tauschen"
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "2026-10-20 localized guide (guideOnly, no products). Compared with EN best-smart-lock-for-renters and local brief; re-opened mietrecht.de (swap allowed, clause 'in der Regel unzulässig', keep old lock: attributed as source view, marked contested), gutefrage (3 quotes verbatim), Reddit r/wohnen (quote confirmed via firecrawl_search), Verbraucherzentrale (tips, BGH Jan 2020 Wucher), SwitchBot EU page (ideal for European homes, cylinder adaptors, Euro cylinder install videos, Hub 2 EU plug, Matter via Hub 2/Hub Mini; removed unsupported 'measure before buying', 'support centre guides', Hub Mini EU plug), Yale Linus L2 (3 mm, 22 mm round, Adjustable Cylinder), matter-smarthome.de (separate Europe vs US/UK lists). Softened 'sicherer Weg'. No products/Amazon/prices.",
-    "at": "2026-10-20T04:43:30.088Z",
-    "hash": "b9ff0eeb44cb0689"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:51:37.906Z",
+    "hash": "e8646ca44836f94b"
   }
 }

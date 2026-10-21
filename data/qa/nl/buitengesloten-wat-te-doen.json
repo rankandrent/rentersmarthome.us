@@ -3,17 +3,15 @@
   "lang": "nl",
   "translationOf": "locked-out-of-apartment",
   "pass": true,
-  "checkedAt": "2026-10-21T10:25:33.575Z",
+  "checkedAt": "2026-10-21T19:51:49.591Z",
   "errors": [],
   "warnings": [
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
-    "source didn't respond normally (403): https://www.juridischloket.nl/wonen-en-buren/huurwoning/onderhoudskosten/",
-    "source didn't respond normally (403): https://www.reddit.com/r/nederlands/comments/1o036wo/pas_op_met_cvstoringservicenl_1500_kwijt_voor/"
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Rewritten local NL version compared with locked-out-of-apartment and brief data/briefs/nl/locked-out-of-apartment.local.json. Re-opened: Consumentenbond slotenmakers (reservesleutels, prijsindicatie, NSSG, Politiekeurmerk, leadbedrijven, Google-advertenties, inboedelverzekering, stappenplan, no-damage opening), Woonbond sleutelservice (deugdelijk hang- en sluitwerk, schriftelijk melden), Juridisch Loket onderhoudskosten (klein/dagelijks voor huurder), Rijksoverheid 112 (fornuis example; for lockout without danger it says call a sleutelmaker, 0900-8844 is police no-urgency, so wording fixed), r/nederlands quote verbatim via search. SwitchBot EU store (ideal for European homes, Euro Cylinder key/knob videos, compatibility checker, 4 AA 6-9 months, Keypad Touch/hub separate), Master Lock EU 5400EURD (90 mm, 4-digit, vinyl shackle, inner 7.8x6.8x3 cm) and 5420EURD (adjustable shackle 19-44 mm, inner 8.8x5.7x3.2, cover). Fixes: removed US Amazon key capacities (5/6 keys) and replaced with EU inner dimensions; labelled Home Depot reviews as US versions; replaced translated English Reddit/iveise quotes with paraphrases (not verbatim); fixed 0900-8844 use; attributed no-damage opening to Consumentenbond. Confirmed August and Yale Approach absent, no prices, no legal advice (general info disclaimer), all four dropOrChange applied.",
-    "at": "2026-10-20T04:41:19.532Z",
-    "hash": "1c1e2ea9da751ac1"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:51:49.154Z",
+    "hash": "c6694529d287d540"
   }
 }

@@ -3,15 +3,15 @@
   "lang": "nl",
   "translationOf": "best-smart-lock-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-20T23:29:12.065Z",
+  "checkedAt": "2026-10-21T19:51:48.932Z",
   "errors": [],
   "warnings": [
-    "source didn't respond normally (403): https://www.reddit.com/r/juridischadvies/comments/12qlylr/onveilig_in_appartement_mag_ik_sloten_vervangen/"
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Re-compared with EN post best-smart-lock-for-renters and local brief (guideOnly). Re-opened 2026-10-20: Rijksoverheid (small reversible changes need no consent; renovation needs consent; judge if refused; lock swap not mentioned), Consumentenbond slotenmakers (clear price indication, call-out/emergency/evening/material/btw, 50% evening surcharge usual, leadbedrijven), SwitchBot EU Lock Pro page (ideal for European homes, cylinder adaptors, Dutch language, EU-plug hub, Matter via hub, Keypad Touch fingerprint, compatibility check with ruler, install videos for Euro cylinder with knob and with key; removed unsupported 'thumbturn required' claims), Yale Linus L2 page (Euro profile cylinders protruding at least 3 mm, 22 mm round, Adjustable Cylinder; 3 mm = 0.12 in, 22 mm = 0.87 in). Reddit quote confirmed via firecrawl_search at same thread URL; thread title asks about replacing locks, quote only describes building; post now says so. Legal text framed as general info, not advice. No products, Amazon links or prices.",
-    "at": "2026-10-20T04:41:14.851Z",
-    "hash": "4d7cd4c98038f78e"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:51:48.450Z",
+    "hash": "2a89c3e02ca74adb"
   }
 }

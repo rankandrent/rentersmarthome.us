@@ -420,7 +420,7 @@ Rings Akku-Modell der Mittelklasse nimmt Retinal-2K-Video in einem quadratischen
 
 Der Haken ist der Gratis-Umfang. Ohne Ring Protect bekommst du Live-Ansicht, Benachrichtigungen und kannst die Tür per Gegensprechen beantworten, aber es werden weder Videos noch Fotos gespeichert. Ein Besitzer auf r/smarthome brachte es auf den Punkt: „Das Abo für Videoaufnahmen nervt ein bisschen, wenn man nur eine Kamera hat; man kann die Klingel auch ohne Abo nutzen, bekommt dann aber nur die Live-Ansicht.“ ([RedditRecs-Zusammenfassung des r/smarthome-Threads, auf Englisch](https://redditrecs.com/smart-doorbell/model/ring-battery-video-doorbell-plus/))
 
-Besitzer auf Reddit loben vor allem die einfache Einrichtung und lange Ladungen. Derselbe Kommentator betreibt zwei Klingeln mit Akku und einem Innengong und berichtet von 2-3 Monaten pro Ladung, die im Winter in Minnesota auf 3-4 Wochen sinken. Der Akkuverbrauch ist allerdings die Hauptklage. Ein Nutzer auf r/Ring schrieb in einem Thread zur Ring Plus: „Mein Akku hält nie länger als zehn Tage“ ([Thread, auf Englisch](https://www.reddit.com/r/Ring/comments/1s8y1ee/anyone_else_experiencing_terrible_battery_life/)); der Auszug sagt nicht, um welche Generation es geht, deshalb werten wir das als einen einzelnen Bericht.
+Besitzer auf Reddit loben vor allem die einfache Einrichtung und lange Ladungen. Derselbe Kommentator betreibt zwei Klingeln mit Akku und einem Innengong und berichtet von 2-3 Monaten pro Ladung, die im Winter in Minnesota auf 3-4 Wochen sinken. Der Akkuverbrauch ist allerdings die Hauptklage. Ein Nutzer auf r/Ring schrieb in einem Thread zur Ring Plus: „Mein Akku hält nie länger als zehn Tage“ (Thread, auf Englisch); der Auszug sagt nicht, um welche Generation es geht, deshalb werten wir das als einen einzelnen Bericht.
 
 ### Google Nest Doorbell (Battery): beste kostenlose smarte Alarme
 
@@ -428,7 +428,7 @@ Googles Akku-Modell geht die Haustür anders an. Sein HD-Sensor mit 960 x 1280 f
 
 Der Gratis-Umfang ist der Grund, sie zu kaufen. Personen-, Paket-, Tier- und Fahrzeugalarme gibt es laut Security.org und SafeHome ohne Abo, dazu 3 Stunden Ereignisverlauf. Sie braucht die Google Home App und ein Google-Konto und kann mit keinem Abo rund um die Uhr aufnehmen.
 
-Beim Akku sind die Besitzer stark gespalten. Ein Kommentator auf r/Nest sagt: „Der Akku hält lange und sie funktioniert einfach“ ([Thread, auf Englisch](https://www.reddit.com/r/Nest/comments/wl9myj/why_is_google_nest_doorbell_battery_such_a_bad/)), während ein anderer berichtet: „Der Akku war nach 6 Tagen leer.“ ([Thread, auf Englisch](https://www.reddit.com/r/Nest/comments/r8aw1t/my_nest_doorbell_battery_is_a_piece_of_crap/)). Andere Besitzer auf r/Nest berichten von verzögerter Live-Ansicht, schwarzen Clips und Signalabbrüchen, und einer sagt, seine Klingel habe nur 2-3 Jahre gehalten.
+Beim Akku sind die Besitzer stark gespalten. Ein Kommentator auf r/Nest sagt: „Der Akku hält lange und sie funktioniert einfach“ (Thread, auf Englisch), während ein anderer berichtet: „Der Akku war nach 6 Tagen leer.“ (Thread, auf Englisch). Andere Besitzer auf r/Nest berichten von verzögerter Live-Ansicht, schwarzen Clips und Signalabbrüchen, und einer sagt, seine Klingel habe nur 2-3 Jahre gehalten.
 
 ### Video, Sichtfeld und Nachtsicht
 
@@ -490,7 +490,7 @@ Wenn du doch Schrauben verwendet hast, plan den Auszug schon vor der Montage, da
 
 ### Wenn dein Vermieter Kamera-Türklingeln verbietet
 
-Eine Kameraklausel im Mietvertrag ist eine wiederkehrende Klage in Threads auf r/Apartmentliving und r/LandlordLove. Eine Antwort in [einem Thread über Vermieter und Kameras (auf Englisch)](https://www.reddit.com/r/LandlordLove/comments/1ef2zou/can_landlord_say_we_cant_have_cameras/) warnt: „Wenn dort irgendetwas von ‚keine Kameras‘ steht, kann dein Vermieter das durchsetzen, soweit das Gesetz es erlaubt“. Eine andere, in [einem Thread zur Türklingel in der Wohnung (auf Englisch)](https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/), sagt: „Stell sicher, dass es legal ist und nicht in deinem Mietvertrag ausgeschlossen.“
+Eine Kameraklausel im Mietvertrag ist eine wiederkehrende Klage in Threads auf r/Apartmentliving und r/LandlordLove. Eine Antwort in einem Thread über Vermieter und Kameras (auf Englisch) warnt: „Wenn dort irgendetwas von ‚keine Kameras‘ steht, kann dein Vermieter das durchsetzen, soweit das Gesetz es erlaubt“. Eine andere, in einem Thread zur Türklingel in der Wohnung (auf Englisch), sagt: „Stell sicher, dass es legal ist und nicht in deinem Mietvertrag ausgeschlossen.“
 
 Wir können dir nicht sagen, ob eine Klausel wirksam ist. Lies den Mietvertrag, prüf die Regeln, die bei dir vor Ort gelten, und frag schriftlich. Hier ist eine kurze Nachricht, die du mit deinen eigenen Angaben anpassen kannst:
 
@@ -500,13 +500,13 @@ Wenn die Antwort Nein lautet, erledigt eine Innenkamera, die auf die Innenseite 
 
 ### Wenn die Klingel deine Nachbarn filmt
 
-In einem gemeinsamen Hausflur kann eine Türklingel die gegenüberliegende Tür erfassen. Ein Nutzer in [einem Thread über verbotene Ring-Türklingeln (auf Englisch)](https://www.reddit.com/r/Apartmentliving/comments/1ebelua/ring_doorbells_not_allowed/) brachte den Einwand einfach auf den Punkt: „Du filmst wahrscheinlich die Türen anderer Bewohner“. Das Thema taucht auf r/Apartmentliving und r/Ring immer wieder auf.
+In einem gemeinsamen Hausflur kann eine Türklingel die gegenüberliegende Tür erfassen. Ein Nutzer in einem Thread über verbotene Ring-Türklingeln (auf Englisch) brachte den Einwand einfach auf den Punkt: „Du filmst wahrscheinlich die Türen anderer Bewohner“. Das Thema taucht auf r/Apartmentliving und r/Ring immer wieder auf.
 
 Die Lösung ist zuerst der Winkel. Nutz den Keil aus der Nest-Packung, um das Bild auf deine eigene Fußmatte zu drehen, und zeichne bei Ring Bewegungszonen oder bei Nest Aktivitätszonen nur um deinen Türbereich. Sag deinen Nachbarn Bescheid, bevor du sie montierst. Wenn die Aufteilung des Gemeinschaftsbereichs das unmöglich macht, verzichte auf die Klingel.
 
 ### Falsche Bewegungsalarme reduzieren
 
-Ständige Alarme durch Vorbeigehende sind eine häufige Klage in Ring-Nutzergruppen. Ein Mitglied in [einer Ring-Nutzergruppe (auf Englisch)](https://www.facebook.com/groups/ringdoorbellusersgroup/posts/1090145698003833/) schrieb: „In den letzten zwei Wochen bekomme ich falsche Bewegungsalarme.“
+Ständige Alarme durch Vorbeigehende sind eine häufige Klage in Ring-Nutzergruppen. Ein Mitglied in einer Ring-Nutzergruppe (auf Englisch) schrieb: „In den letzten zwei Wochen bekomme ich falsche Bewegungsalarme.“
 
 1. Zieh die Aktivitäts- bzw. Bewegungszonen eng um deinen Türbereich, nicht um den Flur.
 2. Senk Bewegungsempfindlichkeit und Bewegungshäufigkeit in der App.
@@ -515,13 +515,13 @@ Ständige Alarme durch Vorbeigehende sind eine häufige Klage in Ring-Nutzergrup
 
 ### Akkuverbrauch bei Kälte
 
-Die Akkus von Ring und Nest verhalten sich in der Kälte unterschiedlich, auch wenn Kälte jede Akku-Türklingel leert, wovor der Sicherheitsinstallateur CPI in [seinem Winterratgeber (auf Englisch)](https://cpisecurity.com/blog/how-cold-weather-affects-your-cpi-security-devices/) warnt: „Kaltes Wetter kann Batterien leeren, Linsen beschlagen lassen und Fehlalarme auslösen.“ Ring gibt seine Klingel bis -20 °C (-4 °F) an, und der Schnellwechsel-Akku lädt drinnen. Google gibt die Nest bis -20 °C an, sagt aber, dass sie nur über 0 °C (32 °F) lädt; in einem frostigen Eingang kann sie sich also nicht aufladen.
+Die Akkus von Ring und Nest verhalten sich in der Kälte unterschiedlich, auch wenn Kälte jede Akku-Türklingel leert, wovor der Sicherheitsinstallateur CPI in seinem Winterratgeber (auf Englisch) warnt: „Kaltes Wetter kann Batterien leeren, Linsen beschlagen lassen und Fehlalarme auslösen.“ Ring gibt seine Klingel bis -20 °C (-4 °F) an, und der Schnellwechsel-Akku lädt drinnen. Google gibt die Nest bis -20 °C an, sagt aber, dass sie nur über 0 °C (32 °F) lädt; in einem frostigen Eingang kann sie sich also nicht aufladen.
 
 [Googles Hinweise zum Akku (auf Englisch)](https://support.google.com/googlehome/answer/10901611?hl=en) nennen eine typische Laufzeit von etwa 2,5 Monaten bei 13-16 Ereignissen pro Tag und etwa 6 Monaten bei 2-5 Ereignissen pro Tag. Belebte Hausflure bedeuten mehr Ereignisse. Behalte den Akkustand in der App im Blick, reagier auf die Warnung bei niedrigem Akku vor einer Kältewelle, und verkabel eines der beiden Modelle, wenn das Gebäude schon Klingelkabel hat und zustimmt.
 
 ### Diebstahlschutz und Montage ohne Bohren
 
-In vielen Gebäuden ist Nicht-Bohren eine feste Regel. Ein Nutzer auf [r/Ring (auf Englisch)](https://www.reddit.com/r/Ring/comments/184g6hd/what_are_your_thoughts_on_putting_up_a_ring/) merkte an: „Kein Bohren nötig, was in meiner Wohnung wichtig ist, weil dort nicht nach außen gebohrt werden darf.“ Rings No-Drill Mount ist hier die sauberere Lösung. Keine der Herstellerseiten, die wir gelesen haben, nennt eine manipulations- oder diebstahlsichere Halterung; in einem belebten Eingangsbereich würden wir die Klingel deshalb in einem abgeschlossenen Vorraum montieren, wenn das Gebäude es erlaubt.
+In vielen Gebäuden ist Nicht-Bohren eine feste Regel. Ein Nutzer auf r/Ring (auf Englisch) merkte an: „Kein Bohren nötig, was in meiner Wohnung wichtig ist, weil dort nicht nach außen gebohrt werden darf.“ Rings No-Drill Mount ist hier die sauberere Lösung. Keine der Herstellerseiten, die wir gelesen haben, nennt eine manipulations- oder diebstahlsichere Halterung; in einem belebten Eingangsbereich würden wir die Klingel deshalb in einem abgeschlossenen Vorraum montieren, wenn das Gebäude es erlaubt.
 
 > **Aus unseren Notizen:** Als wir die Datenblätter von Ring und Google für diesen Vergleich nebeneinandergelegt haben, haben wir erwartet, dass die Videowerte den Ausschlag geben. Taten sie nicht. Die Zeile, die unsere Sicht verändert hat, stand in Googles Daten: Der Nest-Akku lädt nur über 0 °C. Ring nennt einen Betrieb bis -20 °C (-4 °F), und sein Akku lässt sich herausnehmen und drinnen laden. Dann haben wir die Besitzer-Threads gelesen. Ein Ring-Besitzer aus Minnesota berichtete von 3-4 Wochen pro Ladung im Winter, während die Beiträge auf r/Nest von langlebigen Akkus bis zu sechs Tagen reichten. Für einen kalten Hauseingang hat uns das zu Ring gebracht. In einem milden Klima haben Nests kostenlose Alarme gewonnen.
 

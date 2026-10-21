@@ -8,8 +8,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Re-opened Govee Matter FAQ (M1 2m/5m Matter strip, Wi-Fi not Thread, IPv6 required, 15 min first-time window, 2.4GHz, only on/off/brightness/color temp/color, Govee app Wi-Fi switch disables Matter, 11-digit multi-admin code, hub required), Govee community beginner guide (IPv6 needed, QR on white sticker on power cord, Setup Wi-Fi warning, HIWATT/sendo427 comments), AddToHomeKit Govee guide (Matter device list, Tap-to-Run Siri Shortcuts for non-Matter, features staying in Govee app, Wi-Fi only), Govee M1 listing (H61E0/H61E1, 60 LEDs/m, splice 6.56ft to 16.4ft and 16.4ft to 32.8ft), Govee cutting guide (M1 H61E0/1 cannot be cut shorter than 3 m). Owners block from Reddit excerpts (r/Govee, r/HomeKit via firecrawl_search) and a Govee Facebook group post; Verge review paywalled so not used as owner source. Softened hub FAQ to match Govee FAQ.",
-    "at": "2026-10-20T13:06:24.787Z",
-    "hash": "37eab73d1168e06d"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:51:27.732Z",
+    "hash": "3adcf45301b9a535"
   }
 }

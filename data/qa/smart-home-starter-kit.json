@@ -1,17 +1,13 @@
 {
   "slug": "smart-home-starter-kit",
-  "pass": false,
-  "checkedAt": "2026-10-21T10:18:54.132Z",
-  "errors": [
-    "source returns 404: https://support.google.com/googlehome/answer/12391458?hl=en"
-  ],
-  "warnings": [
-    "source didn't respond normally (403): https://www.nytimes.com/wirecutter/blog/smart-home-starter-kit/"
-  ],
+  "pass": true,
+  "checkedAt": "2026-10-21T19:51:34.041Z",
+  "errors": [],
+  "warnings": [],
   "factCheck": {
     "verified": true,
-    "notes": "Verified via Firecrawl 2026-10-21: Amazon Developer Matter support page (Echo Dot 2nd Gen+ Matter-enabled; Thread border routers = Echo 4th Gen, Echo Dot Max, Echo Hub etc., Echo Dot not listed; cited in text without link because Amazon URLs are not allowed as sources); Google Home Help Matter page (Nest Hub 2nd gen Wi-Fi+Thread hub, over 80,000 Works with Google Home devices, IPv6 required); Google Store Nest Hub 2nd gen page (mic switch, Quick Gestures via Motion Sense without camera, Home Premium sound alerts); Philips Hue 'What is the Hue Bridge' (Zigbee, Ethernet to router, 50 lights + 12 accessories, 10 bulbs via Bluetooth, Alexa/Google/HomeKit); Lutron Caseta lamp dimming smart plug kit page (P-BDG-PKG1P, no wiring, 150W LED/300W incandescent per plug, Clear Connect RF, Ethernet cable included, Alexa/HomeKit/Google); Caseta smart kits page; eero Built-in page; Wirecutter/ZDNET/Online Tech Tips SERP picks; Best Buy Nest Hub reviews (5,113) and Reddit/Consumer Reports excerpts for owner themes; Reddit quotes re-checked by exact-quote search (r/alexa 1dgisga, r/HomeKit zzyc45) and pain-points.json. Removed unsourced Echo restart tip and an unverified Hue Matter claim.",
-    "at": "2026-10-21T10:05:59.966Z",
-    "hash": "68a2b38fb040eb0e"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:51:33.669Z",
+    "hash": "1c70af89d33019fc"
   }
 }

@@ -467,7 +467,7 @@ The [Apple HomePod mini 2](amzn:Apple+HomePod+mini) is the piece the rest depend
 
 ### Philips Hue White and Color Ambiance Starter Kit: the lights
 
-Every HomeKit list we read names Philips Hue, and the [Philips Hue White and Color Ambiance Starter Kit](amzn:Philips+Hue+White+and+Color+Ambiance+Starter+Kit+Bridge+A19) is the easy entry. Philips Hue says the Philips Hue Bridge is what lets HomeKit talk to the lights, so Siri and the Apple Home app can dim them, and it can also connect over Matter. For a renter, the bulbs screw into the fixtures you already have, and the originals go back in on move-out day. The catch arrived in February 2026: [Hueblog](https://hueblog.com/2026/02/16/philips-hue-and-apple-home-complaints-are-piling-up/) collected reports of Hue lights going unreachable in Apple Home after iOS 26.3 while the Hue app still worked. Hue support told commenters to remove the bridge from Apple Home and re-add it, and later shipped Bridge Pro firmware, though owners still had to re-add every light.
+Every HomeKit list we read names Philips Hue, and the [Philips Hue White and Color Ambiance Starter Kit](amzn:Philips+Hue+White+and+Color+Ambiance+Starter+Kit+Bridge+A19) is the easy entry. Philips Hue says the Philips Hue Bridge is what lets HomeKit talk to the lights, so Siri and the Apple Home app can dim them, and it can also connect over Matter. For a renter, the bulbs screw into the fixtures you already have, and the originals go back in on move-out day. The catch arrived in February 2026: Hueblog collected reports of Hue lights going unreachable in Apple Home after iOS 26.3 while the Hue app still worked. Hue support told commenters to remove the bridge from Apple Home and re-add it, and later shipped Bridge Pro firmware, though owners still had to re-add every light.
 
 ### Eve Energy (Matter): the plug
 
@@ -496,7 +496,7 @@ This table compares what each pick needs and how it installs in a rental:
 
 **Apple tells shoppers to look for the Works with Apple Home badge; a Matter logo usually means Apple Home can add it too, but features and hub needs vary.** Matter is the cross-brand standard that lets one device join Apple Home, Alexa and Google Home. Thread is the low-power mesh many Matter devices use, and it needs a border router (see [Zigbee vs Thread](/blog/zigbee-vs-thread/)).
 
-Whether a Matter device works in Apple Home is a recurring question on r/HomeKit; one reply sums it up: ["The challenge is that Matter is evolving quickly."](https://www.reddit.com/r/HomeKit/comments/1l0soq3/does_matter_automatically_mean_a_device_will_work/) Our label check before buying:
+Whether a Matter device works in Apple Home is a recurring question on r/HomeKit; one reply sums it up: "The challenge is that Matter is evolving quickly." Our label check before buying:
 
 1. **Works with Apple Home badge or Apple's accessories list:** adds straight to the Apple Home app by scanning its QR code. Apple's page also flags cameras that support HomeKit Secure Video and its new Apple Home Collection accessories.
 2. **Matter logo only:** adds through Matter; check the maker's page for which features reach Apple Home.
@@ -510,13 +510,13 @@ Eve notes that Apple Home treats HomeKit and Matter devices the same in an autom
 
 **Most HomeKit device failures come down to the hub, the Thread network or a pairing that has to be redone.**
 
-- **Thread devices going offline.** A recurring r/HomeKit complaint: ["Pretty much randomly every other day or so- all my thread devices just go completely offline."](https://www.reddit.com/r/HomeKit/comments/1j8pf7q/thread_devices_keep_going_out/) Restart all hubs at once (the fix Eve support gave one owner), and add a plug-in Thread device like Eve Energy between the hub and far sensors.
-- **Matter devices that won't pair.** The same complaint shows up for Alexa: ["Alexa suddenly won't add any Matter smart home products to its ecosystem."](https://www.reddit.com/r/alexa/comments/1dgisga/cant_add_any_matter_smart_home_products_to_alexa/) In Apple Home, set up a home hub first, as Apple recommends, then reset the device and scan its code again.
+- **Thread devices going offline.** A recurring r/HomeKit complaint: "Pretty much randomly every other day or so- all my thread devices just go completely offline." Restart all hubs at once (the fix Eve support gave one owner), and add a plug-in Thread device like Eve Energy between the hub and far sensors.
+- **Matter devices that won't pair.** The same complaint shows up for Alexa: "Alexa suddenly won't add any Matter smart home products to its ecosystem." In Apple Home, set up a home hub first, as Apple recommends, then reset the device and scan its code again.
 - **Hue lights unreachable in Apple Home.** Update the bridge firmware in the Hue app, then remove the bridge in Home settings and add it back from the Hue app.
 
 ## HomeKit devices in a rental – hub, Apple ID and move-out
 
-**Set the Home up under your own Apple ID, keep every HomeKit device plug-in or freestanding, and reset everything when you leave.** Renters in r/HomeKit raise this early: ["One of the first decisions is regarding HomeKit hub and the Apple ID."](https://www.reddit.com/r/HomeKit/comments/n51voa/homekit_in_a_rental_property/) The hub and Home belong to whoever created them, so invite roommates instead of sharing a login, and put the Home on the person staying longest.
+**Set the Home up under your own Apple ID, keep every HomeKit device plug-in or freestanding, and reset everything when you leave.** Renters in r/HomeKit raise this early: "One of the first decisions is regarding HomeKit hub and the Apple ID." The hub and Home belong to whoever created them, so invite roommates instead of sharing a login, and put the Home on the person staying longest.
 
 On move-out day:
 

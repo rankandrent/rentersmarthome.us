@@ -138,10 +138,10 @@ related:
 
 **En un piso español casi siempre tienes un bombín de cilindro europeo, a menudo en una puerta blindada, así que necesitas la versión europea de una cerradura inteligente y no la estadounidense.** Dos ejemplos de fabricantes que lo indican:
 
-- **SwitchBot Lock Pro (versión europea).** La [tienda europea de SwitchBot](https://eu.switch-bot.com/products/switchbot-lock-pro) la presenta como ideal para hogares europeos, la vende con adaptadores para cilindro europeo y enlaza una comprobación de compatibilidad que pide tener una regla a mano antes de empezar. El Hub 2 opcional, que se vende aparte, tiene variante con enchufe europeo. Fíjate en que sea esta versión y no la de Estados Unidos.
-- **Yale Linus Smart Lock L2.** [Yale indica](https://www.yalehome.com/it/en/products/smart-security-ecosystem/smart-locks/linus-smart-lock-l2) que encaja en cilindros de perfil europeo que sobresalgan al menos 3 mm (0,12 in) y en cilindros redondos de 22 mm (0,87 in). Si tu cilindro no encaja, Yale vende un cilindro ajustable Linus, pero eso ya es cambiar el bombín (lee la sección sobre el casero).
+- **SwitchBot Lock Pro (versión europea).** La tienda europea de SwitchBot la presenta como ideal para hogares europeos, la vende con adaptadores para cilindro europeo y enlaza una comprobación de compatibilidad que pide tener una regla a mano antes de empezar. El Hub 2 opcional, que se vende aparte, tiene variante con enchufe europeo. Fíjate en que sea esta versión y no la de Estados Unidos.
+- **Yale Linus Smart Lock L2.** Yale indica que encaja en cilindros de perfil europeo que sobresalgan al menos 3 mm (0,12 in) y en cilindros redondos de 22 mm (0,87 in). Si tu cilindro no encaja, Yale vende un cilindro ajustable Linus, pero eso ya es cambiar el bombín (lee la sección sobre el casero).
 
-**Puertas blindadas:** [La Casa Sibarita](https://lacasasibarita.es/seguridad/cerradura-inteligente/) explica que la mayoría de las cerraduras inteligentes europeas encajan en un cilindro de perfil europeo estándar, pero que una blindada con cilindro especial o cierre multipunto puede necesitar que un cerrajero cambie el cilindro, o directamente no ser compatible.
+**Puertas blindadas:** La Casa Sibarita explica que la mayoría de las cerraduras inteligentes europeas encajan en un cilindro de perfil europeo estándar, pero que una blindada con cilindro especial o cierre multipunto puede necesitar que un cerrajero cambie el cilindro, o directamente no ser compatible.
 
 Los modelos que sustituyen la cerradura entera cambian la llave del casero y suponen más obra, así que solo tienen sentido con su permiso por escrito.
 
@@ -158,13 +158,13 @@ Los modelos que sustituyen la cerradura entera cambian la llave del casero y sup
 
 ## ¿Hay que cambiar el bombín al entrar en un piso de alquiler?
 
-**Es una costumbre muy extendida, pero es un paso distinto de poner una cerradura inteligente.** En los foros se repite: "[Lo primero que se hace al entrar de inquilino es cambiar el bombín.](https://forocoches.com/foro/showthread.php?t=10115851)" Y otro usuario opina: "[cambiar el bombín de la cerradura como te ha dicho vectra es lo que hay que hacer en todo alquiler, no es ninguna obra](https://forocoches.com/foro/showthread.php?t=7672971)".
+**Es una costumbre muy extendida, pero es un paso distinto de poner una cerradura inteligente.** En los foros se repite: "Lo primero que se hace al entrar de inquilino es cambiar el bombín." Y otro usuario opina: "cambiar el bombín de la cerradura como te ha dicho vectra es lo que hay que hacer en todo alquiler, no es ninguna obra".
 
-Lo que preocupa de fondo es quién más tiene llave: "[Así no entrará ni tu casero ni nadie que haya alquilado antes la casa.](https://forocoches.com/foro/showthread.php?t=10115851)" Seamos claros: **una cerradura inteligente que se coloca sobre el bombín no resuelve esto**, porque cualquier llave que ya existiera sigue abriendo. Si eso te preocupa, cambiar el bombín es lo que suelen hacer los inquilinos en [otros hilos](https://forocoches.com/foro/showthread.php?t=9431284). En ese caso guarda el bombín original con sus llaves para volver a montarlo al final del contrato.
+Lo que preocupa de fondo es quién más tiene llave: "Así no entrará ni tu casero ni nadie que haya alquilado antes la casa." Seamos claros: **una cerradura inteligente que se coloca sobre el bombín no resuelve esto**, porque cualquier llave que ya existiera sigue abriendo. Si eso te preocupa, cambiar el bombín es lo que suelen hacer los inquilinos en otros hilos. En ese caso guarda el bombín original con sus llaves para volver a montarlo al final del contrato.
 
 ## Cómo hablar con tu casero sobre una cerradura inteligente
 
-**Como información general, no como asesoramiento jurídico: el [artículo 23 de la Ley de Arrendamientos Urbanos](https://www.boe.es/buscar/act.php?id=BOE-A-1994-26003&p=20250101&tn=1#a23) dice que el inquilino no puede hacer obras que modifiquen la configuración de la vivienda sin el consentimiento por escrito del arrendador, y que, si no lo autorizó, puede exigir que se reponga al estado anterior al terminar el contrato.** Si cambiar un bombín cuenta como obra es algo que se discute (en [un hilo de Forocoches](https://forocoches.com/foro/showthread.php?t=7672971) hay quien dice que sí y quien dice que no); lo prudente es pedir el visto bueno por escrito o elegir un modelo que deje el cilindro en su sitio. Nosotros recomendamos una petición breve y concreta:
+**Como información general, no como asesoramiento jurídico: el artículo 23 de la Ley de Arrendamientos Urbanos dice que el inquilino no puede hacer obras que modifiquen la configuración de la vivienda sin el consentimiento por escrito del arrendador, y que, si no lo autorizó, puede exigir que se reponga al estado anterior al terminar el contrato.** Si cambiar un bombín cuenta como obra es algo que se discute (en un hilo de Forocoches hay quien dice que sí y quien dice que no); lo prudente es pedir el visto bueno por escrito o elegir un modelo que deje el cilindro en su sitio. Nosotros recomendamos una petición breve y concreta:
 
 > "Me gustaría instalar una cerradura inteligente en la cara interior de la puerta de entrada. Se coloca sobre el bombín actual sin cambiarlo, así que su llave seguirá funcionando. Cuando me mude, la retiraré y la puerta quedará como está."
 
@@ -179,11 +179,11 @@ Una cerradura que se coloca sobre el bombín se instala con un destornillador y 
 3. Coloca el cuerpo de la cerradura, pon las pilas y calíbrala en la app.
 4. Compruébala con la puerta abierta, luego cerrada y, por último, con tu llave desde fuera.
 
-Al mudarte, el proceso es el mismo al revés: comprueba que la llave del casero cierra y haz una foto de la puerta. La [OCU](https://www.ocu.org/vivienda-y-energia/comprar-vender-alquilar/consejos/fin-alquiler-entrega-llaves) aconseja quedar en el piso, revisar juntos su estado y firmar un documento de entrega de llaves en lugar de dejarlas en el buzón; nosotros añadiríamos ahí cómo queda la cerradura y, si cambiaste el bombín, que devuelves el original. Para automatizar el resto de la casa, nuestra guía de [domótica para pisos de alquiler](/es/blog/domotica-para-pisos-de-alquiler/) te lleva habitación por habitación.
+Al mudarte, el proceso es el mismo al revés: comprueba que la llave del casero cierra y haz una foto de la puerta. La OCU aconseja quedar en el piso, revisar juntos su estado y firmar un documento de entrega de llaves en lugar de dejarlas en el buzón; nosotros añadiríamos ahí cómo queda la cerradura y, si cambiaste el bombín, que devuelves el original. Para automatizar el resto de la casa, nuestra guía de [domótica para pisos de alquiler](/es/blog/domotica-para-pisos-de-alquiler/) te lleva habitación por habitación.
 
 ## Si te quedas fuera, cuidado con el cerrajero
 
-**Pide siempre un presupuesto previo, aunque sea aproximado.** Según los consejos de la OCU que recoge [El Correo](https://www.elcorreo.com/vivir/habitos/ojo-reparaciones-urgentes-cerrajero-cobro-1681-euros-20260820131818-ntrc.html), exige al menos el precio del desplazamiento y de la mano de obra y pregunta por extras como festivo o nocturnidad; conviene comparar varios presupuestos y, si la factura te parece abusiva, no firmarla pero guardarla para reclamar. Tenemos más pasos en [me he quedado fuera de casa](/es/blog/me-he-quedado-fuera-de-casa/).
+**Pide siempre un presupuesto previo, aunque sea aproximado.** Según los consejos de la OCU que recoge El Correo, exige al menos el precio del desplazamiento y de la mano de obra y pregunta por extras como festivo o nocturnidad; conviene comparar varios presupuestos y, si la factura te parece abusiva, no firmarla pero guardarla para reclamar. Tenemos más pasos en [me he quedado fuera de casa](/es/blog/me-he-quedado-fuera-de-casa/).
 
 ## Consejos de seguridad y privacidad
 
@@ -194,4 +194,4 @@ Al mudarte, el proceso es el mismo al revés: comprueba que la llave del casero 
 - Activa el cierre automático con un retardo corto y usa el sensor de puerta para que nunca "cierre" una puerta abierta.
 - Revisa el registro de actividad después de fiestas, mudanzas o visitas de operarios.
 - Mantén el firmware actualizado desde la app del fabricante.
-- Ten en cuenta si el acceso remoto o [Matter](https://csa-iot.org/all-solutions/matter/) necesitan un hub aparte; en la SwitchBot Lock Pro, sí.
+- Ten en cuenta si el acceso remoto o Matter necesitan un hub aparte; en la SwitchBot Lock Pro, sí.

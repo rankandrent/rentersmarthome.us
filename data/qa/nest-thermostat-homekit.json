@@ -1,23 +1,17 @@
 {
   "slug": "nest-thermostat-homekit",
-  "pass": false,
-  "checkedAt": "2026-10-21T10:18:30.024Z",
-  "errors": [
-    "source returns 404: https://support.google.com/googlehome/answer/13127223?hl=en",
-    "source returns 404: https://support.google.com/googlehome/answer/16233096?hl=en",
-    "source returns 404: https://support.google.com/googlehome/thread/429613486/support-changes-to-our-earliest-generation-nest-learning-thermostats?hl=en"
-  ],
+  "pass": true,
+  "checkedAt": "2026-10-21T19:51:31.901Z",
+  "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://appleinsider.com/articles/24/08/27/nest-learning-thermostat-4th-gen-review-finally-works-for-apple-home-users",
-    "source didn't respond normally (403): https://forums.macrumors.com/threads/nest-thermostat-gaining-apple-homekit-support-starting-today-via-matter.2387119/"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified Matter support only on Nest Thermostat (2020) and Nest Learning Thermostat (4th gen) against ATHBridge, AddToHomeKit, AppleInsider and MacRumors (April 2023 rollout); 4th gen pairing via Settings > Matter on thermostat (AppleInsider, One Hour Smart Home video); 2020 model via Google Home Linked Matter apps & services and multi-admin quote against Google help 13127223; home hub quote against Apple Support 102557; 1st/2nd gen end of support Oct 25 2025 against Google help 16233096 and Google community post; Nest Temperature Sensor not in Apple Home and G-Suite/Android setup issue against AppleInsider; feature split, 2.4 GHz and expiring codes against ATHBridge; Homebridge google-nest-sdm + Device Access and Home Assistant HomeKit Bridge against ATHBridge/AddToHomeKit; ENERGY STAR approximately 8% quote against energystar.gov FAQ; Census 65.0 percent homeownership against census.gov HVS; Reddit/MacRumors quotes verbatim in Firecrawl search excerpts and scraped MacRumors thread. Removed dollar figure. No products, prices or testing claims.",
-    "at": "2026-10-21T10:10:42.805Z",
-    "hash": "fc1ff67ceac49de0"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:51:31.495Z",
+    "hash": "84ff99298c7ca37d"
   }
 }

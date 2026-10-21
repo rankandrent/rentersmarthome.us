@@ -349,7 +349,7 @@ Una copia de la llave en manos de alguien que vive cerca es la mejor solución q
 
 ## Cuándo llamar a un cerrajero (y cómo no pagar de más)
 
-**Llama a un cerrajero solo cuando la vía del casero y del seguro haya fallado, y pide un presupuesto completo antes de que nadie se ponga en camino.** Los precios no están regulados por ningún organismo, explica la OCU, y las quejas suelen ir contra empresas anunciadas en internet con servicio 24 horas que en realidad son una centralita de otra ciudad. Es lo que contaba un cliente en una reclamación pública en la OCU: ["llamé por teléfono a su cerrajería para solicitar que un cerrajero viniera a mi casa a abrirme"](https://www.ocu.org/reclamar/lista-reclamaciones-publicas/precio-servicio-abusivo/87da0af40b70e5cdc6), y la factura acabó como precio de servicio abusivo.
+**Llama a un cerrajero solo cuando la vía del casero y del seguro haya fallado, y pide un presupuesto completo antes de que nadie se ponga en camino.** Los precios no están regulados por ningún organismo, explica la OCU, y las quejas suelen ir contra empresas anunciadas en internet con servicio 24 horas que en realidad son una centralita de otra ciudad. Es lo que contaba un cliente en una reclamación pública en la OCU: "llamé por teléfono a su cerrajería para solicitar que un cerrajero viniera a mi casa a abrirme", y la factura acabó como precio de servicio abusivo.
 
 ### Preguntas antes de que se ponga en camino
 
@@ -365,7 +365,7 @@ Desconfía de quien se anuncia por buzoneo o aparece el primero en internet. Un 
 
 ### Domingo o madrugada: los suplementos
 
-Los recargos sorprenden incluso en el trabajo más simple. Otro cliente se quejó en la OCU de un cargo de desplazamiento de urgencia que no había pedido, después de que ["se me realizó un servicio de apertura de puerta sin vuelta de llave"](https://www.ocu.org/reclamar/empresas/poty-cerrajero/EBBD52D9-37DB55905), es decir, una puerta solo cerrada de golpe. Pregunta por los suplementos de festivo y nocturnidad antes de aceptar, y si es domingo y estás a salvo (por ejemplo, en casa de un familiar o un amigo), la OCU sugiere valorar aplazarlo a un día laborable.
+Los recargos sorprenden incluso en el trabajo más simple. Otro cliente se quejó en la OCU de un cargo de desplazamiento de urgencia que no había pedido, después de que "se me realizó un servicio de apertura de puerta sin vuelta de llave", es decir, una puerta solo cerrada de golpe. Pregunta por los suplementos de festivo y nocturnidad antes de aceptar, y si es domingo y estás a salvo (por ejemplo, en casa de un familiar o un amigo), la OCU sugiere valorar aplazarlo a un día laborable.
 
 ### Si el precio final es abusivo
 
@@ -385,7 +385,7 @@ Si el cerrajero tiene que taladrar, el bombín del casero queda inservible y tu 
 
 ### Pilas agotadas y los bornes de emergencia de 9 V
 
-Un trabajador de mantenimiento de r/ApartmentMaintenance lo dijo sin rodeos: ["Cuando se agotan las pilas, el inquilino se queda fuera hasta que llega un técnico de mantenimiento."](https://www.reddit.com/r/ApartmentMaintenance/comments/1p38soy/these_door_locks_requires_batteries_when_the/) Cambia las pilas al primer aviso de batería baja, no al último. Muchas cerraduras con teclado tienen dos bornes para pila de 9 V bajo el teclado que le dan corriente desde fuera el tiempo justo para introducir un código; mira el manual. Las cerraduras que se montan por dentro evitan el problema de otra forma: la llave física sigue funcionando.
+Un trabajador de mantenimiento de r/ApartmentMaintenance lo dijo sin rodeos: "Cuando se agotan las pilas, el inquilino se queda fuera hasta que llega un técnico de mantenimiento." Cambia las pilas al primer aviso de batería baja, no al último. Muchas cerraduras con teclado tienen dos bornes para pila de 9 V bajo el teclado que le dan corriente desde fuera el tiempo justo para introducir un código; mira el manual. Las cerraduras que se montan por dentro evitan el problema de otra forma: la llave física sigue funcionando.
 
 ### La app, el Bluetooth o el wifi no responden
 
@@ -393,7 +393,7 @@ La apertura a distancia solo funciona mientras la cerradura, el router y la app 
 
 ### ¿Quién paga el cerrajero si falla la cerradura del casero?
 
-Al inquilino de r/legaladvice que se quedó fuera a las 2 de la madrugada por una cerradura inteligente del edificio ["ahora le cobran el cerrajero + la cerradura taladrada."](https://www.reddit.com/r/legaladvice/comments/1pa2zkl/locked_out_at_2_am_due_to_failed_smart_lock/) No podemos decirte quién es responsable, porque depende de tu contrato. Lo que ayuda en cualquier caso: llama a tu casero antes que al cerrajero, guarda el registro de llamadas y la factura, y pregunta por escrito cómo se va a gestionar el fallo. Una asociación de consumidores puede orientarte.
+Al inquilino de r/legaladvice que se quedó fuera a las 2 de la madrugada por una cerradura inteligente del edificio "ahora le cobran el cerrajero + la cerradura taladrada." No podemos decirte quién es responsable, porque depende de tu contrato. Lo que ayuda en cualquier caso: llama a tu casero antes que al cerrajero, guarda el registro de llamadas y la factura, y pregunta por escrito cómo se va a gestionar el fallo. Una asociación de consumidores puede orientarte.
 
 ### El casero instaló una cerradura inteligente sin llave física
 
@@ -436,11 +436,11 @@ Una caja de llaves guarda una copia cerca de la puerta tras un código. No neces
 
 ### SwitchBot Lock Pro: conserva tu cerradura y añade la huella
 
-La [SwitchBot Lock Pro](amzn:SwitchBot+Lock+Pro) es un motor a pilas que se coloca por dentro sobre tu cerradura y la gira por ti. Compra la versión de la [tienda europea de SwitchBot](https://eu.switch-bot.com/products/switchbot-lock-pro), que la presenta para casas europeas, conserva la cerradura original y trae guías de instalación para cilindro europeo con llave o con pomo por dentro; pasa antes su comprobador de compatibilidad, porque necesita un cilindro compatible. Se monta con soportes, y Techlicious vio que no necesita cambios permanentes en la puerta y que se retiraba sin dejar rastro. Con el Keypad Touch, que se vende aparte, entras con huella, código o tarjeta NFC sin móvil. Para no quedarte fuera, lo más destacado es Low Battery Unlock, que según Techlicious mantiene la cerradura operativa después del aviso. SwitchBot calcula entre 6 y 9 meses con cuatro pilas AA, y NotEnoughTech vio que abrir es casi tan rápido como con una llave. Los inconvenientes son el encaje y los extras: un usuario de Trustpilot pedía una mejor adaptación a distintas puertas, NotEnoughTech vio que el sensor magnético es difícil de colocar en algunas, y para abrir a distancia hace falta un hub de SwitchBot, que se vende aparte.
+La [SwitchBot Lock Pro](amzn:SwitchBot+Lock+Pro) es un motor a pilas que se coloca por dentro sobre tu cerradura y la gira por ti. Compra la versión de la tienda europea de SwitchBot, que la presenta para casas europeas, conserva la cerradura original y trae guías de instalación para cilindro europeo con llave o con pomo por dentro; pasa antes su comprobador de compatibilidad, porque necesita un cilindro compatible. Se monta con soportes, y Techlicious vio que no necesita cambios permanentes en la puerta y que se retiraba sin dejar rastro. Con el Keypad Touch, que se vende aparte, entras con huella, código o tarjeta NFC sin móvil. Para no quedarte fuera, lo más destacado es Low Battery Unlock, que según Techlicious mantiene la cerradura operativa después del aviso. SwitchBot calcula entre 6 y 9 meses con cuatro pilas AA, y NotEnoughTech vio que abrir es casi tan rápido como con una llave. Los inconvenientes son el encaje y los extras: un usuario de Trustpilot pedía una mejor adaptación a distintas puertas, NotEnoughTech vio que el sensor magnético es difícil de colocar en algunas, y para abrir a distancia hace falta un hub de SwitchBot, que se vende aparte.
 
 ### Master Lock Portable Key Lock Box 5400EC: copia de la llave en el pomo
 
-La solución más barata y sin pilas es la [Master Lock Portable Key Lock Box 5400EC](amzn:Master+Lock+Portable+Key+Lock+Box+5400EC). En Europa, Master Lock la vende como [5400EURD Select Access](https://shop.masterlock.eu/products/5400eurd): tamaño mediano, 90 mm, con un código de 4 dígitos que eliges tú. La ficha europea indica un arco recubierto de vinilo de 37 mm y un interior de 7,8 x 6,8 x 3 cm; el anuncio de Amazon de la 5400EC, que es el modelo estadounidense, habla de pomos redondos, planos y de tulipa y de hasta 5 llaves normales, así que mide tu pomo y tus llaves antes de comprarla. Los usuarios de Home Depot destacan lo fácil que es configurar y cambiar el código. Ahora, la advertencia que nos tomamos en serio: un usuario de Home Depot describió cómo un ladrón reventó la fina carcasa de aluminio, y otro la considera solo un elemento disuasorio. Algunos propietarios mencionan un mecanismo atascado o un código que se abría con dígitos equivocados. Además, le dice a cualquiera que pase por el rellano que dentro hay una llave. Guarda en ella solo la copia, cambia el código después de compartirlo y pregunta a tu casero antes de colgarla.
+La solución más barata y sin pilas es la [Master Lock Portable Key Lock Box 5400EC](amzn:Master+Lock+Portable+Key+Lock+Box+5400EC). En Europa, Master Lock la vende como 5400EURD Select Access: tamaño mediano, 90 mm, con un código de 4 dígitos que eliges tú. La ficha europea indica un arco recubierto de vinilo de 37 mm y un interior de 7,8 x 6,8 x 3 cm; el anuncio de Amazon de la 5400EC, que es el modelo estadounidense, habla de pomos redondos, planos y de tulipa y de hasta 5 llaves normales, así que mide tu pomo y tus llaves antes de comprarla. Los usuarios de Home Depot destacan lo fácil que es configurar y cambiar el código. Ahora, la advertencia que nos tomamos en serio: un usuario de Home Depot describió cómo un ladrón reventó la fina carcasa de aluminio, y otro la considera solo un elemento disuasorio. Algunos propietarios mencionan un mecanismo atascado o un código que se abría con dígitos equivocados. Además, le dice a cualquiera que pase por el rellano que dentro hay una llave. Guarda en ella solo la copia, cambia el código después de compartirlo y pregunta a tu casero antes de colgarla.
 
 ### Cerradura por dentro, cerradura con teclado o caja de llaves (tabla comparativa)
 
@@ -450,7 +450,7 @@ La solución más barata y sin pilas es la [Master Lock Portable Key Lock Box 54
 | Cerradura con teclado (sustituye la cerradura) | Sí, cambio completo | Sí, pilas | Llave o bornes de 9 V | Obligatoria |
 | Caja de llaves (guardallaves) | No | No | Copia de la llave dentro | Revisar las normas de la comunidad |
 
-Lo que más preocupa a los inquilinos es el contrato. Un usuario de r/jerseycity advertía: ["Si el casero se entera y lo considera una alteración de la cerradura, podrías enfrentarte a un desahucio."](https://www.reddit.com/r/jerseycity/comments/1ncrxoj/landlord_wont_provide_physical_keys_for_smart/) Una cerradura que se monta por dentro lo evita, como explica una respuesta en r/homeautomation: ["El exterior del cerrojo se queda igual. Así el casero puede seguir usando su misma llave."](https://www.reddit.com/r/homeautomation/comments/1rm2gag/best_renter_friendly_smart_lock/)
+Lo que más preocupa a los inquilinos es el contrato. Un usuario de r/jerseycity advertía: "Si el casero se entera y lo considera una alteración de la cerradura, podrías enfrentarte a un desahucio." Una cerradura que se monta por dentro lo evita, como explica una respuesta en r/homeautomation: "El exterior del cerrojo se queda igual. Así el casero puede seguir usando su misma llave."
 
 ### Cómo pedir permiso a tu casero (correo de ejemplo)
 

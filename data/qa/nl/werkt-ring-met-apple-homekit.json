@@ -3,25 +3,17 @@
   "lang": "nl",
   "translationOf": "does-ring-work-with-apple-homekit",
   "pass": true,
-  "checkedAt": "2026-10-21T10:26:50.560Z",
+  "checkedAt": "2026-10-21T19:51:53.217Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://hoobs.com/ring/",
-    "source didn't respond normally (403): https://hoobs.com/box/",
-    "source didn't respond normally (no response): https://www.autoriteitpersoonsgegevens.nl/themas/cameratoezicht/cameragebruik-in-en-om-het-huis/gefilmd-worden-door-de-camera-van-een-ander-huis",
-    "source didn't respond normally (no response): https://www.autoriteitpersoonsgegevens.nl/themas/cameratoezicht/cameragebruik-in-en-om-het-huis/cameras-bij-het-eigen-huis",
-    "source didn't respond normally (no response): https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2024:9594",
-    "source didn't respond normally (403): https://www.juridischloket.nl/wonen-en-buren/buren/camera/",
-    "source didn't respond normally (403): https://www.reddit.com/r/juridischadvies/comments/1k31ick/deurbel_camera_appartementen_complex/",
-    "source didn't respond normally (403): https://www.reddit.com/r/thenetherlands/comments/ooymt5/camera_in_gemeenschappelijke_ruimte_door_huurder/"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Media backfill mirrored from English does-ring-work-with-apple-homekit, verified via Firecrawl: Ring plans page (https://ring.com/plans, US page, features may vary by country, stated in text) - motion event videos stored up to 180 days; free 30-day Ring Protect trial starts at device setup; no prices in text. Apple Support (https://support.apple.com/guide/iphone/set-up-security-cameras-iph7bc5df9d9/ios): iCloud+ shows last 10 days of activity; 200 GB plan supports up to five cameras. Same 3 illustrations (alt translated), same video mK8Wvv9aALs. Replaced SafeHome.org monthly-fee mention with Ring's own page.",
-    "at": "2026-10-21T06:55:09.972Z",
-    "hash": "417a1d54032ffb31"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:51:52.798Z",
+    "hash": "119776653f453eef"
   }
 }

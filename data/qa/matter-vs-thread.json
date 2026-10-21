@@ -1,20 +1,17 @@
 {
   "slug": "matter-vs-thread",
   "pass": true,
-  "checkedAt": "2026-10-21T10:18:27.739Z",
+  "checkedAt": "2026-10-21T19:52:09.207Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.reddit.com/r/HomeKit/comments/10sott0/please_explain_like_i_am_five_the_difference/",
-    "source didn't respond normally (403): https://www.reddit.com/r/HomeKit/comments/1j8pf7q/thread_devices_keep_going_out/",
-    "source didn't respond normally (403): https://www.reddit.com/r/alexa/comments/1dgisga/cant_add_any_matter_smart_home_products_to_alexa/"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified via Firecrawl on 2026-10-21: Thread Group 2025 blog (Matter supports three underlying network protocols - Thread, Wi-Fi or Ethernet; Thread low power gives Matter-over-Thread better battery life than Wi-Fi counterparts; new Wi-Fi router/SSID/password forces Wi-Fi devices to reconnect while Thread reconnects via border routers). Thread Group smart home page (more than 250 devices per mesh; end devices talk via a parent and do not route; always-powered routers extend coverage; at least one border router required; Built on THREAD logos with Border Router / Requires Border Router badges). Thread 1.4 blog (released Sept 4 2024; added device/border router joins existing network; Thread is an agnostic network layer for DALI+, KNX IoT and Matter). CSA Matter FAQ (Wi-Fi/Thread/Ethernet plus BLE setup; certification of underlying transports required; bridges for Zigbee/Z-Wave; multi-admin core feature; QR setup codes). Google Home Developers fabric primer (fabric = security domain; Thread/Wi-Fi credentials shared across fabrics). Google Store page (border routers in Nest Wifi Pro, 2nd-gen Nest Hub, Nest Hub Max, Google TV Streamer 4K; setup needs Matter-enabled hub, working Wi-Fi, BLE 4.2+). Homey FAQ (Thread device needs Matter certification; not all Matter devices use Thread). Data Wire Solutions (HomePod mini, HomePod 2nd gen, Thread-capable Apple TV 4K, Echo Hub, Echo 4th gen as border routers; Thread devices will not commission without one; several vendor pages still list border routers as Thread 1.3). Reddit quotes verified verbatim via firecrawl_search excerpts at the linked threads (r/HomeKit 10sott0, xkvw7b, 1j8pf7q incl. 'changing the home hub fixes it'; r/alexa 1dgisga). Videos hqDkuOZGSdI (Speak to the Geek, Thread vs Matter Explained, Mar 2026) and ltf25fzyS0o (Eric Welander, Matter over Thread vs Wi-Fi) checked on YouTube. No products, prices, ratings or testing claims.",
-    "at": "2026-10-21T10:03:44.078Z",
-    "hash": "16307bb5b710cb31"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); wording changed to 'we recommend Thread for locks and sensors'; no claim, number or source changed.",
+    "at": "2026-10-21T19:53:01.493Z",
+    "hash": "db81d94ab654cef0"
   }
 }

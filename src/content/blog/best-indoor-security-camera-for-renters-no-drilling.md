@@ -411,7 +411,7 @@ Choose the Ring if you want privacy you can see. Pick the Nest for picture quali
 
 ## Privacy when you're home, roommates and audio
 
-**An indoor security camera for renters earns trust with a physical cover or shutter that blocks the lens while people are home.** One owner in a r/Ring thread put it plainly: "[I don't trust Ring to record what's happening indoors when anyone is home](https://www.reddit.com/r/Ring/comments/1enerej/yall_recommend_cams_inside_your_home/)", so that owner's smart outlets cut power to the indoor cameras. The Ring cover and SimpliSafe shutter do that job without extra hardware. Cloud privacy worries go beyond one brand, as a r/privacytoolsIO thread on [privacy-friendly cameras](https://www.reddit.com/r/privacytoolsIO/comments/p4wfh0/privacy_friendly_security_cameras/) shows, so use a strong password and two-factor login on whichever app you choose.
+**An indoor security camera for renters earns trust with a physical cover or shutter that blocks the lens while people are home.** One owner in a r/Ring thread put it plainly: "[I don't trust Ring to record what's happening indoors when anyone is home](https://www.reddit.com/r/Ring/comments/1enerej/yall_recommend_cams_inside_your_home/)", so that owner's smart outlets cut power to the indoor cameras. The Ring cover and SimpliSafe shutter do that job without extra hardware. Cloud privacy worries go beyond one brand, as a r/privacytoolsIO thread on privacy-friendly cameras shows, so use a strong password and two-factor login on whichever app you choose.
 
 With roommates, agree in writing where the camera points and when it's on, and keep it out of bedrooms and bathrooms. Audio recording rules vary by state, so check your local law before leaving the microphone on.
 
@@ -420,12 +420,12 @@ With roommates, agree in writing where the camera points and when it's on, and k
 **Most complaints fall into three groups, and each has a simple fix.** Here's what we found:
 
 - **Cameras going offline.** Reported by Ring owners. Use the 2.4 GHz band, keep the camera within a room or two of the router, and power-cycle it before resetting.
-- **False motion alerts.** A recurring complaint across camera brands, such as this r/EufyCam thread on [false person alerts](https://www.reddit.com/r/EufyCam/comments/j9t6ab/can_someone_tell_me_how_to_fix_these_false_human/). Draw motion zones away from windows and TVs, and set a motion schedule for hours you're home. SimpliSafe adds that its sensor responds best to side-to-side movement.
+- **False motion alerts.** A recurring complaint across camera brands, such as this r/EufyCam thread on false person alerts. Draw motion zones away from windows and TVs, and set a motion schedule for hours you're home. SimpliSafe adds that its sensor responds best to side-to-side movement.
 - **Battery that dies early.** Specific to the SimpliSafe camera. Place it where it sees fewer events, or keep it plugged in.
 
 ## Your lease, your landlord and move-out day
 
-**Check your lease agreement for a camera or surveillance clause before you buy; an indoor camera on a shelf changes nothing in the unit, but a no-camera rule still applies.** Renters in a r/Apartmentliving thread give the same advice: "[Make sure it's legal and not excluded in your lease.](https://www.reddit.com/r/Apartmentliving/comments/1slrxea/should_i_get_a_doorbell_camera/)" If the lease is silent and you plan to use adhesive, a short note keeps everyone clear and protects your security deposit:
+**Check your lease agreement for a camera or surveillance clause before you buy; an indoor camera on a shelf changes nothing in the unit, but a no-camera rule still applies.** Renters in a r/Apartmentliving thread give the same advice: "Make sure it's legal and not excluded in your lease." If the lease is silent and you plan to use adhesive, a short note keeps everyone clear and protects your security deposit:
 
 > Hi [landlord], we'd like to place a small indoor security camera inside our unit, on a shelf or with a removable adhesive strip. It won't record common areas, and we'll remove it and any adhesive before move-out. Please let us know if that's a problem.
 

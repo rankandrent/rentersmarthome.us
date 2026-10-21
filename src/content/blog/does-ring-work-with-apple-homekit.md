@@ -143,7 +143,7 @@ related:
   - what-is-homekit
 ---
 
-A renter on r/HomeKit asks which doorbell camera to buy for an all-Apple apartment, and the first reply is blunt: ["Dont get a ring doorbell. They're not compatible with Homekit, and you'll have to pay to play."](https://www.reddit.com/r/HomeKit/comments/1x50tp7/doorbell_camera_for_an_apartment_recommendation/) That reply is right on the basics. **Ring does not work with Apple HomeKit natively: Ring doorbells, cameras and Ring Alarm have no HomeKit or Matter support, so they never appear in the Apple Home app on their own.** Third-party bridges such as Homebridge, Scrypted and HOOBS can add Ring to Apple Home, but they are unofficial workarounds that need an always-on device.
+A renter on r/HomeKit asks which doorbell camera to buy for an all-Apple apartment, and the first reply is blunt: "Dont get a ring doorbell. They're not compatible with Homekit, and you'll have to pay to play." That reply is right on the basics. **Ring does not work with Apple HomeKit natively: Ring doorbells, cameras and Ring Alarm have no HomeKit or Matter support, so they never appear in the Apple Home app on their own.** Third-party bridges such as Homebridge, Scrypted and HOOBS can add Ring to Apple Home, but they are unofficial workarounds that need an always-on device.
 
 We wrote this for renters weighing that workaround: the three bridge routes, what you get, and the lease and move-out checks other guides skip.
 
@@ -157,7 +157,7 @@ Native support would mean scanning a code in the Apple Home app and seeing the d
 
 ### Why Matter does not help
 
-Ring has no Matter doorbells or cameras, so Matter is not a back door into Apple Home. Confusion about this is a recurring theme in r/HomeKit threads, where owners ask whether "Matter" on the box means a device will appear in Apple Home. One reply sums up why answers keep changing: ["The challenge is that Matter is evolving quickly."](https://www.reddit.com/r/HomeKit/comments/1l0soq3/does_matter_automatically_mean_a_device_will_work/) Our rule: trust a Matter or "Works with Apple Home" logo on the product itself, and ignore claims that Ring works with HomeKit "via Matter."
+Ring has no Matter doorbells or cameras, so Matter is not a back door into Apple Home. Confusion about this is a recurring theme in r/HomeKit threads, where owners ask whether "Matter" on the box means a device will appear in Apple Home. One reply sums up why answers keep changing: "The challenge is that Matter is evolving quickly." Our rule: trust a Matter or "Works with Apple Home" logo on the product itself, and ignore claims that Ring works with HomeKit "via Matter."
 
 ## Three ways to get Ring into Apple Home
 
@@ -177,7 +177,7 @@ This table compares the three routes on what a renter has to run and what they g
 
 ### A ready-made Homebridge host, if you don't want to build a server
 
-For a renter who already owns Ring and does not want to set up a Raspberry Pi, we think a ready-made Homebridge host is the simplest route. HOOBS sells one, the [HOOBS Box](https://hoobs.com/box/), which ships preloaded with the HOOBS software, a Homebridge-based platform, per HOOBS, so the job is adding the Ring plugin and pairing, not setting up Linux. HOOBS lists the Ring Video Doorbell Pro, Ring Alarm Security Kit, Stick Up Cam Elite and Floodlight Cam as tested accessories on its [Ring setup page](https://hoobs.com/ring/), and the sources say doorbell presses can trigger HomeKit scenes and chime a HomePod. We name HOOBS only as an example; we have not tested it and this guide picks no product. The drawbacks are the ones every Ring bridge shares. It is unofficial, so a change to Ring's cloud login can break the plugin, and live view runs through Ring's cloud, which makes it slower than a native HomeKit camera. The standard Ring plugin gives no HomeKit Secure Video either. For renters, such a box needs no drilling and unplugs in seconds at move-out, but it must stay plugged in and online in your unit.
+For a renter who already owns Ring and does not want to set up a Raspberry Pi, we think a ready-made Homebridge host is the simplest route. HOOBS sells one, the HOOBS Box, which ships preloaded with the HOOBS software, a Homebridge-based platform, per HOOBS, so the job is adding the Ring plugin and pairing, not setting up Linux. HOOBS lists the Ring Video Doorbell Pro, Ring Alarm Security Kit, Stick Up Cam Elite and Floodlight Cam as tested accessories on its Ring setup page, and the sources say doorbell presses can trigger HomeKit scenes and chime a HomePod. We name HOOBS only as an example; we have not tested it and this guide picks no product. The drawbacks are the ones every Ring bridge shares. It is unofficial, so a change to Ring's cloud login can break the plugin, and live view runs through Ring's cloud, which makes it slower than a native HomeKit camera. The standard Ring plugin gives no HomeKit Secure Video either. For renters, such a box needs no drilling and unplugs in seconds at move-out, but it must stay plugged in and online in your unit.
 
 ## What you can and cannot do once Ring is bridged
 
@@ -216,21 +216,21 @@ We treat the refresh token like a password. Anyone with your bridge has your Rin
 
 ### Lease and landlord approval for a Ring camera or doorbell
 
-Landlord bans on doorbell cameras come up again and again in r/Apartmentliving and r/LandlordLove threads, including one titled [Ring doorbells not allowed](https://www.reddit.com/r/Apartmentliving/comments/1ebelua/ring_doorbells_not_allowed/). One commenter warns: ["If there is any mention of no cameras then your landlord can enforce that however the law allows"](https://www.reddit.com/r/LandlordLove/comments/1ef2zou/can_landlord_say_we_cant_have_cameras/). We can't tell you whether a clause is enforceable where you live. Check your lease and local rules, and ask your landlord in writing before you mount anything. Bridging to HomeKit doesn't change the answer.
+Landlord bans on doorbell cameras come up again and again in r/Apartmentliving and r/LandlordLove threads, including one titled Ring doorbells not allowed. One commenter warns: "If there is any mention of no cameras then your landlord can enforce that however the law allows". We can't tell you whether a clause is enforceable where you live. Check your lease and local rules, and ask your landlord in writing before you mount anything. Bridging to HomeKit doesn't change the answer.
 
 ### No-drill mounting and keeping the host in your unit
 
-Drilling is the other wall, often literally. A recurring point in r/Ring threads is buildings that ban exterior drilling; one renter chose a no-drill setup because ["they don't allow drilling to the exterior."](https://www.reddit.com/r/Ring/comments/184g6hd/what_are_your_thoughts_on_putting_up_a_ring/) Our [no-drill ways to put a Ring doorbell on an apartment door](/blog/ring-doorbell-in-apartment/) cover the Peephole Cam and adhesive mounts. Keep the bridge host inside your unit on your own router, not on building Wi-Fi.
+Drilling is the other wall, often literally. A recurring point in r/Ring threads is buildings that ban exterior drilling; one renter chose a no-drill setup because "they don't allow drilling to the exterior." Our [no-drill ways to put a Ring doorbell on an apartment door](/blog/ring-doorbell-in-apartment/) cover the Peephole Cam and adhesive mounts. Keep the bridge host inside your unit on your own router, not on building Wi-Fi.
 
 ### The hidden upkeep of a bridge
 
-A bridge is a second device you maintain, and in our view that's the part guides gloss over. Owners in r/homebridge describe Ring cameras that show in Home but won't open live view, and doorbells going unresponsive, with one fix in [a Ring doorbells not responding thread](https://www.reddit.com/r/homebridge/comments/in3p6e/ring_doorbells_not_responding/): ["Restarting the homekit hub finally fixed it."](https://www.reddit.com/r/homebridge/comments/in3p6e/ring_doorbells_not_responding/) Every move, new router or Wi-Fi password means re-checking the host. Power outages matter too, since the doorbell stays in Ring but vanishes from Apple Home until the bridge is back.
+A bridge is a second device you maintain, and in our view that's the part guides gloss over. Owners in r/homebridge describe Ring cameras that show in Home but won't open live view, and doorbells going unresponsive, with one fix in a Ring doorbells not responding thread: "Restarting the homekit hub finally fixed it." Every move, new router or Wi-Fi password means re-checking the host. Power outages matter too, since the doorbell stays in Ring but vanishes from Apple Home until the bridge is back.
 
 > **From our notes:** When we read the three top-ranking Ring-to-HomeKit guides side by side (AddToHomeKit, SafeHome.org and Wasserstein Home), all three walked through Homebridge, Scrypted or HOOBS, and none asked whether the reader was allowed a Ring at all. The renter threads we pulled for this post told the other half. People asked whether a no-cameras clause holds up, where to mount without drilling, and why a bridged doorbell went "not responding". That gap is why this guide puts the lease and the upkeep next to the setup steps.
 
 ### Bridge or buy native: the renter-friendly HomeKit doorbell option
 
-If Apple Home is the whole point, buying a native HomeKit doorbell can beat Ring plus a bridge. In a [renter-friendly doorbell thread on r/HomeKit](https://www.reddit.com/r/HomeKit/comments/1tiqf0c/renter_friendly_doorbell_solution/), one renter reports using a battery Aqara G4, which needs no doorbell wiring. Native HomeKit cameras pair straight to the Home app, so there's no host to keep alive. We'd bridge only if you already own Ring, need Alexa or Google Home for a roommate, or want Ring's own app. Our [Ring vs Nest doorbell comparison for renters](/blog/ring-vs-nest-doorbell/) covers battery models that suit a lease.
+If Apple Home is the whole point, buying a native HomeKit doorbell can beat Ring plus a bridge. In a renter-friendly doorbell thread on r/HomeKit, one renter reports using a battery Aqara G4, which needs no doorbell wiring. Native HomeKit cameras pair straight to the Home app, so there's no host to keep alive. We'd bridge only if you already own Ring, need Alexa or Google Home for a roommate, or want Ring's own app. Our [Ring vs Nest doorbell comparison for renters](/blog/ring-vs-nest-doorbell/) covers battery models that suit a lease.
 
 ### Move-out checklist for a bridged Ring
 
@@ -248,11 +248,11 @@ This checklist is our suggestion, not a rule from Ring or Apple:
 
 ### Ring shows not responding in Apple Home
 
-Restart in order: the Apple home hub (HomePod or Apple TV), then the bridge, then the Ring device. If snapshots stay stale, re-authenticate the Ring plugin with a fresh two-factor code; re-authentication is one of the fixes owners trade in r/homebridge threads such as [this one about cameras that won't open](https://www.reddit.com/r/homebridge/comments/1l15kwk/ring_cameras_show_in_homekit_but_when_i_click_for/). If it keeps happening, that's the bridge-versus-native decision making itself.
+Restart in order: the Apple home hub (HomePod or Apple TV), then the bridge, then the Ring device. If snapshots stay stale, re-authenticate the Ring plugin with a fresh two-factor code; re-authentication is one of the fixes owners trade in r/homebridge threads such as this one about cameras that won't open. If it keeps happening, that's the bridge-versus-native decision making itself.
 
 ### Subscription and privacy trade-offs
 
-Monthly camera fees are a recurring gripe in r/homeowners and r/homeautomation threads, and one owner notes that with some cameras a ["Subscription not required to record to SD card and view via your cell phone."](https://www.reddit.com/r/homeowners/comments/1ot0xm0/home_security_cameras_without_monthly_payment/) Bridged Ring still depends on Ring's cloud, and Ring says its [free 30-day trial of Ring Protect](https://ring.com/plans) starts when you set up the device, so plan to pay for video recording after that. If local storage matters more than HomeKit, see our [video doorbells without a subscription for renters](/blog/best-video-doorbell-without-subscription-for-renters/).
+Monthly camera fees are a recurring gripe in r/homeowners and r/homeautomation threads, and one owner notes that with some cameras a "Subscription not required to record to SD card and view via your cell phone." Bridged Ring still depends on Ring's cloud, and Ring says its [free 30-day trial of Ring Protect](https://ring.com/plans) starts when you set up the device, so plan to pay for video recording after that. If local storage matters more than HomeKit, see our [video doorbells without a subscription for renters](/blog/best-video-doorbell-without-subscription-for-renters/).
 
 ### Which Apple or Matter claims to ignore
 

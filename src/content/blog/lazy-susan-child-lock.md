@@ -143,11 +143,11 @@ heroAlt: >-
   RenterSmartHome how-to
 ---
 
-The corner cabinet spins a whole shelf into a crawling baby's reach. One parent on The Bump put it plainly: ["I haven't been able to find a baby proof for the lazy suzie, I tried several different products and nothing worked."](https://forums.thebump.com/discussion/4334066/did-you-babyproof-your-lazy-susan-cabinet) **The right lazy susan child lock depends on the cabinet: a pie-cut unit needs a lock that stops the trays turning, a kidney unit needs an adhesive magnetic lock on the door leaf hinged to the frame, and a turntable in a regular cabinet takes any cabinet lock.** All three work without drilling, which matters to us as renters.
+The corner cabinet spins a whole shelf into a crawling baby's reach. One parent on The Bump put it plainly: "I haven't been able to find a baby proof for the lazy suzie, I tried several different products and nothing worked." **The right lazy susan child lock depends on the cabinet: a pie-cut unit needs a lock that stops the trays turning, a kidney unit needs an adhesive magnetic lock on the door leaf hinged to the frame, and a turntable in a regular cabinet takes any cabinet lock.** All three work without drilling, which matters to us as renters.
 
 ## Which lazy susan child lock fits your cabinet?
 
-**Open the door and watch: if it turns with the shelves, you have a pie-cut lazy susan; if the tray spins on its own, a kidney lazy susan.** On [pie-cut models the door is attached to the trays and turns with them; on kidney models the door is a separate bi-fold pair](https://www.captivatingcabinets.com/blog/lazy-susan-cabinet-sizes-and-alternatives). On some IKEA corner units the door opens and the tray spins separately.
+**Open the door and watch: if it turns with the shelves, you have a pie-cut lazy susan; if the tray spins on its own, a kidney lazy susan.** On pie-cut models the door is attached to the trays and turns with them; on kidney models the door is a separate bi-fold pair. On some IKEA corner units the door opens and the tray spins separately.
 
 How each design maps to a lock:
 
@@ -157,13 +157,13 @@ How each design maps to a lock:
 
 ## Pie-cut lazy susan – stop the rotation
 
-**A pie-cut lazy susan has no door hinge to latch, so the lock has to keep the whole assembly from turning.** Safety 1st sells a [Lazy Susan Cabinet Lock](https://www.walmart.com/ip/Safety-1st-Lazy-Susan-Cabinet-Lock-for-Childproofing-White-3-Piece/497412371) built for this, with a child-resistant dual-press release, per its Walmart listing (out of stock there in October 2026). The video below shows it. Baby Proof Me likewise favors [locks that span the opening and hold both doors at once](https://babyproofme.com/blogs/the-parenting-journal/how-to-baby-proof-a-lazy-susan-cabinet) over a single-point latch.
+**A pie-cut lazy susan has no door hinge to latch, so the lock has to keep the whole assembly from turning.** Safety 1st sells a Lazy Susan Cabinet Lock built for this, with a child-resistant dual-press release, per its Walmart listing (out of stock there in October 2026). The video below shows it. Baby Proof Me likewise favors locks that span the opening and hold both doors at once over a single-point latch.
 
 ## Kidney lazy susan with bi-fold doors – lock the hinge-side leaf
 
-**On a kidney lazy susan the door is fixed to the cabinet, so the lazy susan lock goes on the door leaf hinged to the frame, like a normal cabinet.** One r/NewDads parent put ["these magnet locks for all our lower cabinets including the Lazy Susan door"](https://www.reddit.com/r/NewDads/comments/157npw9/no_drill_lazy_susan_babyproofing/), stuck to the door and frame with 3M tape.
+**On a kidney lazy susan the door is fixed to the cabinet, so the lazy susan lock goes on the door leaf hinged to the frame, like a normal cabinet.** One r/NewDads parent put "these magnet locks for all our lower cabinets including the Lazy Susan door", stuck to the door and frame with 3M tape.
 
-A parent on [r/NewParents offset two locks](https://www.reddit.com/r/NewParents/comments/11grmzk/any_recommendations_on_baby_proofing_this_lazy/) so the door still opens both ways without them colliding, and named the trade-off: "The con is that smashed fingers are a risk." A locked door also keeps small hands out of the fold. Our [magnetic cabinet locks for renters](/blog/best-magnetic-cabinet-locks-for-renters/) roundup compares six kits for this job.
+A parent on r/NewParents offset two locks so the door still opens both ways without them colliding, and named the trade-off: "The con is that smashed fingers are a risk." A locked door also keeps small hands out of the fold. Our [magnetic cabinet locks for renters](/blog/best-magnetic-cabinet-locks-for-renters/) roundup compares six kits for this job.
 
 ## Turntable inside a regular cabinet
 

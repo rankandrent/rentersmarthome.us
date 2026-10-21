@@ -1,21 +1,17 @@
 {
   "slug": "zigbee-vs-thread",
   "pass": true,
-  "checkedAt": "2026-10-21T10:19:25.635Z",
+  "checkedAt": "2026-10-21T19:51:36.900Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.the-ambient.com/reviews/amazon-echo-hub-review/",
-    "source didn't respond normally (403): https://www.reddit.com/r/homeassistant/comments/1lx5r87/zigbee_vs_thread_matter_for_new_house/",
-    "source didn't respond normally (403): https://www.reddit.com/r/homeassistant/comments/ubm53z/move_from_one_zigbee_coordinator_to_another/",
-    "source didn't respond normally (403): https://www.reddit.com/r/HomeKit/comments/1j8pf7q/thread_devices_keep_going_out/"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Media backfill, verified via Firecrawl: Silicon Labs Zigbee Fundamentals overview says the 2.4 GHz band supports a radio data rate of 250 kbps (https://docs.silabs.com/zigbee/8.2.3/zigbee-fundamentals/01-overview). Thread Group smart home page: connect more than 250 devices into a low-power wireless mesh network (https://threadgroup.org/BUILT-FOR-IOT/Smart-Home). Video 3h-uVVwXYcY (myHomeKithome, Zigbee vs. Thread). 3 illustrations after H2 2,3,4. Trimmed three filler phrases; other claims unchanged from previous fact check.",
-    "at": "2026-10-21T06:54:25.046Z",
-    "hash": "ba53e8c0c6f63575"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:51:36.523Z",
+    "hash": "e9c02735d1baa55d"
   }
 }

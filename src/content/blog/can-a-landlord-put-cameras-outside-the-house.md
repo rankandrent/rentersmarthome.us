@@ -165,7 +165,7 @@ heroAlt: >-
   RenterSmartHome renter guide
 ---
 
-You move into a rental house and spot a camera over the front door, aimed at the porch you walk through every day. Can a landlord put cameras outside the house you rent? A renter on r/Ring asked the same about a [landlord's Ring watching them come and go](https://www.reddit.com/r/Ring/comments/b837km/renting_a_house_with_ring_installed_landlord/). **Landlord security cameras outside the house are generally allowed: a landlord can usually put visible cameras on the exterior to cover entrances, the driveway and the yard, but not cameras that look into your windows, record your conversations without consent, or hide where you'd expect privacy.** Laws vary by state and by lease, so read this as general information, not legal advice.
+You move into a rental house and spot a camera over the front door, aimed at the porch you walk through every day. Can a landlord put cameras outside the house you rent? A renter on r/Ring asked the same about a landlord's Ring watching them come and go. **Landlord security cameras outside the house are generally allowed: a landlord can usually put visible cameras on the exterior to cover entrances, the driveway and the yard, but not cameras that look into your windows, record your conversations without consent, or hide where you'd expect privacy.** Laws vary by state and by lease, so read this as general information, not legal advice.
 ## Can a landlord put cameras outside the house?
 
 **In most states, yes: landlord security cameras are allowed when they are visible and cover the exterior or common areas.** The test the ranking guides keep returning to is your "reasonable expectation of privacy": you have little of it on a porch anyone can see, and a lot of it inside the unit.
@@ -184,11 +184,11 @@ Cameras are normal on both sides of the lease: SafeHome.org's 2026 survey found 
 
 ### Aimed into your windows or a private fenced yard
 
-The eufy guide says landlords are responsible for adjusting or masking any view that reaches into windows. Single-family houses add a wrinkle most guides skip. The [North Carolina REALTORS legal hotline](https://www.ncrealtors.org/question/are-surveillance-cameras-allowed-on-the-outside-of-rental-properties/) notes that if a rental is remote or surrounded by a privacy fence or hedge, tenants could reasonably expect privacy outdoors too, and it advises owners to disclose outdoor cameras and get tenant agreement at lease signing.
+The eufy guide says landlords are responsible for adjusting or masking any view that reaches into windows. Single-family houses add a wrinkle most guides skip. The North Carolina REALTORS legal hotline notes that if a rental is remote or surrounded by a privacy fence or hedge, tenants could reasonably expect privacy outdoors too, and it advises owners to disclose outdoor cameras and get tenant agreement at lease signing.
 
 ### Recording audio without consent
 
-Federal law, [18 U.S.C. 2511](https://www.law.cornell.edu/uscode/text/18/2511), allows recording with one-party consent, but some states want everyone's: Florida's [section 934.03](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0900-0999/0934/Sections/0934.03.html) makes interception lawful when all parties have consented. A doorbell camera with its microphone on can catch you and your guests on the porch, so we'd make switching audio off our first request.
+Federal law, [18 U.S.C. 2511](https://www.law.cornell.edu/uscode/text/18/2511), allows recording with one-party consent, but some states want everyone's: Florida's section 934.03 makes interception lawful when all parties have consented. A doorbell camera with its microphone on can catch you and your guests on the porch, so we'd make switching audio off our first request.
 
 ### Tracking you instead of the property
 
@@ -200,7 +200,7 @@ The video below, made for landlords, shows what owners are told is and isn't leg
 
 **It depends on your state law and your lease; disclosure is widely recommended but not required everywhere.** A Texas property manager notes Texas doesn't require camera signs, while the Florida and North Carolina sources push owners to put cameras in the lease.
 
-One r/renting reply sums up where most tenants land: ["it is legal, usually it should be disclosed in your lease."](https://www.reddit.com/r/renting/comments/1mwzjwf/is_it_okaynormal_for_landlord_to_keep_a_ring/) When you check your lease for a camera clause, look for:
+One r/renting reply sums up where most tenants land: "it is legal, usually it should be disclosed in your lease." When you check your lease for a camera clause, look for:
 
 1. Named camera locations.
 2. Whether cameras record audio, and who has access to the footage.
@@ -215,7 +215,7 @@ Footage access is the point tenant privacy hinges on: SafeHome.org found [37 per
 
 1. Photograph the camera and where it points, with dates.
 2. Check your lease for a camera, entry or alterations clause.
-3. Look up your state's statutes and the attorney general's tenant rights pages; [HUD's state information pages](https://www.hud.gov/states) are a starting point.
+3. Look up your state's statutes and the attorney general's tenant rights pages; HUD's state information pages are a starting point.
 4. Send a short written request (below) and keep a copy.
 5. If nothing changes, or a camera appears inside, contact a local tenant organization or a landlord-tenant attorney.
 
@@ -225,12 +225,12 @@ Footage access is the point tenant privacy hinges on: SafeHome.org found [37 per
 
 ### Why covering or unplugging it can backfire
 
-It's tempting, but the camera isn't yours. As one r/Ring commenter put it: ["Legally it's not your device. Changing is likely a violation."](https://www.reddit.com/r/Ring/comments/b837km/renting_a_house_with_ring_installed_landlord/) The same thread raises a fair point: if the landlord's camera runs on power or Wi-Fi you pay for, mention that in your request too.
+It's tempting, but the camera isn't yours. As one r/Ring commenter put it: "Legally it's not your device. Changing is likely a violation." The same thread raises a fair point: if the landlord's camera runs on power or Wi-Fi you pay for, mention that in your request too.
 
 > **From our notes:** When we read the top ten results for this question side by side, four were written for landlords or property managers, three were forum threads and one came from a camera maker. The landlord pages coached owners on signs, lease clauses and storing footage, while the renter threads we pulled asked whether they could cover the lens. The most useful line for renters came from a REALTOR hotline answer about fenced, remote houses, a case the other guides only raised for neighbors' cameras. That gap shaped this guide: what you can check, what to put in writing, and where to verify the law.
 
 ## Putting up your own camera outside a rental
 
-**You usually need landlord permission, because the exterior is their property and many leases restrict cameras or alterations.** An r/LandlordLove reply warns: ["If there is any mention of no cameras then your landlord can enforce that however the law allows"](https://www.reddit.com/r/LandlordLove/comments/1ef2zou/can_landlord_say_we_cant_have_cameras/). Get a yes in writing, use a no-drill mount, and aim at your own door; neighbors object when ["you're likely to be recording other residents doors"](https://www.reddit.com/r/Apartmentliving/comments/1ebelua/ring_doorbells_not_allowed/). We keep audio off unless we know the state's consent rule. Our [no-drill ways to put a Ring doorbell on a rental door](/blog/ring-doorbell-in-apartment/) and [door cameras for apartment renters that need no wiring](/blog/door-camera-for-apartment/) cover the mounting.
+**You usually need landlord permission, because the exterior is their property and many leases restrict cameras or alterations.** An r/LandlordLove reply warns: "If there is any mention of no cameras then your landlord can enforce that however the law allows". Get a yes in writing, use a no-drill mount, and aim at your own door; neighbors object when "you're likely to be recording other residents doors". We keep audio off unless we know the state's consent rule. Our [no-drill ways to put a Ring doorbell on a rental door](/blog/ring-doorbell-in-apartment/) and [door cameras for apartment renters that need no wiring](/blog/door-camera-for-apartment/) cover the mounting.
 
 So for that renter watching the lens over the porch: the camera is probably legal, but where it points, whether it hears you and who sees the footage are fair questions to ask in writing. For your own coverage next, see our [no-drill security cameras for apartments](/blog/best-wireless-security-cameras-for-apartments/).
