@@ -4043,7 +4043,8 @@
     "painPoints": [
       "hubs-voice-matter-ecosystem-compat-confusion"
     ],
-    "slug": "apple-homekit-compatible-devices"
+    "slug": "apple-homekit-compatible-devices",
+    "productCount": 4
   },
   {
     "status": "deferred",
