@@ -3826,7 +3826,7 @@
     "slug": "anti-theft-doorbell-mount"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-19T12:55:49.433Z",
     "secondaryKeywords": [
@@ -3861,7 +3861,8 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-19"
     },
-    "slug": "matter-vs-thread"
+    "slug": "matter-vs-thread",
+    "publishedAt": "2026-10-21T10:04:19.488Z"
   },
   {
     "status": "published",

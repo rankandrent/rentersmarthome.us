@@ -118,6 +118,7 @@ faqs:
       adding mains-powered repeaters.
 author: editorial-team
 related:
+  - matter-vs-thread
   - what-is-homekit
   - best-matter-smart-plugs
 illustrations:

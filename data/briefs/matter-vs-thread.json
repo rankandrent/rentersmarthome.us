@@ -1,0 +1,251 @@
+{
+  "centralEntity": "Matter vs Thread",
+  "entityVariants": [
+    "Thread vs Matter",
+    "Matter and Thread",
+    "Matter over Thread",
+    "difference between Matter and Thread",
+    "is Thread the same as Matter"
+  ],
+  "entities": [
+    {"name": "Matter", "type": "standard", "relation": "application-layer smart home standard from the Connectivity Standards Alliance; runs over Wi-Fi, Thread or Ethernet and uses Bluetooth LE for setup"},
+    {"name": "Thread", "type": "protocol", "relation": "low-power IPv6 mesh network on IEEE 802.15.4 at 2.4 GHz; one of the networks that carries Matter"},
+    {"name": "Thread border router", "type": "hardware function", "relation": "connects the Thread mesh to Wi-Fi/Ethernet and the internet; built into speakers, displays, streamers and some routers"},
+    {"name": "Connectivity Standards Alliance", "type": "organization", "relation": "maintains and certifies Matter (and Zigbee)"},
+    {"name": "Thread Group", "type": "organization", "relation": "maintains and certifies Thread; released Thread 1.4"},
+    {"name": "Matter over Wi-Fi", "type": "concept", "relation": "Matter devices that join the home Wi-Fi directly; no border router needed"},
+    {"name": "multi-admin", "type": "feature", "relation": "Matter feature that lets one device sit in Apple Home, Google Home and Alexa at once (separate fabrics)"},
+    {"name": "fabric", "type": "concept", "relation": "a Matter security domain, one per controller ecosystem"},
+    {"name": "Thread 1.4", "type": "standard version", "relation": "makes new border routers join the existing Thread network instead of creating a new one"},
+    {"name": "Bluetooth Low Energy", "type": "protocol", "relation": "used to commission (set up) Matter devices"},
+    {"name": "Zigbee", "type": "protocol", "relation": "same 802.15.4 radio as Thread; reaches Matter only through a bridge"},
+    {"name": "Apple Home / Google Home / Amazon Alexa", "type": "ecosystem", "relation": "Matter controllers whose hubs often double as Thread border routers"},
+    {"name": "IPv6", "type": "protocol", "relation": "the IP layer Thread uses, which lets Matter run on top without a translating hub"}
+  ],
+  "attributes": [
+    "layer (application vs network)",
+    "border router requirement",
+    "power use and battery life",
+    "mesh range",
+    "setup (commissioning) path",
+    "cross-ecosystem control",
+    "label on the box",
+    "what moves with you when you move out",
+    "roommates on different platforms",
+    "troubleshooting which layer failed"
+  ],
+  "ngrams": [
+    "matter vs thread",
+    "matter over thread",
+    "matter over wi-fi",
+    "thread border router",
+    "application layer",
+    "mesh network",
+    "low power",
+    "smart home standard",
+    "battery-powered sensors",
+    "multi-admin",
+    "matter controller",
+    "built on thread"
+  ],
+  "skipgrams": [
+    "Matter…language",
+    "Thread…network",
+    "Matter…runs over…Thread",
+    "Thread…border router",
+    "devices…offline",
+    "Matter…pairing",
+    "border router…restart",
+    "Matter…Wi-Fi",
+    "Thread…battery",
+    "label…box"
+  ],
+  "nlpTerms": [
+    "IPv6",
+    "IEEE 802.15.4",
+    "2.4 GHz",
+    "commissioning",
+    "QR code",
+    "Bluetooth LE",
+    "fabric",
+    "multi-admin",
+    "border router",
+    "mesh",
+    "router device",
+    "end device",
+    "interoperability",
+    "local control",
+    "bridge",
+    "certification",
+    "Thread 1.4",
+    "credential sharing"
+  ],
+  "questions": [
+    "is thread the same as matter",
+    "do i need thread for matter",
+    "do i need a thread border router",
+    "is matter over thread better than matter over wifi",
+    "why do my thread devices go offline",
+    "why won't my matter device pair",
+    "does a thread device always support matter",
+    "what happens to matter devices when i move"
+  ],
+  "contentGaps": [
+    "symptom-to-layer troubleshooting: is the problem Matter (controller, pairing) or Thread (border router, mesh)?",
+    "reading the box: Matter logo vs Built on Thread vs Requires Border Router badges",
+    "a Thread device is not automatically a Matter device (HomeKit over Thread, other app layers)",
+    "what moves with a renter: Matter lives in your controller account, Thread lives in your border routers",
+    "landlord or ISP routers with a Thread border router creating a second Thread network",
+    "roommates on different phones sharing one device through Matter multi-admin",
+    "plain buy-first verdict for a renter starter set"
+  ],
+  "outline": [
+    {"h2": "Matter vs Thread – the language and the road", "intent": "direct answer + comparison table (commonPoints, brief)", "h3": []},
+    {"h2": "Matter over Thread vs Matter over Wi-Fi", "intent": "how they work together; which devices use which", "h3": []},
+    {"h2": "Reading the box – which logo tells you what", "intent": "ourGain: label decoding, border router check, Thread is not always Matter", "h3": ["Do you need a Thread border router?"]},
+    {"h2": "Matter or Thread problem? How to tell, and the fix", "intent": "ourGain + pain points: offline devices (Thread), pairing failures (Matter), confusion", "h3": ["Devices go offline together", "A new device will not pair"]},
+    {"h2": "Matter and Thread when you move out or share with roommates", "intent": "ourGain: what moves with you, multi-admin, landlord/ISP Thread routers", "h3": []},
+    {"h2": "What renters should buy first", "intent": "verdict: choose Matter over Thread if / Matter over Wi-Fi if; next-step links", "h3": []}
+  ],
+  "targetWords": 1250,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://homey.app/en-us/wiki/matter-vs-thread-understanding-the-difference/",
+      "https://threadgroup.org/newsroom/blog/thread-with-matter-better-connections-smarter-homes",
+      "https://www.qorvo.com/design-hub/technical-articles/simplifying-smart-homes-learn-how-matter-thread-and-wi-fi-are-revolutionizing-iot-connectivity",
+      "https://datawiresolutions.com/blog/matter-thread-explained-2026",
+      "https://store.google.com/us/magazine/matter-thread-for-your-smart-home?hl=en-US"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "No top result ranks products; they explain the two layers in prose, with one or two tables (Datawire) and an FAQ (Homey, Datawire). A guide without picks fits the guide intent.",
+    "avgWords": 1420,
+    "avgProducts": 0,
+    "commonSections": [
+      "what Matter is",
+      "what Thread is",
+      "how they work together (language vs network)",
+      "Thread border routers",
+      "benefits (battery life, reliability, interoperability)",
+      "FAQ"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": false
+  },
+  "serpTitles": [
+    {"position": 1, "url": "https://www.reddit.com/r/HomeKit/comments/10sott0/please_explain_like_i_am_five_the_difference/", "title": "Please explain like I am five, the difference between matter and thread"},
+    {"position": 2, "url": "https://threadgroup.org/newsroom/blog/thread-with-matter-better-connections-smarter-homes", "title": "Thread with Matter: Better Connections, Smarter Homes"},
+    {"position": 3, "url": "https://www.legrand.us/ideas/blogs/thread-vs-wifi", "title": "Thread vs Wi-Fi: Differences, Benefits and Key Considerations - Legrand US"},
+    {"position": 4, "url": "https://homey.app/en-us/wiki/matter-vs-thread-understanding-the-difference/", "title": "Matter vs. Thread: Understanding the Difference in Today's Smart Home"},
+    {"position": 5, "url": "https://www.youtube.com/watch?v=hqDkuOZGSdI", "title": "Thread vs Matter Explained: The Future of Smart Homes ... - YouTube"},
+    {"position": 6, "url": "https://www.qorvo.com/design-hub/technical-articles/simplifying-smart-homes-learn-how-matter-thread-and-wi-fi-are-revolutionizing-iot-connectivity", "title": "Simplifying Smart Homes: Learn How Matter, Thread and Wi-Fi ... - Qorvo"},
+    {"position": 7, "url": "https://www.aqara.com/us/blog-us/zigbee-vs-thread-vs-matter-whats-the-difference/", "title": "Zigbee vs. Thread vs. Matter: What's The Difference? - Aqara"},
+    {"position": 8, "url": "https://datawiresolutions.com/blog/matter-thread-explained-2026", "title": "Matter and Thread Explained: What Works in 2026 | Data Wire Solutions"},
+    {"position": 9, "url": "https://community.homey.app/t/understanding-thread-and-matter-from-a-power-user-s-perspective/149039", "title": "Understanding Thread and Matter (from a power user's perspective)"},
+    {"position": 10, "url": "https://store.google.com/us/magazine/matter-thread-for-your-smart-home?hl=en-US", "title": "How Matter & Thread Make Your Home More Helpful - Google Store"}
+  ],
+  "titlePattern": {
+    "keywordAtStart": 1,
+    "withYear": 1,
+    "withNumber": 0,
+    "commonModifiers": ["Difference", "Explained", "Understanding", "Smart Home"],
+    "gap": "No title speaks to renters or to what to buy first, and none helps tell whether a problem is Matter or Thread."
+  },
+  "commonPoints": [
+    "Matter is an application-layer language/standard; Thread is a low-power IPv6 mesh network that can carry it",
+    "Matter runs over Wi-Fi, Thread or Ethernet and uses Bluetooth LE for setup",
+    "Thread needs a Thread border router, often built into speakers, displays, streamers and routers",
+    "In a Thread mesh, mains-powered devices relay traffic and battery devices can run for years",
+    "Matter and Thread are complementary, not competing choices",
+    "Zigbee and Z-Wave devices reach Matter only through a bridge"
+  ],
+  "ourGain": [
+    {"point": "Symptom-to-layer troubleshooting: whole groups dropping offline points to Thread (border router), a device that will not join points to Matter commissioning (controller, Bluetooth, hub), with the fix for each", "source": "https://www.reddit.com/r/HomeKit/comments/1j8pf7q/thread_devices_keep_going_out/, https://www.reddit.com/r/alexa/comments/1dgisga/cant_add_any_matter_smart_home_products_to_alexa/, https://store.google.com/us/magazine/matter-thread-for-your-smart-home?hl=en-US (setup requirements footnote), https://datawiresolutions.com/blog/matter-thread-explained-2026 (common mistakes)"},
+    {"point": "Reading the box: the Matter logo does not say which network; Thread-certified products carry 'Border Router' or 'Requires Border Router' badges, and a Thread device needs Matter certification to be a Matter device", "source": "https://threadgroup.org/BUILT-FOR-IOT/Smart-Home (FAQ: How will I know if a product is Thread certified), https://homey.app/en-us/wiki/matter-vs-thread-understanding-the-difference/ (FAQ)"},
+    {"point": "What moves with a renter: Matter pairings live in your controller account (fabric), Thread runs through whichever border routers are plugged in; a landlord or ISP router with a border router can create a second Thread network unless both run Thread 1.4", "source": "https://developers.home.google.com/matter/primer/fabric, https://threadgroup.org/newsroom/blog/thread-14-paves-the-path-for-smart-devices-to-work-together-regardless-of-their-ecosystem-or-manufacturer, https://datawiresolutions.com/blog/matter-thread-explained-2026"},
+    {"point": "Roommates on different phones: Matter multi-admin lets one Thread lock or bulb sit in Apple Home and Google Home at once, so nobody has to switch platforms", "source": "https://csa-iot.org/all-solutions/matter/matter-faq/ (multi-admin answer)"},
+    {"point": "Thread is bigger than Matter: it also carries other application layers (KNX IoT, DALI+), so 'Thread' on a box is not a promise of Matter", "source": "https://threadgroup.org/newsroom/blog/thread-14-paves-the-path-for-smart-devices-to-work-together-regardless-of-their-ecosystem-or-manufacturer"}
+  ],
+  "painPoints": [
+    {
+      "id": "hubs-voice-which-protocol-to-buy-confusion",
+      "pain": "New buyers do not understand Matter vs Zigbee vs Z-Wave vs Thread and fear buying the wrong standard",
+      "details": "First-time smart home buyers ask which protocol to start with; Matter and Thread get compared as if they were rivals.",
+      "sources": [
+        "https://www.reddit.com/r/homeautomation/comments/1eamwov/new_smart_home_what_protocol_should_i_use_zigbee/",
+        "https://www.reddit.com/r/homeassistant/comments/14uh5w7/zigbee_or_matter_for_new_installation/"
+      ],
+      "quotes": [
+        {"text": "I want to make my home smart, but I ran into difficulty understanding the differences between Zigbee, Zwave and Matter.", "url": "https://www.reddit.com/r/homeautomation/comments/1eamwov/new_smart_home_what_protocol_should_i_use_zigbee/"}
+      ]
+    },
+    {
+      "id": "hubs-voice-matter-thread-terminology-confusion",
+      "pain": "People think Matter and Thread are competing standards and do not know which one a device uses",
+      "details": "r/HomeKit and r/MatterProtocol threads ask for an explain-like-I'm-five of Matter vs Thread; answers explain Matter is the protocol and Thread is a network like Wi-Fi.",
+      "sources": [
+        "https://www.reddit.com/r/HomeKit/comments/10sott0/please_explain_like_i_am_five_the_difference/",
+        "https://www.reddit.com/r/HomeKit/comments/xkvw7b/backwards_compatibility_matter_to_thread/",
+        "https://www.reddit.com/r/HomeKit/comments/139116u/new_to_homekit_confused_on_matter_vs_thread/"
+      ],
+      "quotes": [
+        {"text": "Matter is an application protocol (matter packets), Thread is a network (like wifi).", "url": "https://www.reddit.com/r/HomeKit/comments/10sott0/please_explain_like_i_am_five_the_difference/"},
+        {"text": "Thread is not a subset of Matter. They're two different things.", "url": "https://www.reddit.com/r/HomeKit/comments/xkvw7b/backwards_compatibility_matter_to_thread/"}
+      ]
+    },
+    {
+      "id": "hubs-voice-matter-thread-devices-offline",
+      "pain": "Matter over Thread devices randomly go offline and stay offline until the hub or border router is reset",
+      "details": "Owners with Apple, Eero or Home Assistant border routers report whole groups of Thread devices dropping every few days or after a restart.",
+      "sources": [
+        "https://www.reddit.com/r/HomeKit/comments/1j8pf7q/thread_devices_keep_going_out/",
+        "https://www.reddit.com/r/MatterProtocol/comments/1ra5g8h/devices_constantly_offline/"
+      ],
+      "quotes": [
+        {"text": "Pretty much randomly every other day or so- all my thread devices just go completely offline.", "url": "https://www.reddit.com/r/HomeKit/comments/1j8pf7q/thread_devices_keep_going_out/"}
+      ]
+    },
+    {
+      "id": "hubs-voice-matter-pairing-fails",
+      "pain": "Matter devices will not pair or the controller refuses to add them",
+      "details": "Users spend hours or days trying to commission Matter devices into Alexa, Apple Home or Home Assistant and get stuck on border router or network errors.",
+      "sources": [
+        "https://www.reddit.com/r/alexa/comments/1dgisga/cant_add_any_matter_smart_home_products_to_alexa/",
+        "https://www.reddit.com/r/homeassistant/comments/1qzf7q3/matter_over_thread_2_hours_and_still_not_working/"
+      ],
+      "quotes": [
+        {"text": "Alexa suddenly won't add any Matter smart home products to its ecosystem.", "url": "https://www.reddit.com/r/alexa/comments/1dgisga/cant_add_any_matter_smart_home_products_to_alexa/"}
+      ]
+    },
+    {
+      "id": "hubs-voice-matter-ecosystem-compat-confusion",
+      "pain": "Buyers cannot tell if a Matter device will work with their Apple, Google or Alexa setup",
+      "details": "Owners ask whether Matter means a device automatically works in Apple Home and why some platforms will not control some Matter devices.",
+      "sources": [
+        "https://www.reddit.com/r/HomeKit/comments/1l0soq3/does_matter_automatically_mean_a_device_will_work/"
+      ],
+      "quotes": [
+        {"text": "The challenge is that Matter is evolving quickly.", "url": "https://www.reddit.com/r/HomeKit/comments/1l0soq3/does_matter_automatically_mean_a_device_will_work/"}
+      ]
+    }
+  ],
+  "stats": [
+    {"number": "more than 250 devices", "claim": "Thread lets you connect more than 250 devices into one low-power mesh", "url": "https://threadgroup.org/BUILT-FOR-IOT/Smart-Home", "quote": "easily and securely connect more than 250 devices into a low-power, wireless mesh network"},
+    {"number": "three", "claim": "Matter supports three underlying network protocols: Thread, Wi-Fi or Ethernet", "url": "https://threadgroup.org/newsroom/blog/thread-with-matter-better-connections-smarter-homes", "quote": "Matter supports three underlying network protocols—Thread, Wi-Fi, or Ethernet"},
+    {"number": "200+", "claim": "Thread is maintained by the 200+ members of the Thread Group", "url": "https://threadgroup.org/newsroom/blog/thread-with-matter-better-connections-smarter-homes", "quote": "Thread is developed, maintained, and promoted by the 200+ members of the Thread Group"},
+    {"number": "1.4", "claim": "With Thread 1.4 (September 2024), an added border router joins the existing Thread network instead of creating a new one", "url": "https://threadgroup.org/newsroom/blog/thread-14-paves-the-path-for-smart-devices-to-work-together-regardless-of-their-ecosystem-or-manufacturer", "quote": "users can add an 1.4 updated Matter-enabled device to any existing Thread network connected by a Thread 1.4 Border Router"}
+  ],
+  "videos": [
+    {"id": "hqDkuOZGSdI", "title": "Thread vs Matter Explained: The Future of Smart Homes (Finally Made Simple!)", "channel": "Speak to the Geek", "url": "https://www.youtube.com/watch?v=hqDkuOZGSdI", "section": "Matter vs Thread – the language and the road"},
+    {"id": "ltf25fzyS0o", "title": "Choose wisely! Matter over Thread vs Wi-Fi", "channel": "Eric Welander", "url": "https://www.youtube.com/watch?v=ltf25fzyS0o", "section": "Matter over Thread vs Matter over Wi-Fi"}
+  ],
+  "secondaryKeywords": [
+    "thread vs matter",
+    "matter over thread",
+    "matter over thread vs wifi",
+    "is thread the same as matter",
+    "do i need thread for matter",
+    "what is thread smart home"
+  ],
+  "serpProducts": []
+}

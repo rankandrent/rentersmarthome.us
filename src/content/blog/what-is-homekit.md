@@ -267,6 +267,7 @@ heroAlt: >-
   What Is HomeKit? Apple Home Explained for Renters and Roommates –
   RenterSmartHome renter guide
 related:
+  - matter-vs-thread
   - govee-apple-homekit
 ---
 

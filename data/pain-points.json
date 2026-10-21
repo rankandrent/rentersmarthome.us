@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T20:15:00Z",
+  "updatedAt": "2026-10-21T10:02:13.929Z",
   "categories": {
     "smart-locks": [
       {
@@ -2116,6 +2116,62 @@
         ],
         "coveredBy": [],
         "foundAt": "2026-10-20"
+      },
+      {
+        "id": "hubs-voice-matter-thread-terminology-confusion",
+        "pain": "People think Matter and Thread are competing standards and do not know which one a device uses",
+        "details": "r/HomeKit and r/MatterProtocol threads ask for an explain-like-I'm-five of Matter vs Thread. Answers explain that Matter is the application protocol and Thread is a network like Wi-Fi, so Matter can run over Thread or Wi-Fi.",
+        "mentions": 4,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/HomeKit/comments/10sott0/please_explain_like_i_am_five_the_difference/",
+            "platform": "reddit",
+            "title": "Please explain like I am five, the difference between matter and thread",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/HomeKit/comments/xkvw7b/backwards_compatibility_matter_to_thread/",
+            "platform": "reddit",
+            "title": "'Backwards' compatibility Matter to Thread",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/HomeKit/comments/139116u/new_to_homekit_confused_on_matter_vs_thread/",
+            "platform": "reddit",
+            "title": "New to Homekit. Confused on matter vs thread",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/MatterProtocol/comments/1adpt1f/what_is_matter_over_thread/",
+            "platform": "reddit",
+            "title": "What is matter over thread",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Matter is an application protocol (matter packets), Thread is a network (like wifi).",
+            "url": "https://www.reddit.com/r/HomeKit/comments/10sott0/please_explain_like_i_am_five_the_difference/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "Thread is not a subset of Matter. They're two different things.",
+            "url": "https://www.reddit.com/r/HomeKit/comments/xkvw7b/backwards_compatibility_matter_to_thread/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "matter vs thread",
+          "is thread the same as matter",
+          "what is matter over thread"
+        ],
+        "keywords": [
+          "matter vs thread",
+          "thread vs matter",
+          "matter over thread"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-21"
       }
     ],
     "baby-proofing": [
@@ -2484,6 +2540,184 @@
         ],
         "foundAt": "2026-10-19",
         "coveredBy": []
+      },
+      {
+        "id": "baby-proofing-lazy-susan-nothing-fits",
+        "pain": "Standard cabinet locks don't fit a lazy susan corner cabinet with its spinning tray and folding or rotating door",
+        "details": "Parents say they tried several products and nothing worked, or that the bi-fold door opens both ways and two locks collide.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://forums.thebump.com/discussion/4334066/did-you-babyproof-your-lazy-susan-cabinet",
+            "platform": "forum",
+            "title": "Did you babyproof your lazy susan cabinet?",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/NewParents/comments/11grmzk/any_recommendations_on_baby_proofing_this_lazy/",
+            "platform": "reddit",
+            "title": "Any recommendations on baby proofing this lazy susan cabinet?",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/toddlers/comments/nv8row/what_type_of_child_proof_locks_do_people_use_for/",
+            "platform": "reddit",
+            "title": "What type of child proof locks do people use for corner cabinets?",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I haven't been able to find a baby proof for the lazy suzie, I tried several different products and nothing worked.",
+            "url": "https://forums.thebump.com/discussion/4334066/did-you-babyproof-your-lazy-susan-cabinet",
+            "via": "page"
+          },
+          {
+            "text": "Offsetting the locks allows the cabinet to open both ways without conflicting with each other.",
+            "url": "https://www.reddit.com/r/NewParents/comments/11grmzk/any_recommendations_on_baby_proofing_this_lazy/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "lazy susan child lock",
+          "how to baby proof a lazy susan cabinet"
+        ],
+        "keywords": [
+          "lazy susan child lock"
+        ],
+        "foundAt": "2026-10-21",
+        "coveredBy": [
+          "lazy-susan-child-lock"
+        ]
+      },
+      {
+        "id": "baby-proofing-lazy-susan-no-drill",
+        "pain": "Parents (and renters) don't want to drill holes in lazy susan cabinet fronts",
+        "details": "Owners look for no-drill options and settle on adhesive magnetic locks that stick to the door and frame.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/NewDads/comments/157npw9/no_drill_lazy_susan_babyproofing/",
+            "platform": "reddit",
+            "title": "No drill lazy Susan babyproofing",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://forums.thebump.com/discussion/4334066/did-you-babyproof-your-lazy-susan-cabinet",
+            "platform": "forum",
+            "title": "Did you babyproof your lazy susan cabinet?",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "This house is much newer and I don't know if I want to put holes in the cabinet fronts.",
+            "url": "https://forums.thebump.com/discussion/4334066/did-you-babyproof-your-lazy-susan-cabinet",
+            "via": "page"
+          },
+          {
+            "text": "We put these magnet locks for all our lower cabinets including the Lazy Susan door.",
+            "url": "https://www.reddit.com/r/NewDads/comments/157npw9/no_drill_lazy_susan_babyproofing/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "lazy susan child lock",
+          "how to baby proof a lazy susan cabinet"
+        ],
+        "keywords": [
+          "lazy susan child lock"
+        ],
+        "foundAt": "2026-10-21",
+        "coveredBy": [
+          "lazy-susan-child-lock"
+        ]
+      },
+      {
+        "id": "baby-proofing-lazy-susan-pinch-fall",
+        "pain": "The lazy susan itself can hurt a toddler: pinched fingers in a folding door, or a child wedged in the spinning tray",
+        "details": "Owners mention smashed fingers as the trade-off of bi-fold locks, and a toddler who fell into an open lazy susan and got stuck.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/NewParents/comments/11grmzk/any_recommendations_on_baby_proofing_this_lazy/",
+            "platform": "reddit",
+            "title": "Any recommendations on baby proofing this lazy susan cabinet?",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://forums.thebump.com/discussion/4334066/did-you-babyproof-your-lazy-susan-cabinet",
+            "platform": "forum",
+            "title": "Did you babyproof your lazy susan cabinet?",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "The con is that smashed fingers are a risk.",
+            "url": "https://www.reddit.com/r/NewParents/comments/11grmzk/any_recommendations_on_baby_proofing_this_lazy/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "He fell into it, and the side of it jammed into his back and lodged him in there.",
+            "url": "https://forums.thebump.com/discussion/4334066/did-you-babyproof-your-lazy-susan-cabinet",
+            "via": "page"
+          }
+        ],
+        "searches": [
+          "lazy susan child lock",
+          "how to baby proof a lazy susan cabinet"
+        ],
+        "keywords": [
+          "lazy susan child lock"
+        ],
+        "foundAt": "2026-10-21",
+        "coveredBy": [
+          "lazy-susan-child-lock"
+        ]
+      },
+      {
+        "id": "baby-proofing-toddler-defeats-cabinet-lock",
+        "pain": "Toddlers learn to open or break cabinet locks, including on the lazy susan",
+        "details": "Parents report locks that broke, toddlers yanking at adhesive locks, and children who figured out both magnetic and press latches.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://forums.thebump.com/discussion/4334066/did-you-babyproof-your-lazy-susan-cabinet",
+            "platform": "forum",
+            "title": "Did you babyproof your lazy susan cabinet?",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/toddlers/comments/nv8row/what_type_of_child_proof_locks_do_people_use_for/",
+            "platform": "reddit",
+            "title": "What type of child proof locks do people use for corner cabinets?",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "We do but it broke last week!",
+            "url": "https://forums.thebump.com/discussion/4334066/did-you-babyproof-your-lazy-susan-cabinet",
+            "via": "page"
+          },
+          {
+            "text": "They attached by adhesive and thus far he hasn't been able to yank them off- and believe me, he's tried.",
+            "url": "https://forums.thebump.com/discussion/4334066/did-you-babyproof-your-lazy-susan-cabinet",
+            "via": "page"
+          }
+        ],
+        "searches": [
+          "lazy susan child lock",
+          "how to baby proof a lazy susan cabinet"
+        ],
+        "keywords": [
+          "lazy susan child lock"
+        ],
+        "foundAt": "2026-10-21",
+        "coveredBy": [
+          "lazy-susan-child-lock"
+        ]
       }
     ],
     "climate": [
