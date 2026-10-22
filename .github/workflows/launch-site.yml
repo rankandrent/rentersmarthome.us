@@ -153,6 +153,21 @@ jobs:
         working-directory: site
         run: npx --yes wrangler@4.150.0 pages deploy dist --project-name="$PROJECT" --branch=main --commit-dirty=true
 
+      - name: Check out the agents repo (Google indexing script)
+        uses: actions/checkout@v4
+        with:
+          path: agents-repo
+          sparse-checkout: |
+            scripts/google-indexing.mjs
+            agents/lib
+            site.config.json
+
+      - name: Google sitemap submit + WebSub ping
+        continue-on-error: true
+        env:
+          GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
+        run: node agents-repo/scripts/google-indexing.mjs --submit "$DOMAIN"
+
       - name: Notify search engines (IndexNow for Bing and Yandex)
         working-directory: site
         continue-on-error: true
