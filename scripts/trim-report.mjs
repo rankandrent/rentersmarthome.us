@@ -12,7 +12,7 @@ if (!domain) throw new Error('usage: node scripts/trim-report.mjs <site-repo-dir
 const readJson = (f, fallback) => { try { return JSON.parse(fs.readFileSync(f, 'utf8')); } catch { return fallback; } };
 const trimmed = readJson(path.join(repo, 'data', 'trimmed.json'), {});
 const dir = path.join(DATA_DIR, 'gsc', domain);
-const snaps = (fs.existsSync(dir) ? fs.readdirSync(dir) : []).filter((f) => f.endsWith('.json')).sort()
+const snaps = (fs.existsSync(dir) ? fs.readdirSync(dir) : []).filter((f) => f.endsWith('.json') && !f.endsWith('.queries.json')).sort()
   .map((f) => readJson(path.join(dir, f)));
 if (!snaps.length) {
   console.log(JSON.stringify({ domain, note: 'no Search Console snapshots yet (GSC_SERVICE_ACCOUNT_JSON secret + weekly gsc-snapshot workflow)' }, null, 2));
