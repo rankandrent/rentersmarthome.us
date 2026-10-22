@@ -458,5 +458,35 @@
     "lockout fee apartment",
     "locked out of apartment who to call",
     "locked out of apartment locksmith"
+  ],
+  "commonPoints": [
+    "Stay calm and check for an unlocked window or back door (but avoid climbing fire escapes or forcing the lock)",
+    "Call the property manager, leasing office or landlord, who usually holds a spare key; expect ID verification and possibly a fee",
+    "Ask a roommate, friend, neighbor or pet sitter who may hold a spare key",
+    "Call a licensed, insured locksmith as a last resort; it is pricey at night or on weekends",
+    "Check your lease for lockout policy and fees",
+    "Prevent repeats with a leaving routine, a spare key with a nearby trusted person, a lockbox, or a smart lock/keyless entry (usually one short paragraph)"
+  ],
+  "ourGain": [
+    {
+      "point": "Smart-lock-specific lockouts (dead battery, 9V emergency terminals, app/Wi-Fi drop, landlord-installed lock with no physical key) are barely mentioned by top results, which only say 'ask about a smart lock'",
+      "source": "https://www.reddit.com/r/legaladvice/comments/1pa2zkl/locked_out_at_2_am_due_to_failed_smart_lock/"
+    },
+    {
+      "point": "Who pays when a locksmith drills or damages the lock: a 'check your lease and ask your landlord in writing' script, which top results cover in one line at most",
+      "source": "https://www.reddit.com/r/chicago/comments/1aqpr0d/smart_lock_bricked_last_night_now_my_landlord/"
+    },
+    {
+      "point": "Concrete locksmith scam checks (bait-and-switch low quotes, verify the individual's license, local address and phone, written quote upfront, fake reviews) instead of 'pick a reputable locksmith'",
+      "source": "https://portal.ct.gov/dcp/news-releases-from-the-department-of-consumer-protection/2026-news-releases/be-wary-of-scammers-posing-as-locksmith-technicians"
+    },
+    {
+      "point": "Renter-safe prevention: no-drill retrofit smart lock that keeps the original key and cylinder, plus how to ask the landlord for permission; top results only say 'chat with your landlord'",
+      "source": "https://www.reddit.com/r/homeautomation/comments/1rm2gag/best_renter_friendly_smart_lock/"
+    },
+    {
+      "point": "Time-of-day and building-type guidance (after midnight, no phone, doorman building) and returning spare keys at move-out, which top results skip",
+      "source": "https://www.apartmenttherapy.com/locked-out-of-apartment-37112536"
+    }
   ]
 }

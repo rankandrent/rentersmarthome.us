@@ -148,8 +148,8 @@ products:
     brand: Reolink
     query: Reolink Argus 4 Pro 4K solar camera
     matchName: Reolink Argus 4 Pro
-    asin: B0F189FV7K
-    asinVerified: false
+    asin: B0G3T7QY76
+    asinVerified: true
     badge: 'Beste keuze met microSD, zonder hub'
     summary: >-
       Een camera op accu en zonne-energie met twee lenzen voor een beeld van 180
@@ -523,7 +523,7 @@ De [eufyCam S330 (eufyCam 3)](amzn:B0B4BZH58H) is rond een hub gebouwd: een draa
 
 ### Reolink Argus 4 Pro: accucamera met microSD
 
-Twee lenzen die samen één beeld vormen, dat is het verkoopargument van de [Reolink Argus 4 Pro](amzn:B0F189FV7K). Reolink noemt 5120x1440 bij 15 fps over 180 graden horizontaal en 50 graden verticaal, IP66 en een microSD-sleuf tot 512 GB, zonder hub en zonder kosten voor lokale opslag. De stroom komt uit een vaste accu van 5.000 mAh die je via USB-C of het optionele Solar Panel 2 van 6 W oplaadt, en hij maakt verbinding via dualband Wi-Fi 6. Let op het compromis 's nachts: er is geen infrarood, dus in het donker neemt hij in kleur op onder zijn eigen spotlights. Op r/reolinkcam gaat bijna alles over de accu. Eén eigenaar schreef dat de accu zelfs met het paneel van 6 W ongeveer 10 dagen meeging en zette de camera over op USB-stroom, en een ander draadje beschrijft hoe hij snel van vol naar offline ging. We vonden geen draadje van eigenaren dat precies dit model prijst en dat we konden bevestigen, dus de enige positieve noot komt van een reviewer: [SafeWise](https://www.safewise.com/au/reolink-argus-4-pro-review/) (in het Engels) schreef versteld te staan van het brede beeld van 180 graden. In een Reolink-draadje over slechte ervaringen meldde een Argus-eigenaar ook een USB-stekker die na acht maanden kapotging. Met 400 g (0,9 lb) hoort hij op een stevige balkonrand of beugel.
+Twee lenzen die samen één beeld vormen, dat is het verkoopargument van de [Reolink Argus 4 Pro](amzn:B0G3T7QY76). Reolink noemt 5120x1440 bij 15 fps over 180 graden horizontaal en 50 graden verticaal, IP66 en een microSD-sleuf tot 512 GB, zonder hub en zonder kosten voor lokale opslag. De stroom komt uit een vaste accu van 5.000 mAh die je via USB-C of het optionele Solar Panel 2 van 6 W oplaadt, en hij maakt verbinding via dualband Wi-Fi 6. Let op het compromis 's nachts: er is geen infrarood, dus in het donker neemt hij in kleur op onder zijn eigen spotlights. Op r/reolinkcam gaat bijna alles over de accu. Eén eigenaar schreef dat de accu zelfs met het paneel van 6 W ongeveer 10 dagen meeging en zette de camera over op USB-stroom, en een ander draadje beschrijft hoe hij snel van vol naar offline ging. We vonden geen draadje van eigenaren dat precies dit model prijst en dat we konden bevestigen, dus de enige positieve noot komt van een reviewer: [SafeWise](https://www.safewise.com/au/reolink-argus-4-pro-review/) (in het Engels) schreef versteld te staan van het brede beeld van 180 graden. In een Reolink-draadje over slechte ervaringen meldde een Argus-eigenaar ook een USB-stekker die na acht maanden kapotging. Met 400 g (0,9 lb) hoort hij op een stevige balkonrand of beugel.
 
 ### Reolink Argus PT Ultra: draaien en kantelen
 

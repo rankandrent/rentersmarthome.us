@@ -142,8 +142,8 @@ products:
     brand: Reolink
     query: Reolink Argus 4 Pro 4K solar camera
     matchName: Reolink Argus 4 Pro
-    asin: B0F189FV7K
-    asinVerified: false
+    asin: B0G3T7QY76
+    asinVerified: true
     badge: 'Best microSD, no-hub option'
     summary: >-
       A battery and solar camera with two lenses for a 180-degree, 4K-class view

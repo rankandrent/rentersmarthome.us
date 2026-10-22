@@ -147,8 +147,8 @@ products:
     brand: Reolink
     query: Reolink Argus 4 Pro 4K solar camera
     matchName: Reolink Argus 4 Pro
-    asin: B0F189FV7K
-    asinVerified: false
+    asin: B0G3T7QY76
+    asinVerified: true
     badge: 'Beste Wahl mit microSD, ohne Hub'
     summary: >-
       Eine Akku- und Solarkamera mit zwei Objektiven für ein 180-Grad-Bild in
@@ -521,7 +521,7 @@ Die [eufyCam S330 (eufyCam 3)](amzn:B0B4BZH58H) ist um einen Hub herum gebaut: e
 
 ### Reolink Argus 4 Pro: Akku-Kamera mit microSD
 
-Das Verkaufsargument der [Reolink Argus 4 Pro](amzn:B0F189FV7K) sind zwei Objektive, deren Bilder zu einem zusammengesetzt werden. Reolink nennt 5120x1440 bei 15 fps über 180 Grad horizontal und 50 Grad vertikal, Schutzklasse IP66 und einen microSD-Slot für bis zu 512 GB, ohne Hub und ohne Gebühr für lokalen Speicher. Der Strom kommt aus einem fest verbauten 5.000-mAh-Akku, der über USB-C oder das optionale Solar Panel 2 mit 6 W geladen wird, und die Kamera funkt im Dualband-WLAN mit Wi-Fi 6. Beachte den Kompromiss bei Nacht: Es gibt kein Infrarot, im Dunkeln nimmt sie also in Farbe unter ihren eigenen Spotlights auf. Auf r/reolinkcam dreht sich fast alles um den Akku. Ein Besitzer schrieb, der Akku habe selbst mit dem 6-W-Panel nur etwa 10 Tage gehalten, und stellte die Kamera auf USB-Strom um. Ein anderer Thread beschreibt, wie sie schnell von voll auf offline fiel. Einen Besitzer-Thread, der genau dieses Modell lobt und den wir bestätigen konnten, haben wir nicht gefunden. Das einzige Lob kommt deshalb von einem Tester: [SafeWise](https://www.safewise.com/au/reolink-argus-4-pro-review/) (auf Englisch) schrieb, man sei vom weiten 180-Grad-Blickfeld begeistert gewesen. In einem Reolink-Thread über schlechte Erfahrungen berichtete außerdem ein Argus-Besitzer von einem USB-Stecker, der nach acht Monaten ausfiel. Mit 400 g (0,9 lb) gehört sie auf eine stabile Brüstung oder Halterung.
+Das Verkaufsargument der [Reolink Argus 4 Pro](amzn:B0G3T7QY76) sind zwei Objektive, deren Bilder zu einem zusammengesetzt werden. Reolink nennt 5120x1440 bei 15 fps über 180 Grad horizontal und 50 Grad vertikal, Schutzklasse IP66 und einen microSD-Slot für bis zu 512 GB, ohne Hub und ohne Gebühr für lokalen Speicher. Der Strom kommt aus einem fest verbauten 5.000-mAh-Akku, der über USB-C oder das optionale Solar Panel 2 mit 6 W geladen wird, und die Kamera funkt im Dualband-WLAN mit Wi-Fi 6. Beachte den Kompromiss bei Nacht: Es gibt kein Infrarot, im Dunkeln nimmt sie also in Farbe unter ihren eigenen Spotlights auf. Auf r/reolinkcam dreht sich fast alles um den Akku. Ein Besitzer schrieb, der Akku habe selbst mit dem 6-W-Panel nur etwa 10 Tage gehalten, und stellte die Kamera auf USB-Strom um. Ein anderer Thread beschreibt, wie sie schnell von voll auf offline fiel. Einen Besitzer-Thread, der genau dieses Modell lobt und den wir bestätigen konnten, haben wir nicht gefunden. Das einzige Lob kommt deshalb von einem Tester: [SafeWise](https://www.safewise.com/au/reolink-argus-4-pro-review/) (auf Englisch) schrieb, man sei vom weiten 180-Grad-Blickfeld begeistert gewesen. In einem Reolink-Thread über schlechte Erfahrungen berichtete außerdem ein Argus-Besitzer von einem USB-Stecker, der nach acht Monaten ausfiel. Mit 400 g (0,9 lb) gehört sie auf eine stabile Brüstung oder Halterung.
 
 ### Reolink Argus PT Ultra: schwenken und neigen
 
