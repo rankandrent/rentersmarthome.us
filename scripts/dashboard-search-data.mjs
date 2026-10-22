@@ -38,13 +38,15 @@ for (const { domain, dir } of SITES) {
   };
   let queue = read(path.join(dir, 'data/keywords.json'), []);
   if (!Array.isArray(queue)) queue = queue.keywords ?? [];
+  const seen = new Set();
   for (const k of queue) {
-    if (k.status === 'merged' || k.status === 'rejected') continue;
+    if (k.status === 'merged' || k.status === 'rejected' || seen.has(norm(k.keyword))) continue;
+    seen.add(norm(k.keyword));
     const q = qmap.get(norm(k.keyword));
     if (q) used.add(norm(k.keyword));
     const a = k.ahrefs ?? {};
     keywords.push({
-      site: domain, keyword: k.keyword, status: STATUS[k.status] ?? k.status,
+      id: `${domain}|${k.keyword}`, site: domain, keyword: k.keyword, status: STATUS[k.status] ?? k.status,
       volume: a.volume ?? k.volume ?? null, kd: a.kd ?? k.kd ?? null,
       intent: k.intent ?? null, page: q?.page ?? (k.status === 'published' && k.slug ? `https://${domain}/blog/${k.slug}/` : null),
       ...metrics(q),
@@ -53,13 +55,13 @@ for (const { domain, dir } of SITES) {
   // Queries people already find us for that are not in the queue.
   for (const q of g?.queries ?? []) {
     if (used.has(norm(q.query)) || (q.d30?.impressions ?? 0) < 2) continue;
-    keywords.push({ site: domain, keyword: q.query, status: 'Search Console', volume: null, kd: null, intent: null, page: q.page, ...metrics(q) });
+    keywords.push({ id: `${domain}|${q.query}`, site: domain, keyword: q.query, status: 'Search Console', volume: null, kd: null, intent: null, page: q.page, ...metrics(q) });
   }
   for (const [kw, s] of Object.entries(read(path.join(dir, 'data/serps.json'), {}))) {
     (s.urls ?? []).slice(0, 10).forEach((u, i) => {
       let host = '';
       try { host = new URL(u).hostname.replace(/^www\./, ''); } catch {}
-      serps.push({ site: domain, keyword: kw, rank: i + 1, url: u, domain: host, checked: s.date ?? null });
+      serps.push({ id: `${domain}|${kw}|${i + 1}`, site: domain, keyword: kw, rank: i + 1, url: u, domain: host, checked: s.date ?? null });
     });
   }
 }
