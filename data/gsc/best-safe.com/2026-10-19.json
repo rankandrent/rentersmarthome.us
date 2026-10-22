@@ -1,0 +1,133 @@
+{
+ "domain": "best-safe.com",
+ "startDate": "2026-09-22",
+ "endDate": "2026-10-19",
+ "rows": [
+  {
+   "page": "https://best-safe.com/blog/best-fireproof-safe/",
+   "clicks": 1,
+   "impressions": 11,
+   "ctr": 0.0909,
+   "position": 27.5
+  },
+  {
+   "page": "https://best-safe.com/",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "page": "https://best-safe.com/authors/editorial-team/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 8
+  },
+  {
+   "page": "https://best-safe.com/blog/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "page": "https://best-safe.com/blog/best-biometric-gun-safe/",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 6.7
+  },
+  {
+   "page": "https://best-safe.com/blog/best-fireproof-document-safe/",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 10
+  },
+  {
+   "page": "https://best-safe.com/brand/barska/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 4.3
+  },
+  {
+   "page": "https://best-safe.com/brand/first-alert/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 4
+  },
+  {
+   "page": "https://best-safe.com/brand/sentrysafe/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "page": "https://best-safe.com/brand/vaultek/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 6
+  },
+  {
+   "page": "https://best-safe.com/category/fireproof-safes/",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 7.3
+  },
+  {
+   "page": "https://best-safe.com/category/handgun-safes/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 10
+  },
+  {
+   "page": "https://best-safe.com/contact/",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 2.3
+  },
+  {
+   "page": "https://best-safe.com/editorial-policy/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 4
+  },
+  {
+   "page": "https://best-safe.com/how-we-research/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 6.5
+  },
+  {
+   "page": "https://best-safe.com/how-we-score/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "page": "https://best-safe.com/privacy-policy/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 4.5
+  },
+  {
+   "page": "https://best-safe.com/safe-buying-checklist/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 6
+  }
+ ]
+}
