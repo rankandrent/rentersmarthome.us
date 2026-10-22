@@ -205,6 +205,27 @@ products:
             https://www.reddit.com/r/reolinkcam/comments/1gs9yqx/any_bad_experiences_with_reolink/
         - title: Reolink Argus 4 Pro review (SafeWise)
           url: 'https://www.safewise.com/au/reolink-argus-4-pro-review/'
+    image:
+      url: 'https://m.media-amazon.com/images/I/31Z2iqTo1SL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      REOLINK Argus 4 Pro Bundle with Battery Pack-4K Solar Security Cameras
+      Wireless Outdoor, 180° Dual-Lens 8MP Camera for Home Security, ColorX
+      Night Vision, Smart People/Vehicle/Animal Detection, No Sub
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41dSfr5HkIL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/515xC9iYYkL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/412MUpf0SfL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41GAuMiVp0L._SL500_.jpg'
+        width: 400
+        height: 500
   - name: Reolink Argus PT Ultra
     brand: Reolink
     query: Reolink Argus PT Ultra 4K solar pan tilt camera

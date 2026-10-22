@@ -45,9 +45,9 @@ tldr:
     hub: de Argus 4 Pro heeft een beeld van 180 graden en de Argus PT Ultra kan
     draaien en kantelen.
   - >-
-    Kies eufy als je een hub wilt die clips thuis bewaart met
-    gezichtsherkenning (eufyCam S330 met HomeBase 3), of de eenvoudigste camera
-    zonder hub (SoloCam S220).
+    Kies eufy als je een hub wilt die clips thuis bewaart met gezichtsherkenning
+    (eufyCam S330 met HomeBase 3), of de eenvoudigste camera zonder hub (SoloCam
+    S220).
   - >-
     Alle vier nemen lokaal op zonder maandelijkse kosten, maar zijn gemaakt voor
     een vastgeschroefde beugel, dus vraag schriftelijk toestemming aan je
@@ -76,7 +76,9 @@ products:
       Let op: cloudfuncties zoals meldingen met miniatuur sturen gegevens naar
       de cloud van eufy.
     pros:
-      - '4K, kijkhoek van 135 graden, weerbestendig volgens IP67, ingebouwd zonnepaneel (eufy)'
+      - >-
+        4K, kijkhoek van 135 graden, weerbestendig volgens IP67, ingebouwd
+        zonnepaneel (eufy)
       - >-
         Neemt lokaal op in de HomeBase 3 (16 GB ingebouwd, tot 16 TB met een
         2,5-inch schijf) zonder maandelijkse kosten (eufy)
@@ -88,11 +90,17 @@ products:
     specs:
       Resolution: 4K (3840x2160)
       Field of view: 135 graden
-      Power: 'Accu met geïntegreerd zonnepaneel; accu van 13.400 mAh volgens eufy-support'
+      Power: >-
+        Accu met geïntegreerd zonnepaneel; accu van 13.400 mAh volgens
+        eufy-support
       Weather rating: IP67
-      Local storage: 'HomeBase 3, 16 GB ingebouwd, uit te breiden tot 16 TB (2,5-inch SATA-schijf)'
+      Local storage: >-
+        HomeBase 3, 16 GB ingebouwd, uit te breiden tot 16 TB (2,5-inch
+        SATA-schijf)
       Monthly fee: Geen
-      AI: 'Gezichts-, persoon-, voertuig- en huisdierdetectie op de hub (BionicMind)'
+      AI: >-
+        Gezichts-, persoon-, voertuig- en huisdierdetectie op de hub
+        (BionicMind)
       Drilling: Montage met beugel; geen bekabeling
     scores:
       install: 7
@@ -163,12 +171,11 @@ products:
       de accu is niet verwisselbaar.
     pros:
       - >-
-        Beeld van 180 graden met twee lenzen in 5120x1440 en een
-        microSD-sleuf tot 512 GB (Reolink)
+        Beeld van 180 graden met twee lenzen in 5120x1440 en een microSD-sleuf
+        tot 512 GB (Reolink)
       - Geen maandelijkse kosten voor lokale opslag en geen hub nodig (Reolink)
     cons:
-      - >-
-        Accu niet verwisselbaar en sommige eigenaren melden een korte accuduur
+      - Accu niet verwisselbaar en sommige eigenaren melden een korte accuduur
       - >-
         Geen infrarood nachtzicht (alleen nachtzicht in kleur met spotlights);
         maximaal 15 fps
@@ -180,8 +187,8 @@ products:
         via USB-C
       Weather rating: IP66
       Local storage: microSD tot 512 GB; geen maandelijkse kosten
-      Wi-Fi: 2,4 en 5 GHz, Wi-Fi 6
-      Weight: 400 g (0,9 lb)
+      Wi-Fi: '2,4 en 5 GHz, Wi-Fi 6'
+      Weight: '400 g (0,9 lb)'
       Smart home: Google Assistant
     scores:
       install: 8
@@ -212,6 +219,27 @@ products:
             https://www.reddit.com/r/reolinkcam/comments/1gs9yqx/any_bad_experiences_with_reolink/
         - title: Reolink Argus 4 Pro review (SafeWise)
           url: 'https://www.safewise.com/au/reolink-argus-4-pro-review/'
+    amazonTitle: >-
+      REOLINK Argus 4 Pro Bundle with Battery Pack-4K Solar Security Cameras
+      Wireless Outdoor, 180° Dual-Lens 8MP Camera for Home Security, ColorX
+      Night Vision, Smart People/Vehicle/Animal Detection, No Sub
+    image:
+      url: 'https://m.media-amazon.com/images/I/31Z2iqTo1SL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41dSfr5HkIL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/515xC9iYYkL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/412MUpf0SfL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41GAuMiVp0L._SL500_.jpg'
+        width: 400
+        height: 500
   - name: Reolink Argus PT Ultra
     brand: Reolink
     query: Reolink Argus PT Ultra 4K solar pan tilt camera
@@ -231,8 +259,8 @@ products:
       USB-B-kabel van de Argus PT werkt er volgens één eigenaar niet mee.
     pros:
       - >-
-        4K 8 MP met 355 graden draaien en 140 graden kantelen (vergelijkingstabel
-        van Reolink)
+        4K 8 MP met 355 graden draaien en 140 graden kantelen
+        (vergelijkingstabel van Reolink)
       - 'microSD tot 512 GB, Wi-Fi 6, geen kosten voor lokale opslag'
     cons:
       - >-
@@ -320,7 +348,9 @@ products:
       - >-
         Werkt zelfstandig met 8 GB ingebouwde opslag en zonder maandelijkse
         kosten (eufy)
-      - 'Geïntegreerd zonnepaneel van 0,9 W, optioneel te koppelen aan HomeBase S380'
+      - >-
+        Geïntegreerd zonnepaneel van 0,9 W, optioneel te koppelen aan HomeBase
+        S380
     cons:
       - 'Veel eigenaren melden dat de accu leegloopt, soms na een app-update'
       - 'Alleen 2K, digitale zoom, alleen 2,4 GHz-wifi, geen infrarood nachtzicht'
@@ -328,9 +358,9 @@ products:
       Resolution: 2K (2304x1296)
       Field of view: 135 graden
       Viewing distance: 7 m (25 ft)
-      Power: Ingebouwde accu met geïntegreerd zonnepaneel van 0,9 W
+      Power: 'Ingebouwde accu met geïntegreerd zonnepaneel van 0,9 W'
       Local storage: 8 GB eMMC ingebouwd; compatibel met HomeBase S380
-      Wi-Fi: alleen 2,4 GHz
+      Wi-Fi: 'alleen 2,4 GHz'
       Operating temperature: '-20 °C tot 50 °C (-4 °F tot 122 °F)'
       Monthly fee: Geen
       AI: Bewegings- en persoonsdetectie
@@ -387,7 +417,6 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41EwcBbqLwL._SL500_.jpg'
         width: 400
         height: 500
-
 sources:
   - title: eufyCam S330 (eufyCam 3) product page (eufy)
     url: 'https://www.eufy.com/products/t88711w1'
@@ -436,7 +465,7 @@ faqs:
       slaan op op microSD, de eufyCam S330 op de HomeBase 3 en de SoloCam S220
       in zijn ingebouwde 8 GB, allemaal zonder maandelijkse kosten.
       Cloudabonnementen van beide merken zijn optionele extra's.
-  - q: Welke heeft betere beeldkwaliteit, eufy of Reolink?
+  - q: 'Welke heeft betere beeldkwaliteit, eufy of Reolink?'
     a: >-
       Op papier lopen het 5120x1440-panorama met twee lenzen van de Reolink
       Argus 4 Pro en de 4K-modellen eufyCam S330 en Argus PT Ultra voorop, en
@@ -463,16 +492,16 @@ faqs:
   - q: Hoe lang gaat de accu mee bij Reolink- en eufy-camera's?
     a: >-
       De ervaringen van eigenaren lopen sterk uiteen. Een eigenaar van de Argus
-      4 Pro schreef op r/reolinkcam dat de accu zelfs met het zonnepaneel van
-      6 W ongeveer 10 dagen meeging, en meerdere eigenaren van de SoloCam S220
+      4 Pro schreef op r/reolinkcam dat de accu zelfs met het zonnepaneel van 6
+      W ongeveer 10 dagen meeging, en meerdere eigenaren van de SoloCam S220
       meldden op r/EufyCam een plotseling leeglopende accu na een wijziging in
       de app. Een goede plek voor het paneel en minder bewegingstriggers helpen,
       en kou verkort de accuduur van elke camera.
 author: editorial-team
 heroImage: /images/featured/reolink-vs-eufy.png
 heroAlt: >-
-  Reolink of eufy voor huurders – welke draadloze camera past bij je
-  huurwoning – vergelijking van RenterSmartHome
+  Reolink of eufy voor huurders – welke draadloze camera past bij je huurwoning
+  – vergelijking van RenterSmartHome
 ---
 
 Denk aan de huurder van wie we het vaakst horen: een benedenwoning, een voordeur waar vorige week een pakketje verdween en een huurcontract dat gaten in de buitenmuur verbiedt. Reolink of eufy is de vergelijking waar die huurder dan op uitkomt, want beide merken verkopen draadloze camera's die lokaal opnemen zonder maandelijkse kosten. **Ons korte antwoord: kies een accucamera van Reolink als je clips op een microSD-kaart wilt en geen extra kastje, en kies eufy als je een hub met gezichtsherkenning wilt of de eenvoudigste kleine camera. Vraag in beide gevallen schriftelijk toestemming aan je verhuurder voordat er ook maar één schroef in de muur gaat.** We hebben vier actuele modellen vergeleken op basis van fabrikantspecificaties en ervaringen van eigenaren. We hebben ze niet zelf gekocht of getest.

@@ -3,10 +3,12 @@
   "lang": "de",
   "translationOf": "reolink-vs-eufy",
   "pass": true,
-  "checkedAt": "2026-10-22T09:57:03.500Z",
+  "checkedAt": "2026-10-22T10:14:48.709Z",
   "errors": [],
   "warnings": [
-    "not localized yet: run localizer-agent for reolink-vs-eufy (data/briefs/de/reolink-vs-eufy.local.json), then rewrite with translator-agent"
+    "not localized yet: run localizer-agent for reolink-vs-eufy (data/briefs/de/reolink-vs-eufy.local.json), then rewrite with translator-agent",
+    "LIVE POST, FIX: source returns 404: https://reolink.com/product/argus-4-pro/",
+    "source didn't respond normally (403): https://cpisecurity.com/blog/how-cold-weather-affects-your-cpi-security-devices/"
   ],
   "factCheck": {
     "verified": true,

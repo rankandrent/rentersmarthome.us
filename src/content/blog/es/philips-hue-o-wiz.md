@@ -1,6 +1,6 @@
 ---
-title: 'Philips Hue o WiZ – ¿qué bombillas inteligentes comprar si alquilas?'
-seoTitle: 'Philips Hue o WiZ (2026) – ¿cuál es mejor para inquilinos?'
+title: Philips Hue o WiZ – ¿qué bombillas inteligentes comprar si alquilas?
+seoTitle: Philips Hue o WiZ (2026) – ¿cuál es mejor para inquilinos?
 description: >-
   Philips Hue o WiZ para un piso de alquiler: WiZ es más sencillo y barato, sin
   hub; Hue crea un sistema más grande y estable con el Hue Bridge. Así eliges.
@@ -58,26 +58,26 @@ products:
     pros:
       - Incluye el Hue Bridge para control remoto y accesorios
       - Zigbee mantiene las bombillas fuera de tu wifi
-      - Enorme gama de bombillas, lámparas e interruptores
+      - 'Enorme gama de bombillas, lámparas e interruptores'
     cons:
       - Empezar cuesta más que con WiZ
       - El Bridge necesita un puerto Ethernet libre en el router
     asin: B0DBM4538Y
     image:
-      url: https://m.media-amazon.com/images/I/31xoXcJlSUL._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/31xoXcJlSUL._SL500_.jpg'
       width: 500
       height: 500
     gallery:
-      - url: https://m.media-amazon.com/images/I/31g25JP0XJS._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/31g25JP0XJS._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/316to6x8QCL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/316to6x8QCL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41D6Y8ZXQiL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41D6Y8ZXQiL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41--NCfKRYL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41--NCfKRYL._SL500_.jpg'
         width: 500
         height: 500
     amazonTitle: >-
@@ -96,7 +96,7 @@ products:
     owners:
       read: 4
       praise:
-        - Fiable, sin parpadeos y funciona bien una vez configurado
+        - 'Fiable, sin parpadeos y funciona bien una vez configurado'
         - Buen punto de partida para el ecosistema Hue
       complaints:
         - El precio del kit es alto
@@ -111,7 +111,7 @@ products:
           url: >-
             https://512pixels.net/2015/10/review-philips-hue-white-and-color-ambiance-starter-kit/
         - title: Walmart kit listing
-          url: https://www.walmart.com/ip/592867400
+          url: 'https://www.walmart.com/ip/592867400'
           reviews: 56
         - title: Galaxus owner ratings
           url: >-
@@ -133,20 +133,20 @@ products:
       - Menos accesorios que Hue
     asin: B0F645ZQ51
     image:
-      url: https://m.media-amazon.com/images/I/310IK16LQwL._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/310IK16LQwL._SL500_.jpg'
       width: 500
       height: 291
     gallery:
-      - url: https://m.media-amazon.com/images/I/31YR3X9GRFL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/31YR3X9GRFL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41ZyyBiQujL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41ZyyBiQujL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/418YJlK6JrL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/418YJlK6JrL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41s-S8GdrNL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41s-S8GdrNL._SL500_.jpg'
         width: 500
         height: 500
     amazonTitle: >-
@@ -181,7 +181,7 @@ products:
           url: >-
             https://www.shopsavvy.com/reviews-tldr/philips-wiz-a19-smart-bulb-2-pack
         - title: r/wiz
-          url: https://redlib.ssps.io/r/wiz
+          url: 'https://redlib.ssps.io/r/wiz'
   - name: Philips Hue Bridge
     brand: Philips Hue
     query: Philips Hue Bridge
@@ -199,25 +199,26 @@ products:
       - Necesita conexión por cable al router
     asin: B016H0QZ7I
     image:
-      url: https://m.media-amazon.com/images/I/31622oLagxL._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/31622oLagxL._SL500_.jpg'
       width: 500
       height: 500
     gallery:
-      - url: https://m.media-amazon.com/images/I/41hEsUqMVsL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41hEsUqMVsL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/51bG+Nb32WL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51bG+Nb32WL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/51TxIb2JQxL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51TxIb2JQxL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/21vKFJOUYpL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/21vKFJOUYpL._SL500_.jpg'
         width: 500
         height: 500
     amazonTitle: >-
-      Philips Hue Bridge Smart Lighting Hub (Compatible with Amazon Alexa, Apple
-      HomeKit and Google Assistant) - White
+      Philips Hue Bridge, Unlock the Full Potential of Hue Bridge System,
+      Multi-Room and Out-of-Home Control, Create Automations and Zones, Smart
+      Lighting Hub, Works with Voice and Matter-Compatible
     scores:
       install: 10
       reversibility: 10
@@ -240,11 +241,11 @@ products:
         - El precio es una queja frecuente
       sources:
         - title: Smart Home Compared Hue Bridge
-          url: https://smarthomecompared.com/hubs/philips-hue-bridge
+          url: 'https://smarthomecompared.com/hubs/philips-hue-bridge'
         - title: ShopSavvy Hue Bridge summary
-          url: https://shopsavvy.com/reviews-tldr/philips-hue-bridge
+          url: 'https://shopsavvy.com/reviews-tldr/philips-hue-bridge'
         - title: Lowe's Hue Bridge
-          url: https://www.lowes.com/pd/Philips-Philips-Hue-Bridge/5005453051
+          url: 'https://www.lowes.com/pd/Philips-Philips-Hue-Bridge/5005453051'
 sources:
   - title: 'TechRadar: Philips Hue vs WiZ'
     url: >-
@@ -278,7 +279,7 @@ faqs:
       No directamente. Las marcas se mantienen separadas, aunque Matter permite
       reunir ambas en una app de hogar inteligente común como Google Home o
       Apple Home.
-  - q: ¿Qué es mejor para un piso de alquiler, Hue o WiZ?
+  - q: '¿Qué es mejor para un piso de alquiler, Hue o WiZ?'
     a: >-
       Las dos son aptas para inquilinos. Elige WiZ para un par de lámparas y Hue
       si piensas iluminar todo el piso y llevarte el sistema a tus próximas

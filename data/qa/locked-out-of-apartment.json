@@ -1,10 +1,11 @@
 {
   "slug": "locked-out-of-apartment",
   "pass": true,
-  "checkedAt": "2026-10-22T10:01:55.086Z",
+  "checkedAt": "2026-10-22T10:11:50.068Z",
   "errors": [],
   "warnings": [
-    "body has 1693 words, over the 1150 limit (top results average 1000): cut repetition and filler"
+    "body has 1693 words, over the 1150 limit (top results average 1000): cut repetition and filler",
+    "source didn't respond normally (403): https://www.apartmenttherapy.com/locked-out-of-apartment-37112536"
   ],
   "factCheck": {
     "verified": true,

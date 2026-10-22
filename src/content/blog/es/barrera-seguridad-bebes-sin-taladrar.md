@@ -62,14 +62,26 @@ products:
       - No sirve para lo alto de la escalera
     asin: B001OC5UMQ
     image:
-      url: 'https://m.media-amazon.com/images/I/41wn1nlbDfL._SL500_.jpg'
+      url: 'https://m.media-amazon.com/images/I/41yTtREwGQL._SL500_.jpg'
       width: 500
       height: 500
-    gallery: []
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41IaGgwTpvL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/511sKXqAGSL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/4195dKJIomL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/411hgueAEVL._SL500_.jpg'
+        width: 500
+        height: 500
     amazonTitle: >-
       Regalo Safety 29"-38.5" Easy Step Baby Gate, Bottom of Stairs & Doorways |
       Pressure Mounted with Door, For Babies, Toddlers & Pets, White, Tested &
-      Trusted for 30 Years
+      Trusted for 30 Years, Baby Safety Alliance Certified
     scores:
       install: 9
       reversibility: 9

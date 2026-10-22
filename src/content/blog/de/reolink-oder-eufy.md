@@ -3,7 +3,8 @@ title: Reolink oder eufy für Mieter – welche Akku-Kamera passt zur Wohnung?
 seoTitle: Reolink oder eufy (2026) – Akku-Kameras für Mieter
 description: >-
   Reolink oder eufy für Mieter: vier kabellose Kameras im Vergleich zu lokalem
-  Speicher, Kosten, Akku, Datenschutz und Montage ohne Bohren, mit Vermieter-Tipps.
+  Speicher, Kosten, Akku, Datenschutz und Montage ohne Bohren, mit
+  Vermieter-Tipps.
 pubDate: '2026-10-19T23:45:00.000Z'
 lang: de
 translationOf: reolink-vs-eufy
@@ -53,7 +54,8 @@ tldr:
     Vermieters oder wähl einen Platz ohne Schrauben.
   - >-
     Der Akku ist bei beiden Marken die häufigste Beschwerde der Besitzer. Plane
-    vor dem Winter einen sonnigen Platz fürs Solarpanel oder Strom per Kabel ein.
+    vor dem Winter einen sonnigen Platz fürs Solarpanel oder Strom per Kabel
+    ein.
 productCount: 4
 products:
   - name: eufyCam S330 (eufyCam 3)
@@ -75,7 +77,9 @@ products:
       erlaubt. Der Haken: Cloud-Funktionen wie Benachrichtigungen mit
       Vorschaubild schicken Daten in die Cloud von eufy.
     pros:
-      - '4K, 135 Grad Blickwinkel, wetterfest nach IP67, Solarpanel eingebaut (eufy)'
+      - >-
+        4K, 135 Grad Blickwinkel, wetterfest nach IP67, Solarpanel eingebaut
+        (eufy)
       - >-
         Speichert lokal auf der HomeBase 3 (16 GB eingebaut, bis 16 TB mit einer
         2,5-Zoll-Festplatte), ohne monatliche Gebühr (eufy)
@@ -87,11 +91,15 @@ products:
     specs:
       Resolution: 4K (3840x2160)
       Field of view: 135 Grad
-      Power: 'Akku mit integriertem Solarpanel; 13.400-mAh-Akku laut eufy-Support'
+      Power: Akku mit integriertem Solarpanel; 13.400-mAh-Akku laut eufy-Support
       Weather rating: IP67
-      Local storage: 'HomeBase 3, 16 GB eingebaut, erweiterbar auf bis zu 16 TB (2,5-Zoll-SATA-Festplatte)'
+      Local storage: >-
+        HomeBase 3, 16 GB eingebaut, erweiterbar auf bis zu 16 TB
+        (2,5-Zoll-SATA-Festplatte)
       Monthly fee: Keine
-      AI: 'Gesichts-, Personen-, Fahrzeug- und Haustiererkennung auf dem Hub (BionicMind)'
+      AI: >-
+        Gesichts-, Personen-, Fahrzeug- und Haustiererkennung auf dem Hub
+        (BionicMind)
       Drilling: Halterung zum Anschrauben; keine Verkabelung
     scores:
       install: 7
@@ -162,11 +170,15 @@ products:
       Akku ist fest verbaut.
     pros:
       - >-
-        180-Grad-Bild mit zwei Objektiven in 5120x1440 und microSD-Slot bis
-        512 GB (Reolink)
-      - Keine monatliche Gebühr für lokalen Speicher und kein Hub nötig (Reolink)
+        180-Grad-Bild mit zwei Objektiven in 5120x1440 und microSD-Slot bis 512
+        GB (Reolink)
+      - >-
+        Keine monatliche Gebühr für lokalen Speicher und kein Hub nötig
+        (Reolink)
     cons:
-      - Akku nicht austauschbar, und manche Besitzer berichten von kurzer Laufzeit
+      - >-
+        Akku nicht austauschbar, und manche Besitzer berichten von kurzer
+        Laufzeit
       - >-
         Keine Infrarot-Nachtsicht (nur Farb-Nachtsicht mit Spotlights); maximal
         15 fps
@@ -178,8 +190,8 @@ products:
         Laden über USB-C
       Weather rating: IP66
       Local storage: microSD bis 512 GB; keine monatliche Gebühr
-      Wi-Fi: 2,4 und 5 GHz, Wi-Fi 6
-      Weight: 400 g (0,9 lb)
+      Wi-Fi: '2,4 und 5 GHz, Wi-Fi 6'
+      Weight: '400 g (0,9 lb)'
       Smart home: Google Assistant
     scores:
       install: 8
@@ -210,6 +222,27 @@ products:
             https://www.reddit.com/r/reolinkcam/comments/1gs9yqx/any_bad_experiences_with_reolink/
         - title: Reolink Argus 4 Pro review (SafeWise)
           url: 'https://www.safewise.com/au/reolink-argus-4-pro-review/'
+    amazonTitle: >-
+      REOLINK Argus 4 Pro Bundle with Battery Pack-4K Solar Security Cameras
+      Wireless Outdoor, 180° Dual-Lens 8MP Camera for Home Security, ColorX
+      Night Vision, Smart People/Vehicle/Animal Detection, No Sub
+    image:
+      url: 'https://m.media-amazon.com/images/I/31Z2iqTo1SL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41dSfr5HkIL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/515xC9iYYkL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/412MUpf0SfL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41GAuMiVp0L._SL500_.jpg'
+        width: 400
+        height: 500
   - name: Reolink Argus PT Ultra
     brand: Reolink
     query: Reolink Argus PT Ultra 4K solar pan tilt camera
@@ -229,8 +262,8 @@ products:
       USB-B-Kabel der Argus PT passt laut einem Besitzer nicht.
     pros:
       - >-
-        4K mit 8 MP, 355 Grad schwenkbar und 140 Grad neigbar
-        (Vergleichstabelle von Reolink)
+        4K mit 8 MP, 355 Grad schwenkbar und 140 Grad neigbar (Vergleichstabelle
+        von Reolink)
       - 'microSD bis 512 GB, Wi-Fi 6, keine Gebühr für lokalen Speicher'
     cons:
       - >-
@@ -258,8 +291,8 @@ products:
       read: 4
       praise:
         - >-
-          Ein Besitzer bemängelte nur einen nicht einstellbaren Timer in der App,
-          was auf wenig Probleme hindeutet
+          Ein Besitzer bemängelte nur einen nicht einstellbaren Timer in der
+          App, was auf wenig Probleme hindeutet
       complaints:
         - Verzögerte oder unempfindliche Bewegungserkennung
         - WLAN-Verbindungsprobleme bei manchen Geräten
@@ -325,9 +358,9 @@ products:
       Resolution: 2K (2304x1296)
       Field of view: 135 Grad
       Viewing distance: 7 m (25 ft)
-      Power: Eingebauter Akku mit integriertem 0,9-W-Solarpanel
+      Power: 'Eingebauter Akku mit integriertem 0,9-W-Solarpanel'
       Local storage: 8 GB eMMC eingebaut; kompatibel mit HomeBase S380
-      Wi-Fi: nur 2,4 GHz
+      Wi-Fi: 'nur 2,4 GHz'
       Operating temperature: '-20 °C bis 50 °C (-4 °F bis 122 °F)'
       Monthly fee: Keine
       AI: Bewegungs- und Personenerkennung
@@ -384,7 +417,6 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41EwcBbqLwL._SL500_.jpg'
         width: 400
         height: 500
-
 sources:
   - title: eufyCam S330 (eufyCam 3) product page (eufy)
     url: 'https://www.eufy.com/products/t88711w1'
@@ -434,23 +466,21 @@ faqs:
       Ultra speichern auf microSD, die eufyCam S330 auf der HomeBase 3 und die
       SoloCam S220 auf ihren eingebauten 8 GB, alle ohne monatliche Gebühr.
       Cloud-Abos beider Marken sind optionale Extras.
-  - q: Wer hat die bessere Bildqualität, eufy oder Reolink?
+  - q: 'Wer hat die bessere Bildqualität, eufy oder Reolink?'
     a: >-
       Auf dem Papier liegen das 5120x1440-Panorama der Reolink Argus 4 Pro mit
-      zwei Objektiven sowie die 4K-Modelle eufyCam S330 und Argus PT Ultra
-      vorn, die SoloCam S220 mit 2K liegt dahinter. Auch nachts gibt es
-      Unterschiede: Die Argus 4 Pro nutzt Spotlights für Farb-Nachtsicht statt
-      Infrarot.
+      zwei Objektiven sowie die 4K-Modelle eufyCam S330 und Argus PT Ultra vorn,
+      die SoloCam S220 mit 2K liegt dahinter. Auch nachts gibt es Unterschiede:
+      Die Argus 4 Pro nutzt Spotlights für Farb-Nachtsicht statt Infrarot.
   - q: Ist eufy nach dem Cloud-Vorfall mit Vorschaubildern von 2022 sicher?
     a: >-
       Ende 2022 zeigten Forscher, dass eufy-Kameras Vorschaubilder für
       Benachrichtigungen auf einen Cloud-Server hochluden, und eufy sagte Ars
       Technica, es habe Besitzern mit Vorschaubild-Benachrichtigungen das nicht
-      klar gemacht. Anker sagte später The Verge, dass Livestreams im
-      Webportal nicht Ende-zu-Ende-verschlüsselt waren, das sei behoben, und
-      versprach Besserung. Wenn du eufy wählst, speichere lokal, prüfe die
-      Einstellung für Vorschaubilder und richte Kameras nur auf deinen eigenen
-      Bereich.
+      klar gemacht. Anker sagte später The Verge, dass Livestreams im Webportal
+      nicht Ende-zu-Ende-verschlüsselt waren, das sei behoben, und versprach
+      Besserung. Wenn du eufy wählst, speichere lokal, prüfe die Einstellung für
+      Vorschaubilder und richte Kameras nur auf deinen eigenen Bereich.
   - q: Kann ich eine Reolink- oder eufy-Kamera ohne Bohren anbringen?
     a: >-
       Alle vier Modelle hier sind für eine Halterung gebaut. Wirklich ohne
@@ -469,8 +499,8 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/reolink-vs-eufy.png
 heroAlt: >-
-  Reolink oder eufy für Mieter – welche kabellose Kamera passt zur
-  Mietwohnung? – Vergleich von RenterSmartHome
+  Reolink oder eufy für Mieter – welche kabellose Kamera passt zur Mietwohnung?
+  – Vergleich von RenterSmartHome
 ---
 
 Stell dir die Mieterin vor, von der wir am häufigsten hören: eine Wohnung im Erdgeschoss, ein Hauseingang, an dem letzte Woche ein Paket verschwunden ist, und ein Mietvertrag, der Löcher in der Außenwand verbietet. Reolink oder eufy ist genau der Vergleich, bei dem sie landet, denn beide Marken verkaufen kabellose Kameras, die lokal und ohne monatliche Gebühr aufnehmen. **Unsere kurze Antwort: Nimm eine Akku-Kamera von Reolink, wenn deine Clips auf eine microSD-Karte sollen und du keine zusätzliche Box willst, und nimm eufy, wenn du einen Hub mit Gesichtserkennung oder die einfachste kleine Kamera willst. Hol dir in beiden Fällen das schriftliche Okay deines Vermieters, bevor auch nur eine Schraube in die Wand geht.** Wir haben vier aktuelle Modelle anhand der Herstellerangaben und Erfahrungsberichte von Besitzern verglichen. Wir haben sie nicht selbst gekauft oder getestet.

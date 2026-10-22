@@ -3,9 +3,11 @@
   "lang": "es",
   "translationOf": "locked-out-of-apartment",
   "pass": true,
-  "checkedAt": "2026-10-20T04:35:43.230Z",
+  "checkedAt": "2026-10-22T10:16:31.651Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "LIVE POST, FIX: product \"SwitchBot Lock Pro\": translate every owners praise/complaint, no more, no fewer"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",

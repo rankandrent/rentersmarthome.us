@@ -76,7 +76,9 @@ products:
       funciones en la nube como las notificaciones con miniatura envían datos a
       la nube de eufy.
     pros:
-      - '4K, vista de 135 grados, resistente a la intemperie IP67, panel solar integrado (eufy)'
+      - >-
+        4K, vista de 135 grados, resistente a la intemperie IP67, panel solar
+        integrado (eufy)
       - >-
         Graba en local en la HomeBase 3 (16 GB integrados, hasta 16 TB con un
         disco de 2,5 pulgadas) sin cuota mensual (eufy)
@@ -88,11 +90,17 @@ products:
     specs:
       Resolution: 4K (3840x2160)
       Field of view: 135 grados
-      Power: 'Batería con panel solar integrado; batería de 13.400 mAh según el soporte de eufy'
+      Power: >-
+        Batería con panel solar integrado; batería de 13.400 mAh según el
+        soporte de eufy
       Weather rating: IP67
-      Local storage: 'HomeBase 3, 16 GB integrados, ampliable hasta 16 TB (disco SATA de 2,5 pulgadas)'
+      Local storage: >-
+        HomeBase 3, 16 GB integrados, ampliable hasta 16 TB (disco SATA de 2,5
+        pulgadas)
       Monthly fee: Ninguna
-      AI: 'Detección de caras, personas, vehículos y mascotas en la base (BionicMind)'
+      AI: >-
+        Detección de caras, personas, vehículos y mascotas en la base
+        (BionicMind)
       Drilling: Montaje con soporte; sin cableado
     scores:
       install: 7
@@ -150,7 +158,7 @@ products:
     matchName: Reolink Argus 4 Pro
     asin: B0G3T7QY76
     asinVerified: true
-    badge: 'Mejor opción con microSD y sin base'
+    badge: Mejor opción con microSD y sin base
     summary: >-
       Una cámara de batería y solar con dos lentes para una vista de 180 grados
       de clase 4K que graba en su propia tarjeta microSD, sin base y sin cuota
@@ -167,8 +175,7 @@ products:
         512 GB (Reolink)
       - Sin cuota mensual por almacenamiento local y sin base (Reolink)
     cons:
-      - >-
-        La batería no es extraíble y algunos propietarios cuentan que dura poco
+      - La batería no es extraíble y algunos propietarios cuentan que dura poco
       - >-
         Sin visión nocturna por infrarrojos (solo visión nocturna en color con
         focos); máximo 15 fps
@@ -180,8 +187,8 @@ products:
         carga por USB-C
       Weather rating: IP66
       Local storage: microSD de hasta 512 GB; sin cuota mensual
-      Wi-Fi: 2,4 y 5 GHz, Wi-Fi 6
-      Weight: 400 g (0,9 lb)
+      Wi-Fi: '2,4 y 5 GHz, Wi-Fi 6'
+      Weight: '400 g (0,9 lb)'
       Smart home: Google Assistant
     scores:
       install: 8
@@ -196,11 +203,16 @@ products:
       read: 3
       praise:
         - >-
-          El analista de SafeWise (no un hilo de propietarios) quedó impresionado
-          con la amplia vista de 180 grados y calificó el vídeo de nítido
+          El analista de SafeWise (no un hilo de propietarios) quedó
+          impresionado con la amplia vista de 180 grados y calificó el vídeo de
+          nítido
       complaints:
-        - 'Batería de poca duración, en algunos casos con necesidad de conexión USB'
-        - A un propietario de una Argus le falló un conector USB al cabo de meses
+        - >-
+          Batería de poca duración, en algunos casos con necesidad de conexión
+          USB
+        - >-
+          A un propietario de una Argus le falló un conector USB al cabo de
+          meses
       sources:
         - title: Argus 4 Pro - r/reolinkcam
           url: 'https://www.reddit.com/r/reolinkcam/comments/1psegg4/argus_4_pro/'
@@ -212,6 +224,27 @@ products:
             https://www.reddit.com/r/reolinkcam/comments/1gs9yqx/any_bad_experiences_with_reolink/
         - title: Reolink Argus 4 Pro review (SafeWise)
           url: 'https://www.safewise.com/au/reolink-argus-4-pro-review/'
+    amazonTitle: >-
+      REOLINK Argus 4 Pro Bundle with Battery Pack-4K Solar Security Cameras
+      Wireless Outdoor, 180° Dual-Lens 8MP Camera for Home Security, ColorX
+      Night Vision, Smart People/Vehicle/Animal Detection, No Sub
+    image:
+      url: 'https://m.media-amazon.com/images/I/31Z2iqTo1SL._SL500_.jpg'
+      width: 500
+      height: 500
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41dSfr5HkIL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/515xC9iYYkL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/412MUpf0SfL._SL500_.jpg'
+        width: 400
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41GAuMiVp0L._SL500_.jpg'
+        width: 400
+        height: 500
   - name: Reolink Argus PT Ultra
     brand: Reolink
     query: Reolink Argus PT Ultra 4K solar pan tilt camera
@@ -236,8 +269,8 @@ products:
       - 'microSD de hasta 512 GB, Wi-Fi 6, sin cuota por almacenamiento local'
     cons:
       - >-
-        Los propietarios cuentan detección de movimiento con retraso y
-        problemas de wifi en algunas unidades
+        Los propietarios cuentan detección de movimiento con retraso y problemas
+        de wifi en algunas unidades
       - Solo zoom digital; máximo 15 fps
     specs:
       Resolution: 4K 8 MP (3840x2160)
@@ -261,8 +294,8 @@ products:
       read: 4
       praise:
         - >-
-          La única pega de un propietario fue un temporizador de la app que no se
-          puede ajustar, lo que apunta a pocos problemas
+          La única pega de un propietario fue un temporizador de la app que no
+          se puede ajustar, lo que apunta a pocos problemas
       complaints:
         - Detección de movimiento con retraso o poco sensible
         - Problemas de conexión wifi en algunas unidades
@@ -321,19 +354,23 @@ products:
       - >-
         Funciona sola con 8 GB de almacenamiento integrado y sin cuota mensual
         (eufy)
-      - 'Panel solar integrado de 0,9 W y compatibilidad opcional con HomeBase S380'
+      - >-
+        Panel solar integrado de 0,9 W y compatibilidad opcional con HomeBase
+        S380
     cons:
       - >-
         Muchos propietarios cuentan que la batería se agota, en algunos casos
         tras una actualización de la app
-      - 'Solo 2K, zoom digital, solo wifi de 2,4 GHz, sin visión nocturna por infrarrojos'
+      - >-
+        Solo 2K, zoom digital, solo wifi de 2,4 GHz, sin visión nocturna por
+        infrarrojos
     specs:
       Resolution: 2K (2304x1296)
       Field of view: 135 grados
       Viewing distance: 7 m (25 ft)
-      Power: Batería integrada con panel solar de 0,9 W integrado
+      Power: 'Batería integrada con panel solar de 0,9 W integrado'
       Local storage: 8 GB eMMC integrados; compatible con HomeBase S380
-      Wi-Fi: solo 2,4 GHz
+      Wi-Fi: 'solo 2,4 GHz'
       Operating temperature: '-20 °C a 50 °C (-4 °F a 122 °F)'
       Monthly fee: Ninguna
       AI: Detección de movimiento y de personas
@@ -350,9 +387,13 @@ products:
       read: 6
       praise:
         - La carga solar funciona bien para algunos propietarios
-        - La batería aguantó muy bien durante un tiempo en Optimized Surveillance
+        - >-
+          La batería aguantó muy bien durante un tiempo en Optimized
+          Surveillance
       complaints:
-        - 'Descarga repentina de la batería, en algunos casos tras un cambio en la app'
+        - >-
+          Descarga repentina de la batería, en algunos casos tras un cambio en
+          la app
         - En algunas unidades el panel solar dejó de cargar
       sources:
         - title: >-
@@ -390,7 +431,6 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41EwcBbqLwL._SL500_.jpg'
         width: 400
         height: 500
-
 sources:
   - title: eufyCam S330 (eufyCam 3) product page (eufy)
     url: 'https://www.eufy.com/products/t88711w1'
@@ -426,7 +466,7 @@ sources:
       https://cpisecurity.com/blog/how-cold-weather-affects-your-cpi-security-devices/
 reviewedDate: '2026-10-19'
 faqs:
-  - q: ¿Qué es mejor para inquilinos, Reolink o eufy?
+  - q: '¿Qué es mejor para inquilinos, Reolink o eufy?'
     a: >-
       Depende de dónde quieras guardar los clips. La Argus 4 Pro y la Argus PT
       Ultra de Reolink graban en una tarjeta microSD sin base, la eufyCam S330
@@ -439,14 +479,16 @@ faqs:
       guardan en microSD, la eufyCam S330 en la HomeBase 3 y la SoloCam S220 en
       sus 8 GB integrados, todas sin cuota mensual. Los planes en la nube de
       cualquiera de las dos marcas son extras opcionales.
-  - q: ¿Cuál graba mejor, eufy o Reolink?
+  - q: '¿Cuál graba mejor, eufy o Reolink?'
     a: >-
       Sobre el papel van por delante el panorama de 5120x1440 con dos lentes de
       la Reolink Argus 4 Pro y las 4K eufyCam S330 y Argus PT Ultra, y la
       SoloCam S220 de 2K queda detrás. De noche también hay diferencias: la
       Argus 4 Pro usa focos para la visión nocturna en color en lugar de
       infrarrojos.
-  - q: ¿Es segura eufy después de la polémica de las miniaturas en la nube de 2022?
+  - q: >-
+      ¿Es segura eufy después de la polémica de las miniaturas en la nube de
+      2022?
     a: >-
       A finales de 2022 unos investigadores mostraron que las cámaras eufy
       subían miniaturas de las notificaciones a un servidor en la nube, y eufy

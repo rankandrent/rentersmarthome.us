@@ -1,6 +1,6 @@
 ---
-title: 'Philips Hue oder WiZ – welche smarten Lampen lohnen sich für Mieter?'
-seoTitle: 'Philips Hue oder WiZ (2026) – was ist besser für Mieter?'
+title: Philips Hue oder WiZ – welche smarten Lampen lohnen sich für Mieter?
+seoTitle: Philips Hue oder WiZ (2026) – was ist besser für Mieter?
 description: >-
   Philips Hue oder WiZ für die Mietwohnung: WiZ ist einfacher und günstiger,
   ganz ohne Hub. Hue baut mit der Bridge ein größeres, stabileres System auf.
@@ -58,26 +58,26 @@ products:
     pros:
       - Hue Bridge für Fernsteuerung und Zubehör inklusive
       - Zigbee hält die Lampen aus deinem WLAN heraus
-      - Riesige Auswahl an Lampen, Leuchten und Schaltern
+      - 'Riesige Auswahl an Lampen, Leuchten und Schaltern'
     cons:
       - Der Einstieg kostet mehr als bei WiZ
       - Die Bridge braucht einen freien Ethernet-Anschluss am Router
     asin: B0DBM4538Y
     image:
-      url: https://m.media-amazon.com/images/I/31xoXcJlSUL._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/31xoXcJlSUL._SL500_.jpg'
       width: 500
       height: 500
     gallery:
-      - url: https://m.media-amazon.com/images/I/31g25JP0XJS._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/31g25JP0XJS._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/316to6x8QCL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/316to6x8QCL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41D6Y8ZXQiL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41D6Y8ZXQiL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41--NCfKRYL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41--NCfKRYL._SL500_.jpg'
         width: 500
         height: 500
     amazonTitle: >-
@@ -96,7 +96,7 @@ products:
     owners:
       read: 4
       praise:
-        - Zuverlässig, flimmerfrei und läuft gut, sobald alles eingerichtet ist
+        - 'Zuverlässig, flimmerfrei und läuft gut, sobald alles eingerichtet ist'
         - Guter Einstieg in das Hue-System
       complaints:
         - Der Preis für das Set ist hoch
@@ -111,7 +111,7 @@ products:
           url: >-
             https://512pixels.net/2015/10/review-philips-hue-white-and-color-ambiance-starter-kit/
         - title: Walmart kit listing
-          url: https://www.walmart.com/ip/592867400
+          url: 'https://www.walmart.com/ip/592867400'
           reviews: 56
         - title: Galaxus owner ratings
           url: >-
@@ -123,7 +123,7 @@ products:
     summary: >-
       Eine farbige WLAN-Lampe aus Signifys WiZ-Reihe, die keinen Hub braucht und
       in wenigen Minuten in der WiZ-App eingerichtet ist.
-    renterNote: In jede normale Leuchte schrauben; kein Hub, keine Verkabelung.
+    renterNote: 'In jede normale Leuchte schrauben; kein Hub, keine Verkabelung.'
     pros:
       - Kein Hub nötig
       - Günstiger pro Lampe
@@ -133,20 +133,20 @@ products:
       - Kleinere Zubehörauswahl als bei Hue
     asin: B0F645ZQ51
     image:
-      url: https://m.media-amazon.com/images/I/310IK16LQwL._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/310IK16LQwL._SL500_.jpg'
       width: 500
       height: 291
     gallery:
-      - url: https://m.media-amazon.com/images/I/31YR3X9GRFL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/31YR3X9GRFL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41ZyyBiQujL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41ZyyBiQujL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/418YJlK6JrL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/418YJlK6JrL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41s-S8GdrNL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41s-S8GdrNL._SL500_.jpg'
         width: 500
         height: 500
     amazonTitle: >-
@@ -168,7 +168,7 @@ products:
         - Günstig im Vergleich zu Hue
         - Großes Farbspektrum und Weißtöne von warm bis kalt
       complaints:
-        - Nur 2,4-GHz-WLAN, das kann bei der Einrichtung Ärger machen
+        - 'Nur 2,4-GHz-WLAN, das kann bei der Einrichtung Ärger machen'
         - Einige berichten von Verbindungsabbrüchen oder willkürlichem Verhalten
         - App-Unterstützung und Automationen gelten als durchwachsen
       sources:
@@ -179,7 +179,7 @@ products:
           url: >-
             https://www.shopsavvy.com/reviews-tldr/philips-wiz-a19-smart-bulb-2-pack
         - title: r/wiz
-          url: https://redlib.ssps.io/r/wiz
+          url: 'https://redlib.ssps.io/r/wiz'
   - name: Philips Hue Bridge
     brand: Philips Hue
     query: Philips Hue Bridge
@@ -187,35 +187,36 @@ products:
     summary: >-
       Der Zigbee-Hub, der bei Hue die Steuerung von unterwegs, Zubehör und
       Matter-Unterstützung freischaltet.
-    renterNote: Kleine Box, die an deinen Router kommt; sie zieht mit dir um.
+    renterNote: 'Kleine Box, die an deinen Router kommt; sie zieht mit dir um.'
     pros:
       - Steuerung von überall und Automationen
       - Unterstützt Hue-Bewegungsmelder und -Schalter
       - Matter-Unterstützung per Software-Update
     cons:
-      - Zusätzliche Anschaffung, wenn du mit Bluetooth-Lampen startest
+      - 'Zusätzliche Anschaffung, wenn du mit Bluetooth-Lampen startest'
       - Braucht eine Kabelverbindung zum Router
     asin: B016H0QZ7I
     image:
-      url: https://m.media-amazon.com/images/I/31622oLagxL._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/31622oLagxL._SL500_.jpg'
       width: 500
       height: 500
     gallery:
-      - url: https://m.media-amazon.com/images/I/41hEsUqMVsL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41hEsUqMVsL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/51bG+Nb32WL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51bG+Nb32WL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/51TxIb2JQxL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51TxIb2JQxL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/21vKFJOUYpL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/21vKFJOUYpL._SL500_.jpg'
         width: 500
         height: 500
     amazonTitle: >-
-      Philips Hue Bridge Smart Lighting Hub (Compatible with Amazon Alexa, Apple
-      HomeKit and Google Assistant) - White
+      Philips Hue Bridge, Unlock the Full Potential of Hue Bridge System,
+      Multi-Room and Out-of-Home Control, Create Automations and Zones, Smart
+      Lighting Hub, Works with Voice and Matter-Compatible
     scores:
       install: 10
       reversibility: 10
@@ -238,11 +239,11 @@ products:
         - Der Preis wird häufig kritisiert
       sources:
         - title: Smart Home Compared Hue Bridge
-          url: https://smarthomecompared.com/hubs/philips-hue-bridge
+          url: 'https://smarthomecompared.com/hubs/philips-hue-bridge'
         - title: ShopSavvy Hue Bridge summary
-          url: https://shopsavvy.com/reviews-tldr/philips-hue-bridge
+          url: 'https://shopsavvy.com/reviews-tldr/philips-hue-bridge'
         - title: Lowe's Hue Bridge
-          url: https://www.lowes.com/pd/Philips-Philips-Hue-Bridge/5005453051
+          url: 'https://www.lowes.com/pd/Philips-Philips-Hue-Bridge/5005453051'
 sources:
   - title: 'TechRadar: Philips Hue vs WiZ'
     url: >-
@@ -277,7 +278,7 @@ faqs:
       Nicht direkt. Die Marken werden getrennt gehalten, aber über Matter lassen
       sich beide in einer gemeinsamen Smart-Home-App wie Google Home oder Apple
       Home steuern.
-  - q: Was ist besser für Mieter, Hue oder WiZ?
+  - q: 'Was ist besser für Mieter, Hue oder WiZ?'
     a: >-
       Beide sind mieterfreundlich. Nimm WiZ für ein paar Lampen und Hue, wenn du
       die ganze Wohnung beleuchten und das System in spätere Wohnungen mitnehmen

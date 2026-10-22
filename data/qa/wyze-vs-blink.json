@@ -1,11 +1,13 @@
 {
   "slug": "wyze-vs-blink",
   "pass": true,
-  "checkedAt": "2026-10-21T19:59:10.789Z",
+  "checkedAt": "2026-10-22T10:12:55.939Z",
   "errors": [],
   "warnings": [
     "body has 3514 words, over the 1725 limit (top results average 1500): cut repetition and filler",
-    "source didn't respond normally (403): https://support.wyze.com/hc/en-us/articles/23746258989851-Wyze-Cam-v4-Tech-Specs"
+    "source didn't respond normally (403): https://support.wyze.com/hc/en-us/articles/23746258989851-Wyze-Cam-v4-Tech-Specs",
+    "source didn't respond normally (no response): https://support.blinkforhome.com/faq-mini-2k",
+    "source didn't respond normally (no response): https://support.blinkforhome.com/faq-doorbell/blink-video-doorbell-faq"
   ],
   "factCheck": {
     "verified": true,

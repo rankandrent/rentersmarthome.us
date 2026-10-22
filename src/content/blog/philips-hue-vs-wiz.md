@@ -203,8 +203,9 @@ products:
         width: 500
         height: 500
     amazonTitle: >-
-      Philips Hue Bridge Smart Lighting Hub (Compatible with Amazon Alexa, Apple
-      HomeKit and Google Assistant) - White
+      Philips Hue Bridge, Unlock the Full Potential of Hue Bridge System,
+      Multi-Room and Out-of-Home Control, Create Automations and Zones, Smart
+      Lighting Hub, Works with Voice and Matter-Compatible
     scores:
       install: 10
       reversibility: 10
