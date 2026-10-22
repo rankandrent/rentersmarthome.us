@@ -4,7 +4,7 @@
 //   ctr        - many impressions, few clicks for the position: rewrite seoTitle/description only
 //   striking   - average position 8-25 with impressions: strengthen the content for the queries it ranks for
 //   gaps       - queries with impressions whose words the post never uses: answer them in the post
-// Posts improved in the last 14 days (<site-repo>/data/improved.json) and posts younger than 7 days are skipped.
+// Posts improved in the last 14 days (<site-repo>/data/improved.json) and posts younger than 5 days are skipped.
 //   node scripts/gsc-opportunities.mjs <site-repo-dir> <domain> [n]
 //   node scripts/gsc-opportunities.mjs <site-repo-dir> <domain> --mark <slug> "<what changed>"
 import fs from 'node:fs';
@@ -48,7 +48,7 @@ for (const row of pages.rows) {
   const file = slug && path.join(blog, `${slug}.md`);
   if (!file || !fs.existsSync(file) || recent.has(slug)) continue;
   const { data, content } = matter(fs.readFileSync(file, 'utf8'));
-  if (data.draft || Date.now() - Date.parse(data.pubDate) < 7 * 86400000) continue;
+  if (data.draft || Date.now() - Date.parse(data.pubDate) < 5 * 86400000) continue;
   const text = new Set(words(`${data.title} ${data.description} ${content}`));
   const qs = queries.filter((q) => slugOf(q.page) === slug).sort((a, b) => b.impressions - a.impressions);
   const gaps = qs
