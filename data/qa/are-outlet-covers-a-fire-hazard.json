@@ -1,18 +1,12 @@
 {
   "slug": "are-outlet-covers-a-fire-hazard",
   "pass": true,
-  "checkedAt": "2026-10-21T19:55:49.967Z",
+  "checkedAt": "2026-10-22T03:08:18.820Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.esfi.org/childproofing-your-home-tamper-resistant-receptacles/",
-    "source didn't respond normally (403): https://www.esfi.org/tamper-resistant-receptacles-trr-white-paper/",
-    "source didn't respond normally (403): https://www.cpsc.gov/safety-education/safety-guides/kids-and-babies/Childproofing-Your-Home",
-    "source didn't respond normally (403): https://childcareta.acf.hhs.gov/cfoc/basic/chapter/5/5.2.4.2",
-    "source didn't respond normally (403): https://www.reddit.com/r/AskElectricians/comments/1j6k6s7/covering_a_normal_everyday_outlet_with_no_plugs/",
-    "source didn't respond normally (403): https://www.reddit.com/r/BeyondTheBumpUK/comments/1odw3v7/plug_socket_covers_to_use_or_not_to_use/"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
