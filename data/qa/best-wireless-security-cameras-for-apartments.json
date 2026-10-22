@@ -1,11 +1,12 @@
 {
   "slug": "best-wireless-security-cameras-for-apartments",
   "pass": true,
-  "checkedAt": "2026-10-20T20:17:26.471Z",
+  "checkedAt": "2026-10-22T12:27:40.057Z",
   "errors": [],
   "warnings": [
     "body has 3604 words, over the 2645 limit (top results average 2300): cut repetition and filler",
-    "keyword overlaps /blog/best-indoor-security-camera-for-renters-no-drilling/ (\"security cameras for apartments\" overlaps \"best indoor security camera for renters\" (100%))"
+    "keyword overlaps /blog/best-indoor-security-camera-for-renters-no-drilling/ (\"security cameras for apartments\" overlaps \"best indoor security camera for renters\" (100%))",
+    "source didn't respond normally (no response): https://homekitnews.com/2021/07/10/aqara-g3-camera-hub-review/"
   ],
   "factCheck": {
     "verified": true,

@@ -3,9 +3,10 @@
   "lang": "de",
   "translationOf": "best-peephole-camera-for-apartments",
   "pass": true,
-  "checkedAt": "2026-10-21T10:20:19.923Z",
+  "checkedAt": "2026-10-22T12:29:48.734Z",
   "errors": [],
   "warnings": [
+    "LIVE POST, FIX: sources must be the English post's URLs (added: none; missing: https://ring.com/products/peephole-cam-2k, https://the-gadgeteer.com/2026/08/06/ring-peephole-cam-2k/, https://forums.wyze.com/t/peephole-door-view-camera/41884)",
     "not localized yet: run localizer-agent for best-peephole-camera-for-apartments (data/briefs/de/best-peephole-camera-for-apartments.local.json), then rewrite with translator-agent",
     "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
