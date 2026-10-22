@@ -19,12 +19,16 @@ const [startDate, endDate] = [day(30), day(3)];
 
 let failed = 0;
 for (const domain of domains) {
-  const site = `sc-domain:${domain}`;
-  const res = await fetch(`https://www.googleapis.com/webmasters/v3/sites/${encodeURIComponent(site)}/searchAnalytics/query`, {
-    method: 'POST',
-    headers: { Authorization: `Bearer ${token}`, 'Content-Type': 'application/json' },
-    body: JSON.stringify({ startDate, endDate, dimensions: ['page'], rowLimit: 5000, dataState: 'final' }),
-  });
+  // Domain property first, then the URL-prefix properties (rentersmarthome.us is https://rentersmarthome.us/).
+  let res;
+  for (const site of [`sc-domain:${domain}`, `https://${domain}/`, `https://www.${domain}/`]) {
+    res = await fetch(`https://www.googleapis.com/webmasters/v3/sites/${encodeURIComponent(site)}/searchAnalytics/query`, {
+      method: 'POST',
+      headers: { Authorization: `Bearer ${token}`, 'Content-Type': 'application/json' },
+      body: JSON.stringify({ startDate, endDate, dimensions: ['page'], rowLimit: 5000, dataState: 'final' }),
+    });
+    if (res.status !== 403) break;
+  }
   if (!res.ok) {
     failed++;
     console.log(`${domain}: HTTP ${res.status} ${(await res.text()).slice(0, 300)}`);
