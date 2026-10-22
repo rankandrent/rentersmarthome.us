@@ -1,0 +1,39 @@
+{
+ "domain": "best-safe.com",
+ "startDate": "2026-09-22",
+ "endDate": "2026-10-19",
+ "rows": [
+  {
+   "page": "https://best-safe.com/blog/best-fireproof-document-safe/",
+   "query": "ul rated fire storage",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 7
+  },
+  {
+   "page": "https://best-safe.com/blog/best-fireproof-safe/",
+   "query": "best fireproof safe",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 53.7
+  },
+  {
+   "page": "https://best-safe.com/blog/best-fireproof-safe/",
+   "query": "best fireproof safe for home",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 56
+  },
+  {
+   "page": "https://best-safe.com/blog/best-fireproof-safe/",
+   "query": "ul rated fireproof safe",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 43
+  }
+ ]
+}
