@@ -220,7 +220,7 @@ Landlord bans on doorbell cameras come up again and again in r/Apartmentliving a
 
 ### No-drill mounting and keeping the host in your unit
 
-Drilling is the other wall, often literally. A recurring point in r/Ring threads is buildings that ban exterior drilling; one renter chose a no-drill setup because "they don't allow drilling to the exterior." Our [no-drill ways to put a Ring doorbell on an apartment door](/blog/ring-doorbell-in-apartment/) cover the Peephole Cam and adhesive mounts. Keep the bridge host inside your unit on your own router, not on building Wi-Fi.
+Drilling is the other wall, often literally. A recurring point in r/Ring threads is buildings that ban exterior drilling; one renter chose a no-drill setup because "they don't allow drilling to the exterior." Our [no-drill ways to put a Ring doorbell on an apartment door](/blog/ring-doorbell-in-apartment/) cover adhesive mounts, and our [peephole camera for apartments guide](/blog/best-peephole-camera-for-apartments/) covers the Peephole Cam. Keep the bridge host inside your unit on your own router, not on building Wi-Fi.
 
 ### The hidden upkeep of a bridge
 

@@ -1,15 +1,216 @@
 {
   "serpTitles": [
-    {"position":1,"url":"https://www.amazon.com/front-door-peephole-camera/s?k=front+door+peephole+camera","title":"Front Door Peephole Camera - Amazon.com"},
-    {"position":2,"url":"https://ring.com/products/peephole-cam-2k?srsltid=AU7gw4Xt7MM_Z1YSiZbVl-UDryl9WAt9-nt0vw05TnuhCrs-mfMaO-sg","title":"Peephole Cam 2K – Doorbell Camera - Ring"},
-    {"position":3,"url":"https://theconnectedshop.com/products/smart-door-peephole-camera?srsltid=AU7gw4VQeWFpJl_yfznJh8js2c4lKn00guUeixui5scvC9WIKMhtQxer","title":"Smart Door Peephole Camera - The Connected Shop"},
-    {"position":4,"url":"https://www.reddit.com/r/homeautomation/comments/1ch6yne/is_there_any_peephole_camera_that_can_be_placed/","title":"Is there any peephole camera that can be placed in the inner side ... - Reddit"},
-    {"position":5,"url":"https://www.walmart.com/c/kp/door-peephole-wireless-cameras","title":"Door Peephole Wireless Cameras for Security - Walmart"},
-    {"position":6,"url":"https://www.safewise.com/home-security-systems/cameras/best-peephole/","title":"Best Peephole Cameras in 2026 - SafeWise"},
-    {"position":7,"url":"https://www.amazon.com/live/video/075581ccbac14727a295d76a7514ff53","title":"Watch Ring Peephole Cam - Watch Before You Buy on Amazon Live"},
-    {"position":8,"url":"https://brinno.com/pages/brinno-shc1000w-motion-plus-peephole-doorcam?srsltid=AU7gw4WxWZILCu9dpdFew4pF8pm0zXtI_aRowCIP6we_7C0_llKIoB2A","title":"SHC1000W Motion Plus Peephole DoorCam - Brinno"},
-    {"position":9,"url":"https://www.youtube.com/watch?v=i7BN1wokNrc","title":"TOP 5 Best Peephole Door Camera 2026 - YouTube"},
-    {"position":10,"url":"https://www.ebay.com/b/Wireless-Peephole-Camera-In-Home-Surveillance-Security-Cameras/48638/bn_7022139575","title":"Wireless Peephole Camera In Home Surveillance Security Cameras - eBay"}
+    {
+      "position": 1,
+      "url": "https://www.amazon.com/front-door-peephole-camera/s?k=front+door+peephole+camera",
+      "title": "Front Door Peephole Camera - Amazon.com"
+    },
+    {
+      "position": 2,
+      "url": "https://ring.com/products/peephole-cam-2k?srsltid=AU7gw4Xt7MM_Z1YSiZbVl-UDryl9WAt9-nt0vw05TnuhCrs-mfMaO-sg",
+      "title": "Peephole Cam 2K – Doorbell Camera - Ring"
+    },
+    {
+      "position": 3,
+      "url": "https://theconnectedshop.com/products/smart-door-peephole-camera?srsltid=AU7gw4VQeWFpJl_yfznJh8js2c4lKn00guUeixui5scvC9WIKMhtQxer",
+      "title": "Smart Door Peephole Camera - The Connected Shop"
+    },
+    {
+      "position": 4,
+      "url": "https://www.reddit.com/r/homeautomation/comments/1ch6yne/is_there_any_peephole_camera_that_can_be_placed/",
+      "title": "Is there any peephole camera that can be placed in the inner side ... - Reddit"
+    },
+    {
+      "position": 5,
+      "url": "https://www.walmart.com/c/kp/door-peephole-wireless-cameras",
+      "title": "Door Peephole Wireless Cameras for Security - Walmart"
+    },
+    {
+      "position": 6,
+      "url": "https://www.safewise.com/home-security-systems/cameras/best-peephole/",
+      "title": "Best Peephole Cameras in 2026 - SafeWise"
+    },
+    {
+      "position": 7,
+      "url": "https://www.amazon.com/live/video/075581ccbac14727a295d76a7514ff53",
+      "title": "Watch Ring Peephole Cam - Watch Before You Buy on Amazon Live"
+    },
+    {
+      "position": 8,
+      "url": "https://brinno.com/pages/brinno-shc1000w-motion-plus-peephole-doorcam?srsltid=AU7gw4WxWZILCu9dpdFew4pF8pm0zXtI_aRowCIP6we_7C0_llKIoB2A",
+      "title": "SHC1000W Motion Plus Peephole DoorCam - Brinno"
+    },
+    {
+      "position": 9,
+      "url": "https://www.youtube.com/watch?v=i7BN1wokNrc",
+      "title": "TOP 5 Best Peephole Door Camera 2026 - YouTube"
+    },
+    {
+      "position": 10,
+      "url": "https://www.ebay.com/b/Wireless-Peephole-Camera-In-Home-Surveillance-Security-Cameras/48638/bn_7022139575",
+      "title": "Wireless Peephole Camera In Home Surveillance Security Cameras - eBay"
+    }
   ],
-  "titlePattern": {"keywordAtStart":0,"withYear":2,"withNumber":1,"commonModifiers":["front door","for apartments","wireless","doorbell camera"],"gap":"Hallway privacy rules for apartment door cameras and a no-drill install that replaces the existing peephole"}
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 2,
+    "withNumber": 1,
+    "commonModifiers": [
+      "front door",
+      "for apartments",
+      "wireless",
+      "doorbell camera"
+    ],
+    "gap": "Hallway privacy rules for apartment door cameras and a no-drill install that replaces the existing peephole"
+  },
+  "centralEntity": "peephole camera",
+  "entityVariants": [
+    "peephole camera for apartment",
+    "door viewer camera",
+    "peephole cam",
+    "peephole camera for apartment door",
+    "no drill peephole camera",
+    "apartment door camera"
+  ],
+  "entities": [
+    {
+      "name": "peephole camera",
+      "type": "product category",
+      "relation": "camera that replaces the apartment door viewer"
+    },
+    {
+      "name": "door viewer",
+      "type": "hardware",
+      "relation": "the existing peephole the camera replaces"
+    },
+    {
+      "name": "Ring Peephole Cam",
+      "type": "product",
+      "relation": "best-known peephole camera; 2K model for apartments and condos"
+    },
+    {
+      "name": "video doorbell",
+      "type": "product category",
+      "relation": "alternative mounted outside the door"
+    },
+    {
+      "name": "Ring Battery Doorbell",
+      "type": "product",
+      "relation": "battery doorbell alternative on a no-drill mount"
+    },
+    {
+      "name": "Blink Mini 2",
+      "type": "product",
+      "relation": "indoor camera facing the inside of the door"
+    },
+    {
+      "name": "Wyze Cam v4",
+      "type": "product",
+      "relation": "indoor microSD camera; Wyze sells no peephole camera"
+    },
+    {
+      "name": "Echo Show",
+      "type": "product",
+      "relation": "Ring's suggested way to see visitors without a phone"
+    },
+    {
+      "name": "motion detection",
+      "type": "feature",
+      "relation": "sends alerts when someone approaches the door"
+    },
+    {
+      "name": "two-way talk",
+      "type": "feature",
+      "relation": "speak to visitors from the app"
+    },
+    {
+      "name": "Ring Home",
+      "type": "subscription",
+      "relation": "needed to save and review recorded video"
+    },
+    {
+      "name": "door thickness",
+      "type": "attribute",
+      "relation": "must fit the camera's supported range"
+    }
+  ],
+  "ngrams": [
+    "peephole camera",
+    "door viewer",
+    "existing peephole",
+    "no drilling",
+    "head-to-toe view",
+    "motion alerts",
+    "two-way talk",
+    "door thickness",
+    "video doorbell",
+    "move-out",
+    "privacy masking",
+    "indoor camera"
+  ],
+  "nlpTerms": [
+    "apartment",
+    "renters",
+    "landlord",
+    "lease",
+    "hallway",
+    "battery",
+    "Wi-Fi",
+    "subscription",
+    "microSD",
+    "adhesive",
+    "packages",
+    "neighbors",
+    "privacy",
+    "night vision",
+    "install",
+    "doorway",
+    "alerts",
+    "couriers"
+  ],
+  "skipgrams": [
+    "peephole…hole",
+    "battery…recharg",
+    "hallway…neighbors",
+    "door…thickness",
+    "subscription…video",
+    "landlord…doorbell"
+  ],
+  "targetWords": 1400,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.safewise.com/home-security-systems/cameras/best-peephole/",
+      "https://thesmartcave.com/best-peephole-camera/",
+      "https://ring.com/products/peephole-cam-2k",
+      "https://www.reddit.com/r/homeassistant/comments/13o40d8/apartment_peephole_camera_recommendations/",
+      "https://forums.wyze.com/t/peephole-camera-for-apartments/182740"
+    ],
+    "avgWords": 1500,
+    "productStyle": "pros-cons",
+    "note": "2026-10-22 SERP check (US). Editorial results: SafeWise ~1,550 words, The Smart Cave ~2,500; product, Reddit and forum pages are short."
+  },
+  "commonPoints": [
+    "A peephole camera replaces the existing door viewer with no drilling",
+    "Ring's Peephole Cam is the default pick; Brinno, Remo+ DoorCam and LCD digital viewers are alternatives",
+    "Buying criteria: video, battery, Wi-Fi, two-way audio, motion detection, night vision"
+  ],
+  "ourGain": [
+    "Ring Peephole Cam 2K removes the optical peephole (Ring product page; The Gadgeteer)",
+    "Exact fit range: doors 1.28-2.36 in, peepholes 12-14 mm (Ring)",
+    "Wyze sells no peephole camera; the request has been 'Maybe Later' on the Wyze forum wishlist since 2019",
+    "Renter install, move-out and hallway privacy steps"
+  ],
+  "gscImprove": {
+    "date": "2026-10-22",
+    "window": "28 days to 2026-10-19",
+    "position": 24.6,
+    "impressions": 81,
+    "queries": [
+      "wyze peephole camera",
+      "no drill peephole camera",
+      "peephole camera for apartment",
+      "door peephole camera for apartment",
+      "best peephole security camera"
+    ]
+  }
 }

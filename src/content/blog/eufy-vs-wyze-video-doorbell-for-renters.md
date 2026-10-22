@@ -370,7 +370,7 @@ If you do use screws, protect your security deposit:
 1. Photograph the frame and save your landlord's written OK.
 2. At move-out, fill the holes with wood filler, sand and touch up the paint.
 
-Our [no-drill doorbell mounting guide for apartments](/blog/ring-doorbell-in-apartment/) covers more options.
+Our [no-drill doorbell mounting guide for apartments](/blog/ring-doorbell-in-apartment/) covers more options, and if your door has a viewer, see our [no-drill peephole camera picks](/blog/best-peephole-camera-for-apartments/).
 
 ## Eufy vs Wyze storage and subscriptions on battery
 

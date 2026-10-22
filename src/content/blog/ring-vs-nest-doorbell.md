@@ -456,7 +456,7 @@ Each doorbell runs on battery alone, and either can be wired to an 8-24 VAC door
 
 ### Ring No-Drill Mount vs Nest two-screw plate
 
-Ring sells a separate No-Drill Mount for compatible doorbells; check your model is listed before you buy. Nest mounts on a plate with two screws, and a wedge and spacers come in the box. Neither maker's spec page we read lists a no-drill option for Nest, so a no-screws lease points to Ring. Our [no-drill Ring doorbell guide for apartments](/blog/ring-doorbell-in-apartment/) walks through the options, including peephole cameras.
+Ring sells a separate No-Drill Mount for compatible doorbells; check your model is listed before you buy. Nest mounts on a plate with two screws, and a wedge and spacers come in the box. Neither maker's spec page we read lists a no-drill option for Nest, so a no-screws lease points to Ring. Our [no-drill Ring doorbell guide for apartments](/blog/ring-doorbell-in-apartment/) walks through the options, including [peephole cameras for apartment doors](/blog/best-peephole-camera-for-apartments/).
 
 ### Restoring the door frame on move-out
 

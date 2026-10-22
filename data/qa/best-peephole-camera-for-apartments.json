@@ -1,15 +1,13 @@
 {
   "slug": "best-peephole-camera-for-apartments",
   "pass": true,
-  "checkedAt": "2026-10-21T10:17:02.049Z",
+  "checkedAt": "2026-10-22T12:21:26.909Z",
   "errors": [],
-  "warnings": [
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
-    "no semantic brief (data/briefs), SEO audit skipped"
-  ],
+  "warnings": [],
   "factCheck": {
     "verified": true,
-    "notes": "2026-10-14: Ring Peephole Cam knock detection, rechargeable Quick Release battery, original replaced by Peephole Cam 2K (Ring support, security.org); battery wording softened; Ring Battery Doorbell removable-battery claim removed; Wyze Cam v4 microSD up to 256GB and magnetic base, Cam Plus for AI detection (wyze.com); Blink Mini 2 local storage via Sync Module 2 + USB (Blink support). Blink Mini 2K+ listing cleared for re-match.",
-    "at": "2026-10-14T13:15:27.710Z"
+    "notes": "2026-10-22 GSC improve: corrected Ring Peephole Cam 2K claims per ring.com/products/peephole-cam-2k (replaces optical peephole so physical viewing is lost; knock detection not listed for 2K, removed; 2K video, 140x140 head-to-toe view, motion alerts, live view/two-way talk/alerts free without plan, Quick Release Battery Pack, 2.4 GHz Wi-Fi only, Echo Show to view without phone, door 32.5-60 mm / 1.28-2.36 in, peephole 12-14 mm / 0.47-0.55 in); older model kept a physical peephole with privacy cover (the-gadgeteer.com 2026-08-06); Wyze sells no peephole camera, 'Peephole (Door View) Camera' wishlist topic tagged Maybe Later since Jul 2019 (forums.wyze.com/t/41884). Other product claims unchanged from 2026-10-14 check.",
+    "at": "2026-10-22T12:21:26.345Z",
+    "hash": "e9730854d739f1f6"
   }
 }
