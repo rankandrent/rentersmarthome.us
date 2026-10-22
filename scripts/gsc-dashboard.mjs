@@ -41,7 +41,8 @@ for (const domain of domains) {
   const today = iso(new Date());
   const daily = (await query(site, { startDate: shift(today, -92), endDate: today, dimensions: ['date'], rowLimit: 200 }))
     .map((r) => ({ date: r.keys[0], clicks: r.clicks, impressions: r.impressions, ctr: r.ctr, position: r.position }));
-  const last = daily.at(-1)?.date ?? shift(today, -3);
+  // The newest complete day (today's row is partial), so "last 24 hours" compares two whole days.
+  const last = daily.filter((d) => d.date < today).at(-1)?.date ?? shift(today, -3);
   const windows = {
     d1: [last, last], d1prev: [shift(last, -1), shift(last, -1)],
     d7: [shift(last, -6), last], d7prev: [shift(last, -13), shift(last, -7)],
