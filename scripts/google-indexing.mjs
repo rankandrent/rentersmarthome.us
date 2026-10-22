@@ -2,11 +2,13 @@
 // Search Console "Request indexing" button, and its Indexing API is only allowed for job-posting and
 // livestream pages, so this uses the allowed routes:
 //   --submit   resubmit the sitemap in Search Console + WebSub ping for the RSS feed (after every deploy)
-//   --check    URL Inspection API for every blog URL in the sitemap: writes data/index/<domain>.json and
-//              prints the pages Google has not indexed yet, with a Search Console link to request indexing
+//   --check    URL Inspection API, only for the posts the owner names (owner rule 2026-10-22: never the whole
+//              site): TARGETS = comma-separated keywords, slugs or URLs, matched against the sitemap's blog
+//              URLs. Writes data/index/<domain>.json and prints each page's status with a Search Console
+//              link to press "Request indexing".
 // Needs GSC_SERVICE_ACCOUNT_JSON (service account with Full access to each property).
 //   node scripts/google-indexing.mjs --submit best-tripod.com
-//   node scripts/google-indexing.mjs --check rentersmarthome.us best-tripod.com best-safe.com
+//   TARGETS="best travel safe, https://best-tripod.com/blog/ball-head-tripod/" node scripts/google-indexing.mjs --check best-safe.com best-tripod.com
 import fs from 'node:fs';
 import path from 'node:path';
 import { DATA_DIR } from '../agents/lib/config.mjs';
@@ -52,7 +54,12 @@ async function submit(domain) {
 
 async function check(domain) {
   const site = await propertyFor(domain);
-  const urls = await sitemapUrls(domain);
+  const targets = String(process.env.TARGETS ?? '').split(',').map((s) => s.trim().toLowerCase()).filter(Boolean);
+  if (!targets.length) return console.log(`${domain}: no TARGETS given; nothing checked (the whole site is never checked).`);
+  const slugOf = (u) => new URL(u).pathname.split('/').filter(Boolean).at(-1);
+  const urls = (await sitemapUrls(domain)).filter((u) => targets.some((t) =>
+    t.startsWith('http') ? u === t || u === `${t.replace(/\/$/, '')}/` : slugOf(u) === t.replace(/\s+/g, '-') || slugOf(u) === t));
+  if (!urls.length) return console.log(`${domain}: none of the targets match a blog URL`);
   const results = [];
   for (const url of urls) {
     const res = await fetch('https://searchconsole.googleapis.com/v1/urlInspection/index:inspect', {
@@ -71,11 +78,9 @@ async function check(domain) {
   const dir = path.join(DATA_DIR, 'index');
   fs.mkdirSync(dir, { recursive: true });
   fs.writeFileSync(path.join(dir, `${domain}.json`), JSON.stringify({ domain, site, checkedAt: new Date().toISOString(), results }, null, 1) + '\n');
-  const notIndexed = results.filter((r) => r.verdict !== 'PASS');
-  console.log(`${domain}: ${results.length - notIndexed.length}/${results.length} blog URLs indexed`);
-  for (const r of notIndexed) {
+  for (const r of results) {
     const link = `https://search.google.com/search-console/inspect?resource_id=${encodeURIComponent(site)}&id=${encodeURIComponent(r.url)}`;
-    console.log(`  NOT INDEXED  ${r.url}  [${r.coverage ?? r.error}]  ${link}`);
+    console.log(`  ${r.verdict === 'PASS' ? 'INDEXED    ' : 'NOT INDEXED'}  ${r.url}  [${r.coverage ?? r.error}]  last crawl ${r.lastCrawl ?? 'never'}  ${r.verdict === 'PASS' ? '' : link}`);
   }
 }
 

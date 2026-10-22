@@ -1,12 +1,14 @@
 name: Google index check
 
-# Daily: URL Inspection API for every blog URL of the three sites (data/index/<domain>.json) plus a
-# sitemap resubmit and WebSub ping. The run summary lists pages Google has not indexed yet, each with
-# a Search Console link to press "Request indexing" (Google has no API for that button).
+# On request only (owner rule 2026-10-22: check only the posts the owner names, never the whole site):
+# URL Inspection API for the given keywords/slugs/URLs plus a sitemap resubmit and WebSub ping. The run
+# summary shows each page's status with a Search Console link to press "Request indexing".
 on:
-  schedule:
-    - cron: '37 7 * * *'
   workflow_dispatch:
+    inputs:
+      targets:
+        description: 'Keywords, slugs or URLs to check, comma separated'
+        required: true
 
 permissions:
   contents: write
@@ -31,10 +33,11 @@ jobs:
       - name: Inspect URLs
         env:
           GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
+          TARGETS: ${{ inputs.targets }}
         run: node scripts/google-indexing.mjs --check rentersmarthome.us best-tripod.com best-safe.com | tee check.log
       - name: Summary
         run: |
-          { echo '### Pages Google has not indexed yet'; echo '```'; grep -E "indexed|NOT INDEXED" check.log || true; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+          { echo '### Index status'; echo '```'; cat check.log || true; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
       - name: Commit and push
         run: |
           if [ -z "$(git status --porcelain data/index)" ]; then echo "No changes."; exit 0; fi
