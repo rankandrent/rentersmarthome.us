@@ -37,7 +37,7 @@ articleType: how-to
 funnel: tofu
 productStyle: paragraph
 productCount: 5
-readingTime: 11
+readingTime: 7
 tldr:
   - >-
     Locked out of your apartment? Check other doors safely, call anyone with a
@@ -166,8 +166,7 @@ products:
         Keypad and the hub for remote unlock are not included in the lock-only
         listing
       - >-
-        Door fit varies; reviewers hit alignment and magnet-sensor problems on
-        some doors
+        Door fit varies; reviewers hit alignment problems on some doors
     scores:
       install: 7
       reversibility: 8
@@ -192,9 +191,6 @@ products:
         - >-
           Low-battery alerts were overwhelming until the app settings were
           changed (Techlicious)
-        - >-
-          The included magnet sensor can be hard to place on some doors
-          (NotEnoughTech)
       sources:
         - title: Techlicious SwitchBot Lock Pro review
           url: 'https://techlicious.com/review/switchbot-lock-pro-review'
@@ -317,7 +313,7 @@ products:
     cons:
       - >-
         Not a safe: a verified buyer reported a burglar breaching one, and
-        another reviewer says it only deters theft
+        Master Lock itself describes it as theft deterrence
       - >-
         A few owners report mechanism problems, such as a unit that would not
         open or accepted a wrong code
@@ -340,10 +336,10 @@ products:
       complaints:
         - >-
           Security is limited: one reviewer reports a burglar smashing one open,
-          another calls it a deterrent only
+          Master Lock itself frames its boxes as theft deterrence
         - >-
           Some reviewers report stuck mechanisms or a code that opened with
-          digits wrong
+          two digits wrong
         - 'Interior space is smaller than it looks, so oversized keys may not fit'
       sources:
         - title: 'Home Depot customer reviews, Master Lock 5400DHC'
@@ -462,7 +458,12 @@ sources:
   - title: Best lock for a rental property (Landlord Studio)
     url: >-
       https://www.landlordstudio.com/blog/whats-the-best-lock-for-a-rental-property
-reviewedDate: '2026-10-19'
+  - title: Be wary of scammers posing as locksmith technicians (Connecticut Department of Consumer Protection)
+    url: >-
+      https://portal.ct.gov/dcp/news-releases-from-the-department-of-consumer-protection/2026-news-releases/be-wary-of-scammers-posing-as-locksmith-technicians
+  - title: Here's What To Do If You Get Locked Out of Your Apartment (Apartment Therapy)
+    url: 'https://www.apartmenttherapy.com/locked-out-of-apartment-37112536'
+reviewedDate: '2026-10-22'
 faqs:
   - q: What should I do first if I am locked out of my apartment?
     a: >-
@@ -506,179 +507,80 @@ heroAlt: >-
   RenterSmartHome how-to
 related:
   - best-apartment-intercom-buzzer-alternative
+updatedDate: '2026-10-22T10:03:00.000Z'
 ---
 
-Being locked out of your apartment usually starts the same way: the door clicks shut behind you, your hand goes to an empty pocket, and the hallway suddenly feels very quiet. One renter on r/legaladvice described a worse version, locked out at 2 a.m. when a building smart lock failed, then billed for the locksmith and a drilled lock. We wrote this guide for both moments. First you get seven steps in the order that gets you back inside fastest and cheapest. Then we cover smart-lock lockouts, lockout fees, and the no-drill gear that stops the next one.
+Locked out of your apartment? Check any door you can reach from the ground, call whoever holds a spare key, then your property manager or the after-hours emergency maintenance line, and call a licensed locksmith only if all of that fails. Most lockouts end at step 2 or 3.
 
 ## What to do right now if you are locked out of your apartment
 
-**If you are locked out of your apartment, work through these seven steps in order: the free, fast options come first, and the paid locksmith comes last.** Most lockouts end at step 2 or 3.
+1. **Check other doors safely.** Try a ground-level patio or back door. Don't force anything.
+2. **Call anyone with a spare key.** A roommate, partner, pet sitter or nearby friend.
+3. **Call your property manager or leasing office.** The building usually holds a master key; expect an ID check and possibly a fee.
+4. **After hours, call the emergency maintenance line.** It is on your lease, the office door or the resident portal.
+5. **Smart lock? Use its backup.** Physical key, keypad code, a housemate's remote unlock, or 9V terminals if your keypad has them.
+6. **Call a licensed locksmith as a last resort.** Get a written quote; have ID and proof of residency ready.
+7. **Put it in writing once you're in.** Tell your landlord what happened and ask about any lockout fee; check your lease, since rules vary by state and city.
 
-Here is the order we recommend, start to finish:
+**Skip the fire escape and the window.** Climbing turns a cheap lockout into an injury, a neighbor may call the police, and a damaged screen can come out of your deposit. We don't cover getting past the lock yourself; your landlord owns that hardware.
 
-1. **Stop and check other doors safely.** Try a patio door or back entrance you can reach from the ground. Don't force anything.
-2. **Call anyone with a spare key.** A roommate, partner, pet sitter or trusted friend nearby is the fastest way in.
-3. **Call your property manager or leasing office.** During business hours, staff can often let you in with the master key after an ID check.
-4. **After hours, call the emergency maintenance line.** It is usually on your lease, the office door or the resident portal.
-5. **Smart lock? Use its backup.** Try your physical key, a keypad code, remote unlock from a housemate's app, or the 9V battery terminals if your keypad lock has them.
-6. **Call a licensed locksmith as the last resort.** Get a full quote on the phone and have ID and proof of residency ready.
-7. **Put it in writing once you're in.** Text or email your landlord what happened, ask about any lockout fee, and set up a spare so it doesn't happen again.
+### After midnight, without a phone, or in a doorman building
 
-### Stay calm and check doors and windows safely
+Apartment Therapy's lockout guide says a doorman can usually fetch the building's spare key, and with no phone you can wait in the lobby or ask a friendly neighbor to lend theirs; it warns locksmiths cost more at night. That only helps if you know the emergency line or a friend's number, so write both down today. After midnight the emergency line still comes before a locksmith, but some buildings don't treat a lockout as an emergency, so ask now.
 
-A lockout feels urgent, but you rarely need to rush. Check whether you left an unlocked window or a sliding door open only if you can reach it from the ground without climbing. If you share a building with a doorman, a front desk or a super, ask them before you call anyone else.
+## Calling a locksmith without getting scammed
 
-### Why climbing a fire escape is not worth it
+The [Connecticut Department of Consumer Protection warns about scammers posing as locksmith technicians](https://portal.ct.gov/dcp/news-releases-from-the-department-of-consumer-protection/2026-news-releases/be-wary-of-scammers-posing-as-locksmith-technicians): a low price quoted by phone that rises when the "locksmith" arrives, search-ad businesses with out-of-state phone numbers or addresses that don't match, and paid fake Google reviews. Before giving your address:
 
-**A fire escape / ground-floor window entry is the move we always tell readers to skip.** Climbing is how a cheap lockout turns into an injury. A neighbor may also reasonably call the police on someone going through a window. Damaged screens or frames can come out of your security deposit. We also don't cover ways to get past the lock yourself: they can wreck the lock, and your landlord owns that hardware.
+- Check the business name, and confirm the street address and a local phone number.
+- Get the full price upfront, service and travel included, then a written quote before work starts.
+- If your state licenses locksmiths, ask for the technician's own license or registration number; Connecticut says to verify the individual.
+- Ask whether they try non-destructive entry before drilling.
 
-## Call your property manager or landlord first
+Expect them to ask for ID and proof you live there; keep photos of both in cloud storage.
 
-**Your property manager is the cheapest way back in, because the building usually holds a master key.** A master key is the building-held key management uses for repairs and emergencies. Expect an ID check, since staff need proof you live there before they open a door.
+## Locked out of your apartment by a smart lock
 
-Call the property manager (leasing office) number first, not email. If the call goes to voicemail, leave your name, unit number and a callback number, then text if the office offers it.
+**Dead batteries** are a recurring complaint in r/ApartmentMaintenance, r/legaladvice and r/Locksmith threads. One maintenance worker wrote: "When the batteries die, the occupant is locked out until a maintenance technician comes." Swap at the first low-battery alert, check your manual for 9V terminals under the keypad, or pick a retrofit lock that keeps the key.
 
-### Locked out after hours
+**App or Wi-Fi drops** are common in smart-lock help guides; one maker's fix is "Restart your router, wait 60 seconds, then check if the lock reconnects automatically." Useless from the hallway, so keep a key or code too.
 
-An after-hours lockout is what the emergency maintenance line is for. Some buildings treat a lockout as an emergency and some don't, so ask now, while you're not standing in the hall. Save the after-hours number in your phone today, and put a copy in a note a family member can read.
+**A landlord-installed lock with no physical key** keeps coming up in r/NYCapartments, r/jerseycity and r/legaladvice. One tenant cited "New York Local Law 63 which seems to prohibit landlords from requiring tenants to use smart access systems to enter their apartment." We're not lawyers: check your local rules, then ask in writing for a key or backup plan and a 24-hour number.
 
-### Roommate, partner or pet sitter with a key
+### Who pays when the lock is drilled?
 
-A spare key with someone who lives close is the single best lockout fix. Pick a trusted friend within a short drive or a neighbor you trust. A roommate already has a key, so a text often ends the lockout in minutes.
+Bills after a failed smart lock are a recurring fight in r/chicago and r/legaladvice; one renter locked out at 2 a.m. was "now charged for locksmith + drilled lock." Liability turns on your lease and local rules; a tenant union or legal aid office can tell you where you stand. Call the emergency line before the locksmith, keep the call log and receipt, and send this the same day:
 
-### Ask your landlord: is there a lockout fee? (check your lease)
-
-**A lockout fee is a charge some leases set for letting a tenant in, and the amount and rules vary.** We can't tell you what your landlord can charge, because that depends on your lease and local rules. Check your lease for the lease clause (lockout policy), which often also covers key copies and lock changes. Then ask your landlord in writing, so you have the answer on record before a 2 a.m. call.
-
-## When to call a locksmith (and how to avoid overpaying)
-
-**Call a locksmith only after the landlord route fails, and get a full quote before anyone drives over.** A locksmith is the last resort because it costs money and can mean a damaged lock you may have to pay for.
-
-### Questions to ask before they drive over
-
-Before you give an address, ask these questions on the phone:
-
-- What is the business name and local address?
-- What is the total upfront quote, including the service call and after-hours charges?
-- If your state licenses locksmiths, what is the license number? Are they licensed and insured?
-- Will they try non-destructive entry first, and when would they drill?
-- What ID and proof of residency will they need? (A lease, a utility bill or ID with your address.)
-
-A good locksmith asks for ID before opening anything. That check protects you, so welcome it. Keep a photo of your lease and ID in cloud storage you can open from any phone.
-
-### What to say to your landlord if the lock gets damaged
-
-If the locksmith has to drill, the landlord's cylinder is gone and your landlord needs to know the same day. Something like this works:
-
-> Subject: Lockout and damaged deadbolt, Unit [#]
->
-> Hi [Name], we were locked out of Unit [#] tonight around [time]. We called the emergency maintenance line at [time] and got no answer, so we called a locksmith, who had to drill the deadbolt. We have the receipt. Could you tell us in writing how you want the lock replaced, and whether the lease makes us responsible for the cost? Thanks, [Your name]
-
-## Locked out because of a smart lock, dead battery or app glitch
-
-**A smart-lock lockout almost always comes down to three things: dead batteries, a dropped app connection, or a lock with no physical key.** Here is each one with its fix.
-
-### Dead batteries and the 9V emergency terminals
-
-Dead batteries are a recurring complaint in r/ApartmentMaintenance, r/legaladvice and r/Locksmith threads. One maintenance worker on r/ApartmentMaintenance put it bluntly: "When the batteries die, the occupant is locked out until a maintenance technician comes." The fix is simple but needs a habit. Change batteries at the first low-battery alert, not the last. Many keypad deadbolts also have two 9V battery terminals under the keypad that power it from outside long enough to enter a code; check your lock's manual to see if yours does. Retrofit locks avoid the problem in a different way: the physical key override still works.
-
-### App, Bluetooth or Wi-Fi not responding
-
-App and Wi-Fi drops are a common topic in smart-lock help guides. Remote unlock only works while the lock, the router and the app are all talking. One maker's troubleshooting guide for Wi-Fi locks says: ["Restart your router, wait 60 seconds, then check if the lock reconnects automatically."](https://iveise.com/blogs/how-to/smart-lock-not-working-10-common-problems-and-how-to-fix-them) That's no help when you're outside. So treat Bluetooth, Wi-Fi and app access as a convenience, and keep a second way in: a key, a keypad code or a spare with a friend.
-
-### Who pays for the locksmith? Check your lease and ask your landlord in writing
-
-Bills after a failed smart lock are a recurring fight in r/chicago, r/legaladvice and r/Locksmith threads. The r/legaladvice renter who got locked out at 2 a.m. was "now charged for locksmith + drilled lock." We can't tell you who is liable, because that turns on your lease and local rules. What helps either way: call the landlord's emergency line before the locksmith, keep the call log and receipt, and ask in writing how the lock failure will be handled. A local tenant union or legal aid office can tell you where you stand.
-
-### Landlord installed a smart lock with no physical key
-
-Landlords swapping in app-only locks without keys shows up again and again in r/NYCapartments, r/jerseycity and r/legaladvice threads. One New York tenant pointed to ["New York Local Law 63 which seems to prohibit landlords from requiring tenants to use smart access systems to enter their apartment."](https://www.reddit.com/r/legaladvice/comments/1vuhqbh/my_apartment_building_has_smart_locks_used/) We're not lawyers, so check local rules where you live. Then ask your landlord in writing for a physical key or a written backup plan and a 24-hour number for when the lock fails.
-
-## Problems owners run into, and the fix
-
-**Most lockout pain in owner threads traces back to five problems, and each one has a fix you can set up in an afternoon.** The table below sums up each problem, why it happens, and what to do.
-
-| Problem | Why it happens | Fix |
-|---|---|---|
-| Smart lock battery dies | Low-battery alerts ignored | Swap at the first alert; carry the key; know the 9V terminals |
-| Charged for locksmith and drilled lock | No written lockout policy | Read the lease clause; ask the landlord in writing now |
-| App-only lock, no key | Landlord-installed smart lock | Ask in writing for a key or backup; check local rules |
-| Fear of a lease violation | Swapping the outside cylinder | Use a retrofit that leaves the outside alone |
-| Remote unlock fails | Wi-Fi or Bluetooth drops | Keep a key or keypad code as a second way in |
+> Hi [Name], we were locked out of Unit [#] around [time]. The emergency line didn't answer at [time], so a locksmith drilled the deadbolt; we have the receipt. Could you confirm in writing how you want the lock replaced and whether the lease makes us responsible for the cost?
 
 ## How to stop getting locked out again
 
-**The way to stop an apartment lockout is to remove the single point of failure: one key, in one pocket.** Add a habit, a spare, and if your landlord agrees, keyless entry.
+**Remove the single point of failure: one key in one pocket.** Touch phone, keys and wallet before the door shuts, and lengthen any auto-lock delay. Give a spare to a trusted friend nearby, but some leases restrict key copies, so ask in writing and track every copy.
 
-### A leaving routine and a spare key with a nearby friend
+> **From our notes:** We did not test these products. In the owner threads and reviews we read, retrofit locks that kept the original key came with a backup when batteries ran low. Lockboxes drew a different worry: a Home Depot reviewer described a burglar breaking one open. The angriest threads weren't about hardware at all. They came from renters billed for a locksmith after a landlord-installed lock failed, with nothing in writing about who pays. That is why we put the written landlord message next to the products.
 
-We like a three-touch routine at the door: phone, keys, wallet, touched before the door closes. Auto-lock is a common cause of lockouts, because the lock re-locks the moment the door shuts. If your lock has auto-lock, set a longer delay or pair it with a keypad. Then give an extra key to a trusted friend who lives nearby.
+Renters fear a smart lock counts as an alteration; one r/jerseycity commenter warned, "If the landlord found out and considered this an alteration of the lock, you could face eviction." A retrofit avoids that, as an r/homeautomation reply puts it: "You leave the outside of the deadbolt the same. This allows the landlord to keep using their same key." Our [smart locks for renters that keep your deadbolt](/blog/best-smart-lock-for-renters/) guide covers fit in depth.
 
-### Lease rules on key copies
+### August Wi-Fi Smart Lock (4th Gen): remote unlock, key still works
 
-Some leases ban copying keys or require written permission, and some keys are stamped do not duplicate. Ask your landlord in writing before you cut a spare. Track who holds each copy, because you'll owe every one back at move-out. If a copy goes missing, your landlord may rekey the lock, and the lease may say who pays.
+The [August Wi-Fi Smart Lock (4th Gen)](amzn:August+Wi-Fi+Smart+Lock+4th+Gen) clamps over the inside of most single-cylinder deadbolts with a screwdriver, so the outside keyhole and your landlord's key stay the same. Built-in Wi-Fi lets a housemate unlock it remotely without a separate bridge. Auto-lock and the DoorSense sensor handle re-locking, and auto-unlock can open it as you arrive. Owners on Slickdeals like the backup most: the key still works if the batteries drain, after plenty of low-battery warnings. Their main complaint is battery swaps every 3 to 7 months on two CR123 cells, and review summaries mention sporadic Wi-Fi drops. The keypad for phone-free codes costs extra.
 
-### Lockbox or key safe
+### SwitchBot Lock Pro: bracket mount, fingerprint add-on
 
-A lockbox (key safe) holds a spare key near the door behind a code. It needs no power, so it can't die on you. But it is a deterrent, not a safe, and anyone who learns the code gets your key. Check your lease and building rules before hanging one in a shared hallway.
+The [SwitchBot Lock Pro](amzn:SwitchBot+Lock+Pro) is a battery motor on brackets over your thumbturn, and Techlicious found it came off with no trace. With the separate Keypad Touch you get in by fingerprint, passcode or NFC card. For lockouts, Low Battery Unlock keeps it working after the warning, per Techlicious, and SwitchBot rates its four AA batteries at [6 to 9 months](https://www.switch-bot.com/products/switchbot-lock-pro). NotEnoughTech found unlocking about as fast as a key. Techlicious installed it in under 10 minutes on a 1960s lock, but its low-battery alerts were overwhelming until it changed the app settings. Fit is the complaint: a Trustpilot reviewer wanted better adaptation to different doors. Remote unlock needs a hub, sold separately, so check SwitchBot's compatibility list first.
 
-> **From our notes:** We did not test these products. In the owner threads and reviews we read, the retrofit locks that kept the original key in the door came with a backup when batteries ran low. The lockboxes drew a different worry: a Home Depot reviewer described a burglar breaking one open. And the angriest threads were not about hardware at all. They came from renters billed for a locksmith after a landlord-installed lock failed, with nothing in writing about who pays. That is why this guide puts the written landlord message next to the products.
+### Yale Approach Lock with Wi-Fi and Keypad Touch: all in one box
 
-## Best keyless options for renters (no drilling, keep your original key)
-
-**The best keyless setup for a renter keeps the landlord's outside cylinder and key, so a smart lock adds a way in without taking one away.** A retrofit smart lock replaces only the inside thumbturn. A keypad deadbolt replaces the whole lock and needs landlord approval. For a deeper comparison, see our [smart locks for renters that keep your deadbolt](/blog/best-smart-lock-for-renters/), or browse the [smart locks hub](/category/smart-locks/).
-
-### August Wi-Fi Smart Lock (4th Gen): retrofit with remote unlock
-
-For a renter who keeps leaving keys inside, the [August Wi-Fi Smart Lock (4th Gen)](amzn:August+Wi-Fi+Smart+Lock+4th+Gen) is the easiest fit. It clamps over the inside of most single-cylinder deadbolts with a screwdriver, and the outside keyhole stays the same. So your landlord's key and yours still work. Built-in Wi-Fi means a housemate can unlock it remotely from the app, with no separate bridge. Auto-lock and the DoorSense sensor handle re-locking, and auto-unlock can open it as you arrive. Owners on Slickdeals praise the backup most: one notes the physical key still works if the batteries fully drain. They also mention plenty of low-battery warnings first. The main complaint is battery life. August's page says up to 3 months on two CR123 cells, and owners on Slickdeals report swaps every 3 to 7 months. Review summaries also mention sporadic Wi-Fi drops. The keypad for phone-free codes is a separate purchase, so budget for it if you often go out without your phone.
-
-### SwitchBot Lock Pro: keep your lock, add fingerprint entry
-
-The [SwitchBot Lock Pro](amzn:SwitchBot+Lock+Pro) takes a gentler route: a battery motor that sits over your existing thumbturn and turns it for you. It mounts on brackets, and Techlicious found it needs no permanent changes to the door and came off with no trace. Pair it with the separate Keypad Touch and you can get in by fingerprint, passcode or NFC card without a phone. For lockouts, the standout is Low Battery Unlock, which Techlicious says keeps the lock working after the warning. SwitchBot rates four AA batteries at 6 to 9 months. Reviewers praise speed too; NotEnoughTech found unlocking about as fast as a key. The drawbacks are fit and extras. A Trustpilot reviewer wanted better adaptation to different doors, and NotEnoughTech found the magnet sensor hard to place on some doors. Remote unlock needs a SwitchBot hub, sold separately. Check the compatibility list on the [SwitchBot Lock Pro page](https://www.switch-bot.com/products/switchbot-lock-pro) before buying.
-
-### Yale Approach Lock with Wi-Fi and Keypad Touch: keypad kit in one box
-
-If you want everything in one box, the [Yale Approach Lock with Wi-Fi and Keypad Touch](amzn:Yale+Approach+Lock+Deadbolt+Wi-Fi+Keypad+B-YRR110-F-WF1-N-BSP) ships with the lock, a fingerprint keypad and a Wi-Fi bridge. The lock goes on the inside of your existing deadbolt, and the key still works. The IPX5 keypad sticks on with an adhesive pad or screws, so it can stay drill-free. One Slickdeals owner of about a year calls it pretty solid and more reliable than expected, with four AA batteries lasting 4 to 5 months. The same owner power-cycles the bridge every six months or so and notes a 3 to 5 second fingerprint lag. In its Yale Approach review, PCWorld found the install took more steps than a full-replacement deadbolt. It also hit calibration and firmware glitches. The bridge needs an outlet within about 30 feet of the door.
+The [Yale Approach Lock with Wi-Fi and Keypad Touch](amzn:Yale+Approach+Lock+Deadbolt+Wi-Fi+Keypad+B-YRR110-F-WF1-N-BSP) ships with the lock, an IPX5 fingerprint keypad that sticks on with an adhesive pad or screws, and a Wi-Fi bridge, and your key still works. A Slickdeals owner of about a year calls it pretty solid and more reliable than expected, with four AA batteries lasting 4 to 5 months, but notes a 3 to 5 second fingerprint lag and a bridge reboot every six months or so. PCWorld found more install steps than a full-replacement deadbolt, plus calibration and firmware glitches. The bridge needs an outlet within about 30 feet of the door.
 
 ### Master Lock Portable Key Lock Box 5400EC: spare key on a knob
 
-The cheapest fix with no batteries at all is the [Master Lock Portable Key Lock Box 5400EC](amzn:Master+Lock+Portable+Key+Lock+Box+5400EC). It hangs by a vinyl-coated shackle over most ball, biscuit and tulip knobs, and a 4-digit code you set opens it. The Amazon listing says it holds up to 5 standard house keys. Home Depot reviewers praise how easy it is to set and reset. Realtors and property managers use them for contractor access. Now the caveat we take seriously. One Home Depot reviewer described a burglar breaking open the thin aluminum case, and another calls it a theft deterrent only. A few owners report a stuck mechanism or a code that opened with wrong digits. It also tells anyone in the hallway that a key is inside. So keep only the spare in it, change the code after sharing it, and ask your landlord before hanging it.
+The [Master Lock Portable Key Lock Box 5400EC](amzn:Master+Lock+Portable+Key+Lock+Box+5400EC) hangs by a vinyl-coated shackle over most ball, biscuit and tulip knobs, needs no batteries, and holds up to 5 keys behind a 4-digit code you set. Home Depot reviewers praise easy setup and code resets. The caveat we take seriously: one Home Depot reviewer described a burglar smashing one open, Master Lock itself calls its boxes theft deterrence, and a few report a stuck mechanism or a code that opened with two digits wrong. It also tells the hallway a key is inside, so keep only the spare in it, change the code after sharing it, and ask your landlord first.
 
 ### Master Lock 5420EC Set Your Own Combination Portable Lock Box: for lever handles
 
-Apartment doors with lever handles need the [Master Lock 5420EC Set Your Own Combination Portable Lock Box](amzn:Master+Lock+5420EC+Set+Your+Own+Combination+Portable+Lock+Box+Adjustable+Shackle). Its shackle adjusts from 3/4 to 1-3/4 inch and fits lever, ball, biscuit and tulip handles. The listing says it holds 6 keys, with a weather cover over the dials. Home Depot owners like that it works on both knob and lever doors, which fixed-shackle boxes can't do. Fit is the main complaint. One owner found it a very tight fit on a basic round knob. Another says the shackle doesn't open as wide as expected. One unit locked up while the code was being set and had to be exchanged, so set yours at home before relying on it. Like the 5400EC, it is a hidden spare, not a safe.
+The [Master Lock 5420EC Set Your Own Combination Portable Lock Box](amzn:Master+Lock+5420EC+Set+Your+Own+Combination+Portable+Lock+Box+Adjustable+Shackle) has a shackle adjusting from 3/4 to 1-3/4 inch for lever, ball, biscuit and tulip handles, holds 6 keys and has a weather cover over the dials. Home Depot owners like that it fits levers, which fixed-shackle boxes can't. Fit is also the complaint: some found it tight on round knobs, and one says the shackle doesn't open as wide as expected. One unit locked up during code setup, so set yours at home first. Like the 5400EC, it is a hidden spare, not a safe.
 
-### Retrofit smart lock vs. keypad deadbolt vs. lockbox (comparison table)
+## Ask your landlord first, and return everything at move-out
 
-This table compares the three ways renters prevent lockouts on the points landlords care about.
-
-| Option | Changes outside lock? | Needs power? | Backup entry | Landlord approval |
-|---|---|---|---|---|
-| Retrofit smart lock | No | Yes, batteries | Original key | Ask in writing |
-| Keypad deadbolt | Yes, full swap | Yes, batteries | Key or 9V terminals | Required |
-| Lockbox (key safe) | No | No | Spare key inside | Check building rules |
-
-Renters worry most about the lease. One r/jerseycity commenter warned: "If the landlord found out and considered this an alteration of the lock, you could face eviction." That fear is a recurring theme in r/jerseycity and r/homeautomation threads. A retrofit avoids it, as one r/homeautomation reply explains: "You leave the outside of the deadbolt the same. This allows the landlord to keep using their same key."
-
-### How to ask your landlord for permission (sample email)
-
-We'd send something short and specific, so the yes is easy:
-
-> Subject: Request to add a retrofit smart lock, Unit [#]
->
-> Hi [Name], we'd like to add a retrofit smart lock to the inside of our deadbolt. It replaces only the inside thumbturn. The outside cylinder and your key stay exactly as they are, so you keep full access. We'll reinstall the original thumbturn when we move out. Could you confirm in writing that this is OK, and share the after-hours lockout number? Thanks, [Your name]
-
-For other renter-friendly door gear, see our guides to a [door camera for apartment renters](/blog/door-camera-for-apartment/) and [no-drill peephole cameras](/blog/best-peephole-camera-for-apartments/).
-
-## Lockout checklist and move-out day
-
-**A two-minute checklist now saves you the worst night of a lease, and move-out day is when every spare key and original part goes back.** Print or screenshot this list:
-
-- Save the leasing office and after-hours emergency maintenance numbers in your phone.
-- Ask your landlord in writing about the lockout fee and key-copy rules.
-- Give a spare key to a trusted friend or roommate, and write down who has each copy.
-- Keep photos of your lease and ID in cloud storage for a locksmith's proof of residency check.
-- On a smart lock, change batteries at the first alert and keep the physical key.
-- On move-out day, collect every spare key, take down the lockbox, and reinstall the original thumbturn.
-
-So for that renter locked out at 2 a.m., the fix is not one gadget. It's a written plan with the landlord, a spare key nearby, and a lock that keeps the original key working. We'd set all three up this week, before the next door clicks shut.
+Ask in writing before installing anything: "We'd like to add a retrofit smart lock inside our deadbolt. The outside cylinder and your key stay as they are, and we'll reinstall the original thumbturn at move-out. Could you confirm this is OK and share the after-hours lockout number?" At move-out, return every spare, take down the lockbox and reinstall the thumbturn; if a copy goes missing, your landlord may rekey and the lease may say who pays. Next, compare fit and backup keys in our [smart lock for renters guide](/blog/best-smart-lock-for-renters/).

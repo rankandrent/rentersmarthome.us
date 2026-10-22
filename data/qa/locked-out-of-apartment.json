@@ -1,24 +1,15 @@
 {
   "slug": "locked-out-of-apartment",
   "pass": true,
-  "checkedAt": "2026-10-22T09:56:33.020Z",
+  "checkedAt": "2026-10-22T10:01:55.086Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: 1 contextual internal links for 1670 words; add at least 2 (entity + attribute anchors, in running text)",
-    "LIVE POST, FIX: the text changed after the fact check: verify the new text and run `node scripts/routine.mjs factcheck <slug> \"<notes>\"` again",
-    "body has 1671 words, over the 1150 limit (top results average 1000): cut repetition and filler",
-    "product \"August Wi-Fi Smart Lock (4th Gen)\" has no \"### August Wi-Fi Smart Lock (4th Gen): ...\" section, so it gets a card instead",
-    "product \"SwitchBot Lock Pro\" has no \"### SwitchBot Lock Pro: ...\" section, so it gets a card instead",
-    "product \"Yale Approach Lock with Wi-Fi and Keypad Touch\" has no \"### Yale Approach Lock with Wi-Fi and Keypad Touch: ...\" section, so it gets a card instead",
-    "product \"Master Lock Portable Key Lock Box 5400EC\" has no \"### Master Lock Portable Key Lock Box 5400EC: ...\" section, so it gets a card instead",
-    "product \"Master Lock 5420EC Set Your Own Combination Portable Lock Box\" has no \"### Master Lock 5420EC Set Your Own Combination Portable Lock Box: ...\" section, so it gets a card instead",
-    "only 1 internal links (aim for 3-5)",
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
+    "body has 1693 words, over the 1150 limit (top results average 1000): cut repetition and filler"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
-    "at": "2026-10-21T19:51:29.870Z",
-    "hash": "3dc7e02d0f3e67d2"
+    "notes": "Re-opened with Firecrawl maxAge 0: CT DCP release (7/16/2026; bait-and-switch low price, search-ad businesses, out-of-state numbers, address check, paid fake Google reviews, individual registration; wording matches), Apartment Therapy (doorman key, no-phone lobby/neighbor, night locksmith cost; attribution narrowed), August maker + Slickdeals, SwitchBot maker (6-9 months) + Techlicious (no trace, under 10 min, Low Battery Unlock, overwhelming alerts) + NotEnoughTech (speed; removed magnet claim), Yale maker + PCWorld + Slickdeals, Master Lock 5400D/5420D + Home Depot reviews (burglar smashed, stuck, wrong digits; removed unfound deterrent-only reviewer). Reddit quotes confirmed via search excerpts and iveise router quote.",
+    "at": "2026-10-22T10:01:54.555Z",
+    "hash": "7ba2f9f1fdc91b35"
   }
 }
