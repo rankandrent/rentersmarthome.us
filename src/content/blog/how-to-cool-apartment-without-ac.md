@@ -186,23 +186,6 @@ products:
       - Can be noisy on high
       - Not for windows that barely open
     asin: B000BOCD1Y
-    image:
-      url: 'https://m.media-amazon.com/images/I/51-C0LLwLcL._SL500_.jpg'
-      width: 500
-      height: 500
-    gallery:
-      - url: 'https://m.media-amazon.com/images/I/51HteJnxDeL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/51uMvO4PlAL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/41h1152XYnL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/51vFG8yfIDL._SL500_.jpg'
-        width: 500
-        height: 500
     amazonTitle: >-
       Lasko Weather-Shield Performance Box Fan, 3 Speeds, Innovative Wind Ring
       System for Up to 30% More Air, Carry Handle for Bedroom, Office, Home, 20

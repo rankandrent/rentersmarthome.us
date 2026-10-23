@@ -1,6 +1,6 @@
 ---
-title: 'Cómo enfriar un piso sin aire acondicionado – 12 trucos si alquilas'
-seoTitle: 'Enfriar un piso sin aire acondicionado – 12 trucos (2026)'
+title: Cómo enfriar un piso sin aire acondicionado – 12 trucos si alquilas
+seoTitle: Enfriar un piso sin aire acondicionado – 12 trucos (2026)
 description: >-
   Cómo enfriar un piso sin aire acondicionado: bloquea el sol de día, mueve el
   aire con ventiladores de noche y evita el calor interior. 12 trucos sin obras.
@@ -90,8 +90,8 @@ products:
       value: 9
       portability: 8
     scoreNote: >-
-      Se cuelgan en la barra existente o en una extensible; sin taladrar, pero la
-      medida debe encajar en tu ventana.
+      Se cuelgan en la barra existente o en una extensible; sin taladrar, pero
+      la medida debe encajar en tu ventana.
     owners:
       read: 3
       praise:
@@ -125,7 +125,7 @@ products:
       - Funciona con un enchufe inteligente para programarlo
     cons:
       - Voluminoso para dormitorios pequeños
-      - Hace circular el aire, no lo enfría
+      - 'Hace circular el aire, no lo enfría'
     asin: B00KF60O00
     image:
       url: 'https://m.media-amazon.com/images/I/41RlLLvlq-L._SL500_.jpg'
@@ -195,23 +195,6 @@ products:
       - Puede ser ruidoso a máxima velocidad
       - No sirve para ventanas que apenas se abren
     asin: B000BOCD1Y
-    image:
-      url: 'https://m.media-amazon.com/images/I/51-C0LLwLcL._SL500_.jpg'
-      width: 500
-      height: 500
-    gallery:
-      - url: 'https://m.media-amazon.com/images/I/51HteJnxDeL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/51uMvO4PlAL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/41h1152XYnL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/51vFG8yfIDL._SL500_.jpg'
-        width: 500
-        height: 500
     amazonTitle: >-
       Lasko Weather-Shield Performance Box Fan, 3 Speeds, Innovative Wind Ring
       System for Up to 30% More Air, Carry Handle for Bedroom, Office, Home, 20
@@ -234,7 +217,9 @@ products:
         - >-
           Algunos duraron solo 2-3 años; aspas deformadas por el sol o
           rodamientos que fallan
-        - Opiniones divididas sobre el ruido; a algunos los nuevos les parecen más ruidosos
+        - >-
+          Opiniones divididas sobre el ruido; a algunos los nuevos les parecen
+          más ruidosos
       sources:
         - title: Lowe's Lasko reviews
           url: 'https://www.lowes.com/reviews/lasko-3733-portable-fans/1114391'
@@ -272,8 +257,8 @@ faqs:
   - q: ¿Puede el casero prohibirme un aire acondicionado portátil?
     a: >-
       Algunos contratos de alquiler limitan los aparatos de ventana o los
-      portátiles. Revisa tu contrato y pregunta al casero antes de instalar
-      nada en una ventana.
+      portátiles. Revisa tu contrato y pregunta al casero antes de instalar nada
+      en una ventana.
 author: editorial-team
 heroImage: /images/featured/how-to-cool-apartment-without-ac.png
 heroAlt: >-

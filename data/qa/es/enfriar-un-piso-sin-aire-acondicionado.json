@@ -3,11 +3,12 @@
   "lang": "es",
   "translationOf": "how-to-cool-apartment-without-ac",
   "pass": true,
-  "checkedAt": "2026-10-21T10:22:59.878Z",
+  "checkedAt": "2026-10-23T14:32:14.782Z",
   "errors": [],
   "warnings": [
     "not localized yet: run localizer-agent for how-to-cool-apartment-without-ac (data/briefs/es/how-to-cool-apartment-without-ac.local.json), then rewrite with translator-agent",
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
+    "product \"Lasko Box Fan\" (B000BOCD1Y) is no longer returned by Amazon"
   ],
   "factCheck": {
     "verified": true,

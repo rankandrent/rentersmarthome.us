@@ -344,7 +344,10 @@ products:
       url: 'https://m.media-amazon.com/images/I/41fSNru3-QL._SL500_.jpg'
       width: 500
       height: 500
-    amazonTitle: 'Kreg Magnetic Stud Finder with Laser-Mark, KMM1000LZ.'
+    amazonTitle: >-
+      Kreg Magnetic Stud Finder with Laser-Mark, KMM1000LZ | Stud Finder and
+      Wall Scanner, Magnetic Stud Finder Tool, with Precise Stud Magnet, Holiday
+      Home Improvement Gifts for Him
     gallery:
       - url: 'https://m.media-amazon.com/images/I/41JDVoEUiAL._SL500_.jpg'
         width: 500

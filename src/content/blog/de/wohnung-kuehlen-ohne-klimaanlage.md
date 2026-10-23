@@ -1,6 +1,6 @@
 ---
-title: 'Wohnung kühlen ohne Klimaanlage – 12 Tipps für Mieter'
-seoTitle: 'Wohnung kühlen ohne Klimaanlage – 12 Tipps (2026)'
+title: Wohnung kühlen ohne Klimaanlage – 12 Tipps für Mieter
+seoTitle: Wohnung kühlen ohne Klimaanlage – 12 Tipps (2026)
 description: >-
   Wohnung kühlen ohne Klimaanlage: Sonne tagsüber aussperren, nachts mit
   Ventilatoren lüften, Wärmequellen meiden. 12 Mieter-Tipps ganz ohne Montage.
@@ -59,8 +59,8 @@ products:
       - Viele Größen und Farben
       - Hilft auch beim Schlafen und gegen Zugluft im Winter
     cons:
-      - Der Raum ist dunkel, solange sie zu sind
-      - Braucht eine Stange, die zu deinem Fenster passt
+      - 'Der Raum ist dunkel, solange sie zu sind'
+      - 'Braucht eine Stange, die zu deinem Fenster passt'
     asin: B087CG4NTV
     image:
       url: 'https://m.media-amazon.com/images/I/41i1Jr9edBL._SL500_.jpg'
@@ -124,7 +124,7 @@ products:
       - Lässt sich mit einer smarten Steckdose per Zeitplan steuern
     cons:
       - Wuchtig für kleine Schlafzimmer
-      - Wälzt die Luft um, statt sie zu kühlen
+      - 'Wälzt die Luft um, statt sie zu kühlen'
     asin: B00KF60O00
     image:
       url: 'https://m.media-amazon.com/images/I/41RlLLvlq-L._SL500_.jpg'
@@ -183,33 +183,16 @@ products:
       passt, ideal, um kühle Nachtluft hereinzuholen oder heiße Luft
       hinauszublasen.
     renterNote: >-
-      Steht im Fensterrahmen oder auf dem Boden; nichts zu montieren (US-Version:
-      prüf, ob sie zu deiner Steckdose und 230 V passt).
+      Steht im Fensterrahmen oder auf dem Boden; nichts zu montieren
+      (US-Version: prüf, ob sie zu deiner Steckdose und 230 V passt).
     pros:
       - Passt in viele Standardfenster
       - Günstig
       - Einfach zu bedienen
     cons:
       - Kann auf hoher Stufe laut sein
-      - Nichts für Fenster, die sich kaum öffnen lassen
+      - 'Nichts für Fenster, die sich kaum öffnen lassen'
     asin: B000BOCD1Y
-    image:
-      url: 'https://m.media-amazon.com/images/I/51-C0LLwLcL._SL500_.jpg'
-      width: 500
-      height: 500
-    gallery:
-      - url: 'https://m.media-amazon.com/images/I/51HteJnxDeL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/51uMvO4PlAL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/41h1152XYnL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/51vFG8yfIDL._SL500_.jpg'
-        width: 500
-        height: 500
     amazonTitle: >-
       Lasko Weather-Shield Performance Box Fan, 3 Speeds, Innovative Wind Ring
       System for Up to 30% More Air, Carry Handle for Bedroom, Office, Home, 20
@@ -226,13 +209,17 @@ products:
       read: 6
       praise:
         - Guter Luftstrom fürs Geld
-        - Robuster Stahlrahmen; Besitzer berichten von Jahren zuverlässiger Nutzung
+        - >-
+          Robuster Stahlrahmen; Besitzer berichten von Jahren zuverlässiger
+          Nutzung
       complaints:
-        - Der schmale Fuß kann kippen, und die Kunststofffüße springen heraus
+        - 'Der schmale Fuß kann kippen, und die Kunststofffüße springen heraus'
         - >-
           Manche hielten nur 2-3 Jahre; von der Sonne verzogene Flügel oder
           defekte Lager
-        - Beim Geräusch gehen die Meinungen auseinander; manche finden neuere lauter
+        - >-
+          Beim Geräusch gehen die Meinungen auseinander; manche finden neuere
+          lauter
       sources:
         - title: Lowe's Lasko reviews
           url: 'https://www.lowes.com/reviews/lasko-3733-portable-fans/1114391'
@@ -270,8 +257,8 @@ faqs:
   - q: Darf mir der Vermieter ein mobiles Klimagerät verbieten?
     a: >-
       Manche Mietverträge schränken Fenster- oder mobile Klimageräte ein. Prüf
-      deinen Mietvertrag und frag deinen Vermieter, bevor du etwas in ein Fenster
-      einbaust.
+      deinen Mietvertrag und frag deinen Vermieter, bevor du etwas in ein
+      Fenster einbaust.
 author: editorial-team
 heroImage: /images/featured/how-to-cool-apartment-without-ac.png
 heroAlt: >-

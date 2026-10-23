@@ -3,12 +3,11 @@
   "lang": "nl",
   "translationOf": "best-dehumidifier-for-small-apartment",
   "pass": true,
-  "checkedAt": "2026-10-22T12:34:55.059Z",
+  "checkedAt": "2026-10-23T14:33:55.474Z",
   "errors": [],
   "warnings": [
     "not localized yet: run localizer-agent for best-dehumidifier-for-small-apartment (data/briefs/nl/best-dehumidifier-for-small-apartment.local.json), then rewrite with translator-agent",
     "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
-    "source didn't respond normally (no response): https://www.dehumidifierbuyersguide.com/low-capacity-dehumidifier-reviews/",
     "product \"Midea Cube 35 Pint Dehumidifier\" (B0GL7Q7173) is no longer returned by Amazon"
   ],
   "factCheck": {

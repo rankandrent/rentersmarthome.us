@@ -1,14 +1,12 @@
 {
   "slug": "best-suction-cup-shower-caddy-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-23T10:04:05.878Z",
+  "checkedAt": "2026-10-23T14:27:06.915Z",
   "errors": [],
   "warnings": [
-    "product \"simplehuman Adjustable Shower Caddy\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"OXO Good Grips 3-Tier Aluminum Shower Caddy\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Command Shower Caddy\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"KINCMAX Premium Shower Caddy\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"SMARTAKE 2-Pack Corner Shower Caddy\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "source didn't respond normally (403): https://www.command.com/3M/en_US/p/d/b5005604030/",
+    "source didn't respond normally (403): https://www.nytimes.com/wirecutter/reviews/the-best-shower-caddy/",
+    "source didn't respond normally (403): https://ask.metafilter.com/383227/Incredibly-long-lasting-shower-shelf-with-no-drilling"
   ],
   "factCheck": {
     "verified": true,

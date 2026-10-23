@@ -3,9 +3,10 @@
   "lang": "nl",
   "translationOf": "smart-thermostat-in-apartment",
   "pass": true,
-  "checkedAt": "2026-10-21T10:26:13.477Z",
+  "checkedAt": "2026-10-23T14:35:03.762Z",
   "errors": [],
   "warnings": [
+    "LIVE POST, FIX: sources must be the English post's URLs (added: none; missing: https://www.energystar.gov/products/recent_program_updates/low-no-cost-tips, https://www.energystar.gov/products/smart_thermostats)",
     "not localized yet: run localizer-agent for smart-thermostat-in-apartment (data/briefs/nl/smart-thermostat-in-apartment.local.json), then rewrite with translator-agent",
     "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],

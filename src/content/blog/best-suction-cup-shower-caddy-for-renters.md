@@ -117,6 +117,24 @@ products:
             https://www.homedepot.com/p/reviews/simplehuman-Medium-Adjustable-Shower-Caddy-Stainless-Steel-and-Anodized-Aluminum-BT1098/206009371/4
         - title: CNN Underscored shower caddies (organizer Sue Rae)
           url: 'https://www.cnn.com/cnn-underscored/home/best-shower-caddies'
+    image:
+      url: 'https://m.media-amazon.com/images/I/31TE9HixLNL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: 'simplehuman Adjustable Shower Caddy, Stainless Steel and Anodized Aluminum'
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41yD2Hy0CpL._SL500_.jpg'
+        width: 500
+        height: 408
+      - url: 'https://m.media-amazon.com/images/I/41RIZMTO82L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41Ze5zVUamL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41P0rrF1biL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: OXO Good Grips 3-Tier Aluminum Shower Caddy
     brand: OXO
     query: OXO Good Grips 3-Tier Aluminum Shower Caddy
@@ -168,6 +186,27 @@ products:
             CNN Underscored shower caddies (organizers Susie Salinas and Sue
             Rae)
           url: 'https://www.cnn.com/cnn-underscored/home/best-shower-caddies'
+    image:
+      url: 'https://m.media-amazon.com/images/I/3191q8-cZXL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      OXO Good Grips 3-Tier Aluminum Shower Caddy, Bathroom Organization |
+      Rustproof Caddy, Non-Slip Hook & Secure Suction, Tool-Free Install, Large
+      Capacity Basket Ideal for Shampoo, Soap, Razors
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41L9AXUBPhL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/410QaHnIqsL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41o9a4vsG1L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/410qPBbVNpL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: Command Shower Caddy
     brand: Command
     query: Command Shower Caddy
@@ -223,6 +262,27 @@ products:
         - title: r/HomeImprovement Command strips in the bathroom
           url: >-
             https://www.reddit.com/r/HomeImprovement/comments/7x1htj/3m_command_strips_in_the_bathroom/
+    image:
+      url: 'https://m.media-amazon.com/images/I/41cTh+mnPVL._SL500_.jpg'
+      width: 500
+      height: 305
+    amazonTitle: >-
+      Command Shower Caddy, 1 Caddy, 4 Large Strips | Water Resistant,
+      Damage-Free Hanging with Adhesive Strip, Ideal for Bathroom Organization,
+      Easy Installation
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41RrrUtbJLL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41UXzeqINXL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41pa+NhwGnL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41BFsH1o06L._SL500_.jpg'
+        width: 500
+        height: 500
   - name: KINCMAX Premium Shower Caddy
     brand: KINCMAX
     query: KINCMAX Premium Shower Caddy Self Adhesive
@@ -267,6 +327,26 @@ products:
           url: 'https://www.familyhandyman.com/article/kincmax-shower-caddy/'
         - title: Walmart Kincmax shower shelves reviews
           url: 'https://www.walmart.com/reviews/product/5413669312'
+    image:
+      url: 'https://m.media-amazon.com/images/I/51pB+qPlFkL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      KINCMAX Premium Shower Caddy - Self Adhesive Shower Organizer with 4
+      Hooks, Rustproof Stainless Steel Shower Rack for Bathroom, Silver
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/51DXuTU+vsL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51W87IvlVTL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51I9JkGzp3L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51WqOlKXnwL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: SMARTAKE 2-Pack Corner Shower Caddy
     brand: SMARTAKE
     query: SMARTAKE 2-Pack Corner Shower Caddy
@@ -307,6 +387,27 @@ products:
           url: 'https://www.cnn.com/cnn-underscored/home/best-shower-caddies'
         - title: TechGearLab best shower caddy review
           url: 'https://www.techgearlab.com/topics/home/best-shower-caddy'
+    image:
+      url: 'https://m.media-amazon.com/images/I/515Soh5ACmL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      SMARTAKE 2-Pack Corner Shower Caddy, SUS304 Stainless Steel, Silver | Wall
+      Mounted Bathroom Shelf with Adhesive, Storage Organizer for Toilet, Dorm
+      and Kitchen
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41MScQ+2iBL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51lBbZcX1PL._SL500_.jpg'
+        width: 375
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51eAiEsYS2L._SL500_.jpg'
+        width: 375
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/413FzXLwRHL._SL500_.jpg'
+        width: 375
+        height: 500
 sources:
   - title: Roost security deposit survey 2021
     url: >-

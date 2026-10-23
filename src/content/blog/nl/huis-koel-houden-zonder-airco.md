@@ -1,6 +1,6 @@
 ---
-title: 'Huis koel houden zonder airco – 12 tips voor huurders'
-seoTitle: 'Huis koel houden zonder airco – 12 tips voor huurders (2026)'
+title: Huis koel houden zonder airco – 12 tips voor huurders
+seoTitle: Huis koel houden zonder airco – 12 tips voor huurders (2026)
 description: >-
   Huis koel houden zonder airco: houd overdag de zon buiten, ventileer 's nachts
   met ventilatoren en beperk warmte binnen. 12 huurderstips zonder montage.
@@ -159,8 +159,7 @@ products:
         - 5 jaar garantie en afneembaar rooster
       complaints:
         - Sommige eigenaren vinden hem luid op de hoogste stand
-        - >-
-          Een paar kregen de lucht niet door de kamer bewogen; hij zwenkt niet
+        - Een paar kregen de lucht niet door de kamer bewogen; hij zwenkt niet
         - Meerdere vinden hem te duur; één vond hem lastig schoon te maken
       sources:
         - title: ProductReview.com.au Vornado
@@ -192,23 +191,6 @@ products:
       - Kan luid zijn op de hoogste stand
       - Niet geschikt voor ramen die nauwelijks opengaan
     asin: B000BOCD1Y
-    image:
-      url: 'https://m.media-amazon.com/images/I/51-C0LLwLcL._SL500_.jpg'
-      width: 500
-      height: 500
-    gallery:
-      - url: 'https://m.media-amazon.com/images/I/51HteJnxDeL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/51uMvO4PlAL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/41h1152XYnL._SL500_.jpg'
-        width: 500
-        height: 500
-      - url: 'https://m.media-amazon.com/images/I/51vFG8yfIDL._SL500_.jpg'
-        width: 500
-        height: 500
     amazonTitle: >-
       Lasko Weather-Shield Performance Box Fan, 3 Speeds, Innovative Wind Ring
       System for Up to 30% More Air, Carry Handle for Bedroom, Office, Home, 20
@@ -231,7 +213,9 @@ products:
         - >-
           Sommige hielden het maar 2-3 jaar; door de zon kromgetrokken bladen of
           kapotte lagers
-        - Over het geluid zijn de meningen verdeeld; sommigen vinden nieuwere luider
+        - >-
+          Over het geluid zijn de meningen verdeeld; sommigen vinden nieuwere
+          luider
       sources:
         - title: Lowe's Lasko reviews
           url: 'https://www.lowes.com/reviews/lasko-3733-portable-fans/1114391'

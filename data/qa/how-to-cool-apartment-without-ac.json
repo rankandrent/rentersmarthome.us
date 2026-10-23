@@ -1,10 +1,12 @@
 {
   "slug": "how-to-cool-apartment-without-ac",
   "pass": true,
-  "checkedAt": "2026-10-21T10:18:16.821Z",
+  "checkedAt": "2026-10-23T14:27:42.553Z",
   "errors": [],
   "warnings": [
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
+    "product \"Lasko Box Fan\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
+    "product \"Lasko Box Fan\" (B000BOCD1Y) is no longer returned by Amazon"
   ],
   "factCheck": {
     "verified": true,
