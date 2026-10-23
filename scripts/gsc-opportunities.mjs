@@ -7,6 +7,11 @@
 // Posts improved in the last 14 days (<site-repo>/data/improved.json) and posts younger than 5 days are skipped.
 //   node scripts/gsc-opportunities.mjs <site-repo-dir> <domain> [n]
 //   node scripts/gsc-opportunities.mjs <site-repo-dir> <domain> --mark <slug> "<what changed>"
+//   node scripts/gsc-opportunities.mjs <site-repo-dir> <domain> [n] --last24h
+// --last24h (owner rule 2026-10-23: daily work from the last 24 hours of Search Console): reads
+// data/dashboard/gsc.json (gsc-snapshot.yml, newest complete day = d1) and ranks posts by the queries they
+// showed for that day: room to climb (position > 3), positions that dropped vs the 7-day average, and query
+// words the post never uses. Posts improved in the last 7 days are skipped (Google needs time to re-rank).
 import fs from 'node:fs';
 import path from 'node:path';
 import matter from 'gray-matter';
@@ -23,10 +28,64 @@ if (rest[0] === '--mark') {
   console.log(JSON.stringify({ marked: slug }));
   process.exit(0);
 }
-const n = Number(rest[0] ?? 2);
+const last24h = rest.includes('--last24h');
+const n = Number(rest.find((a) => /^\d+$/.test(a)) ?? 2);
+
 
 const dir = path.join(path.dirname(new URL(import.meta.url).pathname), '..', 'data/gsc', domain);
 const files = fs.existsSync(dir) ? fs.readdirSync(dir).sort() : [];
+if (last24h) {
+  const dash = JSON.parse(fs.readFileSync(path.join(path.dirname(new URL(import.meta.url).pathname), '..', 'data/dashboard/gsc.json'), 'utf8'));
+  const site = dash.sites?.[domain];
+  if (!site) throw new Error(`no ${domain} in data/dashboard/gsc.json: run gsc-snapshot.yml`);
+  const slugOf = (url) => new URL(url).pathname.match(/^\/blog\/([^/]+)\/?$/)?.[1];
+  const recent = new Set(log.filter((e) => Date.now() - Date.parse(e.date) < 7 * 86400000).map((e) => e.slug));
+  const words = (s) => String(s).toLowerCase().match(/[a-z0-9]+/g) ?? [];
+  const STOP = new Set(['a', 'an', 'the', 'for', 'to', 'of', 'in', 'on', 'and', 'or', 'is', 'are', 'my', 'with', 'vs', 'do', 'does', 'can', 'how', 'what', 'best', 'i']);
+  const byPage = new Map();
+  for (const q of site.queries) {
+    const slug = q.d1?.impressions ? slugOf(q.page) : null;
+    if (slug) byPage.set(slug, [...(byPage.get(slug) ?? []), q]);
+  }
+  const out = [];
+  for (const [slug, qs] of byPage) {
+    const file = path.join(repo, 'src/content/blog', `${slug}.md`);
+    if (!fs.existsSync(file) || recent.has(slug)) continue;
+    const { data, content } = matter(fs.readFileSync(file, 'utf8'));
+    if (data.draft || Date.now() - Date.parse(data.pubDate) < 5 * 86400000) continue;
+    const text = new Set(words(`${data.title} ${data.description} ${content}`));
+    qs.sort((a, b) => b.d1.impressions - a.d1.impressions);
+    const impressions = qs.reduce((t, q) => t + q.d1.impressions, 0);
+    const clicks = qs.reduce((t, q) => t + q.d1.clicks, 0);
+    const position = +(qs.reduce((t, q) => t + q.d1.position * q.d1.impressions, 0) / impressions).toFixed(1);
+    const climb = qs.filter((q) => q.d1.position > 3);
+    const dropped = qs.filter((q) => q.d7?.impressions && q.d1.position - q.d7.position >= 3);
+    const gaps = qs.map((q) => ({ query: q.query, impressions: q.d1.impressions, position: q.d1.position, missing: words(q.query).filter((w) => !STOP.has(w) && !text.has(w)) })).filter((g) => g.missing.length).slice(0, 8);
+    const reasons = [];
+    let score = 0;
+    if (climb.length) {
+      reasons.push(`climb: ${climb.length} queries shown yesterday below position 3 (page average ${position})`);
+      score += climb.reduce((t, q) => t + q.d1.impressions * (q.d1.position <= 20 ? 2 : 1), 0);
+    }
+    if (dropped.length) {
+      reasons.push(`dropped: ${dropped.length} queries ranked 3+ places worse yesterday than their 7-day average`);
+      score += dropped.reduce((t, q) => t + q.d1.impressions, 0) * 1.5;
+    }
+    if (gaps.length) {
+      reasons.push(`gaps: ${gaps.length} queries use words the post never mentions`);
+      score += gaps.reduce((t, g) => t + g.impressions, 0) * 0.5;
+    }
+    if (!reasons.length) continue;
+    out.push({
+      slug, url: `https://${domain}/blog/${slug}/`, score: Math.round(score), clicks, impressions, position, reasons,
+      topQueries: qs.slice(0, 10).map((q) => ({ query: q.query, last24h: q.d1, last7d: q.d7 ?? null, last30d: q.d30 ?? null })),
+      gaps,
+    });
+  }
+  out.sort((a, b) => b.score - a.score);
+  console.log(JSON.stringify({ domain, window: `last 24 hours (${site.windows.d1[0]})`, picks: out.slice(0, n), more: Math.max(0, out.length - n) }, null, 2));
+  process.exit(0);
+}
 const pagesFile = files.filter((f) => /^\d{4}-\d\d-\d\d\.json$/.test(f)).at(-1);
 const queriesFile = files.filter((f) => f.endsWith('.queries.json')).at(-1);
 if (!pagesFile) throw new Error(`no Search Console snapshot in ${dir}: run gsc-snapshot.yml`);
