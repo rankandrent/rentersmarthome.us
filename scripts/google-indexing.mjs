@@ -60,6 +60,11 @@ function matchTargets(urls) {
 }
 
 async function notify(domain, recent) {
+  // The Indexing API needs the service account as an Owner of the property, not a Full user.
+  const sitesRes = await fetch('https://www.googleapis.com/webmasters/v3/sites', { headers: { Authorization: `Bearer ${await googleAccessToken(JSON.parse(raw))}` } });
+  const entries = sitesRes.ok ? (await sitesRes.json()).siteEntry ?? [] : [];
+  const mine = entries.filter((e) => e.siteUrl.includes(domain)).map((e) => `${e.siteUrl}=${e.permissionLevel}`);
+  console.log(`${domain}: Search Console permission ${mine.join(', ') || 'none'} (Indexing API needs siteOwner)`);
   const urls = recent
     ? (await sitemapEntries(domain)).filter((e) => e.lastmod && Date.now() - Date.parse(e.lastmod) < 26 * 3600000).map((e) => e.url)
     : matchTargets(await sitemapUrls(domain));
