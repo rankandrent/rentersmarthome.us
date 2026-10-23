@@ -5,6 +5,60 @@ Claude ye file har naye request ke saath update karta hai (CLAUDE.md standing ru
 
 Status: ✅ ho gaya · 🔁 roz chal raha hai · ⏳ owner ka jawab chahiye · ⏸ ruka hua
 
+## 15-21 Oct 2026 (pehle ke kaam, maqsad ke saath)
+
+| # | Kaam (owner ne kya kaha) | Maqsad | Status |
+|---|---|---|---|
+| 1 | Ahrefs API key add ki, "blog post q nhi kar rahy" | Keyword data se roz posts | ✅ (Ahrefs 9 Nov tak band – unit limit) |
+| 2 | 2sri site same design, tripod niche, static HTML (best-tripod.com) | Doosri affiliate site, halki aur tez | ✅ live |
+| 3 | Claude mods / agents dikhane wala panel | Dekhna kaun sa agent kya kar raha, tokens bachana | ✅ mod + Site Agent Flow dashboard |
+| 4 | "daily 3 to 4 blog post" → 17 Oct "4 to 5 daily, notification phone pa" | Tezi se content barhana | ⏸ 22 Oct se Light Mode (1/din) |
+| 5 | Tripod: USA brands ki category | Brand searches se traffic | ✅ /brands/ + brand pages |
+| 6 | Product images na dikhna, Amazon search links | Har product ki asli photo aur /dp/ link | ✅ ASIN + photo zaroori, search link nahi |
+| 7 | Products: Amazon reviews padh kar apni salah (copy nahi) | Asli, helpful content | ✅ "What owners say" + pain points |
+| 8 | Parasite SEO / Google policy wali behas | Earning strategy | ✅ baat hui, white-hat raasta chuna |
+| 9 | Schema add, sticky element hatao | Rich results, behtar UX | ✅ |
+| 10 | Pakistan mein site block | Site har jagah khule | ✅ Cloudflare settings |
+| 11 | Domain NS (best-tripod.com, best-safe.com) | Domain ko Cloudflare se jodna | ✅ |
+| 12 | Cost per blog, plan $20 → $100 → $200 tak tayyar, quality par compromise nahi | Budget samajhna | ✅ Opus hi likhta hai |
+| 13 | Amazon price check button | Click aur sales | ✅ |
+| 14 | How-we-research page mein sab likho | Trust (E-E-A-T) | ✅ |
+| 15 | Unsplash API se images | Posts mein photos | ✅ |
+| 16 | Language switcher, flags, DE/ES/NL, Amazon OneLink | EU Amazon commission | ✅ RSH + tripod; 20 Oct: sirf localized, translation backlog band |
+| 17 | Saari purani posts translate karo jaldi | EU traffic | ⏸ 20 Oct ko localization ke liye roka, 22 Oct Light Mode |
+| 18 | DeepSeek/AI bots ko Cloudflare par allow | AI search mein dikhna | ✅ |
+| 19 | DeepSeek, ChatGPT, Meta ke audits | Site ki kamzoriyan theek karna | ✅ zaroori fixes lagaye |
+| 20 | best-safe.com plan, topical map, posting schedule, Firecrawl key | Teesri site | ✅ live |
+| 21 | Saare keywords ka SERP check kar ke order | Asaan aur demand wale pehle | ✅ |
+| 22 | Safe keyword CSV/AI overview plan, duplicates filter | Safe site ke topics | ✅ (22 Oct naye list se badle) |
+| 23 | "Main Urdu mein baat karta hoon, Hindi nahi" | Sahi zubaan | ✅ Roman Urdu |
+| 24 | Title mein ":" nahi, exact keyword; title SERP dekh kar | CTR aur ranking | ✅ QA rule |
+| 25 | Product title H2, heading structure | Saaf SEO structure | ✅ |
+| 26 | Semantic SEO article padho | Content ki gehrai | ✅ brief mein entities |
+| 27 | Tripod author Damian Barczak (photo, page) → 19 Oct hata do | Real reviewer, phir faisla badla | ✅ hata diya, reviewedBy kabhi nahi |
+| 28 | I/my/we tone, story-based blogs | Insani, asli content | ✅ "From our notes" (23 Oct: products bhi) |
+| 29 | Safe tag trsese34-20, mobile responsive | Safe site ki kamai | ✅ |
+| 30 | Dashboard Figma jaisa, zoom, 5 din ke upcoming blogs, countdown | Sab agents aur schedule ek nazar mein | ✅ Site Agent Flow |
+| 31 | Low KD, long-tail, high volume keywords pehle | Jaldi ranking | ✅ |
+| 32 | Competitor-gap agent (kamzor sites ke keywords) | Asaan keywords | ✅ teeno sites |
+| 33 | Pain-point agent (Reddit, Quora, forums) | Logon ke asli masle hal karna | ✅ |
+| 34 | Garage + basement post merge | Cannibalization rokna | ✅ |
+| 35 | Safe meta title = sirf keyword, 2026 nahi | Safe site ka title rule | ✅ |
+| 36 | Information gain patent, concise content | Naya aur kaam ka content | ✅ "concise and new", trim |
+| 37 | Ranking tracking | Asar napna | ✅ |
+| 38 | Translations sirf translate nahi, local audience ke hisab se | Google ka "scaled translation" masla | ✅ localizer-agent |
+| 39 | Safe site sirf English | — | ✅ |
+| 40 | Handgun nightstand post foran, luxury watch safe keyword baad mein | Khaas topics | ✅ live / queue |
+| 41 | best-tripod.com EMD, homepage/H1/meta "best tripod" ke ird gird | Brand keyword par ranking | ✅ |
+| 42 | Spec sheet box | Product ki saaf maloomat | ✅ |
+| 43 | Post bina product images publish kyun hui | QA mazboot | ✅ QA rule |
+| 44 | Sirf tripod-focused competitor sites dhoondo | Sahi competitors | ✅ |
+| 45 | 20 Oct: "3no sites pa 10-10 blog daily" → 21 Oct "2 to 3 daily" → 22 Oct speed kam | Tezi vs usage limit | ⏸ ab 1/din |
+| 46 | "best for" long-tail keywords pehle | Khareedne wale searches | ✅ bestFirst |
+| 47 | Informational posts mein AI images | Text-only posts boring | ✅ |
+| 48 | Tripod ke naye keywords, cannibalization check | Naye topics | ✅ |
+| 49 | Bahar ke links max 2-3 | Page ki taaqat bahar na jaye | ✅ QA rule |
+
 ## 22 Oct 2026
 
 | Request (owner ke alfaaz) | Us waqt context | Status |
