@@ -8,6 +8,8 @@
 //              link to press "Request indexing".
 //   --notify   Google Indexing API (owner decision 2026-10-23, after being told Google only allows it for job and
 //              livestream pages and may ignore it or revoke access): URL_UPDATED for TARGETS (same matching as --check)
+//              TARGETS="*" = every blog URL of the site (English first, then translations), skipping URLs sent in
+//              the last 7 days (data/index/notified.json); stops at 190 URLs per run (daily quota 200), rerun next day
 //   --notify-recent  the same for every blog URL whose sitemap lastmod is in the last 26 hours (runs after each deploy)
 //              Needs the Web Search Indexing API enabled in the Google Cloud project and the service account
 //              added as an Owner of each Search Console property. Default quota: 200 URLs per day.
@@ -59,22 +61,35 @@ function matchTargets(urls) {
     t.startsWith('http') ? u === t || u === `${t.replace(/\/$/, '')}/` : slugOf(u) === t.replace(/\s+/g, '-') || slugOf(u) === t));
 }
 
+const sentFile = path.join(DATA_DIR, 'index', 'notified.json');
+const sent = fs.existsSync(sentFile) ? JSON.parse(fs.readFileSync(sentFile, 'utf8')) : {};
+let budget = 190;
+let pass = 0; // with TARGETS="*": pass 0 = English posts of every site, pass 1 = translations
+
 async function notify(domain, recent) {
   // The Indexing API needs the service account as an Owner of the property, not a Full user.
   const sitesRes = await fetch('https://www.googleapis.com/webmasters/v3/sites', { headers: { Authorization: `Bearer ${await googleAccessToken(JSON.parse(raw))}` } });
   const entries = sitesRes.ok ? (await sitesRes.json()).siteEntry ?? [] : [];
   const mine = entries.filter((e) => e.siteUrl.includes(domain)).map((e) => `${e.siteUrl}=${e.permissionLevel}`);
   console.log(`${domain}: Search Console permission ${mine.join(', ') || 'none'} (Indexing API needs siteOwner)`);
-  const urls = recent
+  const all = String(process.env.TARGETS ?? '').trim() === '*';
+  let urls = recent
     ? (await sitemapEntries(domain)).filter((e) => e.lastmod && Date.now() - Date.parse(e.lastmod) < 26 * 3600000).map((e) => e.url)
-    : matchTargets(await sitemapUrls(domain));
+    : all ? await sitemapUrls(domain) : matchTargets(await sitemapUrls(domain));
+  if (all) {
+    const lang = (u) => (/^\/[a-z]{2}\/blog\//.test(new URL(u).pathname) ? 1 : 0);
+    urls = urls.filter((u) => lang(u) === pass && !(Date.now() - Date.parse(sent[u] ?? 0) < 7 * 86400000));
+    console.log(`${domain}: ${urls.length} URLs not sent in the last 7 days`);
+  }
   if (!urls.length) return console.log(`${domain}: no URLs to send to the Indexing API`);
   for (const url of urls) {
+    if (budget <= 0) return console.log(`  daily budget used up; run again tomorrow for the rest of ${domain}`);
     const res = await fetch('https://indexing.googleapis.com/v3/urlNotifications:publish', {
       method: 'POST',
       headers: { ...auth, 'Content-Type': 'application/json' },
       body: JSON.stringify({ url, type: 'URL_UPDATED' }),
     });
+    if (res.ok) { budget--; sent[url] = new Date().toISOString(); }
     console.log(`  Indexing API ${res.ok ? 'SENT  ' : 'FAILED'} HTTP ${res.status}  ${url}${res.ok ? '' : `  ${(await res.text()).replace(/\s+/g, ' ').slice(0, 220)}`}`);
     if (res.status === 429 || res.status === 403) break; // quota, API disabled or not an Owner: the rest would fail the same way
   }
@@ -121,10 +136,15 @@ async function check(domain) {
   }
 }
 
-for (const domain of domains) {
+const passes = mode === '--notify' && String(process.env.TARGETS ?? '').trim() === '*' ? [0, 1] : [0];
+for (pass of passes) for (const domain of domains) {
   try {
     await (mode === '--submit' ? submit(domain) : notifying ? notify(domain, mode === '--notify-recent') : check(domain));
   } catch (e) {
     console.log(`${domain}: ${mode} failed (non-fatal): ${e.message}`);
   }
+}
+if (notifying) {
+  fs.mkdirSync(path.dirname(sentFile), { recursive: true });
+  fs.writeFileSync(sentFile, JSON.stringify(sent, null, 1) + '\n');
 }
