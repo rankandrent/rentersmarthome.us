@@ -1,0 +1,427 @@
+{
+ "domain": "best-tripod.com",
+ "startDate": "2026-09-23",
+ "endDate": "2026-10-20",
+ "rows": [
+  {
+   "page": "https://best-tripod.com/blog/how-tall-should-a-tripod-be-for-my-height/",
+   "clicks": 4,
+   "impressions": 122,
+   "ctr": 0.0328,
+   "position": 10.1
+  },
+  {
+   "page": "https://best-tripod.com/blog/peak-design-travel-tripod-vs-manfrotto-befree-advanced/",
+   "clicks": 2,
+   "impressions": 23,
+   "ctr": 0.087,
+   "position": 19.1
+  },
+  {
+   "page": "https://best-tripod.com/",
+   "clicks": 1,
+   "impressions": 12,
+   "ctr": 0.0833,
+   "position": 1.4
+  },
+  {
+   "page": "https://best-tripod.com/blog/ball-head-vs-pan-tilt-head-for-landscape-photography/",
+   "clicks": 1,
+   "impressions": 22,
+   "ctr": 0.0455,
+   "position": 19.5
+  },
+  {
+   "page": "https://best-tripod.com/blog/best-travel-tripod-for-mirrorless-camera/",
+   "clicks": 1,
+   "impressions": 31,
+   "ctr": 0.0323,
+   "position": 14.7
+  },
+  {
+   "page": "https://best-tripod.com/brand/benro/",
+   "clicks": 1,
+   "impressions": 17,
+   "ctr": 0.0588,
+   "position": 7.4
+  },
+  {
+   "page": "https://best-tripod.com/es/blog/que-altura-debe-tener-un-tripode/",
+   "clicks": 1,
+   "impressions": 15,
+   "ctr": 0.0667,
+   "position": 11.9
+  },
+  {
+   "page": "https://best-tripod.com/es/blog/rotula-de-bola-o-de-3-vias-para-paisaje/",
+   "clicks": 1,
+   "impressions": 2,
+   "ctr": 0.5,
+   "position": 34.5
+  },
+  {
+   "page": "https://www.best-tripod.com/brand/ulanzi/",
+   "clicks": 1,
+   "impressions": 11,
+   "ctr": 0.0909,
+   "position": 18.2
+  },
+  {
+   "page": "http://best-tripod.com/",
+   "clicks": 0,
+   "impressions": 22,
+   "ctr": 0,
+   "position": 1.2
+  },
+  {
+   "page": "https://best-tripod.com/about/",
+   "clicks": 0,
+   "impressions": 19,
+   "ctr": 0,
+   "position": 3.9
+  },
+  {
+   "page": "https://best-tripod.com/affiliate-disclosure/",
+   "clicks": 0,
+   "impressions": 12,
+   "ctr": 0,
+   "position": 11
+  },
+  {
+   "page": "https://best-tripod.com/authors/editorial-team/",
+   "clicks": 0,
+   "impressions": 10,
+   "ctr": 0,
+   "position": 16.7
+  },
+  {
+   "page": "https://best-tripod.com/blog/",
+   "clicks": 0,
+   "impressions": 18,
+   "ctr": 0,
+   "position": 3.9
+  },
+  {
+   "page": "https://best-tripod.com/blog/best-mini-tripod-for-desk-video-calls/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 6.5
+  },
+  {
+   "page": "https://best-tripod.com/blog/best-monopod-with-feet-for-wildlife-photography/",
+   "clicks": 0,
+   "impressions": 11,
+   "ctr": 0,
+   "position": 21.4
+  },
+  {
+   "page": "https://best-tripod.com/blog/best-phone-tripod-for-vlogging-with-remote/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 41
+  },
+  {
+   "page": "https://best-tripod.com/blog/best-tripod-for-iphone-night-mode-photos/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 27
+  },
+  {
+   "page": "https://best-tripod.com/blog/best-tripod-for-tall-photographers-over-6-feet/",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 30.4
+  },
+  {
+   "page": "https://best-tripod.com/blog/best-video-tripod-with-fluid-head-for-beginners/",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 22.8
+  },
+  {
+   "page": "https://best-tripod.com/blog/monopod-vs-tripod-for-sports-photography/",
+   "clicks": 0,
+   "impressions": 12,
+   "ctr": 0,
+   "position": 17.8
+  },
+  {
+   "page": "https://best-tripod.com/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/",
+   "clicks": 0,
+   "impressions": 14,
+   "ctr": 0,
+   "position": 15.9
+  },
+  {
+   "page": "https://best-tripod.com/brand/gitzo/",
+   "clicks": 0,
+   "impressions": 8,
+   "ctr": 0,
+   "position": 23.3
+  },
+  {
+   "page": "https://best-tripod.com/brand/k-and-f-concept/",
+   "clicks": 0,
+   "impressions": 11,
+   "ctr": 0,
+   "position": 21.4
+  },
+  {
+   "page": "https://best-tripod.com/brand/leofoto/",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 23.8
+  },
+  {
+   "page": "https://best-tripod.com/brand/manfrotto/",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 9
+  },
+  {
+   "page": "https://best-tripod.com/brand/ulanzi/",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 9.8
+  },
+  {
+   "page": "https://best-tripod.com/brands/",
+   "clicks": 0,
+   "impressions": 33,
+   "ctr": 0,
+   "position": 6.3
+  },
+  {
+   "page": "https://best-tripod.com/category/camera-tripods/",
+   "clicks": 0,
+   "impressions": 17,
+   "ctr": 0,
+   "position": 17.5
+  },
+  {
+   "page": "https://best-tripod.com/category/travel-tripods/",
+   "clicks": 0,
+   "impressions": 11,
+   "ctr": 0,
+   "position": 17.7
+  },
+  {
+   "page": "https://best-tripod.com/category/tripod-heads/",
+   "clicks": 0,
+   "impressions": 14,
+   "ctr": 0,
+   "position": 19.2
+  },
+  {
+   "page": "https://best-tripod.com/contact/",
+   "clicks": 0,
+   "impressions": 18,
+   "ctr": 0,
+   "position": 6.6
+  },
+  {
+   "page": "https://best-tripod.com/de/",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 33
+  },
+  {
+   "page": "https://best-tripod.com/de/blog/bestes-videostativ-mit-fluidkopf-fuer-anfaenger/",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 22.5
+  },
+  {
+   "page": "https://best-tripod.com/de/blog/kugelkopf-oder-3-wege-neiger-landschaftsfotografie/",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 30.5
+  },
+  {
+   "page": "https://best-tripod.com/de/blog/wie-hoch-sollte-ein-stativ-sein/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 22
+  },
+  {
+   "page": "https://best-tripod.com/editorial-policy/",
+   "clicks": 0,
+   "impressions": 13,
+   "ctr": 0,
+   "position": 10
+  },
+  {
+   "page": "https://best-tripod.com/es/",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 3.2
+  },
+  {
+   "page": "https://best-tripod.com/es/blog/mejor-tripode-de-viaje-para-camara-mirrorless/",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 15.8
+  },
+  {
+   "page": "https://best-tripod.com/es/blog/mejor-tripode-de-video-con-cabezal-fluido-para-principiantes/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 40
+  },
+  {
+   "page": "https://best-tripod.com/es/blog/mejor-tripode-para-movil-para-vlogs-con-control-remoto/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 55
+  },
+  {
+   "page": "https://best-tripod.com/es/blog/peak-design-travel-tripod-vs-manfrotto-befree-advanced-comparativa/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 38.7
+  },
+  {
+   "page": "https://best-tripod.com/how-we-research/",
+   "clicks": 0,
+   "impressions": 12,
+   "ctr": 0,
+   "position": 12.7
+  },
+  {
+   "page": "https://best-tripod.com/how-we-score/",
+   "clicks": 0,
+   "impressions": 12,
+   "ctr": 0,
+   "position": 13.3
+  },
+  {
+   "page": "https://best-tripod.com/nl/",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 24.7
+  },
+  {
+   "page": "https://best-tripod.com/nl/blog/balhoofd-of-3-weg-kop-voor-landschapsfotografie/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 38.5
+  },
+  {
+   "page": "https://best-tripod.com/nl/blog/beste-telefoonstatief-voor-vloggen-met-afstandsbediening/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 26
+  },
+  {
+   "page": "https://best-tripod.com/nl/blog/beste-videostatief-met-fluid-head-voor-beginners/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 41.5
+  },
+  {
+   "page": "https://best-tripod.com/nl/blog/hoe-hoog-moet-een-statief-zijn/",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 6.1
+  },
+  {
+   "page": "https://best-tripod.com/nl/blog/peak-design-travel-tripod-vs-manfrotto-befree-advanced-vergelijking/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 43.3
+  },
+  {
+   "page": "https://best-tripod.com/privacy-policy/",
+   "clicks": 0,
+   "impressions": 21,
+   "ctr": 0,
+   "position": 28
+  },
+  {
+   "page": "https://best-tripod.com/terms/",
+   "clicks": 0,
+   "impressions": 18,
+   "ctr": 0,
+   "position": 5.6
+  },
+  {
+   "page": "https://best-tripod.com/tripod-buying-checklist/",
+   "clicks": 0,
+   "impressions": 12,
+   "ctr": 0,
+   "position": 14.2
+  },
+  {
+   "page": "https://www.best-tripod.com/affiliate-disclosure/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 12.5
+  },
+  {
+   "page": "https://www.best-tripod.com/blog/",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 9
+  },
+  {
+   "page": "https://www.best-tripod.com/blog/best-tripod-for-real-estate-photography/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 7
+  },
+  {
+   "page": "https://www.best-tripod.com/brand/gitzo/",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 24.5
+  },
+  {
+   "page": "https://www.best-tripod.com/brand/sirui/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 22.7
+  },
+  {
+   "page": "https://www.best-tripod.com/de/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 9.7
+  },
+  {
+   "page": "https://www.best-tripod.com/terms/",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 9.5
+  }
+ ]
+}

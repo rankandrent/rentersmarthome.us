@@ -1,0 +1,525 @@
+{
+ "domain": "rentersmarthome.us",
+ "startDate": "2026-09-23",
+ "endDate": "2026-10-20",
+ "rows": [
+  {
+   "page": "https://rentersmarthome.us/blog/best-peephole-camera-for-apartments/",
+   "clicks": 6,
+   "impressions": 85,
+   "ctr": 0.0706,
+   "position": 25.1
+  },
+  {
+   "page": "https://rentersmarthome.us/reviews/best-stud-finder-with-deep-scan",
+   "clicks": 5,
+   "impressions": 42,
+   "ctr": 0.119,
+   "position": 24.5
+  },
+  {
+   "page": "https://rentersmarthome.us/blog/philips-hue-vs-wiz/",
+   "clicks": 4,
+   "impressions": 49,
+   "ctr": 0.0816,
+   "position": 21
+  },
+  {
+   "page": "https://rentersmarthome.us/blog/smart-ac-controller/",
+   "clicks": 4,
+   "impressions": 42,
+   "ctr": 0.0952,
+   "position": 31.2
+  },
+  {
+   "page": "https://rentersmarthome.us/blog/smart-thermostat-in-apartment/",
+   "clicks": 4,
+   "impressions": 59,
+   "ctr": 0.0678,
+   "position": 21.1
+  },
+  {
+   "page": "https://rentersmarthome.us/reviews/best-magnetic-stud-finder",
+   "clicks": 4,
+   "impressions": 45,
+   "ctr": 0.0889,
+   "position": 18.1
+  },
+  {
+   "page": "https://rentersmarthome.us/blog/alexa-vs-google-home/",
+   "clicks": 3,
+   "impressions": 17,
+   "ctr": 0.1765,
+   "position": 16.5
+  },
+  {
+   "page": "https://rentersmarthome.us/blog/best-pressure-mounted-baby-gate-for-renters/",
+   "clicks": 3,
+   "impressions": 27,
+   "ctr": 0.1111,
+   "position": 26
+  },
+  {
+   "page": "https://rentersmarthome.us/blog/best-smart-lock-for-renters/",
+   "clicks": 3,
+   "impressions": 28,
+   "ctr": 0.1071,
+   "position": 34.6
+  },
+  {
+   "page": "https://rentersmarthome.us/blog/blink-vs-ring-subscription/",
+   "clicks": 3,
+   "impressions": 30,
+   "ctr": 0.1,
+   "position": 17.5
+  },
+  {
+   "page": "https://rentersmarthome.us/blog/smart-home-for-renters/",
+   "clicks": 3,
+   "impressions": 25,
+   "ctr": 0.12,
+   "position": 15
+  },
+  {
+   "page": "https://rentersmarthome.us/categories/smart-locks",
+   "clicks": 3,
+   "impressions": 36,
+   "ctr": 0.0833,
+   "position": 14.1
+  },
+  {
+   "page": "https://rentersmarthome.us/reviews/best-budget-stud-finder",
+   "clicks": 3,
+   "impressions": 28,
+   "ctr": 0.1071,
+   "position": 22.5
+  },
+  {
+   "page": "https://rentersmarthome.us/reviews/best-renter-friendly-smart-locks-no-drilling",
+   "clicks": 3,
+   "impressions": 28,
+   "ctr": 0.1071,
+   "position": 34
+  },
+  {
+   "page": "https://rentersmarthome.us/blog/best-heavy-duty-adhesive-hooks-for-renters/",
+   "clicks": 2,
+   "impressions": 40,
+   "ctr": 0.05,
+   "position": 29.4
+  },
+  {
+   "page": "https://rentersmarthome.us/blog/best-led-strip-lights-for-renters/",
+   "clicks": 2,
+   "impressions": 27,
+   "ctr": 0.0741,
+   "position": 23.6
+  },
+  {
+   "page": "https://rentersmarthome.us/blog/best-matter-smart-plugs/",
+   "clicks": 2,
+   "impressions": 34,
+   "ctr": 0.0588,
+   "position": 21.9
+  },
+  {
+   "page": "https://rentersmarthome.us/blog/best-voice-assistant-speaker-for-small-apartments/",
+   "clicks": 2,
+   "impressions": 20,
+   "ctr": 0.1,
+   "position": 31.3
+  },
+  {
+   "page": "https://rentersmarthome.us/blog/how-to-cool-apartment-without-ac/",
+   "clicks": 2,
+   "impressions": 17,
+   "ctr": 0.1176,
+   "position": 35.2
+  },
+  {
+   "page": "https://rentersmarthome.us/blog/no-drill-motorized-blinds/",
+   "clicks": 2,
+   "impressions": 23,
+   "ctr": 0.087,
+   "position": 15.7
+  },
+  {
+   "page": "https://rentersmarthome.us/blog/ring-doorbell-in-apartment/",
+   "clicks": 2,
+   "impressions": 57,
+   "ctr": 0.0351,
+   "position": 23.7
+  },
+  {
+   "page": "https://rentersmarthome.us/reviews/wyze-vs-ring-vs-eufy-for-renters",
+   "clicks": 2,
+   "impressions": 44,
+   "ctr": 0.0455,
+   "position": 23.8
+  },
+  {
+   "page": "https://rentersmarthome.us/",
+   "clicks": 1,
+   "impressions": 39,
+   "ctr": 0.0256,
+   "position": 1.2
+  },
+  {
+   "page": "https://rentersmarthome.us/blog/best-magnetic-cabinet-locks-for-renters/",
+   "clicks": 1,
+   "impressions": 9,
+   "ctr": 0.1111,
+   "position": 33.8
+  },
+  {
+   "page": "https://rentersmarthome.us/blog/best-smart-light-bulbs-for-renters/",
+   "clicks": 1,
+   "impressions": 6,
+   "ctr": 0.1667,
+   "position": 39.8
+  },
+  {
+   "page": "https://rentersmarthome.us/blog/best-smart-smoke-detector-for-apartments/",
+   "clicks": 1,
+   "impressions": 10,
+   "ctr": 0.1,
+   "position": 29.6
+  },
+  {
+   "page": "https://rentersmarthome.us/blog/best-stud-finder-for-thick-walls/",
+   "clicks": 1,
+   "impressions": 11,
+   "ctr": 0.0909,
+   "position": 28.3
+  },
+  {
+   "page": "https://rentersmarthome.us/blog/best-water-leak-sensor-for-renters/",
+   "clicks": 1,
+   "impressions": 9,
+   "ctr": 0.1111,
+   "position": 50.1
+  },
+  {
+   "page": "https://rentersmarthome.us/blog/wyze-vs-ring-vs-eufy-for-renters/",
+   "clicks": 1,
+   "impressions": 17,
+   "ctr": 0.0588,
+   "position": 38.5
+  },
+  {
+   "page": "https://rentersmarthome.us/categories/security-cameras",
+   "clicks": 1,
+   "impressions": 33,
+   "ctr": 0.0303,
+   "position": 9.9
+  },
+  {
+   "page": "https://rentersmarthome.us/categories/video-doorbells",
+   "clicks": 1,
+   "impressions": 38,
+   "ctr": 0.0263,
+   "position": 15.6
+  },
+  {
+   "page": "https://rentersmarthome.us/de/blog/beste-wassermelder-fuer-mieter/",
+   "clicks": 1,
+   "impressions": 1,
+   "ctr": 1,
+   "position": 1
+  },
+  {
+   "page": "https://rentersmarthome.us/reviews",
+   "clicks": 1,
+   "impressions": 36,
+   "ctr": 0.0278,
+   "position": 3.4
+  },
+  {
+   "page": "https://rentersmarthome.us/reviews/best-no-drill-video-doorbells-for-renters",
+   "clicks": 1,
+   "impressions": 20,
+   "ctr": 0.05,
+   "position": 30.9
+  },
+  {
+   "page": "https://rentersmarthome.us/about",
+   "clicks": 0,
+   "impressions": 30,
+   "ctr": 0,
+   "position": 2.1
+  },
+  {
+   "page": "https://rentersmarthome.us/affiliate-disclosure",
+   "clicks": 0,
+   "impressions": 39,
+   "ctr": 0,
+   "position": 6.3
+  },
+  {
+   "page": "https://rentersmarthome.us/blog/2/",
+   "clicks": 0,
+   "impressions": 8,
+   "ctr": 0,
+   "position": 8
+  },
+  {
+   "page": "https://rentersmarthome.us/blog/best-cat-tree-for-small-apartment/",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 36.6
+  },
+  {
+   "page": "https://rentersmarthome.us/blog/best-dehumidifier-for-small-apartment/",
+   "clicks": 0,
+   "impressions": 31,
+   "ctr": 0,
+   "position": 42.5
+  },
+  {
+   "page": "https://rentersmarthome.us/blog/best-litter-box-for-small-apartment/",
+   "clicks": 0,
+   "impressions": 13,
+   "ctr": 0,
+   "position": 51.5
+  },
+  {
+   "page": "https://rentersmarthome.us/blog/best-magnetic-stud-finder/",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 29
+  },
+  {
+   "page": "https://rentersmarthome.us/blog/door-camera-for-apartment/",
+   "clicks": 0,
+   "impressions": 9,
+   "ctr": 0,
+   "position": 15.2
+  },
+  {
+   "page": "https://rentersmarthome.us/blog/locked-out-of-apartment/",
+   "clicks": 0,
+   "impressions": 9,
+   "ctr": 0,
+   "position": 15.7
+  },
+  {
+   "page": "https://rentersmarthome.us/blog/reolink-vs-eufy/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 27.5
+  },
+  {
+   "page": "https://rentersmarthome.us/blog/ring-vs-nest-doorbell/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 7
+  },
+  {
+   "page": "https://rentersmarthome.us/category/pets/",
+   "clicks": 0,
+   "impressions": 8,
+   "ctr": 0,
+   "position": 9.4
+  },
+  {
+   "page": "https://rentersmarthome.us/category/smart-locks/",
+   "clicks": 0,
+   "impressions": 8,
+   "ctr": 0,
+   "position": 20
+  },
+  {
+   "page": "https://rentersmarthome.us/category/storage-decor/",
+   "clicks": 0,
+   "impressions": 17,
+   "ctr": 0,
+   "position": 9.9
+  },
+  {
+   "page": "https://rentersmarthome.us/contact",
+   "clicks": 0,
+   "impressions": 36,
+   "ctr": 0,
+   "position": 4.4
+  },
+  {
+   "page": "https://rentersmarthome.us/de/",
+   "clicks": 0,
+   "impressions": 10,
+   "ctr": 0,
+   "position": 3.3
+  },
+  {
+   "page": "https://rentersmarthome.us/de/blog/alexa-oder-google-home/",
+   "clicks": 0,
+   "impressions": 9,
+   "ctr": 0,
+   "position": 23.8
+  },
+  {
+   "page": "https://rentersmarthome.us/de/blog/balkenfinder-fuer-dicke-waende/",
+   "clicks": 0,
+   "impressions": 8,
+   "ctr": 0,
+   "position": 24
+  },
+  {
+   "page": "https://rentersmarthome.us/de/blog/beste-matter-steckdosen/",
+   "clicks": 0,
+   "impressions": 11,
+   "ctr": 0,
+   "position": 26.3
+  },
+  {
+   "page": "https://rentersmarthome.us/de/blog/beste-smart-locks-fuer-mieter/",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 34.1
+  },
+  {
+   "page": "https://rentersmarthome.us/de/blog/beste-smart-speaker-fuer-kleine-wohnungen/",
+   "clicks": 0,
+   "impressions": 15,
+   "ctr": 0,
+   "position": 27.7
+  },
+  {
+   "page": "https://rentersmarthome.us/de/blog/beste-ueberwachungskamera-fuer-die-wohnung/",
+   "clicks": 0,
+   "impressions": 8,
+   "ctr": 0,
+   "position": 33.1
+  },
+  {
+   "page": "https://rentersmarthome.us/de/blog/katzenklo-fuer-kleine-wohnung/",
+   "clicks": 0,
+   "impressions": 10,
+   "ctr": 0,
+   "position": 19.4
+  },
+  {
+   "page": "https://rentersmarthome.us/de/blog/klimaanlage-smart-machen/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 65
+  },
+  {
+   "page": "https://rentersmarthome.us/de/blog/smart-home-fuer-mieter/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 11
+  },
+  {
+   "page": "https://rentersmarthome.us/de/blog/smarter-rauchmelder-fuer-die-mietwohnung/",
+   "clicks": 0,
+   "impressions": 8,
+   "ctr": 0,
+   "position": 13
+  },
+  {
+   "page": "https://rentersmarthome.us/es/",
+   "clicks": 0,
+   "impressions": 8,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "page": "https://rentersmarthome.us/es/blog/",
+   "clicks": 0,
+   "impressions": 8,
+   "ctr": 0,
+   "position": 7
+  },
+  {
+   "page": "https://rentersmarthome.us/es/blog/alexa-o-google-home/",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 71.2
+  },
+  {
+   "page": "https://rentersmarthome.us/es/blog/mejor-altavoz-inteligente-para-pisos-pequenos/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 87
+  },
+  {
+   "page": "https://rentersmarthome.us/es/blog/mejores-bombillas-inteligentes-para-inquilinos/",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 37.6
+  },
+  {
+   "page": "https://rentersmarthome.us/es/blog/mejores-cerraduras-inteligentes-para-pisos-de-alquiler/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 73.5
+  },
+  {
+   "page": "https://rentersmarthome.us/es/blog/philips-hue-o-wiz/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 8
+  },
+  {
+   "page": "https://rentersmarthome.us/es/blog/piso-de-alquiler-a-prueba-de-bebes/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 90
+  },
+  {
+   "page": "https://rentersmarthome.us/es/blog/timbre-con-camara-sin-suscripcion-para-inquilinos/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 89
+  },
+  {
+   "page": "https://rentersmarthome.us/es/blog/tiras-led-para-piso-de-alquiler/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 4
+  },
+  {
+   "page": "https://rentersmarthome.us/how-we-research",
+   "clicks": 0,
+   "impressions": 32,
+   "ctr": 0,
+   "position": 6.4
+  },
+  {
+   "page": "https://rentersmarthome.us/how-we-research/",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 12.6
+  },
+  {
+   "page": "https://rentersmarthome.us/nl/",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "page": "https://rentersmarthome.us/nl/blog/ledstrip-huurwoning/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 20
+  }
+ ]
+}
