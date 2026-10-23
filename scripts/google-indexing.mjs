@@ -6,6 +6,11 @@
 //              site): TARGETS = comma-separated keywords, slugs or URLs, matched against the sitemap's blog
 //              URLs. Writes data/index/<domain>.json and prints each page's status with a Search Console
 //              link to press "Request indexing".
+//   --notify   Google Indexing API (owner decision 2026-10-23, after being told Google only allows it for job and
+//              livestream pages and may ignore it or revoke access): URL_UPDATED for TARGETS (same matching as --check)
+//   --notify-recent  the same for every blog URL whose sitemap lastmod is in the last 26 hours (runs after each deploy)
+//              Needs the Web Search Indexing API enabled in the Google Cloud project and the service account
+//              added as an Owner of each Search Console property. Default quota: 200 URLs per day.
 // Needs GSC_SERVICE_ACCOUNT_JSON (service account with Full access to each property).
 //   node scripts/google-indexing.mjs --submit best-tripod.com
 //   TARGETS="best travel safe, https://best-tripod.com/blog/ball-head-tripod/" node scripts/google-indexing.mjs --check best-safe.com best-tripod.com
@@ -15,13 +20,14 @@ import { DATA_DIR } from '../agents/lib/config.mjs';
 import { googleAccessToken } from '../agents/lib/google.mjs';
 
 const [mode, ...domains] = process.argv.slice(2);
-if (!['--submit', '--check'].includes(mode) || !domains.length) throw new Error('usage: node scripts/google-indexing.mjs --submit|--check <domain>...');
+if (!['--submit', '--check', '--notify', '--notify-recent'].includes(mode) || !domains.length) throw new Error('usage: node scripts/google-indexing.mjs --submit|--check|--notify|--notify-recent <domain>...');
 const raw = process.env.GSC_SERVICE_ACCOUNT_JSON;
 if (!raw) {
   console.log('GSC_SERVICE_ACCOUNT_JSON not set; nothing done.');
   process.exit(0);
 }
-const token = await googleAccessToken(JSON.parse(raw));
+const notifying = mode.startsWith('--notify');
+const token = await googleAccessToken(JSON.parse(raw), notifying ? 'https://www.googleapis.com/auth/indexing' : undefined);
 const auth = { Authorization: `Bearer ${token}` };
 
 // Domain property first, then URL-prefix (rentersmarthome.us is https://rentersmarthome.us/).
@@ -31,13 +37,42 @@ async function propertyFor(domain) {
   return [`sc-domain:${domain}`, `https://${domain}/`, `https://www.${domain}/`].find((s) => sites.includes(s)) ?? `sc-domain:${domain}`;
 }
 
-async function sitemapUrls(domain) {
+async function sitemapEntries(domain) {
   const get = async (u) => (await fetch(u, { signal: AbortSignal.timeout(20000) })).text();
   const locs = (xml) => [...xml.matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1].trim());
   const index = await get(`https://${domain}/sitemap-index.xml`);
-  const urls = [];
-  for (const sm of locs(index)) urls.push(...locs(await get(sm)));
-  return urls.filter((u) => /\/blog\/[^/]+\/$/.test(new URL(u).pathname));
+  const out = [];
+  for (const sm of locs(index)) {
+    for (const m of (await get(sm)).matchAll(/<url>([\s\S]*?)<\/url>/g)) {
+      const loc = m[1].match(/<loc>([^<]+)<\/loc>/)?.[1]?.trim();
+      if (loc && /\/blog\/[^/]+\/$/.test(new URL(loc).pathname)) out.push({ url: loc, lastmod: m[1].match(/<lastmod>([^<]+)<\/lastmod>/)?.[1] });
+    }
+  }
+  return out;
+}
+const sitemapUrls = async (domain) => (await sitemapEntries(domain)).map((e) => e.url);
+
+function matchTargets(urls) {
+  const targets = String(process.env.TARGETS ?? '').split(',').map((s) => s.trim().toLowerCase()).filter(Boolean);
+  const slugOf = (u) => new URL(u).pathname.split('/').filter(Boolean).at(-1);
+  return urls.filter((u) => targets.some((t) =>
+    t.startsWith('http') ? u === t || u === `${t.replace(/\/$/, '')}/` : slugOf(u) === t.replace(/\s+/g, '-') || slugOf(u) === t));
+}
+
+async function notify(domain, recent) {
+  const urls = recent
+    ? (await sitemapEntries(domain)).filter((e) => e.lastmod && Date.now() - Date.parse(e.lastmod) < 26 * 3600000).map((e) => e.url)
+    : matchTargets(await sitemapUrls(domain));
+  if (!urls.length) return console.log(`${domain}: no URLs to send to the Indexing API`);
+  for (const url of urls) {
+    const res = await fetch('https://indexing.googleapis.com/v3/urlNotifications:publish', {
+      method: 'POST',
+      headers: { ...auth, 'Content-Type': 'application/json' },
+      body: JSON.stringify({ url, type: 'URL_UPDATED' }),
+    });
+    console.log(`  Indexing API ${res.ok ? 'SENT  ' : 'FAILED'} HTTP ${res.status}  ${url}${res.ok ? '' : `  ${(await res.text()).replace(/\s+/g, ' ').slice(0, 220)}`}`);
+    if (res.status === 429 || res.status === 403) break; // quota, API disabled or not an Owner: the rest would fail the same way
+  }
 }
 
 async function submit(domain) {
@@ -54,11 +89,8 @@ async function submit(domain) {
 
 async function check(domain) {
   const site = await propertyFor(domain);
-  const targets = String(process.env.TARGETS ?? '').split(',').map((s) => s.trim().toLowerCase()).filter(Boolean);
-  if (!targets.length) return console.log(`${domain}: no TARGETS given; nothing checked (the whole site is never checked).`);
-  const slugOf = (u) => new URL(u).pathname.split('/').filter(Boolean).at(-1);
-  const urls = (await sitemapUrls(domain)).filter((u) => targets.some((t) =>
-    t.startsWith('http') ? u === t || u === `${t.replace(/\/$/, '')}/` : slugOf(u) === t.replace(/\s+/g, '-') || slugOf(u) === t));
+  if (!String(process.env.TARGETS ?? '').trim()) return console.log(`${domain}: no TARGETS given; nothing checked (the whole site is never checked).`);
+  const urls = matchTargets(await sitemapUrls(domain));
   if (!urls.length) return console.log(`${domain}: none of the targets match a blog URL`);
   const results = [];
   for (const url of urls) {
@@ -86,7 +118,7 @@ async function check(domain) {
 
 for (const domain of domains) {
   try {
-    await (mode === '--submit' ? submit(domain) : check(domain));
+    await (mode === '--submit' ? submit(domain) : notifying ? notify(domain, mode === '--notify-recent') : check(domain));
   } catch (e) {
     console.log(`${domain}: ${mode} failed (non-fatal): ${e.message}`);
   }

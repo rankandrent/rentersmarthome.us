@@ -9,6 +9,11 @@ on:
       targets:
         description: 'Keywords, slugs or URLs to check, comma separated'
         required: true
+      action:
+        description: 'check = URL Inspection status; notify = send the URLs to the Google Indexing API'
+        type: choice
+        options: [check, notify]
+        default: check
 
 permissions:
   contents: write
@@ -30,14 +35,21 @@ jobs:
         env:
           GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
         run: node scripts/google-indexing.mjs --submit rentersmarthome.us best-tripod.com best-safe.com
+      - name: Send URLs to the Google Indexing API
+        if: inputs.action == 'notify'
+        env:
+          GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
+          TARGETS: ${{ inputs.targets }}
+        run: node scripts/google-indexing.mjs --notify rentersmarthome.us best-tripod.com best-safe.com | tee notify.log
       - name: Inspect URLs
+        if: inputs.action != 'notify'
         env:
           GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
           TARGETS: ${{ inputs.targets }}
         run: node scripts/google-indexing.mjs --check rentersmarthome.us best-tripod.com best-safe.com | tee check.log
       - name: Summary
         run: |
-          { echo '### Index status'; echo '```'; cat check.log || true; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+          { echo '### Index status'; echo '```'; cat check.log notify.log 2>/dev/null || true; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
       - name: Commit and push
         run: |
           if [ -z "$(git status --porcelain data/index)" ]; then echo "No changes."; exit 0; fi

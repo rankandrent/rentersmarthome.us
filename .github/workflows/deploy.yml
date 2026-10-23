@@ -140,4 +140,6 @@ jobs:
         continue-on-error: true
         env:
           GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
-        run: node scripts/google-indexing.mjs --submit rentersmarthome.us
+        run: |
+          node scripts/google-indexing.mjs --submit rentersmarthome.us
+          node scripts/google-indexing.mjs --notify-recent rentersmarthome.us

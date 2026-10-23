@@ -166,7 +166,9 @@ jobs:
         continue-on-error: true
         env:
           GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
-        run: node agents-repo/scripts/google-indexing.mjs --submit "$DOMAIN"
+        run: |
+          node agents-repo/scripts/google-indexing.mjs --submit "$DOMAIN"
+          node agents-repo/scripts/google-indexing.mjs --notify-recent "$DOMAIN"
 
       - name: Notify search engines (IndexNow for Bing and Yandex)
         working-directory: site
