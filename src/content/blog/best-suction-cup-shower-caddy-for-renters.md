@@ -365,6 +365,9 @@ related:
 videos:
   - id: uB0dOKFYYJc
     afterHeading: 3
+    title: simplehuman Adjustable Shower Caddy
+    channel: simplehuman
+    checked: '2026-10-23'
 heroImage: /images/featured/best-suction-cup-shower-caddy-for-renters.png
 heroAlt: >-
   Best Suction Cup Shower Caddy for Renters – 5 Picks That Stay Put –
