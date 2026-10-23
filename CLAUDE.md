@@ -13,6 +13,8 @@ write the durable part into the file the matching agent reads, in the same sessi
 - rules for every site → the same change in all three repos (rentersmarthome.us, best-tripod.com, best-safe.com)
 Label it "owner rule YYYY-MM-DD", keep the owner's intent, never weaken an older rule silently (if a new rule
 conflicts with an old one, ask the owner which wins and record the answer). Commit and push the change.
+Also log every owner request (date, owner's words, context, status) in rentersmarthome.us/docs/owner-requests.md and
+update its status when it changes, so the owner can see what was asked and what is done.
 
 ## Owner rules not covered by an agent file (kept here)
 
