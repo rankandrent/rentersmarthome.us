@@ -1,0 +1,521 @@
+{
+  "keyword": "best suction cup shower caddy for renters",
+  "createdAt": "2026-10-23T10:04:31.755Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "suction cup shower caddy",
+    "entityVariants": [
+      "suction shower caddy",
+      "no-drill shower caddy",
+      "suction cup shower shelf",
+      "hanging shower caddy with suction cups",
+      "renter-friendly shower caddy",
+      "adhesive shower caddy"
+    ],
+    "entities": [
+      {
+        "name": "suction cup",
+        "type": "hardware part",
+        "relation": "holds the caddy or its base against smooth tile or glass by vacuum"
+      },
+      {
+        "name": "over-the-showerhead caddy",
+        "type": "product type",
+        "relation": "hangs from the shower arm and uses suction cups only to stop sway"
+      },
+      {
+        "name": "adhesive pad",
+        "type": "hardware part",
+        "relation": "the main alternative to suction for wall-mounted caddies"
+      },
+      {
+        "name": "Command water-resistant strips",
+        "type": "adhesive system",
+        "relation": "stretch-release strips built for bathrooms; remove without residue when done right"
+      },
+      {
+        "name": "grout line",
+        "type": "surface feature",
+        "relation": "breaks the seal of any suction cup placed across it"
+      },
+      {
+        "name": "textured tile",
+        "type": "surface",
+        "relation": "lets air leak into suction cups, so they release"
+      },
+      {
+        "name": "shower arm",
+        "type": "plumbing part",
+        "relation": "what a hanging caddy clamps or hooks onto"
+      },
+      {
+        "name": "simplehuman",
+        "type": "brand",
+        "relation": "maker of the clamp-and-suction adjustable caddy"
+      },
+      {
+        "name": "OXO Good Grips",
+        "type": "brand",
+        "relation": "maker of the 3-tier aluminum hanging caddy"
+      },
+      {
+        "name": "KINCMAX",
+        "type": "brand",
+        "relation": "maker of the viral adhesive stainless shelf"
+      },
+      {
+        "name": "SMARTAKE",
+        "type": "brand",
+        "relation": "maker of adhesive corner baskets"
+      },
+      {
+        "name": "Command (3M)",
+        "type": "brand",
+        "relation": "maker of the strip-mounted shower caddy"
+      },
+      {
+        "name": "security deposit",
+        "type": "lease concept",
+        "relation": "wall damage at move-out is deducted from it"
+      },
+      {
+        "name": "anodized aluminum",
+        "type": "material",
+        "relation": "rustproof caddy frame material"
+      },
+      {
+        "name": "304 stainless steel",
+        "type": "material",
+        "relation": "rust-resistant wire basket material"
+      }
+    ],
+    "attributes": [
+      "mount type (suction, hanging, adhesive, tension)",
+      "surface compatibility (glossy tile, glass, textured tile, painted wall)",
+      "weight capacity",
+      "rust resistance",
+      "adjustable shelves",
+      "handheld shower hose clearance",
+      "removal without damage",
+      "cure time before loading",
+      "drainage",
+      "hooks for razor and loofah"
+    ],
+    "ngrams": [
+      "suction cup shower caddy",
+      "shower caddy for renters",
+      "no drilling",
+      "over the shower head",
+      "suction cups",
+      "adhesive shower caddy",
+      "corner shower caddy",
+      "stays put",
+      "grout line",
+      "weight capacity",
+      "rust proof",
+      "shower arm",
+      "move-out day",
+      "security deposit"
+    ],
+    "skipgrams": [
+      "suction…tile",
+      "caddy…slides",
+      "adhesive…remove",
+      "grout…seal",
+      "hook…shower arm",
+      "strips…stretch"
+    ],
+    "nlpTerms": [
+      "suction",
+      "vacuum seal",
+      "tile",
+      "glass",
+      "grout",
+      "textured",
+      "adhesive",
+      "strips",
+      "stainless steel",
+      "aluminum",
+      "rust",
+      "hooks",
+      "razor",
+      "loofah",
+      "shampoo",
+      "conditioner",
+      "bottles",
+      "shower head",
+      "hose",
+      "landlord",
+      "lease",
+      "deposit",
+      "residue",
+      "hair dryer",
+      "rubbing alcohol",
+      "24 hours",
+      "corner",
+      "basket",
+      "drainage",
+      "renters"
+    ],
+    "questions": [
+      "Do suction cup shower caddies actually stay up?",
+      "Why does my suction shower caddy keep falling?",
+      "How do you make suction cups stick to shower tile?",
+      "Is adhesive or suction better for a shower caddy in a rental?",
+      "Will an adhesive shower caddy damage tile or paint?",
+      "How do you remove an adhesive shower caddy at move-out?",
+      "Do suction cups work on textured tile?"
+    ],
+    "contentGaps": [
+      "Which mount type works on which shower surface (glossy tile, glass, textured tile, painted wall)",
+      "How to remove each type at move-out without losing deposit money",
+      "Why hanging caddies use suction cups only as stabilizers and why that is the reliable way to use suction",
+      "What to do when a suction caddy keeps falling (cleaning, warming, swapping to strips)",
+      "Move-in photos of the shower wall before mounting"
+    ],
+    "outline": [
+      {
+        "h2": "The best suction cup shower caddy for renters: short answer",
+        "intent": "direct answer and top picks",
+        "h3": []
+      },
+      {
+        "h2": "Why most suction cup caddies fall, and what works instead",
+        "intent": "pain point: suction failure, textured tile",
+        "h3": []
+      },
+      {
+        "h2": "The 5 best shower caddies for renters who can't drill",
+        "intent": "product reviews",
+        "h3": [
+          "simplehuman Adjustable Shower Caddy",
+          "OXO Good Grips 3-Tier Aluminum Shower Caddy",
+          "Command Shower Caddy",
+          "KINCMAX Premium Shower Caddy",
+          "SMARTAKE 2-Pack Corner Shower Caddy"
+        ]
+      },
+      {
+        "h2": "Compare the picks",
+        "intent": "comparison table by mount and surface",
+        "h3": []
+      },
+      {
+        "h2": "How to make suction cups stick (and when to stop trying)",
+        "intent": "install steps, pain points",
+        "h3": []
+      },
+      {
+        "h2": "Move-out day: removing a caddy without losing deposit money",
+        "intent": "renter gap: removal, landlord",
+        "h3": []
+      },
+      {
+        "h2": "Our verdict",
+        "intent": "close the opening scene, next read",
+        "h3": []
+      }
+    ],
+    "targetWords": 1650,
+    "serpProducts": [
+      {
+        "name": "simplehuman Adjustable Shower Caddy",
+        "pages": [
+          "https://www.nytimes.com/wirecutter/reviews/the-best-shower-caddy/",
+          "https://www.consumerreports.org/home-garden/bathroom/the-best-shower-caddy-is-one-that-stays-put-a4662700484/",
+          "https://www.cnn.com/cnn-underscored/home/best-shower-caddies",
+          "https://nymag.com/strategist/article/simplehuman-adjustable-shower-caddy-review.html",
+          "https://ask.metafilter.com/383227/Incredibly-long-lasting-shower-shelf-with-no-drilling"
+        ]
+      },
+      {
+        "name": "OXO Good Grips 3-Tier Aluminum Shower Caddy",
+        "pages": [
+          "https://www.nytimes.com/wirecutter/reviews/the-best-shower-caddy/",
+          "https://www.consumerreports.org/home-garden/bathroom/the-best-shower-caddy-is-one-that-stays-put-a4662700484/",
+          "https://www.cnn.com/cnn-underscored/home/best-shower-caddies"
+        ]
+      },
+      {
+        "name": "Command Shower Caddy",
+        "pages": [
+          "https://www.reddit.com/r/CleaningTips/comments/1jefa75/any_help_with_relaible_shower_shelving_please/",
+          "https://ask.metafilter.com/383227/Incredibly-long-lasting-shower-shelf-with-no-drilling",
+          "https://www.reddit.com/r/homeimprovementideas/comments/18nzqht/decent_adhesive_shower_caddy_on_amz_that_would/"
+        ]
+      },
+      {
+        "name": "KINCMAX Premium Shower Caddy",
+        "pages": [
+          "https://www.techgearlab.com/topics/home/best-shower-caddy",
+          "https://www.allure.com/story/kincmax-shower-caddy-amazon-review",
+          "https://www.familyhandyman.com/article/kincmax-shower-caddy/"
+        ]
+      },
+      {
+        "name": "SMARTAKE 2-Pack Corner Shower Caddy",
+        "pages": [
+          "https://www.techgearlab.com/topics/home/best-shower-caddy",
+          "https://www.cnn.com/cnn-underscored/home/best-shower-caddies"
+        ]
+      },
+      {
+        "name": "Zenna Home Expandable Over-the-Shower Caddy - dropped: only TechGearLab recommends it; Wirecutter says its hook slid off the shower arm",
+        "pages": [
+          "https://www.techgearlab.com/topics/home/best-shower-caddy"
+        ]
+      },
+      {
+        "name": "TAILI Suction Cup Shower Caddy - dropped: no independent editorial top-10 page recommends it (only store blogs and YouTube)",
+        "pages": []
+      }
+    ],
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://www.techgearlab.com/topics/home/best-shower-caddy",
+        "https://www.cnn.com/cnn-underscored/home/best-shower-caddies",
+        "https://www.allure.com/story/kincmax-shower-caddy-amazon-review",
+        "https://www.familyhandyman.com/article/kincmax-shower-caddy/",
+        "https://nymag.com/strategist/article/simplehuman-adjustable-shower-caddy-review.html",
+        "https://www.consumerreports.org/home-garden/bathroom/the-best-shower-caddy-is-one-that-stays-put-a4662700484/"
+      ],
+      "productStyle": "paragraph",
+      "productStyleReason": "CNN Underscored, the Strategist and Allure review each caddy in prose paragraphs; only TechGearLab and Family Handyman add pros/cons lists.",
+      "avgWords": 1530,
+      "avgProducts": 5,
+      "commonSections": [
+        "top picks",
+        "per-product review",
+        "mount types (hanging, adhesive, suction, tension)",
+        "how to choose",
+        "installation tips"
+      ],
+      "usesComparisonTable": false,
+      "usesFaq": true,
+      "usesBuyingGuide": true
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.amazon.com/heavy-duty-suction-shower-caddy/s?k=heavy+duty+suction+shower+caddy",
+        "title": "Heavy Duty Suction Shower Caddy - Amazon.com"
+      },
+      {
+        "position": 2,
+        "url": "https://www.nytimes.com/wirecutter/reviews/the-best-shower-caddy/",
+        "title": "The Best Shower Caddy | Reviews by Wirecutter - The New York Times"
+      },
+      {
+        "position": 3,
+        "url": "https://www.reddit.com/r/CleaningTips/comments/1jefa75/any_help_with_relaible_shower_shelving_please/",
+        "title": "Any help with relaible shower shelving please? : r/CleaningTips - Reddit"
+      },
+      {
+        "position": 4,
+        "url": "https://www.techgearlab.com/topics/home/best-shower-caddy",
+        "title": "The Best Shower Caddy | Tested & Ranked - TechGearLab"
+      },
+      {
+        "position": 5,
+        "url": "https://www.homedepot.com/b/Bath-Shower-Accessories-Shower-Caddies/Suction-Cup/N-5yc1vZcfvdZ1z1bypt",
+        "title": "Suction Cup - Shower Caddies - The Home Depot"
+      },
+      {
+        "position": 6,
+        "url": "https://www.allure.com/story/kincmax-shower-caddy-amazon-review",
+        "title": "I've Finally Found a Shower Shelf That Can Hold My Products Without ..."
+      },
+      {
+        "position": 7,
+        "url": "https://www.facebook.com/groups/homedesign/posts/1489824525073729/",
+        "title": "Shower caddy ideas for a rental please? I bought one that you stick ..."
+      },
+      {
+        "position": 8,
+        "url": "https://www.amazon.com/Best-Sellers-Shower-Caddies/zgbs/home-garden/85969011",
+        "title": "Amazon Best Sellers: Best Shower Caddies"
+      },
+      {
+        "position": 9,
+        "url": "https://www.consumerreports.org/home-garden/bathroom/the-best-shower-caddy-is-one-that-stays-put-a4662700484/",
+        "title": "3 Best Shower Caddies of 2026, Tested by Experts"
+      },
+      {
+        "position": 10,
+        "url": "https://www.youtube.com/watch?v=grA3G62mEnE",
+        "title": "Taili Shower Caddy Suction Cup No Drilling Gadget Review - YouTube"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 0,
+      "withYear": 1,
+      "withNumber": 1,
+      "commonModifiers": [
+        "Best Shower Caddy",
+        "suction",
+        "no drilling",
+        "heavy duty",
+        "tested",
+        "stays put / without breaking"
+      ],
+      "gap": "None of them is written for renters: which mount actually stays up on rental tile and how each one comes off on move-out day without costing deposit money"
+    },
+    "commonPoints": [
+      "Hanging over-the-showerhead caddies are the easiest no-drill option",
+      "Adhesive pads hold more weight and more reliably than suction cups",
+      "Suction cups need smooth, non-porous surfaces and fail on textured tile and grout",
+      "Rustproof materials (stainless steel, anodized aluminum) matter in a wet shower",
+      "Adhesive pads need a clean, dry wall and time to cure before loading"
+    ],
+    "ourGain": [
+      {
+        "point": "The reliable way to use suction is as a stabilizer under a clamp or hook (simplehuman, OXO), not as the only thing holding the weight; matches the Reddit and MetaFilter owner reports",
+        "source": "https://nymag.com/strategist/article/simplehuman-adjustable-shower-caddy-review.html"
+      },
+      {
+        "point": "Mount-by-surface matrix for rental showers: glossy tile, glass, textured tile, fiberglass and painted walls",
+        "source": "https://www.command.com/3M/en_US/p/d/b5005604030/"
+      },
+      {
+        "point": "Move-out removal plan per mount type (warm then stretch or peel, hair dryer, residue) tied to deposit deductions, where damaged walls are the leading cause renters report",
+        "source": "https://www.joinroost.com/post/security-deposits-what-roost-members-say-2021-survey-results"
+      },
+      {
+        "point": "Owner pain points from Reddit and MetaFilter in renters' own words with the fix for each",
+        "source": "data/pain-points.json (kitchen-bath)"
+      },
+      {
+        "point": "Photograph the shower wall before mounting: over half of renters skip move-in photos",
+        "source": "https://www.joinroost.com/post/security-deposits-what-roost-members-say-2021-survey-results"
+      }
+    ],
+    "painPoints": [
+      {
+        "id": "kitchen-bath-suction-caddy-falls",
+        "pain": "Suction cup shower caddies fall off the wall, often within days and once they hold full bottles",
+        "details": "Renters who can't drill buy suction baskets, load them with shampoo and find them on the shower floor; many give up on suction and move to adhesive or hanging caddies.",
+        "sources": [
+          "https://www.reddit.com/r/CleaningTips/comments/1jefa75/any_help_with_relaible_shower_shelving_please/",
+          "https://www.reddit.com/r/lifehacks/comments/1da3ij/cheap_lifehack_for_the_annoying_shower_caddy_that/",
+          "https://www.reddit.com/r/femalelivingspace/comments/1v1cx9q/what_type_of_shower_caddy_would_you_recommend/",
+          "https://www.reddit.com/r/lifehacks/comments/113ot48/help_make_suction_cups_stick_on_shower_wall/"
+        ],
+        "quotes": [
+          {
+            "text": "Renter-friendly sticky suction cups can only do so much.",
+            "url": "https://www.reddit.com/r/CleaningTips/comments/1jefa75/any_help_with_relaible_shower_shelving_please/"
+          },
+          {
+            "text": "The suction ones frequently fell down and scared the life out of me.",
+            "url": "https://www.reddit.com/r/femalelivingspace/comments/1v1cx9q/what_type_of_shower_caddy_would_you_recommend/"
+          }
+        ]
+      },
+      {
+        "id": "kitchen-bath-textured-tile-no-seal",
+        "pain": "Suction cups won't seal on textured, porous or stone tile, or across grout lines",
+        "details": "Owners with textured tile, stone or matte surfaces report air creeping into the cup after a few days; fixed suction cups that land on a grout line never seal.",
+        "sources": [
+          "https://www.reddit.com/r/homeimprovementideas/comments/18nzqht/decent_adhesive_shower_caddy_on_amz_that_would/",
+          "https://ask.metafilter.com/383227/Incredibly-long-lasting-shower-shelf-with-no-drilling",
+          "https://www.reddit.com/r/DIYUK/comments/1lh27b2/how_to_stick_suction_cups_to_shower/"
+        ],
+        "quotes": [
+          {
+            "text": "IME suction cups are more about the wall material than the suction cups.",
+            "url": "https://ask.metafilter.com/383227/Incredibly-long-lasting-shower-shelf-with-no-drilling"
+          }
+        ]
+      },
+      {
+        "id": "kitchen-bath-adhesive-removal-move-out",
+        "pain": "Adhesive shower shelves are hard to remove at move-out and can pull paint or leave residue",
+        "details": "Renters switch from suction to adhesive pads, then worry about move-out day: big pads take effort to peel and 'damage-free' strips can lift paint if pulled cold or outward.",
+        "sources": [
+          "https://www.reddit.com/r/HomeImprovement/comments/7x1htj/3m_command_strips_in_the_bathroom/",
+          "https://www.familyhandyman.com/article/kincmax-shower-caddy/",
+          "https://www.reddit.com/r/ApartmentHacks/comments/18o021y/ecofriendly_adhesive_shower_shelves_from_amz/"
+        ],
+        "quotes": [
+          {
+            "text": "The no damage is a lie if you don't warm the adhesive first.",
+            "url": "https://www.reddit.com/r/HomeImprovement/comments/7x1htj/3m_command_strips_in_the_bathroom/"
+          }
+        ]
+      },
+      {
+        "id": "kitchen-bath-hanging-caddy-slides",
+        "pain": "Over-the-showerhead caddies slide down the shower arm and swing when the suction cups let go",
+        "details": "Hanging caddies with a bare metal hook slip down the pipe and swing into the wall; the bottom suction cups pop off even when the caddy is empty.",
+        "sources": [
+          "https://www.reddit.com/r/ApartmentHacks/comments/1mldq0h/easy_to_remove_shower_caddies/",
+          "https://www.reddit.com/r/CleaningTips/comments/usemqf/idk_what_subreddit_to_post_this_on_shower_caddy/",
+          "https://www.cnn.com/cnn-underscored/home/best-shower-caddies"
+        ],
+        "quotes": [
+          {
+            "text": "It keeps slipping off even with suction cups.",
+            "url": "https://www.reddit.com/r/ApartmentHacks/comments/1mldq0h/easy_to_remove_shower_caddies/"
+          }
+        ]
+      }
+    ],
+    "stats": [
+      {
+        "number": "56%",
+        "claim": "of renters name damaged walls and paint as the leading cause of security deposit deductions (Roost 2021 survey)",
+        "url": "https://www.joinroost.com/post/security-deposits-what-roost-members-say-2021-survey-results",
+        "quote": "Leading cause for deposit reductions reported by renters - damaged walls and paint 56%"
+      },
+      {
+        "number": "51.6 percent",
+        "claim": "of renters did not take photos of their apartment after moving in",
+        "url": "https://www.joinroost.com/post/security-deposits-what-roost-members-say-2021-survey-results",
+        "quote": "more than half (51.6 percent) of renters did not take photos of their apartment after they moved in"
+      },
+      {
+        "number": "6.5lbs",
+        "claim": "Command Bath Shower Caddy load rating",
+        "url": "https://www.command.com/3M/en_US/p/d/b5005604030/",
+        "quote": "Organize up to 6.5lbs of bathroom necessities with this handy shower caddy"
+      },
+      {
+        "number": "24 hours",
+        "claim": "adhesive-pad caddies are usually left to cure before adding weight",
+        "url": "https://www.techgearlab.com/topics/home/best-shower-caddy",
+        "quote": "it is usually recommended to let the pad cure in place for 24 hours before adding weight to it"
+      }
+    ],
+    "videos": [
+      {
+        "id": "uB0dOKFYYJc",
+        "title": "simplehuman Adjustable Shower Caddy",
+        "channel": "simplehuman",
+        "url": "https://www.youtube.com/watch?v=uB0dOKFYYJc",
+        "section": "The 5 best shower caddies for renters who can't drill"
+      }
+    ],
+    "secondaryKeywords": [
+      "suction shower caddy for renters",
+      "no drill shower caddy for renters",
+      "shower caddy that won't fall",
+      "renter friendly shower caddy",
+      "suction cup shower shelf"
+    ]
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-smart-light-bulbs-for-renters",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-heavy-duty-adhesive-hooks-for-renters",
+      "mode": "related-box"
+    },
+    {
+      "slug": "alarm-system-for-apartment-renters",
+      "mode": "related-box"
+    }
+  ]
+}

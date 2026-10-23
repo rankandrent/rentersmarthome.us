@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T11:28:28.000Z",
+  "updatedAt": "2026-10-23T12:00:00.000Z",
   "categories": {
     "smart-locks": [
       {
@@ -3711,6 +3711,199 @@
         ],
         "coveredBy": [],
         "foundAt": "2026-10-21"
+      }
+    ],
+    "kitchen-bath": [
+      {
+        "id": "kitchen-bath-suction-caddy-falls",
+        "pain": "Suction cup shower caddies fall off the wall, often within days and once they hold full bottles",
+        "details": "Renters who can't drill buy suction baskets, load them with shampoo and find them on the shower floor; many give up on suction and move to adhesive or hanging caddies.",
+        "mentions": 4,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/CleaningTips/comments/1jefa75/any_help_with_relaible_shower_shelving_please/",
+            "platform": "reddit",
+            "title": "Any help with relaible shower shelving please?",
+            "seen": "2026-10-23"
+          },
+          {
+            "url": "https://www.reddit.com/r/lifehacks/comments/1da3ij/cheap_lifehack_for_the_annoying_shower_caddy_that/",
+            "platform": "reddit",
+            "title": "Cheap lifehack for the annoying shower caddy that keeps sliding off",
+            "seen": "2026-10-23"
+          },
+          {
+            "url": "https://www.reddit.com/r/femalelivingspace/comments/1v1cx9q/what_type_of_shower_caddy_would_you_recommend/",
+            "platform": "reddit",
+            "title": "What type of shower caddy would you recommend",
+            "seen": "2026-10-23"
+          },
+          {
+            "url": "https://www.reddit.com/r/lifehacks/comments/113ot48/help_make_suction_cups_stick_on_shower_wall/",
+            "platform": "reddit",
+            "title": "HELP! Make Suction Cups Stick On Shower Wall",
+            "seen": "2026-10-23"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Renter-friendly sticky suction cups can only do so much.",
+            "url": "https://www.reddit.com/r/CleaningTips/comments/1jefa75/any_help_with_relaible_shower_shelving_please/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "The suction ones frequently fell down and scared the life out of me.",
+            "url": "https://www.reddit.com/r/femalelivingspace/comments/1v1cx9q/what_type_of_shower_caddy_would_you_recommend/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "suction cup shower caddy keeps falling",
+          "why does my suction shower caddy fall"
+        ],
+        "keywords": [
+          "best suction cup shower caddy for renters",
+          "oxo vs simplehuman shower caddy for renters"
+        ],
+        "coveredBy": [
+          "best-suction-cup-shower-caddy-for-renters"
+        ],
+        "foundAt": "2026-10-23"
+      },
+      {
+        "id": "kitchen-bath-textured-tile-no-seal",
+        "pain": "Suction cups won't seal on textured, porous or stone tile, or across grout lines",
+        "details": "Owners with textured tile, stone or matte surfaces report air creeping into the cup after a few days; fixed suction cups that land on a grout line never seal.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/homeimprovementideas/comments/18nzqht/decent_adhesive_shower_caddy_on_amz_that_would/",
+            "platform": "reddit",
+            "title": "Decent adhesive shower caddy on AMZ that would not fall off?",
+            "seen": "2026-10-23"
+          },
+          {
+            "url": "https://ask.metafilter.com/383227/Incredibly-long-lasting-shower-shelf-with-no-drilling",
+            "platform": "forum",
+            "title": "Incredibly long lasting shower shelf with no drilling?",
+            "seen": "2026-10-23"
+          },
+          {
+            "url": "https://www.reddit.com/r/DIYUK/comments/1lh27b2/how_to_stick_suction_cups_to_shower/",
+            "platform": "reddit",
+            "title": "How to stick suction cups to shower semi-permanently?",
+            "seen": "2026-10-23"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "IME suction cups are more about the wall material than the suction cups.",
+            "url": "https://ask.metafilter.com/383227/Incredibly-long-lasting-shower-shelf-with-no-drilling",
+            "via": "page"
+          }
+        ],
+        "searches": [
+          "suction cups textured tile shower",
+          "do suction cups work on textured tile"
+        ],
+        "keywords": [
+          "best suction cup shower caddy for renters",
+          "oxo vs simplehuman shower caddy for renters"
+        ],
+        "coveredBy": [
+          "best-suction-cup-shower-caddy-for-renters"
+        ],
+        "foundAt": "2026-10-23"
+      },
+      {
+        "id": "kitchen-bath-adhesive-removal-move-out",
+        "pain": "Adhesive shower shelves are hard to remove at move-out and can pull paint or leave residue",
+        "details": "Renters switch from suction to adhesive pads, then worry about move-out day: big pads take effort to peel and 'damage-free' strips can lift paint if pulled cold or outward.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/HomeImprovement/comments/7x1htj/3m_command_strips_in_the_bathroom/",
+            "platform": "reddit",
+            "title": "3m Command strips in the bathroom",
+            "seen": "2026-10-23"
+          },
+          {
+            "url": "https://www.familyhandyman.com/article/kincmax-shower-caddy/",
+            "platform": "review",
+            "title": "These Shower Shelves Are the TikTok Viral Bathroom Upgrade Everyone Needs",
+            "seen": "2026-10-23"
+          },
+          {
+            "url": "https://www.reddit.com/r/ApartmentHacks/comments/18o021y/ecofriendly_adhesive_shower_shelves_from_amz/",
+            "platform": "reddit",
+            "title": "Eco-friendly adhesive shower shelves from AMZ?",
+            "seen": "2026-10-23"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "The no damage is a lie if you don't warm the adhesive first.",
+            "url": "https://www.reddit.com/r/HomeImprovement/comments/7x1htj/3m_command_strips_in_the_bathroom/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "how to remove adhesive shower caddy",
+          "will adhesive shower caddy damage tile"
+        ],
+        "keywords": [
+          "best suction cup shower caddy for renters",
+          "oxo vs simplehuman shower caddy for renters"
+        ],
+        "coveredBy": [
+          "best-suction-cup-shower-caddy-for-renters"
+        ],
+        "foundAt": "2026-10-23"
+      },
+      {
+        "id": "kitchen-bath-hanging-caddy-slides",
+        "pain": "Over-the-showerhead caddies slide down the shower arm and swing when the suction cups let go",
+        "details": "Hanging caddies with a bare metal hook slip down the pipe and swing into the wall; the bottom suction cups pop off even when the caddy is empty.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/ApartmentHacks/comments/1mldq0h/easy_to_remove_shower_caddies/",
+            "platform": "reddit",
+            "title": "Easy to remove shower caddies?",
+            "seen": "2026-10-23"
+          },
+          {
+            "url": "https://www.reddit.com/r/CleaningTips/comments/usemqf/idk_what_subreddit_to_post_this_on_shower_caddy/",
+            "platform": "reddit",
+            "title": "shower caddy won't stay on wall",
+            "seen": "2026-10-23"
+          },
+          {
+            "url": "https://www.cnn.com/cnn-underscored/home/best-shower-caddies",
+            "platform": "review",
+            "title": "14 best shower caddies, according to experts",
+            "seen": "2026-10-23"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "It keeps slipping off even with suction cups.",
+            "url": "https://www.reddit.com/r/ApartmentHacks/comments/1mldq0h/easy_to_remove_shower_caddies/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "shower caddy keeps sliding down",
+          "how to stop shower caddy from sliding"
+        ],
+        "keywords": [
+          "best suction cup shower caddy for renters",
+          "oxo vs simplehuman shower caddy for renters"
+        ],
+        "coveredBy": [
+          "best-suction-cup-shower-caddy-for-renters"
+        ],
+        "foundAt": "2026-10-23"
       }
     ]
   }
