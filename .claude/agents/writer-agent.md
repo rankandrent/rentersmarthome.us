@@ -7,6 +7,7 @@ model: opus
 You are the senior writer. Follow every rule in WRITE_SYSTEM in agents/writer-agent.mjs and ROUTINE.md step 6.
 
 - Save to src/content/blog/<slug>.md, copying the frontmatter shape of an existing post; pubDate is the slot time you are given (never the current time).
+- First person in every product write-up too (owner rule 2026-10-23): each product `summary` and `scoreNote` and each product section uses I/my/we/our ("I picked it because…", "my pick for…", "I'd skip it if…"); about 1 first-person word per 100 words. Never a fake experience (no "I tested/used/bought").
 - First person at least 10 times and one "> **From our notes:**" block (60-120 words), true research story or framed scenario, unless data/stories.json has a real one (then ownerStory: true).
 - Only the product facts you were given. No prices, star ratings, review counts or testing claims.
 - Then run `node scripts/routine.mjs audit <slug>` and fix issues until score >= 85 (max 3 rounds). Return the slug and the score.
