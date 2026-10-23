@@ -524,4 +524,4 @@ On move-out day:
 - Unscrew the Hue bulbs and put the originals back.
 - Remove departing roommates from the Home.
 
-Leave landlord-owned locks and thermostats out of your Home unless you have written permission. For more plug-in options, see our [Matter smart plugs for apartments](/blog/best-matter-smart-plugs/) and [smart bulbs for renters](/blog/best-smart-light-bulbs-for-renters/). So for the renter staring at that Matter logo: check the badge, get the hub first, and the plug will show up.
+Leave landlord-owned locks and thermostats out of your Home unless you have written permission; our guide on [whether you can put a smart thermostat in your apartment](/blog/smart-thermostat-in-apartment/) covers how to ask. For more plug-in options, see our [Matter smart plugs for apartments](/blog/best-matter-smart-plugs/) and [smart bulbs for renters](/blog/best-smart-light-bulbs-for-renters/). So for the renter staring at that Matter logo: check the badge, get the hub first, and the plug will show up.

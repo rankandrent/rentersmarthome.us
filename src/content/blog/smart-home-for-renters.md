@@ -405,7 +405,7 @@ The front door is where renter-friendly smart home tech pays off most:
 
 **Many rentals have window units, portable ACs or ductless mini-splits controlled by an infrared remote.** A [smart AC controller](/blog/smart-ac-controller/) like the [Sensibo Air](amzn:Sensibo+Air+smart+AC+controller) learns that remote and adds schedules, geofencing and voice control, without opening the air conditioner.
 
-Replacing a wall thermostat is different: it touches HVAC wiring, so ask your landlord first, keep the original thermostat, and photograph the wiring before you disconnect anything.
+Replacing a wall thermostat is different: it touches HVAC wiring, so before you [install a smart thermostat in your apartment](/blog/smart-thermostat-in-apartment/), ask your landlord first, keep the original thermostat, and photograph the wiring before you disconnect anything.
 
 ## Choosing an ecosystem that moves with you
 

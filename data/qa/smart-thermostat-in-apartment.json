@@ -1,14 +1,13 @@
 {
   "slug": "smart-thermostat-in-apartment",
   "pass": true,
-  "checkedAt": "2026-10-21T10:18:55.743Z",
+  "checkedAt": "2026-10-23T12:36:25.378Z",
   "errors": [],
-  "warnings": [
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
-  ],
+  "warnings": [],
   "factCheck": {
     "verified": true,
-    "notes": "2026-10-14: Nest Thermostat designed to work without a C-wire in many systems, Nest Power Connector (GearBrain, Google); ecobee Power Extender Kit for Essential/Lite, installs at the furnace within ~24 in, 24V systems (ecobee PEK sheet); 24V thermostats cannot switch 120/240V baseboard heat, Mysa line-voltage thermostats; landlord permission guidance.",
-    "at": "2026-10-14T13:15:30.091Z"
+    "notes": "2026-10-23 GSC refresh: added 'What is a smart thermostat?' (definition and features per ENERGY STAR smart thermostats page; 'more than 8%' heating/cooling bill savings per ENERGY STAR low-no-cost tips page, both opened 2026-10-23); Nest-in-rental answer and new FAQs restate verified claims (24V, compatibility check, Nest Power Connector, not line voltage); PTAC/mini-split/radiator rows (smart AC controllers work with IR-remote units, homeautocentral); deposit note follows from restoring the original thermostat; description shortened. Earlier: Nest without C-wire in many systems (GearBrain, Google); ecobee PEK at furnace for 24V (ecobee sheet); 24V can't switch 120/240V baseboard, Mysa line-voltage; landlord permission guidance.",
+    "at": "2026-10-23T12:36:32.534Z",
+    "hash": "3e84ef8c6c851b1c"
   }
 }

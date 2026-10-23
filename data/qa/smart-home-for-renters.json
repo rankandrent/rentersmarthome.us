@@ -13,7 +13,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "2026-10-14: Kasa KP125M Matter + energy monitoring; Philips Hue Bridge Zigbee with Matter support; SwitchBot Bot presses rocker switches/buttons, battery powered, remote needs hub; Sensibo Air works with IR-remote ACs, Sensibo Plus subscription for advanced features; Matter backed by Amazon, Google, Apple, Samsung. Cross-checked against manufacturer pages and the posts' sources.",
-    "at": "2026-10-14T13:15:28.889Z"
+    "notes": "added one internal link to smart-thermostat-in-apartment, no claim changed",
+    "at": "2026-10-23T12:36:33.692Z",
+    "hash": "d431b65b6996c5db"
   }
 }

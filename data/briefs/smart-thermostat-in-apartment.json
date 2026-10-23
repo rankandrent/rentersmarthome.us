@@ -1,43 +1,217 @@
 {
   "centralEntity": "smart thermostat in an apartment",
-  "entityVariants": ["install a smart thermostat in my apartment", "smart thermostat for apartment", "smart thermostat", "apartment thermostat"],
-  "entities": [
-    {"name": "Google Nest Thermostat", "type": "product", "relation": "smart thermostat that can often run without a C-wire"},
-    {"name": "ecobee Smart Thermostat Essential", "type": "product", "relation": "smart thermostat with a Power Extender Kit"},
-    {"name": "Mysa Smart Thermostat for Electric Baseboard Heaters", "type": "product", "relation": "line-voltage smart thermostat"},
-    {"name": "C-wire", "type": "component", "relation": "common wire that powers a smart thermostat"},
-    {"name": "Power Extender Kit", "type": "accessory", "relation": "ecobee's adapter for homes without a C-wire"},
-    {"name": "line voltage", "type": "concept", "relation": "120/240 V baseboard heat that 24 V thermostats can't control"},
-    {"name": "24V HVAC system", "type": "system", "relation": "low-voltage system most smart thermostats need"},
-    {"name": "landlord", "type": "person", "relation": "must approve rewiring a thermostat"},
-    {"name": "smart AC controller", "type": "product category", "relation": "no-wiring alternative for remote-controlled units"}
+  "entityVariants": [
+    "install a smart thermostat in my apartment",
+    "smart thermostat for apartment",
+    "smart thermostat",
+    "apartment thermostat"
   ],
-  "attributes": ["C-wire", "voltage", "compatibility", "landlord permission", "reinstall at move-out", "energy savings"],
-  "ngrams": ["smart thermostat", "c-wire", "old thermostat", "landlord permission", "baseboard heaters", "line voltage"],
-  "skipgrams": ["thermostat…apartment", "landlord…permission", "wire…adapter", "thermostat…lease"],
-  "nlpTerms": ["renters", "lease", "HVAC", "furnace", "heat pump", "wiring", "compatibility checker", "breaker"],
-  "questions": ["Can I install a smart thermostat in my apartment?", "Do I need landlord permission to change a thermostat?", "What if my apartment has no C-wire?", "Can a smart thermostat control baseboard heat?"],
-  "contentGaps": ["central building heat you can't control", "keeping the old thermostat for move-out", "no-wiring alternatives"],
+  "entities": [
+    {
+      "name": "Google Nest Thermostat",
+      "type": "product",
+      "relation": "smart thermostat that can often run without a C-wire"
+    },
+    {
+      "name": "ecobee Smart Thermostat Essential",
+      "type": "product",
+      "relation": "smart thermostat with a Power Extender Kit"
+    },
+    {
+      "name": "Mysa Smart Thermostat for Electric Baseboard Heaters",
+      "type": "product",
+      "relation": "line-voltage smart thermostat"
+    },
+    {
+      "name": "C-wire",
+      "type": "component",
+      "relation": "common wire that powers a smart thermostat"
+    },
+    {
+      "name": "Power Extender Kit",
+      "type": "accessory",
+      "relation": "ecobee's adapter for homes without a C-wire"
+    },
+    {
+      "name": "line voltage",
+      "type": "concept",
+      "relation": "120/240 V baseboard heat that 24 V thermostats can't control"
+    },
+    {
+      "name": "24V HVAC system",
+      "type": "system",
+      "relation": "low-voltage system most smart thermostats need"
+    },
+    {
+      "name": "landlord",
+      "type": "person",
+      "relation": "must approve rewiring a thermostat"
+    },
+    {
+      "name": "smart AC controller",
+      "type": "product category",
+      "relation": "no-wiring alternative for remote-controlled units"
+    }
+  ],
+  "attributes": [
+    "C-wire",
+    "voltage",
+    "compatibility",
+    "landlord permission",
+    "reinstall at move-out",
+    "energy savings"
+  ],
+  "ngrams": [
+    "smart thermostat",
+    "c-wire",
+    "old thermostat",
+    "landlord permission",
+    "baseboard heaters",
+    "line voltage"
+  ],
+  "skipgrams": [
+    "thermostat…apartment",
+    "landlord…permission",
+    "wire…adapter",
+    "thermostat…lease"
+  ],
+  "nlpTerms": [
+    "renters",
+    "lease",
+    "HVAC",
+    "furnace",
+    "heat pump",
+    "wiring",
+    "compatibility checker",
+    "breaker"
+  ],
+  "questions": [
+    "Can I install a smart thermostat in my apartment?",
+    "Do I need landlord permission to change a thermostat?",
+    "What if my apartment has no C-wire?",
+    "Can a smart thermostat control baseboard heat?",
+    "Can I put a Nest thermostat in my rental apartment?",
+    "What is a smart thermostat?",
+    "Will a smart thermostat affect my security deposit?"
+  ],
+  "contentGaps": [
+    "central building heat you can't control",
+    "keeping the old thermostat for move-out",
+    "no-wiring alternatives",
+    "what a smart thermostat is and what it saves (ENERGY STAR)",
+    "PTAC, mini-split and radiator apartments",
+    "Nest in a rental apartment",
+    "security deposit at move-out"
+  ],
   "outline": [
-    {"h2": "Can I install a smart thermostat in my apartment?", "intent": "direct answer", "h3": []},
-    {"h2": "Step 1: Ask your landlord", "intent": "permission", "h3": []},
-    {"h2": "Step 2: Check your heating system and wires", "intent": "compatibility", "h3": []},
-    {"h2": "Smart thermostats that suit apartments", "intent": "products", "h3": []},
-    {"h2": "When you can't change the thermostat", "intent": "alternatives", "h3": []},
-    {"h2": "Move-out: put the old thermostat back", "intent": "move-out", "h3": []}
+    {
+      "h2": "Can I install a smart thermostat in my apartment?",
+      "intent": "direct answer",
+      "h3": []
+    },
+    {
+      "h2": "Step 1: Ask your landlord",
+      "intent": "permission",
+      "h3": []
+    },
+    {
+      "h2": "Step 2: Check your heating system and wires",
+      "intent": "compatibility",
+      "h3": []
+    },
+    {
+      "h2": "Smart thermostats that suit apartments",
+      "intent": "products",
+      "h3": []
+    },
+    {
+      "h2": "When you can't change the thermostat",
+      "intent": "alternatives",
+      "h3": []
+    },
+    {
+      "h2": "Move-out: put the old thermostat back",
+      "intent": "move-out",
+      "h3": []
+    }
   ],
   "targetWords": 1100,
   "serpTitles": [
-    {"position":1,"url":"https://www.reddit.com/r/Frugal/comments/2xzh2r/installing_a_programmable_thermostat_in_an/","title":"Installing a programmable thermostat in an apartment. : r/Frugal - Reddit"},
-    {"position":2,"url":"https://www.cnet.com/home/smart-home/how-smart-thermostats-can-work-and-save-for-renters/","title":"We Found Out How Renters Can Use Smart Thermostats to Save Money"},
-    {"position":3,"url":"https://getmysa.com/en-us/blogs/all/can-i-install-a-smart-thermostat-in-my-apartment?srsltid=AU7gw4VqMXpiu_o4p_Fd7BoYEPrm9PrzxxfTzH5Qg5GfNgNI6Qj9UVUL","title":"Can I Install a Smart Thermostat in My Apartment? | Mysa"},
-    {"position":4,"url":"https://www.quora.com/Can-a-tenant-install-a-smart-thermostat","title":"Can a tenant install a smart thermostat? - Quora"},
-    {"position":5,"url":"https://www.youtube.com/watch?v=y_Af5uDtZAA","title":"Smart apartment tech #1 - Nest Thermostat - YouTube"},
-    {"position":6,"url":"https://smartrent.com/hardware/thermostats/","title":"Smart Thermostat for Apartment & Multifamily Homes | SmartRent"},
-    {"position":7,"url":"https://www.justanswer.com/hvac/as724-thermostat-apartment-compatible-replaced.html","title":"Expert Answers on Smart Thermostats for Apartments | JustAnswer HVAC"},
-    {"position":8,"url":"https://www.facebook.com/groups/983295315800436/posts/1908605376602754/","title":"How to install a thermostat in an apartment? - Facebook"},
-    {"position":9,"url":"https://brinkshome.com/smartcenter/smart-thermostats-for-renters","title":"Smart Thermostats for Renters - Brinks Home Security"},
-    {"position":10,"url":"https://homeautocentral.com/smart-thermostat-for-apartment/","title":"Can I Install a Smart Thermostat in My Apartment? Yes! - Home Auto Central"}
+    {
+      "position": 1,
+      "url": "https://www.reddit.com/r/Frugal/comments/2xzh2r/installing_a_programmable_thermostat_in_an/",
+      "title": "Installing a programmable thermostat in an apartment. : r/Frugal - Reddit"
+    },
+    {
+      "position": 2,
+      "url": "https://www.cnet.com/home/smart-home/how-smart-thermostats-can-work-and-save-for-renters/",
+      "title": "We Found Out How Renters Can Use Smart Thermostats to Save Money"
+    },
+    {
+      "position": 3,
+      "url": "https://getmysa.com/en-us/blogs/all/can-i-install-a-smart-thermostat-in-my-apartment?srsltid=AU7gw4VqMXpiu_o4p_Fd7BoYEPrm9PrzxxfTzH5Qg5GfNgNI6Qj9UVUL",
+      "title": "Can I Install a Smart Thermostat in My Apartment? | Mysa"
+    },
+    {
+      "position": 4,
+      "url": "https://www.quora.com/Can-a-tenant-install-a-smart-thermostat",
+      "title": "Can a tenant install a smart thermostat? - Quora"
+    },
+    {
+      "position": 5,
+      "url": "https://www.youtube.com/watch?v=y_Af5uDtZAA",
+      "title": "Smart apartment tech #1 - Nest Thermostat - YouTube"
+    },
+    {
+      "position": 6,
+      "url": "https://smartrent.com/hardware/thermostats/",
+      "title": "Smart Thermostat for Apartment & Multifamily Homes | SmartRent"
+    },
+    {
+      "position": 7,
+      "url": "https://www.justanswer.com/hvac/as724-thermostat-apartment-compatible-replaced.html",
+      "title": "Expert Answers on Smart Thermostats for Apartments | JustAnswer HVAC"
+    },
+    {
+      "position": 8,
+      "url": "https://www.facebook.com/groups/983295315800436/posts/1908605376602754/",
+      "title": "How to install a thermostat in an apartment? - Facebook"
+    },
+    {
+      "position": 9,
+      "url": "https://brinkshome.com/smartcenter/smart-thermostats-for-renters",
+      "title": "Smart Thermostats for Renters - Brinks Home Security"
+    },
+    {
+      "position": 10,
+      "url": "https://homeautocentral.com/smart-thermostat-for-apartment/",
+      "title": "Can I Install a Smart Thermostat in My Apartment? Yes! - Home Auto Central"
+    }
   ],
-  "titlePattern": {"keywordAtStart":2,"withYear":0,"withNumber":0,"commonModifiers":["Can I install a smart thermostat in my apartment?","renters","landlord"],"gap":"The C-wire check and what to do when you can't change the thermostat, plus putting the old one back at move-out"}
+  "titlePattern": {
+    "keywordAtStart": 2,
+    "withYear": 0,
+    "withNumber": 0,
+    "commonModifiers": [
+      "Can I install a smart thermostat in my apartment?",
+      "renters",
+      "landlord"
+    ],
+    "gap": "The C-wire check and what to do when you can't change the thermostat, plus putting the old one back at move-out"
+  },
+  "gscRefresh": {
+    "date": "2026-10-23",
+    "window": "2026-09-23..2026-10-20",
+    "impressions": 59,
+    "clicks": 4,
+    "position": 21.1,
+    "queries": [
+      "can i install a smart thermostat in my apartment",
+      "can i put a smart thermostat in my apartment",
+      "nest thermostat rental apartment",
+      "smart thermostat apartment",
+      "apartment thermostat",
+      "what is a smart thermostat"
+    ]
+  }
 }
