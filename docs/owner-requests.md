@@ -94,6 +94,8 @@ Status: ✅ ho gaya · 🔁 roz chal raha hai · ⏳ owner ka jawab chahiye · �
 | "jo zrori hota wo required agent k according update kar diya karo" | Bhoolne ka darr | ✅ CLAUDE.md standing rule |
 | "translation waly blog q nhi kar rahy" | Light Mode mein ruki hui | ⏳ owner chune: roz 1 post ×3 languages / roz 2 / band |
 
+| "seo, content, technical, on page sa related jitny b google patents ha sab find karo ... alag sa agent bna do jo daily google paytens pa research kary then system ko train kary" | Sites top 10 mein nahi aa rahi | 🔁 patent-research-agent roz; pehla run (inventory + 5 patents) 23 Oct |
+
 ## Pehle ke khule sawal (owner ka jawab baqi)
 
 - Peephole post ki de/es/nl translations mein purane Ring Peephole Cam claims hain – theek karein?

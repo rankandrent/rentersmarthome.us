@@ -36,6 +36,9 @@ update its status when it changes, so the owner can see what was asked and what 
 - Older posts are converted to first-person product write-ups gradually (owner decision 2026-10-23): only when the
   daily improve-agent picks a post, never as a bulk rewrite. QA only warns on posts that went live before 2026-10-24.
 - Max 3 outside links in an article body; "best X for Y" keywords first; no fabricated prices, ratings or tests.
+- Google patent research (owner rule 2026-10-23): `.claude/agents/patent-research-agent.md` runs daily (1-2 patents),
+  logs data/patents.json + docs/seo-knowledge.md; the parent applies safe rule proposals to the agent files of all
+  three repos ("patent rule YYYY-MM-DD (<id>)") and asks the owner about conflicting or costly ones.
 - Backlinks: white-hat only (no paid links, PBNs, exchanges); the off-page agent prompt is
   rentersmarthome.us/docs/offpage-agent-prompt.md.
 - Dashboards are light-themed: Search Performance https://claude.ai/artifact/LgNhY4KAh6FfnSxKs7AfpF (daily refresh)
