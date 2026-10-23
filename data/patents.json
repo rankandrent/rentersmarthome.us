@@ -1,0 +1,219 @@
+[
+  {
+    "id": "US11354342B2",
+    "title": "Contextual estimation of link information gain",
+    "url": "https://patents.google.com/patent/US11354342B2/en",
+    "assignee": "Google LLC",
+    "filed": "2018-10-18 priority (application 16/608,628); granted 2022-06-07; status Active",
+    "status": "granted",
+    "inventors": [
+      "Victor Carbune",
+      "Pedro Gonnet Anders"
+    ],
+    "topic": "information-gain",
+    "summary": "Scores each new document on a topic by the 'quantity of new information' it contains beyond documents the user has already seen, using an ML model over semantic feature vectors, then ranks or presents the new documents by that score. The claims are framed around an automated assistant and a user's own viewing history, so it describes per-user re-ranking, not proven corpus-wide web ranking. The general principle (reward what the other results don't already say) is what Google's own guidance asks for.",
+    "keyClaims": [
+      "Claim 1: an information gain score 'based on a quantity of new information included in the given new document ... that differs from the information extracted from each document of the first set'.",
+      "Claim 2: rank the new documents by information gain score.",
+      "Claims 3-4: score produced by a machine learning model over semantic feature vectors of the seen and new documents."
+    ],
+    "evidence": "likely",
+    "evidenceNote": "Mechanism = speculative (one patent, assistant context). Principle = confirmed by Google docs: helpful-content questions ask for 'original information', 'beyond the obvious', and warn against 'mainly summarizing what others have to say'; rater guidance defines Originality as information 'not already available on other websites'; leak analysis shows an OriginalContentScore attribute.",
+    "supportingSources": [
+      "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+      "https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews",
+      "https://ipullrank.com/google-algo-leak"
+    ],
+    "applies": "Our roundups pick only products that at least 2 top-10 pages recommend (product-agent) and the live posts say so ('the pick most top review sites agree on', 'Consumer Reports, RTINGS, Wired ... all single out'). That makes the product set and the verdict nearly identical to what the searcher has already seen in the top 5, i.e. low information gain. brief-agent already asks for 3-5 ourGain points, but nothing checks they are absent from the top results or that they are analysis rather than a restated pain point.",
+    "ruleProposals": [
+      {
+        "agentFile": ".claude/agents/brief-agent.md (all 3 sites)",
+        "change": "ourGain needs at least 3 entries of `type` 'analysis' (a comparison or calculation from verified specs, e.g. pints per day per 100 sq ft, load-to-weight ratio, fire-rating minutes vs interior cubic feet), 'decision' (a who-should-buy-which rule or chooser table no top result gives) or 'situation' (a pain point answered with a concrete fix). Each entry lists `absentFrom: [the 5 top-result URLs you opened]`; an entry found in 2+ of them is a commonPoint, not ourGain.",
+        "priority": "high"
+      },
+      {
+        "agentFile": ".claude/agents/writer-agent.md + agents/qa-agent.mjs (all 3 sites)",
+        "change": "Never justify a pick by other publishers' picks. The first 150 words name no other review publisher (Wirecutter, Consumer Reports, RTINGS, Wired, CNET, Tom's Guide, Digital Camera World, etc.), and each product's reason cites a spec, a calculation or an owner-reported fact. Who else recommends it can appear once per post, in the 'How we picked' section only. QA warns when a listed publisher name appears in the first 150 words or more than 3 times in the body.",
+        "priority": "high"
+      },
+      {
+        "agentFile": ".claude/agents/product-agent.md (all 3 sites)",
+        "change": "Keep the '2+ top-10 pages recommend it' rule for most picks, but allow 1 pick per roundup that no top-10 page lists when verified specs show it fills a gap the consensus misses (smallest, cheapest UL-rated, highest load under X lb), marked `consensus: false` with the reason.",
+        "priority": "owner"
+      }
+    ],
+    "studiedAt": "2026-10-23"
+  },
+  {
+    "id": "US9031929B1",
+    "title": "Site quality score",
+    "url": "https://patents.google.com/patent/US9031929B1/en",
+    "assignee": "Google LLC",
+    "filed": "2012-06-27 (application 13/535,308); granted 2015-05-12; status Active",
+    "status": "granted",
+    "inventors": [
+      "April R. Lehman",
+      "Navneet Panda"
+    ],
+    "topic": "site-quality",
+    "summary": "Computes a site quality score as a ratio: unique queries (or clicks) that refer to the site, i.e. queries containing the site's name/label or navigational to it, divided by all unique queries (or clicks) whose selected result is a page on the site. The score is then used as a term in the quality scores of every resource on the site. In plain terms: a site people search for by name, relative to how much generic traffic it receives, is treated as higher quality.",
+    "keyClaims": [
+      "Claim 1: site quality score from 'a ratio of a numerator based on the first count [queries categorized as referring to the site] and a denominator based on the second count [queries followed by a click on a resource in the site]', with a threshold subtracted and/or the denominator raised to a power between 0 and 1.",
+      "Claims 2-4: a query refers to the site when it contains a site label, a term determined to refer to the site, or is navigational to it.",
+      "Claim 8: the ratio is used as a term in computing quality scores for resources in the site."
+    ],
+    "evidence": "likely",
+    "evidenceNote": "Same inventor and concept as the studied Panda patent US8682892B1 (reference queries). Leak analysis documents a site-level siteAuthority attribute 'applied in Qstar'; the DOJ exhibit confirms a document quality signal Q* and that Google's ranking guide says site-wide signals contribute. The exact brand-query formula is not confirmed.",
+    "supportingSources": [
+      "https://developers.google.com/search/docs/appearance/ranking-systems-guide",
+      "https://www.justice.gov/atr/media/1398866/dl",
+      "https://ipullrank.com/google-algo-leak"
+    ],
+    "applies": "Search Console shows zero branded queries for all 3 sites in the last 30 days (no 'rentersmarthome', 'best safe site', etc.), so the numerator is ~0. best-tripod.com and best-safe.com are exact-match-style domains, so 'best tripod'/'best safe' searches read as generic queries, not navigational ones, which makes brand demand harder to earn (Google's EMD system and a leaked EMD demotion attribute also reduce credit for such names). Nothing in our agents builds named-brand demand.",
+    "ruleProposals": [
+      {
+        "agentFile": "scripts/gsc-opportunities.mjs + dashboard (all 3 sites)",
+        "change": "Track branded queries (site name and spaced/unspaced variants) as a weekly KPI: count, impressions, clicks. Target: non-zero within 60 days.",
+        "priority": "medium"
+      },
+      {
+        "agentFile": "docs/offpage-agent-prompt.md",
+        "change": "Every white-hat mention we earn (resource pages, expert quotes, community answers) uses the brand name (RenterSmartHome / Best Tripod / Best Safe) plus the named tool (RenterSmartHome Score, Tripod Buying Checklist), not a keyword anchor, so people search for the brand.",
+        "priority": "owner"
+      },
+      {
+        "agentFile": "site.config.json authors (all 3 sites)",
+        "change": "Replace the anonymous 'Editorial Team' Organization byline with a real, named person who actually reviews the posts (bio, photo, sameAs links). Never a made-up name or AI headshot (Google calls fabricated creator profiles deception).",
+        "priority": "owner"
+      }
+    ],
+    "studiedAt": "2026-10-23"
+  },
+  {
+    "id": "US8682892B1",
+    "title": "Ranking search results",
+    "url": "https://patents.google.com/patent/US8682892B1/en",
+    "assignee": "Google LLC",
+    "filed": "2012-09-28 (application 13/631,020); granted 2014-03-25; status Expired - Fee Related",
+    "status": "granted (expired, fee related)",
+    "inventors": [
+      "Navneet Panda",
+      "Vladimir Ofitserov"
+    ],
+    "topic": "links/authority",
+    "summary": "For each group of resources (e.g. a site, identified by Internet address) Google counts independent incoming links (links from sources that are not related to or duplicates of the target) and reference queries (past queries categorized as referring to that group). The ratio of independent links to reference queries becomes a group-specific modification factor that multiplies the initial score of every page in the group for any query. A site whose pages are searched for a lot but that few independent sites link to gets its pages scaled down.",
+    "keyClaims": [
+      "Claim 1: a 'group-specific modification factor ... based on the count of independent links and the count of reference queries for the group', which 'modifies initial scores generated for resources in the group in response to received search queries'.",
+      "Claim 5: groups identified by Internet address.",
+      "Description: the initial factor 'is a ratio of a number of independent links counted for the particular group to the number of reference queries'; independent means the source is not likely related to or a duplicate of the target."
+    ],
+    "evidence": "likely",
+    "evidenceNote": "Patent expired (fee related), so not proof of current use. Google's ranking guide confirms link analysis and PageRank are core and that site-wide signals exist; the DOJ exhibit says PageRank 'continues to be one of the factors that goes into the quality signals'; leak analysis lists homepagePagerankNs (homepage PageRank attached to every document) and siteAuthority.",
+    "supportingSources": [
+      "https://developers.google.com/search/docs/appearance/ranking-systems-guide",
+      "https://www.justice.gov/atr/media/1398866/dl",
+      "https://ipullrank.com/google-algo-leak"
+    ],
+    "applies": "rentersmarthome.us (Ahrefs, 2026-10-18): DR 0, 53 referring domains, all spam .xyz and nofollow, 0 editorial links; best-tripod/best-safe have no known editorial links either. Any site-level factor built from independent links is therefore at its floor, which caps every page, especially on 'best X' head terms where the top 10 are DR 75-95 publishers. Links between our own 3 sites would not count as independent (same owner) and must not be used as a scheme.",
+    "ruleProposals": [
+      {
+        "agentFile": ".claude/agents/keyword-agent.md + competitor-gap-agent.md + ROUTINE.md (all 3 sites)",
+        "change": "While a site has fewer than 10 independent editorial referring domains, a new keyword needs at least 2 top-10 results that are forums/Reddit/Quora or DR < 30 sites (from the saved Ahrefs SERP); 'best X' head terms whose whole top 10 is DR >= 60 are parked as `later` instead of queued. Still 'best X for Y' first (owner rule).",
+        "priority": "high"
+      },
+      {
+        "agentFile": "docs/offpage-agent-prompt.md",
+        "change": "Set a measurable white-hat target: earn 3-5 independent editorial referring domains per site per month (resource-page inclusion for the free checklists, expert answers to journalists, original data posts others cite). No paid links, PBNs, exchanges, or cross-links between our own 3 sites for ranking.",
+        "priority": "owner"
+      }
+    ],
+    "studiedAt": "2026-10-23"
+  },
+  {
+    "id": "US8661029B1",
+    "title": "Modifying search result ranking based on implicit user feedback",
+    "url": "https://patents.google.com/patent/US8661029B1/en",
+    "assignee": "Google LLC",
+    "filed": "2006-11-02 (application 11/556,143); granted 2014-02-25; status Active",
+    "status": "granted",
+    "inventors": [
+      "Hyung-Jin Kim",
+      "Simon Tong",
+      "Noam M. Shazeer",
+      "Michelangelo Diligenti"
+    ],
+    "topic": "user-signals",
+    "summary": "For each query-document pair, a relevance measure is the share of clicks that became long views (e.g. long clicks / all clicks), with views weighted by viewing time, by query category and by user type, and that measure is fed to the ranking engine for future searches of the same query. Short clicks (the searcher came straight back) lower the measure.",
+    "keyClaims": [
+      "Claim 1: a measure of relevance 'based on a first number in relation to a second number', the first being a subset of views following a click, the second all views following a click, provided to a ranking engine.",
+      "Claim 4: first number = total long clicks, second = total clicks for that query.",
+      "Claims 3, 5-9: views weighted by viewing duration (continuous or by time categories), adjusted per query category and user type."
+    ],
+    "evidence": "confirmed",
+    "evidenceNote": "DOJ trial exhibit PXR0357 (Pandu Nayak): 'Navboost, a measure of how frequently users ... click on a particular document for a particular query', using 'most recent 13 months of data'. Leak analysis shows goodClicks, badClicks and lastLongestClicks attributes. Exact formula of this patent is not confirmed.",
+    "supportingSources": [
+      "https://www.justice.gov/atr/media/1398866/dl",
+      "https://ipullrank.com/google-algo-leak"
+    ],
+    "applies": "Click signals need impressions on page 1-2. In the last 30 days our query rows show 325 impressions/1 click (rentersmarthome), 149/2 (best-tripod) and 67/1 (best-safe); almost all impressions sit at positions 21-50+, where nobody clicks, so these pages have no click history to be promoted by. Pages that already reach 1-10 for long-tail queries are where long clicks can be earned first. ROUTINE.md already asks for click-earning titles and a first screen that delivers the promise; what is missing is a check that the visitor does not need to go back to compare.",
+    "ruleProposals": [
+      {
+        "agentFile": ".claude/agents/writer-agent.md + agents/qa-agent.mjs (all 3 sites)",
+        "change": "Every roundup has a 'Which one should you get?' chooser right after the top picks: a 3-6 row table or list of 'If you ... → get X because <spec>' lines covering each pick, so the reader can decide without returning to Google. QA warns if a roundup has no chooser block in its first 30% of words.",
+        "priority": "medium"
+      },
+      {
+        "agentFile": ".claude/agents/improve-agent.md + scripts/gsc-opportunities.mjs (all 3 sites)",
+        "change": "Pick first the posts with queries at positions 4-15 and 5+ impressions in 7 days (closest to page-1 clicks), before posts at 20-50.",
+        "priority": "medium"
+      }
+    ],
+    "studiedAt": "2026-10-23"
+  },
+  {
+    "id": "US9940367B1",
+    "title": "Scoring candidate answer passages",
+    "url": "https://patents.google.com/patent/US9940367B1/en",
+    "assignee": "Google LLC",
+    "filed": "2015-08-12 (application 14/824,553); granted 2018-04-10; status Active",
+    "status": "granted",
+    "inventors": [
+      "Steven D. Baker",
+      "Srinivasan Venkatachary",
+      "Robert Andrew Brennan",
+      "Per Bjornsson",
+      "Yi Liu",
+      "Hadar Shemtov",
+      "Massimiliano Ciaramita",
+      "Ioannis Tsochantaridis"
+    ],
+    "topic": "on-page/titles",
+    "summary": "For question queries, Google takes candidate answer passages from the top-ranked pages (passage units are sentences or table cells under headings) and scores each one on query-term match, answer-term match (terms that occur across many top-ranked pages, weighted by IDF), whether it contains an entity of the type the answer needs, plus query-independent features: the page's ranking score, reputation and site quality score, a penalty for passages that mix two sections, and a penalty for passages that begin with a discourse boundary term.",
+    "keyClaims": [
+      "Claim 1: answer score from a query term match score and an answer term match score.",
+      "Claims 3-5: answer terms = terms in the top-ranked resources, weighted by how many of them use the term times IDF.",
+      "Claim 6: score reduced if no entity of the expected answer type is in the passage.",
+      "Claims 8-10: query-independent score uses the resource's ranking score, reputation and 'a site quality score of a site that hosts the resource'.",
+      "Claims 11-12: score reduced if the passage spans two sections or 'begins with a discourse boundary term'."
+    ],
+    "evidence": "likely",
+    "evidenceNote": "Google confirms a passage ranking system that identifies sections of a page (ranking-systems guide). The specific scoring features are from this patent and family (US9959315B1, US10019513B1 in queue).",
+    "supportingSources": [
+      "https://developers.google.com/search/docs/appearance/ranking-systems-guide"
+    ],
+    "applies": "ROUTINE.md already requires each H2 to open with a bold direct answer and the live posts do this well. Gaps: no rule that the answer sentence is self-contained (starts with the subject, not 'However/Also/It/This'), names the expected answer type (number with unit, model name, yes/no) and stays inside its own section; and claim 10 means passages from a low site-quality site still lose, which loops back to the authority reasons.",
+    "ruleProposals": [
+      {
+        "agentFile": ".claude/agents/writer-agent.md + agents/qa-agent.mjs (all 3 sites)",
+        "change": "The bold first sentence under each question-style H2/H3 is 15-45 words, self-contained, starts with the subject noun (never However, But, Also, And, So, This, That, These, It, They, Yes/No alone), repeats the heading's key term and contains the answer type the heading asks for (a number with unit, a model name, or an explicit yes/no plus reason). QA warns on any section whose first word is in that list.",
+        "priority": "medium"
+      },
+      {
+        "agentFile": ".claude/agents/brief-agent.md (all 3 sites)",
+        "change": "For each outline H2 that is a question, record `answerType` (number+unit | model | yes/no | steps) and 3-5 `answerTerms` that most top-5 results use in their answer to it; the writer must use them in that section's first two sentences.",
+        "priority": "low"
+      }
+    ],
+    "studiedAt": "2026-10-23"
+  }
+]
