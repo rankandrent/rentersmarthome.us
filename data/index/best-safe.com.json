@@ -1,0 +1,231 @@
+{
+ "domain": "best-safe.com",
+ "site": "https://best-safe.com/",
+ "checkedAt": "2026-10-23T18:58:10.844Z",
+ "results": [
+  {
+   "url": "https://best-safe.com/blog/are-gun-safes-fireproof/",
+   "verdict": "PASS",
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-22T12:16:45Z",
+   "robots": "ALLOWED",
+   "fetch": "SUCCESSFUL"
+  },
+  {
+   "url": "https://best-safe.com/blog/best-ammo-can/",
+   "verdict": "PASS",
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-21T18:43:32Z",
+   "robots": "ALLOWED",
+   "fetch": "SUCCESSFUL"
+  },
+  {
+   "url": "https://best-safe.com/blog/best-biometric-gun-safe/",
+   "verdict": "PASS",
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-19T05:20:57Z",
+   "robots": "ALLOWED",
+   "fetch": "SUCCESSFUL"
+  },
+  {
+   "url": "https://best-safe.com/blog/best-dehumidifier-for-gun-safe/",
+   "verdict": "PASS",
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-21T04:52:18Z",
+   "robots": "ALLOWED",
+   "fetch": "SUCCESSFUL"
+  },
+  {
+   "url": "https://best-safe.com/blog/best-fire-rated-gun-safe/",
+   "verdict": "PASS",
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-21T21:36:38Z",
+   "robots": "ALLOWED",
+   "fetch": "SUCCESSFUL"
+  },
+  {
+   "url": "https://best-safe.com/blog/best-fireproof-document-bag/",
+   "verdict": "PASS",
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-22T12:16:17Z",
+   "robots": "ALLOWED",
+   "fetch": "SUCCESSFUL"
+  },
+  {
+   "url": "https://best-safe.com/blog/best-fireproof-document-safe/",
+   "verdict": "PASS",
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-19T05:20:58Z",
+   "robots": "ALLOWED",
+   "fetch": "SUCCESSFUL"
+  },
+  {
+   "url": "https://best-safe.com/blog/best-fireproof-safe/",
+   "verdict": "PASS",
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-19T05:22:59Z",
+   "robots": "ALLOWED",
+   "fetch": "SUCCESSFUL"
+  },
+  {
+   "url": "https://best-safe.com/blog/best-gun-safe-for-apartment/",
+   "verdict": "PASS",
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-21T21:49:59Z",
+   "robots": "ALLOWED",
+   "fetch": "SUCCESSFUL"
+  },
+  {
+   "url": "https://best-safe.com/blog/best-handgun-safe-for-nightstand/",
+   "verdict": "PASS",
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-21T04:53:23Z",
+   "robots": "ALLOWED",
+   "fetch": "SUCCESSFUL"
+  },
+  {
+   "url": "https://best-safe.com/blog/best-hidden-gun-safe/",
+   "verdict": "NEUTRAL",
+   "coverage": "URL is unknown to Google",
+   "lastCrawl": null,
+   "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+   "fetch": "PAGE_FETCH_STATE_UNSPECIFIED"
+  },
+  {
+   "url": "https://best-safe.com/blog/best-home-safe/",
+   "verdict": "PASS",
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-21T21:49:59Z",
+   "robots": "ALLOWED",
+   "fetch": "SUCCESSFUL"
+  },
+  {
+   "url": "https://best-safe.com/blog/best-key-lock-box/",
+   "verdict": "PASS",
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-21T04:52:50Z",
+   "robots": "ALLOWED",
+   "fetch": "SUCCESSFUL"
+  },
+  {
+   "url": "https://best-safe.com/blog/best-pistol-safe/",
+   "verdict": "PASS",
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-19T05:24:54Z",
+   "robots": "ALLOWED",
+   "fetch": "SUCCESSFUL"
+  },
+  {
+   "url": "https://best-safe.com/blog/best-safe-brands/",
+   "verdict": "PASS",
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-22T12:17:02Z",
+   "robots": "ALLOWED",
+   "fetch": "SUCCESSFUL"
+  },
+  {
+   "url": "https://best-safe.com/blog/best-travel-safe/",
+   "verdict": "NEUTRAL",
+   "coverage": "Discovered - currently not indexed",
+   "lastCrawl": null,
+   "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+   "fetch": "PAGE_FETCH_STATE_UNSPECIFIED"
+  },
+  {
+   "url": "https://best-safe.com/blog/best-under-bed-gun-safe/",
+   "verdict": "PASS",
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-22T12:33:09Z",
+   "robots": "ALLOWED",
+   "fetch": "SUCCESSFUL"
+  },
+  {
+   "url": "https://best-safe.com/blog/floor-safe-installation/",
+   "verdict": "PASS",
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-21T23:00:15Z",
+   "robots": "ALLOWED",
+   "fetch": "SUCCESSFUL"
+  },
+  {
+   "url": "https://best-safe.com/blog/gun-safe-brands-to-avoid/",
+   "verdict": "PASS",
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-22T12:15:56Z",
+   "robots": "ALLOWED",
+   "fetch": "SUCCESSFUL"
+  },
+  {
+   "url": "https://best-safe.com/blog/gun-safe-hygrometer/",
+   "verdict": "NEUTRAL",
+   "coverage": "Discovered - currently not indexed",
+   "lastCrawl": null,
+   "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+   "fetch": "PAGE_FETCH_STATE_UNSPECIFIED"
+  },
+  {
+   "url": "https://best-safe.com/blog/gun-safe-in-garage/",
+   "verdict": "PASS",
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-21T22:35:13Z",
+   "robots": "ALLOWED",
+   "fetch": "SUCCESSFUL"
+  },
+  {
+   "url": "https://best-safe.com/blog/how-much-does-a-gun-safe-weigh/",
+   "verdict": "PASS",
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-21T22:52:14Z",
+   "robots": "ALLOWED",
+   "fetch": "SUCCESSFUL"
+  },
+  {
+   "url": "https://best-safe.com/blog/how-to-bolt-down-a-safe/",
+   "verdict": "PASS",
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-21T17:37:01Z",
+   "robots": "ALLOWED",
+   "fetch": "SUCCESSFUL"
+  },
+  {
+   "url": "https://best-safe.com/blog/how-to-move-a-gun-safe/",
+   "verdict": "PASS",
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-22T01:07:24Z",
+   "robots": "ALLOWED",
+   "fetch": "SUCCESSFUL"
+  },
+  {
+   "url": "https://best-safe.com/blog/how-to-open-a-safe/",
+   "verdict": "PASS",
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-21T10:13:14Z",
+   "robots": "ALLOWED",
+   "fetch": "SUCCESSFUL"
+  },
+  {
+   "url": "https://best-safe.com/blog/sentry-safe-battery-replacement/",
+   "verdict": "PASS",
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-21T09:25:41Z",
+   "robots": "ALLOWED",
+   "fetch": "SUCCESSFUL"
+  },
+  {
+   "url": "https://best-safe.com/blog/sentry-safe-keypad-not-working/",
+   "verdict": "NEUTRAL",
+   "coverage": "Discovered - currently not indexed",
+   "lastCrawl": null,
+   "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
+   "fetch": "PAGE_FETCH_STATE_UNSPECIFIED"
+  },
+  {
+   "url": "https://best-safe.com/blog/wall-mounted-gun-safe/",
+   "verdict": "PASS",
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-22T12:50:51Z",
+   "robots": "ALLOWED",
+   "fetch": "SUCCESSFUL"
+  }
+ ]
+}
