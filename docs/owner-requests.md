@@ -85,7 +85,7 @@ Status: ✅ ho gaya · 🔁 roz chal raha hai · ⏳ owner ka jawab chahiye · �
 | "har site ka Crawl stats high hona chye" | Crawl stats screenshot | ✅ jo technical ho sakta tha pehle se hai; asal cheez backlinks |
 | "Sab new blog index nhi ho rahy indexing sumition tum kar do" | 7 posts not indexed | ✅ 88/95 index the; Indexing API setup (owner ne API enable + Owner banaya) |
 | "Google indexing api k tharo kar do index" | — | ✅ 8 URLs bheje; 🔁 har deploy par nayi posts khud jaati hain; 25 Oct re-check |
-| "Indexing k liye submit kar da sab link ... site: k sath dekho" | — | ✅ saare English (125) bheje; translations 24 Oct 08:15 UTC; site: RSH 99+, tripod 88, safe 49 |
+| "Indexing k liye submit kar da sab link ... site: k sath dekho" | — | ✅ saare links bheje: 23 Oct English 125 + 35, 24 Oct baqi 100 translations; site: RSH 99+, tripod 88, safe 49 |
 | "sab product ka content first person tone ma hona chye" | Products third person mein thay | ✅ nayi posts 24 Oct se; purani dheere dheere roz ki improvement ke saath (owner faisla) |
 | "Link equity / search intent mismatch / knowledge graph / crawl depth?" | Seekhne ke sawal | ✅ jawab diye; crawl depth theek (2 clicks) |
 | "backlink plan bana do" → "prompt format ma do ... off page k agent ko" | — | ✅ rentersmarthome.us/docs/offpage-agent-prompt.md |
