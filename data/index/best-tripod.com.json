@@ -1,277 +1,29 @@
 {
  "domain": "best-tripod.com",
  "site": "sc-domain:best-tripod.com",
- "checkedAt": "2026-10-23T18:55:09.736Z",
+ "checkedAt": "2026-10-24T20:01:34.179Z",
  "results": [
   {
-   "url": "https://best-tripod.com/blog/4-section-vs-5-section-tripod/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-22T10:26:42Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
-  },
-  {
-   "url": "https://best-tripod.com/blog/are-cheap-gimbal-heads-any-good/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-21T06:16:03Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
-  },
-  {
-   "url": "https://best-tripod.com/blog/ball-head-sags-after-tightening/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-22T04:28:34Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
-  },
-  {
-   "url": "https://best-tripod.com/blog/ball-head-tripod/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-21T11:27:53Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
-  },
-  {
-   "url": "https://best-tripod.com/blog/best-gimbal-head-for-150-600mm-lens/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-21T18:52:32Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
-  },
-  {
-   "url": "https://best-tripod.com/blog/best-hiking-tripod/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-20T00:03:53Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
-  },
-  {
-   "url": "https://best-tripod.com/blog/best-mini-tripod-for-desk-video-calls/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-19T15:40:42Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
-  },
-  {
-   "url": "https://best-tripod.com/blog/best-monopod-for-hiking/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-22T03:28:55Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
-  },
-  {
-   "url": "https://best-tripod.com/blog/best-monopod-with-feet-for-wildlife-photography/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-19T01:23:46Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
-  },
-  {
-   "url": "https://best-tripod.com/blog/best-phone-tripod-for-vlogging-with-remote/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-19T04:35:06Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
-  },
-  {
-   "url": "https://best-tripod.com/blog/best-travel-tripod-for-mirrorless-camera/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-21T20:51:04Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
-  },
-  {
    "url": "https://best-tripod.com/blog/best-tripod-for-content-creators/",
+   "verdict": "PASS",
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-23T21:47:44Z",
+   "robots": "ALLOWED",
+   "fetch": "SUCCESSFUL"
+  },
+  {
+   "url": "https://best-tripod.com/blog/best-tripod-for-hunting/",
    "verdict": "NEUTRAL",
-   "coverage": "URL is unknown to Google",
+   "coverage": "Discovered - currently not indexed",
    "lastCrawl": null,
    "robots": "ROBOTS_TXT_STATE_UNSPECIFIED",
    "fetch": "PAGE_FETCH_STATE_UNSPECIFIED"
-  },
-  {
-   "url": "https://best-tripod.com/blog/best-tripod-for-gopro/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-21T19:57:47Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
-  },
-  {
-   "url": "https://best-tripod.com/blog/best-tripod-for-iphone-night-mode-photos/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-19T00:57:23Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
-  },
-  {
-   "url": "https://best-tripod.com/blog/best-tripod-for-real-estate-photography/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-20T16:45:00Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
-  },
-  {
-   "url": "https://best-tripod.com/blog/best-tripod-for-spotting-scope/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-21T20:22:48Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
-  },
-  {
-   "url": "https://best-tripod.com/blog/best-tripod-for-tall-photographers-over-6-feet/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-19T02:25:04Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
-  },
-  {
-   "url": "https://best-tripod.com/blog/best-tripod-that-fits-in-carry-on-luggage/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-21T05:51:18Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
-  },
-  {
-   "url": "https://best-tripod.com/blog/best-video-tripod-with-fluid-head-for-beginners/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-19T03:15:17Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
-  },
-  {
-   "url": "https://best-tripod.com/blog/binocular-tripod-adapter/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-23T16:53:33Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
-  },
-  {
-   "url": "https://best-tripod.com/blog/carbon-fiber-vs-aluminum-tripod-for-hiking/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-21T07:56:18Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
-  },
-  {
-   "url": "https://best-tripod.com/blog/flexible-tripod-vs-mini-tripod-for-travel-vlogging/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-22T02:17:54Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
-  },
-  {
-   "url": "https://best-tripod.com/blog/how-to-choose-a-tripod-for-a-heavy-telephoto-lens/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-22T02:40:29Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
-  },
-  {
-   "url": "https://best-tripod.com/blog/how-to-stop-tripod-shake-in-wind/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-20T23:10:13Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
-  },
-  {
-   "url": "https://best-tripod.com/blog/landscape-photography-tripod/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-21T09:36:03Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
-  },
-  {
-   "url": "https://best-tripod.com/blog/monopod-vs-tripod-for-sports-photography/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-19T01:58:52Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
-  },
-  {
-   "url": "https://best-tripod.com/blog/travel-tripod-vs-full-size-tripod-for-landscape-photography/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-22T01:27:18Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
-  },
-  {
-   "url": "https://best-tripod.com/blog/tripod-center-column-up-or-down-for-landscapes/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-21T20:26:05Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
-  },
-  {
-   "url": "https://best-tripod.com/blog/tripod-for-wildlife-photography/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-22T12:51:09Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
-  },
-  {
-   "url": "https://best-tripod.com/blog/tripod-leg-lock-wont-hold/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-21T05:27:18Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
-  },
-  {
-   "url": "https://best-tripod.com/blog/tripod-shake-when-pressing-shutter/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-21T06:09:20Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
-  },
-  {
-   "url": "https://best-tripod.com/blog/twist-lock-vs-flip-lock-tripod-legs/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-21T07:06:05Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
   },
   {
    "url": "https://best-tripod.com/blog/video-tripod-bowl-size-explained-75mm-vs-100mm/",
    "verdict": "NEUTRAL",
    "coverage": "Crawled - currently not indexed",
    "lastCrawl": "2026-10-22T05:31:07Z",
-   "robots": "ALLOWED",
-   "fetch": "SUCCESSFUL"
-  },
-  {
-   "url": "https://best-tripod.com/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/",
-   "verdict": "PASS",
-   "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-10-21T04:23:04Z",
    "robots": "ALLOWED",
    "fetch": "SUCCESSFUL"
   }
