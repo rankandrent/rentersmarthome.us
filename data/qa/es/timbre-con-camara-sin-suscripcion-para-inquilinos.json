@@ -3,13 +3,12 @@
   "lang": "es",
   "translationOf": "best-video-doorbell-without-subscription-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-24T10:15:50.876Z",
+  "checkedAt": "2026-10-24T13:43:07.541Z",
   "errors": [],
   "warnings": [
     "not localized yet: run localizer-agent for best-video-doorbell-without-subscription-for-renters (data/briefs/es/best-video-doorbell-without-subscription-for-renters.local.json), then rewrite with translator-agent",
     "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
-    "source didn't respond normally (403): https://www.currys.co.uk/techtalk/smart-tech/smart-home/best-video-doorbell-cameras-without-a-subscription.html",
-    "source didn't respond normally (no response): https://goabode.com/blog/best-doorbell-camera-no-subscription"
+    "source didn't respond normally (403): https://www.currys.co.uk/techtalk/smart-tech/smart-home/best-video-doorbell-cameras-without-a-subscription.html"
   ],
   "factCheck": {
     "verified": true,

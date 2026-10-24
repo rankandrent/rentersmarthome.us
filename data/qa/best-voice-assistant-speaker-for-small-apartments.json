@@ -1,10 +1,11 @@
 {
   "slug": "best-voice-assistant-speaker-for-small-apartments",
   "pass": true,
-  "checkedAt": "2026-10-24T12:36:58.334Z",
+  "checkedAt": "2026-10-24T13:37:26.169Z",
   "errors": [],
   "warnings": [
-    "body has 1434 words, over the 1265 limit (no SERP average in the brief): cut repetition and filler"
+    "body has 1434 words, over the 1265 limit (no SERP average in the brief): cut repetition and filler",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1847671-REG/amazon_b0bfc7wq6r_echo_spot_2024.html"
   ],
   "factCheck": {
     "verified": true,

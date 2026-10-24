@@ -3,9 +3,10 @@
   "lang": "nl",
   "translationOf": "best-voice-assistant-speaker-for-small-apartments",
   "pass": true,
-  "checkedAt": "2026-10-21T10:25:27.769Z",
+  "checkedAt": "2026-10-24T13:44:04.849Z",
   "errors": [],
   "warnings": [
+    "LIVE POST, FIX: sources must be the English post's URLs (added: none; missing: https://www.apple.com/homepod-mini/specs/, https://www.briandorey.com/post/echo-dot-5th-gen-smart-speaker-teardown, https://store.google.com/us/product/google_home_speaker)",
     "not localized yet: run localizer-agent for best-voice-assistant-speaker-for-small-apartments (data/briefs/nl/best-voice-assistant-speaker-for-small-apartments.local.json), then rewrite with translator-agent",
     "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
     "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1847671-REG/amazon_b0bfc7wq6r_echo_spot_2024.html"

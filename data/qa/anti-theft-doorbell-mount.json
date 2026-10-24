@@ -1,12 +1,13 @@
 {
   "slug": "anti-theft-doorbell-mount",
   "pass": true,
-  "checkedAt": "2026-10-24T10:08:48.215Z",
+  "checkedAt": "2026-10-24T13:35:21.887Z",
   "errors": [],
   "warnings": [
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): DoorbellBoa Anti-Theft Video Doorbell Door Mount",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (no response): https://universityedge.net/how-to-use-a-security-doorbell-for-your-apartment/"
   ],
   "factCheck": {
     "verified": true,
