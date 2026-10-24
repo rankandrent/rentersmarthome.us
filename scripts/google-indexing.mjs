@@ -47,7 +47,7 @@ async function sitemapEntries(domain) {
   for (const sm of locs(index)) {
     for (const m of (await get(sm)).matchAll(/<url>([\s\S]*?)<\/url>/g)) {
       const loc = m[1].match(/<loc>([^<]+)<\/loc>/)?.[1]?.trim();
-      if (loc && /\/blog\/[^/]+\/$/.test(new URL(loc).pathname)) out.push({ url: loc, lastmod: m[1].match(/<lastmod>([^<]+)<\/lastmod>/)?.[1] });
+      if (loc && /\/blog\/(?!\d+\/$)[^/]+\/$/.test(new URL(loc).pathname)) out.push({ url: loc, lastmod: m[1].match(/<lastmod>([^<]+)<\/lastmod>/)?.[1] });
     }
   }
   return out;
