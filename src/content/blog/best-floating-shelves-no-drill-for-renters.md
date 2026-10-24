@@ -198,6 +198,11 @@ products:
     brand: PAVSTINE
     query: PAVSTINE Acrylic Floating Wall Shelves Set of 2 12 Inch White
     asin: B0CC2GK9TH
+    image:
+      url: https://m.media-amazon.com/images/I/31pzw1zqhkL._SL500_.jpg
+      width: 500
+      height: 500
+    amazonTitle: PAVSTINE Acrylic Floating Wall Shelves Set of 2, 12 Inch White
     asinVerified: true
     matchName: PAVSTINE Acrylic Floating Wall Shelves
     badge: Best for bathroom tile
