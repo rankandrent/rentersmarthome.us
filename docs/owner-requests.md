@@ -94,7 +94,7 @@ Status: ✅ ho gaya · 🔁 roz chal raha hai · ⏳ owner ka jawab chahiye · �
 | "jo zrori hota wo required agent k according update kar diya karo" | Bhoolne ka darr | ✅ CLAUDE.md standing rule |
 | "translation waly blog q nhi kar rahy" | Light Mode mein ruki hui | ⏳ owner chune: roz 1 post ×3 languages / roz 2 / band |
 
-| "seo, content, technical, on page sa related jitny b google patents ha sab find karo ... alag sa agent bna do jo daily google paytens pa research kary then system ko train kary" | Sites top 10 mein nahi aa rahi | 🔁 patent-research-agent roz 14:07 UTC; pehla run 23 Oct: 44 patents list, 5 padhe, 2 rules lagaye (information gain, publishers se pick justify nahi); ⏳ 4 faisle owner ke |
+| "seo, content, technical, on page sa related jitny b google patents ha sab find karo ... alag sa agent bna do jo daily google paytens pa research kary then system ko train kary" | Sites top 10 mein nahi aa rahi | 🔁 patent-research-agent roz 14:07 UTC; pehla run 23 Oct: 44 patents list, 5 padhe, 2 rules lagaye (information gain, publishers se pick justify nahi); ⏳ 4 faisle owner ke; 24 Oct: reasonable surfer + predicting site quality padhe, 3 rules lagaye (shuru mein internal link, go-live par 2 posts se in-body link, 'From our notes' ka alag opener) |
 
 ## Pehle ke khule sawal (owner ka jawab baqi)
 

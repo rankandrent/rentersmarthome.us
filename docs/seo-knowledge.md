@@ -2,7 +2,7 @@
 
 Running knowledge base for rentersmarthome.us, best-tripod.com and best-safe.com. Written by
 `.claude/agents/patent-research-agent.md`; studied patents live in `data/patents.json`, the rest in
-`data/patent-queue.json`. First run: 2026-10-23 (5 patents studied, 39 queued).
+`data/patent-queue.json`. First run: 2026-10-23 (5 patents studied, 39 queued). Last run: 2026-10-24 (7 studied, 37 queued).
 
 **Evidence levels.** confirmed = Google docs, the 2024 API leak or DOJ trial evidence back it. likely = several
 patents/experts agree and it fits Google's guidance. speculative = one patent only. A patent shows what Google
@@ -107,17 +107,27 @@ or cap all pages (Google: "Site-wide signals and classifiers are also used").
 
 **Evidence:** US9031929B1 Site quality score (brand/navigational queries ÷ queries that land on the site), leak
 siteAuthority (applied in Qstar), DOJ Q* quality signal. Exact-match domains get less credit (Google EMD system;
-leak lists an EMD demotion), relevant to best-tripod.com and best-safe.com. Queue: US9767157B2 predicting site
-quality for new sites, US9195944B1, US9659064B1, US20190155948A1, US8442984B1, US9183499B1.
+leak lists an EMD demotion), relevant to best-tripod.com and best-safe.com. US9767157B2 Predicting site quality
+(studied 2026-10-24, likely): a new site with no baseline score gets one predicted from its text, via a model of
+which 2-5-word phrases, on what share of a site's pages, go with high- or low-scored sites; the prediction feeds
+ranking for every page. Mechanism speculative (one patent); principle confirmed by Google's helpful content post:
+an automated ML classifier, a "site-wide signal", that "runs continuously, allowing it to monitor newly-launched
+sites" (https://developers.google.com/search/blog/2022/08/helpful-content-update). Queue: US9195944B1,
+US9659064B1, US20190155948A1, US8442984B1, US9183499B1.
 
 **What we already do:** About, editorial policy, how-we-research, how-we-score, author page (Organization),
 checklists as brand tools.
 
-**What we miss:** zero branded queries; anonymous "Editorial Team" byline (Google: "Do bylines lead to further
+**What we miss:** the same story-block opener "From our notes: When we lined up (the spec sheets/listings)..." in
+26/55 rentersmarthome, 29/38 best-tripod and 22/30 best-safe posts (2026-10-24 count): the most site-wide repeated
+phrase in our markdown, the kind of signal a phrase-based site model reads; zero branded queries; anonymous
+"Editorial Team" byline (Google: "Do bylines lead to further
 information about the author"; never fabricate one).
 
 **Proposals:** branded-query KPI (medium); brand-name mentions in white-hat outreach (owner); real named reviewer
-(owner).
+(owner). 2026-10-24 (US9767157B2): story block keeps its owner-rule label but opens with a post-specific sentence,
+never "When we lined up", QA warns on an opener shared with another post (medium); QA warns on any 6-word body
+phrase already in 30%+ of the repo's posts (low). Template blocks in PostPage.astro are site design: not proposed.
 
 ## links/authority
 
@@ -125,17 +135,29 @@ information about the author"; never fabricate one).
 exhibit). Links from related or duplicate sources do not count as independent (US8682892B1).
 
 **Evidence:** US8682892B1 (Panda: independent links ÷ reference queries as a site-wide factor; expired), leak
-homepagePagerankNs and siteAuthority. Queue: US7716225B1 reasonable surfer (link value by placement), US9165040B1
+homepagePagerankNs and siteAuthority. US7716225B1 reasonable surfer (studied 2026-10-24, likely; expired 2025 but
+continued 3 times): rank flows through a link in proportion to its predicted click probability, learned from
+anchor font size, position (top vs bottom, footer, sidebar, list position), anchor words, words around the link,
+topical match of source and target; "Terms of Service" links, banner ads and unrelated links count little. Google's
+link guide confirms anchor text and "the words before and after links matter" and asks for internal links "in
+context"; the leak's per-anchor sourceType confirms anchors are weighted by source quality. Queue: US9165040B1
 seed-distance ranking, US9002832B1 low-quality sites by linking sites, US8959093B1 anchors, US8818995B1 trust,
 US8244722B1 rank-modifying spam, US6285999B1 PageRank.
 
 **What we already do:** white-hat-only owner rule, off-page prompt, internal links from 2-3 related posts in
 improve-agent, ROUTINE prefers keywords where low-DR sites or forums rank.
 
-**What we miss:** a hard keyword gate while authority is ~0, and a measurable link-earning target.
+**What we miss:** a hard keyword gate while authority is ~0, and a measurable link-earning target. Internal
+links to new posts are almost all bottom-of-page cards: finalize runs before pubDate, so addBacklinks() only adds
+the post to `related` (data reports: 150 related-box vs 2 contextual on rentersmarthome, 107 vs 0 best-tripod,
+86 vs 0 best-safe) and nothing adds body links at go-live. Outgoing body links cluster at the end (about half in
+the last 20% of the body; only 26/55, 10/38, 8/30 posts link in the first third).
 
 **Proposals:** keyword gate (2+ weak results in top 10, park DR>=60-only head terms) (high); 3-5 editorial
-referring domains per site per month, never cross-linking our own sites as a scheme (owner).
+referring domains per site per month, never cross-linking our own sites as a scheme (owner). 2026-10-24
+(US7716225B1): at go-live, add 1 in-body contextual link to the new post from 2 related live posts, first half of
+the body, descriptive anchor, factcheck+qa each (high); writer puts at least 1 internal link in running text in the
+first third of the body, anchor names the target topic in 2-6 words, QA warns if missing (medium).
 
 ## user-signals
 
@@ -210,5 +232,7 @@ Amazon image weight), US8417686B2 sitemaps, US8666964B1 crawl schedule.
   write-up).
 
 ## Changelog
+- 2026-10-24: daily run. Studied US7716225B1 (reasonable surfer, likely) and US9767157B2 (predicting site
+  quality, likely). Queue: 37 pending. Gap check: internal-link placement and site-wide repeated story opener.
 - 2026-10-23: first run. Inventory of 44 patents (5 studied, 39 pending). Studied US11354342B2, US9031929B1,
   US8682892B1, US8661029B1, US9940367B1.

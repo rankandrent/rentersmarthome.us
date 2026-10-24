@@ -215,5 +215,86 @@
       }
     ],
     "studiedAt": "2026-10-23"
+  },
+  {
+    "id": "US7716225B1",
+    "title": "Ranking documents based on user behavior and/or feature data",
+    "url": "https://patents.google.com/patent/US7716225B1/en",
+    "assignee": "Google LLC",
+    "filed": "2004-06-17 (application US10/869,057, priority same day); granted 2010-05-11; status Expired - Lifetime (adjusted expiration 2025-03-16). Continuations filed 2010-03-19 (US12/728,015), 2012-01-10 (US13/347,472), 2016-03-30 (US15/085,826).",
+    "status": "granted (expired)",
+    "inventors": [
+      "Jeffrey A. Dean",
+      "Corin Anderson",
+      "Alexis Battle"
+    ],
+    "topic": "links/authority",
+    "summary": "The 'reasonable surfer' patent. Instead of treating every link on a page as equally likely to be followed (classic random-surfer PageRank), Google trains a model on link features plus real user navigation data to predict the probability each link is clicked, and passes rank to the target in proportion to that probability. The description gives examples of links that are unlikely to be followed ('Terms of Service' links, banner ads, links unrelated to the document) and example learned rules: larger anchor font, links nearer the top of the document, and links whose source and target share a topical cluster get a higher click probability.",
+    "keyClaims": [
+      "Claim 1: train 'a model that identifies a probability that a particular link, with particular feature data, will be selected by a user' from link/source/target feature data and user navigation data; compute 'a rank for a particular target document ... based on the probability associated with one or more of the ... links that point to' it.",
+      "Claim 6: link features include anchor font size, 'a position of the ... link within' the source document, position in a list, font color, number of words and actual words in the anchor text, 'commerciality of the anchor text', 'a context of words before or after the' link, the anchor's topical cluster, and whether the link stays on the same host or domain.",
+      "Claim 5: source-document features include the number of links on the page, words in headings and how well the source's topical cluster matches the link's.",
+      "Description: positions measured 'above or below the first screenful', 'in a footer, in a sidebar'; example rule 'links positioned closer to the top of a document have a higher probability of being selected than links positioned toward the bottom'."
+    ],
+    "evidence": "likely",
+    "evidenceNote": "Confirmed part: Google says it 'uses links as a signal when determining the relevancy of pages', that anchor text and 'the words before and after links matter', and asks for internal links 'in context' (Link best practices). The leak confirms Google stores per-anchor quality data (sourceType: anchors from high/medium/low quality source pages, also 'an importance indicator of an anchor'). Not confirmed: that placement/click-probability weighting runs today. The patent family was continued three times (2010, 2012, 2016), which shows Google kept the claims alive; the original patent has expired, which says nothing about use.",
+    "supportingSources": [
+      "https://developers.google.com/search/docs/crawling-indexing/links-crawlable",
+      "https://ipullrank.com/google-algo-leak"
+    ],
+    "applies": "Gap check 2026-10-24 (all 3 repos, src/content/blog): incoming internal links to new posts are almost never contextual. finalize -> addBacklinks() runs before a post's pubDate (isLive=false), so it only adds the new post to other posts' `related` list (rendered as the 'Related guides' cards at the very bottom of the page, after the author box). data/ reports: rentersmarthome 150 related-box vs 2 contextual, best-tripod 107 vs 0, best-safe 86 vs 0; nothing converts them into body links once the post goes live (improve-agent adds 2-3 only for the one post it picks). Outgoing body links are also bottom-heavy: of body internal links, 104/228 (rsh), 98/178 (tripod), 67/115 (safe) sit in the last 20% of the body, and only 26/55, 10/38, 8/30 posts have any internal link in the first third. writer-agent's 'end with 1-2 links to the next question' rule reinforces this. Under the reasonable-surfer model these are the lowest-weight positions (bottom, card lists). Anchors are descriptive (no 'click here' found), but many are '<topic> guide' stubs ('pistol safe guide', 'HomeKit guide').",
+    "ruleProposals": [
+      {
+        "agentFile": "agents/seo-agent.mjs + scripts/routine.mjs (go-live step; all 3 repos)",
+        "change": "When a post goes live (the hourly Scheduled release / go-live check), run the contextual backlink pass for it: insert 1 in-body link to the new post into each of 2 related LIVE English posts (pickLinkTargets score > 0.05), in a body paragraph (not a heading, list, table, FAQ or the related box), preferring the first half of the body; anchor = a natural 2-6 word phrase that names the new post's topic. Then run factcheck '<added one internal link to <slug>, no claim changed>' and qa for each edited post. Test: data reports show mode 'contextual' >= 2 for every post live 24h+.",
+        "priority": "high"
+      },
+      {
+        "agentFile": ".claude/agents/writer-agent.md (+ qa-agent.mjs warning; all 3 repos)",
+        "change": "Place at least 1 of the 3-5 internal links in running text within the first third of the body (intro or the first two H2 sections), where it answers a question the reader has at that point; keep the 1-2 next-question links at the end. Anchor text names the target page's topic in 2-6 words (e.g. 'fire ratings for gun safes', not 'gun safe guide'), never chained next to another link. QA warns when no /blog/ link appears in the first third of the body.",
+        "priority": "medium"
+      }
+    ],
+    "studiedAt": "2026-10-24"
+  },
+  {
+    "id": "US9767157B2",
+    "title": "Predicting site quality",
+    "url": "https://patents.google.com/patent/US9767157B2/en",
+    "assignee": "Google LLC",
+    "filed": "2013-03-15 (application US13/843,150, priority same day); published as US20140280011A1 2014-09-18; granted 2017-09-19; status Active (adjusted expiration 2035-08-24). EP and WO counterparts withdrawn/ceased.",
+    "status": "granted",
+    "inventors": [
+      "Navneet Panda",
+      "Yun Zhou"
+    ],
+    "topic": "site-quality",
+    "summary": "For a new site that has no baseline site quality score yet, Google predicts one from the site's text. It builds a phrase model from already-scored sites: for each n-gram (2- to 5-grams, tokenization not normalized, so errors are kept) it records on what share of a site's pages the phrase appears and the average quality score of sites with that share. A new site's predicted score is the central tendency of the scores of its phrases, weighted and smoothed toward a neutral score when a few very frequent phrases dominate. The predicted score is used as the site quality input when ranking the new site's pages. The description adds the model can also score 'a single page, paragraph, sentence'.",
+    "keyClaims": [
+      "Claim 1: phrase model mapping 'phrase specific relative frequency measures' ('how many pages in a site contain the phrase relative to how many pages are on the respective site') to the average baseline quality score of previously scored sites; for a new site, the 'aggregate site quality score' is 'a measure of central tendency' of its phrases' scores; the predicted score is then used in 'generating respective ranking scores' for its pages.",
+      "Claim 2: phrases are 2-, 3-, 4- or 5-gram token sequences.",
+      "Description: phrases that are equally common on good and bad sites (example 'on the') are dropped as uninformative; if the top N phrases carry too much of the weight, the score is smoothed toward the neutral (global average) score; a minimum number of known phrases is needed before a prediction is made."
+    ],
+    "evidence": "likely",
+    "evidenceNote": "Mechanism (n-gram phrase model) = speculative, one patent. Principle = confirmed by Google: the helpful content update 'introduces a new site-wide signal', the classifier is 'entirely automated, using a machine-learning model', it 'runs continuously, allowing it to monitor newly-launched sites', and 'Any content ... on sites determined to have relatively high amounts of unhelpful content overall is less likely to perform well'. Same inventor (Navneet Panda) as the studied Panda patents US8682892B1 and US9031929B1.",
+    "supportingSources": [
+      "https://developers.google.com/search/blog/2022/08/helpful-content-update",
+      "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+      "https://developers.google.com/search/docs/appearance/ranking-systems-guide"
+    ],
+    "applies": "All three sites are new (first impressions in October 2026), so a predicted, content-derived site score is exactly what they would get before any links or brand queries exist. Site-wide repeated wording is what such a model sees. Measured on src/content/blog (5-grams on >=30% of posts): the story block opener 'From our notes: When we lined up (the spec sheets / the listings)...' appears in 26/55 rentersmarthome, 29/38 best-tripod and 22/30 best-safe posts; nothing else repeats that widely in the markdown. The 'From our notes' label is an owner rule and stays; the identical opening sentence pattern is writer habit. Template blocks rendered by PostPage.astro ('How we picked these', 'Why you can trust this guide', affiliate disclosure) repeat on every page but are site design (boilerplate) and are not proposed for change. GSC: median position 43 (rsh), 26 (tripod), 54 (safe); 1-3 clicks per site in 30 days.",
+    "ruleProposals": [
+      {
+        "agentFile": ".claude/agents/writer-agent.md + agents/qa-agent.mjs (all 3 repos)",
+        "change": "Keep the '> **From our notes:**' label (owner rule), but the block's first sentence must be specific to this post (name the product, number or situation in the first 12 words) and must not reuse an opener already in another post: never start with 'When we lined up'. QA warns when the first 6 words after the label match the first 6 words of the story block in any other English post of the same repo.",
+        "priority": "medium"
+      },
+      {
+        "agentFile": "agents/qa-agent.mjs (all 3 repos)",
+        "change": "Site-level repetition check: warn when any 6-word phrase in the new post's body (excluding product names, headings and the owner-mandated labels) already appears in 30%+ of the repo's English posts, and list the phrase so the writer can rephrase it. Test: the check flags 'from our notes when we lined' on today's corpus.",
+        "priority": "low"
+      }
+    ],
+    "studiedAt": "2026-10-24"
   }
 ]
