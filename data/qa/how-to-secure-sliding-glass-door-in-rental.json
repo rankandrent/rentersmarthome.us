@@ -1,9 +1,11 @@
 {
   "slug": "how-to-secure-sliding-glass-door-in-rental",
   "pass": true,
-  "checkedAt": "2026-10-21T19:58:33.243Z",
+  "checkedAt": "2026-10-24T10:11:05.387Z",
   "errors": [],
   "warnings": [
+    "only 12 first-person words; owner rule wants at least 17 (about 1 per 100 words: I, my, me, we, our, us)",
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Master Lock 265D Door Security Bar; Ideal Security Patio Door Security Bar; SECURITYMAN 2-in-1 Door Security Bar with Alarm",
     "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
     "source didn't respond normally (403): https://www.idealinc.com/en/patio-door-security-bar-with-anti-lift-lock",
     "source didn't respond normally (403): https://www.vivint.com/resources/article/how-to-secure-a-sliding-glass-door"

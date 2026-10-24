@@ -1,6 +1,6 @@
 ---
-title: 'Mietwohnung kindersicher machen ohne Schäden – Ratgeber 2026'
-seoTitle: 'Mietwohnung kindersicher machen ohne Bohren (2026)'
+title: Mietwohnung kindersicher machen ohne Schäden – Ratgeber 2026
+seoTitle: Mietwohnung kindersicher machen ohne Bohren (2026)
 description: >-
   Mietwohnung kindersicher machen ohne Schäden: Plan für jeden Raum, was der
   Vermieter erlauben muss, Mustermail, Tipps zum Auszug und 6 Helfer.
@@ -54,7 +54,7 @@ tldr:
     Fotografiere jede Wand, jeden Schrank und jeden Türrahmen, bevor du etwas
     anbringst, und heb die Fotos auf, bis deine Kaution zurück ist.
 products:
-  - name: Safety 1st Adhesive Magnetic Cabinet Locks (12 Locks, 2 Keys)
+  - name: 'Safety 1st Adhesive Magnetic Cabinet Locks (12 Locks, 2 Keys)'
     brand: Safety 1st
     query: Safety 1st Adhesive Magnetic Cabinet Locks 12 Locks 2 Keys
     asin: B0D5J465SM
@@ -72,13 +72,13 @@ products:
       Kleber auf Spanplatten, alter Farbe oder fettigen Oberflächen nicht
       garantiert; dort sind die mitgelieferten Schrauben die Alternative.
     pros:
-      - Klebemontage mit Schablone, an den meisten Schränken ohne Bohren
+      - 'Klebemontage mit Schablone, an den meisten Schränken ohne Bohren'
       - Unsichtbar innen im Schrank
-      - Zwei Schlüssel, einer kann bei der Betreuungsperson bleiben
+      - 'Zwei Schlüssel, einer kann bei der Betreuungsperson bleiben'
     cons:
-      - Spanplatten, alte Farbe und fettige Flächen brauchen evtl. Schrauben
+      - 'Spanplatten, alte Farbe und fettige Flächen brauchen evtl. Schrauben'
       - Erwachsene brauchen jedes Mal den Schlüssel
-      - Wer beide Schlüssel verliert, muss Ersatz besorgen
+      - 'Wer beide Schlüssel verliert, muss Ersatz besorgen'
     scores:
       install: 9
       reversibility: 7
@@ -101,7 +101,7 @@ products:
           dem Verlust ein komplett neues Set
       sources:
         - title: eBay owner reviews of the Safety 1st adhesive magnetic lock system
-          url: https://ebay.com/p/14017646584
+          url: 'https://ebay.com/p/14017646584'
         - title: Safety 1st Secure-to-Explore replacement keys (HS405)
           url: >-
             https://safety1st.com/products/secure-to-explore-adhesive-magnetic-lock-keys-2-pack-hs405
@@ -109,32 +109,32 @@ products:
           url: >-
             https://www.samsclub.com/ip/safety-1st-secure-to-explore-adhesive-locks-12-locks-white/13636904161
     image:
-      url: https://m.media-amazon.com/images/I/41mBTw1GiBL._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/41mBTw1GiBL._SL500_.jpg'
       width: 500
       height: 396
     gallery:
-      - url: https://m.media-amazon.com/images/I/314Z9uWHl7L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/314Z9uWHl7L._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41d+jOvL6rL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41d+jOvL6rL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/31fKEUBauUL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/31fKEUBauUL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/31E+9cjIfdL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/31E+9cjIfdL._SL500_.jpg'
         width: 500
         height: 500
   - name: Safety 1st Press Tab Plug Protectors
     brand: Safety 1st
     query: Safety 1st Press Tab Plug Protectors
     badge: Bester Steckdosenschutz
-    summary: Einfache Stecker, die unbenutzte Steckdosen in jedem Raum verschließen.
+    summary: 'Einfache Stecker, die unbenutzte Steckdosen in jedem Raum verschließen.'
     renterNote: >-
       Stecker mit Klemmsitz, abnehmbar und wiederverwendbar, ohne Kleber oder
       Werkzeug, sie hinterlassen also nichts.
     pros:
-      - Abnehmbar, wiederverwendbar, ohne Kleber
+      - 'Abnehmbar, wiederverwendbar, ohne Kleber'
       - Viele Steckdosen pro Packung
       - Kein Werkzeug nötig
     cons:
@@ -145,24 +145,24 @@ products:
       reversibility: 10
       value: 10
       portability: 10
-    scoreNote: Einsteckbare Stecker, nichts bleibt zurück.
+    scoreNote: 'Einsteckbare Stecker, nichts bleibt zurück.'
     asin: B0107CZOIS
     image:
-      url: https://m.media-amazon.com/images/I/417epWTkw-L._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/417epWTkw-L._SL500_.jpg'
       width: 500
       height: 500
     amazonTitle: Safety 1st Press Tab Plug Protectors 36 Count
     gallery:
-      - url: https://m.media-amazon.com/images/I/41BEISwf93L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41BEISwf93L._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/31ztzcmTceL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/31ztzcmTceL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/31Mx0OJDgDL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/31Mx0OJDgDL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41-rq-2yw1L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41-rq-2yw1L._SL500_.jpg'
         width: 500
         height: 500
     owners:
@@ -177,10 +177,10 @@ products:
         - Ein Käufer erhielt eine bereits geöffnete Packung
       sources:
         - title: Walmart 36-pack customer reviews
-          url: https://www.walmart.com/ip/587402368
+          url: 'https://www.walmart.com/ip/587402368'
           reviews: 32
         - title: Walmart 32-pack customer reviews
-          url: https://www.walmart.com/ip/47710214
+          url: 'https://www.walmart.com/ip/47710214'
           reviews: 12
   - name: Safety 1st Easy Install Walk-Through Gate
     brand: Safety 1st
@@ -194,9 +194,9 @@ products:
       Klemmmontage ohne Bohren, aber nutze die mitgelieferten Wandschalen und
       nie ein Klemmgitter am oberen Ende der Treppe.
     pros:
-      - Klemmmontage, keine Bohrlöcher im Rahmen
-      - JPMA-zertifiziert, laut Hersteller
-      - Anzeige wird grün, wenn das Gitter verriegelt ist
+      - 'Klemmmontage, keine Bohrlöcher im Rahmen'
+      - 'JPMA-zertifiziert, laut Hersteller'
+      - 'Anzeige wird grün, wenn das Gitter verriegelt ist'
     cons:
       - Nicht für das obere Ende der Treppe
       - Wandschalen drücken gegen Wand oder Rahmen
@@ -208,30 +208,30 @@ products:
     scoreNote: Spannmontage; die Passform hängt von der Breite der Öffnung ab.
     asin: B01BTUNHSQ
     image:
-      url: https://m.media-amazon.com/images/I/31I6fRAbVbL._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/31I6fRAbVbL._SL500_.jpg'
       width: 500
       height: 500
     amazonTitle: >-
       Safety 1st Easy Install Walk Thru Baby Gate for Doorway With Door, Dog
       Gates, Fits 29"-38", Easy Install 28" Tall, White
     gallery:
-      - url: https://m.media-amazon.com/images/I/41q89TX9PYL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41q89TX9PYL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/31NHLsa26HL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/31NHLsa26HL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41JGXXc2PML._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41JGXXc2PML._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/418CzLEiCKL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/418CzLEiCKL._SL500_.jpg'
         width: 500
         height: 500
     owners:
       read: 5
       praise:
         - Sieht gut aus und ist schnell aufgebaut
-        - Hält in Türöffnungen, ohne Spuren an der Wand zu hinterlassen
+        - 'Hält in Türöffnungen, ohne Spuren an der Wand zu hinterlassen'
       complaints:
         - >-
           Riegel und Gehäuseteile klemmen oder brechen laut Berichten mit der
@@ -241,9 +241,9 @@ products:
           und die Passform hängt von der Wandart ab
       sources:
         - title: Walmart listing reviews
-          url: https://www.walmart.com/ip/49660480
+          url: 'https://www.walmart.com/ip/49660480'
         - title: Walmart listing reviews (2)
-          url: https://www.walmart.com/ip/1643250385
+          url: 'https://www.walmart.com/ip/1643250385'
         - title: Macy's listing
           url: >-
             https://www.macys.com/shop/product/safety-1st-easy-install-walk-thru-gate?ID=6854134
@@ -251,7 +251,7 @@ products:
           url: >-
             https://homedepot.com/p/reviews/Safety-1st-Easy-Install-28-in-Walk-Thru-Gate-GA105WHOF2/300249675/1
           reviews: 43
-  - name: Safety 1st Foam Corner Cushions (4-pack, HS209)
+  - name: 'Safety 1st Foam Corner Cushions (4-pack, HS209)'
     brand: Safety 1st
     query: Safety 1st Foam Corner Cushions 4 pack
     badge: Bester Kantenschutz
@@ -260,7 +260,7 @@ products:
       Hält mit einem Klebestreifen, der sich laut Hersteller leicht entfernen
       lässt; bring ihn an Möbeln an, nicht an gestrichenen Wänden.
     pros:
-      - Montage per Klebestreifen, kein Werkzeug
+      - 'Montage per Klebestreifen, kein Werkzeug'
       - Lässt sich laut Hersteller leicht entfernen
       - Keine Schrauben oder Beschläge
     cons:
@@ -271,7 +271,7 @@ products:
       reversibility: 8
       value: 9
       portability: 9
-    scoreNote: Zum Aufkleben, mit geringem Risiko für Rückstände.
+    scoreNote: 'Zum Aufkleben, mit geringem Risiko für Rückstände.'
     owners:
       read: 1
       praise:
@@ -285,19 +285,19 @@ products:
           Halt auf lange Sicht ist also nicht bestätigt
       sources:
         - title: Safety 1st HS209 page
-          url: https://safety1st.com/en-ca/products/foam-corner-cushions-hs209
+          url: 'https://safety1st.com/en-ca/products/foam-corner-cushions-hs209'
         - title: Canadian Tire listing
           url: >-
             https://canadiantire.ca/en/pdp/safety-1st-foam-corner-cushions-4-pk-0462391p.html
     asin: B004D5FAQ2
-    amazonTitle: Safety 1st Furniture Corner Cushions, 4-Count
+    amazonTitle: 'Safety 1st Furniture Corner Cushions, 4-Count'
     matchName: Safety 1st Furniture Corner Cushions
     image:
-      url: https://m.media-amazon.com/images/I/41Xt0FVFegS._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/41Xt0FVFegS._SL500_.jpg'
       width: 500
       height: 500
     gallery:
-      - url: https://m.media-amazon.com/images/I/41tnCf0pzmS._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41tnCf0pzmS._SL500_.jpg'
         width: 500
         height: 500
   - name: Safety 1st Grip 'n Twist Door Knob Covers (4-pack)
@@ -315,8 +315,8 @@ products:
       - Nichts wird an der Tür befestigt
       - Im nächsten Zuhause wiederverwendbar
     cons:
-      - Eine Hürde, keine vollständige Sicherung
-      - Für runde Knäufe, nicht für Türklinken
+      - 'Eine Hürde, keine vollständige Sicherung'
+      - 'Für runde Knäufe, nicht für Türklinken'
     scores:
       install: 10
       reversibility: 10
@@ -325,21 +325,21 @@ products:
     scoreNote: Zum Aufstecken ohne Beschläge; hängt von der Knaufform ab.
     asin: B00A47VH2O
     image:
-      url: https://m.media-amazon.com/images/I/41PMueeHkNL._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/41PMueeHkNL._SL500_.jpg'
       width: 500
       height: 500
-    amazonTitle: Safety 1st Grip N' Twist Door Knob Covers Decor, 4-Count
+    amazonTitle: 'Safety 1st Grip N'' Twist Door Knob Covers Decor, 4-Count'
     gallery:
-      - url: https://m.media-amazon.com/images/I/51sn2qzAUBL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51sn2qzAUBL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41MDjWD7YIL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41MDjWD7YIL._SL500_.jpg'
         width: 500
         height: 333
-      - url: https://m.media-amazon.com/images/I/41w-0dfO+nL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41w-0dfO+nL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/31LajGFzQwL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/31LajGFzQwL._SL500_.jpg'
         width: 375
         height: 500
     owners:
@@ -348,7 +348,7 @@ products:
         - >-
           Besitzer sagen, sie funktionieren gut und halten Kleinkinder wirksam
           ab
-        - Einmal angebracht, einfach zu bedienen
+        - 'Einmal angebracht, einfach zu bedienen'
       complaints:
         - >-
           Sitzt stramm oder schlecht auf flachen oder ungewöhnlichen Knäufen;
@@ -356,7 +356,7 @@ products:
         - Der Griff kann für Erwachsene mit Arthritis zu schwergängig sein
       sources:
         - title: Safety 1st Grip N Twist on eBay
-          url: https://www.ebay.com/p/710095188
+          url: 'https://www.ebay.com/p/710095188'
         - title: Navy Exchange listing
           url: >-
             https://www.mynavyexchange.com/safety-1st-grip-n-twist-door-knob-covers-4-pack/13404454
@@ -373,7 +373,7 @@ products:
       zum Verschließen); am Möbel reicht ein Klebepad. Frag vorher deinen
       Vermieter.
     pros:
-      - Verhindert das Umkippen, eine große Gefahr für kletternde Kleinkinder
+      - 'Verhindert das Umkippen, eine große Gefahr für kletternde Kleinkinder'
       - Am Möbel reicht ein Klebepad
       - Nur ein kleines Loch in der Wand
     cons:
@@ -387,7 +387,7 @@ products:
     scoreNote: Ein kleines Loch im Wandständer zum Verschließen.
     asin: B000FJRYAA
     image:
-      url: https://m.media-amazon.com/images/I/51uJzmQjD0L._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/51uJzmQjD0L._SL500_.jpg'
       width: 318
       height: 500
     amazonTitle: >-
@@ -395,23 +395,23 @@ products:
       Anti Tip Protection, Adjustable Wall Anchor Straps, For Bookcases,
       Cabinets, Dressers
     gallery:
-      - url: https://m.media-amazon.com/images/I/51-ZFNKOkJL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51-bav8ysTL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/51MbYlBjT-L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/512rY-Q4OlL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/5193cIwl4mL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/517I5GEY6FL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/51YfOj4hxWL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51fOtMaxPJL._SL500_.jpg'
         width: 500
         height: 500
     owners:
       read: 2
       praise:
         - Die Montage zum Aufkleben vermeidet Löcher im Möbel
-        - Belastbar bis 227 kg (500 lb), mit zwei 38 cm (15 in) langen Gurten
+        - 'Belastbar bis 227 kg (500 lb), mit zwei 38 cm (15 in) langen Gurten'
       complaints:
         - >-
           In den wenigen Besitzerberichten, die wir gelesen haben, fanden wir
@@ -422,23 +422,23 @@ products:
             https://homedepot.com/p/QuakeHOLD-Black-Nylon-Furniture-Safety-Strap-4160/100137023
           reviews: 14
         - title: Ready America
-          url: https://www.readyamerica.com/product/quakehold-furniture-strap/
+          url: 'https://www.readyamerica.com/product/quakehold-furniture-strap/'
 sources:
-  - title: Safety 1st Secure-to-Explore Adhesive Locks, 12 locks (Sam's Club)
+  - title: 'Safety 1st Secure-to-Explore Adhesive Locks, 12 locks (Sam''s Club)'
     url: >-
       https://www.samsclub.com/ip/safety-1st-secure-to-explore-adhesive-locks-12-locks-white/13636904161
   - title: Safety 1st Secure-to-Explore Adhesive Magnetic Locks HS402 (Safety 1st)
     url: >-
       https://safety1st.com/products/secure-to-explore-adhesive-magnetic-locks-20-locks-2-keys-hs402
   - title: Safety 1st Home Safety Help Center
-    url: https://safety1st.com/pages/home-safety-help-center
+    url: 'https://safety1st.com/pages/home-safety-help-center'
   - title: Safety 1st Plug Protectors (Target)
     url: >-
       https://www.target.com/p/safety-1st-174-plug-protectors-36pack/-/A-14061588
   - title: Safety 1st Easy Install Walk-Through Gate (Safety 1st)
-    url: https://safety1st.com/en-ca/products/easy-install-walk-through-gate-ga105c
+    url: 'https://safety1st.com/en-ca/products/easy-install-walk-through-gate-ga105c'
   - title: Safety 1st Foam Corner Cushions HS209 (Safety 1st)
-    url: https://safety1st.com/en-ca/products/foam-corner-cushions-hs209
+    url: 'https://safety1st.com/en-ca/products/foam-corner-cushions-hs209'
   - title: Safety 1st Grip 'n Twist Doorknob Covers 4-Pack (Home Depot)
     url: >-
       https://homedepot.com/p/Safety-1st-Grip-n-Twist-Doorknob-Covers-4-Pack-48394/202259354
@@ -446,7 +446,7 @@ sources:
     url: >-
       https://homedepot.com/p/QuakeHOLD-Black-Nylon-Furniture-Safety-Strap-4160/100137023
   - title: Kids and Babies Safety Guides (CPSC)
-    url: https://www.cpsc.gov/Safety-Education/Safety-Guides/Kids-and-Babies
+    url: 'https://www.cpsc.gov/Safety-Education/Safety-Guides/Kids-and-Babies'
 reviewedDate: '2026-10-15'
 faqs:
   - q: Kann man eine Mietwohnung ohne Bohren kindersicher machen?

@@ -1,6 +1,6 @@
 ---
 title: Las mejores cámaras de seguridad wifi para pisos en 2026 (9 modelos)
-seoTitle: 'Cámaras de seguridad wifi para pisos – 9 modelos (2026)'
+seoTitle: Cámaras de seguridad wifi para pisos – 9 modelos (2026)
 description: >-
   Las mejores cámaras de seguridad wifi para pisos van al enchufe o con batería,
   no necesitan taladro y graban sin suscripción. Compara 9 modelos para
@@ -73,7 +73,7 @@ products:
       - >-
         Graba en local en microSD (hasta 256GB según la ficha técnica de Wyze),
         sin suscripción
-      - Vídeo 2,5K QHD con visión nocturna en color
+      - 'Vídeo 2,5K QHD con visión nocturna en color'
       - Funciona con Alexa y Google Assistant
     cons:
       - Tarjeta microSD no incluida
@@ -91,7 +91,7 @@ products:
       Apple Home no figura.
     asin: B0D7HK1TJH
     image:
-      url: https://m.media-amazon.com/images/I/41uFZZt209L._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/41uFZZt209L._SL500_.jpg'
       width: 500
       height: 500
     amazonTitle: >-
@@ -99,16 +99,16 @@ products:
       Easy App Setup, Enhanced Two-Way Audio and Motion Detection for Home
       Security, Baby Monitoring and Pet Camera
     gallery:
-      - url: https://m.media-amazon.com/images/I/41W-7c1CG6L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41W-7c1CG6L._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41RCzP45X0L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41RCzP45X0L._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/51PJm1VUvtL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51PJm1VUvtL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/51iZwgtwM7L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51iZwgtwM7L._SL500_.jpg'
         width: 500
         height: 500
     owners:
@@ -132,9 +132,9 @@ products:
           url: >-
             https://forums.wyze.com/t/wyze-cam-v4-firmware-beta-test-7-27-2026/344026?page=4
         - title: Firmware update trouble
-          url: https://forums.wyze.com/t/firmware-update-trouble/344803/28
+          url: 'https://forums.wyze.com/t/firmware-update-trouble/344803/28'
         - title: Best Buy customer reviews
-          url: https://www.bestbuy.com/site/reviews/www.bestbuy.com/6579791
+          url: 'https://www.bestbuy.com/site/reviews/www.bestbuy.com/6579791'
   - name: eufy Indoor Cam C120
     brand: eufy
     query: eufy Indoor Cam C120 2K security camera
@@ -142,7 +142,7 @@ products:
     summary: >-
       Una cámara de interior 2K compacta que graba en microSD sin necesidad de
       hub.
-    renterNote: Cámara de enchufe independiente, sin hub ni taladro.
+    renterNote: 'Cámara de enchufe independiente, sin hub ni taladro.'
     pros:
       - >-
         Graba en microSD (hasta 128GB), plan en la nube opcional, sin necesidad
@@ -151,7 +151,7 @@ products:
       - Audio bidireccional y sirena
     cons:
       - No se indica modo privacidad en este modelo
-      - Solo wifi de 2,4 GHz, visión nocturna en blanco y negro
+      - 'Solo wifi de 2,4 GHz, visión nocturna en blanco y negro'
     scores:
       install: 10
       reversibility: 10
@@ -163,7 +163,7 @@ products:
       información de plataformas.
     asin: B08571VZ3Q
     image:
-      url: https://m.media-amazon.com/images/I/213OyhHat4L._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/213OyhHat4L._SL500_.jpg'
       width: 400
       height: 500
     amazonTitle: >-
@@ -171,16 +171,16 @@ products:
       Wi-Fi | IP Camera | Voice Assistant Compatibility | Night Vision | Two-Way
       Audio | HomeBase 3 Compatible | Audio and Motion Alert
     gallery:
-      - url: https://m.media-amazon.com/images/I/51UzknBHuhL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51UzknBHuhL._SL500_.jpg'
         width: 400
         height: 500
-      - url: https://m.media-amazon.com/images/I/41jOzXYiC0L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41jOzXYiC0L._SL500_.jpg'
         width: 400
         height: 500
-      - url: https://m.media-amazon.com/images/I/41CC+x1rvQL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41CC+x1rvQL._SL500_.jpg'
         width: 389
         height: 500
-      - url: https://m.media-amazon.com/images/I/419wK6+EetL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/419wK6+EetL._SL500_.jpg'
         width: 400
         height: 500
   - name: Tapo C210 Pan/Tilt 2K Indoor Security Camera
@@ -214,14 +214,14 @@ products:
         - Configuración fácil en la app Tapo
         - Grabación en microSD gratis
       complaints:
-        - Solo 2,4 GHz; con wifi débil algunos necesitaron repetidores
+        - 'Solo 2,4 GHz; con wifi débil algunos necesitaron repetidores'
         - Se mencionan problemas con el giro y desconexiones
         - El audio queda por debajo del vídeo
       sources:
         - title: TP-Link Community Tapo C210 thread
-          url: https://community.tp-link.com/en/home/uc/post/3563316?page=19
+          url: 'https://community.tp-link.com/en/home/uc/post/3563316?page=19'
         - title: PriceMe Tapo C210 review
-          url: https://priceme.co.nz/TP-Link-Tapo-C210-review/pe-910874324.aspx
+          url: 'https://priceme.co.nz/TP-Link-Tapo-C210-review/pe-910874324.aspx'
         - title: PB Tech Tapo C210 reviews
           url: >-
             https://www.pbtech.co.nz/product/CCTTPL1210/TP-Link-Tapo-C210-3MP2K-Indoor-PT-Wi-Fi-Camera--Wh
@@ -232,20 +232,20 @@ products:
       Works with Alexa & Google Home
     matchName: Tapo 2K Pan Tilt Security Camera C210
     image:
-      url: https://m.media-amazon.com/images/I/41Cs70LKimL._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/41Cs70LKimL._SL500_.jpg'
       width: 500
       height: 500
     gallery:
-      - url: https://m.media-amazon.com/images/I/31w+mEQ459L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/31w+mEQ459L._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/51aoOye53mL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51aoOye53mL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/51IBW-LPVvL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51IBW-LPVvL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/51+OIBk60DL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51+OIBk60DL._SL500_.jpg'
         width: 500
         height: 500
   - name: Aqara Camera Hub G3
@@ -260,7 +260,7 @@ products:
     pros:
       - Compatible con HomeKit Secure Video y con ranura microSD
       - Giro e inclinación (hasta 340 grados de rotación)
-      - Reconocimiento de caras, gestos y mascotas en el propio dispositivo
+      - 'Reconocimiento de caras, gestos y mascotas en el propio dispositivo'
     cons:
       - Más grande que una cámara fija básica
       - HomeKit Secure Video usa un plan de iCloud
@@ -273,7 +273,7 @@ products:
     scoreNote: De enchufe con funciones de hub; ideal dentro de Apple Home.
     asin: B09J2CP8YS
     image:
-      url: https://m.media-amazon.com/images/I/31eLw59zWzL._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/31eLw59zWzL._SL500_.jpg'
       width: 500
       height: 500
     amazonTitle: >-
@@ -281,22 +281,22 @@ products:
       Security Camera for Baby & Pet, AI Facial & Gesture Recognition, Infrared
       Remote, Compatible with HomeKit Alexa IFTTT
     gallery:
-      - url: https://m.media-amazon.com/images/I/41stkCC6RcL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41stkCC6RcL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/411J8LLajLL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/411J8LLajLL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41H9a5eUw2L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41H9a5eUw2L._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41gg9W-WdiL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41gg9W-WdiL._SL500_.jpg'
         width: 500
         height: 500
     owners:
       read: 1
       praise:
-        - Sin suscripción obligatoria, detección por IA en el dispositivo
+        - 'Sin suscripción obligatoria, detección por IA en el dispositivo'
         - El control de giro e inclinación funciona bien
       complaints:
         - >-
@@ -322,7 +322,7 @@ products:
       - Diseño de enchufe compacto
       - Almacenamiento local posible con un Sync Module 2
     cons:
-      - El almacenamiento local necesita el Sync Module 2, que se vende aparte
+      - 'El almacenamiento local necesita el Sync Module 2, que se vende aparte'
       - Las mejores funciones dependen de la app Blink
     scores:
       install: 10
@@ -333,24 +333,23 @@ products:
     scoreNote: Instalación muy fácil; el vídeo local necesita un hub extra.
     asin: B09N6YCT3Y
     image:
-      url: https://m.media-amazon.com/images/I/31nxY9mlVwL._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/31nxY9mlVwL._SL500_.jpg'
       width: 500
       height: 500
     amazonTitle: >-
-      Blink Mini Pan-Tilt Camera (newest model), Rotating indoor plug-in smart
-      security camera, two-way audio, HD video, motion detection, Works with
-      Alexa (White)
+      Blink Mini Pan-Tilt Camera, Rotating indoor plug-in smart security camera,
+      two-way audio, HD video, motion detection, Works with Alexa (White)
     gallery:
-      - url: https://m.media-amazon.com/images/I/41r-9p2z70L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41r-9p2z70L._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41yDiq-ecwL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41yDiq-ecwL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41yy2h6EqHL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41yy2h6EqHL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41ftxbKFhBL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41ftxbKFhBL._SL500_.jpg'
         width: 500
         height: 500
     owners:
@@ -368,7 +367,7 @@ products:
         - title: Best Buy customer reviews
           url: >-
             https://www.bestbuy.com/product/blink-mini-2-home-security-pet-cameras-with-hd-video-color-night-view-motion-detection-two-way-audio-2-cam-black/J39HW6YTRQ/sku/6576646/reviews
-  - name: Google Nest Cam (Indoor, Wired) 2nd Gen
+  - name: 'Google Nest Cam (Indoor, Wired) 2nd Gen'
     brand: Google Nest
     query: Google Nest Cam indoor wired 2nd gen
     badge: Mejor para Google Home
@@ -394,7 +393,7 @@ products:
     scoreNote: Instalación sencilla; un historial más largo requiere un plan de pago.
     asin: B0FN7DLWGF
     image:
-      url: https://m.media-amazon.com/images/I/21WKXm7Is6L._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/21WKXm7Is6L._SL500_.jpg'
       width: 500
       height: 500
     amazonTitle: >-
@@ -402,16 +401,16 @@ products:
       2K video, motion detection, color night vision, 2-way audio, works with
       Google Home and Gemini, intelligent alerts
     gallery:
-      - url: https://m.media-amazon.com/images/I/21pz+uSbTWL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/21pz+uSbTWL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/51cX0cshVJL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51cX0cshVJL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/51lRcquR2DL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51lRcquR2DL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41kK-nxvP1L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41kK-nxvP1L._SL500_.jpg'
         width: 500
         height: 500
     owners:
@@ -429,7 +428,7 @@ products:
         - Algunos avisos de «vídeo en directo no disponible»
       sources:
         - title: Pocketables Nest Cam 2nd gen owner write-up
-          url: https://pocketables.com/?p=134049
+          url: 'https://pocketables.com/?p=134049'
   - name: Ring Indoor Cam (2nd Gen)
     brand: Ring
     query: Ring Indoor Cam 2nd Gen plug-in security camera
@@ -439,8 +438,8 @@ products:
       sobre el objetivo.
     renterNote: Se enchufa y va en una estantería; sin taladrar.
     pros:
-      - Tapa de privacidad manual, según Ring
-      - 1080p con visión nocturna en color, audio bidireccional y sirena
+      - 'Tapa de privacidad manual, según Ring'
+      - '1080p con visión nocturna en color, audio bidireccional y sirena'
       - Diseño de enchufe compacto
     cons:
       - Un análisis señala que la tapa no corta el micrófono
@@ -458,23 +457,23 @@ products:
       Ring.
     asin: B0CD31RLDK
     image:
-      url: https://m.media-amazon.com/images/I/218B1PINcVL._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/218B1PINcVL._SL500_.jpg'
       width: 313
       height: 500
     amazonTitle: >-
       Ring Indoor Cam, Home or business security in 1080p HD video, 2-pack,
       White
     gallery:
-      - url: https://m.media-amazon.com/images/I/31X0+gYCo7L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/31X0+gYCo7L._SL500_.jpg'
         width: 313
         height: 500
-      - url: https://m.media-amazon.com/images/I/41hdGjCEEwL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41hdGjCEEwL._SL500_.jpg'
         width: 313
         height: 500
-      - url: https://m.media-amazon.com/images/I/31BvksSBfdL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/31BvksSBfdL._SL500_.jpg'
         width: 313
         height: 500
-      - url: https://m.media-amazon.com/images/I/319k-+sFv4L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/319k-+sFv4L._SL500_.jpg'
         width: 313
         height: 500
   - name: eufy SoloCam S220
@@ -488,13 +487,13 @@ products:
       Sin cables y con batería, con certificación IP67; revisa tu contrato antes
       de montar nada en el balcón.
     pros:
-      - Sin cuota mensual, 8GB de almacenamiento integrado
+      - 'Sin cuota mensual, 8GB de almacenamiento integrado'
       - >-
         El panel solar integrado mantiene la batería cargada con unas pocas
         horas de sol al día
-      - Vídeo 2K, ángulo de 135 grados, IP67
+      - 'Vídeo 2K, ángulo de 135 grados, IP67'
     cons:
-      - Solo wifi de 2,4 GHz; sin NAS/RTSP
+      - 'Solo wifi de 2,4 GHz; sin NAS/RTSP'
       - El almacenamiento integrado es limitado
     scores:
       install: 8
@@ -502,10 +501,10 @@ products:
       value: 8
       compatibility: 5
       portability: 8
-    scoreNote: No necesita cableado, pero sí un sitio donde montarla.
+    scoreNote: 'No necesita cableado, pero sí un sitio donde montarla.'
     asin: B0BZ55JZ4S
     image:
-      url: https://m.media-amazon.com/images/I/311lpab1FHL._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/311lpab1FHL._SL500_.jpg'
       width: 500
       height: 500
     amazonTitle: >-
@@ -513,16 +512,16 @@ products:
       | 2K Resolution, Continuous Power, Built-in 8GB, No Subscription, HomeBase
       3 Compatible, for Outdoor Surveillance
     gallery:
-      - url: https://m.media-amazon.com/images/I/419aNkj0TVL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/419aNkj0TVL._SL500_.jpg'
         width: 400
         height: 500
-      - url: https://m.media-amazon.com/images/I/419oAzNc0eL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/419oAzNc0eL._SL500_.jpg'
         width: 400
         height: 500
-      - url: https://m.media-amazon.com/images/I/51162VpSWiL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51162VpSWiL._SL500_.jpg'
         width: 400
         height: 500
-      - url: https://m.media-amazon.com/images/I/41EwcBbqLwL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41EwcBbqLwL._SL500_.jpg'
         width: 400
         height: 500
     owners:
@@ -539,13 +538,13 @@ products:
         - La detección por IA necesita una HomeBase 3 aparte
       sources:
         - title: Eufy SoloCam S220 owner comments (Expert Reviews)
-          url: https://www.expertreviews.co.uk/eufy/eufy-solocam-s220-review
+          url: 'https://www.expertreviews.co.uk/eufy/eufy-solocam-s220-review'
         - title: Best Buy customer reviews
           url: >-
             https://bestbuy.com/site/reviews/eufy-solocam-s220-outdoor-battery-powered-security-camera-with-solar-charging-white/6547260?rating=4
           reviews: 32
         - title: Walmart customer reviews
-          url: https://www.walmart.com/ip/3516812098
+          url: 'https://www.walmart.com/ip/3516812098'
           reviews: 64
   - name: Reolink Argus 3 Pro
     brand: Reolink
@@ -558,11 +557,11 @@ products:
       Funciona con batería, así que sin enchufe ni cables; admite un panel
       solar.
     pros:
-      - Grabación local en microSD, sin suscripción obligatoria
-      - Batería recargable de 6000 mAh, compatible con panel solar
+      - 'Grabación local en microSD, sin suscripción obligatoria'
+      - 'Batería recargable de 6000 mAh, compatible con panel solar'
       - Ángulo de visión diagonal de 122 grados
     cons:
-      - Solo graba al detectar movimiento, no de forma continua
+      - 'Solo graba al detectar movimiento, no de forma continua'
       - Comprueba el límite de microSD en la caja (los anuncios no coinciden)
     scores:
       install: 8
@@ -575,7 +574,7 @@ products:
       app.
     asin: B0GQ246ZTX
     image:
-      url: https://m.media-amazon.com/images/I/31rMroqWugL._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/31rMroqWugL._SL500_.jpg'
       width: 500
       height: 500
     amazonTitle: >-
@@ -583,16 +582,16 @@ products:
       | 5MP Color Night Vison, Person/Vehicle/Animal Smart AI Detection, IP67,
       Local Storage, Smart Alerts, No Subscription
     gallery:
-      - url: https://m.media-amazon.com/images/I/41M-Jt03wZL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41M-Jt03wZL._SL500_.jpg'
         width: 400
         height: 500
-      - url: https://m.media-amazon.com/images/I/51esvFJdnAL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51esvFJdnAL._SL500_.jpg'
         width: 400
         height: 500
-      - url: https://m.media-amazon.com/images/I/41R5yzBrH5L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41R5yzBrH5L._SL500_.jpg'
         width: 400
         height: 500
-      - url: https://m.media-amazon.com/images/I/51y4LIX4wbL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51y4LIX4wbL._SL500_.jpg'
         width: 400
         height: 500
     owners:
@@ -615,34 +614,34 @@ products:
           url: >-
             https://redlib.hbubli.cc/r/reolinkcam/comments/1klwrxe/reolink_argus_pro_3
         - title: Reolink community posts
-          url: https://community.reolink.com/uid/147627
+          url: 'https://community.reolink.com/uid/147627'
 sources:
   - title: Wyze Cam v4 (Wyze)
-    url: https://wyze.com/products/wyze-cam-v4
+    url: 'https://wyze.com/products/wyze-cam-v4'
   - title: eufy Indoor Cam C120 review (Digital Camera World)
-    url: https://www.digitalcameraworld.com/reviews/eufy-indoor-cam-c120-review
+    url: 'https://www.digitalcameraworld.com/reviews/eufy-indoor-cam-c120-review'
   - title: Tapo C210 (TP-Link Tapo)
     url: >-
       https://us.store.tapo.com/products/tp-link-tapo-2k-pan-tilt-security-camera-night-vision-white-tapo-c210
   - title: Aqara G3 review (HomeKit News)
-    url: https://homekitnews.com/2021/07/10/aqara-g3-camera-hub-review/
+    url: 'https://homekitnews.com/2021/07/10/aqara-g3-camera-hub-review/'
   - title: Blink Mini 2 review (Yahoo Tech)
-    url: https://tech.yahoo.com/home/articles/blink-mini-2-review-110000339.html
+    url: 'https://tech.yahoo.com/home/articles/blink-mini-2-review-110000339.html'
   - title: Blink Mini review (Security.org)
-    url: https://www.security.org/security-cameras/blink/review/mini
-  - title: Nest Cam (Indoor, Wired) 2nd Gen (Gearbrain)
-    url: https://www.gearbrain.com/devices/CD826C0D4EDE11EC9A262CE7045DC5C7.html
+    url: 'https://www.security.org/security-cameras/blink/review/mini'
+  - title: 'Nest Cam (Indoor, Wired) 2nd Gen (Gearbrain)'
+    url: 'https://www.gearbrain.com/devices/CD826C0D4EDE11EC9A262CE7045DC5C7.html'
   - title: Ring Indoor Cam 2nd Gen review (Reviewed)
-    url: https://reviewed.com/smarthome/content/ring-indoor-cam-second-gen-review
+    url: 'https://reviewed.com/smarthome/content/ring-indoor-cam-second-gen-review'
   - title: Ring Indoor Cam 2nd gen (TechRadar)
     url: >-
       https://www.techradar.com/news/rings-new-indoor-cam-model-adds-small-yet-important-change-to-flagship-series
   - title: eufy SoloCam S220 (eufy)
-    url: https://www.eufy.com/ca/products/t8134121
+    url: 'https://www.eufy.com/ca/products/t8134121'
   - title: Reolink Argus 3 Pro review (Reolink)
-    url: https://reolink.com/blog/reolink-argus-3-pro-review/
+    url: 'https://reolink.com/blog/reolink-argus-3-pro-review/'
   - title: Reolink Argus 3 Pro review (MB Reviews)
-    url: https://www.mbreviews.com/reolink-argus-3-pro-camera-review/
+    url: 'https://www.mbreviews.com/reolink-argus-3-pro-camera-review/'
 reviewedDate: '2026-10-15'
 faqs:
   - q: ¿Puedo poner cámaras de seguridad en mi piso de alquiler?

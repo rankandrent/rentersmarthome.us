@@ -1,9 +1,11 @@
 {
   "slug": "locked-out-of-apartment",
   "pass": true,
-  "checkedAt": "2026-10-22T10:11:50.068Z",
+  "checkedAt": "2026-10-24T10:11:11.482Z",
   "errors": [],
   "warnings": [
+    "only 10 first-person words; owner rule wants at least 17 (about 1 per 100 words: I, my, me, we, our, us)",
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): August Wi-Fi Smart Lock (4th Gen); SwitchBot Lock Pro; Yale Approach Lock with Wi-Fi and Keypad Touch; Master Lock Portable Key Lock Box 5400EC; Master Lock 5420EC Set Your Own Combination Portable Lock Box",
     "body has 1693 words, over the 1150 limit (top results average 1000): cut repetition and filler",
     "source didn't respond normally (403): https://www.apartmenttherapy.com/locked-out-of-apartment-37112536"
   ],

@@ -1,9 +1,12 @@
 {
   "slug": "best-wireless-security-cameras-for-apartments",
   "pass": true,
-  "checkedAt": "2026-10-23T14:27:20.200Z",
+  "checkedAt": "2026-10-24T10:10:43.784Z",
   "errors": [],
   "warnings": [
+    "only 30 first-person words; owner rule wants at least 37 (about 1 per 100 words: I, my, me, we, our, us)",
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Wyze Cam v4; eufy Indoor Cam C120; Tapo C210 Pan/Tilt 2K Indoor Security Camera; Aqara Camera Hub G3; Blink Mini 2; Google Nest Cam (Indoor, Wired) 2nd Gen; Ring Indoor Cam (2nd Gen); eufy SoloCam S220; Reolink Argus 3 Pro",
+    "review publishers named 4 times: justify picks by specs and owner facts, name other publishers at most once",
     "body has 3604 words, over the 2645 limit (top results average 2300): cut repetition and filler",
     "keyword overlaps /blog/best-indoor-security-camera-for-renters-no-drilling/ (\"security cameras for apartments\" overlaps \"best indoor security camera for renters\" (100%))"
   ],

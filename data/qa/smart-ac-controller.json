@@ -1,12 +1,11 @@
 {
   "slug": "smart-ac-controller",
   "pass": true,
-  "checkedAt": "2026-10-23T14:28:33.894Z",
+  "checkedAt": "2026-10-24T10:11:31.142Z",
   "errors": [],
   "warnings": [
     "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
-    "source didn't respond normally (no response): https://oldsupport.sensibo.com/en-US/sensibo-air-pro-technical-specs-606505",
-    "source didn't respond normally (no response): https://www.tomsguide.com/us/sensibo-sky%2Creview-5683.html"
+    "source didn't respond normally (no response): https://oldsupport.sensibo.com/en-US/sensibo-air-pro-technical-specs-606505"
   ],
   "factCheck": {
     "verified": true,

@@ -1,5 +1,5 @@
 ---
-title: 'Huurwoning babyproof maken zonder schade – gids voor huurders 2026'
+title: Huurwoning babyproof maken zonder schade – gids voor huurders 2026
 seoTitle: Huurwoning babyproof maken zonder schade (2026)
 description: >-
   Je huurwoning babyproof maken zonder schade: plan per kamer, waar de
@@ -55,7 +55,7 @@ tldr:
     Fotografeer elke muur, elk kastje en elk deurkozijn voordat je iets
     aanbrengt, en bewaar de foto's tot je borg terug is.
 products:
-  - name: Safety 1st Adhesive Magnetic Cabinet Locks (12 Locks, 2 Keys)
+  - name: 'Safety 1st Adhesive Magnetic Cabinet Locks (12 Locks, 2 Keys)'
     brand: Safety 1st
     query: Safety 1st Adhesive Magnetic Cabinet Locks 12 Locks 2 Keys
     asin: B0D5J465SM
@@ -75,13 +75,13 @@ products:
     pros:
       - Plakmontage met mal en zonder boren op de meeste kastjes
       - Onzichtbaar binnen in het kastje
-      - Twee sleutels, zodat er een bij de oppas kan blijven
+      - 'Twee sleutels, zodat er een bij de oppas kan blijven'
     cons:
       - >-
         Spaanplaat, oude verf en vettige oppervlakken hebben mogelijk schroeven
         nodig
       - Volwassenen hebben elke keer de sleutel nodig
-      - Wie beide sleutels kwijtraakt, moet nieuwe aanschaffen
+      - 'Wie beide sleutels kwijtraakt, moet nieuwe aanschaffen'
     scores:
       install: 9
       reversibility: 7
@@ -102,7 +102,7 @@ products:
           schafte na verlies een complete nieuwe set aan
       sources:
         - title: eBay owner reviews of the Safety 1st adhesive magnetic lock system
-          url: https://ebay.com/p/14017646584
+          url: 'https://ebay.com/p/14017646584'
         - title: Safety 1st Secure-to-Explore replacement keys (HS405)
           url: >-
             https://safety1st.com/products/secure-to-explore-adhesive-magnetic-lock-keys-2-pack-hs405
@@ -110,20 +110,20 @@ products:
           url: >-
             https://www.samsclub.com/ip/safety-1st-secure-to-explore-adhesive-locks-12-locks-white/13636904161
     image:
-      url: https://m.media-amazon.com/images/I/41mBTw1GiBL._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/41mBTw1GiBL._SL500_.jpg'
       width: 500
       height: 396
     gallery:
-      - url: https://m.media-amazon.com/images/I/314Z9uWHl7L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/314Z9uWHl7L._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41d+jOvL6rL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41d+jOvL6rL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/31fKEUBauUL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/31fKEUBauUL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/31E+9cjIfdL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/31E+9cjIfdL._SL500_.jpg'
         width: 500
         height: 500
   - name: Safety 1st Press Tab Plug Protectors
@@ -137,7 +137,7 @@ products:
       Klemmende stekkertjes die verwijderbaar en herbruikbaar zijn, zonder lijm
       of gereedschap, dus ze laten niets achter.
     pros:
-      - Verwijderbaar, herbruikbaar, zonder lijm
+      - 'Verwijderbaar, herbruikbaar, zonder lijm'
       - Veel stopcontacten per verpakking
       - Geen gereedschap nodig
     cons:
@@ -148,24 +148,24 @@ products:
       reversibility: 10
       value: 10
       portability: 10
-    scoreNote: Insteekbare stekkertjes, er blijft niets achter.
+    scoreNote: 'Insteekbare stekkertjes, er blijft niets achter.'
     asin: B0107CZOIS
     image:
-      url: https://m.media-amazon.com/images/I/417epWTkw-L._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/417epWTkw-L._SL500_.jpg'
       width: 500
       height: 500
     amazonTitle: Safety 1st Press Tab Plug Protectors 36 Count
     gallery:
-      - url: https://m.media-amazon.com/images/I/41BEISwf93L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41BEISwf93L._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/31ztzcmTceL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/31ztzcmTceL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/31Mx0OJDgDL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/31Mx0OJDgDL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41-rq-2yw1L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41-rq-2yw1L._SL500_.jpg'
         width: 500
         height: 500
     owners:
@@ -182,10 +182,10 @@ products:
         - Een koper kreeg een verpakking die al geopend was
       sources:
         - title: Walmart 36-pack customer reviews
-          url: https://www.walmart.com/ip/587402368
+          url: 'https://www.walmart.com/ip/587402368'
           reviews: 32
         - title: Walmart 32-pack customer reviews
-          url: https://www.walmart.com/ip/47710214
+          url: 'https://www.walmart.com/ip/47710214'
           reviews: 12
   - name: Safety 1st Easy Install Walk-Through Gate
     brand: Safety 1st
@@ -199,8 +199,8 @@ products:
       Klemmontage zonder boren, maar gebruik de meegeleverde muurcups en gebruik
       nooit een klemhekje boven aan de trap.
     pros:
-      - Klemmontage, niet boren in kozijnen
-      - JPMA-gecertificeerd, volgens de fabrikant
+      - 'Klemmontage, niet boren in kozijnen'
+      - 'JPMA-gecertificeerd, volgens de fabrikant'
       - Indicator wordt groen als het hekje vergrendeld is
     cons:
       - Niet voor boven aan de trap
@@ -213,23 +213,23 @@ products:
     scoreNote: Klemmontage; de pasvorm hangt af van de breedte van de opening.
     asin: B01BTUNHSQ
     image:
-      url: https://m.media-amazon.com/images/I/31I6fRAbVbL._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/31I6fRAbVbL._SL500_.jpg'
       width: 500
       height: 500
     amazonTitle: >-
       Safety 1st Easy Install Walk Thru Baby Gate for Doorway With Door, Dog
       Gates, Fits 29"-38", Easy Install 28" Tall, White
     gallery:
-      - url: https://m.media-amazon.com/images/I/41q89TX9PYL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41q89TX9PYL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/31NHLsa26HL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/31NHLsa26HL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41JGXXc2PML._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41JGXXc2PML._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/418CzLEiCKL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/418CzLEiCKL._SL500_.jpg'
         width: 500
         height: 500
     owners:
@@ -246,9 +246,9 @@ products:
           de trap, en de pasvorm verschilt per type muur
       sources:
         - title: Walmart listing reviews
-          url: https://www.walmart.com/ip/49660480
+          url: 'https://www.walmart.com/ip/49660480'
         - title: Walmart listing reviews (2)
-          url: https://www.walmart.com/ip/1643250385
+          url: 'https://www.walmart.com/ip/1643250385'
         - title: Macy's listing
           url: >-
             https://www.macys.com/shop/product/safety-1st-easy-install-walk-thru-gate?ID=6854134
@@ -256,7 +256,7 @@ products:
           url: >-
             https://homedepot.com/p/reviews/Safety-1st-Easy-Install-28-in-Walk-Thru-Gate-GA105WHOF2/300249675/1
           reviews: 43
-  - name: Safety 1st Foam Corner Cushions (4-pack, HS209)
+  - name: 'Safety 1st Foam Corner Cushions (4-pack, HS209)'
     brand: Safety 1st
     query: Safety 1st Foam Corner Cushions 4 pack
     badge: Beste hoekbeschermers
@@ -267,8 +267,8 @@ products:
       Zitten vast met een plakstrip die volgens de fabrikant makkelijk loslaat;
       plak ze op meubels, niet op geverfde muren.
     pros:
-      - Montage met plakstrip, geen gereedschap
-      - Laat makkelijk los, volgens de fabrikant
+      - 'Montage met plakstrip, geen gereedschap'
+      - 'Laat makkelijk los, volgens de fabrikant'
       - Geen schroeven of beslag
     cons:
       - Lijm kan op sommige afwerkingen resten achterlaten
@@ -278,7 +278,7 @@ products:
       reversibility: 8
       value: 9
       portability: 9
-    scoreNote: Opplakken, met een klein risico op lijmresten.
+    scoreNote: 'Opplakken, met een klein risico op lijmresten.'
     owners:
       read: 1
       praise:
@@ -292,19 +292,19 @@ products:
           hechting op lange termijn is niet bevestigd
       sources:
         - title: Safety 1st HS209 page
-          url: https://safety1st.com/en-ca/products/foam-corner-cushions-hs209
+          url: 'https://safety1st.com/en-ca/products/foam-corner-cushions-hs209'
         - title: Canadian Tire listing
           url: >-
             https://canadiantire.ca/en/pdp/safety-1st-foam-corner-cushions-4-pk-0462391p.html
     asin: B004D5FAQ2
-    amazonTitle: Safety 1st Furniture Corner Cushions, 4-Count
+    amazonTitle: 'Safety 1st Furniture Corner Cushions, 4-Count'
     matchName: Safety 1st Furniture Corner Cushions
     image:
-      url: https://m.media-amazon.com/images/I/41Xt0FVFegS._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/41Xt0FVFegS._SL500_.jpg'
       width: 500
       height: 500
     gallery:
-      - url: https://m.media-amazon.com/images/I/41tnCf0pzmS._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41tnCf0pzmS._SL500_.jpg'
         width: 500
         height: 500
   - name: Safety 1st Grip 'n Twist Door Knob Covers (4-pack)
@@ -322,8 +322,8 @@ products:
       - Er wordt niets aan de deur bevestigd
       - Herbruikbaar in je volgende woning
     cons:
-      - Een drempel, geen complete beveiliging
-      - Voor ronde knoppen, niet voor klinken
+      - 'Een drempel, geen complete beveiliging'
+      - 'Voor ronde knoppen, niet voor klinken'
     scores:
       install: 10
       reversibility: 10
@@ -332,21 +332,21 @@ products:
     scoreNote: Opklikken zonder beslag; hangt af van de vorm van de knop.
     asin: B00A47VH2O
     image:
-      url: https://m.media-amazon.com/images/I/41PMueeHkNL._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/41PMueeHkNL._SL500_.jpg'
       width: 500
       height: 500
-    amazonTitle: Safety 1st Grip N' Twist Door Knob Covers Decor, 4-Count
+    amazonTitle: 'Safety 1st Grip N'' Twist Door Knob Covers Decor, 4-Count'
     gallery:
-      - url: https://m.media-amazon.com/images/I/51sn2qzAUBL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51sn2qzAUBL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41MDjWD7YIL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41MDjWD7YIL._SL500_.jpg'
         width: 500
         height: 333
-      - url: https://m.media-amazon.com/images/I/41w-0dfO+nL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41w-0dfO+nL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/31LajGFzQwL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/31LajGFzQwL._SL500_.jpg'
         width: 375
         height: 500
     owners:
@@ -361,7 +361,7 @@ products:
         - De greep kan te stroef zijn voor volwassenen met artritis
       sources:
         - title: Safety 1st Grip N Twist on eBay
-          url: https://www.ebay.com/p/710095188
+          url: 'https://www.ebay.com/p/710095188'
         - title: Navy Exchange listing
           url: >-
             https://www.mynavyexchange.com/safety-1st-grip-n-twist-door-knob-covers-4-pack/13404454
@@ -377,7 +377,7 @@ products:
       gaatje om weg te werken); aan de meubelkant kan een plakkussentje. Vraag
       eerst je verhuurder.
     pros:
-      - Voorkomt omvallen, een groot gevaar voor klimmende peuters
+      - 'Voorkomt omvallen, een groot gevaar voor klimmende peuters'
       - Aan de meubelkant kan een plakkussentje
       - Maar één klein gaatje in de muur
     cons:
@@ -391,7 +391,7 @@ products:
     scoreNote: Eén klein gaatje in de stijl om weg te werken.
     asin: B000FJRYAA
     image:
-      url: https://m.media-amazon.com/images/I/51uJzmQjD0L._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/51uJzmQjD0L._SL500_.jpg'
       width: 318
       height: 500
     amazonTitle: >-
@@ -399,16 +399,16 @@ products:
       Anti Tip Protection, Adjustable Wall Anchor Straps, For Bookcases,
       Cabinets, Dressers
     gallery:
-      - url: https://m.media-amazon.com/images/I/51-ZFNKOkJL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51-bav8ysTL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/51MbYlBjT-L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/512rY-Q4OlL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/5193cIwl4mL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/517I5GEY6FL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/51YfOj4hxWL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51fOtMaxPJL._SL500_.jpg'
         width: 500
         height: 500
     owners:
@@ -428,23 +428,23 @@ products:
             https://homedepot.com/p/QuakeHOLD-Black-Nylon-Furniture-Safety-Strap-4160/100137023
           reviews: 14
         - title: Ready America
-          url: https://www.readyamerica.com/product/quakehold-furniture-strap/
+          url: 'https://www.readyamerica.com/product/quakehold-furniture-strap/'
 sources:
-  - title: Safety 1st Secure-to-Explore Adhesive Locks, 12 locks (Sam's Club)
+  - title: 'Safety 1st Secure-to-Explore Adhesive Locks, 12 locks (Sam''s Club)'
     url: >-
       https://www.samsclub.com/ip/safety-1st-secure-to-explore-adhesive-locks-12-locks-white/13636904161
   - title: Safety 1st Secure-to-Explore Adhesive Magnetic Locks HS402 (Safety 1st)
     url: >-
       https://safety1st.com/products/secure-to-explore-adhesive-magnetic-locks-20-locks-2-keys-hs402
   - title: Safety 1st Home Safety Help Center
-    url: https://safety1st.com/pages/home-safety-help-center
+    url: 'https://safety1st.com/pages/home-safety-help-center'
   - title: Safety 1st Plug Protectors (Target)
     url: >-
       https://www.target.com/p/safety-1st-174-plug-protectors-36pack/-/A-14061588
   - title: Safety 1st Easy Install Walk-Through Gate (Safety 1st)
-    url: https://safety1st.com/en-ca/products/easy-install-walk-through-gate-ga105c
+    url: 'https://safety1st.com/en-ca/products/easy-install-walk-through-gate-ga105c'
   - title: Safety 1st Foam Corner Cushions HS209 (Safety 1st)
-    url: https://safety1st.com/en-ca/products/foam-corner-cushions-hs209
+    url: 'https://safety1st.com/en-ca/products/foam-corner-cushions-hs209'
   - title: Safety 1st Grip 'n Twist Doorknob Covers 4-Pack (Home Depot)
     url: >-
       https://homedepot.com/p/Safety-1st-Grip-n-Twist-Doorknob-Covers-4-Pack-48394/202259354
@@ -452,7 +452,7 @@ sources:
     url: >-
       https://homedepot.com/p/QuakeHOLD-Black-Nylon-Furniture-Safety-Strap-4160/100137023
   - title: Kids and Babies Safety Guides (CPSC)
-    url: https://www.cpsc.gov/Safety-Education/Safety-Guides/Kids-and-Babies
+    url: 'https://www.cpsc.gov/Safety-Education/Safety-Guides/Kids-and-Babies'
 reviewedDate: '2026-10-15'
 faqs:
   - q: Kun je een huurwoning babyproof maken zonder te boren?

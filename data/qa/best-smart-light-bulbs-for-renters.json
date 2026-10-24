@@ -1,9 +1,11 @@
 {
   "slug": "best-smart-light-bulbs-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-21T10:17:10.833Z",
+  "checkedAt": "2026-10-24T10:10:01.490Z",
   "errors": [],
   "warnings": [
+    "only 25 first-person words; owner rule wants at least 27 (about 1 per 100 words: I, my, me, we, our, us)",
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Philips Hue White and Color Ambiance A19 Bluetooth; Wyze Bulb Color; Kasa Smart Light Bulbs KL125; Tapo L535E; WiZ A19 Color",
     "body has 2693 words, over the 1725 limit (top results average 1500): cut repetition and filler",
     "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],

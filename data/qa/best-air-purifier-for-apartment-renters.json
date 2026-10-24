@@ -1,9 +1,12 @@
 {
   "slug": "best-air-purifier-for-apartment-renters",
   "pass": true,
-  "checkedAt": "2026-10-21T14:39:40.937Z",
+  "checkedAt": "2026-10-24T10:08:59.812Z",
   "errors": [],
   "warnings": [
+    "only 18 first-person words; owner rule wants at least 25 (about 1 per 100 words: I, my, me, we, our, us)",
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Levoit Vital 200S-P; Coway Airmega Mighty2; Winix 5530; Blueair Blue Signature Large",
+    "review publishers named 26 times: justify picks by specs and owner facts, name other publishers at most once",
     "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {

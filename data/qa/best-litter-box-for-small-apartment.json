@@ -1,9 +1,11 @@
 {
   "slug": "best-litter-box-for-small-apartment",
   "pass": true,
-  "checkedAt": "2026-10-21T10:16:34.744Z",
+  "checkedAt": "2026-10-24T10:09:30.593Z",
   "errors": [],
   "warnings": [
+    "only 13 first-person words; owner rule wants at least 29 (about 1 per 100 words: I, my, me, we, our, us)",
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): IRIS USA Large Top Entry Cat Litter Box; Van Ness Corner High Sides Cat Litter Pan; Nature's Miracle Advanced Hooded Corner Cat Litter Box; Van Ness High Sides Cat Litter Pan; Petmate Booda Clean Step Cat Litter Box Dome; Good Pet Stuff Original Hidden Litter Box Planter; Whisker Litter-Robot 4",
     "product \"Petmate Booda Clean Step Cat Litter Box Dome\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
     "source didn't respond normally (403): https://www.catster.com/lifestyle/best-cat-litter-boxes-for-small-apartments",

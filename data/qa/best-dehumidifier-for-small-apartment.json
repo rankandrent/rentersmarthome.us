@@ -1,9 +1,13 @@
 {
   "slug": "best-dehumidifier-for-small-apartment",
   "pass": true,
-  "checkedAt": "2026-10-21T10:15:58.872Z",
+  "checkedAt": "2026-10-24T10:09:08.894Z",
   "errors": [],
   "warnings": [
+    "only 17 first-person words; owner rule wants at least 29 (about 1 per 100 words: I, my, me, we, our, us)",
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Midea Cube 20 Pint Dehumidifier; Midea Cube 35 Pint Dehumidifier; Midea Cube 50 Pint Dehumidifier; Eva-Dry EDV-1100 Petite Dehumidifier; Pro Breeze PB-03 Mini Dehumidifier; Eva-Dry E-333 Renewable Mini Dehumidifier",
+    "review publisher named in the first 150 words (Consumer Reports, RTINGS, Wired): lead with our own reason, mention others only in \"How we picked\"",
+    "review publishers named 20 times: justify picks by specs and owner facts, name other publishers at most once",
     "product \"Midea Cube 35 Pint Dehumidifier\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
     "product \"Midea Cube 35 Pint Dehumidifier\" (B0GL7Q7173) is no longer returned by Amazon"

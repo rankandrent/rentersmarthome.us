@@ -1,9 +1,11 @@
 {
   "slug": "reolink-vs-eufy",
   "pass": true,
-  "checkedAt": "2026-10-22T10:12:08.547Z",
+  "checkedAt": "2026-10-24T10:11:27.131Z",
   "errors": [],
   "warnings": [
+    "only 23 first-person words; owner rule wants at least 36 (about 1 per 100 words: I, my, me, we, our, us)",
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): eufyCam S330 (eufyCam 3); Reolink Argus 4 Pro; Reolink Argus PT Ultra; eufy SoloCam S220",
     "body has 3535 words, over the 2300 limit (top results average 2000): cut repetition and filler",
     "LIVE POST, FIX: source returns 404: https://reolink.com/product/argus-4-pro/",
     "source didn't respond normally (403): https://cpisecurity.com/blog/how-cold-weather-affects-your-cpi-security-devices/"

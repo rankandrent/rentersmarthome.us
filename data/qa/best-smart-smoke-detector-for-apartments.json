@@ -1,9 +1,11 @@
 {
   "slug": "best-smart-smoke-detector-for-apartments",
   "pass": true,
-  "checkedAt": "2026-10-21T10:17:33.293Z",
+  "checkedAt": "2026-10-24T10:10:20.602Z",
   "errors": [],
   "warnings": [
+    "only 17 first-person words; owner rule wants at least 19 (about 1 per 100 words: I, my, me, we, our, us)",
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Kidde Smart Smoke & CO Alarm with Ring (battery, RGCUDR-RW); First Alert SC5 Battery Smart Smoke & Carbon Monoxide Alarm (SMCO600NV); Ring Smoke & CO Listener",
     "body has 1852 words, over the 1840 limit (top results average 1600): cut repetition and filler",
     "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],

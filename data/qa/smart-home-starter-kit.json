@@ -1,9 +1,11 @@
 {
   "slug": "smart-home-starter-kit",
   "pass": true,
-  "checkedAt": "2026-10-22T10:12:17.553Z",
+  "checkedAt": "2026-10-24T10:11:34.002Z",
   "errors": [],
   "warnings": [
+    "only 17 first-person words; owner rule wants at least 18 (about 1 per 100 words: I, my, me, we, our, us)",
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Amazon Echo Dot (5th Gen); Google Nest Hub (2nd Gen); Philips Hue White and Color Ambiance Starter Kit; Lutron Caseta Smart Lamp Dimmer Kit",
     "LIVE POST, FIX: source returns 404: https://support.google.com/googlehome/answer/12391458?hl=en",
     "source didn't respond normally (403): https://www.nytimes.com/wirecutter/blog/smart-home-starter-kit/"
   ],

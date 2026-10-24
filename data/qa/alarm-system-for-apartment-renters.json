@@ -1,9 +1,11 @@
 {
   "slug": "alarm-system-for-apartment-renters",
   "pass": true,
-  "checkedAt": "2026-10-21T19:55:33.860Z",
+  "checkedAt": "2026-10-24T10:08:42.378Z",
   "errors": [],
   "warnings": [
+    "only 15 first-person words; owner rule wants at least 22 (about 1 per 100 words: I, my, me, we, our, us)",
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Ring Alarm 8-piece kit (2nd Gen); SimpliSafe 8 Piece Wireless Home Security System; Abode Smart Security Kit",
     "source didn't respond normally (no response): https://realestate.usnews.com/home-services/home-security-systems/best-home-security-systems-for-renters"
   ],
   "factCheck": {

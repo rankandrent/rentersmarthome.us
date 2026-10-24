@@ -1,9 +1,11 @@
 {
   "slug": "govee-apple-homekit",
   "pass": true,
-  "checkedAt": "2026-10-21T10:18:10.922Z",
+  "checkedAt": "2026-10-24T10:10:56.109Z",
   "errors": [],
   "warnings": [
+    "only 11 first-person words; owner rule wants at least 16 (about 1 per 100 words: I, my, me, we, our, us)",
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Govee LED Strip Light M1 (H61E0 6.56ft / H61E1 16.4ft)",
     "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {

@@ -1,9 +1,11 @@
 {
   "slug": "best-apartment-intercom-buzzer-alternative",
   "pass": true,
-  "checkedAt": "2026-10-21T10:15:49.040Z",
+  "checkedAt": "2026-10-24T10:09:00.967Z",
   "errors": [],
   "warnings": [
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): SwitchBot Bot",
+    "review publishers named 4 times: justify picks by specs and owner facts, name other publishers at most once",
     "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {

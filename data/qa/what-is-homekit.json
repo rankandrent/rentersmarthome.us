@@ -1,9 +1,11 @@
 {
   "slug": "what-is-homekit",
   "pass": true,
-  "checkedAt": "2026-10-21T10:19:00.528Z",
+  "checkedAt": "2026-10-24T10:11:38.433Z",
   "errors": [],
   "warnings": [
+    "only 13 first-person words; owner rule wants at least 17 (about 1 per 100 words: I, my, me, we, our, us)",
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Apple HomePod mini 2; Apple TV 4K (4th generation)",
     "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {

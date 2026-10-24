@@ -1,9 +1,11 @@
 {
   "slug": "best-stud-finder-for-thick-walls",
   "pass": true,
-  "checkedAt": "2026-10-21T10:17:39.931Z",
+  "checkedAt": "2026-10-24T10:10:29.468Z",
   "errors": [],
   "warnings": [
+    "only 23 first-person words; owner rule wants at least 26 (about 1 per 100 words: I, my, me, we, our, us)",
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Franklin Sensors ProSensor MAX; Franklin Sensors ProSensor M210; Zircon MultiScanner i520 OneStep; Zircon StudSensor Pro55 Stud Finder with Deep Scan; Bosch GMS 120; Zircon MetalliScanner m40",
     "body has 2571 words, over the 2185 limit (top results average 1900): cut repetition and filler",
     "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
     "source didn't respond normally (403): https://www.supplyhouse.com/Zircon-74239-StudSensor-Pro55-Stud-Finder",

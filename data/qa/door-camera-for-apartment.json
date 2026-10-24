@@ -1,9 +1,11 @@
 {
   "slug": "door-camera-for-apartment",
   "pass": true,
-  "checkedAt": "2026-10-21T10:18:05.985Z",
+  "checkedAt": "2026-10-24T10:10:52.013Z",
   "errors": [],
   "warnings": [
+    "only 18 first-person words; owner rule wants at least 26 (about 1 per 100 words: I, my, me, we, our, us)",
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Tapo D225 Smart Video Doorbell; eufy Video Doorbell E340; Ring Battery Doorbell 4K Pro; Google Nest Doorbell (Battery); Arlo Video Doorbell 2K (2nd Gen); Blink Video Doorbell (2nd Gen)",
     "body has 2549 words, over the 2012 limit (top results average 1750): cut repetition and filler",
     "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
     "LIVE POST, FIX: source returns 404: https://support.google.com/googlehome/answer/9259110?hl=en",

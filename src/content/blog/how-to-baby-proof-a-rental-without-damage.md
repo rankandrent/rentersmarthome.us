@@ -385,16 +385,16 @@ products:
       Anti Tip Protection, Adjustable Wall Anchor Straps, For Bookcases,
       Cabinets, Dressers
     gallery:
-      - url: 'https://m.media-amazon.com/images/I/51-ZFNKOkJL._SL500_.jpg'
+      - url: 'https://m.media-amazon.com/images/I/51-bav8ysTL._SL500_.jpg'
         width: 500
         height: 500
-      - url: 'https://m.media-amazon.com/images/I/51MbYlBjT-L._SL500_.jpg'
+      - url: 'https://m.media-amazon.com/images/I/512rY-Q4OlL._SL500_.jpg'
         width: 500
         height: 500
-      - url: 'https://m.media-amazon.com/images/I/5193cIwl4mL._SL500_.jpg'
+      - url: 'https://m.media-amazon.com/images/I/517I5GEY6FL._SL500_.jpg'
         width: 500
         height: 500
-      - url: 'https://m.media-amazon.com/images/I/51YfOj4hxWL._SL500_.jpg'
+      - url: 'https://m.media-amazon.com/images/I/51fOtMaxPJL._SL500_.jpg'
         width: 500
         height: 500
     owners:

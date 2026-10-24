@@ -65,7 +65,7 @@ products:
     cons:
       - Video history needs a Ring Home subscription
       - Battery needs periodic recharging
-      - Replaces the optical peephole, so you can't look through the door
+      - 'Replaces the optical peephole, so you can''t look through the door'
     asin: B0GLJ8NM1W
     image:
       url: 'https://m.media-amazon.com/images/I/31gbU4nZpHL._SL500_.jpg'
@@ -208,9 +208,8 @@ products:
       width: 500
       height: 500
     amazonTitle: >-
-      Blink Mini Pan-Tilt Camera (newest model), Rotating indoor plug-in smart
-      security camera, two-way audio, HD video, motion detection, Works with
-      Alexa (White)
+      Blink Mini Pan-Tilt Camera, Rotating indoor plug-in smart security camera,
+      two-way audio, HD video, motion detection, Works with Alexa (White)
     gallery:
       - url: 'https://m.media-amazon.com/images/I/41r-9p2z70L._SL500_.jpg'
         width: 500
@@ -353,14 +352,14 @@ faqs:
   - q: Does the Ring Peephole Cam work without a subscription?
     a: >-
       Yes for the basics. The Ring Peephole Cam 2K sends motion alerts and lets
-      you view and talk in real time without a plan. Saving, reviewing and sharing recorded video requires
-      a Ring Home subscription.
+      you view and talk in real time without a plan. Saving, reviewing and
+      sharing recorded video requires a Ring Home subscription.
   - q: What size peephole does a peephole camera fit?
     a: >-
       Most peephole cameras fit standard door viewer holes and doors within a
-      specific thickness range. The Ring Peephole Cam 2K fits peepholes 12 to
-      14 mm (0.47 to 0.55 in) wide in doors 32.5 to 60 mm (about 1.28 to 2.36
-      in) thick. Measure your door before buying.
+      specific thickness range. The Ring Peephole Cam 2K fits peepholes 12 to 14
+      mm (0.47 to 0.55 in) wide in doors 32.5 to 60 mm (about 1.28 to 2.36 in)
+      thick. Measure your door before buying.
   - q: What if your apartment door has no peephole?
     a: >-
       Without a peephole, use an indoor camera such as the Wyze Cam v4 or Blink
@@ -374,8 +373,8 @@ faqs:
   - q: Can you still look through the peephole with a peephole camera?
     a: >-
       Not with the Ring Peephole Cam 2K. Ring says it replaces your existing
-      peephole, so physical viewing is lost; you check the door in the Ring
-      app or on a compatible Echo Show instead.
+      peephole, so physical viewing is lost; you check the door in the Ring app
+      or on a compatible Echo Show instead.
 heroImage: /images/featured/best-peephole-camera-for-apartments.png
 heroAlt: >-
   Peephole Camera for Apartments 2026 – 4 No-Drill Picks, Privacy Rules –

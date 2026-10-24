@@ -1,5 +1,5 @@
 ---
-title: 'Piso de alquiler a prueba de bebés sin daños – guía 2026'
+title: Piso de alquiler a prueba de bebés sin daños – guía 2026
 seoTitle: Piso de alquiler a prueba de bebés sin daños (2026)
 description: >-
   Cómo dejar tu piso de alquiler a prueba de bebés sin daños: plan por
@@ -54,7 +54,7 @@ tldr:
     Fotografía cada pared, armario y marco de puerta antes de instalar nada, y
     guarda las fotos hasta que te devuelvan la fianza.
 products:
-  - name: Safety 1st Adhesive Magnetic Cabinet Locks (12 Locks, 2 Keys)
+  - name: 'Safety 1st Adhesive Magnetic Cabinet Locks (12 Locks, 2 Keys)'
     brand: Safety 1st
     query: Safety 1st Adhesive Magnetic Cabinet Locks 12 Locks 2 Keys
     asin: B0D5J465SM
@@ -76,13 +76,13 @@ products:
         Instalación adhesiva con plantilla y sin taladrar en la mayoría de
         armarios
       - Oculto dentro del armario
-      - Dos llaves, así una puede quedarse con quien cuida al bebé
+      - 'Dos llaves, así una puede quedarse con quien cuida al bebé'
     cons:
       - >-
         El aglomerado, la pintura vieja y las superficies grasientas pueden
         necesitar tornillos
       - Los adultos necesitan la llave cada vez
-      - Si pierdes las dos llaves, tendrás que conseguir otras
+      - 'Si pierdes las dos llaves, tendrás que conseguir otras'
     scores:
       install: 9
       reversibility: 7
@@ -105,7 +105,7 @@ products:
           un juego nuevo tras perder las suyas
       sources:
         - title: eBay owner reviews of the Safety 1st adhesive magnetic lock system
-          url: https://ebay.com/p/14017646584
+          url: 'https://ebay.com/p/14017646584'
         - title: Safety 1st Secure-to-Explore replacement keys (HS405)
           url: >-
             https://safety1st.com/products/secure-to-explore-adhesive-magnetic-lock-keys-2-pack-hs405
@@ -113,20 +113,20 @@ products:
           url: >-
             https://www.samsclub.com/ip/safety-1st-secure-to-explore-adhesive-locks-12-locks-white/13636904161
     image:
-      url: https://m.media-amazon.com/images/I/41mBTw1GiBL._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/41mBTw1GiBL._SL500_.jpg'
       width: 500
       height: 396
     gallery:
-      - url: https://m.media-amazon.com/images/I/314Z9uWHl7L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/314Z9uWHl7L._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41d+jOvL6rL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41d+jOvL6rL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/31fKEUBauUL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/31fKEUBauUL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/31E+9cjIfdL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/31E+9cjIfdL._SL500_.jpg'
         width: 500
         height: 500
   - name: Safety 1st Press Tab Plug Protectors
@@ -138,7 +138,7 @@ products:
       Tapones a presión, extraíbles y reutilizables, sin adhesivo ni
       herramientas, así que no dejan nada.
     pros:
-      - Extraíbles, reutilizables, sin adhesivo
+      - 'Extraíbles, reutilizables, sin adhesivo'
       - Cubren muchos enchufes por paquete
       - No hacen falta herramientas
     cons:
@@ -152,21 +152,21 @@ products:
     scoreNote: Tapones a presión que no dejan nada.
     asin: B0107CZOIS
     image:
-      url: https://m.media-amazon.com/images/I/417epWTkw-L._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/417epWTkw-L._SL500_.jpg'
       width: 500
       height: 500
     amazonTitle: Safety 1st Press Tab Plug Protectors 36 Count
     gallery:
-      - url: https://m.media-amazon.com/images/I/41BEISwf93L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41BEISwf93L._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/31ztzcmTceL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/31ztzcmTceL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/31Mx0OJDgDL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/31Mx0OJDgDL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41-rq-2yw1L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41-rq-2yw1L._SL500_.jpg'
         width: 500
         height: 500
     owners:
@@ -181,10 +181,10 @@ products:
         - Un comprador recibió un paquete que ya estaba abierto
       sources:
         - title: Walmart 36-pack customer reviews
-          url: https://www.walmart.com/ip/587402368
+          url: 'https://www.walmart.com/ip/587402368'
           reviews: 32
         - title: Walmart 32-pack customer reviews
-          url: https://www.walmart.com/ip/47710214
+          url: 'https://www.walmart.com/ip/47710214'
           reviews: 12
   - name: Safety 1st Easy Install Walk-Through Gate
     brand: Safety 1st
@@ -197,8 +197,8 @@ products:
       Se monta a presión sin taladrar, pero usa las copas de pared incluidas y
       nunca pongas una barrera a presión en lo alto de la escalera.
     pros:
-      - Montaje a presión, sin taladrar los marcos
-      - Certificada por la JPMA, según el fabricante
+      - 'Montaje a presión, sin taladrar los marcos'
+      - 'Certificada por la JPMA, según el fabricante'
       - El indicador se pone verde cuando está cerrada
     cons:
       - No sirve para lo alto de la escalera
@@ -211,23 +211,23 @@ products:
     scoreNote: Montaje por tensión; el ajuste depende del ancho de la abertura.
     asin: B01BTUNHSQ
     image:
-      url: https://m.media-amazon.com/images/I/31I6fRAbVbL._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/31I6fRAbVbL._SL500_.jpg'
       width: 500
       height: 500
     amazonTitle: >-
       Safety 1st Easy Install Walk Thru Baby Gate for Doorway With Door, Dog
       Gates, Fits 29"-38", Easy Install 28" Tall, White
     gallery:
-      - url: https://m.media-amazon.com/images/I/41q89TX9PYL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41q89TX9PYL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/31NHLsa26HL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/31NHLsa26HL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41JGXXc2PML._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41JGXXc2PML._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/418CzLEiCKL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/418CzLEiCKL._SL500_.jpg'
         width: 500
         height: 500
     owners:
@@ -244,9 +244,9 @@ products:
           la escalera y el ajuste varía según el tipo de pared
       sources:
         - title: Walmart listing reviews
-          url: https://www.walmart.com/ip/49660480
+          url: 'https://www.walmart.com/ip/49660480'
         - title: Walmart listing reviews (2)
-          url: https://www.walmart.com/ip/1643250385
+          url: 'https://www.walmart.com/ip/1643250385'
         - title: Macy's listing
           url: >-
             https://www.macys.com/shop/product/safety-1st-easy-install-walk-thru-gate?ID=6854134
@@ -254,7 +254,7 @@ products:
           url: >-
             https://homedepot.com/p/reviews/Safety-1st-Easy-Install-28-in-Walk-Thru-Gate-GA105WHOF2/300249675/1
           reviews: 43
-  - name: Safety 1st Foam Corner Cushions (4-pack, HS209)
+  - name: 'Safety 1st Foam Corner Cushions (4-pack, HS209)'
     brand: Safety 1st
     query: Safety 1st Foam Corner Cushions 4 pack
     badge: Mejores protectores de esquinas
@@ -265,8 +265,8 @@ products:
       Se sujetan con una tira adhesiva que, según el fabricante, se quita con
       facilidad; ponlos en los muebles, no en paredes pintadas.
     pros:
-      - Se instalan con tira adhesiva, sin herramientas
-      - Se quitan con facilidad, según el fabricante
+      - 'Se instalan con tira adhesiva, sin herramientas'
+      - 'Se quitan con facilidad, según el fabricante'
       - Sin tornillería
     cons:
       - El adhesivo puede dejar restos en algunos acabados
@@ -276,7 +276,7 @@ products:
       reversibility: 8
       value: 9
       portability: 9
-    scoreNote: Se pegan sin más, con un pequeño riesgo de restos.
+    scoreNote: 'Se pegan sin más, con un pequeño riesgo de restos.'
     owners:
       read: 1
       praise:
@@ -290,19 +290,19 @@ products:
           la sujeción a largo plazo no está confirmada
       sources:
         - title: Safety 1st HS209 page
-          url: https://safety1st.com/en-ca/products/foam-corner-cushions-hs209
+          url: 'https://safety1st.com/en-ca/products/foam-corner-cushions-hs209'
         - title: Canadian Tire listing
           url: >-
             https://canadiantire.ca/en/pdp/safety-1st-foam-corner-cushions-4-pk-0462391p.html
     asin: B004D5FAQ2
-    amazonTitle: Safety 1st Furniture Corner Cushions, 4-Count
+    amazonTitle: 'Safety 1st Furniture Corner Cushions, 4-Count'
     matchName: Safety 1st Furniture Corner Cushions
     image:
-      url: https://m.media-amazon.com/images/I/41Xt0FVFegS._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/41Xt0FVFegS._SL500_.jpg'
       width: 500
       height: 500
     gallery:
-      - url: https://m.media-amazon.com/images/I/41tnCf0pzmS._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41tnCf0pzmS._SL500_.jpg'
         width: 500
         height: 500
   - name: Safety 1st Grip 'n Twist Door Knob Covers (4-pack)
@@ -320,8 +320,8 @@ products:
       - No se fija nada a la puerta
       - Reutilizables en tu próxima casa
     cons:
-      - Disuaden, pero no son una medida de seguridad completa
-      - Para pomos redondos, no para manillas
+      - 'Disuaden, pero no son una medida de seguridad completa'
+      - 'Para pomos redondos, no para manillas'
     scores:
       install: 10
       reversibility: 10
@@ -330,21 +330,21 @@ products:
     scoreNote: A presión y sin tornillería; depende de la forma del pomo.
     asin: B00A47VH2O
     image:
-      url: https://m.media-amazon.com/images/I/41PMueeHkNL._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/41PMueeHkNL._SL500_.jpg'
       width: 500
       height: 500
-    amazonTitle: Safety 1st Grip N' Twist Door Knob Covers Decor, 4-Count
+    amazonTitle: 'Safety 1st Grip N'' Twist Door Knob Covers Decor, 4-Count'
     gallery:
-      - url: https://m.media-amazon.com/images/I/51sn2qzAUBL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51sn2qzAUBL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/41MDjWD7YIL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41MDjWD7YIL._SL500_.jpg'
         width: 500
         height: 333
-      - url: https://m.media-amazon.com/images/I/41w-0dfO+nL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/41w-0dfO+nL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/31LajGFzQwL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/31LajGFzQwL._SL500_.jpg'
         width: 375
         height: 500
     owners:
@@ -359,7 +359,7 @@ products:
         - El agarre puede resultar demasiado duro para adultos con artritis
       sources:
         - title: Safety 1st Grip N Twist on eBay
-          url: https://www.ebay.com/p/710095188
+          url: 'https://www.ebay.com/p/710095188'
         - title: Navy Exchange listing
           url: >-
             https://www.mynavyexchange.com/safety-1st-grip-n-twist-door-knob-covers-4-pack/13404454
@@ -376,7 +376,7 @@ products:
       agujero que tapar); el extremo del mueble puede ir con una almohadilla
       adhesiva. Pide permiso al casero antes.
     pros:
-      - Evita los vuelcos, un riesgo importante para los peques que trepan
+      - 'Evita los vuelcos, un riesgo importante para los peques que trepan'
       - El extremo del mueble puede ir con almohadilla adhesiva
       - Solo un pequeño agujero en la pared
     cons:
@@ -390,7 +390,7 @@ products:
     scoreNote: Un pequeño agujero en el montante que tapar.
     asin: B000FJRYAA
     image:
-      url: https://m.media-amazon.com/images/I/51uJzmQjD0L._SL500_.jpg
+      url: 'https://m.media-amazon.com/images/I/51uJzmQjD0L._SL500_.jpg'
       width: 318
       height: 500
     amazonTitle: >-
@@ -398,16 +398,16 @@ products:
       Anti Tip Protection, Adjustable Wall Anchor Straps, For Bookcases,
       Cabinets, Dressers
     gallery:
-      - url: https://m.media-amazon.com/images/I/51-ZFNKOkJL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51-bav8ysTL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/51MbYlBjT-L._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/512rY-Q4OlL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/5193cIwl4mL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/517I5GEY6FL._SL500_.jpg'
         width: 500
         height: 500
-      - url: https://m.media-amazon.com/images/I/51YfOj4hxWL._SL500_.jpg
+      - url: 'https://m.media-amazon.com/images/I/51fOtMaxPJL._SL500_.jpg'
         width: 500
         height: 500
     owners:
@@ -425,23 +425,23 @@ products:
             https://homedepot.com/p/QuakeHOLD-Black-Nylon-Furniture-Safety-Strap-4160/100137023
           reviews: 14
         - title: Ready America
-          url: https://www.readyamerica.com/product/quakehold-furniture-strap/
+          url: 'https://www.readyamerica.com/product/quakehold-furniture-strap/'
 sources:
-  - title: Safety 1st Secure-to-Explore Adhesive Locks, 12 locks (Sam's Club)
+  - title: 'Safety 1st Secure-to-Explore Adhesive Locks, 12 locks (Sam''s Club)'
     url: >-
       https://www.samsclub.com/ip/safety-1st-secure-to-explore-adhesive-locks-12-locks-white/13636904161
   - title: Safety 1st Secure-to-Explore Adhesive Magnetic Locks HS402 (Safety 1st)
     url: >-
       https://safety1st.com/products/secure-to-explore-adhesive-magnetic-locks-20-locks-2-keys-hs402
   - title: Safety 1st Home Safety Help Center
-    url: https://safety1st.com/pages/home-safety-help-center
+    url: 'https://safety1st.com/pages/home-safety-help-center'
   - title: Safety 1st Plug Protectors (Target)
     url: >-
       https://www.target.com/p/safety-1st-174-plug-protectors-36pack/-/A-14061588
   - title: Safety 1st Easy Install Walk-Through Gate (Safety 1st)
-    url: https://safety1st.com/en-ca/products/easy-install-walk-through-gate-ga105c
+    url: 'https://safety1st.com/en-ca/products/easy-install-walk-through-gate-ga105c'
   - title: Safety 1st Foam Corner Cushions HS209 (Safety 1st)
-    url: https://safety1st.com/en-ca/products/foam-corner-cushions-hs209
+    url: 'https://safety1st.com/en-ca/products/foam-corner-cushions-hs209'
   - title: Safety 1st Grip 'n Twist Doorknob Covers 4-Pack (Home Depot)
     url: >-
       https://homedepot.com/p/Safety-1st-Grip-n-Twist-Doorknob-Covers-4-Pack-48394/202259354
@@ -449,7 +449,7 @@ sources:
     url: >-
       https://homedepot.com/p/QuakeHOLD-Black-Nylon-Furniture-Safety-Strap-4160/100137023
   - title: Kids and Babies Safety Guides (CPSC)
-    url: https://www.cpsc.gov/Safety-Education/Safety-Guides/Kids-and-Babies
+    url: 'https://www.cpsc.gov/Safety-Education/Safety-Guides/Kids-and-Babies'
 reviewedDate: '2026-10-15'
 faqs:
   - q: ¿Se puede proteger un piso de alquiler para el bebé sin taladrar?

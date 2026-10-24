@@ -1,9 +1,10 @@
 {
   "slug": "apple-homekit-compatible-devices",
   "pass": true,
-  "checkedAt": "2026-10-23T14:25:23.326Z",
+  "checkedAt": "2026-10-24T10:08:50.482Z",
   "errors": [],
   "warnings": [
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Apple HomePod mini 2; Philips Hue White and Color Ambiance Starter Kit; Eve Energy (Matter); Eve Motion (Matter)",
     "source didn't respond normally (403): https://www.macobserver.com/tips/round-ups/homekit-compatible-devices/"
   ],
   "factCheck": {

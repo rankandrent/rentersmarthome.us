@@ -1,13 +1,12 @@
 {
   "slug": "best-floating-shelves-no-drill-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-24T10:05:19.412Z",
+  "checkedAt": "2026-10-24T10:09:11.468Z",
   "errors": [],
   "warnings": [
-    "product \"Command Picture Ledge\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"High & Mighty Floating Shelf\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"PAVSTINE Acrylic Floating Wall Shelves\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"OAPRIRE Acrylic Floating Wall Shelves\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "source didn't respond normally (403): https://www.command.com/3M/en_US/p/d/b5005604106/",
+    "product \"PAVSTINE Acrylic Floating Wall Shelves\" (B0CC2GK9TH) is no longer returned by Amazon"
   ],
   "factCheck": {
     "verified": true,

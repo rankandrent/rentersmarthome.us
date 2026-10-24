@@ -1,9 +1,12 @@
 {
   "slug": "best-suction-cup-shower-caddy-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-23T14:27:06.915Z",
+  "checkedAt": "2026-10-24T10:10:31.634Z",
   "errors": [],
   "warnings": [
+    "only 12 first-person words; owner rule wants at least 17 (about 1 per 100 words: I, my, me, we, our, us)",
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): simplehuman Adjustable Shower Caddy; Command Shower Caddy; KINCMAX Premium Shower Caddy; SMARTAKE 2-Pack Corner Shower Caddy",
+    "review publishers named 6 times: justify picks by specs and owner facts, name other publishers at most once",
     "source didn't respond normally (403): https://www.command.com/3M/en_US/p/d/b5005604030/",
     "source didn't respond normally (403): https://www.nytimes.com/wirecutter/reviews/the-best-shower-caddy/",
     "source didn't respond normally (403): https://ask.metafilter.com/383227/Incredibly-long-lasting-shower-shelf-with-no-drilling"

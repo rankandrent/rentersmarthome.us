@@ -1,9 +1,11 @@
 {
   "slug": "best-magnetic-cabinet-locks-for-renters",
   "pass": true,
-  "checkedAt": "2026-10-20T13:27:46.624Z",
+  "checkedAt": "2026-10-24T10:09:39.440Z",
   "errors": [],
   "warnings": [
+    "only 23 first-person words; owner rule wants at least 30 (about 1 per 100 words: I, my, me, we, our, us)",
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Safety 1st Adhesive Magnetic Lock System (4 Locks and 1 Key); Safety 1st Adhesive Magnetic Cabinet Locks (12 Locks, 2 Keys); Safety 1st Secure-to-Explore Adhesive Magnetic Locks (20 Locks, 2 Keys) HS402; Vmaisi Adhesive Magnetic Cabinet Locks (12 Locks and 2 Keys); Dreambaby Adhesive Mag Locks (8-Pack, 1 Key) L859; Roving Cove Ergonomic Magnetic Cabinet Locks (12 Locks, 2 Keys)",
     "body has 2951 words, over the 2185 limit (top results average 1900): cut repetition and filler",
     "source didn't respond normally (403): https://www.woolworths.com.au/shop/productdetails/1122750099",
     "source didn't respond normally (403): https://fuhrmannmanagement.com/best-cabinet-locks/"

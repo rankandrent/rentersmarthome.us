@@ -97,6 +97,27 @@ products:
         - title: r/HomeImprovement do Command strips tear off paint thread
           url: >-
             https://www.reddit.com/r/HomeImprovement/comments/90fueg/do_command_strips_to_hang_paintingsframes_tear/
+    image:
+      url: 'https://m.media-amazon.com/images/I/21faHDg+55L._SL500_.jpg'
+      width: 500
+      height: 135
+    amazonTitle: >-
+      Command Picture Ledge, 21" Damage Free Hanging Floating Shelf with
+      Adhesive Strips, Quartz, No Tools Picture Hanger for Displaying
+      Decorations and Photographs, 1 Ledge and 10 Command Strips
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/419y51L296L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41VzhVD8AxL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41X1Tr75ASL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41ibO-UVTcL._SL500_.jpg'
+        width: 500
+        height: 500
   - name: High & Mighty Floating Shelf
     brand: High & Mighty
     query: High and Mighty Floating Shelf 24in White
@@ -152,6 +173,27 @@ products:
         - title: Home Depot High & Mighty 24 in espresso shelf reviews
           url: >-
             https://www.homedepot.com/p/High-Mighty-24-in-Espresso-Tool-Free-Floating-Shelf-515612/304542583
+    image:
+      url: 'https://m.media-amazon.com/images/I/11liOVqcPEL._SL500_.jpg'
+      width: 500
+      height: 500
+    amazonTitle: >-
+      High & Mighty Floating Shelf, 24in, 1 Pack, White | Composite shelf, 20lb
+      capacity, tool-free drywall mounting for books, photos, plants, and decor
+      in any room
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41Li8BwDZoL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/313d+EILBsL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/411TfTUvteL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41AJ9tH1C+L._SL500_.jpg'
+        width: 500
+        height: 500
   - name: PAVSTINE Acrylic Floating Wall Shelves
     brand: PAVSTINE
     query: PAVSTINE Acrylic Floating Wall Shelves Set of 2 12 Inch White
@@ -233,6 +275,24 @@ products:
         - title: SquareFoot Decor no-drill floating shelves list
           url: >-
             https://squarefootdecor.com/floating-shelves-small-apartment-no-drill/
+    image:
+      url: 'https://m.media-amazon.com/images/I/41shZ8VT4DL._SL500_.jpg'
+      width: 500
+      height: 478
+    amazonTitle: 'OAPRIRE Acrylic Floating Wall Shelves White, No Drill, 9 Inch 2 Pack'
+    gallery:
+      - url: 'https://m.media-amazon.com/images/I/41-WOCf7oeL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/51SQPfsrV6L._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41NmNOIN8VL._SL500_.jpg'
+        width: 500
+        height: 500
+      - url: 'https://m.media-amazon.com/images/I/41tYs+NJ0aL._SL500_.jpg'
+        width: 500
+        height: 500
 sources:
   - title: Command Quartz Picture Ledge specifications (3M)
     url: 'https://www.command.com/3M/en_US/p/d/b5005604106/'

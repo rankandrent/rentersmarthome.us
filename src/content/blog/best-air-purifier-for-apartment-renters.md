@@ -198,8 +198,8 @@ products:
       height: 500
     amazonTitle: >-
       COWAY Airmega Mighty2 Air Purifier, Next Gen of AP-1512HH, for Large Room
-      & Home Cleans up to 1,800 ft², IEST certified HEPA and Active Carbon for
-      Allergies, Smoke, Dust, Pets & Mold, AP-1512N(W)
+      & Home Cleans up to 1,800 ft², HEPA and Active Carbon for Allergies,
+      Smoke, Dust, Pets & Mold, AP-1512N(W)
     gallery:
       - url: 'https://m.media-amazon.com/images/I/51E-osbnU1L._SL500_.jpg'
         width: 500
@@ -207,10 +207,10 @@ products:
       - url: 'https://m.media-amazon.com/images/I/41KcyF0RabL._SL500_.jpg'
         width: 500
         height: 500
-      - url: 'https://m.media-amazon.com/images/I/516X3GKmS9L._SL500_.jpg'
+      - url: 'https://m.media-amazon.com/images/I/514m5RJU+UL._SL500_.jpg'
         width: 500
         height: 500
-      - url: 'https://m.media-amazon.com/images/I/51ArfVaw67L._SL500_.jpg'
+      - url: 'https://m.media-amazon.com/images/I/51wiBuWgIwL._SL500_.jpg'
         width: 500
         height: 500
   - name: Winix 5530
