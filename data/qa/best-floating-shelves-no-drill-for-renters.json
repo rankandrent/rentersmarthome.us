@@ -1,0 +1,18 @@
+{
+  "slug": "best-floating-shelves-no-drill-for-renters",
+  "pass": true,
+  "checkedAt": "2026-10-24T10:05:19.412Z",
+  "errors": [],
+  "warnings": [
+    "product \"Command Picture Ledge\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"High & Mighty Floating Shelf\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"PAVSTINE Acrylic Floating Wall Shelves\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"OAPRIRE Acrylic Floating Wall Shelves\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified against maker/retailer pages opened 2026-10-24: Command Picture Ledge HOM21Q (command.com B5005604106) 21 in, 5 lb, 10 strips, surfaces painted walls/finished wood/laminate/glass/metal/tile, removes cleanly, refill strips reusable, Good for Humid Environments = No; High & Mighty 24in White Flat (designedtobestuckup.com) 18in 15lb/24in 20lb/36in 25lb, steel mounts pushed in by thumb, template + level, removes with flathead leaving holes barely bigger than a pin, 24x2x6 in; 1/2in+ drywall and hammer note from bybrittanygoldwyn.com; composite shelf from Amazon listing B078797KB6; PAVSTINE B0CC2GK9TH listing: 12 in (11.81 in) white acrylic set of 2, pre-applied tape ~30 sq cm, 10 lb on smooth tile/glass/smooth wood, 3.94 in deep, 24 h before use; OAPRIRE B07S7LM9KJ listing: 9 in white acrylic 2-pack, 3.7 in deep, 8 lb, double-sided tape, 2 cable clips + 5 tapes per shelf, hole design. upsimples dropped (listing ships screws + wall anchors). Load-per-inch math recomputed (5/21=0.24, 20/24=0.83, 10/11.8=0.85, 8/9=0.89). Roost 2021 survey page re-opened: 56% walls/paint, 51.6 percent no move-in photos. Toolsdoctor video M3yg9aINPks transcript: PAVSTINE held best on bathroom tile, OAPRIRE tape felt weaker, not trusted with heavy items like bottles. Reddit quotes taken verbatim from Firecrawl search excerpts at the same thread URLs (ApartmentHacks minpms, hi3k60, 1jov3md; DIY pfs73e, 1edjlih; Decor ojgvgc). ASINs confirmed via site:amazon.com searches (/dp/ pages). No prices, star ratings, review counts or testing claims.",
+    "at": "2026-10-24T10:05:18.625Z",
+    "hash": "cd8d8d0ad49b6e77"
+  }
+}

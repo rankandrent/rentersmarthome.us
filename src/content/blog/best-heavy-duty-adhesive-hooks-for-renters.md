@@ -255,10 +255,10 @@ faqs:
       before use.
 author: editorial-team
 related:
+  - best-floating-shelves-no-drill-for-renters
   - best-suction-cup-shower-caddy-for-renters
   - best-stud-finder-for-thick-walls
   - best-magnetic-stud-finder
-  - best-led-strip-lights-for-renters
 heroImage: /images/featured/best-heavy-duty-adhesive-hooks-for-renters.png
 heroAlt: >-
   Best Heavy Duty Adhesive Hooks for Renters – 3 Picks That Remove Clean –

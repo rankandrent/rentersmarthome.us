@@ -461,6 +461,8 @@ heroImage: /images/featured/best-stud-finder-for-thick-walls.png
 heroAlt: >-
   Best Stud Finder for Plaster Walls in 2026 – 6 Picks for Thick Walls –
   RenterSmartHome buying guide
+related:
+  - best-floating-shelves-no-drill-for-renters
 ---
 
 The best stud finder for plaster walls, and for thick walls in general, is one that can read past an inch and a half of material without lighting up on every lump of old plaster. If you rent in an older building, we know the feeling: you sweep a cheap stud finder across the wall, it beeps everywhere, and you end up drilling test holes you'll have to patch before move-out. We compared six deep scan and multi-mode stud finders using manufacturer specs and retailer listings, and we'll say it plainly up front: very thick or metal-lath plaster can defeat any electronic stud finder, so every pick here comes with a way to double-check.

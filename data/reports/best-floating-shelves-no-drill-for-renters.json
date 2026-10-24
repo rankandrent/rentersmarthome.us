@@ -1,0 +1,471 @@
+{
+  "keyword": "best floating shelves no drill for renters",
+  "createdAt": "2026-10-24T10:05:51.552Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "no-drill floating shelf",
+    "entityVariants": [
+      "no-drill floating shelves",
+      "no-drill shelf",
+      "no-drill shelves",
+      "no drill floating shelves",
+      "floating shelf",
+      "floating shelves",
+      "renter friendly floating shelves",
+      "adhesive floating shelves"
+    ],
+    "entities": [
+      {
+        "name": "Command Picture Ledge",
+        "type": "product",
+        "relation": "adhesive-strip ledge, 5 lb, no holes"
+      },
+      {
+        "name": "High & Mighty Tool-Free Floating Shelf",
+        "type": "product",
+        "relation": "steel-pin drywall mount, 20 lb (24 in), pin-size holes"
+      },
+      {
+        "name": "PAVSTINE Acrylic Floating Wall Shelves",
+        "type": "product",
+        "relation": "pre-taped acrylic shelf, 10 lb, smooth surfaces"
+      },
+      {
+        "name": "OAPRIRE Acrylic Floating Wall Shelves",
+        "type": "product",
+        "relation": "taped acrylic shelf with cable hole, 8 lb"
+      },
+      {
+        "name": "Command strips",
+        "type": "mounting method",
+        "relation": "stretch-release adhesive"
+      },
+      {
+        "name": "drywall",
+        "type": "wall material",
+        "relation": "what pin mounts need, 1/2 in or thicker"
+      },
+      {
+        "name": "security deposit",
+        "type": "concept",
+        "relation": "walls and paint are the top deduction"
+      },
+      {
+        "name": "textured wall",
+        "type": "wall condition",
+        "relation": "where adhesive fails"
+      }
+    ],
+    "attributes": [
+      "weight capacity",
+      "shelf length",
+      "mounting method",
+      "wall surface",
+      "removal method",
+      "humidity rating",
+      "hole size left behind"
+    ],
+    "ngrams": [
+      "no drill floating shelves",
+      "renter friendly",
+      "adhesive strips",
+      "weight capacity",
+      "smooth surface",
+      "damage free",
+      "painted drywall",
+      "security deposit"
+    ],
+    "skipgrams": [
+      "shelf…adhesive",
+      "renters…holes",
+      "wall…surface",
+      "strips…remove"
+    ],
+    "nlpTerms": [
+      "stretch-release strip",
+      "double-sided tape",
+      "steel pins",
+      "cure time",
+      "rubbing alcohol",
+      "knockdown texture",
+      "tile",
+      "move-out"
+    ],
+    "questions": [
+      "Can you put up floating shelves without drilling?",
+      "How much weight can a no-drill shelf hold?",
+      "Will adhesive shelves damage rental walls?",
+      "Do no-drill shelves work on textured walls?",
+      "Are small pin holes allowed in a rental?",
+      "Which no-drill shelf works in a bathroom?"
+    ],
+    "contentGaps": [
+      "load per inch of shelf compared across mounts",
+      "chooser by lease hole rule and wall surface",
+      "maker humidity rating for strip-mounted ledges",
+      "removal method per mount type tied to deposit deductions"
+    ],
+    "outline": [
+      {
+        "h2": "The best floating shelves no drill for renters: short answer",
+        "intent": "direct answer and picks",
+        "h3": []
+      },
+      {
+        "h2": "Which no-drill shelf fits your lease and your wall",
+        "intent": "decision table (ourGain)",
+        "h3": []
+      },
+      {
+        "h2": "The 4 best no-drill floating shelves for renters",
+        "intent": "product reviews",
+        "h3": [
+          "Command Picture Ledge",
+          "High & Mighty Tool-Free Floating Shelf",
+          "PAVSTINE Acrylic Floating Wall Shelves",
+          "OAPRIRE Acrylic Floating Wall Shelves"
+        ]
+      },
+      {
+        "h2": "How much a no-drill shelf really holds",
+        "intent": "load-per-inch analysis and what fails (ourGain + pain points)",
+        "h3": []
+      },
+      {
+        "h2": "Move-out day: taking each shelf down without losing your deposit",
+        "intent": "removal per mount type (ourGain + pain points)",
+        "h3": []
+      },
+      {
+        "h2": "Our verdict",
+        "intent": "close the opening scene, next reads",
+        "h3": []
+      }
+    ],
+    "targetWords": 1550,
+    "serpProducts": [
+      {
+        "name": "Command Picture Ledge",
+        "pages": [
+          "https://squarefootdecor.com/floating-shelves-small-apartment-no-drill/",
+          "https://nodamagedecor.com/removable-shelves-for-apartment/",
+          "https://www.reddit.com/r/ApartmentHacks/comments/minpms/does_anyone_have_recommendations_for/",
+          "https://lifehacker.com/how-to-hang-shelves-on-your-wall-without-tools-or-screw-1849558343"
+        ]
+      },
+      {
+        "name": "High & Mighty Tool-Free Floating Shelf",
+        "pages": [
+          "https://www.apartmenttherapy.com/the-floating-shelf-that-took-me-5-minutes-amp-no-tools-to-install-248676",
+          "https://www.bybrittanygoldwyn.com/how-to-hang-shelves-in-an-apartment/",
+          "https://www.reddit.com/r/ApartmentHacks/comments/minpms/does_anyone_have_recommendations_for/"
+        ]
+      },
+      {
+        "name": "PAVSTINE Acrylic Floating Wall Shelves",
+        "pages": [
+          "https://squarefootdecor.com/floating-shelves-small-apartment-no-drill/",
+          "https://www.youtube.com/watch?v=M3yg9aINPks"
+        ]
+      },
+      {
+        "name": "OAPRIRE Acrylic Floating Wall Shelves",
+        "pages": [
+          "https://squarefootdecor.com/floating-shelves-small-apartment-no-drill/",
+          "https://www.youtube.com/watch?v=M3yg9aINPks"
+        ]
+      },
+      {
+        "name": "upsimples 15\" Acrylic Shelves (dropped: screw and anchor mount, not no-drill)",
+        "pages": [
+          "https://squarefootdecor.com/floating-shelves-small-apartment-no-drill/",
+          "https://myglowhome.com/blog/best-no-drill-wall-shelf-systems-that-actually-work"
+        ]
+      }
+    ],
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://squarefootdecor.com/floating-shelves-small-apartment-no-drill/",
+        "https://www.woodsnap.com/blogs/wall-shelves-home-display/can-you-hang-shelves-without-putting-holes-in-the-wall",
+        "https://tailorwoodhaven.com/blogs/floating-shelves/how-to-hang-floating-shelves-without-drilling",
+        "https://www.apartmenttherapy.com/the-floating-shelf-that-took-me-5-minutes-amp-no-tools-to-install-248676",
+        "https://myglowhome.com/blog/best-no-drill-wall-shelf-systems-that-actually-work",
+        "https://nodamagedecor.com/removable-shelves-for-apartment/",
+        "https://www.bybrittanygoldwyn.com/how-to-hang-shelves-in-an-apartment/"
+      ],
+      "productStyle": "paragraph",
+      "productStyleReason": "The roundups (SquareFoot Decor, No Damage Decor, Apartment Therapy) describe each shelf in a short paragraph plus a spec line, not pros/cons lists.",
+      "avgWords": 1550,
+      "avgProducts": 4,
+      "commonSections": [
+        "types of no-drill shelves (adhesive, tension, freestanding)",
+        "wall surface and prep",
+        "weight limits",
+        "installation steps",
+        "mistakes to avoid",
+        "removal",
+        "FAQ"
+      ],
+      "usesComparisonTable": false,
+      "usesFaq": true,
+      "usesBuyingGuide": true
+    },
+    "serpTitles": [
+      {
+        "position": 2,
+        "url": "https://www.woodsnap.com/blogs/wall-shelves-home-display/can-you-hang-shelves-without-putting-holes-in-the-wall",
+        "title": "No-Drill Shelving: How to Hang Shelves Without Holes - Woodsnap"
+      },
+      {
+        "position": 3,
+        "url": "https://www.reddit.com/r/gamecollecting/comments/w87hiv/are_no_drill_floating_shelves_an_actual_thing_im/",
+        "title": "Are \"No drill floating shelves\" an actual thing? I'm not having ... - Reddit"
+      },
+      {
+        "position": 4,
+        "url": "https://www.apartmenttherapy.com/the-floating-shelf-that-took-me-5-minutes-amp-no-tools-to-install-248676",
+        "title": "The Floating Shelf That Took Me 5 Minutes (& No Tools) to Install"
+      },
+      {
+        "position": 5,
+        "url": "https://www.walmart.com/c/kp/no-drill-shelf",
+        "title": "No Drill Shelves for Easy Home Storage - Walmart"
+      },
+      {
+        "position": 7,
+        "url": "https://www.facebook.com/groups/renterfriendly/posts/1840226526860988/",
+        "title": "renter friendly floating shelf options? - Facebook"
+      },
+      {
+        "position": 8,
+        "url": "https://squarefootdecor.com/floating-shelves-small-apartment-no-drill/",
+        "title": "No-Drill Floating Shelves for Small Apartments - SquareFoot Decor"
+      },
+      {
+        "position": 9,
+        "url": "https://tailorwoodhaven.com/blogs/floating-shelves/how-to-hang-floating-shelves-without-drilling",
+        "title": "How to Hang Floating Shelves Without Drilling - Tailor Wood Haven"
+      },
+      {
+        "position": 10,
+        "url": "https://www.target.com/s/floating+shelves+no+drill",
+        "title": "Floating Shelves No Drill | Wood & Metal Shelving Solutions - Target"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 0,
+      "withYear": 0,
+      "withNumber": 2,
+      "commonModifiers": [
+        "no-drill",
+        "without drilling",
+        "renter friendly",
+        "small apartments",
+        "no tools"
+      ],
+      "gap": "No top title sorts picks by what the lease allows and what the wall is made of; none carries a year or starts with the exact keyword."
+    },
+    "commonPoints": [
+      "Adhesive shelves only suit light decor; heavy items need another method",
+      "Adhesive needs a smooth, clean, dry wall; textured or wallpapered walls fail",
+      "Wipe the wall with rubbing alcohol and let adhesive cure before loading",
+      "Tension-pole and freestanding shelves are the no-wall-contact alternatives for heavy loads",
+      "Remove adhesive slowly, warming it first, to avoid pulling paint"
+    ],
+    "ourGain": [
+      {
+        "type": "analysis",
+        "point": "Load per inch of shelf from maker ratings: Command Picture Ledge 5 lb over 21 in (about 0.24 lb/in), High & Mighty 20 lb over 24 in (about 0.83 lb/in), PAVSTINE 10 lb over 11.8 in (about 0.85 lb/in), OAPRIRE 8 lb over 9 in (about 0.89 lb/in); the longest ledge is the weakest per inch, and the acrylics' ratings depend on a smooth surface",
+        "source": "https://www.command.com/3M/en_US/p/d/b5005604106/ ; https://designedtobestuckup.com/floating-shelves/24-white-flat-floating-shelf/ ; PAVSTINE and OAPRIRE Amazon listings (B0CC2GK9TH, B07S7LM9KJ)",
+        "absentFrom": [
+          "https://squarefootdecor.com/floating-shelves-small-apartment-no-drill/",
+          "https://www.woodsnap.com/blogs/wall-shelves-home-display/can-you-hang-shelves-without-putting-holes-in-the-wall",
+          "https://tailorwoodhaven.com/blogs/floating-shelves/how-to-hang-floating-shelves-without-drilling",
+          "https://www.apartmenttherapy.com/the-floating-shelf-that-took-me-5-minutes-amp-no-tools-to-install-248676",
+          "https://myglowhome.com/blog/best-no-drill-wall-shelf-systems-that-actually-work",
+          "https://nodamagedecor.com/removable-shelves-for-apartment/"
+        ]
+      },
+      {
+        "type": "decision",
+        "point": "Chooser by lease hole rule x wall surface: no holes + smooth paint -> Command ledge; pin holes OK + drywall -> High & Mighty; tile or glass in a bathroom -> PAVSTINE; desk with a cable -> OAPRIRE; textured wall -> none of the adhesive picks",
+        "source": "maker specs + r/ApartmentHacks lease-hole thread",
+        "absentFrom": [
+          "https://squarefootdecor.com/floating-shelves-small-apartment-no-drill/",
+          "https://www.woodsnap.com/blogs/wall-shelves-home-display/can-you-hang-shelves-without-putting-holes-in-the-wall",
+          "https://tailorwoodhaven.com/blogs/floating-shelves/how-to-hang-floating-shelves-without-drilling",
+          "https://www.apartmenttherapy.com/the-floating-shelf-that-took-me-5-minutes-amp-no-tools-to-install-248676",
+          "https://myglowhome.com/blog/best-no-drill-wall-shelf-systems-that-actually-work",
+          "https://nodamagedecor.com/removable-shelves-for-apartment/"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Command's own spec lists the Picture Ledge as not good for humid environments, so it stays out of the bathroom; the pre-taped PAVSTINE is rated for tile and glass",
+        "source": "https://www.command.com/3M/en_US/p/d/b5005604106/",
+        "absentFrom": [
+          "https://squarefootdecor.com/floating-shelves-small-apartment-no-drill/",
+          "https://www.woodsnap.com/blogs/wall-shelves-home-display/can-you-hang-shelves-without-putting-holes-in-the-wall",
+          "https://tailorwoodhaven.com/blogs/floating-shelves/how-to-hang-floating-shelves-without-drilling",
+          "https://www.apartmenttherapy.com/the-floating-shelf-that-took-me-5-minutes-amp-no-tools-to-install-248676",
+          "https://myglowhome.com/blog/best-no-drill-wall-shelf-systems-that-actually-work",
+          "https://nodamagedecor.com/removable-shelves-for-apartment/"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Removal plan per mount type (stretch Command tabs straight down, warm and saw through foam tape, pry High & Mighty pins and fill pin holes) tied to the 56% of renters who name damaged walls and paint as the top deposit deduction",
+        "source": "https://www.joinroost.com/post/security-deposits-what-roost-members-say-2021-survey-results",
+        "absentFrom": [
+          "https://squarefootdecor.com/floating-shelves-small-apartment-no-drill/",
+          "https://www.woodsnap.com/blogs/wall-shelves-home-display/can-you-hang-shelves-without-putting-holes-in-the-wall",
+          "https://tailorwoodhaven.com/blogs/floating-shelves/how-to-hang-floating-shelves-without-drilling",
+          "https://www.apartmenttherapy.com/the-floating-shelf-that-took-me-5-minutes-amp-no-tools-to-install-248676",
+          "https://myglowhome.com/blog/best-no-drill-wall-shelf-systems-that-actually-work",
+          "https://nodamagedecor.com/removable-shelves-for-apartment/"
+        ]
+      }
+    ],
+    "painPoints": [
+      {
+        "id": "storage-decor-adhesive-shelf-falls",
+        "pain": "Adhesive no-drill shelves fall off the wall once they carry real weight",
+        "details": "Renters stick shelves up with strips or foam tape, load them with books or bottles and find them on the floor; many conclude adhesive only suits light decor.",
+        "sources": [
+          "https://www.reddit.com/r/Decor/comments/ojgvgc/i_tried_using_command_strips_for_my_shelves_but/",
+          "https://www.reddit.com/r/gamecollecting/comments/w87hiv/are_no_drill_floating_shelves_an_actual_thing_im/",
+          "https://www.reddit.com/r/HomeImprovement/comments/q3kjyk/can_anyone_vouch_for_high_and_mighty_floating/"
+        ],
+        "quotes": [
+          {
+            "text": "I tried using command strips for my shelves but they just fell off",
+            "url": "https://www.reddit.com/r/Decor/comments/ojgvgc/i_tried_using_command_strips_for_my_shelves_but/"
+          },
+          {
+            "text": "I doubt they can hold much weight.",
+            "url": "https://www.reddit.com/r/HomeImprovement/comments/q3kjyk/can_anyone_vouch_for_high_and_mighty_floating/"
+          }
+        ]
+      },
+      {
+        "id": "storage-decor-adhesive-removal-damage",
+        "pain": "Removing adhesive shelves at move-out pulls paint or drywall paper",
+        "details": "Renters worry that any tape strong enough to hold a shelf will tear the wall when it comes off; Command users report paint lifting when strips are pulled outward instead of stretched down.",
+        "sources": [
+          "https://www.reddit.com/r/DIY/comments/pfs73e/how_to_keep_floating_shelves_up_without_drilling/",
+          "https://www.reddit.com/r/DIY/comments/1edjlih/command_strips_are_not_renter_friendly_how_can_i/",
+          "https://www.reddit.com/r/fixit/comments/1lnnrdw/command_strip_tore_off_paint_on_my_rental_moving/",
+          "https://www.reddit.com/r/HomeImprovement/comments/90fueg/do_command_strips_to_hang_paintingsframes_tear/"
+        ],
+        "quotes": [
+          {
+            "text": "Unfortunately any adhesive strong enough to hold a shelf will rip drywall off when you remove it.",
+            "url": "https://www.reddit.com/r/DIY/comments/pfs73e/how_to_keep_floating_shelves_up_without_drilling/"
+          },
+          {
+            "text": "LPT: pull the tab on the command strip straight down until it comes unstuck - never tear it off the wall!",
+            "url": "https://www.reddit.com/r/DIY/comments/1edjlih/command_strips_are_not_renter_friendly_how_can_i/"
+          }
+        ]
+      },
+      {
+        "id": "storage-decor-lease-hole-rules",
+        "pain": "Renters don't know whether pin-size holes count as damage under their lease",
+        "details": "Some leases ban any hole, others allow small nail holes; renters weigh adhesive against pin- or nail-based shelves that hold more but leave tiny holes.",
+        "sources": [
+          "https://www.reddit.com/r/ApartmentHacks/comments/minpms/does_anyone_have_recommendations_for/",
+          "https://www.reddit.com/r/ApartmentHacks/comments/1jov3md/tired_of_ripping_up_my_walls_for_shelves_ended_up/",
+          "https://www.reddit.com/r/ApartmentDesign/comments/1b4s0rv/is_there_wall_shelving_out_there_that_can_be_hung/"
+        ],
+        "quotes": [
+          {
+            "text": "Most of my leases have allowed for holes up to 1/4”, which is pretty substantial.",
+            "url": "https://www.reddit.com/r/ApartmentHacks/comments/minpms/does_anyone_have_recommendations_for/"
+          },
+          {
+            "text": "I bought one of those 'no drill' shelves that uses small nails — and surprisingly, it held really well.",
+            "url": "https://www.reddit.com/r/ApartmentHacks/comments/1jov3md/tired_of_ripping_up_my_walls_for_shelves_ended_up/"
+          }
+        ]
+      },
+      {
+        "id": "storage-decor-textured-wall-adhesive",
+        "pain": "Adhesive shelves and strips won't hold on textured walls or textured tile",
+        "details": "Knockdown or orange-peel paint and textured bathroom tile leave too little contact area, so tape and strips let go.",
+        "sources": [
+          "https://www.reddit.com/r/ApartmentHacks/comments/hi3k60/command_picture_hanging_strips_hate_my_wall/",
+          "https://www.reddit.com/r/HomeImprovement/comments/xnv8x8/is_there_a_way_to_stick_mount_a_shelf_on_a_rough/"
+        ],
+        "quotes": [
+          {
+            "text": "Textured walls are always a bit tricky for adhesives since there is less surface area to grab onto.",
+            "url": "https://www.reddit.com/r/ApartmentHacks/comments/hi3k60/command_picture_hanging_strips_hate_my_wall/"
+          }
+        ]
+      }
+    ],
+    "stats": [
+      {
+        "number": "56%",
+        "claim": "of renters name damaged walls and paint as the leading cause of security deposit deductions (Roost 2021 survey)",
+        "url": "https://www.joinroost.com/post/security-deposits-what-roost-members-say-2021-survey-results",
+        "quote": "Leading cause for deposit reductions reported by renters - damaged walls and paint 56%"
+      },
+      {
+        "number": "51.6 percent",
+        "claim": "of renters did not take photos of their apartment after moving in",
+        "url": "https://www.joinroost.com/post/security-deposits-what-roost-members-say-2021-survey-results",
+        "quote": "more than half (51.6 percent) of renters did not take photos of their apartment after they moved in"
+      },
+      {
+        "number": "40 percent",
+        "claim": "of residents challenge their deposit refund, a property manager estimates",
+        "url": "https://www.joinroost.com/post/security-deposits-what-roost-members-say-2021-survey-results",
+        "quote": "One veteran property manager estimates that about 40 percent of residents will challenge the refund"
+      },
+      {
+        "number": "5 lb",
+        "claim": "weight capacity of the 21-inch Command Picture Ledge",
+        "url": "https://www.command.com/3M/en_US/p/d/b5005604106/",
+        "quote": "Weight Capacity (Imperial) | 5 lb"
+      },
+      {
+        "number": "20lbs",
+        "claim": "High & Mighty 24-inch floating shelf rating",
+        "url": "https://designedtobestuckup.com/floating-shelves/24-white-flat-floating-shelf/",
+        "quote": "The 18” shelf holds 15lbs. The 24” shelf holds 20lbs. The 36” shelf holds 25lbs."
+      }
+    ],
+    "videos": [
+      {
+        "id": "M3yg9aINPks",
+        "title": "I Tested 4 Self-Adhesive Floating Shelves, Do They Work?",
+        "channel": "Toolsdoctor",
+        "url": "https://www.youtube.com/watch?v=M3yg9aINPks",
+        "section": "The 4 best no-drill floating shelves for renters"
+      }
+    ],
+    "secondaryKeywords": [
+      "no drill floating shelves for renters",
+      "renter friendly floating shelves",
+      "adhesive floating shelves no drill",
+      "floating shelves without drilling",
+      "damage free floating shelves"
+    ]
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-heavy-duty-adhesive-hooks-for-renters",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-magnetic-stud-finder",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-stud-finder-for-thick-walls",
+      "mode": "related-box"
+    }
+  ]
+}
