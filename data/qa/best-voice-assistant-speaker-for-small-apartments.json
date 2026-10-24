@@ -1,15 +1,15 @@
 {
   "slug": "best-voice-assistant-speaker-for-small-apartments",
   "pass": true,
-  "checkedAt": "2026-10-21T10:17:45.278Z",
+  "checkedAt": "2026-10-24T12:36:58.334Z",
   "errors": [],
   "warnings": [
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1847671-REG/amazon_b0bfc7wq6r_echo_spot_2024.html"
+    "body has 1434 words, over the 1265 limit (no SERP average in the brief): cut repetition and filler"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "2026-10-14: Echo Dot (5th Gen) temperature sensor and Matter control; Echo Pop compact budget Alexa speaker; Nest Mini (2nd Gen) wall-mount slot and mic switch (Google Store); HomePod mini Apple Home hub with temperature/humidity sensor (Apple). Wrong Echo Pop listing (Echo Dot) cleared for re-match.",
-    "at": "2026-10-14T13:15:31.322Z"
+    "notes": "2026-10-24 improve (GSC: best/affordable smart speaker for a small apartment): added affordable H2 (Echo Dot + Nest Mini are the lower-cost picks; HomePod mini/Echo Spot cost more, as before) and outside-US note (Google Store footnote: features in select countries and languages); footprint table from Apple HomePod mini specs (97.9 mm wide, 84.3 mm high), Brian Dorey teardown (Echo Dot 100 x 100 x 89 mm) and B&H Echo Spot specs; Echo Dot not a Thread border router per Amazon docs (as in smart-home-starter-kit); From our notes research block; first-person summaries/scoreNotes, no testing claims.",
+    "at": "2026-10-24T12:37:14.230Z",
+    "hash": "0be4e3b3935fe099"
   }
 }

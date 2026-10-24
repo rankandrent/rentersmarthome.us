@@ -1,41 +1,245 @@
 {
   "centralEntity": "voice assistant speaker for small apartments",
-  "entityVariants": ["smart speaker for a small apartment", "voice assistant speaker", "smart speaker", "best smart speaker for apartments"],
-  "entities": [
-    {"name": "Amazon Echo Dot (5th Gen)", "type": "product", "relation": "compact Alexa speaker with a temperature sensor"},
-    {"name": "Amazon Echo Pop", "type": "product", "relation": "budget compact Alexa speaker"},
-    {"name": "Google Nest Mini", "type": "product", "relation": "compact Google speaker with a wall-mount slot"},
-    {"name": "Apple HomePod mini", "type": "product", "relation": "compact Siri speaker and Apple Home hub"},
-    {"name": "Alexa", "type": "voice assistant", "relation": "Amazon's assistant"},
-    {"name": "Google Assistant", "type": "voice assistant", "relation": "Google's assistant"},
-    {"name": "Siri", "type": "voice assistant", "relation": "Apple's assistant"},
-    {"name": "Matter", "type": "standard", "relation": "smart home standard many speakers can control"},
-    {"name": "thin walls", "type": "concept", "relation": "apartment noise concern"}
+  "entityVariants": [
+    "smart speaker for a small apartment",
+    "voice assistant speaker",
+    "smart speaker",
+    "best smart speaker for apartments"
   ],
-  "attributes": ["size", "sound", "smart home hub features", "privacy controls", "ecosystem", "placement"],
-  "ngrams": ["smart speaker", "echo dot", "nest mini", "homepod mini", "small apartment", "voice assistant"],
-  "skipgrams": ["speaker…apartment", "alexa…echo", "siri…homepod", "volume…walls"],
-  "nlpTerms": ["renters", "studio", "bedroom", "neighbors", "microphone", "mute button", "Wi-Fi", "routines", "smart plugs"],
-  "questions": ["What is the best smart speaker for a small apartment?", "Should I choose Alexa, Google or Siri?", "Will a smart speaker bother my neighbors?", "Can a smart speaker control my lights?"],
-  "contentGaps": ["placing a speaker against shared walls", "privacy with roommates", "using one speaker as a hub"],
+  "entities": [
+    {
+      "name": "Amazon Echo Dot (5th Gen)",
+      "type": "product",
+      "relation": "compact Alexa speaker with a temperature sensor"
+    },
+    {
+      "name": "Amazon Echo Pop",
+      "type": "product",
+      "relation": "budget compact Alexa speaker"
+    },
+    {
+      "name": "Google Nest Mini",
+      "type": "product",
+      "relation": "compact Google speaker with a wall-mount slot"
+    },
+    {
+      "name": "Apple HomePod mini",
+      "type": "product",
+      "relation": "compact Siri speaker and Apple Home hub"
+    },
+    {
+      "name": "Alexa",
+      "type": "voice assistant",
+      "relation": "Amazon's assistant"
+    },
+    {
+      "name": "Google Assistant",
+      "type": "voice assistant",
+      "relation": "Google's assistant"
+    },
+    {
+      "name": "Siri",
+      "type": "voice assistant",
+      "relation": "Apple's assistant"
+    },
+    {
+      "name": "Matter",
+      "type": "standard",
+      "relation": "smart home standard many speakers can control"
+    },
+    {
+      "name": "thin walls",
+      "type": "concept",
+      "relation": "apartment noise concern"
+    }
+  ],
+  "attributes": [
+    "size",
+    "sound",
+    "smart home hub features",
+    "privacy controls",
+    "ecosystem",
+    "placement"
+  ],
+  "ngrams": [
+    "smart speaker",
+    "echo dot",
+    "nest mini",
+    "homepod mini",
+    "small apartment",
+    "voice assistant"
+  ],
+  "skipgrams": [
+    "speaker…apartment",
+    "alexa…echo",
+    "siri…homepod",
+    "volume…walls"
+  ],
+  "nlpTerms": [
+    "renters",
+    "studio",
+    "bedroom",
+    "neighbors",
+    "microphone",
+    "mute button",
+    "Wi-Fi",
+    "routines",
+    "smart plugs"
+  ],
+  "questions": [
+    "What is the best smart speaker for a small apartment?",
+    "Should I choose Alexa, Google or Siri?",
+    "Will a smart speaker bother my neighbors?",
+    "Can a smart speaker control my lights?"
+  ],
+  "contentGaps": [
+    "placing a speaker against shared walls",
+    "privacy with roommates",
+    "using one speaker as a hub"
+  ],
   "outline": [
-    {"h2": "The short answer", "intent": "verdict", "h3": []},
-    {"h2": "Our picks", "intent": "products", "h3": ["Echo Dot", "Echo Pop", "Nest Mini", "HomePod mini"]},
-    {"h2": "How to choose", "intent": "criteria", "h3": []},
-    {"h2": "Thin walls and neighbors", "intent": "apartment concerns", "h3": []}
+    {
+      "h2": "The short answer",
+      "intent": "verdict",
+      "h3": []
+    },
+    {
+      "h2": "Our picks",
+      "intent": "products",
+      "h3": [
+        "Echo Dot",
+        "Echo Pop",
+        "Nest Mini",
+        "HomePod mini"
+      ]
+    },
+    {
+      "h2": "How to choose",
+      "intent": "criteria",
+      "h3": []
+    },
+    {
+      "h2": "Thin walls and neighbors",
+      "intent": "apartment concerns",
+      "h3": []
+    }
   ],
   "targetWords": 1100,
   "serpTitles": [
-    {"position":1,"url":"https://www.nytimes.com/wirecutter/reviews/best-smart-speakers/","title":"The 6 Best Smart Speakers for Your Home in 2026 | Reviews by Wirecutter"},
-    {"position":2,"url":"https://www.cnet.com/home/smart-home/best-smart-speaker/","title":"Best Smart Speakers for 2026: Big Sound and So Much More - CNET"},
-    {"position":3,"url":"https://www.reddit.com/r/smarthome/comments/1ahbcrl/what_is_the_current_best_smart_speaker/","title":"What is the current best smart speaker? : r/smarthome - Reddit"},
-    {"position":4,"url":"https://www.rtings.com/speaker/reviews/best/smart","title":"The 5 Best Smart Speakers of 2026 - RTINGS.com"},
-    {"position":5,"url":"https://www.bestbuy.com/site/home-security-safety/smart-speakers-displays/pcmcat1477674238305.c?id=pcmcat1477674238305","title":"Smart Speakers & Displays: Voice Assistants - Best Buy"},
-    {"position":6,"url":"https://www.whathifi.com/best-buys/best-smart-speakers-the-best-voice-assistant-speakers","title":"Best smart speakers 2026: top voice-assistant ... - What Hi-Fi?"},
-    {"position":7,"url":"https://www.wired.com/story/best-smart-speakers/","title":"5 Best Smart Speakers (2026): Alexa, Google, Apple | WIRED"},
-    {"position":8,"url":"https://www.youtube.com/watch?v=6VUCbPGMCv4","title":"Best smart speakers 2026: top voice-assistant speakers - YouTube"},
-    {"position":9,"url":"https://smartzenhome.com/best-smart-speakers-for-small-apartments/","title":"Best Smart Speakers for Small Apartments (2026 USA Guide)"},
-    {"position":10,"url":"https://www.speakerranking.com/powered/voice-assistant-speakers/","title":"Every Speaker With a Built-In Voice Assistant"}
+    {
+      "position": 1,
+      "url": "https://www.nytimes.com/wirecutter/reviews/best-smart-speakers/",
+      "title": "The 6 Best Smart Speakers for Your Home in 2026 | Reviews by Wirecutter"
+    },
+    {
+      "position": 2,
+      "url": "https://www.cnet.com/home/smart-home/best-smart-speaker/",
+      "title": "Best Smart Speakers for 2026: Big Sound and So Much More - CNET"
+    },
+    {
+      "position": 3,
+      "url": "https://www.reddit.com/r/smarthome/comments/1ahbcrl/what_is_the_current_best_smart_speaker/",
+      "title": "What is the current best smart speaker? : r/smarthome - Reddit"
+    },
+    {
+      "position": 4,
+      "url": "https://www.rtings.com/speaker/reviews/best/smart",
+      "title": "The 5 Best Smart Speakers of 2026 - RTINGS.com"
+    },
+    {
+      "position": 5,
+      "url": "https://www.bestbuy.com/site/home-security-safety/smart-speakers-displays/pcmcat1477674238305.c?id=pcmcat1477674238305",
+      "title": "Smart Speakers & Displays: Voice Assistants - Best Buy"
+    },
+    {
+      "position": 6,
+      "url": "https://www.whathifi.com/best-buys/best-smart-speakers-the-best-voice-assistant-speakers",
+      "title": "Best smart speakers 2026: top voice-assistant ... - What Hi-Fi?"
+    },
+    {
+      "position": 7,
+      "url": "https://www.wired.com/story/best-smart-speakers/",
+      "title": "5 Best Smart Speakers (2026): Alexa, Google, Apple | WIRED"
+    },
+    {
+      "position": 8,
+      "url": "https://www.youtube.com/watch?v=6VUCbPGMCv4",
+      "title": "Best smart speakers 2026: top voice-assistant speakers - YouTube"
+    },
+    {
+      "position": 9,
+      "url": "https://smartzenhome.com/best-smart-speakers-for-small-apartments/",
+      "title": "Best Smart Speakers for Small Apartments (2026 USA Guide)"
+    },
+    {
+      "position": 10,
+      "url": "https://www.speakerranking.com/powered/voice-assistant-speakers/",
+      "title": "Every Speaker With a Built-In Voice Assistant"
+    }
   ],
-  "titlePattern": {"keywordAtStart":0,"withYear":7,"withNumber":3,"commonModifiers":["Best Smart Speakers ... 2026","voice-assistant speakers","for small apartments","N Best"],"gap":"Thin walls and neighbors: picks that suit a small apartment's noise limits, plus roommate privacy"}
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 7,
+    "withNumber": 3,
+    "commonModifiers": [
+      "Best Smart Speakers ... 2026",
+      "voice-assistant speakers",
+      "for small apartments",
+      "N Best"
+    ],
+    "gap": "Thin walls and neighbors: picks that suit a small apartment's noise limits, plus roommate privacy"
+  },
+  "commonPoints": [
+    "The Amazon Echo Dot is the default budget or all-round Alexa pick",
+    "Choose the assistant that matches the phone and services you already use",
+    "The HomePod mini is the compact pick for Apple households",
+    "A low-cost compact speaker is enough sound for a small room"
+  ],
+  "ourGain": [
+    {
+      "type": "analysis",
+      "point": "Footprint table from published specs: Echo Dot 100 x 100 x 89 mm vs HomePod mini 97.9 mm wide, 84.3 mm high vs Echo Spot about 113 x 103 x 111 mm; Dot and HomePod mini are within about 2 mm in width, HomePod mini is the lowest for shelves with little headroom",
+      "source": "https://www.apple.com/homepod-mini/specs/; https://www.briandorey.com/post/echo-dot-5th-gen-smart-speaker-teardown; https://www.bhphotovideo.com/c/product/1847671-REG/amazon_b0bfc7wq6r_echo_spot_2024.html",
+      "absentFrom": [
+        "https://smartzenhome.com/best-smart-speakers-for-small-apartments/",
+        "https://www.whathifi.com/best-buys/best-smart-speakers-the-best-voice-assistant-speakers"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "Affordable chooser: Echo Dot (Alexa) or Nest Mini (Google) as the two lower-cost picks; pay more only for Apple Home (HomePod mini) or a bedside screen (Echo Spot); outside the US, check the assistant is sold in your country and speaks your language",
+      "source": "https://store.google.com/us/product/google_home_speaker (select countries and languages footnote)",
+      "absentFrom": [
+        "https://smartzenhome.com/best-smart-speakers-for-small-apartments/",
+        "https://www.whathifi.com/best-buys/best-smart-speakers-the-best-voice-assistant-speakers"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Shared-wall placement: keep speakers off shelves touching a shared wall, pad hard surfaces, quiet hours after 10 pm, not by the front door",
+      "source": "data/pain-points (thin walls); renter scenario",
+      "absentFrom": [
+        "https://smartzenhome.com/best-smart-speakers-for-small-apartments/",
+        "https://www.whathifi.com/best-buys/best-smart-speakers-the-best-voice-assistant-speakers"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Roommate privacy: voice profiles, voice purchasing off, mic mute, no speakers in other people's bedrooms",
+      "source": "renter scenario",
+      "absentFrom": [
+        "https://smartzenhome.com/best-smart-speakers-for-small-apartments/",
+        "https://www.whathifi.com/best-buys/best-smart-speakers-the-best-voice-assistant-speakers"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "Bedside pick: the Echo Spot replaces an alarm clock, so in a small bedroom it frees nightstand space despite being the largest",
+      "source": "https://www.bhphotovideo.com/c/product/1847671-REG/amazon_b0bfc7wq6r_echo_spot_2024.html",
+      "absentFrom": [
+        "https://smartzenhome.com/best-smart-speakers-for-small-apartments/",
+        "https://www.whathifi.com/best-buys/best-smart-speakers-the-best-voice-assistant-speakers"
+      ]
+    }
+  ]
 }

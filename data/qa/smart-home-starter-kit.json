@@ -1,18 +1,15 @@
 {
   "slug": "smart-home-starter-kit",
   "pass": true,
-  "checkedAt": "2026-10-24T10:11:34.002Z",
+  "checkedAt": "2026-10-24T12:37:24.973Z",
   "errors": [],
   "warnings": [
-    "only 17 first-person words; owner rule wants at least 18 (about 1 per 100 words: I, my, me, we, our, us)",
-    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Amazon Echo Dot (5th Gen); Google Nest Hub (2nd Gen); Philips Hue White and Color Ambiance Starter Kit; Lutron Caseta Smart Lamp Dimmer Kit",
-    "LIVE POST, FIX: source returns 404: https://support.google.com/googlehome/answer/12391458?hl=en",
-    "source didn't respond normally (403): https://www.nytimes.com/wirecutter/blog/smart-home-starter-kit/"
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Amazon Echo Dot (5th Gen); Google Nest Hub (2nd Gen); Philips Hue White and Color Ambiance Starter Kit; Lutron Caseta Smart Lamp Dimmer Kit"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
-    "at": "2026-10-21T19:51:33.669Z",
-    "hash": "1c70af89d33019fc"
+    "notes": "added one internal link to best-voice-assistant-speaker-for-small-apartments, no claim changed",
+    "at": "2026-10-24T12:37:24.003Z",
+    "hash": "22c3fa18110e583a"
   }
 }

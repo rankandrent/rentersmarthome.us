@@ -341,7 +341,7 @@ Privacy settings to check on day one, whichever assistant you choose:
 - **Turn on voice match or voice ID** so roommates' requests don't land in your calendar, shopping list or purchase history.
 - **Require a PIN for purchases and door unlocks**, especially if guests or maintenance staff can talk to your speaker.
 
-For renters, the shared-wall reality matters: a speaker near a thin wall or front door can hear more than you expect, so place it in a living area rather than by the entry.
+For renters, the shared-wall reality matters: a speaker near a thin wall or front door can hear more than you expect, so place it in a living area rather than by the entry. Our guide to the [best smart speaker for a small apartment](/blog/best-voice-assistant-speaker-for-small-apartments/) covers placement in a studio or one-bedroom.
 
 ## The speakers to buy for each ecosystem
 

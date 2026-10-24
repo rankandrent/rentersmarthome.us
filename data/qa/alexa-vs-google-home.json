@@ -1,15 +1,15 @@
 {
   "slug": "alexa-vs-google-home",
   "pass": true,
-  "checkedAt": "2026-10-21T10:15:35.928Z",
+  "checkedAt": "2026-10-24T12:37:21.938Z",
   "errors": [],
   "warnings": [
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
-    "source didn't respond normally (403): https://www.the-ambient.com/versus/alexa-plus-vs-gemini/"
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "2026-10-14: Echo Dot Max and Echo Studio (2nd Gen) built-in Zigbee/Thread/Matter hub (matteralpha, 91mobiles review); Google Home Speaker launched Jun 25 2026, Thread 1.3 border router + Matter hub, 360-degree audio, Gemini Live/Ask Home need Google Home Premium (Thurrott, 9to5Google); Alexa+ free with Prime, paid without (PCWorld). Removed unverified 140,000/50,000 device counts. Google Home Speaker Amazon listing was a wood stand: cleared for re-match.",
-    "at": "2026-10-14T13:15:27.042Z"
+    "notes": "added one internal link to best-voice-assistant-speaker-for-small-apartments, no claim changed",
+    "at": "2026-10-24T12:37:20.765Z",
+    "hash": "c77741ab355f5de9"
   }
 }

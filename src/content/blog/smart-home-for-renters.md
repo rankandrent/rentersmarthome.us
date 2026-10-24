@@ -417,7 +417,7 @@ Replacing a wall thermostat is different: it touches HVAC wiring, so before you 
 | Google Home | Use Android and want Nest cameras or displays | Nest hubs act as Thread border routers |
 | Apple Home | Use iPhone and value privacy | Apple TV and HomePod run automations locally |
 
-If you haven't picked one yet, our [Alexa vs Google Home comparison](/blog/alexa-vs-google-home/) walks through the choice. Whichever voice assistant you choose, prioritize **Matter** devices. Matter is the cross-platform smart home standard backed by Amazon, Google, Apple and Samsung, so a Matter smart plug or lock works with all of them. **Thread**, a low-power mesh network used by many Matter devices, makes battery sensors and locks faster and more reliable.
+If you haven't picked one yet, our [Alexa vs Google Home comparison](/blog/alexa-vs-google-home/) walks through the choice, and our [best smart speaker for a small apartment](/blog/best-voice-assistant-speaker-for-small-apartments/) picks name the speaker to start with. Whichever voice assistant you choose, prioritize **Matter** devices. Matter is the cross-platform smart home standard backed by Amazon, Google, Apple and Samsung, so a Matter smart plug or lock works with all of them. **Thread**, a low-power mesh network used by many Matter devices, makes battery sensors and locks faster and more reliable.
 
 ## What to ask your landlord (and what you can skip)
 

@@ -435,7 +435,7 @@ This table compares our four picks on the points renters ask about.
 
 ### Amazon Echo Dot (5th Gen): Best voice starter
 
-The Echo Dot is the low-cost way into an Alexa home, and Wirecutter names it as the model to start with. Amazon's developer docs list every Echo Dot from the 2nd Gen on as Matter-enabled, so it can add Matter plugs and bulbs straight into the Alexa app. What surprised us: the same page's list of Thread border routers includes the Echo (4th Gen), Echo Hub and Echo Dot Max, but not the Echo Dot. If you plan to buy Thread sensors later, this speaker won't be their hub.
+The Echo Dot is the low-cost way into an Alexa home and our pick for the [best affordable smart speaker for a small apartment](/blog/best-voice-assistant-speaker-for-small-apartments/), and Wirecutter names it as the model to start with. Amazon's developer docs list every Echo Dot from the 2nd Gen on as Matter-enabled, so it can add Matter plugs and bulbs straight into the Alexa app. What surprised us: the same page's list of Thread border routers includes the Echo (4th Gen), Echo Hub and Echo Dot Max, but not the Echo Dot. If you plan to buy Thread sensors later, this speaker won't be their hub.
 
 A built-in temperature sensor can trigger routines, though one r/amazonecho owner found it reads off near forced-air vents. On an eero network it can also act as an eero Built-in extender. Owner threads are mixed: people like it for timers and reminders, while others in r/amazonecho report random glitches and say they stopped using theirs after a few months.
 
