@@ -350,6 +350,9 @@ related:
 videos:
   - id: M3yg9aINPks
     afterHeading: 3
+    title: 'I Tested 4 Self-Adhesive Floating Shelves, Do They Work?'
+    channel: Toolsdoctor
+    checked: '2026-10-24'
 heroImage: /images/featured/best-floating-shelves-no-drill-for-renters.png
 heroAlt: >-
   Best Floating Shelves No Drill for Renters – 4 Picks by Wall Type –
